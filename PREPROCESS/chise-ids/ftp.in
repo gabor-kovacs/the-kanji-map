@@ -1,0 +1,15 @@
+--<<alternative>>-{
+
+  It is available from
+
+    http://kanji.zinbun.kyoto-u.ac.jp/projects/chise/dist/ids/PACKAGE-VERSION.tar.gz
+
+--[[message/external-body; access-type=URL;
+	URL*0="http://";
+	URL*1="kanji.zinbun.kyoto-u.ac.jp/";
+	URL*2="projects/chise/dist/";
+	URL*3="ids/";
+	URL*4="PACKAGE-VERSION.tar.gz"]]
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="PACKAGE-VERSION.tar.gz"
+--}-<<alternative>>

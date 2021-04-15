@@ -1,0 +1,49 @@
+;;; -*-Emacs-Lisp-*-
+
+;; IDS-MK: installer for IDS.
+
+;;; Code:
+
+(defun config-ids-package ()
+  (let (package-dir)
+    (and (setq package-dir (car command-line-args-left))
+	 (or (string= "NONE" package-dir)
+	     (defvar PACKAGEDIR package-dir)
+	     ))
+    (setq command-line-args-left (cdr command-line-args-left))
+    (load-file "IDS-CFG")
+    (load-file "IDS-ELS")
+					  
+    (princ (format "PACKAGEDIR=%s\n" PACKAGEDIR))
+    ))
+
+(defun compile-ids-package ()
+  (config-ids-package)
+
+  (setq autoload-package-name "ids")
+  (add-to-list 'command-line-args-left ".")
+  (batch-update-directory)
+
+  (add-to-list 'command-line-args-left ".")
+  (Custom-make-dependencies)
+
+  (compile-elisp-modules (append ids-modules-to-compile
+				 '(auto-autoloads custom-load))
+			 ".")
+  )
+
+(defun install-ids-package ()
+  (config-ids-package)
+  (install-elisp-modules (append ids-modules
+				 '(auto-autoloads
+                                   ;; custom-load
+				   ))
+			 "./"
+			 (expand-file-name IDS_PREFIX
+					   (expand-file-name "lisp"
+							     PACKAGEDIR)))
+  (delete-file "./auto-autoloads.el")
+  ;; (delete-file "./custom-load.el")
+  )
+
+;;; IDS-MK ends here

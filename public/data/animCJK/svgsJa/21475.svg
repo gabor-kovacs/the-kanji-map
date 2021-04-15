@@ -1,0 +1,44 @@
+<!--
+AnimCJK 2016-2019 Copyright Francois Mizessyn - https://github.com/parsimonhi/animCJK
+Derived from:
+    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
+    Arphic PL KaitiM GB font
+    Arphic PL UKai font
+You can redistribute and/or modify this file under the terms of the Arphic Public License
+as published by Arphic Technology Co., Ltd.
+You should have received a copy of this license along with this file.
+If not, see http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
+-->
+<svg id="z21475" class="acjk" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+<![CDATA[
+@keyframes zk {
+	to {
+		stroke-dashoffset:0;
+	}
+}
+svg.acjk path[clip-path] {
+	--t:0.8s;
+	animation:zk var(--t) linear forwards var(--d);
+	stroke-dasharray:3337;
+	stroke-dashoffset:3339;
+	stroke-width:128;
+	stroke-linecap:round;
+	fill:none;
+	stroke:#000;
+}
+svg.acjk path[id] {fill:#ccc;}
+]]>
+</style>
+<path id="z21475d1" d="M295 329C276 316 256 308 236 303C229 301 225 302 221 306C214 311 216 316 223 327C263 390 285 499 292 652C293 690 302 720 321 742C326 748 337 759 343 761C357 765 364 744 365 723C365 707 362 691 361 677C346 565 325 453 322 372C322 355 309 339 295 329Z"/>
+<path id="z21475d2" d="M719 639C743 498 777 406 821 362C837 345 839 326 824 311C810 297 778 280 729 258C712 250 694 252 674 259C568 295 441 318 295 329C278 329 305 375 322 372C369 365 540 338 634 323C658 319 674 322 685 332C698 345 706 365 703 395C691 483 674 562 654 632C647 653 715 660 719 639Z"/>
+<path id="z21475d3" d="M365 723C483 705 576 696 738 688C746 687 752 683 754 676C755 669 743 657 719 639C702 626 675 628 654 632C545 654 472 666 361 677C346 680 350 726 365 723Z"/>
+<defs>
+	<clipPath id="z21475c1"><use xlink:href="#z21475d1"/></clipPath>
+	<clipPath id="z21475c2"><use xlink:href="#z21475d2"/></clipPath>
+	<clipPath id="z21475c3"><use xlink:href="#z21475d3"/></clipPath>
+</defs>
+<path style="--d:1s;" pathLength="3333" clip-path="url(#z21475c1)" d="M224 312L288 388L348 757"/>
+<path style="--d:2s;" pathLength="3333" clip-path="url(#z21475c2)" d="M305 334L343 347L687 289L733 311L779 351L680 634"/>
+<path style="--d:3s;" pathLength="3333" clip-path="url(#z21475c3)" d="M370 716L386 697L628 665L749 671"/>
+</svg>

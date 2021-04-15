@@ -1,0 +1,15 @@
+;;; -*-Emacs-Lisp-*-
+
+;; IDS-ELS: list of IDS modules to install
+
+;;; Code:
+
+(setq ids-modules-to-compile
+      '(ids cbeta ids-util ids-rw ids-read ids-dump ids-find))
+
+(setq ids-modules-not-to-compile nil)
+
+(setq ids-modules (append ids-modules-to-compile
+			  ids-modules-not-to-compile))
+
+;;; IDS-ELS ends here

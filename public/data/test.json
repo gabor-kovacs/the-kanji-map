@@ -1,0 +1,430 @@
+[
+	{
+		"堺": {
+			"jishoData": {
+				"query": "堺",
+				"found": true,
+				"newspaperFrequencyRank": "1846",
+				"strokeCount": 12,
+				"meaning": "world",
+				"kunyomi": ["さかい"],
+				"onyomi": ["カイ"],
+				"onyomiExamples": [],
+				"kunyomiExamples": [],
+				"radical": { "symbol": "土", "meaning": "earth" },
+				"parts": ["ハ", "儿", "土", "田"],
+				"strokeOrderDiagramUri": "https://classic.jisho.org/static/images/stroke_diagrams/22586_frames.png",
+				"strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0583a.svg",
+				"strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/583a.gif",
+				"uri": "https://jisho.org/search/%E5%A0%BA%23kanji"
+			},
+			"kanjialiveData": { "error": "No kanji found." }
+		}
+	},
+	{
+		"夅": {
+			"jishoData": {
+				"query": "夅",
+				"found": true,
+				"strokeCount": 6,
+				"meaning": "to descend, to come down from heaven, to send down",
+				"kunyomi": ["お.りる", "お.ろす", "ふ.る", "くだ.る", "くだ.す"],
+				"onyomi": ["コウ", "ゴ"],
+				"onyomiExamples": [],
+				"kunyomiExamples": [],
+				"radical": { "symbol": "夂", "meaning": "go" },
+				"parts": [],
+				"strokeOrderDiagramUri": "https://classic.jisho.org/static/images/stroke_diagrams/22789_frames.png",
+				"strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05905.svg",
+				"strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5905.gif",
+				"uri": "https://jisho.org/search/%E5%A4%85%23kanji"
+			},
+			"kanjialiveData": { "error": "No kanji found." }
+		}
+	},
+	{
+		"隽": {
+			"jishoData": {
+				"query": "隽",
+				"found": true,
+				"strokeCount": 10,
+				"meaning": "superior, outstanding, talented",
+				"kunyomi": [],
+				"onyomi": [],
+				"onyomiExamples": [],
+				"kunyomiExamples": [],
+				"radical": { "symbol": "隹", "meaning": "small bird" },
+				"parts": [],
+				"strokeOrderDiagramUri": "https://classic.jisho.org/static/images/stroke_diagrams/38589_frames.png",
+				"strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096bd.svg",
+				"strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96bd.gif",
+				"uri": "https://jisho.org/search/%E9%9A%BD%23kanji"
+			},
+			"kanjialiveData": { "error": "No kanji found." }
+		}
+	},
+	{
+		"踪": {
+			"jishoData": {
+				"query": "踪",
+				"found": true,
+				"taughtIn": "junior high",
+				"strokeCount": 15,
+				"meaning": "remains, clue, footprint",
+				"kunyomi": ["あと"],
+				"onyomi": ["ソウ", "ショウ"],
+				"onyomiExamples": [
+					{ "example": "踪跡", "reading": "ソウセキ", "meaning": "traces, footprints, whereabouts" }
+				],
+				"kunyomiExamples": [],
+				"radical": { "symbol": "足", "forms": ["⻊"], "meaning": "foot" },
+				"parts": ["二", "口", "宀", "小", "止", "示", "足"],
+				"strokeOrderDiagramUri": "https://classic.jisho.org/static/images/stroke_diagrams/36394_frames.png",
+				"strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e2a.svg",
+				"strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e2a.gif",
+				"uri": "https://jisho.org/search/%E8%B8%AA%23kanji"
+			},
+			"kanjialiveData": { "error": "No kanji found." }
+		}
+	},
+	{
+		"栞": {
+			"jishoData": {
+				"query": "栞",
+				"found": true,
+				"jlptLevel": "N1",
+				"strokeCount": 10,
+				"meaning": "bookmark, guidebook",
+				"kunyomi": ["しおり"],
+				"onyomi": ["カン"],
+				"onyomiExamples": [],
+				"kunyomiExamples": [{ "example": "栞", "reading": "しおり", "meaning": "bookmark, guidebook" }],
+				"radical": { "symbol": "木", "meaning": "tree" },
+				"parts": ["干", "木"],
+				"strokeOrderDiagramUri": "https://classic.jisho.org/static/images/stroke_diagrams/26654_frames.png",
+				"strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0681e.svg",
+				"strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/681e.gif",
+				"uri": "https://jisho.org/search/%E6%A0%9E%23kanji"
+			},
+			"kanjialiveData": { "error": "No kanji found." }
+		}
+	},
+	{
+		"氺": {
+			"jishoData": {
+				"query": "氺",
+				"found": true,
+				"strokeCount": 5,
+				"meaning": "water radical variant (no. 85)",
+				"kunyomi": [],
+				"onyomi": ["スイ"],
+				"onyomiExamples": [],
+				"kunyomiExamples": [],
+				"radical": { "symbol": "水", "forms": ["氵", "氺"], "meaning": "water" },
+				"parts": [],
+				"strokeOrderDiagramUri": "https://classic.jisho.org/static/images/stroke_diagrams/27706_frames.png",
+				"strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c3a.svg",
+				"strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c3a.gif",
+				"uri": "https://jisho.org/search/%E6%B0%BA%23kanji"
+			},
+			"kanjialiveData": { "error": "No kanji found." }
+		}
+	},
+	{
+		"冴": {
+			"jishoData": {
+				"query": "冴",
+				"found": true,
+				"jlptLevel": "N1",
+				"newspaperFrequencyRank": "2341",
+				"strokeCount": 7,
+				"meaning": "be clear, serene, cold, skilful",
+				"kunyomi": ["さ.える", "こお.る", "ひ.える"],
+				"onyomi": ["ゴ", "コ"],
+				"onyomiExamples": [{ "example": "冴寒", "reading": "ゴカン", "meaning": "extreme cold" }],
+				"kunyomiExamples": [
+					{
+						"example": "冴える",
+						"reading": "さえる",
+						"meaning": "to be clear (of a sight, sound, colour, etc.), to be bright, to be vivid, to be crisp, to be clear-headed, to be alert, to be on the ball, to be wide awake, to look upbeat, to be perky, to be cheerful, to master (a skill), to excel at, to cleanly execute, to be satisfying, to become frigid, to become intensely cold"
+					}
+				],
+				"radical": { "symbol": "冫", "meaning": "ice" },
+				"parts": ["冫", "牙"],
+				"strokeOrderDiagramUri": "https://classic.jisho.org/static/images/stroke_diagrams/20916_frames.png",
+				"strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b4.svg",
+				"strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b4.gif",
+				"uri": "https://jisho.org/search/%E5%86%B4%23kanji"
+			},
+			"kanjialiveData": { "error": "No kanji found." }
+		}
+	},
+	{
+		"臤": {
+			"jishoData": {
+				"query": "臤",
+				"found": true,
+				"strokeCount": 9,
+				"meaning": "hard, wise",
+				"kunyomi": ["かた.い"],
+				"onyomi": ["カン", "ケン", "コウ", "キョウ"],
+				"onyomiExamples": [],
+				"kunyomiExamples": [],
+				"radical": { "symbol": "臣", "meaning": "minster, official" },
+				"parts": [],
+				"strokeOrderDiagramUri": "https://classic.jisho.org/static/images/stroke_diagrams/33252_frames.png",
+				"strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081e4.svg",
+				"strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81e4.gif",
+				"uri": "https://jisho.org/search/%E8%87%A4%23kanji"
+			},
+			"kanjialiveData": { "error": "No kanji found." }
+		}
+	},
+	{
+		"強": {
+			"jishoData": {
+				"query": "強",
+				"found": true,
+				"taughtIn": "grade 2",
+				"jlptLevel": "N4",
+				"newspaperFrequencyRank": "112",
+				"strokeCount": 11,
+				"meaning": "strong",
+				"kunyomi": ["つよ.い", "つよ.まる", "つよ.める", "し.いる", "こわ.い"],
+				"onyomi": ["キョウ", "ゴウ"],
+				"onyomiExamples": [
+					{
+						"example": "強",
+						"reading": "キョウ",
+						"meaning": "a little over, a little more than, powerhouse, one of the biggest, one of the most powerful"
+					},
+					{
+						"example": "強化",
+						"reading": "キョウカ",
+						"meaning": "strengthening, intensifying, reinforcement, enhancement, solidification"
+					},
+					{
+						"example": "列強",
+						"reading": "レッキョウ",
+						"meaning": "major powers of the world, great powers"
+					},
+					{
+						"example": "屈強",
+						"reading": "クッキョウ",
+						"meaning": "robust, brawny, muscular, strong, sturdy"
+					},
+					{ "example": "強盗", "reading": "ゴウトウ", "meaning": "robber, mugger, robbery, burglary" },
+					{
+						"example": "強引",
+						"reading": "ゴウイン",
+						"meaning": "overbearing, coercive, pushy, forcible, high-handed"
+					}
+				],
+				"kunyomiExamples": [
+					{
+						"example": "強い",
+						"reading": "つよい",
+						"meaning": "strong, potent, competent, domineering, tough, strong, brawny, powerful, healthy, rugged, good (at), skilled, knowledgeable, being able to handle, know how to deal (with), durable (against), resistant (to), resilient, firm, rigid, solid, intense, strong, fierce, high, dependable, trustworthy"
+					},
+					{ "example": "強い心", "reading": "つよいこころ", "meaning": "stout heart, strong mind" },
+					{ "example": "強まる", "reading": "つよまる", "meaning": "to get strong, to gain strength" },
+					{
+						"example": "強める",
+						"reading": "つよめる",
+						"meaning": "to strengthen, to emphasize, to emphasise"
+					},
+					{
+						"example": "強いる",
+						"reading": "しいる",
+						"meaning": "to force, to compel, to coerce, to press, to impose"
+					},
+					{
+						"example": "強い",
+						"reading": "こわい",
+						"meaning": "tough, stiff, hard, inflexible, obstinate, stubborn, tired, worn out"
+					},
+					{
+						"example": "強飯",
+						"reading": "こわめし",
+						"meaning": "glutinous rice with red beans (eaten on celebratory occasions), mochi rice with red beans"
+					}
+				],
+				"radical": { "symbol": "弓", "meaning": "bow" },
+				"parts": ["厶", "弓", "虫"],
+				"strokeOrderDiagramUri": "https://classic.jisho.org/static/images/stroke_diagrams/24375_frames.png",
+				"strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f37.svg",
+				"strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f37.gif",
+				"uri": "https://jisho.org/search/%E5%BC%B7%23kanji"
+			},
+			"kanjialiveData": {
+				"kanji": {
+					"character": "強",
+					"meaning": { "english": "strong" },
+					"strokes": {
+						"count": 11,
+						"timings": [
+							0.703,
+							1.799,
+							2.799,
+							5.066,
+							5.933,
+							6.866,
+							7.999,
+							9.266,
+							10.066,
+							11.066,
+							11.799,
+							12.466667
+						],
+						"images": [
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_1.svg",
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_2.svg",
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_3.svg",
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_4.svg",
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_5.svg",
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_6.svg",
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_7.svg",
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_8.svg",
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_9.svg",
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_10.svg",
+							"https://media.kanjialive.com/kanji_strokes/tsuyo(i)_11.svg"
+						]
+					},
+					"onyomi": { "romaji": "kyou, gou", "katakana": "キョウ、ゴウ" },
+					"kunyomi": { "romaji": "tsuyo, tsuyoi, tsuyomeru, tsuyomaru, shi, shiiru", "hiragana": "つよ、し" },
+					"video": {
+						"poster": "https://media.kanjialive.com/kanji_strokes/tsuyo(i)_11.svg",
+						"mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tsuyo(i)_00.mp4",
+						"webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tsuyo(i)_00.webm"
+					}
+				},
+				"radical": {
+					"character": "",
+					"strokes": 3,
+					"image": "https://media.kanjialive.com/radical_character/yumihen.svg",
+					"position": {
+						"hiragana": "へん",
+						"romaji": "hen",
+						"icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+					},
+					"name": { "hiragana": "ゆみへん", "romaji": "yumihen" },
+					"meaning": { "english": "bow（in archery）" },
+					"animation": [
+						"https://media.kanjialive.com/rad_frames/yumihen0.svg",
+						"https://media.kanjialive.com/rad_frames/yumihen1.svg",
+						"https://media.kanjialive.com/rad_frames/yumihen2.svg"
+					]
+				},
+				"references": { "grade": 2, "kodansha": "349", "classic_nelson": "1571" },
+				"examples": [
+					{
+						"japanese": "勉強する（べんきょうする）",
+						"meaning": { "english": "study" },
+						"audio": {
+							"opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_a.opus",
+							"aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuyo(i)_06_a.aac",
+							"ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuyo(i)_06_a.ogg",
+							"mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuyo(i)_06_a.mp3"
+						}
+					},
+					{
+						"japanese": "強化する（きょうかする）",
+						"meaning": { "english": "strengthen" },
+						"audio": {
+							"opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_b.opus",
+							"aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuyo(i)_06_b.aac",
+							"ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuyo(i)_06_b.ogg",
+							"mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuyo(i)_06_b.mp3"
+						}
+					},
+					{
+						"japanese": "強力な（きょうりょくな）",
+						"meaning": { "english": "powerful" },
+						"audio": {
+							"opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_c.opus",
+							"aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuyo(i)_06_c.aac",
+							"ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuyo(i)_06_c.ogg",
+							"mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuyo(i)_06_c.mp3"
+						}
+					},
+					{
+						"japanese": "強情な（ごうじょうな）",
+						"meaning": { "english": "obstinate" },
+						"audio": {
+							"opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_d.opus",
+							"aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuyo(i)_06_d.aac",
+							"ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuyo(i)_06_d.ogg",
+							"mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuyo(i)_06_d.mp3"
+						}
+					},
+					{
+						"japanese": "強引な（ごういんな）",
+						"meaning": { "english": "coercive" },
+						"audio": {
+							"opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_e.opus",
+							"aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuyo(i)_06_e.aac",
+							"ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuyo(i)_06_e.ogg",
+							"mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuyo(i)_06_e.mp3"
+						}
+					},
+					{
+						"japanese": "強盗（ごうとう）",
+						"meaning": { "english": "robbery" },
+						"audio": {
+							"opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_f.opus",
+							"aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuyo(i)_06_f.aac",
+							"ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuyo(i)_06_f.ogg",
+							"mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuyo(i)_06_f.mp3"
+						}
+					},
+					{
+						"japanese": "強い（つよい）",
+						"meaning": { "english": "strong" },
+						"audio": {
+							"opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_g.opus",
+							"aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuyo(i)_06_g.aac",
+							"ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuyo(i)_06_g.ogg",
+							"mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuyo(i)_06_g.mp3"
+						}
+					},
+					{
+						"japanese": "強まる（つよまる）",
+						"meaning": { "english": "get strong [v.i.]" },
+						"audio": {
+							"opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_h.opus",
+							"aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuyo(i)_06_h.aac",
+							"ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuyo(i)_06_h.ogg",
+							"mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuyo(i)_06_h.mp3"
+						}
+					},
+					{
+						"japanese": "強める（つよめる）",
+						"meaning": { "english": "strengthen [v.t.]" },
+						"audio": {
+							"opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_i.opus",
+							"aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuyo(i)_06_i.aac",
+							"ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuyo(i)_06_i.ogg",
+							"mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuyo(i)_06_i.mp3"
+						}
+					},
+					{
+						"japanese": "強いる（しいる）",
+						"meaning": { "english": "force, compel" },
+						"audio": {
+							"opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_j.opus",
+							"aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuyo(i)_06_j.aac",
+							"ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuyo(i)_06_j.ogg",
+							"mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuyo(i)_06_j.mp3"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"CDP-8C6A": {
+			"jishoData": { "query": "CDP-8C6A", "found": false },
+			"kanjialiveData": { "error": "No kanji found." }
+		}
+	}
+]
