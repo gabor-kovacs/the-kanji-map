@@ -46,7 +46,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 The Kanji Map uses the Ideographic Description Sequence found in the [CHISE project](http://www.chise.org/ids/index.html). The CHISE-IDS database is published under the GNU General
 
 <p>
-  Non-standard/unicode kanji are displayed as images and imported from{' '}
+  Non-standard/unicode kanji are displayed as images and imported from
   <a href="https://glyphwiki.org/" target="_blank" rel="noreferrer">
     GlyphWiki
   </a>
@@ -54,7 +54,7 @@ The Kanji Map uses the Ideographic Description Sequence found in the [CHISE proj
 </p>
 
   <p>
-    Stroke animations are provided by{' '}
+    Stroke animations are provided by
     <a target="_blank" href="https://github.com/parsimonhi/animCJK" rel="noreferrer">
       animCJK
     </a>
