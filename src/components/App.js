@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 
 import { useLocation, useHistory } from 'react-router-dom';
 
@@ -14,9 +14,6 @@ import Graph from './Graph';
 // STYLES
 import styled from 'styled-components/macro';
 import { useSpring, animated } from 'react-spring';
-
-import CircularProgress from '@material-ui/core/CircularProgress';
-
 import useMediaQuery from '@material-ui/core/useMediaQuery';
 
 // A custom hook that builds on useLocation to parse
@@ -28,10 +25,6 @@ function useQuery() {
 export default function App({ chise, data }) {
 	// fetching kanji info from JISHO and KanjiAlive
 	const [kanjiInfo, setKanjiInfo] = useState('');
-	//quickly typed input
-	const [input, setInput] = useState('');
-	// debounced search term
-	const [searchTerm, setSearchTerm] = useState('');
 	// current kanji passed down as prop
 	const [current, setCurrent] = useState({
 		kanji: '',
@@ -40,23 +33,6 @@ export default function App({ chise, data }) {
 	});
 
 	const [kanjiHistory, setKanjiHistory] = useState(Array(4).fill(null));
-
-	// UPDATE CURRENT KANJI PASSED TO GRAPH
-	useEffect(() => {
-		chise && setCurrent(chise[searchTerm?.charAt(0)]);
-	}, [chise, searchTerm]);
-
-	// Set search term with debounce
-	const debounceSetSearchTerm = useCallback(
-		debounce((val) => setSearchTerm(val), 500),
-		[]
-	);
-
-	const handleSearchChange = (e) => {
-		const nextValue = e.target.value;
-		setInput(nextValue);
-		debounceSetSearchTerm(nextValue);
-	};
 
 	useEffect(() => {
 		// PUSH HISTORY
@@ -181,17 +157,16 @@ export default function App({ chise, data }) {
 	// READ QUERY IF EXISTS ON FIRST LOAD
 	let query = useQuery();
 	useEffect(() => {
-		query.get('k') && setInput(query.get('k'));
-		query.get('k') && debounceSetSearchTerm(query.get('k'));
+		const kanji = query.get('k');
+		chise && kanji && chise[kanji] && setCurrent(chise[kanji]);
 	}, []);
 
 	// UPDATE ON BACK BUTTON OR HISTORY CHANGE
 	useEffect(() => {
 		history.listen((location) => {
 			let params = new URLSearchParams(document.location.search);
-			let k = params.get('k');
-			k && setInput(k);
-			k && debounceSetSearchTerm(k);
+			let kanji = params.get('k');
+			chise && kanji && chise[kanji] && setCurrent(chise[kanji]);
 		});
 	}, [history]);
 
@@ -234,11 +209,8 @@ export default function App({ chise, data }) {
 						<MobileLayout style={layoutSpring}>
 							<Kanji
 								{...{
-									setInput,
-									debounceSetSearchTerm,
 									current,
 									kanjiInfo,
-									searchTerm,
 									focusKanji,
 									layoutView,
 									normalView,
@@ -253,8 +225,7 @@ export default function App({ chise, data }) {
 									data,
 									chise,
 									current,
-									setInput,
-									debounceSetSearchTerm,
+									setCurrent,
 									dimensions,
 									layoutView,
 									normalView,
@@ -286,11 +257,8 @@ export default function App({ chise, data }) {
 							<DrawInput {...{ drawInputOpen, setDrawInputOpen, mobile, setInputValue, inputRef }} />
 							<Kanji
 								{...{
-									setInput,
-									debounceSetSearchTerm,
 									current,
 									kanjiInfo,
-									searchTerm,
 									focusKanji,
 									layoutView,
 									normalView,
@@ -307,8 +275,7 @@ export default function App({ chise, data }) {
 									data,
 									chise,
 									current,
-									setInput,
-									debounceSetSearchTerm,
+									setCurrent,
 									dimensions,
 									layoutView,
 									normalView,
@@ -322,6 +289,8 @@ export default function App({ chise, data }) {
 		</>
 	);
 }
+
+// * STYLES **************************************************************************************************
 
 const AppWrapper = styled.div`
 	width: 100%;
@@ -337,84 +306,85 @@ const MobileLayout = styled(animated.div)`
 	padding-right: 16px;
 	height: calc(100% - 100px);
 
+	// calc is used in gradient to prevent jagged edges
 	background-color: #fff;
 	background-image: linear-gradient(0deg, #ffffff00 0%, #ffffff 90%, #ffffff 100%),
 		radial-gradient(
 			circle at 100% 150%,
 			#2b99cf 24%,
-			white 24%,
+			white calc(24% + 1px),
 			white 28%,
-			#2b99cf 28%,
+			#2b99cf calc(28% + 1px),
 			#2b99cf 36%,
-			white 36%,
+			white calc(36% + 1px),
 			white 40%,
-			transparent 40%,
+			transparent calc(40% + 1px),
 			transparent
 		),
 		radial-gradient(
 			circle at 0 150%,
 			#2b99cf 24%,
-			white 24%,
+			white calc(24% + 1px),
 			white 28%,
-			#2b99cf 28%,
+			#2b99cf calc(28% + 1px),
 			#2b99cf 36%,
-			white 36%,
+			white calc(36% + 1px),
 			white 40%,
-			transparent 40%,
+			transparent calc(40% + 1px),
 			transparent
 		),
 		radial-gradient(
 			circle at 50% 100%,
 			white 10%,
-			#2b99cf 10%,
+			#2b99cf calc(10% + 1px),
 			#2b99cf 23%,
-			white 23%,
+			white calc(23% + 1px),
 			white 30%,
-			#2b99cf 30%,
+			#2b99cf calc(30% + 1px),
 			#2b99cf 43%,
-			white 43%,
+			white calc(43% + 1px),
 			white 50%,
-			#2b99cf 50%,
+			#2b99cf calc(50% + 1px),
 			#2b99cf 63%,
-			white 63%,
+			white calc(63% + 1px),
 			white 71%,
-			transparent 71%,
+			transparent calc(71% + 1px),
 			transparent
 		),
 		radial-gradient(
 			circle at 100% 50%,
 			white 5%,
-			#2b99cf 5%,
+			#2b99cf calc(5% + 1px),
 			#2b99cf 15%,
-			white 15%,
+			white calc(15% + 1px),
 			white 20%,
-			#2b99cf 20%,
+			#2b99cf calc(20% + 1px),
 			#2b99cf 29%,
-			white 29%,
+			white calc(29% + 1px),
 			white 34%,
-			#2b99cf 34%,
+			#2b99cf calc(34% + 1px),
 			#2b99cf 44%,
-			white 44%,
+			white calc(44% + 1px),
 			white 49%,
-			transparent 49%,
+			transparent calc(49% + 1px),
 			transparent
 		),
 		radial-gradient(
 			circle at 0 50%,
 			white 5%,
-			#2b99cf 5%,
+			#2b99cf calc(5% + 1px),
 			#2b99cf 15%,
-			white 15%,
+			white calc(15% + 1px),
 			white 20%,
-			#2b99cf 20%,
+			#2b99cf calc(20% + 1px),
 			#2b99cf 29%,
-			white 29%,
+			white calc(29% + 1px),
 			white 34%,
-			#2b99cf 34%,
+			#2b99cf calc(34% + 1px),
 			#2b99cf 44%,
-			white 44%,
+			white calc(44% + 1px),
 			white 49%,
-			transparent 49%,
+			transparent calc(49% + 1px),
 			transparent
 		);
 
@@ -428,18 +398,6 @@ const MobileLayout = styled(animated.div)`
 		'graphArea graphArea graphArea';
 `;
 
-const MobileLoading = styled.div`
-	position: absolute;
-	width: 100%;
-	top: 100px;
-	height: calc(100% - 100px);
-
-	background-color: #fff;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-`;
-
 const DesktopLayout = styled.div`
 	position: absolute;
 	top: 50px;
@@ -447,92 +405,89 @@ const DesktopLayout = styled.div`
 	padding-left: 16px;
 	padding-right: 16px;
 	height: calc(100% - 50px);
-	/* 
-	max-width: 1200px;
-	margin: 0 auto; */
 
+	// calc is used in gradient to prevent jagged edges
 	background-color: #fff;
 	background-image: linear-gradient(0deg, #ffffff00 0%, #ffffff 90%, #ffffff 100%),
 		radial-gradient(
 			circle at 100% 150%,
 			#2b99cf 24%,
-			white 24%,
+			white calc(24% + 1px),
 			white 28%,
-			#2b99cf 28%,
+			#2b99cf calc(28% + 1px),
 			#2b99cf 36%,
-			white 36%,
+			white calc(36% + 1px),
 			white 40%,
-			transparent 40%,
+			transparent calc(40% + 1px),
 			transparent
 		),
 		radial-gradient(
 			circle at 0 150%,
 			#2b99cf 24%,
-			white 24%,
+			white calc(24% + 1px),
 			white 28%,
-			#2b99cf 28%,
+			#2b99cf calc(28% + 1px),
 			#2b99cf 36%,
-			white 36%,
+			white calc(36% + 1px),
 			white 40%,
-			transparent 40%,
+			transparent calc(40% + 1px),
 			transparent
 		),
 		radial-gradient(
 			circle at 50% 100%,
 			white 10%,
-			#2b99cf 10%,
+			#2b99cf calc(10% + 1px),
 			#2b99cf 23%,
-			white 23%,
+			white calc(23% + 1px),
 			white 30%,
-			#2b99cf 30%,
+			#2b99cf calc(30% + 1px),
 			#2b99cf 43%,
-			white 43%,
+			white calc(43% + 1px),
 			white 50%,
-			#2b99cf 50%,
+			#2b99cf calc(50% + 1px),
 			#2b99cf 63%,
-			white 63%,
+			white calc(63% + 1px),
 			white 71%,
-			transparent 71%,
+			transparent calc(71% + 1px),
 			transparent
 		),
 		radial-gradient(
 			circle at 100% 50%,
 			white 5%,
-			#2b99cf 5%,
+			#2b99cf calc(5% + 1px),
 			#2b99cf 15%,
-			white 15%,
+			white calc(15% + 1px),
 			white 20%,
-			#2b99cf 20%,
+			#2b99cf calc(20% + 1px),
 			#2b99cf 29%,
-			white 29%,
+			white calc(29% + 1px),
 			white 34%,
-			#2b99cf 34%,
+			#2b99cf calc(34% + 1px),
 			#2b99cf 44%,
-			white 44%,
+			white calc(44% + 1px),
 			white 49%,
-			transparent 49%,
+			transparent calc(49% + 1px),
 			transparent
 		),
 		radial-gradient(
 			circle at 0 50%,
 			white 5%,
-			#2b99cf 5%,
+			#2b99cf calc(5% + 1px),
 			#2b99cf 15%,
-			white 15%,
+			white calc(15% + 1px),
 			white 20%,
-			#2b99cf 20%,
+			#2b99cf calc(20% + 1px),
 			#2b99cf 29%,
-			white 29%,
+			white calc(29% + 1px),
 			white 34%,
-			#2b99cf 34%,
+			#2b99cf calc(34% + 1px),
 			#2b99cf 44%,
-			white 44%,
+			white calc(44% + 1px),
 			white 49%,
-			transparent 49%,
+			transparent calc(49% + 1px),
 			transparent
 		);
 
-	/* background-size: cover, 100px 50px, 100px 50px, 100px 50px, 100px 50px, 100px 50px; */
 	background-size: cover, 150px 75px, 150px 75px, 150px 75px, 150px 75px, 150px 75px;
 
 	overflow: hidden;

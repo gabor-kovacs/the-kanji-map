@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components/macro';
 
-import { joyoList, jinmeiyoList } from './joyojinmeiyo';
+import { joyoList } from '../data/joyo';
+import { jinmeiyoList } from '../data/jinmeiyo';
 
 import { useSpring, animated } from 'react-spring';
 
@@ -233,6 +234,8 @@ export default function Kanji({
 	);
 }
 
+// * STYLES **************************************************************************************************
+
 const KanjiWrapper = styled(animated.div)`
 	position: relative;
 	grid-area: kanjiArea;
@@ -246,6 +249,7 @@ const KanjiWrapper = styled(animated.div)`
 	grid-template-areas:
 		'main info '
 		'anim info ';
+	/* box-shadow: inset 0 0 16px #fff; */
 `;
 
 const Main = styled.div`
@@ -277,7 +281,6 @@ const Animation = styled.div`
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	/* justify-content: flex-start; */
 	width: 100%;
 	height: 100%;
 	overflow: hidden;

@@ -1,17 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
-
-import App from './components/App';
-import About from './components/About';
-import Kanjis from './components/Kanjis';
-import Header from './components/Header';
 
 import Main from './components/Main';
 
 import { createGlobalStyle } from 'styled-components';
 import { normalize } from 'styled-normalize';
-
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 const GlobalStyle = createGlobalStyle`
   ${normalize}
@@ -21,7 +14,6 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    /* position: fixed; */
     width: 100vw;
     height: 100vh;
     height: -webkit-fill-available;
@@ -48,11 +40,6 @@ const GlobalStyle = createGlobalStyle`
     height: 100vh;
     height: -webkit-fill-available;
 }
-
-/* canvas {
-  width: 100% !important;
-} */
-
 `;
 
 ReactDOM.render(

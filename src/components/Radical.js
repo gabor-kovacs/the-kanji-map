@@ -118,6 +118,8 @@ export default function Radical({ kanjiInfo, focusRadical, layoutView, normalVie
 	);
 }
 
+// * STYLES **************************************************************************************************
+
 const RadicalWrapper = styled(animated.div)`
 	grid-area: radicalArea;
 	position: relative;

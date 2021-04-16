@@ -1,4 +1,3 @@
-// import { render } from 'react-dom'
 import React, { useState, useEffect } from 'react';
 import { useSprings, animated, config } from 'react-spring';
 

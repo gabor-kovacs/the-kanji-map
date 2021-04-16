@@ -8,6 +8,8 @@ import HighlightOffIcon from '@material-ui/icons/HighlightOff';
 import { createMuiTheme, ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';
 import { useSpring, animated } from 'react-spring';
 
+// * using handwriting.js *******************************************************************************
+
 export default function DrawInput({ drawInputOpen, setDrawInputOpen, mobile, setInputValue, inputRef }) {
 	//  innitialize draw input
 	const [canvas, setCanvas] = useState(null);
@@ -57,7 +59,6 @@ export default function DrawInput({ drawInputOpen, setDrawInputOpen, mobile, set
 	const drawInputSpringProps = useSpring({
 		opacity: drawInputOpen ? 1 : 0,
 		scale: drawInputOpen ? 1 : 0,
-		// config: config.wobbly,
 	});
 	const backDropColor = useSpring({
 		background: drawInputOpen ? 'rgba(0, 0, 0, 0.5)' : 'rgba(0, 0, 0, 0)',
@@ -99,6 +100,8 @@ export default function DrawInput({ drawInputOpen, setDrawInputOpen, mobile, set
 		</>
 	);
 }
+
+// * STYLES **************************************************************************************************
 
 const BackDrop = styled(animated.div)`
 	position: absolute;

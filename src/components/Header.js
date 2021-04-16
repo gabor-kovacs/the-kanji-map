@@ -11,7 +11,7 @@ export default function Header() {
 		<HeaderWrapper>
 			<ImageLink to="/" exact>
 				<div>
-					<img src="/assets/images/logo.svg" alt="Logo" />
+					<img src="/assets/images/logo.svg" alt="Logo" height="50px" width="62.66px" />
 					<h1>The Kanji Map</h1>
 				</div>
 			</ImageLink>
@@ -46,10 +46,10 @@ export default function Header() {
 	);
 }
 
+// * STYLES **************************************************************************************************
+
 const HeaderWrapper = styled.div`
 	height: 50px;
-	/* max-width: 1200px;
-	margin: 0 auto; */
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -70,18 +70,6 @@ const HeaderWrapper = styled.div`
 		margin: 0;
 		line-height: 50px;
 		font-size: 1.2rem;
-		span {
-			display: inline-block;
-			color: #c4c4c4;
-			font-weight: 100;
-			font-style: italic;
-		}
-	}
-
-	h2 {
-		padding: 0 16px 0 10px;
-		font-size: 1rem;
-		font-weight: 400;
 	}
 `;
 

@@ -1,0 +1,79 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#loader {
+	pointer-events: none;
+	position: absolute;
+	z-index: 9999;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background: #fff;
+	opacity: 1;
+	transition: opacity 500ms;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.lds-dual-ring {
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+}
+.lds-dual-ring:after {
+	content: ' ';
+	display: block;
+	width: 64px;
+	height: 64px;
+	margin: 8px;
+	border-radius: 50%;
+	border: 6px solid #2b99cf;
+	border-color: #2b99cf transparent #2b99cf transparent;
+	animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+.header-div {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: flex;
+	margin: 0;
+	padding: 0;
+	font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu,
+		roboto, noto, arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+}
+
+.header-div svg {
+	margin: 8px 16px;
+	height: 34px;
+}
+
+.header-h1 {
+	display: inline-block;
+	white-space: nowrap;
+	height: 50px;
+	margin: 0;
+	line-height: 50px;
+	font-size: 1.2rem;
+}

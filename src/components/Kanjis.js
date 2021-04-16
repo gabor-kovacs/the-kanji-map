@@ -9,7 +9,8 @@ import CloseIcon from '@material-ui/icons/Close';
 import Button from '@material-ui/core/Button';
 import { createMuiTheme, ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';
 
-import { joyoList, jinmeiyoList } from './joyojinmeiyo';
+import { joyoList } from '../data/joyo';
+import { jinmeiyoList } from '../data/jinmeiyo';
 
 const theme = createMuiTheme({
 	palette: {
@@ -153,6 +154,8 @@ export default function Kanjis({ data }) {
 	);
 }
 
+// * STYLES **************************************************************************************************
+
 const KanjisWrapper = styled.div`
 	max-width: 1320px;
 	margin: 0 auto;
@@ -160,9 +163,4 @@ const KanjisWrapper = styled.div`
 	display: flex;
 	flex-direction: column;
 	padding: 16px;
-`;
-
-const SearchDiv = styled.div`
-	display: flex;
-	align-items: center;
 `;

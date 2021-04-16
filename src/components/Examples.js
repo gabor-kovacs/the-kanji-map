@@ -42,75 +42,78 @@ export default function Examples({ kanjiInfo, focusExamples, layoutView, normalV
 	};
 
 	return (
-		<ExamplesWrapper style={springProps} onClick={focusExamples}>
-			<CloseIcon style={closeIconSpringProps}>
-				<IconButton
-					aria-label="Close"
-					size="small"
-					style={{ cursor: 'inherit', color: '#c4c4c4' }}
-					onClick={handleClose}
-				>
-					<HighlightOffIcon />
-				</IconButton>
-			</CloseIcon>
-			<h3>Examples</h3>
-			{layoutView.examplesFocused || !mobile ? (
-				<>
-					{/* KANJIALIVE With AUDIO */}
-					{kanjiInfo?.kanjialiveData?.examples && <h5>Examples with audio</h5>}
-					{kanjiInfo?.kanjialiveData?.examples?.map((example, index) => {
-						return (
-							<AudioExampleDiv key={index}>
-								<p>
-									<span>{example?.japanese}&nbsp;&nbsp;&nbsp;</span>
-									<span>{example?.meaning?.english}&nbsp;&nbsp;&nbsp;</span>
-								</p>
-								<IconButton
-									aria-label="Play sound"
-									size="small"
-									onClick={() => playSound(example?.audio?.mp3)}
-								>
-									<PlayCircleFilledIcon fontSize="small" />
-								</IconButton>
-							</AudioExampleDiv>
-						);
-					})}
-					{/* JISHO */}
-					{kanjiInfo?.jishoData?.onyomiExamples && kanjiInfo?.jishoData?.onyomiExamples?.length !== 0 && (
-						<h5>Onyomi Examples</h5>
-					)}
-					{kanjiInfo?.jishoData?.onyomiExamples?.map((onExample, index) => (
-						<p key={index}>
-							{onExample?.example}&nbsp;&nbsp;（{onExample?.reading}）&nbsp;&nbsp;&nbsp;
-							{onExample?.meaning}
-						</p>
-					))}
+		<>
+			<ExamplesWrapper style={springProps} onClick={focusExamples}>
+				<CloseIcon style={closeIconSpringProps}>
+					<IconButton
+						aria-label="Close"
+						size="small"
+						style={{ cursor: 'inherit', color: '#c4c4c4' }}
+						onClick={handleClose}
+					>
+						<HighlightOffIcon />
+					</IconButton>
+				</CloseIcon>
+				<h3>Examples</h3>
+				{layoutView.examplesFocused || !mobile ? (
+					<>
+						{/* KANJIALIVE With AUDIO */}
+						{kanjiInfo?.kanjialiveData?.examples && <h5>Examples with audio</h5>}
+						{kanjiInfo?.kanjialiveData?.examples?.map((example, index) => {
+							return (
+								<AudioExampleDiv key={index}>
+									<p>
+										<span>{example?.japanese}&nbsp;&nbsp;&nbsp;</span>
+										<span>{example?.meaning?.english}&nbsp;&nbsp;&nbsp;</span>
+									</p>
+									<IconButton
+										aria-label="Play sound"
+										size="small"
+										onClick={() => playSound(example?.audio?.mp3)}
+									>
+										<PlayCircleFilledIcon fontSize="small" />
+									</IconButton>
+								</AudioExampleDiv>
+							);
+						})}
+						{/* JISHO */}
+						{kanjiInfo?.jishoData?.onyomiExamples && kanjiInfo?.jishoData?.onyomiExamples?.length !== 0 && (
+							<h5>Onyomi Examples</h5>
+						)}
+						{kanjiInfo?.jishoData?.onyomiExamples?.map((onExample, index) => (
+							<p key={index}>
+								{onExample?.example}&nbsp;&nbsp;（{onExample?.reading}）&nbsp;&nbsp;&nbsp;
+								{onExample?.meaning}
+							</p>
+						))}
 
-					{kanjiInfo?.jishoData?.kunyomiExamples && kanjiInfo?.jishoData?.kunyomiExamples?.length !== 0 && (
-						<h5>Kunyomi Examples</h5>
-					)}
-					{kanjiInfo?.jishoData?.kunyomiExamples?.map((kunExample, index) => (
-						<p key={index}>
-							{kunExample?.example}&nbsp;&nbsp;（{kunExample?.reading}）&nbsp;&nbsp;&nbsp;
-							{kunExample?.meaning}
-						</p>
-					))}
-				</>
-			) : (
-				<>
-					{kanjiInfo?.jishoData?.onyomiExamples?.map((onExample, index) => {
-						if (index < 3) {
-							return <p key={index}>{onExample?.example}</p>;
-						}
-					})}
-					{kanjiInfo?.jishoData?.onyomiExamples && kanjiInfo?.jishoData?.onyomiExamples?.length !== 0 && (
-						<p>...</p>
-					)}
-				</>
-			)}
-		</ExamplesWrapper>
+						{kanjiInfo?.jishoData?.kunyomiExamples &&
+							kanjiInfo?.jishoData?.kunyomiExamples?.length !== 0 && <h5>Kunyomi Examples</h5>}
+						{kanjiInfo?.jishoData?.kunyomiExamples?.map((kunExample, index) => (
+							<p key={index}>
+								{kunExample?.example}&nbsp;&nbsp;（{kunExample?.reading}）&nbsp;&nbsp;&nbsp;
+								{kunExample?.meaning}
+							</p>
+						))}
+					</>
+				) : (
+					<>
+						{kanjiInfo?.jishoData?.onyomiExamples?.map((onExample, index) => {
+							if (index < 3) {
+								return <p key={index}>{onExample?.example}</p>;
+							}
+						})}
+						{kanjiInfo?.jishoData?.onyomiExamples && kanjiInfo?.jishoData?.onyomiExamples?.length !== 0 && (
+							<p>...</p>
+						)}
+					</>
+				)}
+			</ExamplesWrapper>
+		</>
 	);
 }
+
+// * STYLES **************************************************************************************************
 
 const ExamplesWrapper = styled(animated.div)`
 	grid-area: examplesArea;

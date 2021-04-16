@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
@@ -7,23 +7,14 @@ import About from './About';
 import Kanjis from './Kanjis';
 import Header from './Header';
 
+import { data } from '../data/data';
+import { chise } from '../data/chise';
+
 export default function Main() {
-	// loading chise decomposition from JSON
-	const [chise, setChise] = useState(null);
-	// loading data from JSON
-	const [data, setData] = useState(null);
-	// LOAD COMPOSTION AND DATA JSON
+	// REMOVE LOADER
 	useEffect(() => {
-		Promise.all([fetch('/data/composition.json'), fetch('/data/data.json')])
-			.then(async ([compRes, dataRes]) => {
-				const compJson = await compRes.json();
-				const dataJson = await dataRes.json();
-				setChise(compJson);
-				setData(dataJson);
-			})
-			.catch((error) => {
-				console.log('error=' + error);
-			});
+		console.log('loaded');
+		document.getElementById('loader').style.opacity = 0;
 	}, []);
 
 	return (
