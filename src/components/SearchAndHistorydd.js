@@ -13,6 +13,8 @@ import Autocomplete from '@material-ui/lab/Autocomplete';
 import { FixedSizeList } from 'react-window';
 import Popper from '@material-ui/core/Popper';
 
+const LISTBOX_PADDING = 8; // px
+
 function renderRow(props) {
 	const { data, index, style } = props;
 	return React.cloneElement(data[index], {
@@ -22,64 +24,52 @@ function renderRow(props) {
 			whiteSpace: 'nowrap',
 			display: 'block',
 			...style,
+			top: style.top + LISTBOX_PADDING,
 		},
 	});
 }
-const PopperComponent = function (props) {
-	// const { mobile } = props;
-	return (
-		<Popper
-			{...props}
-			// style={{ width: 'calc(100vw - 32px)' }}
-			style={{ width: '200px' }}
-			// style={{ width: mobile ? '200px' : '800px' }}
-			placement="bottom-start"
-		/>
-	);
-};
 
+const OuterElementContext = React.createContext({});
+
+const OuterElementType = React.forwardRef((props, ref) => {
+	const outerProps = React.useContext(OuterElementContext);
+	return <div ref={ref} {...props} {...outerProps} />;
+});
+
+const innerElementType = ({ style }) => <div style={{ ...style, background: 'lime' }} />;
+
+// Adapter for react-window
 const ListboxComponent = React.forwardRef(function ListboxComponent(props, ref) {
 	const { children, ...other } = props;
-	const itemCount = Array.isArray(children) ? children.length : 0;
-	const itemSize = 32;
-
-	const outerElementType = React.useMemo(() => {
-		return React.forwardRef((props2, ref2) => <div ref={ref2} {...props2} {...other} />);
-	}, []); // eslint-disable-line react-hooks/exhaustive-deps
-
-	const innerElementType = () => {
-		return <div>{children}</div>;
-	};
+	const itemData = React.Children.toArray(children);
+	const itemCount = itemData.length;
 
 	return (
 		<div ref={ref}>
-			<FixedSizeList
-				style={{
-					padding: 0,
-					height: Math.min(10, itemCount) * itemSize,
-					maxHeight: 'auto',
-				}}
-				itemData={children}
-				height={180}
-				width="100%"
-				outerElementType={outerElementType}
-				innerElementType={innerElementType}
-				itemSize={itemSize}
-				overscanCount={5}
-				itemCount={itemCount}
-			>
-				{renderRow}
-			</FixedSizeList>
+			<OuterElementContext.Provider value={other}>
+				<FixedSizeList
+					itemData={itemData}
+					height={320}
+					width="100%"
+					outerElementType={OuterElementType}
+					innerElementType={innerElementType}
+					itemSize={32}
+					overscanCount={5}
+					itemCount={itemCount}
+				>
+					{renderRow}
+				</FixedSizeList>
+			</OuterElementContext.Provider>
 		</div>
 	);
 });
 
 const useStyles = makeStyles({
 	listbox: {
+		boxSizing: 'border-box',
 		'& ul': {
 			padding: 0,
 			margin: 0,
-			paddingTop: '100px',
 		},
 	},
 });
@@ -124,10 +114,7 @@ export default function SearchAndHistory(props) {
 	}, [data]);
 
 	const handleInputSelect = (selected) => {
-		if (chise && selected?.id && chise[selected.id]) {
-			setCurrent(chise[selected.id]);
-			inputRef.current.blur();
-		}
+		chise && selected?.id && chise[selected.id] && setCurrent(chise[selected.id]);
 	};
 
 	// * LIST
@@ -152,7 +139,10 @@ export default function SearchAndHistory(props) {
 								<TextField
 									{...params}
 									inputRef={inputRef}
-									style={{ width: mobile ? (smallmobile ? '135px' : '160px') : '200px' }}
+									style={{
+										width: mobile ? (smallmobile ? '135px' : '160px') : '200px',
+										background: 'lime',
+									}}
 									color="primary"
 									label="Search"
 									variant="outlined"
@@ -213,6 +203,13 @@ const SearchAndHistoryWrapper = styled.div`
 	display: flex;
 	align-items: center;
 	justify-content: flex-start;
+
+	ul {
+		color: 'purple';
+	}
+	li {
+		background: '#ff4' !important;
+	}
 
 	p {
 		margin: 0;
