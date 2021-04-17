@@ -7,7 +7,7 @@ import HighlightOffIcon from '@material-ui/icons/HighlightOff';
 
 import { useSpring, animated } from 'react-spring';
 
-export default function Examples({ kanjiInfo, focusExamples, layoutView, normalView, mobile }) {
+export default function Examples({ kanjiInfo, focusExamples, layoutView, normalView, mobile, desktop }) {
 	function playSound(url) {
 		const audio = new Audio(url);
 		audio.play();
@@ -34,7 +34,7 @@ export default function Examples({ kanjiInfo, focusExamples, layoutView, normalV
 			springProps.opacity.start(1);
 			springProps.padding.start('16px');
 		}
-	}, [layoutView]);
+	}, [layoutView, mobile, desktop]);
 
 	const handleClose = (e) => {
 		e.stopPropagation();

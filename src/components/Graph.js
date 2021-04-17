@@ -228,7 +228,7 @@ export default function Graph(props) {
 					linkDirectionalParticleResolution={8}
 					enableNodeDrag={false}
 					enableNavigationControls={true}
-					showNavInfo={true}
+					showNavInfo={false}
 					ref={fgRef}
 					warmupTicks={100}
 					onNodeClick={handleClick}

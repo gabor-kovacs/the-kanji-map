@@ -141,6 +141,7 @@ export default function App({ chise, data }) {
 	const smallmobile = useMediaQuery('(max-width:360px)');
 	const desktop = useMediaQuery('(min-width:1000px)');
 
+	// RESET  ON LAYOUT CHANGE
 	useEffect(() => {
 		// change from mobile to desktop
 		if (!mobile && desktop) {
@@ -150,6 +151,16 @@ export default function App({ chise, data }) {
 		if (mobile && !desktop) {
 			setDrawInputOpen(false);
 		}
+
+		layoutSpring.gridTemplateColumns.start('1fr 1fr 1fr');
+		layoutSpring.gridTemplateRows.start('2fr 3fr');
+		layoutSpring.gridColumnGap.start('16px');
+		setLayoutView({
+			kanjiFocused: false,
+			examplesFocused: false,
+			radicalFocused: false,
+		});
+		console.log('changed');
 	}, [mobile, desktop]);
 
 	// HISTORY /////////////////////////////////////
@@ -210,6 +221,8 @@ export default function App({ chise, data }) {
 							<Kanji
 								{...{
 									current,
+									inputRef,
+									setInputValue,
 									kanjiInfo,
 									focusKanji,
 									layoutView,
@@ -218,8 +231,8 @@ export default function App({ chise, data }) {
 									desktop,
 								}}
 							/>
-							<Examples {...{ kanjiInfo, focusExamples, layoutView, normalView, mobile }} />
-							<Radical {...{ kanjiInfo, focusRadical, layoutView, normalView, mobile }} />
+							<Examples {...{ kanjiInfo, focusExamples, layoutView, normalView, mobile, desktop }} />
+							<Radical {...{ kanjiInfo, focusRadical, layoutView, normalView, mobile, desktop }} />
 							<Graph
 								{...{
 									data,
@@ -258,6 +271,8 @@ export default function App({ chise, data }) {
 							<Kanji
 								{...{
 									current,
+									inputRef,
+									setInputValue,
 									kanjiInfo,
 									focusKanji,
 									layoutView,
@@ -266,10 +281,10 @@ export default function App({ chise, data }) {
 									desktop,
 								}}
 							/>
-							<Radical {...{ kanjiInfo, focusRadical, layoutView, normalView, mobile }} />
+							<Radical {...{ kanjiInfo, focusRadical, layoutView, normalView, mobile, desktop }} />
 						</DesktopLayoutTop>
 						<DesktopLayoutBottom>
-							<Examples {...{ kanjiInfo, focusExamples, layoutView, normalView, mobile }} />
+							<Examples {...{ kanjiInfo, focusExamples, layoutView, normalView, mobile, desktop }} />
 							<Graph
 								{...{
 									data,

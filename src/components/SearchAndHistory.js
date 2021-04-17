@@ -7,82 +7,19 @@ import CreateIcon from '@material-ui/icons/Create';
 
 import { createMuiTheme, ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';
 
-import { makeStyles } from '@material-ui/core/styles';
-
 import Autocomplete from '@material-ui/lab/Autocomplete';
-import { FixedSizeList } from 'react-window';
-import Popper from '@material-ui/core/Popper';
 
-function renderRow(props) {
-	const { data, index, style } = props;
-	return React.cloneElement(data[index], {
-		style: {
-			overflow: 'hidden',
-			textOverflow: 'ellipsis',
-			whiteSpace: 'nowrap',
-			display: 'block',
-			...style,
-		},
-	});
-}
-const PopperComponent = function (props) {
-	// const { mobile } = props;
-	return (
-		<Popper
-			{...props}
-			// style={{ width: 'calc(100vw - 32px)' }}
-			style={{ width: '200px' }}
-			// style={{ width: mobile ? '200px' : '800px' }}
-			placement="bottom-start"
-		/>
-	);
+const filterOptions = (options, input) => {
+	if (input?.inputValue?.length > 0) {
+		return options.filter(
+			(e) =>
+				e?.meaning?.toLowerCase()?.includes(input?.inputValue?.toLowerCase()) ||
+				e?.id?.toLowerCase()?.includes(input?.inputValue?.toLowerCase())
+		);
+	} else {
+		return [];
+	}
 };
-
-const ListboxComponent = React.forwardRef(function ListboxComponent(props, ref) {
-	const { children, ...other } = props;
-	const itemCount = Array.isArray(children) ? children.length : 0;
-	const itemSize = 32;
-
-	const outerElementType = React.useMemo(() => {
-		return React.forwardRef((props2, ref2) => <div ref={ref2} {...props2} {...other} />);
-	}, []); // eslint-disable-line react-hooks/exhaustive-deps
-
-	const innerElementType = () => {
-		return <div>{children}</div>;
-	};
-
-	return (
-		<div ref={ref}>
-			<FixedSizeList
-				style={{
-					padding: 0,
-					height: Math.min(10, itemCount) * itemSize,
-					maxHeight: 'auto',
-				}}
-				itemData={children}
-				height={180}
-				width="100%"
-				outerElementType={outerElementType}
-				innerElementType={innerElementType}
-				itemSize={itemSize}
-				overscanCount={5}
-				itemCount={itemCount}
-			>
-				{renderRow}
-			</FixedSizeList>
-		</div>
-	);
-});
-
-const useStyles = makeStyles({
-	listbox: {
-		'& ul': {
-			padding: 0,
-			margin: 0,
-			paddingTop: '100px',
-		},
-	},
-});
 
 export default function SearchAndHistory(props) {
 	const {
@@ -98,8 +35,6 @@ export default function SearchAndHistory(props) {
 		setInputValue,
 		inputRef,
 	} = props;
-
-	const classes = useStyles();
 
 	const selectHistory = (e) => {
 		const kanji = e?.currentTarget?.value;
@@ -138,10 +73,8 @@ export default function SearchAndHistory(props) {
 				<SearchDiv>
 					{options && (
 						<Autocomplete
-							classes={classes}
+							filterOptions={(options, inputValue) => filterOptions(options, inputValue)}
 							disableListWrap
-							ListboxComponent={ListboxComponent}
-							// PopperComponent={PopperComponent}
 							openOnFocus={true}
 							options={options}
 							getOptionLabel={(option) =>

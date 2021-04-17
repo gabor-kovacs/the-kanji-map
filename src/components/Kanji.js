@@ -10,11 +10,10 @@ import IconButton from '@material-ui/core/IconButton';
 import HighlightOffIcon from '@material-ui/icons/HighlightOff';
 
 export default function Kanji({
-	setInput,
-	debounceSetSearchTerm,
 	current,
+	inputRef,
+	setInputValue,
 	kanjiInfo,
-	searchTerm,
 	focusKanji,
 	layoutView,
 	normalView,
@@ -26,7 +25,7 @@ export default function Kanji({
 
 	const [animationExists, setAnimationExists] = useState(false);
 	useEffect(() => {
-		fetch(`/data/animCJK/svgsJa/${searchTerm?.charCodeAt(0)}.svg`, { method: 'HEAD' })
+		fetch(`/data/animCJK/svgsJa/${current?.kanji?.charCodeAt(0)}.svg`, { method: 'HEAD' })
 			.then((res) => {
 				res.headers.get('content-type') === 'image/svg+xml'
 					? setAnimationExists(true)
@@ -35,12 +34,14 @@ export default function Kanji({
 			.catch((err) => {
 				setAnimationExists(false);
 			});
-	}, [searchTerm]);
+	}, [current]);
 
 	const select = (e) => {
 		const kanji = e?.currentTarget?.value;
-		setInput(kanji);
-		debounceSetSearchTerm(kanji);
+		setInputValue(kanji);
+		inputRef.current.focus();
+		// setInput(kanji);
+		// debounceSetSearchTerm(kanji);
 	};
 
 	const [springProps] = useSpring(() => ({
@@ -80,7 +81,7 @@ export default function Kanji({
 				springProps.padding.start('16px');
 			}
 		}
-	}, [layoutView]);
+	}, [layoutView, mobile, desktop]);
 
 	const handleClose = (e) => {
 		e.stopPropagation();
@@ -127,7 +128,7 @@ export default function Kanji({
 					style={{ width: '80px', height: '80px', cursor: 'pointer' }}
 					src={
 						animationExists
-							? `/data/animCJK/svgsJa/${searchTerm?.charCodeAt(0)}.svg?${hash}`
+							? `/data/animCJK/svgsJa/${current?.kanji?.charCodeAt(0)}.svg?${hash}`
 							: // 1x1 transparent pixel
 							  `data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=`
 					}
@@ -263,7 +264,7 @@ const Main = styled.div`
 
 	h3 {
 		font-size: 15px;
-		margin: 0;
+		margin: 0 0 10px 0;
 	}
 	h1 {
 		margin: 0;
@@ -287,6 +288,7 @@ const Animation = styled.div`
 `;
 
 const Info = styled.div`
+	padding-top: 10px;
 	grid-area: info;
 	width: 100%;
 	height: 100%;

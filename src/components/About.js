@@ -11,7 +11,7 @@ export default function About() {
 					<img alt="Donate" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" />
 				</a>
 				<p>
-					If this project was useful for you and you'd like to contribute back, you can always{' '}
+					If this project was useful for you and you would like to contribute back, you can always{' '}
 					<StyledLink
 						href="https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E"
 						target="_blank"
@@ -125,7 +125,13 @@ export default function About() {
 					</StyledLink>
 				</p>
 
-				<p>©The Kanji Map 2017-{new Date().getFullYear()} by Gabor Kovacs - released under the MIT license.</p>
+				<p>
+					©The Kanji Map 2017-{new Date().getFullYear()} by{' '}
+					<StyledLink target="_blank" href="https://drgaborkovacs.com/index_en.html" rel="noreferrer">
+						Gabor Kovacs
+					</StyledLink>{' '}
+					- released under the MIT license.
+				</p>
 			</AboutWrapper>
 		</>
 	);

@@ -7,7 +7,7 @@ import { useSpring, animated } from 'react-spring';
 import IconButton from '@material-ui/core/IconButton';
 import HighlightOffIcon from '@material-ui/icons/HighlightOff';
 
-export default function Radical({ kanjiInfo, focusRadical, layoutView, normalView, mobile }) {
+export default function Radical({ kanjiInfo, focusRadical, layoutView, normalView, mobile, desktop }) {
 	const [springProps] = useSpring(() => ({
 		opacity: 1,
 		gridTemplateColumns: '1fr 0fr',
@@ -28,45 +28,37 @@ export default function Radical({ kanjiInfo, focusRadical, layoutView, normalVie
 	});
 
 	useEffect(() => {
-		if (layoutView.examplesFocused === true || layoutView.kanjiFocused === true) {
-			springProps.opacity.start(0);
-			springProps.gridTemplateColumns.start('1fr 0fr');
-			springProps.gridTemplateRows.start('1fr 0fr');
-			springProps.padding.start('0px');
-		} else {
-			springProps.opacity.start(1);
-			springProps.gridTemplateColumns.start('1fr 0fr');
-			springProps.gridTemplateRows.start('1fr 0fr');
-			springProps.padding.start('16px');
+		if (mobile && !desktop) {
+			if (layoutView.examplesFocused === true || layoutView.kanjiFocused === true) {
+				springProps.opacity.start(0);
+				springProps.gridTemplateColumns.start('1fr 0fr');
+				springProps.gridTemplateRows.start('1fr 0fr');
+				springProps.padding.start('0px');
+			} else {
+				springProps.opacity.start(1);
+				springProps.gridTemplateColumns.start('1fr 0fr');
+				springProps.gridTemplateRows.start('1fr 0fr');
+				springProps.padding.start('16px');
+			}
+			if (layoutView.radicalFocused === true) {
+				springProps.opacity.start(1);
+				springProps.gridTemplateColumns.start('1fr 2fr');
+				springProps.gridTemplateRows.start('1fr 1fr');
+				springProps.padding.start('16px');
+			}
 		}
-		if (layoutView.radicalFocused === true) {
+		if (desktop && !mobile) {
 			springProps.opacity.start(1);
-			springProps.gridTemplateColumns.start('1fr 2fr');
+			springProps.gridTemplateColumns.start('100px 1fr');
 			springProps.gridTemplateRows.start('1fr 1fr');
 			springProps.padding.start('16px');
 		}
-	}, [layoutView]);
+	}, [layoutView, mobile, desktop]);
 
 	const handleClose = (e) => {
 		e.stopPropagation();
 		normalView();
 	};
-
-	useEffect(() => {
-		// change from mobile to desktop
-		if (!mobile) {
-			springProps.gridTemplateColumns.start('100px 1fr');
-			springProps.gridTemplateRows.start('1fr 1fr');
-			springProps.padding.start('16px');
-		}
-		// change from deskttop to mobile
-		else {
-			springProps.opacity.start(1);
-			springProps.gridTemplateColumns.start('1fr 0fr');
-			springProps.gridTemplateRows.start('1fr 0fr');
-			springProps.padding.start('16px');
-		}
-	}, [mobile]);
 
 	return (
 		<RadicalWrapper style={springProps} onClick={focusRadical}>
@@ -146,7 +138,7 @@ const Main = styled.div`
 
 	h3 {
 		font-size: 15px;
-		margin: 0;
+		margin: 0 0 10px 0;
 	}
 	h1 {
 		margin: 0;
@@ -171,6 +163,7 @@ const Animation = styled.div`
 `;
 
 const Info = styled.div`
+	padding-top: 10px;
 	grid-area: info;
 	width: 100%;
 	height: 100%;
