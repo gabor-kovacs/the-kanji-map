@@ -160,7 +160,6 @@ export default function Graph(props) {
 				prevNode.__threeObj.children[1].material.color.r = 1;
 			}
 		}
-
 		if (prevNode?.id && joyoList?.includes(prevNode.id)) {
 			if (prevNode?.__threeObj?.children[1]?.material?.color?.b) {
 				prevNode.__threeObj.children[1].material.color.b = 0.8862745098;
