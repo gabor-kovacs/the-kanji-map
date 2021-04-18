@@ -269,6 +269,8 @@ export default function Graph(props) {
 								'serif';
 							sprite.color = '#000';
 							sprite.textHeight = 10;
+							sprite.fontSize = 180;
+							sprite.padding = 3;
 
 							const group = new THREE.Group();
 							group.add(sprite);
