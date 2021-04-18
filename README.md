@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 					target="_blank"
 					rel="noreferrer"
 				>
-					buy me a ☕!
+					Donate!
 				</a>
 			</p>
 			<p>Donations are used to pay for hosting, maintenance costs and improvements.</p>

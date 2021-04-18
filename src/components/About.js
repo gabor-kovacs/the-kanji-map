@@ -17,7 +17,7 @@ export default function About() {
 						target="_blank"
 						rel="noreferrer"
 					>
-						buy me a ☕!
+						Donate!
 					</StyledLink>
 				</p>
 				<p>Donations are used to pay for hosting, maintenance costs and improvements.</p>
