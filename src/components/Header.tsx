@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from 'styled-components';
 import { NavLink } from 'react-router-dom';
 
@@ -6,7 +5,7 @@ import TableChartIcon from '@material-ui/icons/TableChart';
 import HomeIcon from '@material-ui/icons/Home';
 import InfoIcon from '@material-ui/icons/Info';
 
-export default function Header() {
+export const Header = () => {
 	return (
 		<HeaderWrapper>
 			<ImageLink to="/" exact>
@@ -44,7 +43,7 @@ export default function Header() {
 			</div>
 		</HeaderWrapper>
 	);
-}
+};
 
 // * STYLES **************************************************************************************************
 

@@ -1,8 +1,6 @@
-import React from 'react';
-
 import styled from 'styled-components/macro';
 
-export default function About() {
+export const About = () => {
 	return (
 		<>
 			<AboutWrapper>
@@ -135,7 +133,7 @@ export default function About() {
 			</AboutWrapper>
 		</>
 	);
-}
+};
 
 // * STYLES **************************************************************************************************
 

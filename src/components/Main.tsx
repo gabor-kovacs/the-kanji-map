@@ -1,20 +1,19 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 import App from './App';
-import About from './About';
+import { About } from './About';
 import Kanjis from './Kanjis';
-import Header from './Header';
+import { Header } from './Header';
 
-import { data } from '../data/data';
-import { chise } from '../data/chise';
+import { data } from '../data/data.js';
+import { chise } from '../data/chise.js';
 
-export default function Main() {
+export const Main = () => {
 	// REMOVE LOADER
 	useEffect(() => {
-		console.log('loaded');
-		document.getElementById('loader').style.opacity = 0;
+		document!.getElementById('loader')!.style!.opacity = '0';
 	}, []);
 
 	return (
@@ -35,4 +34,4 @@ export default function Main() {
 			</Router>
 		</>
 	);
-}
+};
