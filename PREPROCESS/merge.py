@@ -61,6 +61,5 @@ with open('./chise-ids/IDS_MERGED.txt', 'w') as outfile:
 	'IDS-HZK10.txt',
 	'IDS-HZK11.txt',
 	'IDS-HZK12.txt',
-
 	'IDS-JIS-X0208-1990.txt',
 """

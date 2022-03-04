@@ -1,6 +1,7 @@
 ;;; ids-find.el --- search utility based on Ideographic-structures ;; -*- coding: utf-8-mcs-er -*-
 
-;; Copyright (C) 2002, 2003, 2005, 2006, 2007, 2017, 2020 MORIOKA Tomohiko
+;; Copyright (C) 2002, 2003, 2005, 2006, 2007, 2017, 2020, 2021
+;;   MORIOKA Tomohiko
 
 ;; Author: MORIOKA Tomohiko <tomo@kanji.zinbun.kyoto-u.ac.jp>
 ;; Keywords: Kanji, Ideographs, search, IDS, CHISE, UCS, Unicode
@@ -59,6 +60,11 @@
      (ids-index-store-structure c v)
      nil)
    'ideographic-structure@apparent)
+  (map-char-attribute
+   (lambda (c v)
+     (ids-index-store-structure c v)
+     nil)
+   'ideographic-structure@apparent/leftmost)
   (unless in-memory
     (save-char-attribute-table 'ideographic-products)))
 
@@ -571,6 +577,9 @@
 		     (ideographic-structure-equal str structure))
 		(and (setq str
 			   (get-char-attribute pc 'ideographic-structure@apparent))
+		     (ideographic-structure-equal str structure))
+		(and (setq str
+			   (get-char-attribute pc 'ideographic-structure@apparent/leftmost))
 		     (ideographic-structure-equal str structure)))
 	(setq pl (cons pc pl))
 	))
@@ -953,7 +962,28 @@ COMPONENT can be a character or char-spec."
 		  a-res
 		  (list ?⿰ new-str-c (nth 2 enc-str))
 		  210))
-	  )))
+	  )
+	 ((eq (car enc-str) ?⿱)
+	  (unless conversion-only
+	    (setq f-res (ids-find-chars-including-ids enc-str)))
+	  (setq new-str (list ?⿰
+			      (nth 2 structure)
+			      (nth 2 enc-str)))
+	  (setq new-str-c
+		(if (setq ret (ideographic-structure-find-chars new-str))
+		    (car ret)
+		  (list (cons 'ideographic-structure new-str))))
+	  (if conversion-only
+	      (list ?⿱ (nth 1 enc-str) new-str-c)
+	    (setq a-res (ids-find-chars-including-ids new-str))
+	    (list enc
+		  f-res
+		  new-str-c
+		  a-res
+		  (list ?⿱ (nth 1 enc-str) new-str-c)
+		  220))
+	  )
+	 ))
       )
      ((eq (get-char-attribute (car structure) '=ucs-itaiji-001) #x2FF6)
       (setq enc (nth 1 structure))
@@ -1581,11 +1611,13 @@ COMPONENT can be a character or char-spec."
       (when (setq enc-str
 		  (cond ((characterp enc)
 			 (or (get-char-attribute enc 'ideographic-structure)
-			     (get-char-attribute enc 'ideographic-structure@apparent))
+			     (get-char-attribute enc 'ideographic-structure@apparent)
+			     (get-char-attribute enc 'ideographic-structure@apparent/leftmost))
 			 )
 			((consp enc)
 			 (or (cdr (assq 'ideographic-structure enc))
-			     (cdr (assq 'ideographic-structure@apparent enc)))
+			     (cdr (assq 'ideographic-structure@apparent enc))
+			     (cdr (assq 'ideographic-structure@apparent/leftmost enc)))
 			 )))
         ;; (setq enc-str
         ;;       (mapcar (lambda (cell)
@@ -1623,11 +1655,15 @@ COMPONENT can be a character or char-spec."
 		    code))
 	    )
 	   ((and (characterp (nth 2 enc-str))
-		 (memq (char-ucs (nth 2 enc-str))
-		       '(#x4E00
-			 #x706C
-			 #x65E5 #x66F0 #x5FC3
-			 #x2123C #x58EC #x738B #x7389)))
+		 (or (memq (char-ucs (nth 2 enc-str))
+			   '(#x4E00
+			     #x706C
+			     #x65E5 #x66F0 #x5FC3
+			     #x2123C #x58EC #x738B #x7389))
+		     (memq (encode-char (nth 2 enc-str) '=>ucs@component)
+			   '(#x2123C #x58EC))
+		     (eq (encode-char (nth 2 enc-str) '=>ucs@iwds-1)
+			 #x7389)))
 	    (unless conversion-only
 	      (setq f-res (ids-find-chars-including-ids enc-str)))
 	    (setq new-str (list ?⿰
