@@ -19,7 +19,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "pages/api/create_composition.js"
+    "preprocess/create_composition.js"
   ],
   "exclude": ["node_modules"]
 }

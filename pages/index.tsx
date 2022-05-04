@@ -1,10 +1,18 @@
+import * as React from "react";
+
 import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
 
 import Layout from "../components/layout";
 
+import Composition from "../preprocess/composition.json";
+
 const Home: NextPage = () => {
+  React.useEffect(() => {
+    Object.entries(Composition).map(([key, _]) => console.log(key));
+  }, []);
+
   return (
     <Layout>
       <Head>
