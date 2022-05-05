@@ -4,13 +4,9 @@ import { getAllKanji, getGraphData, getKanjiData } from "../../lib/lib";
 import Head from "next/head";
 import type { GetStaticPaths, GetStaticProps } from "next";
 
-import ForceGraph3D, {
-  ForceGraphMethods,
-  GraphData,
-  LinkObject,
-  NodeObject,
-} from "react-force-graph-3d";
-import Graph from "../../components/graphWrapper";
+import Graph from "../../components/graph";
+
+import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
 
 interface Props {
   kanjiInfo: { id: string; kanjialiveData: any };

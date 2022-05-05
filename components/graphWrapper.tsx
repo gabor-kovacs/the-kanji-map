@@ -1,6 +1,6 @@
 import dynamic from "next/dynamic";
 
-const Graph = dynamic(() => import("./graph"), {
+const GraphNoSSR = dynamic(() => import("./graph"), {
   ssr: false,
 });
 
