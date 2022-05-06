@@ -19,69 +19,68 @@ const path = require("path");
 const xml2js = require("xml2js");
 const parser = new xml2js.Parser();
 
+const extractKanjiFromEntry = (entry, targetList) => {
+  entry?.g &&
+    entry.g.forEach((comp) => {
+      if (comp["$"]["kvg:element"]) {
+        targetList.push(comp["$"]["kvg:element"]);
+        extractKanjiFromEntry(comp, targetList);
+      }
+    });
+};
+
+// only the first level of the graph is considered otherwise the data is not always true
+const extractComponents = (entry, kanji, inList, outList) => {
+  // inList
+  if (entry?.g?.[0]?.["$"]["kvg:element"] === kanji) {
+    entry?.g?.[0]?.g &&
+      entry.g[0].g.forEach((comp) => {
+        comp["$"]["kvg:element"] && inList.push(comp["$"]["kvg:element"]);
+      });
+  }
+  // outList
+  entry?.g?.[0]?.g &&
+    entry.g[0].g.forEach((comp) => {
+      if (comp?.["$"]?.["kvg:element"] === kanji) {
+        entry?.g?.[0]?.["$"]["kvg:element"] &&
+          outList.push(entry?.g?.[0]?.["$"]["kvg:element"]);
+      }
+    });
+};
+
 let db = {};
 const rawXML = fs.readFileSync(path.join(__dirname, "kanjivg.xml"));
-
 parser
   .parseStringPromise(rawXML)
   .then((parsedXML) => {
-    // create a list of nodes to avoid nested loops
-    let progress = 0;
+    // create a list with every possible kanji (some do not appear at root level in the xml)
+    const allNodes = [];
+    parsedXML.kanjivg.kanji.forEach((entry) => {
+      const nodesInEntry = [];
+      extractKanjiFromEntry(entry, nodesInEntry);
+      allNodes.push(...nodesInEntry);
+    });
+    // remove duplicates
+    const allKanji = [...new Set(allNodes)];
 
-    parsedXML.kanjivg.kanji.forEach((entry, idx) => {
-      // print progress
-      if (idx >= (parsedXML.kanjivg.kanji.length * progress) / 100) {
-        progress += 10;
-        console.log(`Working... ${progress}%`);
-      }
-
-      // current element
-      const kanji = entry.g[0]["$"]["kvg:element"];
-
-      let inList = [];
-      let outList = [];
-
-      // * get inList
-      let components = entry.g[0].g;
-      if (components) {
-        components.forEach((comp) => {
-          comp["$"]["kvg:element"] && inList.push(comp["$"]["kvg:element"]);
-          // ? TODO kvg:original
-        });
-      }
-      // * get outList
-      // if the current kanji is found in the firs composition layer of other elements, add that to the outList
-      parsedXML.kanjivg.kanji.forEach((e) => {
-        if (e.g[0].g) {
-          e.g[0].g.forEach((c) => {
-            if (c["$"]["kvg:element"] === kanji) {
-              outList.push(e.g[0]["$"]["kvg:element"]);
-            }
-          });
-        }
+    allKanji.forEach((kanji, idx) => {
+      console.log(`${idx}/${allKanji.length}`);
+      const inList = [];
+      const outList = [];
+      parsedXML.kanjivg.kanji.forEach((entry) => {
+        extractComponents(entry, kanji, inList, outList);
       });
 
-      if (kanji) {
-        db[kanji] = { in: inList, out: outList };
-      }
+      db[kanji] = { in: [...new Set(inList)], out: [...new Set(outList)] };
     });
 
-    // * There should not be any duplicates but remove just in case
-    Object.entries(db).forEach(([kanji, data]) => {
-      db[kanji] = {
-        in: [...new Set(data.in)],
-        out: [...new Set(data.out)],
-      };
-    });
-
-    // * output
-    console.log(db);
     fs.writeFileSync(
       path.join(__dirname, "composition.json"),
       JSON.stringify(db),
       "utf-8"
     );
   })
+
   .catch(function (err) {
     console.log("Error reading xml");
   });

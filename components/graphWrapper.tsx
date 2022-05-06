@@ -4,4 +4,4 @@ const GraphNoSSR = dynamic(() => import("./graph"), {
   ssr: false,
 });
 
-export default Graph;
+export default GraphNoSSR;

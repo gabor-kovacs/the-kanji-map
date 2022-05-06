@@ -91,3 +91,32 @@ export const getGraphData = (id: string) => {
   };
   return { graphDataNoOutLinks, graphDataWithOutLinks };
 };
+
+export const getTheMap = () => {
+  const nodes = Object.entries(Composition).map(([kanji, _]) => {
+    return { id: kanji, group: 1 };
+  });
+
+  let inLinks: { source: string; target: string; value: number }[] = [];
+  let outLinks: { source: string; target: string; value: number }[] = [];
+
+  Object.entries(Composition).forEach(([kanji, data]) => {
+    data.in.forEach((node) => {
+      inLinks.push({ source: node, target: kanji, value: 1 });
+      outLinks.push({ source: kanji, target: node, value: 1 });
+    });
+  });
+
+  // remove duplicates
+  let links = inLinks.concat(outLinks);
+
+  links = links.filter(
+    (value, index, self) =>
+      index ===
+      self.findIndex(
+        (t) => t.source === value.source && t.target === value.target
+      )
+  );
+
+  return { nodes, links };
+};
