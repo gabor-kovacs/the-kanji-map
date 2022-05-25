@@ -81,9 +81,20 @@ export const getGraphData = (id: string) => {
   const inNodes = inNodeList.map((x) => ({ id: x }));
   const outNodes = outNodeList.map((x) => ({ id: x }));
 
+  const allNodes = inNodes.concat(outNodes);
+  const allLinks = inLinks.concat(outLinks);
+
   const graphDataWithOutLinks = {
-    nodes: inNodes.concat(outNodes),
-    links: inLinks.concat(outLinks),
+    nodes: allNodes.filter(
+      (value, index, self) => index === self.findIndex((t) => t.id === value.id)
+    ),
+    links: allLinks.filter(
+      (value, index, self) =>
+        index ===
+        self.findIndex(
+          (t) => t.source === value.source && t.target === value.target
+        )
+    ),
   };
   const graphDataNoOutLinks = {
     nodes: inNodes,
@@ -109,7 +120,6 @@ export const getTheMap = () => {
 
   // remove duplicates
   let links = inLinks.concat(outLinks);
-
   links = links.filter(
     (value, index, self) =>
       index ===
