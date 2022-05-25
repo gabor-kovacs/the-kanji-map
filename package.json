@@ -17,6 +17,7 @@
     "@mui/material": "^5.6.4",
     "@react-sigma/core": "^2.0.2",
     "axios": "^0.27.2",
+    "cors": "^2.8.5",
     "d3": "^7.4.4",
     "emotion-normalize": "^11.0.1",
     "graphology": "^0.24.1",
