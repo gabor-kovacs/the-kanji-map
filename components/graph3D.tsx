@@ -232,29 +232,35 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
         return group;
       }}
       // ADD ONYOMI TO LINKS
-      // linkThreeObjectExtend={true}
-      // linkThreeObject={(link: LinkObject) => {
-      //   const linkText = sameOn(String(link.source), String(link.target));
-      //   let sprite: SpriteText;
-      //   if (linkText && linkText.length > 0) {
-      //     sprite = new SpriteText(linkText.join(", "));
-      //   } else {
-      //     return null;
-      //   }
-      //   sprite.color = "#000";
-      //   sprite.textHeight = 5;
-      //   return sprite;
-      // }}
-      // linkPositionUpdate={(sprite, { start, end }) => {
-      //   const middlePos: { x: number; y: number; z: number } = {
-      //     x: start.x + (end.x - start.x) / 2,
-      //     y: start.y + (end.y - start.y) / 2,
-      //     z: start.z + (end.z - start.z) / 2,
-      //   };
-      //   // if there is a same onyomi link
-      //   sprite?.position && Object.assign(sprite.position, middlePos);
-      //   return null;
-      // }}
+      linkThreeObjectExtend={true}
+      linkThreeObject={(link: LinkObject) => {
+        console.log(link.source);
+        console.log(link.target);
+
+        const linkText = sameOn(String(link.source), String(link.target));
+
+        console.log("linkText");
+        console.log(linkText);
+        let sprite: SpriteText;
+        if (linkText && linkText.length > 0) {
+          sprite = new SpriteText(linkText.join(", "));
+        } else {
+          return null;
+        }
+        sprite.color = "#000";
+        sprite.textHeight = 5;
+        return sprite;
+      }}
+      linkPositionUpdate={(sprite, { start, end }) => {
+        const middlePos: { x: number; y: number; z: number } = {
+          x: start.x + (end.x - start.x) / 2,
+          y: start.y + (end.y - start.y) / 2,
+          z: start.z + (end.z - start.z) / 2,
+        };
+        // if there is a same onyomi link
+        sprite?.position && Object.assign(sprite.position, middlePos);
+        return null;
+      }}
     />
   );
 };
