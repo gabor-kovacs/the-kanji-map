@@ -8,10 +8,17 @@ import Layout from "../components/layout";
 
 import Composition from "../preprocess/composition.json";
 
+import { useTheme } from "next-themes";
+import styled from "@emotion/styled";
+
+import { DarkModeSwitch } from "react-toggle-dark-mode";
+import { css } from "@emotion/react";
+import DarkmodeToggle from "../components/darkmodeToggle";
+
 const Home: NextPage = () => {
-  React.useEffect(() => {
-    Object.entries(Composition).map(([key, _]) => console.log(key));
-  }, []);
+  // React.useEffect(() => {
+  //   Object.entries(Composition).map(([key, _]) => console.log(key));
+  // }, []);
 
   return (
     <Layout>
@@ -24,6 +31,13 @@ const Home: NextPage = () => {
       <main>
         <h1>Hola</h1>
       </main>
+
+      <DarkmodeToggle
+        size={32}
+        style={{
+          marginLeft: "100px",
+        }}
+      />
 
       <footer>
         <p>footer</p>

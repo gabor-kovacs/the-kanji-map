@@ -18,11 +18,21 @@ export const globalStyles = (
       }
       ::-moz-selection {
         color: white;
-        background: var(--color-primary);
+        background-color: var(--color-primary);
       }
       ::selection {
         color: white;
-        background: var(--color-primary);
+        background-color: var(--color-primary);
+      }
+
+      :root {
+        --color-background: #ffffff;
+        --color-foreground: #1f1f1f;
+        --color-primary: #2b99cf;
+      }
+      [data-theme="dark"] {
+        --color-background: #1f1f1f;
+        --color-foreground: #ffffff;
       }
 
       html,
@@ -33,11 +43,14 @@ export const globalStyles = (
         height: 100vh;
         height: -webkit-fill-available;
         overflow: hidden;
+        background-color: var(--color-background);
+        color: var(--color-foreground);
+
+        /* transition: background-color 200ms ease-in-out; */
       }
 
       body {
         line-height: 1.5;
-        background: white;
         -webkit-font-smoothing: antialiased;
         margin: 0;
         padding: 0;

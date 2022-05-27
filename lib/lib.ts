@@ -1,6 +1,9 @@
 import axios from "axios";
 import Composition from "../preprocess/composition.json";
 
+import JishoAPI from "unofficial-jisho-api";
+const jisho = new JishoAPI();
+
 export const getAllKanji = () => {
   return Object.entries(Composition).map(([kanji, _]) => {
     return {
@@ -28,15 +31,28 @@ export const getKanjiData = async (id: string) => {
   try {
     const res = await axios.request(options);
     kanjialiveData = await res.data;
-    console.log("kanjialiveData");
-    console.log(kanjialiveData);
+    console.log(`kanjialiveData found for ${id}`);
+    // console.log(kanjialiveData);
   } catch (error) {
+    console.log(error);
     console.log("No Kanjialive data found");
+  }
+
+  let jishoData = null;
+  // const JISHO_SEARCH_URI = jisho.getUriForKanjiSearch(id);
+  try {
+    jishoData = await jisho.searchForKanji(id);
+    console.log(`jishoData found for ${id}`);
+    // console.log(jishoData);
+  } catch (error) {
+    console.log(error);
+    console.log("No JISHO data found");
   }
 
   return {
     id,
     kanjialiveData,
+    jishoData,
     // contentHtml,
     // ...matterResult.data,
   };
@@ -67,7 +83,7 @@ const createInLinks = (array: string[]) => {
   return links;
 };
 
-export const getGraphData = (id: string) => {
+export const getGraphData = async (id: string) => {
   let inNodeList = [id];
   inNodeList = findNodes(inNodeList);
   const inLinks = createInLinks(inNodeList);
@@ -78,13 +94,28 @@ export const getGraphData = (id: string) => {
 
   const outNodeList = Composition[id as keyof typeof Composition].out;
 
-  const inNodes = inNodeList.map((x) => ({ id: x }));
-  const outNodes = outNodeList.map((x) => ({ id: x }));
+  const inNodes = await Promise.all(
+    inNodeList.map(async (x) => {
+      return {
+        id: x,
+        data: await getKanjiData(x),
+      };
+    })
+  );
+
+  const outNodes = await Promise.all(
+    outNodeList.map(async (x) => {
+      return {
+        id: x,
+        data: await getKanjiData(x),
+      };
+    })
+  );
 
   const allNodes = inNodes.concat(outNodes);
   const allLinks = inLinks.concat(outLinks);
 
-  const graphDataWithOutLinks = {
+  const withOutLinks = {
     nodes: allNodes.filter(
       (value, index, self) => index === self.findIndex((t) => t.id === value.id)
     ),
@@ -96,37 +127,45 @@ export const getGraphData = (id: string) => {
         )
     ),
   };
-  const graphDataNoOutLinks = {
-    nodes: inNodes,
-    links: inLinks,
+  const noOutLinks = {
+    nodes: inNodes.filter(
+      (value, index, self) => index === self.findIndex((t) => t.id === value.id)
+    ),
+    links: inLinks.filter(
+      (value, index, self) =>
+        index ===
+        self.findIndex(
+          (t) => t.source === value.source && t.target === value.target
+        )
+    ),
   };
-  return { graphDataNoOutLinks, graphDataWithOutLinks };
+  return { withOutLinks, noOutLinks };
 };
 
-export const getTheMap = () => {
-  const nodes = Object.entries(Composition).map(([kanji, _]) => {
-    return { id: kanji, group: 1 };
-  });
+// export const getTheMap = () => {
+//   const nodes = Object.entries(Composition).map(([kanji, _]) => {
+//     return { id: kanji, group: 1 };
+//   });
 
-  let inLinks: { source: string; target: string; value: number }[] = [];
-  let outLinks: { source: string; target: string; value: number }[] = [];
+//   let inLinks: { source: string; target: string; value: number }[] = [];
+//   let outLinks: { source: string; target: string; value: number }[] = [];
 
-  Object.entries(Composition).forEach(([kanji, data]) => {
-    data.in.forEach((node) => {
-      inLinks.push({ source: node, target: kanji, value: 1 });
-      outLinks.push({ source: kanji, target: node, value: 1 });
-    });
-  });
+//   Object.entries(Composition).forEach(([kanji, data]) => {
+//     data.in.forEach((node) => {
+//       inLinks.push({ source: node, target: kanji, value: 1 });
+//       outLinks.push({ source: kanji, target: node, value: 1 });
+//     });
+//   });
 
-  // remove duplicates
-  let links = inLinks.concat(outLinks);
-  links = links.filter(
-    (value, index, self) =>
-      index ===
-      self.findIndex(
-        (t) => t.source === value.source && t.target === value.target
-      )
-  );
+//   // remove duplicates
+//   let links = inLinks.concat(outLinks);
+//   links = links.filter(
+//     (value, index, self) =>
+//       index ===
+//       self.findIndex(
+//         (t) => t.source === value.source && t.target === value.target
+//       )
+//   );
 
-  return { nodes, links };
-};
+//   return { nodes, links };
+// };

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 
 import styled from "@emotion/styled";
 import Header from "./header";
+import { useTheme } from "next-themes";
 // import Footer from "./footer";
 
 // import SEO from "./seo";

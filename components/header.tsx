@@ -7,6 +7,7 @@ import InfoIcon from "@mui/icons-material/Info";
 import Logo from "../public/images/logo.svg";
 import Link from "next/link";
 import { useRouter } from "next/router";
+import DarkmodeToggle from "./darkmodeToggle";
 
 const Header: React.FC = () => {
   const router = useRouter();
@@ -37,6 +38,7 @@ const Header: React.FC = () => {
             <InfoIcon />
           </a>
         </Link>
+        <DarkmodeToggle size={16} style={{ display: "inline" }} />
       </div>
     </HeaderWrapper>
   );
@@ -85,9 +87,9 @@ const ImageWrapper = styled.div`
   a {
     display: flex;
     text-decoration: none;
-    color: #212121;
+    color: var(--foreground);
     &:hover {
-      color: #212121;
+      color: var(--foreground);
     }
   }
 `;

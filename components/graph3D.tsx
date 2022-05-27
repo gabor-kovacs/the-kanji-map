@@ -11,6 +11,7 @@ import * as THREE from "three";
 
 import SpriteText from "three-spritetext";
 import { useRouter } from "next/router";
+import { useTheme } from "next-themes";
 
 type KanjiInfo = {
   id: string;
@@ -20,25 +21,25 @@ type KanjiInfo = {
 
 interface Props {
   kanjiInfo: KanjiInfo;
+  graphData: any;
 }
 
-const Graph: React.FC<Props> = ({ kanjiInfo }) => {
+const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
+  const { theme } = useTheme();
+
   const fgRef: React.MutableRefObject<ForceGraphMethods | undefined> = useRef();
 
   const router = useRouter();
-
-  useEffect(() => {
-    const { graphDataNoOutLinks, graphDataWithOutLinks } = getGraphData(
-      kanjiInfo.id
-    );
-    setData(graphDataWithOutLinks as unknown as GraphData); // TODO
-    console.log(graphDataWithOutLinks);
-  }, [kanjiInfo]);
 
   const [data, setData] = useState<GraphData>({
     nodes: [],
     links: [],
   });
+
+  useEffect(() => {
+    setData(graphData.withOutLinks as unknown as GraphData);
+    console.dir(graphData.withOutLinks, { depth: null });
+  }, []);
 
   const handleClick = (node: NodeObject) => {
     router.push(`/kanji/${node.id}`);
@@ -46,7 +47,7 @@ const Graph: React.FC<Props> = ({ kanjiInfo }) => {
 
   // prefetch routes for nodes visible in the graph
   useEffect(() => {
-    data.nodes.forEach((node) => {
+    data?.nodes?.forEach((node) => {
       router.prefetch(`/kanji/${node.id}`);
     });
   }, [data, router]);
@@ -136,16 +137,43 @@ const Graph: React.FC<Props> = ({ kanjiInfo }) => {
     }
   };
 
+  // find same onyomi
+  const sameOn = (kanji1: string, kanji2: string) => {
+    const on1 = data?.nodes?.find((o) => o.id === kanji1)?.data?.jishoData
+      ?.onyomi;
+    const on2 = data?.nodes?.find((o) => o.id === kanji2)?.data?.jishoData
+      ?.onyomi;
+
+    console.log(on1);
+    console.log(on2);
+
+    const onyomiOverlap = on1?.filter((value) => on2?.includes(value));
+
+    return onyomiOverlap;
+
+    // return data[kanji1]?.jishoData?.onyomi?.filter((value) =>
+    //   data[kanji2]?.jishoData?.onyomi?.includes(value)
+    // );
+  };
+
+  useEffect(() => {
+    sameOn("語", "吾");
+    console.log(sameOn("語", "吾"));
+  }, [data]);
+
   return (
     <ForceGraph3D
       width={500}
       height={500}
-      backgroundColor={"#fcf"}
+      // using css variables here can cause unexpected behavior
+      backgroundColor={theme === "dark" ? "#1f1f1f" : "#ffffff"}
       graphData={data}
       // ARROWS
-      linkColor={() => "#000000"}
+      linkColor={() => {
+        return theme === "dark" ? "#ffffff" : "#000000";
+      }}
       linkDirectionalArrowLength={5}
-      linkDirectionalArrowRelPos={0.9}
+      // linkDirectionalArrowRelPos={0.9}
       linkDirectionalArrowResolution={32}
       //PARTICLES
       linkDirectionalParticles={3}
@@ -231,4 +259,4 @@ const Graph: React.FC<Props> = ({ kanjiInfo }) => {
   );
 };
 
-export default Graph;
+export default Graph3D;

@@ -2,13 +2,13 @@ import React, { useState, useEffect, useRef, SetStateAction } from "react";
 
 import ForceGraph2D, { LinkObject, NodeObject } from "react-force-graph-2d";
 import type { ForceGraphMethods, GraphData } from "react-force-graph-2d";
-import { getGraphData } from "../lib/lib";
 
 import { joyoList } from "../data/joyo";
 import { jinmeiyoList } from "../data/jinmeiyo";
 
 import SpriteText from "three-spritetext";
 import { useRouter } from "next/router";
+import { useTheme } from "next-themes";
 
 type KanjiInfo = {
   id: string;
@@ -18,25 +18,22 @@ type KanjiInfo = {
 
 interface Props {
   kanjiInfo: KanjiInfo;
+  graphData: any;
 }
 
-const Graph: React.FC<Props> = ({ kanjiInfo }) => {
+const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   const fgRef: React.MutableRefObject<ForceGraphMethods | undefined> = useRef();
 
   const router = useRouter();
-
-  useEffect(() => {
-    const { graphDataNoOutLinks, graphDataWithOutLinks } = getGraphData(
-      kanjiInfo.id
-    );
-    setData(graphDataWithOutLinks as unknown as GraphData); // TODO
-    console.log(graphDataWithOutLinks);
-  }, [kanjiInfo]);
 
   const [data, setData] = useState<GraphData>({
     nodes: [],
     links: [],
   });
+
+  useEffect(() => {
+    setData(graphData.withOutLinks as unknown as GraphData);
+  }, []);
 
   const handleClick = (node: NodeObject) => {
     router.push(`/kanji/${node.id}`);
@@ -44,13 +41,16 @@ const Graph: React.FC<Props> = ({ kanjiInfo }) => {
 
   // prefetch routes for nodes visible in the graph
   useEffect(() => {
-    data.nodes.forEach((node) => {
+    data?.nodes?.forEach((node) => {
       router.prefetch(`/kanji/${node.id}`);
     });
   }, [data, router]);
 
   // store the hovered node in a state
   const [hoverNode, setHoverNode] = useState<NodeObject | null>(null);
+
+  // store global scale for arrow length
+  const [scale, setScale] = useState(1);
 
   const handleNodeHover = (node: NodeObject | null) => {
     setHoverNode(node || null);
@@ -64,7 +64,8 @@ const Graph: React.FC<Props> = ({ kanjiInfo }) => {
   ) => {
     // console.log(`hovernode: ${hoverNode?.id}`);
     const label = String(node.id);
-    const fontSize = 24 / globalScale;
+    const fontSize = 10;
+    // const fontSize = 24 / globalScale;
     ctx.font = `${fontSize}px Sans-Serif`;
     const textWidth = ctx.measureText(label).width;
     const bckgDimensions = [textWidth, fontSize].map((n) => n + fontSize * 0.2); // some padding
@@ -86,6 +87,14 @@ const Graph: React.FC<Props> = ({ kanjiInfo }) => {
     }
 
     const radius = (bckgDimensions[1] / 2) * 1.5;
+
+    ctx.beginPath();
+    node.x &&
+      node.y &&
+      ctx.arc(node.x, node.y, radius * 1.1, 0, 2 * Math.PI, false);
+    ctx.fillStyle = "#000000";
+    ctx.fill();
+
     ctx.beginPath();
     node.x && node.y && ctx.arc(node.x, node.y, radius, 0, 2 * Math.PI, false);
     ctx.fillStyle = color;
@@ -113,18 +122,20 @@ const Graph: React.FC<Props> = ({ kanjiInfo }) => {
     <ForceGraph2D
       width={500}
       height={500}
-      backgroundColor={"#ccf1ff"}
+      backgroundColor={"var(--color-background)"}
       graphData={data}
       // nodeLabel="id"
       // ARROWS
-      // linkColor={() => "#000000"}
+
+      // linkColor={"var(--color-foreground)"}
       ref={fgRef}
       warmupTicks={10}
       onNodeClick={handleClick}
       nodeCanvasObject={paintNode}
       nodePointerAreaPaint={(node, color, ctx, globalScale) => {
         const label = String(node.id);
-        const fontSize = 24 / globalScale;
+        // const fontSize = 24 / globalScale;
+        const fontSize = 10;
         ctx.font = `${fontSize}px Sans-Serif`;
         const textWidth = ctx.measureText(label).width;
         const bckgDimensions = [textWidth, fontSize].map(
@@ -132,6 +143,7 @@ const Graph: React.FC<Props> = ({ kanjiInfo }) => {
         ); // some padding
         // const bckgDimensions = node.__bckgDimensions;
         const radius = (bckgDimensions[1] / 2) * 1.5;
+
         ctx.beginPath();
         node.x &&
           node.y &&
@@ -140,16 +152,24 @@ const Graph: React.FC<Props> = ({ kanjiInfo }) => {
         ctx.fill();
       }}
       onNodeHover={(node) => handleNodeHover(node)}
-      linkColor={() => "#000000"}
-      linkDirectionalArrowLength={5}
-      linkDirectionalArrowRelPos={1.0}
+      linkColor={() =>
+        getComputedStyle(document?.body)?.getPropertyValue("--color-foreground")
+      }
+      linkDirectionalArrowLength={4}
+      // linkDirectionalArrowRelPos={0.82}
       // linkDirectionalArrowResolution={32}
       //PARTICLES
       linkDirectionalParticles={3}
       linkDirectionalParticleSpeed={0.008}
-      linkDirectionalParticleWidth={1}
+      linkDirectionalParticleWidth={2}
+      // onRenderFramePre={(_, globalScale) => console.log(globalScale)}
+      // onZoom={(e) => {
+      //   console.log(e.k);
+
+      //   setScale(e.k);
+      // }}
     />
   );
 };
 
-export default Graph;
+export default Graph2D;

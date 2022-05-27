@@ -17,16 +17,17 @@ type KanjiInfo = {
 
 interface Props {
   kanjiInfo: KanjiInfo;
+  graphData: any;
 }
 
-const Page: React.FC<Props> = ({ kanjiInfo }) => {
+const Page: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   return (
     <Layout>
       <Head>
         <title>{kanjiInfo.id}</title>
       </Head>
-      <Graph2DNoSSR kanjiInfo={kanjiInfo} />
-      <Graph3DNoSSR kanjiInfo={kanjiInfo} />
+      <Graph2DNoSSR kanjiInfo={kanjiInfo} graphData={graphData} />
+      <Graph3DNoSSR kanjiInfo={kanjiInfo} graphData={graphData} />
     </Layout>
   );
 };
@@ -43,9 +44,15 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const kanjiInfo = await getKanjiData(params?.id as string);
+  const graphDataRaw = await getGraphData(params?.id as string);
+  // workaround to avoid "cannot serialize undefined" error
+  const graphData = JSON.parse(JSON.stringify(graphDataRaw));
+  // console.dir(graphData, { depth: null });
+
   return {
     props: {
       kanjiInfo,
+      graphData,
     },
   };
 };
