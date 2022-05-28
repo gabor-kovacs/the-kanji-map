@@ -139,6 +139,12 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
 
   // find same onyomi
   const sameOn = (kanji1: string, kanji2: string) => {
+    console.log("kanji1");
+    console.dir(kanji1, { depth: null });
+
+    console.log("data");
+    console.log(data);
+
     const on1 = data?.nodes?.find((o) => o.id === kanji1)?.data?.jishoData
       ?.onyomi;
     const on2 = data?.nodes?.find((o) => o.id === kanji2)?.data?.jishoData
@@ -234,10 +240,15 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       // ADD ONYOMI TO LINKS
       linkThreeObjectExtend={true}
       linkThreeObject={(link: LinkObject) => {
+        console.log("link.source");
         console.log(link.source);
+        console.log("link.target");
         console.log(link.target);
 
-        const linkText = sameOn(String(link.source), String(link.target));
+        const linkText = sameOn(
+          String(link?.source?.id),
+          String(link?.target?.id)
+        );
 
         console.log("linkText");
         console.log(linkText);
