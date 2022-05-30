@@ -9,11 +9,12 @@ import { jinmeiyoList } from "../data/jinmeiyo";
 import SpriteText from "three-spritetext";
 import { useRouter } from "next/router";
 import { useTheme } from "next-themes";
+import type { KanjiParseResult } from "unofficial-jisho-api";
 
 type KanjiInfo = {
   id: string;
   kanjialiveData?: any;
-  jishoData?: any;
+  jishoData?: KanjiParseResult | null;
 };
 
 interface Props {
@@ -21,8 +22,12 @@ interface Props {
   graphData: any;
 }
 
+type NodeObjectWithData = NodeObject & { data: KanjiInfo };
+
 const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
-  const fgRef: React.MutableRefObject<ForceGraphMethods | undefined> = useRef();
+  const { theme } = useTheme();
+  const fg2DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
+    useRef();
 
   const router = useRouter();
 
@@ -33,7 +38,7 @@ const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
 
   useEffect(() => {
     setData(graphData.withOutLinks as unknown as GraphData);
-  }, []);
+  }, [graphData.withOutLinks]);
 
   const handleClick = (node: NodeObject) => {
     router.push(`/kanji/${node.id}`);
@@ -49,9 +54,6 @@ const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   // store the hovered node in a state
   const [hoverNode, setHoverNode] = useState<NodeObject | null>(null);
 
-  // store global scale for arrow length
-  const [scale, setScale] = useState(1);
-
   const handleNodeHover = (node: NodeObject | null) => {
     setHoverNode(node || null);
     // paintNode(node);
@@ -64,8 +66,7 @@ const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   ) => {
     // console.log(`hovernode: ${hoverNode?.id}`);
     const label = String(node.id);
-    const fontSize = 10;
-    // const fontSize = 24 / globalScale;
+    const fontSize = 6;
     ctx.font = `${fontSize}px Sans-Serif`;
     const textWidth = ctx.measureText(label).width;
     const bckgDimensions = [textWidth, fontSize].map((n) => n + fontSize * 0.2); // some padding
@@ -108,11 +109,21 @@ const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
     // node.__bckgDimensions = bckgDimensions; // to re-use in nodePointerAreaPaint
   };
 
+  // find same onyomi
+  const sameOn = (kanji1: string, kanji2: string) => {
+    const k1 = data?.nodes?.find((o) => o.id === kanji1) as NodeObjectWithData;
+    const k2 = data?.nodes?.find((o) => o.id === kanji2) as NodeObjectWithData;
+    const on1: string[] | undefined = k1?.data?.jishoData?.onyomi;
+    const on2: string[] | undefined = k2?.data?.jishoData?.onyomi;
+    const onyomiOverlap = on1?.filter((value) => on2?.includes(value));
+    return onyomiOverlap;
+  };
+
   // FOCUS  ON MAIN NODE AT START
   useEffect(() => {
     const focusMain = setTimeout(() => {
       if (kanjiInfo.id && data?.nodes?.length > 0) {
-        fgRef?.current?.zoomToFit(1000, 100);
+        fg2DRef?.current?.zoomToFit(1000, 100);
       }
     }, 100);
     return () => clearTimeout(focusMain);
@@ -120,22 +131,22 @@ const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
 
   return (
     <ForceGraph2D
+      ref={fg2DRef}
       width={500}
       height={500}
       backgroundColor={"var(--color-background)"}
       graphData={data}
-      // nodeLabel="id"
-      // ARROWS
-
-      // linkColor={"var(--color-foreground)"}
-      ref={fgRef}
+      nodeLabel={(n) => {
+        const node = n as NodeObjectWithData;
+        return `${node.data.jishoData?.kunyomi}<br/>${node.data.jishoData?.meaning}`;
+      }}
       warmupTicks={10}
       onNodeClick={handleClick}
       nodeCanvasObject={paintNode}
-      nodePointerAreaPaint={(node, color, ctx, globalScale) => {
+      nodePointerAreaPaint={(node, color, ctx) => {
         const label = String(node.id);
         // const fontSize = 24 / globalScale;
-        const fontSize = 10;
+        const fontSize = 6;
         ctx.font = `${fontSize}px Sans-Serif`;
         const textWidth = ctx.measureText(label).width;
         const bckgDimensions = [textWidth, fontSize].map(
@@ -155,19 +166,67 @@ const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       linkColor={() =>
         getComputedStyle(document?.body)?.getPropertyValue("--color-foreground")
       }
+      linkCanvasObject={(link: LinkObject, ctx: CanvasRenderingContext2D) => {
+        if (
+          typeof link.source === "object" &&
+          typeof link.target === "object" &&
+          link.source.x &&
+          link.target.x &&
+          link.source.y &&
+          link.target.y
+        ) {
+          const x = (link.source.x + link.target.x) / 2;
+          const y = (link.source.y + link.target.y) / 2;
+
+          const linkText = sameOn(
+            String(link.source.id),
+            String(link.target.id)
+          );
+
+          ctx.beginPath();
+          ctx.moveTo(link.source.x, link.source.y);
+          ctx.lineTo(link.target.x, link.target.y);
+          ctx.lineWidth = 0.25;
+          ctx.strokeStyle = theme === "dark" ? "#ffffff" : "#000000";
+          ctx.stroke();
+
+          const label = String(linkText);
+          const fontSize = 4;
+          ctx.font = `${fontSize}px Sans-Serif`;
+
+          ctx.save();
+          x && y && ctx.translate(x, y);
+          ctx.textAlign = "center";
+          ctx.textBaseline = "middle";
+          ctx.fillStyle = theme === "dark" ? "#ffffff" : "#000000";
+          ctx.fillText(label, 0, 0);
+          ctx.restore();
+        }
+      }}
       linkDirectionalArrowLength={4}
-      // linkDirectionalArrowRelPos={0.82}
-      // linkDirectionalArrowResolution={32}
-      //PARTICLES
+      linkDirectionalArrowRelPos={({ source, target }) => {
+        if (
+          typeof source === "object" &&
+          typeof target === "object" &&
+          source.x &&
+          target.x &&
+          source.y &&
+          target.y
+        ) {
+          const linkLength = Math.hypot(
+            target.x - source.x,
+            target.y - source.y
+          );
+
+          const relPos = (linkLength - 3) / linkLength;
+          return relPos;
+        } else {
+          return 0.8;
+        }
+      }}
       linkDirectionalParticles={3}
       linkDirectionalParticleSpeed={0.008}
       linkDirectionalParticleWidth={2}
-      // onRenderFramePre={(_, globalScale) => console.log(globalScale)}
-      // onZoom={(e) => {
-      //   console.log(e.k);
-
-      //   setScale(e.k);
-      // }}
     />
   );
 };

@@ -19,6 +19,9 @@ type KanjiInfo = {
   jishoData?: any;
 };
 
+// type NodeObjectWithData extends NodeObject
+type NodeObjectWithData = NodeObject & { data: KanjiInfo };
+
 interface Props {
   kanjiInfo: KanjiInfo;
   graphData: any;
@@ -27,7 +30,8 @@ interface Props {
 const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   const { theme } = useTheme();
 
-  const fgRef: React.MutableRefObject<ForceGraphMethods | undefined> = useRef();
+  const fg3DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
+    useRef();
 
   const router = useRouter();
 
@@ -39,7 +43,7 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   useEffect(() => {
     setData(graphData.withOutLinks as unknown as GraphData);
     console.dir(graphData.withOutLinks, { depth: null });
-  }, []);
+  }, [graphData.withOutLinks]);
 
   const handleClick = (node: NodeObject) => {
     router.push(`/kanji/${node.id}`);
@@ -59,9 +63,16 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       if (kanjiInfo.id && data?.nodes?.length > 0) {
         const node = data?.nodes?.find((o) => o.id === kanjiInfo.id);
         const distance = 160;
-        if (node && node?.x && node?.y && node?.z && fgRef && fgRef?.current) {
+        if (
+          node &&
+          node?.x &&
+          node?.y &&
+          node?.z &&
+          fg3DRef &&
+          fg3DRef?.current
+        ) {
           const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
-          fgRef.current.cameraPosition(
+          fg3DRef.current.cameraPosition(
             {
               x: node.x * distRatio,
               y: node.y * distRatio,
@@ -139,33 +150,13 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
 
   // find same onyomi
   const sameOn = (kanji1: string, kanji2: string) => {
-    console.log("kanji1");
-    console.dir(kanji1, { depth: null });
-
-    console.log("data");
-    console.log(data);
-
-    const on1 = data?.nodes?.find((o) => o.id === kanji1)?.data?.jishoData
-      ?.onyomi;
-    const on2 = data?.nodes?.find((o) => o.id === kanji2)?.data?.jishoData
-      ?.onyomi;
-
-    console.log(on1);
-    console.log(on2);
-
+    const k1 = data?.nodes?.find((o) => o.id === kanji1) as NodeObjectWithData;
+    const k2 = data?.nodes?.find((o) => o.id === kanji2) as NodeObjectWithData;
+    const on1: string[] = k1?.data?.jishoData?.onyomi;
+    const on2: string[] = k2?.data?.jishoData?.onyomi;
     const onyomiOverlap = on1?.filter((value) => on2?.includes(value));
-
     return onyomiOverlap;
-
-    // return data[kanji1]?.jishoData?.onyomi?.filter((value) =>
-    //   data[kanji2]?.jishoData?.onyomi?.includes(value)
-    // );
   };
-
-  useEffect(() => {
-    sameOn("語", "吾");
-    console.log(sameOn("語", "吾"));
-  }, [data]);
 
   return (
     <ForceGraph3D
@@ -174,25 +165,53 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       // using css variables here can cause unexpected behavior
       backgroundColor={theme === "dark" ? "#1f1f1f" : "#ffffff"}
       graphData={data}
-      // ARROWS
       linkColor={() => {
         return theme === "dark" ? "#ffffff" : "#000000";
       }}
       linkDirectionalArrowLength={5}
-      // linkDirectionalArrowRelPos={0.9}
-      linkDirectionalArrowResolution={32}
-      //PARTICLES
+      linkDirectionalArrowRelPos={({ source, target }) => {
+        if (
+          typeof source === "object" &&
+          typeof target === "object" &&
+          source.x &&
+          target.x &&
+          source.y &&
+          target.y &&
+          source.z &&
+          target.z
+        ) {
+          const linkLength = Math.hypot(
+            target.x - source.x,
+            target.y - source.y,
+            target.z - source.z
+          );
+          const relPos = (linkLength - 8) / linkLength;
+          return relPos;
+        } else {
+          return 0.8;
+        }
+      }}
+      linkDirectionalArrowResolution={8}
       linkDirectionalParticles={3}
       linkDirectionalParticleSpeed={0.008}
       linkDirectionalParticleWidth={1}
       linkDirectionalParticleResolution={8}
-      enableNodeDrag={false}
+      // enableNodeDrag={false}
       enableNavigationControls={true}
       showNavInfo={false}
-      ref={fgRef}
+      ref={fg3DRef}
       warmupTicks={10}
       onNodeClick={handleClick}
       onNodeHover={handleHover}
+      nodeLabel={(n) => {
+        const node = n as NodeObjectWithData;
+        return `<div style="color: #ffffff; background: #000000a6; padding: 4px; border-radius: 4px;">
+                  <span>${node.data.jishoData?.kunyomi}</span>
+                  <br/>
+                  <span>${node.data.jishoData?.meaning}</span>
+                </div>
+               `;
+      }}
       nodeThreeObject={(node: NodeObject) => {
         let color;
         // if it is he main node
@@ -229,7 +248,7 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
           "serif";
         sprite.color = "#000";
         sprite.textHeight = 10;
-        sprite.fontSize = 180;
+        sprite.fontSize = 120;
         sprite.padding = 3;
 
         const group = new THREE.Group();
@@ -239,27 +258,23 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       }}
       // ADD ONYOMI TO LINKS
       linkThreeObjectExtend={true}
+      // @ts-ignore
       linkThreeObject={(link: LinkObject) => {
-        console.log("link.source");
-        console.log(link.source);
-        console.log("link.target");
-        console.log(link.target);
+        const source =
+          typeof link.source === "object" ? link.source.id : link.source;
+        const target =
+          typeof link.target === "object" ? link.target.id : link.target;
 
-        const linkText = sameOn(
-          String(link?.source?.id),
-          String(link?.target?.id)
-        );
+        const linkText = sameOn(String(source), String(target));
 
-        console.log("linkText");
-        console.log(linkText);
         let sprite: SpriteText;
         if (linkText && linkText.length > 0) {
           sprite = new SpriteText(linkText.join(", "));
         } else {
           return null;
         }
-        sprite.color = "#000";
-        sprite.textHeight = 5;
+        sprite.color = theme === "dark" ? "#ffffff" : "#000000";
+        sprite.textHeight = 6;
         return sprite;
       }}
       linkPositionUpdate={(sprite, { start, end }) => {

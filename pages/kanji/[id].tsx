@@ -26,7 +26,7 @@ const Page: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       <Head>
         <title>{kanjiInfo.id}</title>
       </Head>
-      {/* <Graph2DNoSSR kanjiInfo={kanjiInfo} graphData={graphData} /> */}
+      <Graph2DNoSSR kanjiInfo={kanjiInfo} graphData={graphData} />
       <Graph3DNoSSR kanjiInfo={kanjiInfo} graphData={graphData} />
     </Layout>
   );
@@ -47,25 +47,25 @@ export const getStaticPaths: GetStaticPaths = async () => {
 //     Object.entries(props).filter(([, value]) => value !== undefined)
 //   ) as T;
 
-const removeUndefinedForNextJsSerializing = (obj) => {
-  if (!obj) return;
-  Object?.keys(obj)?.forEach(function (key) {
-    // Get this value and its type
-    var value = obj[key];
-    var type = typeof value;
-    if (type === "object") {
-      // Recurse...
-      removeUndefinedForNextJsSerializing(value);
-      // ...and remove if now "empty" (NOTE: insert your definition of "empty" here)
-      if (!Object?.keys(value)?.length) {
-        delete obj[key];
-      }
-    } else if (type === "undefined") {
-      // Undefined, remove it
-      delete obj[key];
-    }
-  });
-};
+// const removeUndefinedForNextJsSerializing = (obj: obj) => {
+//   if (!obj) return;
+//   Object?.keys(obj)?.forEach(function (key) {
+//     // Get this value and its type
+//     var value = obj[key];
+//     var type = typeof value;
+//     if (type === "object") {
+//       // Recurse...
+//       removeUndefinedForNextJsSerializing(value);
+//       // ...and remove if now "empty" (NOTE: insert your definition of "empty" here)
+//       if (!Object?.keys(value)?.length) {
+//         delete obj[key];
+//       }
+//     } else if (type === "undefined") {
+//       // Undefined, remove it
+//       delete obj[key];
+//     }
+//   });
+// };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const kanjiInfoRaw = await getKanjiData(params?.id as string);
