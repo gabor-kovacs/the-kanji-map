@@ -5,20 +5,32 @@ import Head from "next/head";
 import Image from "next/image";
 
 import Layout from "../components/layout";
-
+import { Select } from "@mantine/core";
 import Composition from "../preprocess/composition.json";
 
 import { useTheme } from "next-themes";
 import styled from "@emotion/styled";
+// import Select, { SelectChangeEvent } from '@mui/material/Select';
 
 import { DarkModeSwitch } from "react-toggle-dark-mode";
 import { css } from "@emotion/react";
 import DarkmodeToggle from "../components/darkmodeToggle";
+import SearchList from "../preprocess/searchlist.json";
 
 const Home: NextPage = () => {
-  // React.useEffect(() => {
-  //   Object.entries(Composition).map(([key, _]) => console.log(key));
-  // }, []);
+  const searchData = SearchList.map((el) => {
+    return {
+      value: el.k,
+      label: el.k,
+      kunyomi: el.r,
+      meaning: el.m,
+      group: el.g === 1 ? "joyo" : el.g === 2 ? "jinmeiyo" : "other",
+    };
+  });
+
+  React.useEffect(() => {
+    console.log(searchData);
+  }, []);
 
   return (
     <Layout>
@@ -31,6 +43,12 @@ const Home: NextPage = () => {
       <main>
         <h1>Hola</h1>
       </main>
+
+      <Select
+        label="Your favorite framework/library"
+        placeholder="Pick one"
+        data={searchData}
+      />
 
       <DarkmodeToggle
         size={32}
