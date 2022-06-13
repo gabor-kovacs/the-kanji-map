@@ -29,10 +29,14 @@ export const globalStyles = (
         --color-background: #ffffff;
         --color-foreground: #1f1f1f;
         --color-primary: #2b99cf;
+        --color-light: #555;
+        --color-lighter: #eee;
       }
       [data-theme="dark"] {
         --color-background: #1f1f1f;
         --color-foreground: #ffffff;
+        --color-light: #aaa;
+        --color-lighter: #333;
       }
 
       html,

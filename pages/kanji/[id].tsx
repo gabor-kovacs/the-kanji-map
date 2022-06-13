@@ -6,8 +6,9 @@ import type { GetStaticPaths, GetStaticProps } from "next";
 
 import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
 
-import Graph3DNoSSR from "../../components/graph3DWrapper";
-import Graph2DNoSSR from "../../components/graph2DWrapper";
+import Graphs from "../../components/graphs";
+
+import Search from "../../components/search";
 
 type KanjiInfo = {
   id: string;
@@ -26,8 +27,8 @@ const Page: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       <Head>
         <title>{kanjiInfo.id}</title>
       </Head>
-      <Graph2DNoSSR kanjiInfo={kanjiInfo} graphData={graphData} />
-      <Graph3DNoSSR kanjiInfo={kanjiInfo} graphData={graphData} />
+      <Search />
+      <Graphs kanjiInfo={kanjiInfo} graphData={graphData} />
     </Layout>
   );
 };

@@ -5,7 +5,7 @@ import Head from "next/head";
 import Image from "next/image";
 
 import Layout from "../components/layout";
-import { Select } from "@mantine/core";
+
 import Composition from "../preprocess/composition.json";
 
 import { useTheme } from "next-themes";
@@ -15,23 +15,10 @@ import styled from "@emotion/styled";
 import { DarkModeSwitch } from "react-toggle-dark-mode";
 import { css } from "@emotion/react";
 import DarkmodeToggle from "../components/darkmodeToggle";
-import SearchList from "../preprocess/searchlist.json";
+
+import Search from "../components/search";
 
 const Home: NextPage = () => {
-  const searchData = SearchList.map((el) => {
-    return {
-      value: el.k,
-      label: el.k,
-      kunyomi: el.r,
-      meaning: el.m,
-      group: el.g === 1 ? "joyo" : el.g === 2 ? "jinmeiyo" : "other",
-    };
-  });
-
-  React.useEffect(() => {
-    console.log(searchData);
-  }, []);
-
   return (
     <Layout>
       <Head>
@@ -42,13 +29,8 @@ const Home: NextPage = () => {
 
       <main>
         <h1>Hola</h1>
+        <Search />
       </main>
-
-      <Select
-        label="Your favorite framework/library"
-        placeholder="Pick one"
-        data={searchData}
-      />
 
       <DarkmodeToggle
         size={32}

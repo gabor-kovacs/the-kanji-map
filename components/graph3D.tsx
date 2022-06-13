@@ -25,9 +25,10 @@ type NodeObjectWithData = NodeObject & { data: KanjiInfo };
 interface Props {
   kanjiInfo: KanjiInfo;
   graphData: any;
+  triggerFocus: number;
 }
 
-const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
+const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData, triggerFocus }) => {
   const { theme } = useTheme();
 
   const fg3DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
@@ -85,7 +86,7 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       }
     }, 100);
     return () => clearTimeout(focusMain);
-  }, [data, kanjiInfo.id]);
+  }, [data, kanjiInfo.id, triggerFocus]);
 
   const handleHover = (node: any, prevNode: any) => {
     // TODO: make this more compact

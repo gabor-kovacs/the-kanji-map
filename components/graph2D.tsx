@@ -20,11 +20,12 @@ type KanjiInfo = {
 interface Props {
   kanjiInfo: KanjiInfo;
   graphData: any;
+  triggerFocus: number;
 }
 
 type NodeObjectWithData = NodeObject & { data: KanjiInfo };
 
-const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
+const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData, triggerFocus }) => {
   const { theme } = useTheme();
   const fg2DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
     useRef();
@@ -123,11 +124,11 @@ const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   useEffect(() => {
     const focusMain = setTimeout(() => {
       if (kanjiInfo.id && data?.nodes?.length > 0) {
-        fg2DRef?.current?.zoomToFit(1000, 100);
+        fg2DRef?.current?.zoomToFit(1, 100);
       }
     }, 100);
     return () => clearTimeout(focusMain);
-  }, [data, kanjiInfo.id]);
+  }, [data, kanjiInfo.id, triggerFocus]);
 
   return (
     <ForceGraph2D
