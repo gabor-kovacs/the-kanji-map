@@ -23,6 +23,12 @@ const Graph3DNoSSR = dynamic(() => import("./graph3D"), {
 import styled from "@emotion/styled";
 import { css } from "@emotion/react";
 
+interface TabPanelProps {
+  children?: React.ReactNode;
+  index: number;
+  value: number;
+}
+
 type KanjiInfo = {
   id: string;
   kanjialiveData?: any;
@@ -34,11 +40,33 @@ interface Props {
   graphData: any;
 }
 
+function TabPanel(props: TabPanelProps) {
+  const { children, value, index, ...other } = props;
+
+  return (
+    <div
+      style={{ display: value === index ? "block" : "none" }}
+      // style={{ pointerEvents: "none" }}
+      role="tabpanel"
+      // hidden={value !== index}
+      id={`tabpanel-${index}`}
+      aria-labelledby={`tab-${index}`}
+      {...other}
+    >
+      {children}
+    </div>
+  );
+}
+
+function a11yProps(index: number) {
+  return {
+    id: `tab-${index}`,
+    "aria-controls": `tabpanel-${index}`,
+  };
+}
+
 const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
-  const [measureRef, bounds] = useMeasure({
-    polyfill: ResizeObserver,
-    debounce: 50,
-  });
+  const [ref, bounds] = useMeasure({ polyfill: ResizeObserver, debounce: 50 });
 
   const [tabValue, setTabValue] = React.useState(0);
   const [showOutLinks, setShowOutLinks] = React.useState<boolean>(true);
@@ -56,42 +84,38 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   }, [bounds]);
 
   return (
-    <Wrapper ref={measureRef}>
-      <div style={{ width: "100%", height: "50px" }}>
+    <Wrapper ref={ref}>
+      <Box sx={{ borderBottom: 1, borderColor: "divider" }}>
         <Tabs value={tabValue} onChange={handleTabChange} aria-label="tabs">
-          <Tab label="3D" id={"tab-0"} aria-controls={"tabpanel-0"} />
-          <Tab label="2D" id={"tab-1"} aria-controls={"tabpanel-1"} />
+          <Tab label="3D" {...a11yProps(0)} />
+          <Tab label="2D" {...a11yProps(1)} />
         </Tabs>
-      </div>
-
-      <GraphWrapper>
-        {tabValue === 0 && (
-          <Graph3DNoSSR
-            kanjiInfo={kanjiInfo}
-            graphData={graphData}
-            showOutLinks={showOutLinks}
-            triggerFocus={tabValue}
-            bounds={bounds}
-          />
-        )}
-        {tabValue === 1 && (
-          <Graph2DNoSSR
-            kanjiInfo={kanjiInfo}
-            graphData={graphData}
-            showOutLinks={showOutLinks}
-            triggerFocus={tabValue}
-            bounds={bounds}
-          />
-        )}
-      </GraphWrapper>
+      </Box>
+      <TabPanel value={tabValue} index={0}>
+        <Graph3DNoSSR
+          kanjiInfo={kanjiInfo}
+          graphData={graphData}
+          showOutLinks={showOutLinks}
+          triggerFocus={tabValue}
+          bounds={bounds}
+        />
+      </TabPanel>
+      <TabPanel value={tabValue} index={1}>
+        <Graph2DNoSSR
+          kanjiInfo={kanjiInfo}
+          graphData={graphData}
+          showOutLinks={showOutLinks}
+          triggerFocus={tabValue}
+          bounds={bounds}
+        />
+      </TabPanel>
       <div
         css={css`
           position: absolute;
-          top: 0;
+          bottom: 0;
           right: 0;
         `}
       >
-        Out Links:
         <Checkbox
           onChange={handleShowOutlinks}
           inputProps={{ "aria-label": "Show out links" }}
@@ -107,21 +131,15 @@ export default Graphs;
 const Wrapper = styled.div`
   position: relative;
   width: 100%;
-  height: 100%;
-
+  height: 800px;
   & .MuiTab-textColorPrimary {
     color: var(--color-light);
   }
+
   & .Mui-selected {
     color: var(--color-primary);
   }
   & .MuiTabs-indicator {
     background-color: var(--color-primary);
   }
-`;
-
-const GraphWrapper = styled.div`
-  position: absolute;
-  inset: 0;
-  margin-top: 50px;
 `;

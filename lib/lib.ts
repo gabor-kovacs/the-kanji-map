@@ -4,6 +4,9 @@ import Composition from "../preprocess/composition.json";
 import JishoAPI from "unofficial-jisho-api";
 const jisho = new JishoAPI();
 
+/**
+ * This is used by NextJS getStaticPaths to generate possible kanji pages
+ */
 export const getAllKanji = () => {
   return Object.entries(Composition).map(([kanji, _]) => {
     return {
@@ -14,6 +17,10 @@ export const getAllKanji = () => {
   });
 };
 
+/**
+ * Get data for input kanji from KanjiAlive and Jisho.org
+ * @param id input kanji
+ */
 export const getKanjiData = async (id: string) => {
   // GETTING KANJI INFO FROM KANJIALIVE
   let kanjialiveData = null;
@@ -53,8 +60,6 @@ export const getKanjiData = async (id: string) => {
     id,
     kanjialiveData,
     jishoData,
-    // contentHtml,
-    // ...matterResult.data,
   };
 };
 
@@ -83,6 +88,11 @@ const createInLinks = (array: string[]) => {
   return links;
 };
 
+/**
+ * Return 2 objects for graph data:
+ * with and without out links
+ * @param id input kanji
+ */
 export const getGraphData = async (id: string) => {
   let inNodeList = [id];
   inNodeList = findNodes(inNodeList);
@@ -141,31 +151,3 @@ export const getGraphData = async (id: string) => {
   };
   return { withOutLinks, noOutLinks };
 };
-
-// export const getTheMap = () => {
-//   const nodes = Object.entries(Composition).map(([kanji, _]) => {
-//     return { id: kanji, group: 1 };
-//   });
-
-//   let inLinks: { source: string; target: string; value: number }[] = [];
-//   let outLinks: { source: string; target: string; value: number }[] = [];
-
-//   Object.entries(Composition).forEach(([kanji, data]) => {
-//     data.in.forEach((node) => {
-//       inLinks.push({ source: node, target: kanji, value: 1 });
-//       outLinks.push({ source: kanji, target: node, value: 1 });
-//     });
-//   });
-
-//   // remove duplicates
-//   let links = inLinks.concat(outLinks);
-//   links = links.filter(
-//     (value, index, self) =>
-//       index ===
-//       self.findIndex(
-//         (t) => t.source === value.source && t.target === value.target
-//       )
-//   );
-
-//   return { nodes, links };
-// };

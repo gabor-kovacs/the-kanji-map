@@ -6,6 +6,8 @@ import Document, {
   DocumentContext,
 } from "next/document";
 
+import Script from "next/script";
+
 import { globalStyles } from "../styles/global";
 
 class MyDocument extends Document {
@@ -16,13 +18,22 @@ class MyDocument extends Document {
 
   render() {
     return (
-      <Html>
-        <Head>{globalStyles}</Head>
-        <body>
-          <Main />
-          <NextScript />
-        </body>
-      </Html>
+      <>
+        {/* <Script id="show-banner" strategy="beforeInteractive">
+          {`console.log("BRUUUUUUUUUUUUUUUUUUUH");`}
+        </Script> */}
+        <Html>
+          <Head>{globalStyles}</Head>
+          <body>
+            <Main />
+            <NextScript />
+            {/* <Script
+              src="/handwriting.canvas.js"
+              strategy="beforeInteractive"
+            ></Script> */}
+          </body>
+        </Html>
+      </>
     );
   }
 }

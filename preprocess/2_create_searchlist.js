@@ -22,58 +22,15 @@ const getGroup = (id) => {
   return 3;
 };
 
-const chunkArray = (arr, size) =>
-  arr.length > size
-    ? [arr.slice(0, size), ...chunkArray(arr.slice(size), size)]
-    : [arr];
-
 (async () => {
   const searchList = [];
   const len = Object.entries(composition).length;
   let i = 1;
 
-  // const inNodes = await Promise.all(
-  //   inNodeList.map(async (x) => {
-  //     return {
-  //       id: x,
-  //       data: await getKanjiData(x),
-  //     };
-  //   })
-  // );
-
-  // Object.entries(composition).map((val) => console.log(val));
   const kanjiList = [];
   for (const [kanji, _] of Object.entries(composition)) {
     kanjiList.push(kanji);
   }
-
-  // const searchList = kanjiList.map((kanji) => {
-  //   const group = getGroup(kanji);
-  //   return {
-  //     value: kanji,
-  //     label: kanji,
-  //     group: group,
-  //   };
-  // });
-
-  // const chunkedKanjiList = chunkArray(kanjiList, 100);
-  // console.log(chunkedKanjiList);
-  // const kanjiList = kl.slice(0, 100);
-  // console.log(kanjiList);
-
-  // const searchList = await Promise.all(
-  //   kanjiList.map(async (kanji) => {
-  //     const info = await getKanjiInfo(kanji);
-  //     const group = getGroup(kanji);
-  //     return {
-  //       value: kanji,
-  //       label: kanji,
-  //       kunyomi: info?.kunyomi ? info?.kunyomi.join(", ") : "",
-  //       meaning: info?.meaning ?? "",
-  //       group: group,
-  //     };
-  //   })
-  // );
 
   for (const [kanji, _] of Object.entries(composition)) {
     console.log(`processing ${i}/${len}`);

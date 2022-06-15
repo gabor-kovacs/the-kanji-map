@@ -14,13 +14,15 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+    // "types": ["@emotion/react/types/css-prop"]
     // "downlevelIteration": true
   },
   "include": [
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "preprocess/create_composition.js"
+, "lib/handwriting.js", "lib/handwriting.js", "lib/handwriting.js"    "preprocess/create_composition.js"
   ],
   "exclude": ["node_modules"]
 }
+

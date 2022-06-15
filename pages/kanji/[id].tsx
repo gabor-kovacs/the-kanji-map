@@ -4,11 +4,12 @@ import { getAllKanji, getGraphData, getKanjiData } from "../../lib/lib";
 import Head from "next/head";
 import type { GetStaticPaths, GetStaticProps } from "next";
 
-import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
-
 import Graphs from "../../components/graphs";
 
 import Search from "../../components/search";
+import DrawInput from "../../components/drawInput";
+import Header from "../../components/header";
+import styled from "@emotion/styled";
 
 type KanjiInfo = {
   id: string;
@@ -23,17 +24,32 @@ interface Props {
 
 const Page: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   return (
-    <Layout>
+    <>
       <Head>
         <title>{kanjiInfo.id}</title>
       </Head>
-      <Search />
-      <Graphs kanjiInfo={kanjiInfo} graphData={graphData} />
-    </Layout>
+      <Header />
+      <Main>
+        <Top>
+          <div>
+            <Search />
+            <DrawInput />
+          </div>
+          <div style={{ background: "pink" }}>kanji</div>
+          <div style={{ background: "yellow" }}>radical</div>
+        </Top>
+        <Bottom>
+          <div style={{ background: "yellow" }}>examples</div>
+          <Graphs kanjiInfo={kanjiInfo} graphData={graphData} />
+        </Bottom>
+      </Main>
+    </>
   );
 };
 
 export default Page;
+
+// *  Next.js
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = getAllKanji();
@@ -42,31 +58,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
     fallback: false,
   };
 };
-
-// const removeUndefinedForNextJsSerializing = <T,>(props: T): T =>
-//   Object.fromEntries(
-//     Object.entries(props).filter(([, value]) => value !== undefined)
-//   ) as T;
-
-// const removeUndefinedForNextJsSerializing = (obj: obj) => {
-//   if (!obj) return;
-//   Object?.keys(obj)?.forEach(function (key) {
-//     // Get this value and its type
-//     var value = obj[key];
-//     var type = typeof value;
-//     if (type === "object") {
-//       // Recurse...
-//       removeUndefinedForNextJsSerializing(value);
-//       // ...and remove if now "empty" (NOTE: insert your definition of "empty" here)
-//       if (!Object?.keys(value)?.length) {
-//         delete obj[key];
-//       }
-//     } else if (type === "undefined") {
-//       // Undefined, remove it
-//       delete obj[key];
-//     }
-//   });
-// };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const kanjiInfoRaw = await getKanjiData(params?.id as string);
@@ -82,3 +73,23 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     },
   };
 };
+
+// *  Styles
+
+const Main = styled.main`
+  width: 100%;
+  height: calc(100% - 50px);
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+`;
+
+const Top = styled.div`
+  display: grid;
+  grid-template-columns: 200px 1fr 1fr;
+`;
+
+const Bottom = styled.div`
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+`;

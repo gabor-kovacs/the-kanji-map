@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, SetStateAction } from "react";
+import React, { useState, useEffect, useRef } from "react";
 
 import ForceGraph2D, { LinkObject, NodeObject } from "react-force-graph-2d";
 import type { ForceGraphMethods, GraphData } from "react-force-graph-2d";
@@ -11,6 +11,8 @@ import { useRouter } from "next/router";
 import { useTheme } from "next-themes";
 import type { KanjiParseResult } from "unofficial-jisho-api";
 
+import type { RectReadOnly } from "react-use-measure";
+
 type KanjiInfo = {
   id: string;
   kanjialiveData?: any;
@@ -20,12 +22,20 @@ type KanjiInfo = {
 interface Props {
   kanjiInfo: KanjiInfo;
   graphData: any;
+  showOutLinks: boolean;
   triggerFocus: number;
+  bounds: RectReadOnly;
 }
 
 type NodeObjectWithData = NodeObject & { data: KanjiInfo };
 
-const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData, triggerFocus }) => {
+const Graph2D: React.FC<Props> = ({
+  kanjiInfo,
+  graphData,
+  showOutLinks,
+  triggerFocus,
+  bounds,
+}) => {
   const { theme } = useTheme();
   const fg2DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
     useRef();
@@ -38,8 +48,12 @@ const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData, triggerFocus }) => {
   });
 
   useEffect(() => {
-    setData(graphData.withOutLinks as unknown as GraphData);
-  }, [graphData.withOutLinks]);
+    setData(
+      showOutLinks
+        ? graphData.withOutLinks
+        : (graphData.noOutLinks as unknown as GraphData)
+    );
+  }, [graphData.noOutLinks, graphData.withOutLinks, showOutLinks]);
 
   const handleClick = (node: NodeObject) => {
     router.push(`/kanji/${node.id}`);
@@ -124,17 +138,17 @@ const Graph2D: React.FC<Props> = ({ kanjiInfo, graphData, triggerFocus }) => {
   useEffect(() => {
     const focusMain = setTimeout(() => {
       if (kanjiInfo.id && data?.nodes?.length > 0) {
-        fg2DRef?.current?.zoomToFit(1, 100);
+        fg2DRef?.current?.zoomToFit(1000, bounds.width * 0.1);
       }
     }, 100);
     return () => clearTimeout(focusMain);
-  }, [data, kanjiInfo.id, triggerFocus]);
+  }, [data, kanjiInfo.id, triggerFocus, bounds]);
 
   return (
     <ForceGraph2D
       ref={fg2DRef}
-      width={500}
-      height={500}
+      width={bounds.width}
+      height={bounds.height - 50}
       backgroundColor={"var(--color-background)"}
       graphData={data}
       nodeLabel={(n) => {

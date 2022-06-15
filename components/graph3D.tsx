@@ -13,6 +13,8 @@ import SpriteText from "three-spritetext";
 import { useRouter } from "next/router";
 import { useTheme } from "next-themes";
 
+import type { RectReadOnly } from "react-use-measure";
+
 type KanjiInfo = {
   id: string;
   kanjialiveData?: any;
@@ -25,10 +27,18 @@ type NodeObjectWithData = NodeObject & { data: KanjiInfo };
 interface Props {
   kanjiInfo: KanjiInfo;
   graphData: any;
+  showOutLinks: boolean;
   triggerFocus: number;
+  bounds: RectReadOnly;
 }
 
-const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData, triggerFocus }) => {
+const Graph3D: React.FC<Props> = ({
+  kanjiInfo,
+  graphData,
+  showOutLinks,
+  triggerFocus,
+  bounds,
+}) => {
   const { theme } = useTheme();
 
   const fg3DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
@@ -42,9 +52,12 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData, triggerFocus }) => {
   });
 
   useEffect(() => {
-    setData(graphData.withOutLinks as unknown as GraphData);
-    console.dir(graphData.withOutLinks, { depth: null });
-  }, [graphData.withOutLinks]);
+    setData(
+      showOutLinks
+        ? graphData.withOutLinks
+        : (graphData.noOutLinks as unknown as GraphData)
+    );
+  }, [graphData.noOutLinks, graphData.withOutLinks, showOutLinks]);
 
   const handleClick = (node: NodeObject) => {
     router.push(`/kanji/${node.id}`);
@@ -161,8 +174,8 @@ const Graph3D: React.FC<Props> = ({ kanjiInfo, graphData, triggerFocus }) => {
 
   return (
     <ForceGraph3D
-      width={500}
-      height={500}
+      width={bounds.width}
+      height={bounds.height - 50}
       // using css variables here can cause unexpected behavior
       backgroundColor={theme === "dark" ? "#1f1f1f" : "#ffffff"}
       graphData={data}
