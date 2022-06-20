@@ -9,8 +9,10 @@ import handwriting from "../lib/handwriting";
 
 import Searchlist from "../preprocess/searchlist.json";
 import Link from "next/link";
+import { useTheme } from "next-themes";
 
 export const DrawInput: React.FC = () => {
+  const { theme } = useTheme();
   //  innitialize draw input
   const [canvas, setCanvas] = useState<any>(null);
 
@@ -18,8 +20,8 @@ export const DrawInput: React.FC = () => {
   const [inputSuggestions, setInputSuggestions] = useState<string[]>([]);
 
   const inputOptions = {
-    width: 180, //int, width of the writing area, default: undefined
-    height: 180, //int, height of the writing area, default: undefined
+    width: 220, //int, width of the writing area, default: undefined
+    height: 220, //int, height of the writing area, default: undefined
     language: "ja", //string, language of input trace, default: "zh_TW"
     numOfWords: 1, //int, number of words of input trace, default: undefined
     numOfReturn: 64, //int, number of maximum returned results, default: undefined // ! was 4
@@ -40,9 +42,14 @@ export const DrawInput: React.FC = () => {
 
   // init
   useEffect(() => {
-    const can = new handwriting.Canvas(document.getElementById("handInput"));
+    eraseKanji();
+    const can = new handwriting.Canvas(
+      document.getElementById("handInput"),
+      theme
+    );
     setCanvas(can);
-  }, []);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [theme]);
 
   const recognizeKanji = () => {
     canvas && canvas.recognize(canvas.trace, inputOptions, inputCallback);
@@ -55,11 +62,11 @@ export const DrawInput: React.FC = () => {
 
   return (
     <DrawInputWrapper>
-      {/* <CanvasCrosshair /> */}
-      <Canvas width={180} height={180} id={"handInput"} />
+      <CanvasCrosshair />
+      <Canvas width={220} height={220} id={"handInput"} />
       <DrawInputBottom>
         <IconButton
-          color="secondary"
+          style={{ color: "var(--color-danger)" }}
           aria-label="Erase"
           size="small"
           onClick={eraseKanji}
@@ -69,20 +76,24 @@ export const DrawInput: React.FC = () => {
         {inputSuggestions.map((suggestion, index) => (
           <Link key={index} href={`/kanji/${suggestion}`}>
             <IconButton
-              color="primary"
               key={index}
               aria-label={suggestion}
               value={suggestion}
               size="small"
-              style={{ color: "#212121", fontSize: 18, padding: 4 }}
+              style={{
+                color: "var(--color-light)",
+                fontSize: 18,
+                padding: 4,
+              }}
               onClick={eraseKanji}
             >
               {suggestion}
             </IconButton>
           </Link>
         ))}
+
         <IconButton
-          color="primary"
+          style={{ color: "var(--color-primary)" }}
           aria-label="Recognize"
           size="small"
           onClick={recognizeKanji}
@@ -100,23 +111,16 @@ export default DrawInput;
 
 const DrawInputWrapper = styled.div`
   position: relative;
-  /* pointer-events: auto; */
-  width: 200px;
-  height: 230px;
-
-  border-radius: 20px;
-  background: white;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  width: 100%;
+  height: 220px;
+  padding-bottom: 0;
+  background: var(--color-background);
 `;
 
 const DrawInputBottom = styled.div`
   height: 40px;
   width: 100%;
   padding: 0 5px;
-  margin-top: -13px;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -124,49 +128,28 @@ const DrawInputBottom = styled.div`
 
 const Canvas = styled.canvas`
   position: relative;
-  margin: 10px;
-  /* top: 10px; */
-  width: 180px;
-  height: 180px;
-  border: 1px solid #c4c4c4;
-  /* border-radius: 10px; */
+  width: 220px;
+  height: 220px;
+  border: 1px solid var(--color-light);
+  border-radius: 4px;
   cursor: crosshair;
 `;
 
 const CanvasCrosshair = styled.div`
   position: absolute;
-  top: 10px;
-  left: 100px;
-  height: 180px;
+  left: 110px;
+  height: 220px;
   width: 10px;
-  border-left: 1px dotted #c4c4c4;
+  border-left: 1px dashed var(--color-lighter);
   pointer-events: none;
 
   &:after {
     content: "";
     position: absolute;
-    top: 90px;
-    left: -90px;
+    top: 110px;
+    left: -110px;
     height: 10px;
-    width: 180px;
-    border-top: 1px dotted #c4c4c4;
+    width: 220px;
+    border-top: 1px dashed var(--color-lighter);
   }
 `;
-
-// const theme = createMuiTheme({
-//   palette: {
-//     primary: {
-//       main: "#2B99CF",
-//     },
-//     secondary: {
-//       main: "#f44336",
-//     },
-//   },
-// });
-// const innerTheme = createMuiTheme({
-//   palette: {
-//     primary: {
-//       main: "#212121",
-//     },
-//   },
-// });

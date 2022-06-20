@@ -1,6 +1,12 @@
 import * as React from "react";
 import Layout from "../../components/layout";
-import { getAllKanji, getGraphData, getKanjiData } from "../../lib/lib";
+import {
+  getAllKanji,
+  getGraphData,
+  getKanjiData,
+  getKanjiDataLocal,
+  getStrokeAnimation,
+} from "../../lib/lib";
 import Head from "next/head";
 import type { GetStaticPaths, GetStaticProps } from "next";
 
@@ -10,6 +16,9 @@ import Search from "../../components/search";
 import DrawInput from "../../components/drawInput";
 import Header from "../../components/header";
 import styled from "@emotion/styled";
+import Examples from "../../components/examples";
+import Radical from "../../components/radical";
+import Kanji from "../../components/kanji";
 
 type KanjiInfo = {
   id: string;
@@ -20,9 +29,10 @@ type KanjiInfo = {
 interface Props {
   kanjiInfo: KanjiInfo;
   graphData: any;
+  strokeAnimation: string;
 }
 
-const Page: React.FC<Props> = ({ kanjiInfo, graphData }) => {
+const Page: React.FC<Props> = ({ kanjiInfo, graphData, strokeAnimation }) => {
   return (
     <>
       <Head>
@@ -31,15 +41,18 @@ const Page: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       <Header />
       <Main>
         <Top>
-          <div>
+          <SearchWrapper>
             <Search />
             <DrawInput />
-          </div>
-          <div style={{ background: "pink" }}>kanji</div>
-          <div style={{ background: "yellow" }}>radical</div>
+          </SearchWrapper>
+          {/* <Test>
+            <div dangerouslySetInnerHTML={{ __html: strokeAnimation }} />
+          </Test> */}
+          <Kanji kanjiInfo={kanjiInfo} graphData={graphData} />
+          <Radical kanjiInfo={kanjiInfo} />
         </Top>
         <Bottom>
-          <div style={{ background: "yellow" }}>examples</div>
+          <Examples kanjiInfo={kanjiInfo} />
           <Graphs kanjiInfo={kanjiInfo} graphData={graphData} />
         </Bottom>
       </Main>
@@ -60,8 +73,12 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  const kanjiInfoRaw = await getKanjiData(params?.id as string);
+  getKanjiDataLocal(params?.id as string);
+
+  // const kanjiInfoRaw = await getKanjiData(params?.id as string);
+  const kanjiInfoRaw = await getKanjiDataLocal(params?.id as string);
   const graphDataRaw = await getGraphData(params?.id as string);
+  const strokeAnimation = await getStrokeAnimation(params?.id as string);
   // workaround to avoid "cannot serialize undefined" error
   const kanjiInfo = JSON.parse(JSON.stringify(kanjiInfoRaw));
   const graphData = JSON.parse(JSON.stringify(graphDataRaw));
@@ -70,6 +87,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     props: {
       kanjiInfo,
       graphData,
+      strokeAnimation,
     },
   };
 };
@@ -81,15 +99,37 @@ const Main = styled.main`
   height: calc(100% - 50px);
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: 320px 1fr;
+  /* grid-template-rows: 1fr 1fr; */
 `;
 
 const Top = styled.div`
   display: grid;
-  grid-template-columns: 200px 1fr 1fr;
+  grid-template-columns: 240px 1fr 1fr;
+  overflow: hidden;
+  border-bottom: 1px solid var(--color-lighter);
 `;
 
 const Bottom = styled.div`
   display: grid;
   grid-template-columns: 2fr 3fr;
+  overflow: hidden;
+`;
+
+const SearchWrapper = styled.div`
+  position: relative;
+  padding: 10px;
+
+  & > div:first-of-type {
+    margin-bottom: 10px;
+  }
+`;
+
+const Test = styled.div`
+  svg path[id] {
+    fill: var(--color-light) !important;
+  }
+  svg path[clip-path] {
+    stroke: var(--color-foreground) !important;
+  }
 `;

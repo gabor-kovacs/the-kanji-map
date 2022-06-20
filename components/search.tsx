@@ -264,6 +264,13 @@ const ListElement = styled.li`
   overflow: hidden;
   border-top: 1px solid #ccc4;
 
+  p {
+    white-space: nowrap;
+    width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
   background-color: var(--color-background);
   color: var(--color-foreground);
 

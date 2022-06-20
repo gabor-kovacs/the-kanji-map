@@ -29,6 +29,7 @@ export const globalStyles = (
         --color-background: #ffffff;
         --color-foreground: #1f1f1f;
         --color-primary: #2b99cf;
+        --color-danger: #f44336;
         --color-light: #555;
         --color-lighter: #eee;
       }

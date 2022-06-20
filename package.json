@@ -24,6 +24,7 @@
     "cors": "^2.8.5",
     "csv": "^6.1.0",
     "d3": "^7.4.4",
+    "dotenv": "^16.0.1",
     "emotion-normalize": "^11.0.1",
     "graphology": "^0.24.1",
     "mongodb": "^4.6.0",

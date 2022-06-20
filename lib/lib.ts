@@ -1,6 +1,9 @@
 import axios from "axios";
 import Composition from "../preprocess/composition.json";
 
+import fsPromises from "fs/promises";
+import path from "path";
+
 import JishoAPI from "unofficial-jisho-api";
 const jisho = new JishoAPI();
 
@@ -24,7 +27,6 @@ export const getAllKanji = () => {
 export const getKanjiData = async (id: string) => {
   // GETTING KANJI INFO FROM KANJIALIVE
   let kanjialiveData = null;
-  console.log(process.env.KANJIALIVE_API_KEY);
   const options = {
     method: "GET",
     url: `https://kanjialive-api.p.rapidapi.com/api/public/kanji/${encodeURIComponent(
@@ -38,22 +40,15 @@ export const getKanjiData = async (id: string) => {
   try {
     const res = await axios.request(options);
     kanjialiveData = await res.data;
-    console.log(`kanjialiveData found for ${id}`);
-    // console.log(kanjialiveData);
   } catch (error) {
     console.log(error);
-    console.log("No Kanjialive data found");
   }
 
   let jishoData = null;
-  // const JISHO_SEARCH_URI = jisho.getUriForKanjiSearch(id);
   try {
     jishoData = await jisho.searchForKanji(id);
-    console.log(`jishoData found for ${id}`);
-    // console.log(jishoData);
   } catch (error) {
     console.log(error);
-    console.log("No JISHO data found");
   }
 
   return {
@@ -61,6 +56,29 @@ export const getKanjiData = async (id: string) => {
     kanjialiveData,
     jishoData,
   };
+};
+
+/**
+ * Get data for input kanji from KanjiAlive and Jisho.org ALREADY SAVED LOCALLY
+ * @param id input kanji
+ */
+export const getKanjiDataLocal = async (id: string) => {
+  const filePath = path.join(process.cwd(), "data", "kanji", `${id}.json`);
+  const jsonData = await fsPromises.readFile(filePath, "utf8");
+  const objectData = JSON.parse(jsonData);
+  return objectData;
+};
+
+export const getStrokeAnimation = async (id: string) => {
+  const filePath = path.join(
+    process.cwd(),
+    "data",
+    "animCJK",
+    "svgsJa",
+    `${id.charCodeAt(0)}.svg`
+  );
+  const animationData = await fsPromises.readFile(filePath, "utf8");
+  return animationData ?? null;
 };
 
 // recursively search in kanji

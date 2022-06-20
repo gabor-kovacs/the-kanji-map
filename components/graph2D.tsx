@@ -3,8 +3,10 @@ import React, { useState, useEffect, useRef } from "react";
 import ForceGraph2D, { LinkObject, NodeObject } from "react-force-graph-2d";
 import type { ForceGraphMethods, GraphData } from "react-force-graph-2d";
 
-import { joyoList } from "../data/joyo";
-import { jinmeiyoList } from "../data/jinmeiyo";
+// import { joyoList } from "../data/joyo";
+// import { jinmeiyoList } from "../data/jinmeiyo";
+
+import kanjilist from "../data/kanjilist.json";
 
 import SpriteText from "three-spritetext";
 import { useRouter } from "next/router";
@@ -36,6 +38,10 @@ const Graph2D: React.FC<Props> = ({
   triggerFocus,
   bounds,
 }) => {
+  // group: el.g === 1 ? "joyo" : el.g === 2 ? "jinmeiyo" : "other",
+  const joyoList = kanjilist.filter((el) => el.g === 1).map((el) => el.k);
+  const jinmeiyoList = kanjilist.filter((el) => el.g === 2).map((el) => el.k);
+
   const { theme } = useTheme();
   const fg2DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
     useRef();
@@ -79,7 +85,6 @@ const Graph2D: React.FC<Props> = ({
     ctx: CanvasRenderingContext2D,
     globalScale: number
   ) => {
-    // console.log(`hovernode: ${hoverNode?.id}`);
     const label = String(node.id);
     const fontSize = 6;
     ctx.font = `${fontSize}px Sans-Serif`;
@@ -130,7 +135,7 @@ const Graph2D: React.FC<Props> = ({
     const k2 = data?.nodes?.find((o) => o.id === kanji2) as NodeObjectWithData;
     const on1: string[] | undefined = k1?.data?.jishoData?.onyomi;
     const on2: string[] | undefined = k2?.data?.jishoData?.onyomi;
-    const onyomiOverlap = on1?.filter((value) => on2?.includes(value));
+    const onyomiOverlap = on1?.filter((value) => on2?.includes(value)) ?? "";
     return onyomiOverlap;
   };
 

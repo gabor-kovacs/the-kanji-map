@@ -1,3 +1,4 @@
+// * Create array to store every possible kanji
 const composition = require("./composition.json");
 const JishoAPI = require("unofficial-jisho-api");
 const jisho = new JishoAPI();

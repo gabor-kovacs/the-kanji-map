@@ -4,9 +4,9 @@ import ForceGraph3D, { LinkObject, NodeObject } from "react-force-graph-3d";
 import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
 import { getGraphData } from "../lib/lib";
 
-import { joyoList } from "../data/joyo";
-import { jinmeiyoList } from "../data/jinmeiyo";
-
+// import { joyoList } from "../data/joyo";
+// import { jinmeiyoList } from "../data/jinmeiyo";
+import kanjilist from "../data/kanjilist.json";
 import * as THREE from "three";
 
 import SpriteText from "three-spritetext";
@@ -39,6 +39,9 @@ const Graph3D: React.FC<Props> = ({
   triggerFocus,
   bounds,
 }) => {
+  const joyoList = kanjilist.filter((el) => el.g === 1).map((el) => el.k);
+  const jinmeiyoList = kanjilist.filter((el) => el.g === 2).map((el) => el.k);
+
   const { theme } = useTheme();
 
   const fg3DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
@@ -168,7 +171,7 @@ const Graph3D: React.FC<Props> = ({
     const k2 = data?.nodes?.find((o) => o.id === kanji2) as NodeObjectWithData;
     const on1: string[] = k1?.data?.jishoData?.onyomi;
     const on2: string[] = k2?.data?.jishoData?.onyomi;
-    const onyomiOverlap = on1?.filter((value) => on2?.includes(value));
+    const onyomiOverlap = on1?.filter((value) => on2?.includes(value)) ?? "";
     return onyomiOverlap;
   };
 

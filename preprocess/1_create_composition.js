@@ -1,4 +1,4 @@
-// create array to store the graph structure of kanji
+// * Create array to store the graph structure of kanji
 /*
 the info is stored like this:
 { 

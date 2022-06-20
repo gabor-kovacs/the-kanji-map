@@ -20,6 +20,7 @@
     this.cxt.lineCap = "round";
     this.cxt.lineJoin = "round";
     this.lineWidth = lineWidth || 3;
+
     this.width = cvs.width;
     this.height = cvs.height;
     this.drawing = false;

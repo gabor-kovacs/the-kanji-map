@@ -51,9 +51,9 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
     setShowOutLinks(event.target.checked);
   };
 
-  React.useEffect(() => {
-    console.log(bounds);
-  }, [bounds]);
+  // React.useEffect(() => {
+  //   console.log(bounds);
+  // }, [bounds]);
 
   return (
     <Wrapper ref={measureRef}>

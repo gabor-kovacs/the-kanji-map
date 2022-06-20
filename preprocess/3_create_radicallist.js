@@ -1,5 +1,5 @@
+// * Create array to store radicals
 const searchList = require("./searchlist.json");
-
 const fs = require("fs");
 const path = require("path");
 const { parse } = require("csv-parse");
