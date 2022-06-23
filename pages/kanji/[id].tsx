@@ -48,12 +48,17 @@ const Page: React.FC<Props> = ({ kanjiInfo, graphData, strokeAnimation }) => {
           {/* <Test>
             <div dangerouslySetInnerHTML={{ __html: strokeAnimation }} />
           </Test> */}
-          <Kanji kanjiInfo={kanjiInfo} graphData={graphData} />
+          <Kanji
+            {...{ kanjiInfo, graphData, strokeAnimation }}
+            // kanjiInfo={kanjiInfo}
+            // graphData={graphData}
+            // strokeAnimation={strokeAnimation}
+          />
           <Radical kanjiInfo={kanjiInfo} />
         </Top>
         <Bottom>
           <Examples kanjiInfo={kanjiInfo} />
-          <Graphs kanjiInfo={kanjiInfo} graphData={graphData} />
+          <Graphs {...{ kanjiInfo, graphData }} />
         </Bottom>
       </Main>
     </>
@@ -99,14 +104,15 @@ const Main = styled.main`
   height: calc(100% - 50px);
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 320px 1fr;
+  grid-template-rows: 330px 1fr;
   /* grid-template-rows: 1fr 1fr; */
 `;
 
 const Top = styled.div`
   display: grid;
-  grid-template-columns: 240px 1fr 1fr;
+  grid-template-columns: 252px 1fr 1fr;
   overflow: hidden;
+  border-top: 1px solid var(--color-lighter);
   border-bottom: 1px solid var(--color-lighter);
 `;
 
@@ -118,18 +124,9 @@ const Bottom = styled.div`
 
 const SearchWrapper = styled.div`
   position: relative;
-  padding: 10px;
+  padding: 16px;
 
   & > div:first-of-type {
     margin-bottom: 10px;
-  }
-`;
-
-const Test = styled.div`
-  svg path[id] {
-    fill: var(--color-light) !important;
-  }
-  svg path[clip-path] {
-    stroke: var(--color-foreground) !important;
   }
 `;

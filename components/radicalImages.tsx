@@ -17,7 +17,7 @@ export const RadicalImages: React.FC<Props> = (props) => {
   useEffect(() => {
     const interval = setInterval(
       () => setIndex((state) => (state + 1) % radicalImageArray.length),
-      3000
+      2500
     );
     return () => {
       clearInterval(interval);
@@ -41,8 +41,8 @@ export const RadicalImages: React.FC<Props> = (props) => {
             ...props,
             backgroundImage: `url(${radicalImageArray[id]})`,
             position: "absolute",
-            width: "100px",
-            height: "100px",
+            width: "100%",
+            height: "100%",
             backgroundRepeat: "no-repeat",
             backgroundSize: "contain",
             filter: theme === "dark" ? "invert(1)" : "invert(0)",

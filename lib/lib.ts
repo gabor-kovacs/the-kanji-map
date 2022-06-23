@@ -77,8 +77,16 @@ export const getStrokeAnimation = async (id: string) => {
     "svgsJa",
     `${id.charCodeAt(0)}.svg`
   );
-  const animationData = await fsPromises.readFile(filePath, "utf8");
-  return animationData ?? null;
+
+  let animationData = null;
+  try {
+    animationData = await fsPromises.readFile(filePath, "utf8");
+  } catch (error) {
+    // no animation data
+    // console.log(error);
+  }
+
+  return animationData;
 };
 
 // recursively search in kanji

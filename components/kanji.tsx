@@ -27,15 +27,26 @@ export const Kanji: React.FC<Props> = ({
   // restarting stroke animation
   const [hash, setHash] = React.useState(Date.now());
 
+  React.useEffect(() => {
+    console.log(strokeAnimation);
+  }, []);
+  // onClick={() => setHash(Date.now)}
   return (
     <KanjiWrapper>
-      <Main>
+      <Title>
         <h3>Kanji</h3>
+      </Title>
+      <Main>
         <h1>{kanjiInfo.id}</h1>
       </Main>
       <Animation>
         {strokeAnimation && (
-          <div dangerouslySetInnerHTML={{ __html: strokeAnimation }} />
+          <div
+            style={{ cursor: "pointer" }}
+            onClick={() => setHash(Date.now)}
+            key={hash}
+            dangerouslySetInnerHTML={{ __html: strokeAnimation }}
+          />
         )}
       </Animation>
 
@@ -115,21 +126,14 @@ export const Kanji: React.FC<Props> = ({
         {graphData?.noOutLinks?.links && (
           <>
             <p>
-              Composition:
+              {graphData.noOutLinks.links.filter(
+                (link: any) => link.target === kanjiInfo.id
+              ).length > 0 && "Composition: "}
               {graphData.noOutLinks.links
                 .filter((link: any) => link.target === kanjiInfo.id)
                 .map((link: any) => link.source)
                 .map((comp: any, index: number) => (
-                  <IconButton
-                    key={index}
-                    value={comp}
-                    aria-label={comp}
-                    size="small"
-                    style={{ color: "#212121", fontSize: 15, padding: 8 }}
-                    // onClick={(e) => select(e)}
-                  >
-                    {comp.length <= 4 ? comp : "�"}
-                  </IconButton>
+                  <span key={index}>{comp} </span>
                 ))}
             </p>
           </>
@@ -141,57 +145,29 @@ export const Kanji: React.FC<Props> = ({
 
 export default Kanji;
 
-{
-  /* <img
-src={`data:image/svg+xml;utf8,${encodeURIComponent(
-  strokeAnimation
-)}`}
-/> */
-  // {current?.structure?.length ? (
-  //   <>
-  //     <p>
-  //       Structure:{" "}
-  //       {/* </p>
-  //     <p> */}
-  //       <strong>{current?.structure}</strong>
-  //     </p>
-  //   </>
-  // ) : null}
-  // {current?.composition?.length >= 2 ? (
-  //   <>
-  //     <p>
-  //       Composition: {/* </p> */}
-  //       {/* <p> */}
-  //       {current?.composition.map((comp: any, index: number) => (
-  //         <IconButton
-  //           key={index}
-  //           value={comp}
-  //           aria-label={comp}
-  //           size="small"
-  //           style={{ color: "#212121", fontSize: 15, padding: 8 }}
-  //           onClick={(e) => select(e)}
-  //         >
-  //           {comp.length <= 4 ? comp : "�"}
-  //         </IconButton>
-  //       ))}
-  //     </p>
-  //   </>
-  // ) : null}
-}
-
 // * STYLES **************************************************************************************************
 
 const KanjiWrapper = styled.div`
   position: relative;
   width: 100%;
   height: 100%;
-
+  padding: 16px;
   overflow: hidden;
   display: grid;
   grid-template-areas:
+    "title info"
     "main info "
     "anim info ";
-  /* box-shadow: inset 0 0 16px #fff; */
+  grid-template-rows: 36px 1fr 1fr;
+  grid-template-columns: 100px 1fr;
+  grid-column-gap: 10px;
+  border-left: 1px solid var(--color-lighter);
+  border-right: 1px solid var(--color-lighter);
+`;
+
+const Title = styled.div`
+  grid-area: title;
+  align-self: center;
 `;
 
 const Main = styled.div`
@@ -199,6 +175,7 @@ const Main = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   width: 100%;
   height: 100%;
   overflow: hidden;
@@ -223,9 +200,20 @@ const Animation = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   width: 100%;
   height: 100%;
   overflow: hidden;
+  svg {
+    width: 80px;
+    height: 80px;
+  }
+  svg path[id] {
+    fill: var(--color-lighter) !important;
+  }
+  svg path[clip-path] {
+    stroke: var(--color-foreground) !important;
+  }
 `;
 
 const Info = styled.div`

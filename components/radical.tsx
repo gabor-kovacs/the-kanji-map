@@ -19,8 +19,10 @@ interface Props {
 export const Radical: React.FC<Props> = ({ kanjiInfo }) => {
   return (
     <RadicalWrapper>
-      <Main>
+      <Title>
         <h3>Radical</h3>
+      </Title>
+      <Main>
         {kanjiInfo?.jishoData?.radical?.symbol && (
           <h1>{kanjiInfo?.jishoData?.radical?.symbol}</h1>
         )}
@@ -77,8 +79,17 @@ const RadicalWrapper = styled.div`
   overflow: hidden;
   display: grid;
   grid-template-areas:
+    "title info"
     "main info "
     "anim info ";
+  grid-template-rows: 36px 1fr 1fr;
+  grid-template-columns: 100px 1fr;
+  grid-column-gap: 10px;
+`;
+
+const Title = styled.div`
+  grid-area: title;
+  align-self: center;
 `;
 
 const Main = styled.div`
@@ -86,6 +97,7 @@ const Main = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   width: 100%;
   height: 100%;
   overflow: hidden;
@@ -107,11 +119,19 @@ const Main = styled.div`
 
 const Animation = styled.div`
   grid-area: anim;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100%;
-  height: 100%;
+  justify-content: center; */
+
+  place-self: center;
+  width: 80px;
+  height: 80px;
+
+  /* & > div {
+    width: 80px;
+    height: 80px;
+  } */
   position: relative;
   overflow: hidden;
 `;
