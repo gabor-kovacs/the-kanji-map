@@ -82,6 +82,7 @@ export const DrawInput: React.FC = () => {
               size="small"
               style={{
                 color: "var(--color-light)",
+                width: "35px",
                 fontSize: 18,
                 padding: 4,
               }}

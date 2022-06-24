@@ -1,24 +1,24 @@
 import * as React from "react";
-import Layout from "../../components/layout";
+
 import {
   getAllKanji,
   getGraphData,
   getKanjiData,
   getKanjiDataLocal,
   getStrokeAnimation,
-} from "../../lib/lib";
+} from "../lib/lib";
 import Head from "next/head";
 import type { GetStaticPaths, GetStaticProps } from "next";
 
-import Graphs from "../../components/graphs";
+import Graphs from "../components/graphs";
 
-import Search from "../../components/search";
-import DrawInput from "../../components/drawInput";
-import Header from "../../components/header";
+import Search from "../components/search";
+import DrawInput from "../components/drawInput";
+import Header from "../components/header";
 import styled from "@emotion/styled";
-import Examples from "../../components/examples";
-import Radical from "../../components/radical";
-import Kanji from "../../components/kanji";
+import Examples from "../components/examples";
+import Radical from "../components/radical";
+import Kanji from "../components/kanji";
 
 type KanjiInfo = {
   id: string;

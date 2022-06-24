@@ -30,6 +30,7 @@ interface Props {
   showOutLinks: boolean;
   triggerFocus: number;
   bounds: RectReadOnly;
+  autoRotate: boolean;
 }
 
 const Graph3D: React.FC<Props> = ({
@@ -38,6 +39,7 @@ const Graph3D: React.FC<Props> = ({
   showOutLinks,
   triggerFocus,
   bounds,
+  autoRotate,
 }) => {
   const joyoList = kanjilist.filter((el) => el.g === 1).map((el) => el.k);
   const jinmeiyoList = kanjilist.filter((el) => el.g === 2).map((el) => el.k);
@@ -63,15 +65,21 @@ const Graph3D: React.FC<Props> = ({
   }, [graphData.noOutLinks, graphData.withOutLinks, showOutLinks]);
 
   const handleClick = (node: NodeObject) => {
-    router.push(`/kanji/${node.id}`);
+    router.push(`/${node.id}`);
   };
 
   // prefetch routes for nodes visible in the graph
   useEffect(() => {
     data?.nodes?.forEach((node) => {
-      router.prefetch(`/kanji/${node.id}`);
+      router.prefetch(`/${node.id}`);
     });
   }, [data, router]);
+
+  useEffect(() => {
+    const controls = fg3DRef?.current?.controls();
+    // @ts-ignore
+    if (controls) controls.autoRotate = autoRotate;
+  }, [autoRotate]);
 
   // FOCUS  ON MAIN NODE AT START
   // TODO
@@ -101,7 +109,10 @@ const Graph3D: React.FC<Props> = ({
         }
       }
     }, 100);
-    return () => clearTimeout(focusMain);
+
+    return () => {
+      clearTimeout(focusMain);
+    };
   }, [data, kanjiInfo.id, triggerFocus]);
 
   const handleHover = (node: any, prevNode: any) => {
@@ -177,6 +188,7 @@ const Graph3D: React.FC<Props> = ({
 
   return (
     <ForceGraph3D
+      controlType={"orbit"}
       width={bounds.width}
       height={bounds.height - 50}
       // using css variables here can cause unexpected behavior
@@ -217,7 +229,7 @@ const Graph3D: React.FC<Props> = ({
       enableNavigationControls={true}
       showNavInfo={false}
       ref={fg3DRef}
-      warmupTicks={10}
+      warmupTicks={60}
       onNodeClick={handleClick}
       onNodeHover={handleHover}
       nodeLabel={(n) => {

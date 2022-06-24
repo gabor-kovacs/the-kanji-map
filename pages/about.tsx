@@ -1,9 +1,16 @@
+import * as React from "react";
 import styled from "@emotion/styled";
-import Layout from "../components/layout";
+import Head from "next/head";
+import Header from "../components/header";
+import Image from "next/image";
 
 const About: React.FC = () => {
   return (
-    <Layout>
+    <>
+      <Head>
+        <title>About</title>
+      </Head>
+      <Header />
       <AboutWrapper>
         <h3>Giving Back</h3>
         <a
@@ -11,9 +18,11 @@ const About: React.FC = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img
+          <Image
             alt="Donate"
-            src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif"
+            width={74}
+            height={21}
+            src={"/images/btn_donate_SM.gif"}
           />
         </a>
         <p>
@@ -203,7 +212,7 @@ const About: React.FC = () => {
           - released under the MIT license.
         </p>
       </AboutWrapper>
-    </Layout>
+    </>
   );
 };
 
@@ -214,9 +223,10 @@ export default About;
 const AboutWrapper = styled.div`
   max-width: 1320px;
   margin: 0 auto;
-  height: calc(100% - 50px);
+  height: calc(100% - 48px);
   padding: 16px;
   overflow: auto;
+  border-top: 1px solid var(--color-lighter);
 `;
 
 const StyledLink = styled.a`

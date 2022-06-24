@@ -11,7 +11,7 @@ type KanjiInfo = {
 };
 
 interface Props {
-  kanjiInfo: KanjiInfo;
+  kanjiInfo: KanjiInfo | null;
 }
 
 export const Examples: React.FC<Props> = ({ kanjiInfo }) => {
@@ -21,13 +21,14 @@ export const Examples: React.FC<Props> = ({ kanjiInfo }) => {
   };
 
   const highlightKanji = (text: string) => {
+    if (!kanjiInfo) return;
     const textArray = text?.split(kanjiInfo.id);
     return (
       <span>
         {textArray.map((item, index) => (
           <>
             {item}
-            {index !== textArray.length - 1 && <b>{kanjiInfo.id}</b>}
+            {index !== textArray.length - 1 && <b>{kanjiInfo?.id}</b>}
           </>
         ))}
       </span>
@@ -114,9 +115,8 @@ const ExamplesWrapper = styled.div`
   width: 100%;
   height: 100%;
   padding: 16px;
-  /* overflow: scroll; */
-  overflow-y: scroll;
-
+  overflow-y: auto;
+  border-right: 1px solid var(--color-lighter);
   h5 {
     margin: 10px 0;
   }

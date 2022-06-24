@@ -7,6 +7,8 @@ import { joyoList } from "../data/joyo";
 import { jinmeiyoList } from "../data/jinmeiyo";
 import IconButton from "@mui/material/IconButton";
 
+import { useTimer } from "react-timer-hook";
+
 type KanjiInfo = {
   id: string;
   kanjialiveData?: any;
@@ -14,9 +16,9 @@ type KanjiInfo = {
 };
 
 interface Props {
-  kanjiInfo: KanjiInfo;
+  kanjiInfo: KanjiInfo | null;
   graphData: any;
-  strokeAnimation: string;
+  strokeAnimation: string | null;
 }
 
 export const Kanji: React.FC<Props> = ({
@@ -27,23 +29,39 @@ export const Kanji: React.FC<Props> = ({
   // restarting stroke animation
   const [hash, setHash] = React.useState(Date.now());
 
-  React.useEffect(() => {
-    console.log(strokeAnimation);
-  }, []);
-  // onClick={() => setHash(Date.now)}
+  const restartAnimation = () => {
+    setHash(Date.now);
+  };
+
+  const time = new Date();
+  time.setSeconds(time.getSeconds() + 3);
+  const { restart } = useTimer({
+    expiryTimestamp: time,
+    onExpire: () => {
+      restartAnimation();
+    },
+  });
+
   return (
     <KanjiWrapper>
       <Title>
         <h3>Kanji</h3>
       </Title>
       <Main>
-        <h1>{kanjiInfo.id}</h1>
+        <h1>{kanjiInfo?.id}</h1>
       </Main>
-      <Animation>
+      <Animation
+        onAnimationEnd={() => {
+          const time = new Date();
+          time.setSeconds(time.getSeconds() + 3);
+          restart(time);
+        }}
+        onEnded={() => console.log("ended")}
+      >
         {strokeAnimation && (
           <div
             style={{ cursor: "pointer" }}
-            onClick={() => setHash(Date.now)}
+            onClick={restartAnimation}
             key={hash}
             dangerouslySetInnerHTML={{ __html: strokeAnimation }}
           />
@@ -51,7 +69,7 @@ export const Kanji: React.FC<Props> = ({
       </Animation>
 
       <Info>
-        {joyoList?.includes(kanjiInfo.id) && (
+        {kanjiInfo && joyoList?.includes(kanjiInfo.id) && (
           <p>
             <strong>Jōyō kanji</strong>
             {kanjiInfo?.jishoData?.taughtIn && (
@@ -62,7 +80,7 @@ export const Kanji: React.FC<Props> = ({
           </p>
         )}
 
-        {jinmeiyoList?.includes(kanjiInfo.id) && (
+        {kanjiInfo && jinmeiyoList?.includes(kanjiInfo.id) && (
           <p>Jinmeiyō kanji, used in names</p>
         )}
 
@@ -127,10 +145,10 @@ export const Kanji: React.FC<Props> = ({
           <>
             <p>
               {graphData.noOutLinks.links.filter(
-                (link: any) => link.target === kanjiInfo.id
+                (link: any) => link.target === kanjiInfo?.id
               ).length > 0 && "Composition: "}
               {graphData.noOutLinks.links
-                .filter((link: any) => link.target === kanjiInfo.id)
+                .filter((link: any) => link.target === kanjiInfo?.id)
                 .map((link: any) => link.source)
                 .map((comp: any, index: number) => (
                   <span key={index}>{comp} </span>

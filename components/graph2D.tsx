@@ -62,13 +62,13 @@ const Graph2D: React.FC<Props> = ({
   }, [graphData.noOutLinks, graphData.withOutLinks, showOutLinks]);
 
   const handleClick = (node: NodeObject) => {
-    router.push(`/kanji/${node.id}`);
+    router.push(`/${node.id}`);
   };
 
   // prefetch routes for nodes visible in the graph
   useEffect(() => {
     data?.nodes?.forEach((node) => {
-      router.prefetch(`/kanji/${node.id}`);
+      router.prefetch(`/${node.id}`);
     });
   }, [data, router]);
 

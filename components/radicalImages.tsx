@@ -10,9 +10,21 @@ interface Props {
 export const RadicalImages: React.FC<Props> = (props) => {
   const { radicalImageArray } = props;
 
-  const { theme } = useTheme();
+  const { theme, systemTheme } = useTheme();
 
   const [index, setIndex] = useState(0);
+  const [invert, setInvert] = useState(0);
+
+  useEffect(() => {
+    console.log(theme);
+    console.log(systemTheme);
+    theme === "dark" && setInvert(1);
+    theme === "light" && setInvert(0);
+    if (theme === "system") {
+      systemTheme === "dark" && setInvert(1);
+      systemTheme === "light" && setInvert(0);
+    }
+  }, [theme, systemTheme]);
 
   useEffect(() => {
     const interval = setInterval(
@@ -22,7 +34,7 @@ export const RadicalImages: React.FC<Props> = (props) => {
     return () => {
       clearInterval(interval);
     };
-  }, []);
+  }, [radicalImageArray.length]);
 
   const springs = useSprings(
     radicalImageArray.length,
@@ -45,7 +57,7 @@ export const RadicalImages: React.FC<Props> = (props) => {
             height: "100%",
             backgroundRepeat: "no-repeat",
             backgroundSize: "contain",
-            filter: theme === "dark" ? "invert(1)" : "invert(0)",
+            filter: `invert(${invert})`,
           }}
         />
       ))}

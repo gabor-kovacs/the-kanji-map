@@ -102,7 +102,7 @@ function renderRow(props: ListChildComponentProps) {
   }
 
   return (
-    <Link href={`/kanji/${dataSet[1]?.kanji}`}>
+    <Link href={`/${dataSet[1]?.kanji}`}>
       <ListElement
         {...dataSet[0]}
         style={inlineStyle}
@@ -262,7 +262,7 @@ const ListElement = styled.li`
   width: 100%;
   height: 40px;
   overflow: hidden;
-  border-top: 1px solid #ccc4;
+  border-top: 1px solid var(--color-lighter);
 
   p {
     white-space: nowrap;

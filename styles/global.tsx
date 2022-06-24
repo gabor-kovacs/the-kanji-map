@@ -32,6 +32,8 @@ export const globalStyles = (
         --color-danger: #f44336;
         --color-light: #555;
         --color-lighter: #eee;
+        --color-moon: #3c3;
+        --color-sun: #019;
       }
       [data-theme="dark"] {
         --color-background: #1f1f1f;

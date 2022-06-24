@@ -13,7 +13,7 @@ type KanjiInfo = {
 };
 
 interface Props {
-  kanjiInfo: KanjiInfo;
+  kanjiInfo: KanjiInfo | null;
 }
 
 export const Radical: React.FC<Props> = ({ kanjiInfo }) => {

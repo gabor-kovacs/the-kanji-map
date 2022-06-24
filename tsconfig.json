@@ -14,7 +14,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    // "types": ["@emotion/react/types/css-prop"]
+    "types": ["@emotion/react/types/css-prop"]
     // "downlevelIteration": true
   },
   "include": [

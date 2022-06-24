@@ -1,3 +1,4 @@
+import * as React from "react";
 import styled from "@emotion/styled";
 
 import TableChartIcon from "@mui/icons-material/TableChart";
@@ -7,10 +8,32 @@ import InfoIcon from "@mui/icons-material/Info";
 import Logo from "../public/images/logo.svg";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import DarkmodeToggle from "./darkmodeToggle";
+
+import { css } from "@emotion/react";
+import { useTheme } from "next-themes";
+
+import LightModeIcon from "@mui/icons-material/LightMode";
+import DarkModeIcon from "@mui/icons-material/DarkMode";
 
 const Header: React.FC = () => {
   const router = useRouter();
+
+  const { theme, systemTheme, setTheme } = useTheme();
+
+  const [hovered, setHovered] = React.useState(false);
+
+  const [actualTheme, setActualTheme] = React.useState<null | "light" | "dark">(
+    null
+  );
+
+  React.useEffect(() => {
+    if (theme === "light" || (theme === "system" && systemTheme === "light")) {
+      setActualTheme("light");
+    }
+    if (theme === "dark" || (theme === "system" && systemTheme === "dark")) {
+      setActualTheme("dark");
+    }
+  }, [theme, systemTheme]);
 
   return (
     <HeaderWrapper>
@@ -22,24 +45,21 @@ const Header: React.FC = () => {
           </a>
         </Link>
       </ImageWrapper>
-      <div>
-        <Link href="/">
-          <a className={router.pathname === "/" ? "active" : ""}>
-            <HomeIcon />
+      <Icons>
+        <Link href={router.pathname === "/about" ? "/" : "about"}>
+          <a>
+            <InfoIcon
+              className={router.pathname === "/about" ? "active" : ""}
+            />
           </a>
         </Link>
-        <Link href="/kanji">
-          <a className={router.pathname === "/kanji" ? "active" : ""}>
-            <TableChartIcon />
-          </a>
-        </Link>
-        <Link href="/about">
-          <a className={router.pathname === "/about" ? "active" : ""}>
-            <InfoIcon />
-          </a>
-        </Link>
-        <DarkmodeToggle size={16} style={{ display: "inline" }} />
-      </div>
+        {actualTheme === "light" && (
+          <DarkModeIcon onClick={() => setTheme("dark")} />
+        )}
+        {actualTheme === "dark" && (
+          <LightModeIcon onClick={() => setTheme("light")} />
+        )}
+      </Icons>
     </HeaderWrapper>
   );
 };
@@ -54,13 +74,6 @@ const HeaderWrapper = styled.div`
   align-items: center;
   justify-content: space-between;
 
-  svg {
-    padding: 8px 16px;
-    height: 50px;
-    height: 50px;
-    width: 62.66px;
-  }
-
   h1 {
     display: inline-block;
     white-space: nowrap;
@@ -71,14 +84,14 @@ const HeaderWrapper = styled.div`
   }
 
   a {
-    color: #c4c4c4;
+    color: var(--color-light);
     margin-right: 13px;
     margin-left: 8px;
     &:hover {
-      color: #dcdcdc;
+      color: var(--color-foreground);
     }
     &.active {
-      color: #2b99cf;
+      color: var(--color-foreground);
     }
   }
 `;
@@ -91,5 +104,34 @@ const ImageWrapper = styled.div`
     &:hover {
       color: var(--foreground);
     }
+  }
+
+  svg {
+    padding: 8px 16px;
+    height: 50px;
+    height: 50px;
+    width: 62.66px;
+  }
+`;
+const Icons = styled.div`
+  display: grid;
+  grid-template-columns: 50px 50px;
+  place-items: center;
+  svg {
+    color: var(--color-light);
+    &:hover {
+      color: var(--color-foreground);
+    }
+  }
+
+  a {
+    display: block;
+    padding: 0;
+    margin: 0;
+    height: 24px;
+  }
+
+  a .active {
+    color: var(--color-foreground) !important;
   }
 `;
