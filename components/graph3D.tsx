@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, SetStateAction } from "react";
+import * as React from "react";
 
 import ForceGraph3D, { LinkObject, NodeObject } from "react-force-graph-3d";
 import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
@@ -47,16 +47,16 @@ const Graph3D: React.FC<Props> = ({
   const { theme } = useTheme();
 
   const fg3DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
-    useRef();
+    React.useRef();
 
   const router = useRouter();
 
-  const [data, setData] = useState<GraphData>({
+  const [data, setData] = React.useState<GraphData>({
     nodes: [],
     links: [],
   });
 
-  useEffect(() => {
+  React.useEffect(() => {
     setData(
       showOutLinks
         ? graphData.withOutLinks
@@ -69,21 +69,20 @@ const Graph3D: React.FC<Props> = ({
   };
 
   // prefetch routes for nodes visible in the graph
-  useEffect(() => {
+  React.useEffect(() => {
     data?.nodes?.forEach((node) => {
       router.prefetch(`/${node.id}`);
     });
   }, [data, router]);
 
-  useEffect(() => {
+  React.useEffect(() => {
     const controls = fg3DRef?.current?.controls();
     // @ts-ignore
     if (controls) controls.autoRotate = autoRotate;
   }, [autoRotate]);
 
   // FOCUS  ON MAIN NODE AT START
-  // TODO
-  useEffect(() => {
+  React.useEffect(() => {
     const focusMain = setTimeout(() => {
       if (kanjiInfo.id && data?.nodes?.length > 0) {
         const node = data?.nodes?.find((o) => o.id === kanjiInfo.id);
@@ -190,7 +189,7 @@ const Graph3D: React.FC<Props> = ({
     <ForceGraph3D
       controlType={"orbit"}
       width={bounds.width}
-      height={bounds.height - 50}
+      height={bounds.height}
       // using css variables here can cause unexpected behavior
       backgroundColor={theme === "dark" ? "#1f1f1f" : "#ffffff"}
       graphData={data}

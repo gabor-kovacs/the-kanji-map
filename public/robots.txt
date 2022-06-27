@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://thekanjimap.com
+
+# Sitemaps
+Sitemap: https://thekanjimap.com/sitemap.xml

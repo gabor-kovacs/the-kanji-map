@@ -17,7 +17,9 @@ const Graph3DNoSSR = dynamic(() => import("./graph3D"), {
 
 import styled from "@emotion/styled";
 import { css } from "@emotion/react";
-
+import ThreeSixtyIcon from "@mui/icons-material/ThreeSixty";
+import OutboundIcon from "@mui/icons-material/Outbound";
+import CropFreeIcon from "@mui/icons-material/CropFree";
 type KanjiInfo = {
   id: string;
   kanjialiveData?: any;
@@ -32,12 +34,13 @@ interface Props {
 const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   const [measureRef, bounds] = useMeasure({
     polyfill: ResizeObserver,
-    debounce: 50,
+    // debounce: 50,
   });
 
   const [tabValue, setTabValue] = React.useState(0);
   const [showOutLinks, setShowOutLinks] = React.useState<boolean>(true);
   const [autoRotate, setAutoRotate] = React.useState<boolean>(true);
+  const [random, setRandom] = React.useState<number>(Date.now());
 
   const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
     setTabValue(newValue);
@@ -50,10 +53,13 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   const handleAutoRotate = (event: React.ChangeEvent<HTMLInputElement>) => {
     setAutoRotate(event.target.checked);
   };
+  const handleZoomToFit = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setRandom(Date.now());
+  };
 
-  // React.useEffect(() => {
-  //   console.log(bounds);
-  // }, [bounds]);
+  React.useEffect(() => {
+    console.log(bounds);
+  }, [bounds]);
 
   return (
     <Wrapper ref={measureRef}>
@@ -86,7 +92,7 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
             kanjiInfo={kanjiInfo}
             graphData={graphData}
             showOutLinks={showOutLinks}
-            triggerFocus={tabValue}
+            triggerFocus={tabValue + random}
             bounds={bounds}
             autoRotate={autoRotate}
           />
@@ -96,33 +102,49 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
             kanjiInfo={kanjiInfo}
             graphData={graphData}
             showOutLinks={showOutLinks}
-            triggerFocus={tabValue}
+            triggerFocus={tabValue + random}
             bounds={bounds}
           />
         )}
       </GraphWrapper>
       <Controls>
         <div style={{ display: tabValue === 0 ? "block" : "none" }}>
-          <p>Rotate</p>
-        </div>
-        <div style={{ display: tabValue === 0 ? "block" : "none" }}>
           <Checkbox
-            style={{ color: "var(--color-primary)" }}
+            sx={checkBoxStyle}
             onChange={handleAutoRotate}
             inputProps={{ "aria-label": "Auto Rotate" }}
             defaultChecked
+            icon={<ThreeSixtyIcon />}
+            checkedIcon={<ThreeSixtyIcon />}
           />
-        </div>
-
-        <div style={{ gridArea: "out" }}>
-          <p>Out</p>
         </div>
         <div style={{ gridArea: "outCheck" }}>
           <Checkbox
-            style={{ color: "var(--color-primary)" }}
+            sx={checkBoxStyle}
             onChange={handleShowOutlinks}
             inputProps={{ "aria-label": "Show out links" }}
             defaultChecked
+            icon={<OutboundIcon />}
+            checkedIcon={<OutboundIcon />}
+          />
+        </div>
+        <div style={{ gridArea: "zoomCheck" }}>
+          <Checkbox
+            sx={[
+              {
+                color: "var(--color-light)",
+              },
+              {
+                "&.Mui-checked": {
+                  color: "var(--color-light)",
+                },
+              },
+            ]}
+            onChange={handleZoomToFit}
+            inputProps={{ "aria-label": "Zoom to fit" }}
+            defaultChecked
+            icon={<CropFreeIcon />}
+            checkedIcon={<CropFreeIcon />}
           />
         </div>
       </Controls>
@@ -157,10 +179,21 @@ const Controls = styled.div`
   height: 48px;
   place-items: center;
   display: grid;
-  grid-template-areas: "rotate rotateCheck out outCheck";
+  grid-template-areas: "rotateCheck outCheck zoomCheck";
 
   p {
     padding-top: 2px;
     color: var(--color-light);
   }
 `;
+
+const checkBoxStyle = [
+  {
+    color: "var(--color-light)",
+  },
+  {
+    "&.Mui-checked": {
+      color: "var(--color-primary)",
+    },
+  },
+];

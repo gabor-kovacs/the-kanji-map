@@ -181,6 +181,10 @@ const KanjiWrapper = styled.div`
   grid-column-gap: 10px;
   border-left: 1px solid var(--color-lighter);
   border-right: 1px solid var(--color-lighter);
+
+  @media (max-width: 767px) {
+    border: none;
+  }
 `;
 
 const Title = styled.div`

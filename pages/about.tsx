@@ -12,7 +12,12 @@ const About: React.FC = () => {
       </Head>
       <Header />
       <AboutWrapper>
-        <h3>Giving Back</h3>
+        <h1>About</h1>
+        <p>
+          The Kanji Map is a Japanese language learning tool that shows kanji
+          information and decomposition in graph form.
+        </p>
+        <h1>Giving Back</h1>
         <a
           href="https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E"
           target="_blank"
@@ -22,7 +27,7 @@ const About: React.FC = () => {
             alt="Donate"
             width={74}
             height={21}
-            src={"/images/btn_donate_SM.gif"}
+            src={"/btn_donate_SM.gif"}
           />
         </a>
         <p>
@@ -40,13 +45,13 @@ const About: React.FC = () => {
           Donations are used to pay for hosting, maintenance costs and
           improvements.
         </p>
-        <h3>How to use this site</h3>
+        <h1>How to use this site</h1>
         <p>
           Kanji are represented with nodes and the connection between them with
-          edges in a 3D force-directed graph. Click/tap on visible nodes or use
-          the search field to change the selected node. If connected nodes have
-          the same onyomi it is displayed over the link. Nodes are colored based
-          on type:{" "}
+          edges in a 2D or 3D force-directed graph. Click/tap on visible nodes
+          or use the search field to change the selected node. If connected
+          nodes have the same onyomi it is displayed over the link. Nodes are
+          colored based on type:{" "}
           <svg
             style={{ display: "inline", height: " 12px" }}
             viewBox="0 0 100 100"
@@ -97,98 +102,101 @@ const About: React.FC = () => {
           <li>Examples with audio, kunyomi and onyomi</li>
           <li>Radical with kunyomi and meaning</li>
         </ul>
-        <h3>Credits</h3>
-        <p>
-          The Kanji Map uses the Ideographic Description Sequence found in the{" "}
-          <StyledLink
-            href="http://www.chise.org/ids/index.html"
-            target="_blank"
-            rel="noreferrer"
-          >
-            CHISE project
-          </StyledLink>
-          . The CHISE-IDS database is published under the GNU General Public
-          License.
-        </p>
-
-        <p>
-          Non-standard/unicode kanji are displayed as images and imported from{" "}
-          <StyledLink
-            href="https://glyphwiki.org/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            GlyphWiki
-          </StyledLink>
-          .
-        </p>
-
-        <p>
-          Stroke animations are provided by{" "}
-          <StyledLink
-            target="_blank"
-            href="https://github.com/parsimonhi/animCJK"
-            rel="noreferrer"
-          >
-            animCJK
-          </StyledLink>{" "}
-          under the Arphic Public License.
-        </p>
-        <p>
-          Kanji, examples and radical information is provided by{" "}
-          <StyledLink target="_blank" href="https://jisho.org" rel="noreferrer">
-            jisho.org
-          </StyledLink>{" "}
-          sourcing from multiple open source{" "}
-          <StyledLink
-            target="_blank"
-            href="https://jisho.org/about "
-            rel="noreferrer"
-          >
-            dicionaries
-          </StyledLink>{" "}
-          and{" "}
-          <StyledLink
-            target="_blank"
-            href="https://kanjialive.com/"
-            rel="noreferrer"
-          >
-            Kanji alive
-          </StyledLink>{" "}
-          released under CC 4.0.
-        </p>
-        <p>
-          Graph is created by{" "}
-          <StyledLink
-            target="_blank"
-            href="https://github.com/vasturiano/react-force-graph"
-            rel="noreferrer"
-          >
-            react-force-graph
-          </StyledLink>{" "}
-          and{" "}
-          <StyledLink
-            target="_blank"
-            href="https://github.com/vasturiano/three-spritetext"
-            rel="noreferrer"
-          >
-            three-spritetext
-          </StyledLink>{" "}
-          released under MIT.
-        </p>
-        <p>
-          Hand written kanji recognition uses{" "}
-          <StyledLink
-            target="_blank"
-            href="https://github.com/ChenYuHo/handwriting.js"
-            rel="noreferrer"
-          >
-            handwriting.js
-          </StyledLink>{" "}
-          released under MIT.
-        </p>
-
-        <h3>Github repository</h3>
+        <h1>Credits</h1>
+        <ul>
+          <li>
+            Kanji and decomposition is based on{" "}
+            <StyledLink
+              href="https://github.com/KanjiVG/kanjivg"
+              target="_blank"
+              rel="noreferrer"
+            >
+              KanjiVG
+            </StyledLink>
+            , released under the Creative Commons Attribution-Share Alike 3.0
+            licence.
+          </li>
+          {/* <li>
+            List of radicals are provided by{" "}
+            <StyledLink
+              href="https://github.com/sylhare/kanji"
+              target="_blank"
+              rel="noreferrer"
+            >
+              github.com/sylhare/kanji
+            </StyledLink>
+            , licensed under MIT.
+          </li> */}
+          <li>
+            Stroke animations are provided by{" "}
+            <StyledLink
+              target="_blank"
+              href="https://github.com/parsimonhi/animCJK"
+              rel="noreferrer"
+            >
+              animCJK
+            </StyledLink>{" "}
+            under the Arphic Public License.
+          </li>
+          <li>
+            Kanji, examples and radical information is provided by{" "}
+            <StyledLink
+              target="_blank"
+              href="https://jisho.org"
+              rel="noreferrer"
+            >
+              jisho.org
+            </StyledLink>{" "}
+            sourcing from multiple open source{" "}
+            <StyledLink
+              target="_blank"
+              href="https://jisho.org/about "
+              rel="noreferrer"
+            >
+              dicionaries
+            </StyledLink>{" "}
+            and{" "}
+            <StyledLink
+              target="_blank"
+              href="https://kanjialive.com/"
+              rel="noreferrer"
+            >
+              Kanji alive
+            </StyledLink>{" "}
+            released under CC 4.0.
+          </li>
+          <li>
+            Graph is created by{" "}
+            <StyledLink
+              target="_blank"
+              href="https://github.com/vasturiano/react-force-graph"
+              rel="noreferrer"
+            >
+              react-force-graph
+            </StyledLink>{" "}
+            and{" "}
+            <StyledLink
+              target="_blank"
+              href="https://github.com/vasturiano/three-spritetext"
+              rel="noreferrer"
+            >
+              three-spritetext
+            </StyledLink>{" "}
+            released under MIT.
+          </li>
+          <li>
+            Hand written kanji recognition uses{" "}
+            <StyledLink
+              target="_blank"
+              href="https://github.com/ChenYuHo/handwriting.js"
+              rel="noreferrer"
+            >
+              handwriting.js
+            </StyledLink>{" "}
+            released under MIT.
+          </li>
+        </ul>
+        <h1>Github repository</h1>
         <p>
           The source code can be found at{" "}
           <StyledLink
@@ -199,7 +207,7 @@ const About: React.FC = () => {
             github.com/gabor-kovacs/the-kanji-map
           </StyledLink>
         </p>
-
+        <h1>Copyright</h1>
         <p>
           ©The Kanji Map 2017-{new Date().getFullYear()} by{" "}
           <StyledLink
@@ -227,6 +235,7 @@ const AboutWrapper = styled.div`
   padding: 16px;
   overflow: auto;
   border-top: 1px solid var(--color-lighter);
+  padding-bottom: 32px;
 `;
 
 const StyledLink = styled.a`

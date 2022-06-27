@@ -1,10 +1,6 @@
-import React, { useEffect } from "react";
-import PropTypes from "prop-types";
+import * as React from "react";
 import RadicalImages from "./radicalImages";
 import styled from "@emotion/styled";
-import { useSpring, animated } from "react-spring";
-
-import IconButton from "@mui/material/IconButton";
 
 type KanjiInfo = {
   id: string;

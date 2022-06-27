@@ -3,7 +3,6 @@ import * as React from "react";
 import {
   getAllKanji,
   getGraphData,
-  getKanjiData,
   getKanjiDataLocal,
   getStrokeAnimation,
 } from "../lib/lib";
@@ -20,6 +19,16 @@ import Examples from "../components/examples";
 import Radical from "../components/radical";
 import Kanji from "../components/kanji";
 
+import useMediaQuery from "@mui/material/useMediaQuery";
+
+import Tabs from "@mui/material/Tabs";
+import Tab from "@mui/material/Tab";
+import SearchIcon from "@mui/icons-material/Search";
+import SwipeableViews from "react-swipeable-views";
+import { useRouter } from "next/router";
+
+import { NextSeo } from "next-seo";
+
 type KanjiInfo = {
   id: string;
   kanjialiveData?: any;
@@ -32,35 +41,125 @@ interface Props {
   strokeAnimation: string;
 }
 
+interface TabPanelProps {
+  children?: React.ReactNode;
+  dir?: string;
+  index: number;
+  value: number;
+}
+
+function TabPanel(props: TabPanelProps) {
+  const { children, value, index, ...other } = props;
+
+  return (
+    <div
+      style={{
+        position: "relative",
+        width: "100%",
+        height: "330px",
+        overflow: "hidden",
+      }}
+      role="tabpanel"
+      hidden={value !== index}
+      id={`full-width-tabpanel-${index}`}
+      aria-labelledby={`full-width-tab-${index}`}
+      {...other}
+    >
+      {value === index && <>{children}</>}
+    </div>
+  );
+}
+
 const Page: React.FC<Props> = ({ kanjiInfo, graphData, strokeAnimation }) => {
+  const mobile = useMediaQuery("(max-width: 767px)");
+  const desktop = useMediaQuery("(min-width: 768px)");
+
+  const [tabValue, setTabValue] = React.useState(0);
+
+  const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
+    setTabValue(newValue);
+  };
+
+  const handleChangeIndex = (index: number) => {
+    setTabValue(index);
+  };
+
+  const router = useRouter();
+  React.useEffect(() => {
+    const resetTab = () => setTabValue(0);
+    router.events.on("routeChangeComplete", resetTab);
+    return () => {
+      router.events.off("routeChangeComplete", resetTab);
+    };
+  }, [router.events]);
+
   return (
     <>
-      <Head>
-        <title>{kanjiInfo.id}</title>
-      </Head>
-      <Header />
-      <Main>
-        <Top>
-          <SearchWrapper>
-            <Search />
-            <DrawInput />
-          </SearchWrapper>
-          {/* <Test>
-            <div dangerouslySetInnerHTML={{ __html: strokeAnimation }} />
-          </Test> */}
-          <Kanji
-            {...{ kanjiInfo, graphData, strokeAnimation }}
-            // kanjiInfo={kanjiInfo}
-            // graphData={graphData}
-            // strokeAnimation={strokeAnimation}
-          />
-          <Radical kanjiInfo={kanjiInfo} />
-        </Top>
-        <Bottom>
-          <Examples kanjiInfo={kanjiInfo} />
-          <Graphs {...{ kanjiInfo, graphData }} />
-        </Bottom>
-      </Main>
+      <>
+        <Head>
+          <title>{kanjiInfo.id}</title>
+        </Head>
+        <Header />
+        <Main>
+          {desktop && (
+            <>
+              <Top>
+                <SearchWrapper>
+                  <Search />
+                  <DrawInput />
+                </SearchWrapper>
+                <Kanji {...{ kanjiInfo, graphData, strokeAnimation }} />
+                <Radical kanjiInfo={kanjiInfo} />
+              </Top>
+              <Bottom>
+                <Examples kanjiInfo={kanjiInfo} />
+                <Graphs {...{ kanjiInfo, graphData }} />
+              </Bottom>
+            </>
+          )}
+          {mobile && (
+            <>
+              <SwipeableViews
+                axis={"x"}
+                index={tabValue}
+                onChangeIndex={handleChangeIndex}
+              >
+                <TabPanel value={tabValue} index={0}>
+                  <Kanji {...{ kanjiInfo, graphData, strokeAnimation }} />
+                </TabPanel>
+                <TabPanel value={tabValue} index={1}>
+                  <Examples kanjiInfo={kanjiInfo} />
+                </TabPanel>
+                <TabPanel value={tabValue} index={2}>
+                  <Radical kanjiInfo={kanjiInfo} />
+                </TabPanel>
+                <TabPanel value={tabValue} index={3}>
+                  <SearchWrapper>
+                    <Search />
+                    <DrawInput />
+                  </SearchWrapper>
+                </TabPanel>
+              </SwipeableViews>
+              <Controls>
+                <Tabs
+                  value={tabValue}
+                  onChange={handleTabChange}
+                  indicatorColor="secondary"
+                  textColor="inherit"
+                  variant="fullWidth"
+                  aria-label="full width tabs example"
+                >
+                  <Tab label="kanji" />
+                  <Tab label="examples" />
+                  <Tab label="radical" />
+                  <Tab icon={<SearchIcon />} />
+                </Tabs>
+              </Controls>
+              <Graphs {...{ kanjiInfo, graphData }} />
+            </>
+          )}
+        </Main>
+      </>
     </>
   );
 };
@@ -78,8 +177,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  getKanjiDataLocal(params?.id as string);
-
   // const kanjiInfoRaw = await getKanjiData(params?.id as string);
   const kanjiInfoRaw = await getKanjiDataLocal(params?.id as string);
   const graphDataRaw = await getGraphData(params?.id as string);
@@ -105,14 +202,16 @@ const Main = styled.main`
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 330px 1fr;
-  /* grid-template-rows: 1fr 1fr; */
+
+  @media (max-width: 767px) {
+    grid-template-rows: 330px 50px 1fr;
+  }
 `;
 
 const Top = styled.div`
   display: grid;
   grid-template-columns: 252px 1fr 1fr;
   overflow: hidden;
-  border-top: 1px solid var(--color-lighter);
   border-bottom: 1px solid var(--color-lighter);
 `;
 
@@ -128,5 +227,30 @@ const SearchWrapper = styled.div`
 
   & > div:first-of-type {
     margin-bottom: 10px;
+  }
+`;
+
+// * Mobile
+const Controls = styled.div`
+  border-top: 1px solid var(--color-lighter);
+  border-bottom: 1px solid var(--color-lighter);
+  height: 50px;
+
+  & .Mui-selected {
+    color: var(--color-primary) !important;
+  }
+  & .MuiTabs-indicator {
+    background-color: var(--color-primary) !important;
+  }
+
+  button {
+    min-width: 80px;
+  }
+
+  @media (max-width: 380px) {
+    button {
+      padding: 0;
+      font-size: 12px;
+    }
   }
 `;

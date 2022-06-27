@@ -6,7 +6,7 @@ import ListSubheader from "@mui/material/ListSubheader";
 import Popper from "@mui/material/Popper";
 import { VariableSizeList, ListChildComponentProps } from "react-window";
 
-import SearchList from "../preprocess/searchlist.json";
+import SearchList from "../data/searchlist.json";
 import type { FilterOptionsState } from "@mui/material/useAutocomplete";
 
 import styled from "@emotion/styled";
@@ -238,6 +238,7 @@ const Search: React.FC = () => {
       // getOptionLabel={(option: any) => `${option?.kanji}`}
       renderInput={(params) => (
         <StyledTextField
+          // sx={[{ color: "var(--color-primary)" }]}
           inputRef={inputRef}
           {...params}
           label="Search"
@@ -297,23 +298,18 @@ const StyledTextField = styled(TextField)`
 
   /* placeholder color */
   & .MuiInputLabel-root {
-    color: var(--color-light);
+    color: var(--color-light) !important;
   }
-  & label.Mui-focused {
-    color: var(--color-primary);
-  }
-
+  /* & label.Mui-focused {
+    color: var(--color-primary) !important;
+  } */
   & .MuiInputBase-input {
-    color: var(--color-light);
+    color: var(--color-light) !important;
   }
 
   & fieldset {
-    border-color: var(--color-light);
+    border-color: var(--color-light) !important;
   }
-  /*
-  &.MuiInput-underline:after {
-    border-bottom-color: var(--color-primary) !important;
-  } */
 
   &:hover fieldset {
     border-color: var(--color-primary) !important;
@@ -325,8 +321,4 @@ const StyledTextField = styled(TextField)`
   svg {
     fill: var(--color-light);
   }
-  /* &.MuiInputAdornment-root {
-    background-color: var(--color-light) !important;
-    color: var(--color-light);
-  } */
 `;

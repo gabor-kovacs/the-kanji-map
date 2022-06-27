@@ -1,6 +1,4 @@
-/** @jsxImportSource @emotion/react */
-// import { jsx } from "@emotion/react";
-import React from "react";
+import * as React from "react";
 import { css, Global } from "@emotion/react";
 import emotionNormalize from "emotion-normalize";
 
@@ -32,8 +30,6 @@ export const globalStyles = (
         --color-danger: #f44336;
         --color-light: #555;
         --color-lighter: #eee;
-        --color-moon: #3c3;
-        --color-sun: #019;
       }
       [data-theme="dark"] {
         --color-background: #1f1f1f;
@@ -52,8 +48,6 @@ export const globalStyles = (
         overflow: hidden;
         background-color: var(--color-background);
         color: var(--color-foreground);
-
-        /* transition: background-color 200ms ease-in-out; */
       }
 
       body {
@@ -61,9 +55,9 @@ export const globalStyles = (
         -webkit-font-smoothing: antialiased;
         margin: 0;
         padding: 0;
-        font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir,
-          segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial,
-          sans-serif;
+        font-family: Roboto, -apple-system, BlinkMacSystemFont, avenir next,
+          avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto,
+          arial, sans-serif;
         -webkit-font-smoothing: antialiased;
         overflow: hidden;
       }
@@ -91,6 +85,17 @@ export const globalStyles = (
       h5,
       h6 {
         overflow-wrap: break-word;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      b,
+      strong {
+        font-weight: 500;
       }
 
       #root,

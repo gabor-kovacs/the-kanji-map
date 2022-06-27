@@ -1,10 +1,6 @@
-import React, { useState, useEffect, useRef } from "react";
-
+import * as React from "react";
 import ForceGraph2D, { LinkObject, NodeObject } from "react-force-graph-2d";
 import type { ForceGraphMethods, GraphData } from "react-force-graph-2d";
-
-// import { joyoList } from "../data/joyo";
-// import { jinmeiyoList } from "../data/jinmeiyo";
 
 import kanjilist from "../data/kanjilist.json";
 
@@ -44,16 +40,16 @@ const Graph2D: React.FC<Props> = ({
 
   const { theme } = useTheme();
   const fg2DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
-    useRef();
+    React.useRef();
 
   const router = useRouter();
 
-  const [data, setData] = useState<GraphData>({
+  const [data, setData] = React.useState<GraphData>({
     nodes: [],
     links: [],
   });
 
-  useEffect(() => {
+  React.useEffect(() => {
     setData(
       showOutLinks
         ? graphData.withOutLinks
@@ -66,14 +62,14 @@ const Graph2D: React.FC<Props> = ({
   };
 
   // prefetch routes for nodes visible in the graph
-  useEffect(() => {
+  React.useEffect(() => {
     data?.nodes?.forEach((node) => {
       router.prefetch(`/${node.id}`);
     });
   }, [data, router]);
 
   // store the hovered node in a state
-  const [hoverNode, setHoverNode] = useState<NodeObject | null>(null);
+  const [hoverNode, setHoverNode] = React.useState<NodeObject | null>(null);
 
   const handleNodeHover = (node: NodeObject | null) => {
     setHoverNode(node || null);
@@ -140,7 +136,7 @@ const Graph2D: React.FC<Props> = ({
   };
 
   // FOCUS  ON MAIN NODE AT START
-  useEffect(() => {
+  React.useEffect(() => {
     const focusMain = setTimeout(() => {
       if (kanjiInfo.id && data?.nodes?.length > 0) {
         fg2DRef?.current?.zoomToFit(1000, bounds.width * 0.1);
@@ -153,7 +149,7 @@ const Graph2D: React.FC<Props> = ({
     <ForceGraph2D
       ref={fg2DRef}
       width={bounds.width}
-      height={bounds.height - 50}
+      height={bounds.height}
       backgroundColor={"var(--color-background)"}
       graphData={data}
       nodeLabel={(n) => {

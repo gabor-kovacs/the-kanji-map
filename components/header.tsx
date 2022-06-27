@@ -5,7 +5,7 @@ import TableChartIcon from "@mui/icons-material/TableChart";
 import HomeIcon from "@mui/icons-material/Home";
 import InfoIcon from "@mui/icons-material/Info";
 
-import Logo from "../public/images/logo.svg";
+import Logo from "../public/logo.svg";
 import Link from "next/link";
 import { useRouter } from "next/router";
 
@@ -73,6 +73,8 @@ const HeaderWrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
+
+  border-bottom: 1px solid var(--color-lighter);
 
   h1 {
     display: inline-block;

@@ -75,7 +75,7 @@ parser
     });
 
     fs.writeFileSync(
-      path.join(__dirname, "composition.json"),
+      path.join(__dirname, "data", "composition.json"),
       JSON.stringify(db),
       "utf-8"
     );

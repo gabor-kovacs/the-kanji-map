@@ -117,6 +117,7 @@ const ExamplesWrapper = styled.div`
   padding: 16px;
   overflow-y: auto;
   border-right: 1px solid var(--color-lighter);
+
   h5 {
     margin: 10px 0;
   }
@@ -125,6 +126,10 @@ const ExamplesWrapper = styled.div`
     line-height: 22px;
     margin: 0;
     padding-bottom: 5px;
+  }
+
+  @media (max-width: 767px) {
+    border: none;
   }
 `;
 

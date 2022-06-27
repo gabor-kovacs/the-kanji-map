@@ -1,4 +1,4 @@
-import React, { useState, useEffect, SetStateAction } from "react";
+import * as React from "react";
 
 import styled from "@emotion/styled";
 import IconButton from "@mui/material/IconButton";
@@ -7,17 +7,17 @@ import HighlightOffIcon from "@mui/icons-material/HighlightOff";
 
 import handwriting from "../lib/handwriting";
 
-import Searchlist from "../preprocess/searchlist.json";
+import Searchlist from "../data/searchlist.json";
 import Link from "next/link";
 import { useTheme } from "next-themes";
 
 export const DrawInput: React.FC = () => {
   const { theme } = useTheme();
   //  innitialize draw input
-  const [canvas, setCanvas] = useState<any>(null);
+  const [canvas, setCanvas] = React.useState<any>(null);
 
   // show returned options
-  const [inputSuggestions, setInputSuggestions] = useState<string[]>([]);
+  const [inputSuggestions, setInputSuggestions] = React.useState<string[]>([]);
 
   const inputOptions = {
     width: 220, //int, width of the writing area, default: undefined
@@ -41,7 +41,7 @@ export const DrawInput: React.FC = () => {
   };
 
   // init
-  useEffect(() => {
+  React.useEffect(() => {
     eraseKanji();
     const can = new handwriting.Canvas(
       document.getElementById("handInput"),
@@ -74,7 +74,7 @@ export const DrawInput: React.FC = () => {
           <HighlightOffIcon />
         </IconButton>
         {inputSuggestions.map((suggestion, index) => (
-          <Link key={index} href={`/kanji/${suggestion}`}>
+          <Link key={index} href={`/${suggestion}`}>
             <IconButton
               key={index}
               aria-label={suggestion}
@@ -112,7 +112,8 @@ export default DrawInput;
 
 const DrawInputWrapper = styled.div`
   position: relative;
-  width: 100%;
+  width: 220px;
+  margin: 0 auto;
   height: 220px;
   padding-bottom: 0;
   background: var(--color-background);

@@ -1,5 +1,5 @@
 import axios from "axios";
-import Composition from "../preprocess/composition.json";
+import Composition from "../data/composition.json";
 
 import fsPromises from "fs/promises";
 import path from "path";

@@ -1,5 +1,5 @@
 import { useTheme } from "next-themes";
-import React, { useState, useEffect } from "react";
+import * as React from "react";
 
 import { useSprings, animated, config } from "react-spring";
 
@@ -12,10 +12,10 @@ export const RadicalImages: React.FC<Props> = (props) => {
 
   const { theme, systemTheme } = useTheme();
 
-  const [index, setIndex] = useState(0);
-  const [invert, setInvert] = useState(0);
+  const [index, setIndex] = React.useState(0);
+  const [invert, setInvert] = React.useState(0);
 
-  useEffect(() => {
+  React.useEffect(() => {
     console.log(theme);
     console.log(systemTheme);
     theme === "dark" && setInvert(1);
@@ -26,7 +26,7 @@ export const RadicalImages: React.FC<Props> = (props) => {
     }
   }, [theme, systemTheme]);
 
-  useEffect(() => {
+  React.useEffect(() => {
     const interval = setInterval(
       () => setIndex((state) => (state + 1) % radicalImageArray.length),
       2500
