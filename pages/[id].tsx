@@ -6,7 +6,7 @@ import {
   getKanjiDataLocal,
   getStrokeAnimation,
 } from "../lib/lib";
-import Head from "next/head";
+
 import type { GetStaticPaths, GetStaticProps } from "next";
 
 import Graphs from "../components/graphs";
@@ -175,7 +175,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  // const kanjiInfoRaw = await getKanjiData(params?.id as string);
   const kanjiInfoRaw = await getKanjiDataLocal(params?.id as string);
   const graphDataRaw = await getGraphData(params?.id as string);
   const strokeAnimation = await getStrokeAnimation(params?.id as string);
