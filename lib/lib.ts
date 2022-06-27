@@ -134,7 +134,7 @@ export const getGraphData = async (id: string) => {
     inNodeList.map(async (x) => {
       return {
         id: x,
-        data: await getKanjiData(x),
+        data: await getKanjiDataLocal(x),
       };
     })
   );
@@ -143,7 +143,7 @@ export const getGraphData = async (id: string) => {
     outNodeList.map(async (x) => {
       return {
         id: x,
-        data: await getKanjiData(x),
+        data: await getKanjiDataLocal(x),
       };
     })
   );
