@@ -57,10 +57,6 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
     setRandom(Date.now());
   };
 
-  React.useEffect(() => {
-    console.log(bounds);
-  }, [bounds]);
-
   return (
     <Wrapper ref={measureRef}>
       <div

@@ -83,7 +83,7 @@ export const getStrokeAnimation = async (id: string) => {
     animationData = await fsPromises.readFile(filePath, "utf8");
   } catch (error) {
     // no animation data
-    // console.log(error);
+    console.log(error);
   }
 
   return animationData;

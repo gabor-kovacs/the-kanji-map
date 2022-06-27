@@ -56,7 +56,6 @@ export const Kanji: React.FC<Props> = ({
           time.setSeconds(time.getSeconds() + 3);
           restart(time);
         }}
-        onEnded={() => console.log("ended")}
       >
         {strokeAnimation && (
           <div

@@ -12,9 +12,21 @@ import Link from "next/link";
 import { useTheme } from "next-themes";
 
 export const DrawInput: React.FC = () => {
-  const { theme } = useTheme();
+  const { theme, systemTheme } = useTheme();
   //  innitialize draw input
   const [canvas, setCanvas] = React.useState<any>(null);
+
+  const [actualTheme, setActualTheme] = React.useState<null | "light" | "dark">(
+    null
+  );
+  React.useEffect(() => {
+    if (theme === "light" || (theme === "system" && systemTheme === "light")) {
+      setActualTheme("light");
+    }
+    if (theme === "dark" || (theme === "system" && systemTheme === "dark")) {
+      setActualTheme("dark");
+    }
+  }, [theme, systemTheme]);
 
   // show returned options
   const [inputSuggestions, setInputSuggestions] = React.useState<string[]>([]);
@@ -29,7 +41,8 @@ export const DrawInput: React.FC = () => {
 
   const inputCallback = (result: string[], err: string) => {
     if (err) {
-      console.log(err);
+      return;
+      // console.log(err);
     } else {
       const kanjiList = Searchlist.map((entry) => entry.k);
       const filtered = result
@@ -45,11 +58,10 @@ export const DrawInput: React.FC = () => {
     eraseKanji();
     const can = new handwriting.Canvas(
       document.getElementById("handInput"),
-      theme
+      actualTheme
     );
     setCanvas(can);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [theme]);
+  }, [actualTheme]);
 
   const recognizeKanji = () => {
     canvas && canvas.recognize(canvas.trace, inputOptions, inputCallback);

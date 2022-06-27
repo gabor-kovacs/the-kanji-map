@@ -236,7 +236,6 @@ const AboutWrapper = styled.div`
   height: calc(100% - 48px);
   padding: 16px;
   overflow: auto;
-  border-top: 1px solid var(--color-lighter);
   padding-bottom: 32px;
 `;
 

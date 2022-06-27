@@ -16,8 +16,6 @@ export const RadicalImages: React.FC<Props> = (props) => {
   const [invert, setInvert] = React.useState(0);
 
   React.useEffect(() => {
-    console.log(theme);
-    console.log(systemTheme);
     theme === "dark" && setInvert(1);
     theme === "light" && setInvert(0);
     if (theme === "system") {
