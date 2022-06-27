@@ -41,35 +41,6 @@ interface Props {
   strokeAnimation: string;
 }
 
-interface TabPanelProps {
-  children?: React.ReactNode;
-  dir?: string;
-  index: number;
-  value: number;
-}
-
-function TabPanel(props: TabPanelProps) {
-  const { children, value, index, ...other } = props;
-
-  return (
-    <div
-      style={{
-        position: "relative",
-        width: "100%",
-        height: "330px",
-        overflow: "hidden",
-      }}
-      role="tabpanel"
-      hidden={value !== index}
-      id={`full-width-tabpanel-${index}`}
-      aria-labelledby={`full-width-tab-${index}`}
-      {...other}
-    >
-      {value === index && <>{children}</>}
-    </div>
-  );
-}
-
 const Page: React.FC<Props> = ({ kanjiInfo, graphData, strokeAnimation }) => {
   const mobile = useMediaQuery("(max-width: 767px)");
   const desktop = useMediaQuery("(min-width: 768px)");
@@ -95,76 +66,103 @@ const Page: React.FC<Props> = ({ kanjiInfo, graphData, strokeAnimation }) => {
 
   return (
     <>
-      <>
-        <Head>
-          <title>{kanjiInfo.id}</title>
-        </Head>
-        <Header />
-        <Main>
-          {desktop && (
-            <>
-              <Top>
+      <NextSeo
+        title={`${kanjiInfo.id} | The Kanji Map`}
+        description={`Kanji information for ${kanjiInfo.id}`}
+      />
+      <Header />
+      <Main>
+        {desktop && (
+          <>
+            <Top>
+              <SearchWrapper>
+                <Search />
+                <DrawInput />
+              </SearchWrapper>
+              <Kanji {...{ kanjiInfo, graphData, strokeAnimation }} />
+              <Radical kanjiInfo={kanjiInfo} />
+            </Top>
+            <Bottom>
+              <Examples kanjiInfo={kanjiInfo} />
+              <Graphs {...{ kanjiInfo, graphData }} />
+            </Bottom>
+          </>
+        )}
+        {mobile && (
+          <>
+            <SwipeableViews
+              axis={"x"}
+              index={tabValue}
+              onChangeIndex={handleChangeIndex}
+            >
+              <TabPanel value={tabValue} index={0}>
+                <Kanji {...{ kanjiInfo, graphData, strokeAnimation }} />
+              </TabPanel>
+              <TabPanel value={tabValue} index={1}>
+                <Examples kanjiInfo={kanjiInfo} />
+              </TabPanel>
+              <TabPanel value={tabValue} index={2}>
+                <Radical kanjiInfo={kanjiInfo} />
+              </TabPanel>
+              <TabPanel value={tabValue} index={3}>
                 <SearchWrapper>
                   <Search />
                   <DrawInput />
                 </SearchWrapper>
-                <Kanji {...{ kanjiInfo, graphData, strokeAnimation }} />
-                <Radical kanjiInfo={kanjiInfo} />
-              </Top>
-              <Bottom>
-                <Examples kanjiInfo={kanjiInfo} />
-                <Graphs {...{ kanjiInfo, graphData }} />
-              </Bottom>
-            </>
-          )}
-          {mobile && (
-            <>
-              <SwipeableViews
-                axis={"x"}
-                index={tabValue}
-                onChangeIndex={handleChangeIndex}
+              </TabPanel>
+            </SwipeableViews>
+            <Controls>
+              <Tabs
+                value={tabValue}
+                onChange={handleTabChange}
+                indicatorColor="secondary"
+                textColor="inherit"
+                variant="fullWidth"
+                aria-label="full width tabs example"
               >
-                <TabPanel value={tabValue} index={0}>
-                  <Kanji {...{ kanjiInfo, graphData, strokeAnimation }} />
-                </TabPanel>
-                <TabPanel value={tabValue} index={1}>
-                  <Examples kanjiInfo={kanjiInfo} />
-                </TabPanel>
-                <TabPanel value={tabValue} index={2}>
-                  <Radical kanjiInfo={kanjiInfo} />
-                </TabPanel>
-                <TabPanel value={tabValue} index={3}>
-                  <SearchWrapper>
-                    <Search />
-                    <DrawInput />
-                  </SearchWrapper>
-                </TabPanel>
-              </SwipeableViews>
-              <Controls>
-                <Tabs
-                  value={tabValue}
-                  onChange={handleTabChange}
-                  indicatorColor="secondary"
-                  textColor="inherit"
-                  variant="fullWidth"
-                  aria-label="full width tabs example"
-                >
-                  <Tab label="kanji" />
-                  <Tab label="examples" />
-                  <Tab label="radical" />
-                  <Tab icon={<SearchIcon />} />
-                </Tabs>
-              </Controls>
-              <Graphs {...{ kanjiInfo, graphData }} />
-            </>
-          )}
-        </Main>
-      </>
+                <Tab label="kanji" />
+                <Tab label="examples" />
+                <Tab label="radical" />
+                <Tab icon={<SearchIcon />} />
+              </Tabs>
+            </Controls>
+            <Graphs {...{ kanjiInfo, graphData }} />
+          </>
+        )}
+      </Main>
     </>
   );
 };
 
 export default Page;
+
+interface TabPanelProps {
+  children?: React.ReactNode;
+  dir?: string;
+  index: number;
+  value: number;
+}
+
+const TabPanel = (props: TabPanelProps) => {
+  const { children, value, index, ...other } = props;
+  return (
+    <div
+      style={{
+        position: "relative",
+        width: "100%",
+        height: "330px",
+        overflow: "hidden",
+      }}
+      role="tabpanel"
+      hidden={value !== index}
+      id={`full-width-tabpanel-${index}`}
+      aria-labelledby={`full-width-tab-${index}`}
+      {...other}
+    >
+      {value === index && <>{children}</>}
+    </div>
+  );
+};
 
 // *  Next.js
 

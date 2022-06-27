@@ -1,6 +1,6 @@
 import * as React from "react";
 
-import Head from "next/head";
+import { NextSeo } from "next-seo";
 
 import Graphs from "../components/graphs";
 import Search from "../components/search";
@@ -22,11 +22,11 @@ const Home: React.FC = () => {
 
   return (
     <>
-      <Head>
-        <title>Home</title>
-      </Head>
+      <NextSeo
+        title="Home | The Kanji Map"
+        description="The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form."
+      />
       <Header />
-
       <Main>
         {desktop && (
           <>

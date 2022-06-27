@@ -3,13 +3,15 @@ import styled from "@emotion/styled";
 import Head from "next/head";
 import Header from "../components/header";
 import Image from "next/image";
+import { NextSeo } from "next-seo";
 
 const About: React.FC = () => {
   return (
     <>
-      <Head>
-        <title>About</title>
-      </Head>
+      <NextSeo
+        title="About | The Kanji Map"
+        description="The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form."
+      />
       <Header />
       <AboutWrapper>
         <h1>About</h1>
