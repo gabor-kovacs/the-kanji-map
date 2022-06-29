@@ -44,6 +44,7 @@ export const globalStyles = (
       #___gatsby {
         background-color: var(--color-background);
         color: var(--color-foreground);
+        position: relative;
         height: 100%;
       }
 

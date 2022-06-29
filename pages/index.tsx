@@ -67,24 +67,25 @@ const Home: React.FC = () => {
                 </SearchWrapper>
               </TabPanel>
             </div>
-            <Controls>
-              <Tabs
-                value={tabValue}
-                textColor="inherit"
-                variant="fullWidth"
-                aria-label="Tabs"
-              >
-                <Tab label="漢字" />
-                <Tab label="例" />
-                <Tab label="部首" />
-                <Tab label="図" />
-                <Tab icon={<SearchIcon />} />
-              </Tabs>
-            </Controls>
-            <Graphs kanjiInfo={null} graphData={null} />
           </>
         )}
       </Main>
+      {mobile && (
+        <Controls>
+          <Tabs
+            value={tabValue}
+            textColor="inherit"
+            variant="fullWidth"
+            aria-label="Tabs"
+          >
+            <Tab label="漢字" />
+            <Tab label="例" />
+            <Tab label="部首" />
+            <Tab label="図" />
+            <Tab icon={<SearchIcon />} />
+          </Tabs>
+        </Controls>
+      )}
     </>
   );
 };
@@ -129,7 +130,8 @@ const Main = styled.main`
   grid-template-rows: 330px 1fr;
 
   @media (max-width: 767px) {
-    grid-template-rows: 1fr 50px;
+    height: calc(100% - 100px);
+    grid-template-rows: 1fr;
     & > div {
       height: 100%;
       & > div {
@@ -175,6 +177,14 @@ const Controls = styled.div`
   }
 
   button {
-    min-width: 80px;
+    min-width: 50px;
+  }
+
+  @media (max-width: 767px) {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
   }
 `;
