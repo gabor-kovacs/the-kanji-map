@@ -11,7 +11,6 @@ import type { FilterOptionsState } from "@mui/material/useAutocomplete";
 
 import styled from "@emotion/styled";
 
-import { useTheme } from "next-themes";
 import { NextRouter, useRouter } from "next/router";
 import Link from "next/link";
 

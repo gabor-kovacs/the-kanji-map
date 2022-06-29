@@ -38,7 +38,19 @@ const Graph2D: React.FC<Props> = ({
   const joyoList = kanjilist.filter((el) => el.g === 1).map((el) => el.k);
   const jinmeiyoList = kanjilist.filter((el) => el.g === 2).map((el) => el.k);
 
-  const { theme } = useTheme();
+  const { theme, systemTheme } = useTheme();
+  const [actualTheme, setActualTheme] = React.useState<null | "light" | "dark">(
+    null
+  );
+  React.useEffect(() => {
+    if (theme === "light" || (theme === "system" && systemTheme === "light")) {
+      setActualTheme("light");
+    }
+    if (theme === "dark" || (theme === "system" && systemTheme === "dark")) {
+      setActualTheme("dark");
+    }
+  }, [theme, systemTheme]);
+
   const fg2DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
     React.useRef();
 
@@ -203,7 +215,7 @@ const Graph2D: React.FC<Props> = ({
           ctx.moveTo(link.source.x, link.source.y);
           ctx.lineTo(link.target.x, link.target.y);
           ctx.lineWidth = 0.25;
-          ctx.strokeStyle = theme === "dark" ? "#ffffff" : "#000000";
+          ctx.strokeStyle = actualTheme === "dark" ? "#ffffff" : "#000000";
           ctx.stroke();
 
           const label = String(linkText);
@@ -214,7 +226,7 @@ const Graph2D: React.FC<Props> = ({
           x && y && ctx.translate(x, y);
           ctx.textAlign = "center";
           ctx.textBaseline = "middle";
-          ctx.fillStyle = theme === "dark" ? "#ffffff" : "#000000";
+          ctx.fillStyle = actualTheme === "dark" ? "#ffffff" : "#000000";
           ctx.fillText(label, 0, 0);
           ctx.restore();
         }

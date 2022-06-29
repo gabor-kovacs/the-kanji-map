@@ -62,10 +62,9 @@ export const globalStyles = (
 
       body {
         min-height: 100vh;
-        /* mobile viewport bug fix */
         min-height: -webkit-fill-available;
+        background-color: purple;
       }
-
       html {
         height: -webkit-fill-available;
         width: 100vw;
@@ -111,6 +110,7 @@ export const globalStyles = (
       #__next,
       #___gatsby {
         isolation: isolate;
+        background-color: lime;
       }
     `}
   />

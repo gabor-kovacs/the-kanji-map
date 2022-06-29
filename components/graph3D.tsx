@@ -44,7 +44,18 @@ const Graph3D: React.FC<Props> = ({
   const joyoList = kanjilist.filter((el) => el.g === 1).map((el) => el.k);
   const jinmeiyoList = kanjilist.filter((el) => el.g === 2).map((el) => el.k);
 
-  const { theme } = useTheme();
+  const { theme, systemTheme } = useTheme();
+  const [actualTheme, setActualTheme] = React.useState<null | "light" | "dark">(
+    null
+  );
+  React.useEffect(() => {
+    if (theme === "light" || (theme === "system" && systemTheme === "light")) {
+      setActualTheme("light");
+    }
+    if (theme === "dark" || (theme === "system" && systemTheme === "dark")) {
+      setActualTheme("dark");
+    }
+  }, [theme, systemTheme]);
 
   const fg3DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
     React.useRef();
@@ -191,10 +202,10 @@ const Graph3D: React.FC<Props> = ({
       width={bounds.width}
       height={bounds.height}
       // using css variables here can cause unexpected behavior
-      backgroundColor={theme === "dark" ? "#1f1f1f" : "#ffffff"}
+      backgroundColor={actualTheme === "dark" ? "#1f1f1f" : "#ffffff"}
       graphData={data}
       linkColor={() => {
-        return theme === "dark" ? "#ffffff" : "#000000";
+        return actualTheme === "dark" ? "#ffffff" : "#000000";
       }}
       linkDirectionalArrowLength={5}
       linkDirectionalArrowRelPos={({ source, target }) => {
@@ -301,7 +312,7 @@ const Graph3D: React.FC<Props> = ({
         } else {
           return null;
         }
-        sprite.color = theme === "dark" ? "#ffffff" : "#000000";
+        sprite.color = actualTheme === "dark" ? "#ffffff" : "#000000";
         sprite.textHeight = 6;
         return sprite;
       }}

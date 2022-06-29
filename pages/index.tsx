@@ -123,8 +123,12 @@ const TabPanelWrapper = styled.div`
 // *  Styles
 
 const Main = styled.main`
+  background-color: darkcyan;
   width: 100%;
   height: calc(100% - 50px);
+  /* height: calc(100% - 50px); */
+  /* min-height: 100vh;
+  min-height: -webkit-fill-available; */
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 330px 1fr;
