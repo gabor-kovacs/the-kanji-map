@@ -70,71 +70,73 @@ const Page: React.FC<Props> = ({ kanjiInfo, graphData, strokeAnimation }) => {
         title={`${kanjiInfo.id} | The Kanji Map`}
         description={`Kanji information for ${kanjiInfo.id}`}
       />
-      <Header />
-      <Main>
-        {desktop && (
-          <>
-            <Top>
-              <SearchWrapper>
-                <Search />
-                <DrawInput />
-              </SearchWrapper>
-              <Kanji {...{ kanjiInfo, graphData, strokeAnimation }} />
-              <Radical kanjiInfo={kanjiInfo} />
-            </Top>
-            <Bottom>
-              <Examples kanjiInfo={kanjiInfo} />
-              <Graphs {...{ kanjiInfo, graphData }} />
-            </Bottom>
-          </>
-        )}
-        {mobile && (
-          <>
-            <SwipeableViews
-              axis={"x"}
-              index={tabValue}
-              onChangeIndex={handleChangeIndex}
-            >
-              <TabPanel value={tabValue} index={0}>
-                <Kanji {...{ kanjiInfo, graphData, strokeAnimation }} />
-              </TabPanel>
-              <TabPanel value={tabValue} index={1}>
-                <Examples kanjiInfo={kanjiInfo} />
-              </TabPanel>
-              <TabPanel value={tabValue} index={2}>
-                <Radical kanjiInfo={kanjiInfo} />
-              </TabPanel>
-              <TabPanel value={tabValue} index={3}>
-                <Graphs {...{ kanjiInfo, graphData }} />
-              </TabPanel>
-              <TabPanel value={tabValue} index={4}>
+      <Wrapper>
+        <Header />
+        <Main>
+          {desktop && (
+            <>
+              <Top>
                 <SearchWrapper>
                   <Search />
                   <DrawInput />
                 </SearchWrapper>
-              </TabPanel>
-            </SwipeableViews>
-          </>
+                <Kanji {...{ kanjiInfo, graphData, strokeAnimation }} />
+                <Radical kanjiInfo={kanjiInfo} />
+              </Top>
+              <Bottom>
+                <Examples kanjiInfo={kanjiInfo} />
+                <Graphs {...{ kanjiInfo, graphData }} />
+              </Bottom>
+            </>
+          )}
+          {mobile && (
+            <>
+              <SwipeableViews
+                axis={"x"}
+                index={tabValue}
+                onChangeIndex={handleChangeIndex}
+              >
+                <TabPanel value={tabValue} index={0}>
+                  <Kanji {...{ kanjiInfo, graphData, strokeAnimation }} />
+                </TabPanel>
+                <TabPanel value={tabValue} index={1}>
+                  <Examples kanjiInfo={kanjiInfo} />
+                </TabPanel>
+                <TabPanel value={tabValue} index={2}>
+                  <Radical kanjiInfo={kanjiInfo} />
+                </TabPanel>
+                <TabPanel value={tabValue} index={3}>
+                  <Graphs {...{ kanjiInfo, graphData }} />
+                </TabPanel>
+                <TabPanel value={tabValue} index={4}>
+                  <SearchWrapper>
+                    <Search />
+                    <DrawInput />
+                  </SearchWrapper>
+                </TabPanel>
+              </SwipeableViews>
+            </>
+          )}
+        </Main>
+        {mobile && (
+          <Controls>
+            <Tabs
+              value={tabValue}
+              onChange={handleTabChange}
+              indicatorColor="secondary"
+              textColor="inherit"
+              variant="fullWidth"
+              aria-label="full width tabs example"
+            >
+              <Tab label="漢字" />
+              <Tab label="例" />
+              <Tab label="部首" />
+              <Tab label="図" />
+              <Tab icon={<SearchIcon />} />
+            </Tabs>
+          </Controls>
         )}
-      </Main>
-      {mobile && (
-        <Controls>
-          <Tabs
-            value={tabValue}
-            onChange={handleTabChange}
-            indicatorColor="secondary"
-            textColor="inherit"
-            variant="fullWidth"
-            aria-label="full width tabs example"
-          >
-            <Tab label="漢字" />
-            <Tab label="例" />
-            <Tab label="部首" />
-            <Tab label="図" />
-            <Tab icon={<SearchIcon />} />
-          </Tabs>
-        </Controls>
-      )}
+      </Wrapper>
     </>
   );
 };
@@ -197,7 +199,13 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 };
 
 // *  Styles
-
+const Wrapper = styled.div`
+  position: relative;
+  height: 100vh;
+  height: -webkit-fill-available;
+  height: -moz-fill-available;
+  height: fill-available;
+`;
 const Main = styled.main`
   width: 100%;
   height: calc(100% - 50px);

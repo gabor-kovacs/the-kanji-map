@@ -27,65 +27,71 @@ const Home: React.FC = () => {
         title="Home | The Kanji Map"
         description="The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form."
       />
-      <Header />
-      <Main>
-        {desktop && (
-          <>
-            <Top>
-              <SearchWrapper>
-                <Search />
-                <DrawInput />
-              </SearchWrapper>
-              <Kanji kanjiInfo={null} graphData={null} strokeAnimation={null} />
-              <Radical kanjiInfo={null} />
-            </Top>
-            <Bottom>
-              <Examples kanjiInfo={null} />
-              <Graphs kanjiInfo={null} graphData={null} />
-            </Bottom>
-          </>
-        )}
-        {mobile && (
-          <>
-            <div>
-              <TabPanel value={tabValue} index={0}>
-                <div />
-              </TabPanel>
-              <TabPanel value={tabValue} index={1}>
-                <div />
-              </TabPanel>
-              <TabPanel value={tabValue} index={2}>
-                <div />
-              </TabPanel>
-              <TabPanel value={tabValue} index={3}>
-                <div />
-              </TabPanel>
-              <TabPanel value={tabValue} index={4}>
+      <Wrapper>
+        <Header />
+        <Main>
+          {desktop && (
+            <>
+              <Top>
                 <SearchWrapper>
                   <Search />
                   <DrawInput />
                 </SearchWrapper>
-              </TabPanel>
-            </div>
-          </>
+                <Kanji
+                  kanjiInfo={null}
+                  graphData={null}
+                  strokeAnimation={null}
+                />
+                <Radical kanjiInfo={null} />
+              </Top>
+              <Bottom>
+                <Examples kanjiInfo={null} />
+                <Graphs kanjiInfo={null} graphData={null} />
+              </Bottom>
+            </>
+          )}
+          {mobile && (
+            <>
+              <div>
+                <TabPanel value={tabValue} index={0}>
+                  <div />
+                </TabPanel>
+                <TabPanel value={tabValue} index={1}>
+                  <div />
+                </TabPanel>
+                <TabPanel value={tabValue} index={2}>
+                  <div />
+                </TabPanel>
+                <TabPanel value={tabValue} index={3}>
+                  <div />
+                </TabPanel>
+                <TabPanel value={tabValue} index={4}>
+                  <SearchWrapper>
+                    <Search />
+                    <DrawInput />
+                  </SearchWrapper>
+                </TabPanel>
+              </div>
+            </>
+          )}
+        </Main>
+        {mobile && (
+          <Controls>
+            <Tabs
+              value={tabValue}
+              textColor="inherit"
+              variant="fullWidth"
+              aria-label="Tabs"
+            >
+              <Tab label="漢字" />
+              <Tab label="例" />
+              <Tab label="部首" />
+              <Tab label="図" />
+              <Tab icon={<SearchIcon />} />
+            </Tabs>
+          </Controls>
         )}
-      </Main>
-      {mobile && (
-        <Controls>
-          <Tabs
-            value={tabValue}
-            textColor="inherit"
-            variant="fullWidth"
-            aria-label="Tabs"
-          >
-            <Tab label="漢字" />
-            <Tab label="例" />
-            <Tab label="部首" />
-            <Tab label="図" />
-            <Tab icon={<SearchIcon />} />
-          </Tabs>
-        </Controls>
-      )}
+      </Wrapper>
     </>
   );
 };
@@ -121,14 +127,17 @@ const TabPanelWrapper = styled.div`
 `;
 
 // *  Styles
+const Wrapper = styled.div`
+  position: relative;
+  height: 100vh;
+  height: -webkit-fill-available;
+  height: -moz-fill-available;
+  height: fill-available;
+`;
 
 const Main = styled.main`
-  background-color: darkcyan;
   width: 100%;
   height: calc(100% - 50px);
-  /* height: calc(100% - 50px); */
-  /* min-height: 100vh;
-  min-height: -webkit-fill-available; */
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 330px 1fr;

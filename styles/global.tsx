@@ -63,7 +63,6 @@ export const globalStyles = (
       body {
         min-height: 100vh;
         min-height: -webkit-fill-available;
-        background-color: purple;
       }
       html {
         height: -webkit-fill-available;
@@ -110,7 +109,6 @@ export const globalStyles = (
       #__next,
       #___gatsby {
         isolation: isolate;
-        background-color: lime;
       }
     `}
   />
