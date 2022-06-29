@@ -81,6 +81,10 @@ const RadicalWrapper = styled.div`
   grid-template-rows: 36px 1fr 1fr;
   grid-template-columns: 100px 1fr;
   grid-column-gap: 10px;
+
+  @media (max-width: 767px) {
+    grid-template-rows: 36px 150px 1fr;
+  }
 `;
 
 const Title = styled.div`
@@ -115,21 +119,15 @@ const Main = styled.div`
 
 const Animation = styled.div`
   grid-area: anim;
-  /* display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center; */
-
   place-self: center;
   width: 80px;
   height: 80px;
-
-  /* & > div {
-    width: 80px;
-    height: 80px;
-  } */
   position: relative;
   overflow: hidden;
+
+  @media (max-width: 767px) {
+    align-self: start;
+  }
 `;
 
 const Info = styled.div`

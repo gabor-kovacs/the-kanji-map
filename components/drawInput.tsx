@@ -10,6 +10,7 @@ import handwriting from "../lib/handwriting";
 import Searchlist from "../data/searchlist.json";
 import Link from "next/link";
 import { useTheme } from "next-themes";
+import DeadSpace from "./deadspace";
 
 export const DrawInput: React.FC = () => {
   const { theme, systemTheme } = useTheme();
@@ -75,7 +76,9 @@ export const DrawInput: React.FC = () => {
   return (
     <DrawInputWrapper>
       <CanvasCrosshair />
-      <Canvas width={220} height={220} id={"handInput"} />
+      <DeadSpace>
+        <Canvas width={220} height={220} id={"handInput"} />
+      </DeadSpace>
       <DrawInputBottom>
         <IconButton
           style={{ color: "var(--color-danger)" }}
@@ -129,6 +132,10 @@ const DrawInputWrapper = styled.div`
   height: 220px;
   padding-bottom: 0;
   background: var(--color-background);
+
+  @media (max-width: 767px) {
+    margin-top: 64px;
+  }
 `;
 
 const DrawInputBottom = styled.div`

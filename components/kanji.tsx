@@ -183,6 +183,7 @@ const KanjiWrapper = styled.div`
 
   @media (max-width: 767px) {
     border: none;
+    grid-template-rows: 36px 150px 1fr;
   }
 `;
 
@@ -234,6 +235,10 @@ const Animation = styled.div`
   }
   svg path[clip-path] {
     stroke: var(--color-foreground) !important;
+  }
+
+  @media (max-width: 767px) {
+    justify-content: flex-start;
   }
 `;
 

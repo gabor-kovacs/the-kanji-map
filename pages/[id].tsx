@@ -105,6 +105,9 @@ const Page: React.FC<Props> = ({ kanjiInfo, graphData, strokeAnimation }) => {
                 <Radical kanjiInfo={kanjiInfo} />
               </TabPanel>
               <TabPanel value={tabValue} index={3}>
+                <Graphs {...{ kanjiInfo, graphData }} />
+              </TabPanel>
+              <TabPanel value={tabValue} index={4}>
                 <SearchWrapper>
                   <Search />
                   <DrawInput />
@@ -120,13 +123,13 @@ const Page: React.FC<Props> = ({ kanjiInfo, graphData, strokeAnimation }) => {
                 variant="fullWidth"
                 aria-label="full width tabs example"
               >
-                <Tab label="kanji" />
-                <Tab label="examples" />
-                <Tab label="radical" />
+                <Tab label="漢字" />
+                <Tab label="例" />
+                <Tab label="部首" />
+                <Tab label="図" />
                 <Tab icon={<SearchIcon />} />
               </Tabs>
             </Controls>
-            <Graphs {...{ kanjiInfo, graphData }} />
           </>
         )}
       </Main>
@@ -146,13 +149,7 @@ interface TabPanelProps {
 const TabPanel = (props: TabPanelProps) => {
   const { children, value, index, ...other } = props;
   return (
-    <div
-      style={{
-        position: "relative",
-        width: "100%",
-        height: "330px",
-        overflow: "hidden",
-      }}
+    <TabPanelWrapper
       role="tabpanel"
       hidden={value !== index}
       id={`full-width-tabpanel-${index}`}
@@ -160,9 +157,15 @@ const TabPanel = (props: TabPanelProps) => {
       {...other}
     >
       {value === index && <>{children}</>}
-    </div>
+    </TabPanelWrapper>
   );
 };
+const TabPanelWrapper = styled.div`
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+`;
 
 // *  Next.js
 
@@ -201,7 +204,13 @@ const Main = styled.main`
   grid-template-rows: 330px 1fr;
 
   @media (max-width: 767px) {
-    grid-template-rows: 330px 50px 1fr;
+    grid-template-rows: 1fr 50px;
+    & > div {
+      height: 100%;
+      & > div {
+        height: 100%;
+      }
+    }
   }
 `;
 
@@ -242,12 +251,5 @@ const Controls = styled.div`
 
   button {
     min-width: 80px;
-  }
-
-  @media (max-width: 380px) {
-    button {
-      padding: 0;
-      font-size: 12px;
-    }
   }
 `;

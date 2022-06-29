@@ -20,6 +20,7 @@ import { css } from "@emotion/react";
 import ThreeSixtyIcon from "@mui/icons-material/ThreeSixty";
 import OutboundIcon from "@mui/icons-material/Outbound";
 import CropFreeIcon from "@mui/icons-material/CropFree";
+import DeadSpace from "./deadspace";
 type KanjiInfo = {
   id: string;
   kanjialiveData?: any;
@@ -81,28 +82,29 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
           />
         </Tabs>
       </div>
-
-      <GraphWrapper>
-        {kanjiInfo && tabValue === 0 && (
-          <Graph3DNoSSR
-            kanjiInfo={kanjiInfo}
-            graphData={graphData}
-            showOutLinks={showOutLinks}
-            triggerFocus={tabValue + random}
-            bounds={bounds}
-            autoRotate={autoRotate}
-          />
-        )}
-        {kanjiInfo && tabValue === 1 && (
-          <Graph2DNoSSR
-            kanjiInfo={kanjiInfo}
-            graphData={graphData}
-            showOutLinks={showOutLinks}
-            triggerFocus={tabValue + random}
-            bounds={bounds}
-          />
-        )}
-      </GraphWrapper>
+      <DeadSpace>
+        <GraphWrapper>
+          {kanjiInfo && tabValue === 0 && (
+            <Graph3DNoSSR
+              kanjiInfo={kanjiInfo}
+              graphData={graphData}
+              showOutLinks={showOutLinks}
+              triggerFocus={tabValue + random}
+              bounds={bounds}
+              autoRotate={autoRotate}
+            />
+          )}
+          {kanjiInfo && tabValue === 1 && (
+            <Graph2DNoSSR
+              kanjiInfo={kanjiInfo}
+              graphData={graphData}
+              showOutLinks={showOutLinks}
+              triggerFocus={tabValue + random}
+              bounds={bounds}
+            />
+          )}
+        </GraphWrapper>
+      </DeadSpace>
       <Controls>
         <div style={{ display: tabValue === 0 ? "block" : "none" }}>
           <Checkbox

@@ -42,12 +42,9 @@ export const globalStyles = (
       body,
       #__next,
       #___gatsby {
-        width: 100vw;
-        height: 100vh;
-        height: -webkit-fill-available;
-        overflow: hidden;
         background-color: var(--color-background);
         color: var(--color-foreground);
+        height: 100%;
       }
 
       body {
@@ -60,6 +57,17 @@ export const globalStyles = (
           arial, sans-serif;
         -webkit-font-smoothing: antialiased;
         overflow: hidden;
+      }
+
+      body {
+        min-height: 100vh;
+        /* mobile viewport bug fix */
+        min-height: -webkit-fill-available;
+      }
+
+      html {
+        height: -webkit-fill-available;
+        width: 100vw;
       }
 
       img,
