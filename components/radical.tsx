@@ -2,12 +2,6 @@ import * as React from "react";
 import RadicalImages from "./radicalImages";
 import styled from "@emotion/styled";
 
-type KanjiInfo = {
-  id: string;
-  kanjialiveData?: any;
-  jishoData?: any;
-};
-
 interface Props {
   kanjiInfo: KanjiInfo | null;
 }
@@ -64,8 +58,6 @@ export const Radical: React.FC<Props> = ({ kanjiInfo }) => {
 };
 
 export default Radical;
-
-// * STYLES **************************************************************************************************
 
 const RadicalWrapper = styled.div`
   padding: 16px;

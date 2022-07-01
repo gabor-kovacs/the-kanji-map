@@ -1,9 +1,9 @@
 import * as React from "react";
 import styled from "@emotion/styled";
-import Head from "next/head";
 import Header from "../components/header";
 import Image from "next/image";
 import { NextSeo } from "next-seo";
+import { Wrapper } from "../styles/global";
 
 const About: React.FC = () => {
   return (
@@ -230,20 +230,11 @@ const About: React.FC = () => {
 
 export default About;
 
-// * STYLES **************************************************************************************************
-const Wrapper = styled.div`
-  position: relative;
-  height: 100vh;
-  height: -webkit-fill-available;
-  height: -moz-fill-available;
-  height: fill-available;
-`;
 const AboutWrapper = styled.div`
   max-width: 1320px;
   margin: 0 auto;
   height: calc(100% - 50px);
   padding: 16px;
-  /* overflow-y: scroll; */
   overflow: auto;
   padding-bottom: 32px;
 `;

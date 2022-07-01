@@ -1,39 +1,19 @@
 import * as React from "react";
-import styled from "@emotion/styled";
-
-import TableChartIcon from "@mui/icons-material/TableChart";
-import HomeIcon from "@mui/icons-material/Home";
-import InfoIcon from "@mui/icons-material/Info";
-
-import Logo from "../public/logo.svg";
 import Link from "next/link";
+import styled from "@emotion/styled";
 import { useRouter } from "next/router";
-
-import { css } from "@emotion/react";
 import { useTheme } from "next-themes";
-
+import useActualTheme from "../lib/useActualTheme";
+import InfoIcon from "@mui/icons-material/Info";
+import Logo from "../public/logo.svg";
 import LightModeIcon from "@mui/icons-material/LightMode";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 
 const Header: React.FC = () => {
   const router = useRouter();
 
-  const { theme, systemTheme, setTheme } = useTheme();
-
-  const [hovered, setHovered] = React.useState(false);
-
-  const [actualTheme, setActualTheme] = React.useState<null | "light" | "dark">(
-    null
-  );
-
-  React.useEffect(() => {
-    if (theme === "light" || (theme === "system" && systemTheme === "light")) {
-      setActualTheme("light");
-    }
-    if (theme === "dark" || (theme === "system" && systemTheme === "dark")) {
-      setActualTheme("dark");
-    }
-  }, [theme, systemTheme]);
+  const { setTheme } = useTheme();
+  const actualTheme = useActualTheme();
 
   return (
     <HeaderWrapper>
@@ -65,8 +45,6 @@ const Header: React.FC = () => {
 };
 
 export default Header;
-
-// * STYLES **************************************************************************************************
 
 const HeaderWrapper = styled.div`
   height: 50px;

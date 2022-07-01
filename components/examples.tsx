@@ -2,13 +2,6 @@ import * as React from "react";
 import styled from "@emotion/styled";
 import IconButton from "@mui/material/IconButton";
 import PlayCircleFilledIcon from "@mui/icons-material/PlayCircleFilled";
-import HighlightOffIcon from "@mui/icons-material/HighlightOff";
-
-type KanjiInfo = {
-  id: string;
-  kanjialiveData?: any;
-  jishoData?: any;
-};
 
 interface Props {
   kanjiInfo: KanjiInfo | null;
@@ -106,8 +99,6 @@ export const Examples: React.FC<Props> = ({ kanjiInfo }) => {
 };
 
 export default Examples;
-
-// * STYLES **************************************************************************************************
 
 const ExamplesWrapper = styled.div`
   display: grid;

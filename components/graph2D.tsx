@@ -1,25 +1,14 @@
 import * as React from "react";
-import ForceGraph2D, { LinkObject, NodeObject } from "react-force-graph-2d";
-import type { ForceGraphMethods, GraphData } from "react-force-graph-2d";
-
-import kanjilist from "../data/kanjilist.json";
-
-import SpriteText from "three-spritetext";
 import { useRouter } from "next/router";
-import { useTheme } from "next-themes";
-import type { KanjiParseResult } from "unofficial-jisho-api";
-
+import ForceGraph2D, { LinkObject, NodeObject } from "react-force-graph-2d";
+import useActualTheme from "../lib/useActualTheme";
+import kanjilist from "../data/kanjilist.json";
+import type { ForceGraphMethods, GraphData } from "react-force-graph-2d";
 import type { RectReadOnly } from "react-use-measure";
-
-type KanjiInfo = {
-  id: string;
-  kanjialiveData?: any;
-  jishoData?: KanjiParseResult | null;
-};
 
 interface Props {
   kanjiInfo: KanjiInfo;
-  graphData: any;
+  graphData: BothGraphData | null;
   showOutLinks: boolean;
   triggerFocus: number;
   bounds: RectReadOnly;
@@ -38,18 +27,7 @@ const Graph2D: React.FC<Props> = ({
   const joyoList = kanjilist.filter((el) => el.g === 1).map((el) => el.k);
   const jinmeiyoList = kanjilist.filter((el) => el.g === 2).map((el) => el.k);
 
-  const { theme, systemTheme } = useTheme();
-  const [actualTheme, setActualTheme] = React.useState<null | "light" | "dark">(
-    null
-  );
-  React.useEffect(() => {
-    if (theme === "light" || (theme === "system" && systemTheme === "light")) {
-      setActualTheme("light");
-    }
-    if (theme === "dark" || (theme === "system" && systemTheme === "dark")) {
-      setActualTheme("dark");
-    }
-  }, [theme, systemTheme]);
+  const actualTheme = useActualTheme();
 
   const fg2DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
     React.useRef();
@@ -64,10 +42,10 @@ const Graph2D: React.FC<Props> = ({
   React.useEffect(() => {
     setData(
       showOutLinks
-        ? graphData.withOutLinks
-        : (graphData.noOutLinks as unknown as GraphData)
+        ? graphData?.withOutLinks
+        : (graphData?.noOutLinks as unknown as GraphData)
     );
-  }, [graphData.noOutLinks, graphData.withOutLinks, showOutLinks]);
+  }, [graphData?.noOutLinks, graphData?.withOutLinks, showOutLinks]);
 
   const handleClick = (node: NodeObject) => {
     router.push(`/${node.id}`);

@@ -1,23 +1,13 @@
 /* eslint-disable @next/next/no-img-element */
 import * as React from "react";
-
 import styled from "@emotion/styled";
-
 import { joyoList } from "../data/joyo";
 import { jinmeiyoList } from "../data/jinmeiyo";
-import IconButton from "@mui/material/IconButton";
-
 import { useTimer } from "react-timer-hook";
-
-type KanjiInfo = {
-  id: string;
-  kanjialiveData?: any;
-  jishoData?: any;
-};
 
 interface Props {
   kanjiInfo: KanjiInfo | null;
-  graphData: any;
+  graphData: BothGraphData | null;
   strokeAnimation: string | null;
 }
 
@@ -102,10 +92,7 @@ export const Kanji: React.FC<Props> = ({
         {kanjiInfo?.jishoData?.meaning && (
           <>
             <p>
-              Meaning:{" "}
-              {/* </p>
-						<p> */}
-              <strong>{kanjiInfo?.jishoData?.meaning}</strong>
+              Meaning: <strong>{kanjiInfo?.jishoData?.meaning}</strong>
             </p>
           </>
         )}
@@ -113,8 +100,6 @@ export const Kanji: React.FC<Props> = ({
           <>
             <p>
               Kunyomi:{" "}
-              {/* </p>
-						<p> */}
               <strong>
                 {kanjiInfo?.jishoData?.kunyomi.map(
                   (kun: any, index: number) => {
@@ -129,8 +114,6 @@ export const Kanji: React.FC<Props> = ({
           <>
             <p>
               Onyomi:{" "}
-              {/* </p>
-						<p> */}
               <strong>
                 {kanjiInfo?.jishoData?.onyomi.map((on: any, index: number) => {
                   return <span key={index}>{on} </span>;
@@ -161,8 +144,6 @@ export const Kanji: React.FC<Props> = ({
 };
 
 export default Kanji;
-
-// * STYLES **************************************************************************************************
 
 const KanjiWrapper = styled.div`
   position: relative;

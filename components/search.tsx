@@ -1,18 +1,15 @@
 import * as React from "react";
 
 import TextField from "@mui/material/TextField";
+import Link from "next/link";
+import styled from "@emotion/styled";
+import { useRouter } from "next/router";
+import { VariableSizeList, ListChildComponentProps } from "react-window";
 import Autocomplete, { autocompleteClasses } from "@mui/material/Autocomplete";
 import ListSubheader from "@mui/material/ListSubheader";
 import Popper from "@mui/material/Popper";
-import { VariableSizeList, ListChildComponentProps } from "react-window";
-
 import SearchList from "../data/searchlist.json";
 import type { FilterOptionsState } from "@mui/material/useAutocomplete";
-
-import styled from "@emotion/styled";
-
-import { NextRouter, useRouter } from "next/router";
-import Link from "next/link";
 
 type SearchOption = {
   kanji: string;
@@ -20,10 +17,6 @@ type SearchOption = {
   meaning: string;
   group: "joyo" | "jinmeiyo" | "other";
 };
-
-interface ListChildComponentPropsWithRouter extends ListChildComponentProps {
-  router: NextRouter;
-}
 
 const filterOptions = (
   options: SearchOption[],
@@ -69,14 +62,12 @@ const sortFunction = (a: SearchOption, b: SearchOption) => {
   }
 };
 
-/******************************************* */
+/********************************************/
 
 const LISTBOX_PADDING = 5; // px
 
-// function renderRow(props: ListChildComponentPropsWithRouter) {
 function renderRow(props: ListChildComponentProps) {
   const { data, index, style } = props;
-  // const { data, index, style, router } = props;
   const dataSet = data[index];
 
   const inlineStyle = {
@@ -102,11 +93,7 @@ function renderRow(props: ListChildComponentProps) {
 
   return (
     <Link href={`/${dataSet[1]?.kanji}`}>
-      <ListElement
-        {...dataSet[0]}
-        style={inlineStyle}
-        // onMouseEnter={prefetchRoute}
-      >
+      <ListElement {...dataSet[0]} style={inlineStyle}>
         <div>
           <h3> {dataSet[1]?.kanji ?? ""}</h3>
         </div>
@@ -142,7 +129,6 @@ const ListboxComponent = React.forwardRef<
   HTMLDivElement,
   React.HTMLAttributes<HTMLElement>
 >(function ListboxComponent(props, ref) {
-  // const router = useRouter();
   const { children, ...other } = props;
   const itemData: React.ReactChild[] = [];
   (children as React.ReactChild[]).forEach(
@@ -177,19 +163,16 @@ const ListboxComponent = React.forwardRef<
         <VariableSizeList
           itemData={itemData}
           height={getHeight() + 2 * LISTBOX_PADDING}
-          // height={400}
           width="100%"
           ref={gridRef}
           outerElementType={OuterElementType}
           innerElementType="ul"
           itemSize={(index) => getChildSize(itemData[index])}
-          // itemSize={() => 40}
           overscanCount={5}
           itemCount={itemCount}
           style={{ backgroundColor: "var(--color-background)" }}
         >
           {renderRow}
-          {/* {(props) => renderRow({ ...props, router })} */}
         </VariableSizeList>
       </OuterElementContext.Provider>
     </div>
@@ -206,7 +189,7 @@ const StyledPopper = styled(Popper)({
   },
 });
 
-/******************************************* */
+/********************************************/
 
 const Search: React.FC = () => {
   const router = useRouter();
@@ -234,10 +217,8 @@ const Search: React.FC = () => {
       groupBy={(option) => option.group}
       options={OPTIONS.sort(sortFunction)}
       getOptionLabel={(option: any) => ``}
-      // getOptionLabel={(option: any) => `${option?.kanji}`}
       renderInput={(params) => (
         <StyledTextField
-          // sx={[{ color: "var(--color-primary)" }]}
           inputRef={inputRef}
           {...params}
           label="Search"
@@ -295,13 +276,9 @@ const ListElement = styled.li`
 const StyledTextField = styled(TextField)`
   background-color: var(--color-background);
 
-  /* placeholder color */
   & .MuiInputLabel-root {
     color: var(--color-light) !important;
   }
-  /* & label.Mui-focused {
-    color: var(--color-primary) !important;
-  } */
   & .MuiInputBase-input {
     color: var(--color-light) !important;
   }

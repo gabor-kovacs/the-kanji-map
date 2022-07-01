@@ -1,12 +1,14 @@
 import * as React from "react";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
-
-import Checkbox from "@mui/material/Checkbox";
-
 import { ResizeObserver } from "@juggle/resize-observer";
+import styled from "@emotion/styled";
 import useMeasure from "react-use-measure";
-
+import Checkbox from "@mui/material/Checkbox";
+import ThreeSixtyIcon from "@mui/icons-material/ThreeSixty";
+import OutboundIcon from "@mui/icons-material/Outbound";
+import CropFreeIcon from "@mui/icons-material/CropFree";
+import DeadSpace from "./deadspace";
 import dynamic from "next/dynamic";
 const Graph2DNoSSR = dynamic(() => import("./graph2D"), {
   ssr: false,
@@ -15,21 +17,9 @@ const Graph3DNoSSR = dynamic(() => import("./graph3D"), {
   ssr: false,
 });
 
-import styled from "@emotion/styled";
-import { css } from "@emotion/react";
-import ThreeSixtyIcon from "@mui/icons-material/ThreeSixty";
-import OutboundIcon from "@mui/icons-material/Outbound";
-import CropFreeIcon from "@mui/icons-material/CropFree";
-import DeadSpace from "./deadspace";
-type KanjiInfo = {
-  id: string;
-  kanjialiveData?: any;
-  jishoData?: any;
-};
-
 interface Props {
   kanjiInfo: KanjiInfo | null;
-  graphData: any;
+  graphData: BothGraphData | null;
 }
 
 const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {

@@ -1,43 +1,29 @@
 import * as React from "react";
-
+import Link from "next/link";
 import styled from "@emotion/styled";
-import IconButton from "@mui/material/IconButton";
+import handwriting from "../lib/handwriting";
+import useActualTheme from "../lib/useActualTheme";
+import DeadSpace from "./deadspace";
+import Searchlist from "../data/searchlist.json";
 import SearchIcon from "@mui/icons-material/Search";
 import HighlightOffIcon from "@mui/icons-material/HighlightOff";
-
-import handwriting from "../lib/handwriting";
-
-import Searchlist from "../data/searchlist.json";
-import Link from "next/link";
-import { useTheme } from "next-themes";
-import DeadSpace from "./deadspace";
+import IconButton from "@mui/material/IconButton";
 
 export const DrawInput: React.FC = () => {
-  const { theme, systemTheme } = useTheme();
   //  innitialize draw input
   const [canvas, setCanvas] = React.useState<any>(null);
 
-  const [actualTheme, setActualTheme] = React.useState<null | "light" | "dark">(
-    null
-  );
-  React.useEffect(() => {
-    if (theme === "light" || (theme === "system" && systemTheme === "light")) {
-      setActualTheme("light");
-    }
-    if (theme === "dark" || (theme === "system" && systemTheme === "dark")) {
-      setActualTheme("dark");
-    }
-  }, [theme, systemTheme]);
+  const actualTheme = useActualTheme();
 
   // show returned options
   const [inputSuggestions, setInputSuggestions] = React.useState<string[]>([]);
 
   const inputOptions = {
-    width: 220, //int, width of the writing area, default: undefined
-    height: 220, //int, height of the writing area, default: undefined
-    language: "ja", //string, language of input trace, default: "zh_TW"
-    numOfWords: 1, //int, number of words of input trace, default: undefined
-    numOfReturn: 64, //int, number of maximum returned results, default: undefined // ! was 4
+    width: 220,
+    height: 220,
+    language: "ja",
+    numOfWords: 1,
+    numOfReturn: 64,
   };
 
   const inputCallback = (result: string[], err: string) => {
@@ -62,6 +48,7 @@ export const DrawInput: React.FC = () => {
       actualTheme
     );
     setCanvas(can);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [actualTheme]);
 
   const recognizeKanji = () => {
@@ -122,8 +109,6 @@ export const DrawInput: React.FC = () => {
 };
 
 export default DrawInput;
-
-// * STYLES **************************************************************************************************
 
 const DrawInputWrapper = styled.div`
   position: relative;

@@ -1,11 +1,10 @@
 import axios from "axios";
 import Composition from "../data/composition.json";
-
 import fsPromises from "fs/promises";
 import path from "path";
-
 import JishoAPI from "unofficial-jisho-api";
 const jisho = new JishoAPI();
+import type { GraphData } from "react-force-graph-3d";
 
 /**
  * This is used by NextJS getStaticPaths to generate possible kanji pages
@@ -65,7 +64,7 @@ export const getKanjiData = async (id: string) => {
 export const getKanjiDataLocal = async (id: string) => {
   const filePath = path.join(process.cwd(), "data", "kanji", `${id}.json`);
   const jsonData = await fsPromises.readFile(filePath, "utf8");
-  const objectData = JSON.parse(jsonData);
+  const objectData: KanjiInfo = JSON.parse(jsonData);
   return objectData;
 };
 
@@ -151,7 +150,7 @@ export const getGraphData = async (id: string) => {
   const allNodes = inNodes.concat(outNodes);
   const allLinks = inLinks.concat(outLinks);
 
-  const withOutLinks = {
+  const withOutLinks: GraphData = {
     nodes: allNodes.filter(
       (value, index, self) => index === self.findIndex((t) => t.id === value.id)
     ),
@@ -163,7 +162,7 @@ export const getGraphData = async (id: string) => {
         )
     ),
   };
-  const noOutLinks = {
+  const noOutLinks: GraphData = {
     nodes: inNodes.filter(
       (value, index, self) => index === self.findIndex((t) => t.id === value.id)
     ),
@@ -175,5 +174,6 @@ export const getGraphData = async (id: string) => {
         )
     ),
   };
+
   return { withOutLinks, noOutLinks };
 };

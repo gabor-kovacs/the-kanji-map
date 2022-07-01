@@ -1,6 +1,7 @@
 import * as React from "react";
 import { css, Global } from "@emotion/react";
 import emotionNormalize from "emotion-normalize";
+import styled from "@emotion/styled";
 
 export const globalStyles = (
   <Global
@@ -113,3 +114,80 @@ export const globalStyles = (
     `}
   />
 );
+
+export const Wrapper = styled.div`
+  position: relative;
+  height: 100vh;
+  height: -webkit-fill-available;
+  height: -moz-fill-available;
+  height: fill-available;
+`;
+
+export const Main = styled.main`
+  width: 100%;
+  height: calc(100% - 50px);
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 330px 1fr;
+
+  @media (max-width: 767px) {
+    height: calc(100% - 100px);
+    grid-template-rows: 1fr;
+    & > div {
+      position: relative;
+      height: 100%;
+      & > div {
+        position: relative;
+        height: 100%;
+      }
+    }
+  }
+`;
+
+export const Top = styled.div`
+  display: grid;
+  grid-template-columns: 252px 1fr 1fr;
+  overflow: hidden;
+  border-bottom: 1px solid var(--color-lighter);
+`;
+
+export const Bottom = styled.div`
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  overflow: hidden;
+`;
+
+export const SearchWrapper = styled.div`
+  position: relative;
+  padding: 16px;
+
+  & > div:first-of-type {
+    margin-bottom: 10px;
+  }
+`;
+
+// * Mobile
+export const Controls = styled.div`
+  border-top: 1px solid var(--color-lighter);
+  border-bottom: 1px solid var(--color-lighter);
+  height: 50px;
+
+  & .Mui-selected {
+    color: var(--color-primary) !important;
+  }
+  & .MuiTabs-indicator {
+    background-color: var(--color-primary) !important;
+  }
+
+  button {
+    min-width: 50px;
+  }
+
+  @media (max-width: 767px) {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+  }
+`;

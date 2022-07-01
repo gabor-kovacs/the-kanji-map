@@ -1,32 +1,18 @@
 import * as React from "react";
-
-import ForceGraph3D, { LinkObject, NodeObject } from "react-force-graph-3d";
-import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
-import { getGraphData } from "../lib/lib";
-
-// import { joyoList } from "../data/joyo";
-// import { jinmeiyoList } from "../data/jinmeiyo";
-import kanjilist from "../data/kanjilist.json";
-import * as THREE from "three";
-
-import SpriteText from "three-spritetext";
 import { useRouter } from "next/router";
-import { useTheme } from "next-themes";
-
+import * as THREE from "three";
+import ForceGraph3D, { LinkObject, NodeObject } from "react-force-graph-3d";
+import SpriteText from "three-spritetext";
+import kanjilist from "../data/kanjilist.json";
+import useActualTheme from "../lib/useActualTheme";
 import type { RectReadOnly } from "react-use-measure";
+import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
 
-type KanjiInfo = {
-  id: string;
-  kanjialiveData?: any;
-  jishoData?: any;
-};
-
-// type NodeObjectWithData extends NodeObject
 type NodeObjectWithData = NodeObject & { data: KanjiInfo };
 
 interface Props {
   kanjiInfo: KanjiInfo;
-  graphData: any;
+  graphData: BothGraphData | null;
   showOutLinks: boolean;
   triggerFocus: number;
   bounds: RectReadOnly;
@@ -44,18 +30,7 @@ const Graph3D: React.FC<Props> = ({
   const joyoList = kanjilist.filter((el) => el.g === 1).map((el) => el.k);
   const jinmeiyoList = kanjilist.filter((el) => el.g === 2).map((el) => el.k);
 
-  const { theme, systemTheme } = useTheme();
-  const [actualTheme, setActualTheme] = React.useState<null | "light" | "dark">(
-    null
-  );
-  React.useEffect(() => {
-    if (theme === "light" || (theme === "system" && systemTheme === "light")) {
-      setActualTheme("light");
-    }
-    if (theme === "dark" || (theme === "system" && systemTheme === "dark")) {
-      setActualTheme("dark");
-    }
-  }, [theme, systemTheme]);
+  const actualTheme = useActualTheme();
 
   const fg3DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
     React.useRef();
@@ -70,10 +45,10 @@ const Graph3D: React.FC<Props> = ({
   React.useEffect(() => {
     setData(
       showOutLinks
-        ? graphData.withOutLinks
-        : (graphData.noOutLinks as unknown as GraphData)
+        ? graphData?.withOutLinks
+        : (graphData?.noOutLinks as unknown as GraphData)
     );
-  }, [graphData.noOutLinks, graphData.withOutLinks, showOutLinks]);
+  }, [graphData?.noOutLinks, graphData?.withOutLinks, showOutLinks]);
 
   const handleClick = (node: NodeObject) => {
     router.push(`/${node.id}`);

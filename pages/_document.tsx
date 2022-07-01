@@ -33,7 +33,6 @@ class MyDocument extends Document {
                 color="#5bbad5"
               />
               <meta name="msapplication-TileColor" content="#ffffff" />
-
               <meta name="theme-color" content="#2b99cf" />
               <link rel="preconnect" href="https://fonts.googleapis.com" />
               <link rel="preconnect" href="https://fonts.gstatic.com" />
@@ -47,10 +46,6 @@ class MyDocument extends Document {
           <body>
             <Main />
             <NextScript />
-            {/* <Script
-              src="/handwriting.canvas.js"
-              strategy="beforeInteractive"
-            ></Script> */}
           </body>
         </Html>
       </>
