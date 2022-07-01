@@ -10,6 +10,7 @@ import OutboundIcon from "@mui/icons-material/Outbound";
 import CropFreeIcon from "@mui/icons-material/CropFree";
 import DeadSpace from "./deadspace";
 import dynamic from "next/dynamic";
+import { useGraphPreferenceStore } from "../lib/store";
 const Graph2DNoSSR = dynamic(() => import("./graph2D"), {
   ssr: false,
 });
@@ -28,22 +29,26 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
     // debounce: 50,
   });
 
+  const { style, rotate, outLinks, setStyle, setRotate, setOutLinks } =
+    useGraphPreferenceStore();
+
   const [tabValue, setTabValue] = React.useState(0);
-  const [showOutLinks, setShowOutLinks] = React.useState<boolean>(true);
-  const [autoRotate, setAutoRotate] = React.useState<boolean>(true);
+
   const [random, setRandom] = React.useState<number>(Date.now());
 
   const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
-    setTabValue(newValue);
+    newValue === 0 && setStyle("3D");
+    newValue === 1 && setStyle("2D");
   };
 
-  const handleShowOutlinks = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setShowOutLinks(event.target.checked);
+  const handleOutlinks = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setOutLinks(!outLinks);
   };
 
-  const handleAutoRotate = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setAutoRotate(event.target.checked);
+  const handleRotate = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setRotate(!rotate);
   };
+
   const handleZoomToFit = (event: React.ChangeEvent<HTMLInputElement>) => {
     setRandom(Date.now());
   };
@@ -57,7 +62,11 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
           borderBottom: "1px solid var(--color-lighter)",
         }}
       >
-        <Tabs value={tabValue} onChange={handleTabChange} aria-label="tabs">
+        <Tabs
+          value={style === "3D" ? 0 : 1}
+          onChange={handleTabChange}
+          aria-label="tabs"
+        >
           <Tab
             style={{ color: "var(--color-light)" }}
             label="3D"
@@ -74,21 +83,21 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       </div>
       <DeadSpace>
         <GraphWrapper>
-          {kanjiInfo && tabValue === 0 && (
+          {kanjiInfo && style === "3D" && (
             <Graph3DNoSSR
               kanjiInfo={kanjiInfo}
               graphData={graphData}
-              showOutLinks={showOutLinks}
+              showOutLinks={outLinks}
               triggerFocus={tabValue + random}
               bounds={bounds}
-              autoRotate={autoRotate}
+              autoRotate={rotate}
             />
           )}
-          {kanjiInfo && tabValue === 1 && (
+          {kanjiInfo && style === "2D" && (
             <Graph2DNoSSR
               kanjiInfo={kanjiInfo}
               graphData={graphData}
-              showOutLinks={showOutLinks}
+              showOutLinks={outLinks}
               triggerFocus={tabValue + random}
               bounds={bounds}
             />
@@ -96,10 +105,11 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
         </GraphWrapper>
       </DeadSpace>
       <Controls>
-        <div style={{ display: tabValue === 0 ? "block" : "none" }}>
+        <div style={{ display: style === "3D" ? "block" : "none" }}>
           <Checkbox
             sx={checkBoxStyle}
-            onChange={handleAutoRotate}
+            onChange={handleRotate}
+            checked={rotate}
             inputProps={{ "aria-label": "Auto Rotate" }}
             defaultChecked
             icon={<ThreeSixtyIcon />}
@@ -109,7 +119,8 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
         <div style={{ gridArea: "outCheck" }}>
           <Checkbox
             sx={checkBoxStyle}
-            onChange={handleShowOutlinks}
+            onChange={handleOutlinks}
+            checked={outLinks}
             inputProps={{ "aria-label": "Show out links" }}
             defaultChecked
             icon={<OutboundIcon />}

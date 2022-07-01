@@ -121,6 +121,7 @@ export const Wrapper = styled.div`
   height: -webkit-fill-available;
   height: -moz-fill-available;
   height: fill-available;
+  overflow: hidden;
   display: grid;
   grid-template-rows: 50px 1fr;
   @media (max-width: 767px) {
@@ -131,6 +132,7 @@ export const Wrapper = styled.div`
 export const Main = styled.main`
   width: 100%;
   height: 100%;
+  overflow: hidden;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 330px 1fr;
