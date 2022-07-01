@@ -121,17 +121,22 @@ export const Wrapper = styled.div`
   height: -webkit-fill-available;
   height: -moz-fill-available;
   height: fill-available;
+  display: grid;
+  grid-template-rows: 50px 1fr;
+  @media (max-width: 767px) {
+    grid-template-rows: 50px 1fr 50px;
+  }
 `;
 
 export const Main = styled.main`
   width: 100%;
-  height: calc(100% - 50px);
+  height: 100%;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 330px 1fr;
 
   @media (max-width: 767px) {
-    height: calc(100% - 100px);
+    overflow: auto;
     grid-template-rows: 1fr;
     & > div {
       position: relative;
