@@ -211,6 +211,7 @@ const Search: React.FC = () => {
         filterOptions(options, inputValue)
       }
       disableListWrap
+      // @ts-ignore
       PopperComponent={StyledPopper}
       ListboxComponent={ListboxComponent}
       openOnFocus={true}

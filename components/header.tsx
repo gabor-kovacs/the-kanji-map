@@ -5,9 +5,10 @@ import { useRouter } from "next/router";
 import { useTheme } from "next-themes";
 import useActualTheme from "../lib/useActualTheme";
 import InfoIcon from "@mui/icons-material/Info";
-import Logo from "../public/logo.svg";
 import LightModeIcon from "@mui/icons-material/LightMode";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
+
+import Image from "next/image";
 
 const Header: React.FC = () => {
   const router = useRouter();
@@ -20,7 +21,14 @@ const Header: React.FC = () => {
       <ImageWrapper>
         <Link href={`/`} passHref>
           <a>
-            <Logo />
+            <div style={{ padding: "0px 16px", height: "50px" }}>
+              <Image
+                src="/logo.svg"
+                height={50}
+                width={30}
+                alt={"The Kanji Map"}
+              />
+            </div>
             <h1>The Kanji Map</h1>
           </a>
         </Link>
@@ -85,7 +93,9 @@ const ImageWrapper = styled.div`
       color: var(--foreground);
     }
   }
-
+  img {
+    padding: 8px 16px;
+  }
   svg {
     padding: 8px 16px;
     height: 50px;
