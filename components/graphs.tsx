@@ -1,7 +1,7 @@
 import * as React from "react";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
-import { ResizeObserver } from "@juggle/resize-observer";
+import {ResizeObserver} from "@juggle/resize-observer";
 import styled from "@emotion/styled";
 import useMeasure from "react-use-measure";
 import Checkbox from "@mui/material/Checkbox";
@@ -10,7 +10,8 @@ import OutboundIcon from "@mui/icons-material/Outbound";
 import CropFreeIcon from "@mui/icons-material/CropFree";
 import DeadSpace from "./deadspace";
 import dynamic from "next/dynamic";
-import { useGraphPreferenceStore } from "../lib/store";
+import {useGraphPreferenceStore} from "../lib/store";
+
 const Graph2DNoSSR = dynamic(() => import("./graph2D"), {
   ssr: false,
 });
@@ -32,7 +33,7 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   const { style, rotate, outLinks, setStyle, setRotate, setOutLinks } =
     useGraphPreferenceStore();
 
-  const [tabValue, setTabValue] = React.useState(0);
+  const [tabValue, _] = React.useState(0);
 
   const [random, setRandom] = React.useState<number>(Date.now());
 
@@ -41,15 +42,15 @@ const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
     newValue === 1 && setStyle("2D");
   };
 
-  const handleOutlinks = (event: React.ChangeEvent<HTMLInputElement>) => {
+  const handleOutlinks = () => {
     setOutLinks(!outLinks);
   };
 
-  const handleRotate = (event: React.ChangeEvent<HTMLInputElement>) => {
+  const handleRotate = () => {
     setRotate(!rotate);
   };
 
-  const handleZoomToFit = (event: React.ChangeEvent<HTMLInputElement>) => {
+  const handleZoomToFit = () => {
     setRandom(Date.now());
   };
 

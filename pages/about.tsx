@@ -232,9 +232,9 @@ export default About;
 const Wrapper = styled.div`
   position: relative;
   height: 100vh;
-  height: -webkit-fill-available;
-  height: -moz-fill-available;
-  height: fill-available;
+  //height: -webkit-fill-available;
+  //height: -moz-fill-available;
+  //height: fill-available;
   display: grid;
   grid-template-rows: 50px 1fr;
 `;
@@ -255,7 +255,7 @@ const StyledLink = styled.a`
 
   &:after {
     content: "";
-    width: 0px;
+    width: 0;
     height: 1px;
     display: block;
     background: #2b99cf;

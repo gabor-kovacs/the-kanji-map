@@ -1,5 +1,5 @@
 // * Create array to store radicals
-const searchList = require("./searchlist.json");
+const searchList = require("../../data/searchlist.json");
 const fs = require("fs");
 const path = require("path");
 const { parse } = require("csv-parse");
@@ -24,7 +24,7 @@ fs.createReadStream("./kanji-radicals.csv")
           m: row[5],
           rj: row[6],
           rr: row[7],
-          i: row[10] == "Important" ? 1 : 0,
+          i: row[10] === "Important" ? 1 : 0,
           f: row[11],
         });
         count++;

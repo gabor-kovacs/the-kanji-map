@@ -10,7 +10,7 @@ interface Props {
 export const Examples: React.FC<Props> = ({ kanjiInfo }) => {
   const playSound = (url: string) => {
     const audio = new Audio(url);
-    audio.play();
+    void audio.play();
   };
 
   const highlightKanji = (text: string) => {

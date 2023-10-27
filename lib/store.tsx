@@ -13,7 +13,7 @@ interface GraphPreferenceState {
 const graphPreferenceStore: (
   set: SetState<GraphPreferenceState>,
   get: GetState<GraphPreferenceState>
-) => GraphPreferenceState = (set, get) => ({
+) => GraphPreferenceState = (set) => ({
   style: "3D",
   rotate: true,
   outLinks: true,

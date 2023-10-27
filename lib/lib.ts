@@ -7,7 +7,7 @@ const jisho = new JishoAPI();
 import type { GraphData } from "react-force-graph-3d";
 
 /**
- * This is used by NextJS getStaticPaths to generate possible kanji pages
+ * This is used by Next.js getStaticPaths to generate possible kanji pages
  */
 export const getAllKanji = () => {
   return Object.entries(Composition).map(([kanji, _]) => {

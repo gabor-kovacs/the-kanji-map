@@ -1,10 +1,10 @@
 import * as React from "react";
-import { useRouter } from "next/router";
-import ForceGraph2D, { LinkObject, NodeObject } from "react-force-graph-2d";
+
+import ForceGraph2D, {ForceGraphMethods, GraphData, LinkObject, NodeObject} from "react-force-graph-2d";
 import useActualTheme from "../lib/useActualTheme";
 import kanjilist from "../data/kanjilist.json";
-import type { ForceGraphMethods, GraphData } from "react-force-graph-2d";
-import type { RectReadOnly } from "react-use-measure";
+import type {RectReadOnly} from "react-use-measure";
+import {useRouter} from "next/router";
 
 interface Props {
   kanjiInfo: KanjiInfo;
@@ -15,6 +15,8 @@ interface Props {
 }
 
 type NodeObjectWithData = NodeObject & { data: KanjiInfo };
+
+
 
 const Graph2D: React.FC<Props> = ({
   kanjiInfo,
@@ -29,35 +31,32 @@ const Graph2D: React.FC<Props> = ({
 
   const actualTheme = useActualTheme();
 
-  const fg2DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
-    React.useRef();
+  const fgRef: React.MutableRefObject<ForceGraphMethods | undefined> =
+      React.useRef();
 
   const router = useRouter();
 
-  const [data, setData] = React.useState<GraphData>({
+  const [data, setData] = React.useState<GraphData | undefined>({
     nodes: [],
     links: [],
   });
 
   React.useEffect(() => {
     setData(
-      showOutLinks
-        ? graphData?.withOutLinks
-        : (graphData?.noOutLinks as unknown as GraphData)
+        showOutLinks
+            ? graphData?.withOutLinks
+            : (graphData?.noOutLinks as unknown as GraphData)
     );
   }, [graphData?.noOutLinks, graphData?.withOutLinks, showOutLinks]);
 
-  const handleClick = (node: NodeObject) => {
-    router.push(`/${node.id}`);
-  };
+  const handleClick = (node: NodeObject) => void router.push(`/${node.id}`);
 
   // prefetch routes for nodes visible in the graph
   React.useEffect(() => {
     data?.nodes?.forEach((node) => {
-      router.prefetch(`/${node.id}`);
+      void router.prefetch(`/${node.id}`);
     });
   }, [data, router]);
-
   // store the hovered node in a state
   const [hoverNode, setHoverNode] = React.useState<NodeObject | null>(null);
 
@@ -69,7 +68,7 @@ const Graph2D: React.FC<Props> = ({
   const paintNode = (
     node: NodeObject,
     ctx: CanvasRenderingContext2D,
-    globalScale: number
+    // globalScale: number
   ) => {
     const label = String(node.id);
     const fontSize = 6;
@@ -121,15 +120,14 @@ const Graph2D: React.FC<Props> = ({
     const k2 = data?.nodes?.find((o) => o.id === kanji2) as NodeObjectWithData;
     const on1: string[] | undefined = k1?.data?.jishoData?.onyomi;
     const on2: string[] | undefined = k2?.data?.jishoData?.onyomi;
-    const onyomiOverlap = on1?.filter((value) => on2?.includes(value)) ?? "";
-    return onyomiOverlap;
+    return on1?.filter((value) => on2?.includes(value)) ?? "";
   };
 
   // FOCUS  ON MAIN NODE AT START
   React.useEffect(() => {
     const focusMain = setTimeout(() => {
-      if (kanjiInfo.id && data?.nodes?.length > 0) {
-        fg2DRef?.current?.zoomToFit(1000, bounds.width * 0.1);
+      if (kanjiInfo.id && data?.nodes?.length && data?.nodes?.length > 0) {
+        fgRef?.current?.zoomToFit(1000, bounds.width * 0.1);
       }
     }, 100);
     return () => clearTimeout(focusMain);
@@ -137,7 +135,7 @@ const Graph2D: React.FC<Props> = ({
 
   return (
     <ForceGraph2D
-      ref={fg2DRef}
+      ref={fgRef}
       width={bounds.width}
       height={bounds.height}
       backgroundColor={"var(--color-background)"}
@@ -224,8 +222,7 @@ const Graph2D: React.FC<Props> = ({
             target.y - source.y
           );
 
-          const relPos = (linkLength - 3) / linkLength;
-          return relPos;
+          return (linkLength - 3) / linkLength;
         } else {
           return 0.8;
         }

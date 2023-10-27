@@ -31,7 +31,7 @@ Displayed kanji information (where available):
 - Stroke animations are provided by [animCJK](https://github.com/parsimonhi/animCJK), released under the Arphic Public License.
 - Kanji, examples and radical information is provided by [JISHO.org](https://jisho.org), sourcing from multiple open source [dictionaries](https://jisho.org/about) and [Kanji alive](https://kanjialive.com/), released under CC 4.0.
 - Graph is created using [react-force-graph](https://github.com/vasturiano/react-force-graph) and [three-spritetext](https://github.com/vasturiano/three-spritetext), released under the MIT license.
-- Hand written kanji recognition uses [handwriting.js](https://github.com/ChenYuHo/handwriting.js), released under the MIT license.
+- Handwritten kanji recognition uses [handwriting.js](https://github.com/ChenYuHo/handwriting.js), released under the MIT license.
 
 ## Copyright
 

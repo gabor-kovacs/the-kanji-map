@@ -1,5 +1,7 @@
 // * Create array to store every possible kanji
-const composition = require("./composition.json");
+// noinspection SpellCheckingInspection
+
+const composition = require(".,/data/composition.json");
 const JishoAPI = require("unofficial-jisho-api");
 const jisho = new JishoAPI();
 const fs = require("fs");
@@ -28,10 +30,10 @@ const getGroup = (id) => {
   const len = Object.entries(composition).length;
   let i = 1;
 
-  const kanjiList = [];
-  for (const [kanji, _] of Object.entries(composition)) {
-    kanjiList.push(kanji);
-  }
+  // const kanjiList = [];
+  // for (const [kanji, _] of Object.entries(composition)) {
+  //   kanjiList.push(kanji);
+  // }
 
   for (const [kanji, _] of Object.entries(composition)) {
     console.log(`processing ${i}/${len}`);

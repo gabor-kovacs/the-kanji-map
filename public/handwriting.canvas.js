@@ -148,7 +148,9 @@
   };
 
   handwriting.Canvas.prototype.undo = function () {
-    if (!this.allowUndo || this.step.length <= 0) return;
+    if (!this.allowUndo || this.step.length <= 0) {
+      return
+    }
     else if (this.step.length === 1) {
       if (this.allowRedo) {
         this.redo_step.push(this.step.pop());

@@ -51,7 +51,6 @@ export const globalStyles = (
 
       body {
         line-height: 1.5;
-        -webkit-font-smoothing: antialiased;
         margin: 0;
         padding: 0;
         font-family: Roboto, -apple-system, BlinkMacSystemFont, avenir next,
@@ -116,11 +115,12 @@ export const globalStyles = (
 );
 
 export const Wrapper = styled.div`
+  //background: aqua;
   position: relative;
   height: 100vh;
   height: -webkit-fill-available;
-  height: -moz-fill-available;
-  height: fill-available;
+  //height: -moz-fill-available;
+  //height: fill-available;
   overflow: hidden;
   display: grid;
   grid-template-rows: 50px 1fr;

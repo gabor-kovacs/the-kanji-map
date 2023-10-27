@@ -1,12 +1,12 @@
 import * as React from "react";
-import { useRouter } from "next/router";
+import {useRouter} from "next/router";
 import * as THREE from "three";
-import ForceGraph3D, { LinkObject, NodeObject } from "react-force-graph-3d";
+import type {ForceGraphMethods, GraphData} from "react-force-graph-3d";
+import ForceGraph3D, {LinkObject, NodeObject} from "react-force-graph-3d";
 import SpriteText from "three-spritetext";
 import kanjilist from "../data/kanjilist.json";
 import useActualTheme from "../lib/useActualTheme";
-import type { RectReadOnly } from "react-use-measure";
-import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
+import type {RectReadOnly} from "react-use-measure";
 
 type NodeObjectWithData = NodeObject & { data: KanjiInfo };
 
@@ -51,13 +51,13 @@ const Graph3D: React.FC<Props> = ({
   }, [graphData?.noOutLinks, graphData?.withOutLinks, showOutLinks]);
 
   const handleClick = (node: NodeObject) => {
-    router.push(`/${node.id}`);
+    void router.push(`/${node.id}`);
   };
 
   // prefetch routes for nodes visible in the graph
   React.useEffect(() => {
     data?.nodes?.forEach((node) => {
-      router.prefetch(`/${node.id}`);
+      void router.prefetch(`/${node.id}`);
     });
   }, [data, router]);
 
@@ -167,8 +167,7 @@ const Graph3D: React.FC<Props> = ({
     const k2 = data?.nodes?.find((o) => o.id === kanji2) as NodeObjectWithData;
     const on1: string[] = k1?.data?.jishoData?.onyomi;
     const on2: string[] = k2?.data?.jishoData?.onyomi;
-    const onyomiOverlap = on1?.filter((value) => on2?.includes(value)) ?? "";
-    return onyomiOverlap;
+    return on1?.filter((value) => on2?.includes(value)) ?? "";
   };
 
   return (
@@ -199,8 +198,7 @@ const Graph3D: React.FC<Props> = ({
             target.y - source.y,
             target.z - source.z
           );
-          const relPos = (linkLength - 8) / linkLength;
-          return relPos;
+          return (linkLength - 8) / linkLength;
         } else {
           return 0.8;
         }

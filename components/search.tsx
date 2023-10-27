@@ -129,10 +129,12 @@ const ListboxComponent = React.forwardRef<
   HTMLDivElement,
   React.HTMLAttributes<HTMLElement>
 >(function ListboxComponent(props, ref) {
+
+
   const { children, ...other } = props;
-  const itemData: React.ReactChild[] = [];
-  (children as React.ReactChild[]).forEach(
-    (item: React.ReactChild & { children?: React.ReactChild[] }) => {
+  const itemData: React.ReactElement[] = [];
+  (children as React.ReactElement[]).forEach(
+    (item: React.ReactElement & { children?: React.ReactElement[] }) => {
       itemData.push(item);
       itemData.push(...(item.children || []));
     }
@@ -141,8 +143,8 @@ const ListboxComponent = React.forwardRef<
   const itemCount = itemData.length;
   const itemSize = 40;
 
-  const getChildSize = (child: React.ReactChild) => {
-    if (child.hasOwnProperty("group")) {
+  const getChildSize = (child: React.ReactNode) => {
+    if (child && child.hasOwnProperty("group")) {
       return 36;
     }
     return 40;
@@ -217,7 +219,7 @@ const Search: React.FC = () => {
       openOnFocus={true}
       groupBy={(option) => option.group}
       options={OPTIONS.sort(sortFunction)}
-      getOptionLabel={(option: any) => ``}
+      getOptionLabel={() => ``}
       renderInput={(params) => (
         <StyledTextField
           inputRef={inputRef}

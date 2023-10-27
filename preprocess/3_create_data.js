@@ -1,8 +1,8 @@
 // * pull the kanji data from Jisho.org and KanjiVG
-// nextjs can be used directly to fetch this data in getStaticProps, however storing locally can speed up build times later on
+// Next.js can be used directly to fetch this data in getStaticProps, however storing locally can speed up build times later on
 const fs = require("fs");
 const path = require("path");
-const searchlist = require("./searchlist.json");
+const searchlist = require("../data/searchlist.json");
 const axios = require("axios").default;
 require("dotenv").config();
 const JishoAPI = require("unofficial-jisho-api");
@@ -68,4 +68,6 @@ const main = async () => {
   }
 };
 
-main();
+main().then(() => {
+  console.log("done");
+})
