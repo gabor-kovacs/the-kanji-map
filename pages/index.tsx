@@ -20,6 +20,7 @@ import {
   SearchWrapper,
   Controls,
 } from "../styles/global";
+import { Alert } from "../components/alert";
 
 const Home: React.FC = () => {
   const mobile = useMediaQuery("(max-width: 767px)");
@@ -35,6 +36,7 @@ const Home: React.FC = () => {
         description="The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form."
       />
       <Wrapper>
+        <Alert />
         <Header />
         <Main>
           {desktop && (

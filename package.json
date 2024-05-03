@@ -17,6 +17,7 @@
     "@juggle/resize-observer": "^3.4.0",
     "@mui/icons-material": "^5.15.16",
     "@mui/material": "^5.15.16",
+    "@radix-ui/react-alert-dialog": "^1.0.5",
     "@types/react-swipeable-views": "^0.13.5",
     "axios": "^1.6.8",
     "csv": "^6.3.8",
