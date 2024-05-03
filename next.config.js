@@ -12,14 +12,14 @@ const nextConfig = {
 
 module.exports = withPlugins(
   [
-    [
-      {
-        include: path.resolve(__dirname, "public"),
-        webpack(config, options) {
-          return config;
-        },
-      },
-    ],
+    // [
+    //   {
+    //     include: path.resolve(__dirname, "public"),
+    //     webpack(config, options) {
+    //       return config;
+    //     },
+    //   },
+    // ],
     [
       withPWA,
       {

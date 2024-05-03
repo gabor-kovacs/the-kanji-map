@@ -3,7 +3,7 @@
 // Modified to work with react
 (function (window, document) {
   var root = this;
-  console.log("HANDWRITING LOADED");
+  // console.log("HANDWRITING LOADED");
 
   // Create a safe reference to the handwriting object for use below.
   var handwriting = function (obj) {

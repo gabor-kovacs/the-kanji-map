@@ -78,7 +78,6 @@ export const DrawInput: React.FC = () => {
         {inputSuggestions.map((suggestion, index) => (
           <Link key={index} href={`/${suggestion}`}>
             <IconButton
-              key={index}
               aria-label={suggestion}
               value={suggestion}
               size="small"

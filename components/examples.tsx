@@ -2,7 +2,6 @@ import * as React from "react";
 import styled from "@emotion/styled";
 import IconButton from "@mui/material/IconButton";
 import PlayCircleFilledIcon from "@mui/icons-material/PlayCircleFilled";
-
 interface Props {
   kanjiInfo: KanjiInfo | null;
 }
@@ -19,10 +18,10 @@ export const Examples: React.FC<Props> = ({ kanjiInfo }) => {
     return (
       <span>
         {textArray.map((item, index) => (
-          <>
+          <React.Fragment key={index}>
             {item}
             {index !== textArray.length - 1 && <b>{kanjiInfo?.id}</b>}
-          </>
+          </React.Fragment>
         ))}
       </span>
     );
@@ -77,7 +76,6 @@ export const Examples: React.FC<Props> = ({ kanjiInfo }) => {
               </p>
             )
           )}
-
           {kanjiInfo?.jishoData?.kunyomiExamples &&
             kanjiInfo?.jishoData?.kunyomiExamples?.length !== 0 && (
               <h5>Kunyomi Examples</h5>

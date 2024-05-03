@@ -9,6 +9,7 @@ import LightModeIcon from "@mui/icons-material/LightMode";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 
 import Image from "next/image";
+import LogoSVG from "./logo";
 
 const Header: React.FC = () => {
   const router = useRouter();
@@ -20,26 +21,15 @@ const Header: React.FC = () => {
     <HeaderWrapper>
       <ImageWrapper>
         <Link href={`/`} passHref>
-          <a>
-            <div style={{ padding: "0px 16px", height: "50px" }}>
-              <Image
-                src="/logo.svg"
-                height={50}
-                width={30}
-                alt={"The Kanji Map"}
-              />
-            </div>
-            <h1>The Kanji Map</h1>
-          </a>
+          <div style={{ padding: "0px 16px", height: "50px" }}>
+            <LogoSVG />
+          </div>
+          <h1>The Kanji Map</h1>
         </Link>
       </ImageWrapper>
       <Icons>
         <Link href={router.pathname === "/about" ? "/" : "about"}>
-          <a>
-            <InfoIcon
-              className={router.pathname === "/about" ? "active" : ""}
-            />
-          </a>
+          <InfoIcon className={router.pathname === "/about" ? "active" : ""} />
         </Link>
         {actualTheme === "light" && (
           <DarkModeIcon onClick={() => setTheme("dark")} />
@@ -93,18 +83,17 @@ const ImageWrapper = styled.div`
       color: var(--foreground);
     }
   }
-  img {
-    padding: 8px 16px;
-  }
   svg {
-    padding: 8px 16px;
+    padding: 8px 0px;
     height: 50px;
     height: 50px;
-    width: 62.66px;
+    width: 40px;
   }
 `;
+
 const Icons = styled.div`
   display: grid;
+  cursor: pointer;
   grid-template-columns: 50px 50px;
   place-items: center;
   svg {
