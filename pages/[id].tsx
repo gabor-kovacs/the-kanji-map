@@ -156,6 +156,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const kanjiInfo = JSON.parse(JSON.stringify(kanjiInfoRaw));
   const graphData = JSON.parse(JSON.stringify(graphDataRaw));
 
+  console.log("strokeAnimation");
+  console.log(strokeAnimation);
+
   return {
     props: {
       kanjiInfo,
