@@ -29,7 +29,6 @@ export const DrawInput: React.FC = () => {
   const inputCallback = (result: string[], err: string) => {
     if (err) {
       return;
-      // console.log(err);
     } else {
       const kanjiList = Searchlist.map((entry) => entry.k);
       const filtered = result

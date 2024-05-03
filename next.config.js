@@ -4,7 +4,6 @@ const withPWA = require("next-pwa");
 const path = require("path");
 
 const nextConfig = {
-  output: "export",
   reactStrictMode: true,
   typescript: {
     ignoreBuildErrors: false,

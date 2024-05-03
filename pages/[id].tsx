@@ -142,6 +142,7 @@ export default Page;
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = getAllKanji();
+
   return {
     paths,
     fallback: false,
@@ -155,9 +156,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   // workaround to avoid "cannot serialize undefined" error
   const kanjiInfo = JSON.parse(JSON.stringify(kanjiInfoRaw));
   const graphData = JSON.parse(JSON.stringify(graphDataRaw));
-
-  console.log("strokeAnimation");
-  console.log(strokeAnimation);
 
   return {
     props: {
