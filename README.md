@@ -1,14 +1,11 @@
 # The Kanji Map
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60c6e34d-30e3-480f-8e53-8848ab7b678d/deploy-status)](https://app.netlify.com/sites/thekanjimap/deploys)
+
 The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form.
 
-## Giving Back
+### Try it online at [https://thekanjimap.netlify.app](https://thekanjimap.netlify.app)
 
-[![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E)
-
-If this project was useful for you and you would like to contribute back, you can always [Donate!](https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E)
-
-Donations are used to pay for hosting, maintenance costs and improvements.
 
 ## Kanji information
 
@@ -33,6 +30,11 @@ Displayed kanji information (where available):
 - Graph is created using [react-force-graph](https://github.com/vasturiano/react-force-graph) and [three-spritetext](https://github.com/vasturiano/three-spritetext), released under the MIT license.
 - Handwritten kanji recognition uses [handwriting.js](https://github.com/ChenYuHo/handwriting.js), released under the MIT license.
 
-## Copyright
 
-©The Kanji Map 2017-2022 by [Gabor Kovacs](https://drgaborkovacs.com/index_en.html), released under the MIT license.
+## Donations
+
+[![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E)
+
+If this project was useful for you and you would like to contribute back, you can always [Donate!](https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E)
+
+Donations are used to pay for hosting, maintenance costs and improvements.
