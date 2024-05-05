@@ -62,8 +62,8 @@ const Page: React.FC<Props> = ({ kanjiInfo, graphData, strokeAnimation }) => {
   return (
     <>
       <NextSeo
-        title={`${kanjiInfo.id} | The Kanji Map`}
-        description={`Kanji information for ${kanjiInfo.id}`}
+        title={`${kanjiInfo?.id} | The Kanji Map`}
+        description={`Kanji information for ${kanjiInfo?.id}`}
       />
       <Wrapper>
         <Header />
@@ -172,7 +172,8 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       return { props: { error: "Missing or invalid Kanji ID" } };
     }
     const id = params.id as string;
-    const kanjiInfo = await getKanjiDataLocal(id);
+    // const kanjiInfo = await getKanjiDataLocal(id);
+    const kanjiInfo = null;
     const graphData = await getGraphData(id); // Assume this function is similarly safe
     const strokeAnimation = await getStrokeAnimation(id); // Ditto
 
