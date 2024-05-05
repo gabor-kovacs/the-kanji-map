@@ -61,11 +61,22 @@ export const getKanjiData = async (id: string) => {
  * Get data for input kanji from KanjiAlive and Jisho.org ALREADY SAVED LOCALLY
  * @param id input kanji
  */
+// export const getKanjiDataLocal = async (id: string) => {
+//   const filePath = path.join(process.cwd(), "data", "kanji", `${id}.json`);
+//   const jsonData = await fsPromises.readFile(filePath, "utf8");
+//   const objectData: KanjiInfo = JSON.parse(jsonData);
+//   return objectData;
+// };
+
 export const getKanjiDataLocal = async (id: string) => {
   const filePath = path.join(process.cwd(), "data", "kanji", `${id}.json`);
-  const jsonData = await fsPromises.readFile(filePath, "utf8");
-  const objectData: KanjiInfo = JSON.parse(jsonData);
-  return objectData;
+  try {
+    const jsonData = await fsPromises.readFile(filePath, "utf8");
+    return JSON.parse(jsonData);
+  } catch (error) {
+    console.error("Failed to read or parse kanji data:", error);
+    throw new Error("Failed to load kanji data");
+  }
 };
 
 export const getStrokeAnimation = async (id: string) => {
