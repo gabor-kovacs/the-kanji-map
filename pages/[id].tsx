@@ -149,47 +149,47 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-// export const getStaticProps: GetStaticProps = async ({ params }) => {
-//   const kanjiInfoRaw = await getKanjiDataLocal(params?.id as string);
-//   const graphDataRaw = await getGraphData(params?.id as string);
-//   const strokeAnimation = await getStrokeAnimation(params?.id as string);
-//   // workaround to avoid "cannot serialize undefined" error
-//   const kanjiInfo = JSON.parse(JSON.stringify(kanjiInfoRaw));
-//   const graphData = JSON.parse(JSON.stringify(graphDataRaw));
-
-//   return {
-//     props: {
-//       kanjiInfo,
-//       graphData,
-//       strokeAnimation,
-//     },
-//   };
-// };
-
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  try {
-    if (!params?.id) {
-      return { props: { error: "Missing or invalid Kanji ID" } };
-    }
-    const id = params.id as string;
-    // const kanjiInfo = await getKanjiDataLocal(id);
-    const kanjiInfo = null;
-    const graphData = await getGraphData(id); // Assume this function is similarly safe
-    const strokeAnimation = await getStrokeAnimation(id); // Ditto
+  const kanjiInfoRaw = await getKanjiDataLocal(params?.id as string);
+  const graphDataRaw = await getGraphData(params?.id as string);
+  const strokeAnimation = await getStrokeAnimation(params?.id as string);
+  // workaround to avoid "cannot serialize undefined" error
+  const kanjiInfo = JSON.parse(JSON.stringify(kanjiInfoRaw));
+  const graphData = JSON.parse(JSON.stringify(graphDataRaw));
 
-    return {
-      props: {
-        kanjiInfo,
-        graphData,
-        strokeAnimation,
-      },
-    };
-  } catch (error) {
-    console.error("Error in getStaticProps:", error);
-    return {
-      props: {
-        error: "An error occurred",
-      },
-    };
-  }
+  return {
+    props: {
+      kanjiInfo,
+      graphData,
+      strokeAnimation,
+    },
+  };
 };
+
+// export const getStaticProps: GetStaticProps = async ({ params }) => {
+//   try {
+//     if (!params?.id) {
+//       return { props: { error: "Missing or invalid Kanji ID" } };
+//     }
+//     const id = params.id as string;
+//     // const kanjiInfo = await getKanjiDataLocal(id);
+//     const kanjiInfo = null;
+//     const graphData = await getGraphData(id); // Assume this function is similarly safe
+//     const strokeAnimation = await getStrokeAnimation(id); // Ditto
+
+//     return {
+//       props: {
+//         kanjiInfo,
+//         graphData,
+//         strokeAnimation,
+//       },
+//     };
+//   } catch (error) {
+//     console.error("Error in getStaticProps:", error);
+//     return {
+//       props: {
+//         error: "An error occurred",
+//       },
+//     };
+//   }
+// };
