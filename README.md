@@ -4,7 +4,9 @@
 
 The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form.
 
-### Try it online at [https://thekanjimap.netlify.app](https://thekanjimap.netlify.app)
+### Try it online at [thekanjimap.com](https://thekanjimap.netlify.app) 
+
+or [thekanjimap.netlify.app](https://thekanjimap.netlify.app) (backup)
 
 
 ## Kanji information
@@ -35,6 +37,6 @@ Displayed kanji information (where available):
 
 [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E)
 
-If this project was useful for you and you would like to contribute back, you can always [Donate!](https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E)
+If this project was useful for you and you would like to contribute, you can always [Donate.](https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E)
 
 Donations are used to pay for hosting, maintenance costs and improvements.

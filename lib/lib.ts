@@ -77,16 +77,6 @@ export const getStrokeAnimation = async (id: string) => {
     `${id.charCodeAt(0)}.svg`
   );
 
-  console.log(filePath);
-
-  const unicodeValue = 20008;
-  const character = String.fromCharCode(unicodeValue);
-  console.log(character); // Output: "仨"
-  console.log(character); // Output: "仨"
-  console.log(character); // Output: "仨"
-  console.log(character); // Output: "仨"
-  console.log(character); // Output: "仨"
-
   let animationData = null;
   try {
     animationData = await fsPromises.readFile(filePath, "utf8");

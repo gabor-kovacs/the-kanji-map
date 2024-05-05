@@ -36,7 +36,7 @@ const Home: React.FC = () => {
         description="The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form."
       />
       <Wrapper>
-        <Alert />
+        {/* <Alert /> */}
         <Header />
         <Main>
           {desktop && (
