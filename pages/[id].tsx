@@ -165,31 +165,3 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     },
   };
 };
-
-// export const getStaticProps: GetStaticProps = async ({ params }) => {
-//   try {
-//     if (!params?.id) {
-//       return { props: { error: "Missing or invalid Kanji ID" } };
-//     }
-//     const id = params.id as string;
-//     // const kanjiInfo = await getKanjiDataLocal(id);
-//     const kanjiInfo = null;
-//     const graphData = await getGraphData(id); // Assume this function is similarly safe
-//     const strokeAnimation = await getStrokeAnimation(id); // Ditto
-
-//     return {
-//       props: {
-//         kanjiInfo,
-//         graphData,
-//         strokeAnimation,
-//       },
-//     };
-//   } catch (error) {
-//     console.error("Error in getStaticProps:", error);
-//     return {
-//       props: {
-//         error: "An error occurred",
-//       },
-//     };
-//   }
-// };
