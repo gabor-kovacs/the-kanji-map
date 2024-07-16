@@ -155,7 +155,7 @@ const About: React.FC = () => {
                 href="https://jisho.org/about "
                 rel="noreferrer"
               >
-                dicionaries
+                dictionaries
               </StyledLink>{" "}
               and{" "}
               <StyledLink

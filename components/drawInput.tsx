@@ -10,7 +10,7 @@ import HighlightOffIcon from "@mui/icons-material/HighlightOff";
 import IconButton from "@mui/material/IconButton";
 
 export const DrawInput: React.FC = () => {
-  //  innitialize draw input
+  //  initialize draw input
   const [canvas, setCanvas] = React.useState<any>(null);
 
   const actualTheme = useActualTheme();
