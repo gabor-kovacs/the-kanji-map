@@ -1,12 +1,12 @@
 import * as React from "react";
-import {useRouter} from "next/router";
+import { useRouter } from "next/router";
 import * as THREE from "three";
-import type {ForceGraphMethods, GraphData} from "react-force-graph-3d";
-import ForceGraph3D, {LinkObject, NodeObject} from "react-force-graph-3d";
+import type { ForceGraphMethods, GraphData } from "react-force-graph-3d";
+import ForceGraph3D, { LinkObject, NodeObject } from "react-force-graph-3d";
 import SpriteText from "three-spritetext";
 import kanjilist from "../data/kanjilist.json";
 import useActualTheme from "../lib/useActualTheme";
-import type {RectReadOnly} from "react-use-measure";
+import type { RectReadOnly } from "react-use-measure";
 
 type NodeObjectWithData = NodeObject & { data: KanjiInfo };
 
@@ -101,6 +101,10 @@ const Graph3D: React.FC<Props> = ({
   }, [data, kanjiInfo.id, triggerFocus]);
 
   const handleHover = (node: any, prevNode: any) => {
+    if (autoRotate && fg3DRef?.current) {
+      // @ts-ignore
+      fg3DRef.current.controls().autoRotate = node ? false : true;
+    }
     // TODO: make this more compact
     // RESTORE COLOR OF PREVIOUS HOVERED NODE
     if (prevNode?.id) {
@@ -205,7 +209,7 @@ const Graph3D: React.FC<Props> = ({
       }}
       linkDirectionalArrowResolution={8}
       linkDirectionalParticles={3}
-      linkDirectionalParticleSpeed={0.008}
+      linkDirectionalParticleSpeed={0.004}
       linkDirectionalParticleWidth={1}
       linkDirectionalParticleResolution={8}
       // enableNodeDrag={false}
