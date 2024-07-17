@@ -100,10 +100,25 @@ const Graph3D: React.FC<Props> = ({
     };
   }, [data, kanjiInfo.id, triggerFocus]);
 
+  const debounce = (func: (...args: any[]) => void, wait: number) => {
+    let timeout: NodeJS.Timeout;
+    return (...args: any[]) => {
+      clearTimeout(timeout);
+      timeout = setTimeout(() => func(...args), wait);
+    };
+  };
+  const handleAutoRotate = debounce((node) => {
+    if (autoRotate && fg3DRef?.current) {
+      // @ts-ignore
+      !node && (fg3DRef.current.controls().autoRotate = true);
+    }
+  }, 500);
+
   const handleHover = (node: any, prevNode: any) => {
     if (autoRotate && fg3DRef?.current) {
       // @ts-ignore
-      fg3DRef.current.controls().autoRotate = node ? false : true;
+      node && (fg3DRef.current.controls().autoRotate = false);
+      handleAutoRotate(node);
     }
     // TODO: make this more compact
     // RESTORE COLOR OF PREVIOUS HOVERED NODE

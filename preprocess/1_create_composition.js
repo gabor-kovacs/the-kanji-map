@@ -63,6 +63,8 @@ parser
     // remove duplicates
     const allKanji = [...new Set(allNodes)];
 
+    const db = {}; // initialize the db object
+
     allKanji.forEach((kanji, idx) => {
       console.log(`${idx}/${allKanji.length}`);
       const inList = [];
@@ -74,13 +76,18 @@ parser
       db[kanji] = { in: [...new Set(inList)], out: [...new Set(outList)] };
     });
 
-    fs.writeFileSync(
-      path.join(__dirname, "data", "composition.json"),
-      JSON.stringify(db),
-      "utf-8"
-    );
-  })
+    // Ensure the directory exists
+    const dirPath = path.join(__dirname, "data");
+    if (!fs.existsSync(dirPath)) {
+      fs.mkdirSync(dirPath);
+    }
 
+    // Write to the file
+    const filePath = path.join(dirPath, "composition2.json");
+    fs.writeFileSync(filePath, JSON.stringify(db), "utf-8");
+
+    console.log("File written successfully");
+  })
   .catch(function (err) {
-    console.log("Error reading xml");
+    console.log("Error reading or processing XML:", err);
   });
