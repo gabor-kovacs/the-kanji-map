@@ -1,6 +1,3 @@
-// import { GraphData } from 'react-force-graph-3d';
-// import { KanjiParseResult } from "unofficial-jisho-api";
-
 type KanjiInfo = {
   id: string;
   kanjialiveData?: any;

@@ -1,28 +1,26 @@
 {
   "compilerOptions": {
-    "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
-    "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "esModuleInterop": true,
     "module": "esnext",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "types": ["@emotion/react/types/css-prop"]
-    // "downlevelIteration": true
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
   },
-  "include": [
-    "next-env.d.ts",
-    "global.d.ts",
-    "**/*.ts",
-    "**/*.tsx", "lib/handwriting.js", "lib/handwriting.js", "lib/handwriting.js",  "preprocess/create_composition.js"
-  ],
+  "include": ["../next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "preprocess/2_create_searchlist.ts", "preprocess/1_create_composition.ts"],
   "exclude": ["node_modules"]
 }
-
