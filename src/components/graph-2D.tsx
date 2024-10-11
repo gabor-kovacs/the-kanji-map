@@ -212,6 +212,9 @@ const Graph2D: React.FC<Props> = ({
         }
       }}
       linkDirectionalArrowLength={4}
+      linkDirectionalArrowColor={() =>
+        resolvedTheme === "dark" ? "#ffffff" : "#000000"
+      }
       linkDirectionalArrowRelPos={({ source, target }) => {
         if (
           typeof source === "object" &&
@@ -232,8 +235,11 @@ const Graph2D: React.FC<Props> = ({
         }
       }}
       linkDirectionalParticles={3}
-      linkDirectionalParticleSpeed={0.008}
+      linkDirectionalParticleSpeed={0.004}
       linkDirectionalParticleWidth={2}
+      linkDirectionalParticleColor={() =>
+        resolvedTheme === "dark" ? "#ffffff" : "#000000"
+      }
     />
   );
 };
