@@ -14,13 +14,7 @@ const notoSansJp = Noto_Sans_JP({
   adjustFontFallback: false,
 });
 
-export default function GlobalError({
-  error,
-  reset,
-}: {
-  error: Error & { digest?: string };
-  reset: () => void;
-}) {
+export default function GlobalError({ reset }: { reset: () => void }) {
   return (
     <html lang="en" suppressHydrationWarning className={notoSansJp.className}>
       <body className="w-screen h-screen overflow-hidden bg-background text-foreground selection:bg-primary">

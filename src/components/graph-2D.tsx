@@ -16,6 +16,7 @@ interface Props {
   kanjiInfo: KanjiInfo;
   graphData: BothGraphData | null;
   showOutLinks: boolean;
+  showParticles: boolean;
   triggerFocus: number;
   bounds: RectReadOnly;
 }
@@ -26,6 +27,7 @@ const Graph2D: React.FC<Props> = ({
   kanjiInfo,
   graphData,
   showOutLinks,
+  showParticles,
   triggerFocus,
   bounds,
 }) => {
@@ -236,7 +238,7 @@ const Graph2D: React.FC<Props> = ({
       }}
       linkDirectionalParticles={3}
       linkDirectionalParticleSpeed={0.004}
-      linkDirectionalParticleWidth={2}
+      linkDirectionalParticleWidth={() => (showParticles ? 2 : 0)}
       linkDirectionalParticleColor={() =>
         resolvedTheme === "dark" ? "#ffffff" : "#000000"
       }

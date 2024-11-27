@@ -1,8 +1,10 @@
 "use client";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Toggle } from "@/components/ui/toggle";
+import { cn } from "@/lib/utils";
 import { ResizeObserver } from "@juggle/resize-observer";
 import {
+  ArrowUpFromDotIcon,
   CircleArrowOutUpRightIcon,
   MaximizeIcon,
   RefreshCcwIcon,
@@ -10,15 +12,24 @@ import {
 import dynamic from "next/dynamic";
 import * as React from "react";
 import useMeasure from "react-use-measure";
-import { useGraphPreferenceStore } from "../lib/store";
 import { Button } from "./ui/button";
 import { Tooltip, TooltipContent, TooltipTrigger } from "./ui/tooltip";
+import { usePathname } from "next/navigation";
+import { useAtom } from "jotai";
+import {
+  outLinksAtom,
+  particlesAtom,
+  rotateAtom,
+  styleAtom,
+} from "@/lib/store";
 
 const Graph2DNoSSR = dynamic(() => import("./graph-2D"), {
   ssr: false,
+  loading: () => <div />,
 });
 const Graph3DNoSSR = dynamic(() => import("./graph-3D"), {
   ssr: false,
+  loading: () => <div />,
 });
 
 interface Props {
@@ -32,32 +43,42 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
     // debounce: 50,
   });
 
-  const { style, rotate, outLinks, setStyle, setRotate, setOutLinks } =
-    useGraphPreferenceStore();
+  const [style, setStyle] = useAtom(styleAtom);
+  const [rotate, setRotate] = useAtom(rotateAtom);
+  const [outLinks, setOutLinks] = useAtom(outLinksAtom);
+  const [particles, setParticles] = useAtom(particlesAtom);
 
-  const [tabValue, _] = React.useState(0);
+  const handleRotateChange = (value: boolean) => {
+    setRotate(value);
+  };
+  const handleStyleChange = (value: string) => {
+    setStyle(value as "3D" | "2D");
+  };
+  const handleOutLinksChange = (value: boolean) => {
+    setOutLinks(value);
+  };
+  const handleParticlesChange = (value: boolean) => {
+    setParticles(value);
+  };
 
+  const [tabValue] = React.useState(0);
   const [random, setRandom] = React.useState<number>(Date.now());
-
-  const handleOutlinks = () => {
-    setOutLinks(!outLinks);
-  };
-
-  const handleRotate = () => {
-    setRotate(!rotate);
-  };
 
   const handleZoomToFit = () => {
     setRandom(Date.now());
   };
 
+  const pathname = usePathname();
+
+  if (!kanjiInfo) return <></>;
+
   return (
-    <div ref={measureRef} className="relative size-full">
+    <div ref={measureRef} className="relative size-full graphs">
       <div className="absolute top-4 left-4 z-50">
         <Tabs
           defaultValue={style}
           value={style}
-          onValueChange={(value) => setStyle(value as "3D" | "2D")}
+          onValueChange={handleStyleChange}
         >
           <TabsList className="px-1">
             <TabsTrigger value="2D">2D</TabsTrigger>
@@ -68,12 +89,14 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
       <div className="absolute inset-0">
         {kanjiInfo && style === "3D" && (
           <Graph3DNoSSR
+            key={tabValue + random + pathname}
             kanjiInfo={kanjiInfo}
             graphData={graphData}
             showOutLinks={outLinks}
+            showParticles={particles}
+            autoRotate={rotate}
             triggerFocus={tabValue + random}
             bounds={bounds}
-            autoRotate={rotate}
           />
         )}
         {kanjiInfo && style === "2D" && (
@@ -81,6 +104,7 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
             kanjiInfo={kanjiInfo}
             graphData={graphData}
             showOutLinks={outLinks}
+            showParticles={particles}
             triggerFocus={tabValue + random}
             bounds={bounds}
           />
@@ -91,11 +115,11 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
           <Tooltip>
             <TooltipTrigger asChild>
               <Toggle
-                className="size-10"
+                className={cn("size-10", rotate ? "bg-accent" : "")}
                 variant="outline"
                 aria-label="Autorotate"
                 pressed={rotate}
-                onPressedChange={handleRotate}
+                onPressedChange={handleRotateChange}
               >
                 <RefreshCcwIcon className="size-4" />
               </Toggle>
@@ -105,15 +129,34 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
             </TooltipContent>
           </Tooltip>
         </div>
+
         <div>
           <Tooltip>
             <TooltipTrigger asChild>
               <Toggle
-                className="size-10"
+                className={cn("size-10", particles ? "bg-accent" : "")}
+                variant="outline"
+                aria-label="Show arrow particles"
+                pressed={particles}
+                onPressedChange={handleParticlesChange}
+              >
+                <ArrowUpFromDotIcon className="size-4" />
+              </Toggle>
+            </TooltipTrigger>
+            <TooltipContent>
+              <p>Show arrow particles</p>
+            </TooltipContent>
+          </Tooltip>
+        </div>
+        <div>
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Toggle
+                className={cn("size-10", outLinks ? "bg-accent" : "")}
                 variant="outline"
                 aria-label="Show out links"
                 pressed={outLinks}
-                onPressedChange={handleOutlinks}
+                onPressedChange={handleOutLinksChange}
               >
                 <CircleArrowOutUpRightIcon className="size-4" />
               </Toggle>

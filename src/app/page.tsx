@@ -3,25 +3,6 @@ import { Header } from "@/components/header";
 import { MobileLayout } from "@/components/mobile-layout";
 import { SearchInput } from "@/components/search-input";
 import { SearchIcon } from "lucide-react";
-import type { Metadata } from "next";
-
-{
-  /* <head>
-        <DefaultSeo
-          openGraph={{
-            type: "website",
-            locale: "en_US",
-            url: "https://thekanjimap.com/",
-            site_name: "The Kanji Map",
-          }}
-          twitter={{
-            handle: "@handle",
-            site: "@site",
-            cardType: "summary_large_image",
-          }}
-        />
-      </head> */
-}
 
 export default function Home() {
   return (

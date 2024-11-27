@@ -25,8 +25,10 @@ export const getKanjiDataLocal: (
   id: string
 ) => Promise<KanjiInfo | null> = async (id) => {
   const filePath = path.join(process.cwd(), "data", "kanji", `${id}.json`);
+
   try {
     const jsonData = await fsPromises.readFile(filePath, "utf8");
+
     return JSON.parse(jsonData) as KanjiInfo;
   } catch (error) {
     console.error("Failed to read or parse kanji data:", error);
@@ -34,7 +36,6 @@ export const getKanjiDataLocal: (
     // throw new Error("Failed to load kanji data");
   }
 };
-
 // List of directories to check the kanji animation for, in order of preference (some "kanji" may actually be Chinese, but the stroke animation can still be shown)
 const SVG_DIRECTORY_LIST = [
   "svgsJa",

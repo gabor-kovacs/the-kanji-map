@@ -1,39 +1,66 @@
-import { create } from "zustand";
-import { devtools, persist } from "zustand/middleware";
+import { atom } from "jotai";
+import { atomWithStorage } from "jotai/utils";
 
-interface GraphPreferenceState {
-  style: "3D" | "2D";
-  rotate: boolean;
-  outLinks: boolean;
-  setStyle: (newStyle: "3D" | "2D") => void;
-  setRotate: (newRotate: boolean) => void;
-  setOutLinks: (newOutLinks: boolean) => void;
-}
+// Custom `atomWithStorage` to wrap existing data structure coming from zustand
+const graphPreferenceAtom = atomWithStorage("graphPreference", {
+  state: {
+    style: "3D",
+    rotate: true,
+    outLinks: true,
+    particles: true,
+  },
+  version: 0,
+});
 
-export const useGraphPreferenceStore = create<GraphPreferenceState>()(
-  devtools(
-    persist(
-      (set) => ({
-        style: "3D",
-        rotate: true,
-        outLinks: true,
-        setStyle: (newStyle) => {
-          set((state: GraphPreferenceState) => ({ ...state, style: newStyle }));
-        },
-        setRotate: (newRotate) => {
-          set((state: GraphPreferenceState) => ({
-            ...state,
-            rotate: newRotate,
-          }));
-        },
-        setOutLinks: (newOutLinks) => {
-          set((state: GraphPreferenceState) => ({
-            ...state,
-            outLinks: newOutLinks,
-          }));
-        },
-      }),
-      { name: "graphPreference" }
-    )
-  )
+// Derived atoms for individual properties within the nested structure
+const styleAtom = atom(
+  (get) => get(graphPreferenceAtom).state.style,
+  (get, set, newStyle: "3D" | "2D") => {
+    const current = get(graphPreferenceAtom);
+    set(graphPreferenceAtom, {
+      ...current,
+      state: { ...current.state, style: newStyle },
+    });
+  }
 );
+
+const rotateAtom = atom(
+  (get) => get(graphPreferenceAtom).state.rotate,
+  (get, set, newRotate: boolean) => {
+    const current = get(graphPreferenceAtom);
+    set(graphPreferenceAtom, {
+      ...current,
+      state: { ...current.state, rotate: newRotate },
+    });
+  }
+);
+
+const outLinksAtom = atom(
+  (get) => get(graphPreferenceAtom).state.outLinks,
+  (get, set, newOutLinks: boolean) => {
+    const current = get(graphPreferenceAtom);
+    set(graphPreferenceAtom, {
+      ...current,
+      state: { ...current.state, outLinks: newOutLinks },
+    });
+  }
+);
+
+const particlesAtom = atom(
+  (get) => get(graphPreferenceAtom).state.particles,
+  (get, set, newParticles: boolean) => {
+    const current = get(graphPreferenceAtom);
+    set(graphPreferenceAtom, {
+      ...current,
+      state: { ...current.state, particles: newParticles },
+    });
+  }
+);
+
+export {
+  graphPreferenceAtom,
+  styleAtom,
+  rotateAtom,
+  outLinksAtom,
+  particlesAtom,
+};

@@ -2,10 +2,6 @@ import { useTheme } from "next-themes";
 import * as React from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-interface Props {
-  radicalImageArray: string[];
-}
-
 export const RadicalImages = ({
   radicalImageArray,
 }: {

@@ -1,5 +1,6 @@
 import { ThemeProvider } from "@/components/theme-provider";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import { Provider as JotaiProvider } from "jotai";
 import { Noto_Sans_JP } from "next/font/google";
 import "../styles/globals.css";
 import { Metadata } from "next";
@@ -45,7 +46,9 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           <TooltipProvider>
-            <div className="isolate size-full">{children}</div>
+            <JotaiProvider>
+              <div className="isolate size-full">{children}</div>
+            </JotaiProvider>
           </TooltipProvider>
         </ThemeProvider>
       </body>

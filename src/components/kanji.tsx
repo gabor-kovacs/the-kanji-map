@@ -29,11 +29,6 @@ export const Kanji = ({
   // restarting stroke animation
   const [hash, setHash] = React.useState(Date.now());
 
-  const uniqueId = React.useMemo(
-    () => `${kanjiInfo?.id}-${Date.now()}`,
-    [kanjiInfo]
-  );
-
   const restartAnimation = () => {
     setHash(Date.now);
   };
@@ -84,26 +79,14 @@ export const Kanji = ({
         {kanjiInfo?.jishoData?.kunyomi && (
           <>
             <p>
-              Kunyomi:{" "}
-              <strong>
-                {kanjiInfo?.jishoData?.kunyomi.map(
-                  (kun: any, index: number) => {
-                    return <span key={index}>{kun} </span>;
-                  }
-                )}
-              </strong>
+              Kunyomi: <strong>{kanjiInfo.jishoData.kunyomi.join(", ")}</strong>
             </p>
           </>
         )}
         {kanjiInfo?.jishoData?.onyomi && (
           <>
             <p>
-              Onyomi:{" "}
-              <strong>
-                {kanjiInfo?.jishoData?.onyomi.map((on: any, index: number) => {
-                  return <span key={index}>{on} </span>;
-                })}
-              </strong>
+              Onyomi: <strong>{kanjiInfo.jishoData.onyomi.join(", ")}</strong>
             </p>
           </>
         )}

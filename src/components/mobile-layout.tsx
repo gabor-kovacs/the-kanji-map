@@ -34,10 +34,6 @@ export const MobileLayout = ({
     if (!api) {
       return;
     }
-
-    console.log(api.selectedScrollSnap());
-
-    // setActiveTab(api.selectedScrollSnap());
     setActiveTab(initialActiveTab);
     api.on("select", () => {
       setActiveTab(api.selectedScrollSnap());
@@ -60,9 +56,9 @@ export const MobileLayout = ({
         className="size-full pb-10"
         opts={{ watchDrag: false }}
       >
-        <CarouselContent className="relative size-full ">
-          {tabs.map((tab) => (
-            <CarouselItem key={tab.id} className="h-full">
+        <CarouselContent className="relative size-full">
+          {tabs.map((tab, idx) => (
+            <CarouselItem key={tab.id} className="min-h-full">
               {tab.content}
             </CarouselItem>
           ))}
