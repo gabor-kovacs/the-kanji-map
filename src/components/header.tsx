@@ -37,7 +37,7 @@ export const Header = ({
               href={route === "about" ? "/ " : "about"}
               className={cn(
                 buttonVariants({ variant: "ghost", size: "icon" }),
-                route === "about" ? "!bg-accent !text-accent-foreground" : ""
+                route === "about" ? "bg-accent! text-accent-foreground!" : ""
               )}
             >
               <InfoIcon className={cn("size-5")} />

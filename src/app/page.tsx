@@ -9,7 +9,7 @@ export default function Home() {
     <div className="size-full flex flex-col">
       <Header className="w-full" />
       {/* MOBILE */}
-      <div className="w-full flex-grow md:hidden">
+      <div className="w-full grow md:hidden">
         <MobileLayout
           tabs={[
             {
@@ -56,7 +56,7 @@ export default function Home() {
         />
       </div>
       {/* DESKTOP */}
-      <div className="w-full flex-grow hidden md:grid grid-cols-1 md:grid-rows-[330px,1fr] ">
+      <div className="w-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] ">
         <div className="top grid grid-cols-[252px_1fr_1fr] overflow-hidden border-b border-lighter">
           <div className="flex flex-col items-center gap-2 mt-3">
             <SearchInput searchPlaceholder="Search..." />

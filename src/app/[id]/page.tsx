@@ -2,6 +2,7 @@ import composition from "@/../data/composition.json";
 import { getGraphData, getKanjiDataLocal, getStrokeAnimation } from "@/lib";
 import { Metadata } from "next";
 import { KanjiPageContent } from "./inner";
+import { Header } from "@/components/header";
 
 export async function generateMetadata({
   params,
@@ -36,10 +37,13 @@ export default async function KanjiPage({
   if (!kanjiInfo || !graphData || !strokeAnimation) return <div />;
 
   return (
-    <KanjiPageContent
-      kanjiInfo={kanjiInfo}
-      graphData={graphData}
-      strokeAnimation={strokeAnimation}
-    />
+    <div className="size-full ">
+      <Header className="w-full" />
+      <KanjiPageContent
+        kanjiInfo={kanjiInfo}
+        graphData={graphData}
+        strokeAnimation={strokeAnimation}
+      />
+    </div>
   );
 }

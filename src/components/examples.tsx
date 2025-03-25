@@ -25,7 +25,7 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
   };
 
   return (
-    <div className="size-full grid grid-rows-[36px_1fr] p-4">
+    <div className="size-full grid grid-rows-[36px_1fr] p-4 mb-14">
       <div>
         <h3 className="text-lg font-extrabold">Examples</h3>
       </div>

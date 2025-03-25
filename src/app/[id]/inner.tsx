@@ -36,7 +36,7 @@ export function KanjiPageContent({
 
   if (isMobile) {
     return (
-      <div className="w-full flex-grow md:hidden overflow-hidden">
+      <div className="w-full grow md:hidden overflow-hidden">
         <MobileLayout
           tabs={[
             {
@@ -95,7 +95,7 @@ export function KanjiPageContent({
     );
   } else {
     return (
-      <div className="size-full flex-grow hidden md:grid grid-cols-1 md:grid-rows-[330px,1fr] overflow-hidden">
+      <div className="size-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] overflow-hidden">
         <div className="top grid grid-cols-[252px_1fr_1fr] overflow-hidden border-b border-lighter">
           <div className="flex flex-col items-center gap-2 mt-3">
             <SearchInput searchPlaceholder="Search..." />

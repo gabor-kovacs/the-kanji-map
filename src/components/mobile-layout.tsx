@@ -82,8 +82,8 @@ export const MobileLayout = ({
             onClick={() => handleTabClick(idx)}
             disabled={activeTab === idx ? false : disabled}
             className={cn(
-              "relative px-3.5 py-1.5 sm:text-sm font-medium transition focus-visible:outline-1 focus-visible:ring-1 focus-visible:outline-none flex gap-2 items-center",
-              activeTab === idx ? "!text-foreground" : " text-foreground/50"
+              "relative px-3.5 py-1.5 sm:text-sm font-medium transition focus-visible:outline-1 focus-visible:ring-1 focus-visible:outline-hidden flex gap-2 items-center",
+              activeTab === idx ? "text-foreground!" : " text-foreground/50"
             )}
             style={{ WebkitTapHighlightColor: "transparent" }}
           >
