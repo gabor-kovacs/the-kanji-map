@@ -96,11 +96,12 @@ export function KanjiPageContent({
   } else {
     return (
       <div className="size-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] overflow-hidden">
-        <div className="top grid grid-cols-[252px_1fr_1fr] overflow-hidden border-b border-lighter">
+        <div className="top grid grid-cols-[252px_1.5fr_1fr] overflow-hidden border-b border-lighter">
           <div className="flex flex-col items-center gap-2 mt-3">
             <SearchInput searchPlaceholder="Search..." />
             <DrawInput />
           </div>
+          <ScrollArea className="w-full h-full">
           <div className="p-4 border-l">
             <Kanji
               screen="desktop"
@@ -109,6 +110,7 @@ export function KanjiPageContent({
               strokeAnimation={strokeAnimation}
             />
           </div>
+          </ScrollArea>
           <div className="p-4 border-l">
             <Radical kanjiInfo={kanjiInfo} />
           </div>
