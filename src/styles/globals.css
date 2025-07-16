@@ -134,3 +134,34 @@
     }
   }
 }
+
+/* input range styles */
+
+/* Chrome, Safari, Edge */
+input[type="range"] {
+  -webkit-appearance: none;
+  background: transparent;  
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 12px;
+  width: 12px;
+  border-radius: 9999px;
+  background: hsl(var(--foreground));
+  border: none;
+  cursor: pointer;
+}
+input[type="range"]::-webkit-slider-runnable-track {
+  background: hsl(var(--background));
+  border: none;
+}
+
+/* Firefox */
+input[type="range"]::-moz-range-thumb {
+  height: 12px;
+  width: 12px;
+  background: hsl(var(--foreground));
+  border: none;
+}
+
