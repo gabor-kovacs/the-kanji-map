@@ -8,7 +8,7 @@ interface Props {
 
 export const Radical: React.FC<Props> = ({ kanjiInfo }) => {
   return (
-    <div className="relative w-full h-full overflow-hidden grid gap-4 md:gap-2 grid-rows-[36px_1fr_1fr] grid-cols-[100px_1fr]">
+    <div className="min-h-[330px] relative w-full h-full overflow-hidden grid grid-rows-[36px_100px_1fr] grid-cols-[120px_1fr]">
       <div>
         <h3 className="text-lg font-extrabold">Radical</h3>
       </div>

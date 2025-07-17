@@ -3,6 +3,7 @@
 import * as React from "react";
 import { joyoList } from "@/../data/joyo";
 import { jinmeiyoList } from "@/../data/jinmeiyo";
+import { KanjiStrokeAnimation } from "./kanji-animation";
 
 interface Props {
   kanjiInfo: KanjiInfo | null;
@@ -26,19 +27,12 @@ export const Kanji = ({
   strokeAnimation,
   screen,
 }: Props) => {
-  // restarting stroke animation
-  const [hash, setHash] = React.useState(Date.now());
-
-  const restartAnimation = () => {
-    setHash(Date.now);
-  };
-
   return (
-    <div className="relative size-full overflow-hidden grid gap-4 md:gap-2 grid-rows-[36px_1fr_1fr] grid-cols-[100px_1fr]">
+    <div className="min-h-[330px] relative size-full overflow-hidden grid grid-rows-[36px_100px_1fr] grid-cols-[125px_1fr]">
       <div>
         <h3 className="text-lg font-extrabold">Kanji</h3>
       </div>
-      <div className="pt-2 w-full h-full overflow-auto text-sm leading-6 row-span-3">
+      <div className="p-2 w-full h-full overflow-hidden text-sm leading-6 row-span-3">
         {kanjiInfo && joyoList?.includes(kanjiInfo.id) && (
           <p>
             <strong>Jōyō kanji</strong>
@@ -111,15 +105,11 @@ export const Kanji = ({
       <div className="flex flex-col items-center justify-center w-full h-full overflow-hidden [grid-area:'main']">
         <h1 className="text-6xl leading-tight sm:text-5xl">{kanjiInfo?.id}</h1>
       </div>
-      <div className="flex flex-col items-center justify-center w-full h-full overflow-hidden ">
+      <div className="flex flex-col items-center justify-center w-full h-full overflow-hidden">
         {strokeAnimation && (
-          <div
-            className="cursor-pointer w-20 h-20 kanji-svg-container md:something"
-            onClick={restartAnimation}
-            key={hash}
-            dangerouslySetInnerHTML={{
-              __html: makeSvgUnique(strokeAnimation, screen ?? "unknown"),
-            }}
+          <KanjiStrokeAnimation
+            svgContent={makeSvgUnique(strokeAnimation, screen ?? "unknown")}
+            strokeCount={kanjiInfo?.jishoData?.strokeCount}
           />
         )}
       </div>
