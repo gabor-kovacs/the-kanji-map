@@ -14,10 +14,11 @@ interface Props {
 
 // Helper function to make the clip-path id unique
 const makeSvgUnique = (svgContent: string, screen: string): string => {
-  // Replace all occurrences of id="something" and xlink:href="#something" to make them unique
+  // Replace all occurrences of id="something" and href="#something" to make them unique
   return svgContent
     .replace(/id="(\w+)"/g, `id="$1-${screen}"`) // Update ids
-    .replace(/xlink:href="#(\w+)"/g, `xlink:href="#$1-${screen}"`) // Update references
+    .replace(/href="#(\w+)"/g, `href="#$1-${screen}"`) // Update modern href references
+    .replace(/xlink:href="#(\w+)"/g, `xlink:href="#$1-${screen}"`) // Update legacy xlink:href references
     .replace(/clip-path="url\(#(\w+)\)"/g, `clip-path="url(#$1-${screen})"`); // Update clip-path references
 };
 

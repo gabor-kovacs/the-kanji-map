@@ -1,4 +1,5 @@
-"us client";
+"use client";
+
 import kanjilist from "@/../data/kanjilist.json";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/navigation";
@@ -40,7 +41,7 @@ const Graph3D = ({
   const { resolvedTheme } = useTheme();
 
   const fg3DRef: React.MutableRefObject<ForceGraphMethods | undefined> =
-    React.useRef();
+    React.useRef(undefined);
 
   React.useEffect(() => {
     return () => {

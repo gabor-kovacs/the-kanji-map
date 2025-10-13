@@ -1,4 +1,5 @@
 "use client";
+
 import * as React from "react";
 
 import ForceGraph2D, {
@@ -38,7 +39,7 @@ const Graph2D: React.FC<Props> = ({
   const { resolvedTheme } = useTheme();
 
   const fgRef: React.MutableRefObject<ForceGraphMethods | undefined> =
-    React.useRef();
+    React.useRef(undefined);
 
   const router = useRouter();
 

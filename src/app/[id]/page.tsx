@@ -34,16 +34,16 @@ export default async function KanjiPage({
   const graphData = await getGraphData(id);
   const strokeAnimation = await getStrokeAnimation(id);
 
-  if (!kanjiInfo || !graphData || !strokeAnimation) return <div />;
-
   return (
     <div className="size-full ">
       <Header className="w-full" />
-      <KanjiPageContent
-        kanjiInfo={kanjiInfo}
-        graphData={graphData}
-        strokeAnimation={strokeAnimation}
-      />
+      {kanjiInfo && graphData && strokeAnimation && (
+        <KanjiPageContent
+          kanjiInfo={kanjiInfo}
+          graphData={graphData}
+          strokeAnimation={strokeAnimation}
+        />
+      )}
     </div>
   );
 }
