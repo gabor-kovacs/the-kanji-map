@@ -1,1 +1,54 @@
-{"id":"淘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"淘","found":true,"newspaperFrequencyRank":"2410","strokeCount":11,"meaning":"select","kunyomi":["よな.げる"],"onyomi":["トウ"],"onyomiExamples":[{"example":"淘汰","reading":"トウタ","meaning":"weeding out, elimination (e.g. of unneeded employees), culling, selection, selection (e.g. natural selection)"},{"example":"淘汰作用","reading":"トウタサヨウ","meaning":"sifting out, weeding out, selection, sorting"}],"kunyomiExamples":[{"example":"淘げる","reading":"よなげる","meaning":"to separate and discard, to sieve and sort, to wash out (impurities, etc.)"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["凵","勹","汁","缶"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28120_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dd8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dd8.gif","uri":"https://jisho.org/search/%E6%B7%98%23kanji"}}
+{
+  "id": "淘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淘",
+    "found": true,
+    "newspaperFrequencyRank": "2410",
+    "strokeCount": 11,
+    "meaning": "select",
+    "kunyomi": [
+      "よな.げる"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淘汰",
+        "reading": "トウタ",
+        "meaning": "weeding out, elimination (e.g. of unneeded employees), culling, selection, selection"
+      },
+      {
+        "example": "淘汰作用",
+        "reading": "トウタサヨウ",
+        "meaning": "sifting out, weeding out, selection, sorting"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "淘げる",
+        "reading": "よなげる",
+        "meaning": "to separate and discard, to sieve and sort, to wash out (impurities, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "凵",
+      "勹",
+      "汁",
+      "缶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28120_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dd8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dd8.gif",
+    "uri": "https://jisho.org/search/%E6%B7%98%23kanji"
+  }
+}

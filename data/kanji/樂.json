@@ -1,1 +1,51 @@
-{"id":"樂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"樂","found":true,"strokeCount":15,"meaning":"music, comfort","kunyomi":["たの.しい","たの.しむ","この.む"],"onyomi":["ガク","ラク","ゴウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["幺","木","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27138_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a02.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a02.gif","uri":"https://jisho.org/search/%E6%A8%82%23kanji"}}
+{
+  "id": "樂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樂",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "music, comfort",
+    "kunyomi": [
+      "たの.しい",
+      "たの.しむ",
+      "この.む"
+    ],
+    "onyomi": [
+      "ガク",
+      "ラク",
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "楽員",
+        "reading": "ガクイン",
+        "meaning": "bandsman"
+      },
+      {
+        "example": "楽園",
+        "reading": "ラクエン",
+        "meaning": "paradise, Eden"
+      },
+      {
+        "example": "千秋楽",
+        "reading": "センシュウラク",
+        "meaning": "final day of a performance, closing date, final show, final day of a tournament"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "幺",
+      "木",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27138_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a02.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a02.gif",
+    "uri": "https://jisho.org/search/%E6%A8%82%23kanji"
+  }
+}

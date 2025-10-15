@@ -1,1 +1,61 @@
-{"id":"鮑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鮑","found":true,"strokeCount":16,"meaning":"abalone","kunyomi":["あわび"],"onyomi":["ホ","ホウ"],"onyomiExamples":[{"example":"鮑魚","reading":"ホウギョ","meaning":"salt-cured fish"},{"example":"鮑魚","reading":"ホウギョ","meaning":"salt-cured fish"}],"kunyomiExamples":[{"example":"鮑","reading":"あわび","meaning":"abalone, ear shell"},{"example":"鮑の貝の片思い","reading":"あわびのかいのかたおもい","meaning":"secret, unrequited love"},{"example":"熨斗鮑","reading":"のしあわび","meaning":"thin string of dried abalone (often tied to a gift)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["勹","已","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39825_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b91.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b91.gif","uri":"https://jisho.org/search/%E9%AE%91%23kanji"}}
+{
+  "id": "鮑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鮑",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "abalone",
+    "kunyomi": [
+      "あわび"
+    ],
+    "onyomi": [
+      "ホ",
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鮑魚",
+        "reading": "ホウギョ",
+        "meaning": "salt-cured fish"
+      },
+      {
+        "example": "鮑魚",
+        "reading": "ホウギョ",
+        "meaning": "salt-cured fish"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鮑",
+        "reading": "あわび",
+        "meaning": "abalone, ear shell"
+      },
+      {
+        "example": "鮑の貝の片思い",
+        "reading": "あわびのかいのかたおもい",
+        "meaning": "secret, unrequited love"
+      },
+      {
+        "example": "熨斗鮑",
+        "reading": "のしあわび",
+        "meaning": "thin string of dried abalone (often tied to a gift)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "勹",
+      "已",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39825_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b91.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b91.gif",
+    "uri": "https://jisho.org/search/%E9%AE%91%23kanji"
+  }
+}

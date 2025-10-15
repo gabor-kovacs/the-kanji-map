@@ -1,1 +1,66 @@
-{"id":"萌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"萌","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2346","strokeCount":11,"meaning":"show symptoms of, sprout, bud, malt","kunyomi":["も.える","きざ.す","めばえ","きざ.し"],"onyomi":["ホウ"],"onyomiExamples":[{"example":"萌芽","reading":"ホウガ","meaning":"germination, germ, sprout, bud, sign"},{"example":"萌芽更新","reading":"ホウガコウシン","meaning":"coppicing, coppice regeneration"}],"kunyomiExamples":[{"example":"萌える","reading":"もえる","meaning":"to burst into bud, to sprout, to have a crush, to be infatuated"},{"example":"兆す","reading":"きざす","meaning":"to show signs, to have symptoms, to give indications (of), to bud, to germinate, to sprout"},{"example":"兆し","reading":"きざし","meaning":"signs, omen, symptoms"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["日","月","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33804_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0840c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/840c.gif","uri":"https://jisho.org/search/%E8%90%8C%23kanji"}}
+{
+  "id": "萌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "萌",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2346",
+    "strokeCount": 11,
+    "meaning": "show symptoms of, sprout, bud, malt",
+    "kunyomi": [
+      "も.える",
+      "きざ.す",
+      "めばえ",
+      "きざ.し"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "萌芽",
+        "reading": "ホウガ",
+        "meaning": "germination, germ, sprout, early sign, beginning, starting to appear"
+      },
+      {
+        "example": "萌芽更新",
+        "reading": "ホウガコウシン",
+        "meaning": "coppicing, coppice regeneration"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "萌える",
+        "reading": "もえる",
+        "meaning": "to burst into bud, to sprout, to have a crush, to be infatuated"
+      },
+      {
+        "example": "兆す",
+        "reading": "きざす",
+        "meaning": "to show signs, to have symptoms, to give indications (of), to bud, to germinate, to sprout"
+      },
+      {
+        "example": "兆し",
+        "reading": "きざし",
+        "meaning": "sign, indication, omen, symptom"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "日",
+      "月",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33804_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0840c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/840c.gif",
+    "uri": "https://jisho.org/search/%E8%90%8C%23kanji"
+  }
+}

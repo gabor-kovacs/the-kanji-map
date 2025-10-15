@@ -1,1 +1,76 @@
-{"id":"駁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"駁","found":true,"strokeCount":14,"meaning":"refutation, contradiction","kunyomi":["ぶち","まじ.る","まだら"],"onyomi":["ハク","バク"],"onyomiExamples":[{"example":"駁撃","reading":"バクゲキ","meaning":"attacking (someone's argument), arguing against, refuting, taking issue, contradicting"},{"example":"駁する","reading":"バクスル","meaning":"to oppose someone's opinion, to refute, to contradict"},{"example":"甲論乙駁","reading":"コウロンオツバク","meaning":"arguments pro and con"},{"example":"弁駁","reading":"ベンバク","meaning":"refutation, contradiction, rebuttal, disproof, disputation"}],"kunyomiExamples":[{"example":"斑","reading":"ぶち","meaning":"spots, speckles, mottles"},{"example":"斑毛","reading":"ぶちげ","meaning":"leopard (horse coat pattern)"},{"example":"黒斑","reading":"こくはん","meaning":"black spot, black speck"},{"example":"黒斑","reading":"こくはん","meaning":"black spot, black speck"}],"radical":{"symbol":"馬","meaning":"horse"},"parts":["杰","爻","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39361_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c1.gif","uri":"https://jisho.org/search/%E9%A7%81%23kanji"}}
+{
+  "id": "駁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駁",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "refutation, contradiction",
+    "kunyomi": [
+      "ぶち",
+      "まじ.る",
+      "まだら"
+    ],
+    "onyomi": [
+      "ハク",
+      "バク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駁撃",
+        "reading": "バクゲキ",
+        "meaning": "attacking (someone's argument), arguing against, refuting, taking issue, contradicting"
+      },
+      {
+        "example": "駁する",
+        "reading": "バクスル",
+        "meaning": "to oppose someone's opinion, to refute, to contradict"
+      },
+      {
+        "example": "甲論乙駁",
+        "reading": "コウロンオツバク",
+        "meaning": "arguments pro and con"
+      },
+      {
+        "example": "弁駁",
+        "reading": "ベンバク",
+        "meaning": "refutation, contradiction, rebuttal, disproof, disputation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "斑",
+        "reading": "ぶち",
+        "meaning": "spots, speckles, mottles"
+      },
+      {
+        "example": "斑毛",
+        "reading": "ぶちげ",
+        "meaning": "leopard (horse coat pattern)"
+      },
+      {
+        "example": "黒斑",
+        "reading": "こくはん",
+        "meaning": "black spot, black speck"
+      },
+      {
+        "example": "黒斑",
+        "reading": "こくはん",
+        "meaning": "black spot, black speck"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "杰",
+      "爻",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39361_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c1.gif",
+    "uri": "https://jisho.org/search/%E9%A7%81%23kanji"
+  }
+}

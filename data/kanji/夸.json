@@ -1,1 +1,32 @@
-{"id":"夸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"夸","found":true,"strokeCount":6,"meaning":"boast","kunyomi":["ほご.る"],"onyomi":["コ","カ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"大","meaning":"big, very"},"parts":["二","勹","大"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22840_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05938.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5938.gif","uri":"https://jisho.org/search/%E5%A4%B8%23kanji"}}
+{
+  "id": "夸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "夸",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "boast",
+    "kunyomi": [
+      "ほご.る"
+    ],
+    "onyomi": [
+      "コ",
+      "カ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "二",
+      "勹",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22840_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05938.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5938.gif",
+    "uri": "https://jisho.org/search/%E5%A4%B8%23kanji"
+  }
+}

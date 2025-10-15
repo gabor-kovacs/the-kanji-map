@@ -1,1 +1,81 @@
-{"id":"膠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膠","found":true,"newspaperFrequencyRank":"2357","strokeCount":15,"meaning":"glue, isinglass","kunyomi":["にかわ","にべ"],"onyomi":["コウ","キョウ"],"onyomiExamples":[{"example":"膠原病","reading":"コウゲンビョウ","meaning":"collagen disease"},{"example":"膠化","reading":"コウカ","meaning":"gelatinization, gelatinisation"},{"example":"神経膠","reading":"シンケイコウ","meaning":"neuroglia, glia"},{"example":"魚膠","reading":"ギョコウ","meaning":"gelatinous glue made from fish, ichthyocolla, isinglass"},{"example":"阿膠","reading":"アキョウ","meaning":"donkey hide gelatin, ejiao, high quality gelatin made in China from donkey hides"}],"kunyomiExamples":[{"example":"膠","reading":"にかわ","meaning":"gelatinous glue (usu. from animal and fish bones, hide, etc.)"},{"example":"膠質","reading":"こうしつ","meaning":"colloid"},{"example":"膠もない","reading":"にべもない","meaning":"curt, point-blank"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["个","冫","彡","月","羽"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33184_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a0.gif","uri":"https://jisho.org/search/%E8%86%A0%23kanji"}}
+{
+  "id": "膠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膠",
+    "found": true,
+    "newspaperFrequencyRank": "2357",
+    "strokeCount": 15,
+    "meaning": "glue, isinglass",
+    "kunyomi": [
+      "にかわ",
+      "にべ"
+    ],
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膠原病",
+        "reading": "コウゲンビョウ",
+        "meaning": "collagen disease"
+      },
+      {
+        "example": "膠化",
+        "reading": "コウカ",
+        "meaning": "gelatinization, gelatinisation"
+      },
+      {
+        "example": "神経膠",
+        "reading": "シンケイコウ",
+        "meaning": "neuroglia, glia"
+      },
+      {
+        "example": "魚膠",
+        "reading": "ギョコウ",
+        "meaning": "gelatinous glue made from fish, ichthyocolla, isinglass"
+      },
+      {
+        "example": "阿膠",
+        "reading": "アキョウ",
+        "meaning": "donkey hide gelatin, ejiao, high quality gelatin made in China from donkey hides"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "膠",
+        "reading": "にかわ",
+        "meaning": "gelatinous glue (usu. from animal and fish bones, hide, etc.)"
+      },
+      {
+        "example": "膠質",
+        "reading": "こうしつ",
+        "meaning": "colloid"
+      },
+      {
+        "example": "鰾膠",
+        "reading": "にべ",
+        "meaning": "gelatinous glue (produced from fish entrails), isinglass, amiability, friendliness, graciousness, flattery"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "个",
+      "冫",
+      "彡",
+      "月",
+      "羽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33184_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a0.gif",
+    "uri": "https://jisho.org/search/%E8%86%A0%23kanji"
+  }
+}

@@ -1,1 +1,35 @@
-{"id":"愽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"愽","found":true,"strokeCount":13,"meaning":"grieving","kunyomi":[],"onyomi":["タン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["丶","十","寸","忙","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24893_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0613d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/613d.gif","uri":"https://jisho.org/search/%E6%84%BD%23kanji"}}
+{
+  "id": "愽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "愽",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "grieving",
+    "kunyomi": [],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "寸",
+      "忙",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24893_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0613d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/613d.gif",
+    "uri": "https://jisho.org/search/%E6%84%BD%23kanji"
+  }
+}

@@ -1,1 +1,104 @@
-{"id":"柄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"柄","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1140","strokeCount":9,"meaning":"design, pattern, build, nature, character, handle, crank, grip, knob, shaft","kunyomi":["がら","え","つか"],"onyomi":["ヘイ"],"onyomiExamples":[{"example":"柄節","reading":"ヘイセツ","meaning":"scape (of an insect)"},{"example":"政柄","reading":"セイヘイ","meaning":"political power"},{"example":"羽柄","reading":"ウヘイ","meaning":"calamus, quill"}],"kunyomiExamples":[{"example":"柄","reading":"がら","meaning":"pattern, design, body build, figure, physique, essential qualities, character, nature, appropriate to, fitting of, suitable for"},{"example":"ガラが悪い","reading":"ガラがわるい","meaning":"ill-bred, vulgar, boorish"},{"example":"土地柄","reading":"とちがら","meaning":"nature of the locality, character of a place, local colour, local color"},{"example":"役柄","reading":"やくがら","meaning":"role"},{"example":"柄","reading":"え","meaning":"handle, grip, stalk (of a mushroom, leaf, etc.)"},{"example":"柄鏡","reading":"えかがみ","meaning":"traditional mirror with a handle, popular since the Muromachi period"},{"example":"長柄","reading":"ながえ","meaning":"long handle, long-handled spear, long shaft"},{"example":"柄","reading":"つか","meaning":"hilt (of a sword), haft (of a dagger), handle, handgrip"},{"example":"柄頭","reading":"つかがしら","meaning":"pommel"},{"example":"鎌柄","reading":"かまつか","meaning":"sickle handle, goby minnow (Pseudogobio esocinus), Oriental photinia (species of shrub, Photinia villosa), Asiatic dayflower (Commelina communis), Joseph's-coat (species of amaranth, Amaranthus tricolor)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","人","冂","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26564_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067c4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67c4.gif","uri":"https://jisho.org/search/%E6%9F%84%23kanji"}}
+{
+  "id": "柄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柄",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1140",
+    "strokeCount": 9,
+    "meaning": "design, pattern, build, nature, character, handle, crank, grip, knob, shaft",
+    "kunyomi": [
+      "がら",
+      "え",
+      "つか"
+    ],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "柄節",
+        "reading": "ヘイセツ",
+        "meaning": "scape (of an insect)"
+      },
+      {
+        "example": "政柄",
+        "reading": "セイヘイ",
+        "meaning": "political power"
+      },
+      {
+        "example": "羽柄",
+        "reading": "ウヘイ",
+        "meaning": "calamus, quill"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "柄",
+        "reading": "がら",
+        "meaning": "pattern, design, body build, figure, physique, essential qualities, character, nature, appropriate to, fitting of, suitable for"
+      },
+      {
+        "example": "ガラが悪い",
+        "reading": "ガラがわるい",
+        "meaning": "ill-bred, vulgar, boorish"
+      },
+      {
+        "example": "土地柄",
+        "reading": "とちがら",
+        "meaning": "nature of the locality, character of a place, local colour, local color"
+      },
+      {
+        "example": "役柄",
+        "reading": "やくがら",
+        "meaning": "role"
+      },
+      {
+        "example": "柄",
+        "reading": "え",
+        "meaning": "handle, grip, stalk (of a mushroom, leaf, etc.)"
+      },
+      {
+        "example": "柄鏡",
+        "reading": "えかがみ",
+        "meaning": "traditional mirror with a handle, popular since the Muromachi period"
+      },
+      {
+        "example": "長柄",
+        "reading": "ながえ",
+        "meaning": "long handle, long-handled spear, long shaft"
+      },
+      {
+        "example": "柄",
+        "reading": "つか",
+        "meaning": "hilt (of a sword), haft (of a dagger), handle, handgrip"
+      },
+      {
+        "example": "柄頭",
+        "reading": "つかがしら",
+        "meaning": "pommel"
+      },
+      {
+        "example": "鎌柄",
+        "reading": "かまつか",
+        "meaning": "pike gudgeon (Pseudogobio esocinus), Oriental photinia (Photinia villosa), Asiatic dayflower (Commelina communis), Joseph's coat (Amaranthus tricolor), tampala, sickle handle"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "人",
+      "冂",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26564_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67c4.gif",
+    "uri": "https://jisho.org/search/%E6%9F%84%23kanji"
+  }
+}

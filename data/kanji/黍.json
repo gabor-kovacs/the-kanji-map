@@ -1,1 +1,52 @@
-{"id":"黍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"黍","found":true,"strokeCount":12,"meaning":"millet","kunyomi":["きび"],"onyomi":["ショ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"黍","reading":"きび","meaning":"(common) millet (Panicum miliaceum), proso millet"},{"example":"きび砂糖","reading":"きびざとう","meaning":"light brown sugar"},{"example":"唐黍","reading":"とうきび","meaning":"Indian millet"},{"example":"砂糖黍","reading":"さとうきび","meaning":"sugarcane (Saccharum officinarum)"}],"radical":{"symbol":"黍","meaning":"millet"},"parts":["水","禾","黍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40653_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ecd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ecd.gif","uri":"https://jisho.org/search/%E9%BB%8D%23kanji"}}
+{
+  "id": "黍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黍",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "millet",
+    "kunyomi": [
+      "きび"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "黍",
+        "reading": "きび",
+        "meaning": "(common) millet (Panicum miliaceum), proso millet"
+      },
+      {
+        "example": "きび砂糖",
+        "reading": "きびざとう",
+        "meaning": "light brown sugar"
+      },
+      {
+        "example": "唐黍",
+        "reading": "とうきび",
+        "meaning": "Indian millet"
+      },
+      {
+        "example": "砂糖黍",
+        "reading": "さとうきび",
+        "meaning": "sugarcane (Saccharum officinarum)"
+      }
+    ],
+    "radical": {
+      "symbol": "黍",
+      "meaning": "millet"
+    },
+    "parts": [
+      "水",
+      "禾",
+      "黍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40653_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ecd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ecd.gif",
+    "uri": "https://jisho.org/search/%E9%BB%8D%23kanji"
+  }
+}

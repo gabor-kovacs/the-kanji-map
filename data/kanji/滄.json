@@ -1,1 +1,47 @@
-{"id":"滄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"滄","found":true,"strokeCount":13,"meaning":"ocean","kunyomi":[],"onyomi":["ソウ"],"onyomiExamples":[{"example":"蒼海","reading":"ソウカイ","meaning":"blue sea, blue waters"},{"example":"滄海一滴","reading":"ソウカイイッテキ","meaning":"a drop in the ocean (bucket)"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","个","口","尸","戸","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28356_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ec4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ec4.gif","uri":"https://jisho.org/search/%E6%BB%84%23kanji"}}
+{
+  "id": "滄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滄",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "ocean",
+    "kunyomi": [],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "滄海",
+        "reading": "ソウカイ",
+        "meaning": "the blue sea, blue waters"
+      },
+      {
+        "example": "滄海一滴",
+        "reading": "ソウカイイッテキ",
+        "meaning": "a drop in the ocean (bucket)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "尸",
+      "戸",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28356_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ec4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ec4.gif",
+    "uri": "https://jisho.org/search/%E6%BB%84%23kanji"
+  }
+}

@@ -1,1 +1,386 @@
-{"id":"土","kanjialiveData":{"kanji":{"character":"土","meaning":{"english":"soil, earth, ground"},"strokes":{"count":3,"timings":[1.29,2.133,3.333,4.266667],"images":["https://media.kanjialive.com/kanji_strokes/tsuchi_1.svg","https://media.kanjialive.com/kanji_strokes/tsuchi_2.svg","https://media.kanjialive.com/kanji_strokes/tsuchi_3.svg"]},"onyomi":{"romaji":"do, to","katakana":"ド、ト"},"kunyomi":{"romaji":"tsuchi","hiragana":"つち"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/tsuchi_3.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/tsuchi_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/tsuchi_00.webm"}},"radical":{"character":"⼟","strokes":3,"image":"https://media.kanjialive.com/radical_character/tsuchi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"つち","romaji":"tsuchi"},"meaning":{"english":"earth"},"animation":["https://media.kanjialive.com/rad_frames/tsuchi0.svg","https://media.kanjialive.com/rad_frames/tsuchi1.svg","https://media.kanjialive.com/rad_frames/tsuchi2.svg"]},"references":{"grade":1,"kodansha":"2127","classic_nelson":"1050"},"examples":[{"japanese":"土曜日（どようび）","meaning":{"english":"Saturday"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_a.mp3"}},{"japanese":"土日（どにち）","meaning":{"english":"Saturday and Sunday"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_b.mp3"}},{"japanese":"郷土（きょうど）","meaning":{"english":"birth place"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_c.mp3"}},{"japanese":"土地（とち）","meaning":{"english":"plot of land"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_d.mp3"}},{"japanese":"土（つち）","meaning":{"english":"soil"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_e.mp3"}},{"japanese":"土色（つちいろ）","meaning":{"english":"earth colored"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_f.mp3"}},{"japanese":"*土産（みやげ）","meaning":{"english":"local product, souvenir"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_g.mp3"}}]},"jishoData":{"query":"土","found":true,"taughtIn":"grade 1","jlptLevel":"N5","newspaperFrequencyRank":"307","strokeCount":3,"meaning":"soil, earth, ground, Turkey","kunyomi":["つち"],"onyomi":["ド","ト"],"onyomiExamples":[{"example":"土","reading":"ド","meaning":"Saturday, earth, dirt, soil, land, lands, ground, earth (third of the five elements)"},{"example":"土地","reading":"トチ","meaning":"plot of land, lot, soil, locality, region, place"},{"example":"浄土","reading":"ジョウド","meaning":"pure land (esp. the Western Pure Land paradise of Amitabha), (Buddhist) paradise, Pure Land Buddhism"},{"example":"郷土","reading":"キョウド","meaning":"native place, birth-place, one's old home, province, region, locality"},{"example":"土","reading":"ト","meaning":"Turkey"},{"example":"時計","reading":"トケイ","meaning":"clock, watch, timepiece"},{"example":"下土","reading":"カド","meaning":"lower world, this world, the earth"},{"example":"率土","reading":"ソット","meaning":"face of the earth"}],"kunyomiExamples":[{"example":"土","reading":"つち","meaning":"earth, soil, dirt, clay, mud, the earth (historically, esp. as opposed to the heavens), the ground, the land, low-quality torinoko-gami (containing mud), (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)"},{"example":"土方","reading":"どかた","meaning":"construction worker, laborer (labourer), navvy"},{"example":"盛り土","reading":"もりど","meaning":"embankment (for road, railway, etc.), raising the ground level, fill"},{"example":"赤土","reading":"あかつち","meaning":"red clay, red earth, laterite, dark-red paint"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22303_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0571f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/571f.gif","uri":"https://jisho.org/search/%E5%9C%9F%23kanji"}}
+{
+  "id": "土",
+  "kanjialiveData": {
+    "_id": "54317aeb791eba5146ee4a04",
+    "_rev": "11-db733d4d1d7f7b99c13f92259f89a571",
+    "rad_name_ja": "つち",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "tsuchi",
+    "meaning": "soil, earth, ground",
+    "kstroke": 3,
+    "examples": [
+      {
+        "japanese": "土曜日（どようび）",
+        "meaning": {
+          "english": "Saturday"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "土日（どにち）",
+        "meaning": {
+          "english": "Saturday and Sunday"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "郷土（きょうど）",
+        "meaning": {
+          "english": "birth place"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "土地（とち）",
+        "meaning": {
+          "english": "plot of land"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "土（つち）",
+        "meaning": {
+          "english": "soil"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "土色（つちいろ）",
+        "meaning": {
+          "english": "earth colored"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "*土産（みやげ）",
+        "meaning": {
+          "english": "local product, souvenir"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuchi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuchi_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "つち",
+    "ka_utf": "土",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=土",
+    "kname": "tsuchi",
+    "rad_order": 37,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAd1"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "5"
+      }
+    ],
+    "rad_name_search": [
+      "tsuchi"
+    ],
+    "rad_utf": "⼟",
+    "stroketimes": [
+      1.29,
+      2.133,
+      3.333,
+      4.266667
+    ],
+    "kunyomi_ka_display": "つち",
+    "dick": "2127",
+    "rad_name": "tsuchi",
+    "dicn": "1050",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ド、ト",
+    "rad_meaning": "earth",
+    "onyomi": "do, to",
+    "ka_id": "ka_33",
+    "onyomi_search": [
+      "do",
+      "to",
+      "do, to"
+    ],
+    "kunyomi_search": [
+      "tsuchi",
+      "tsuchi"
+    ],
+    "meaning_search": [
+      "soil",
+      "earth",
+      "ground",
+      "soil, earth, ground"
+    ],
+    "onyomi_ja_search": [
+      "ド",
+      "ト",
+      "ド、ト"
+    ],
+    "kunyomi_ja_search": [
+      "つち",
+      "つち"
+    ],
+    "rad_meaning_search": [
+      "earth",
+      "earth"
+    ],
+    "rad_name_ja_search": [
+      "つち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:8",
+      "cij:c8",
+      "bk",
+      "bk:2",
+      "bk:c2",
+      "aij3",
+      "aij3:15",
+      "aij3:c15",
+      "aij3:v1",
+      "aij3:v1:15",
+      "aij3:v1:c15",
+      "gen",
+      "gen:4",
+      "gen:c4",
+      "ap",
+      "ap:15",
+      "ap:c15",
+      "kll",
+      "kll:2",
+      "kll:c2",
+      "aij4",
+      "aij4:5",
+      "aij4:c5",
+      "aij4:v1",
+      "aij4:v1:5",
+      "aij4:v1:c5"
+    ],
+    "rad_name_file": "tsuchi",
+    "kanji": {
+      "character": "土",
+      "meaning": {
+        "english": "soil, earth, ground"
+      },
+      "strokes": {
+        "count": 3,
+        "timings": [
+          1.29,
+          2.133,
+          3.333,
+          4.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tsuchi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsuchi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsuchi_3.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "do, to",
+        "katakana": "ド、ト"
+      },
+      "kunyomi": {
+        "romaji": "tsuchi",
+        "hiragana": "つち"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tsuchi_3.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tsuchi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tsuchi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼟",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tsuchi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "つち",
+        "romaji": "tsuchi"
+      },
+      "meaning": {
+        "english": "earth"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchi1.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "2127",
+      "classic_nelson": "1050"
+    }
+  },
+  "jishoData": {
+    "query": "土",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "307",
+    "strokeCount": 3,
+    "meaning": "soil, earth, ground, Turkey",
+    "kunyomi": [
+      "つち"
+    ],
+    "onyomi": [
+      "ド",
+      "ト"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "土",
+        "reading": "ド",
+        "meaning": "Saturday, earth, dirt, soil, land, lands, ground, earth (third of the five elements)"
+      },
+      {
+        "example": "土地",
+        "reading": "トチ",
+        "meaning": "plot of land, lot, soil, locality, region, place"
+      },
+      {
+        "example": "浄土",
+        "reading": "ジョウド",
+        "meaning": "pure land (esp. the Western Pure Land paradise of Amitabha), (Buddhist) paradise, Pure Land Buddhism"
+      },
+      {
+        "example": "郷土",
+        "reading": "キョウド",
+        "meaning": "native place, birth-place, one's old home, province, region, locality"
+      },
+      {
+        "example": "【ト】",
+        "reading": "Turkey",
+        "meaning": ""
+      },
+      {
+        "example": "時計",
+        "reading": "トケイ",
+        "meaning": "clock, watch, timepiece"
+      },
+      {
+        "example": "下土",
+        "reading": "カド",
+        "meaning": "lower world, this world, the earth"
+      },
+      {
+        "example": "日ト",
+        "reading": "ニット",
+        "meaning": "Japan and Turkey, Japanese-Turkish"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "土",
+        "reading": "つち",
+        "meaning": "earth, soil, dirt, clay, mud, the earth (historically, esp. as opposed to the heavens), the ground, the land, low-quality torinoko-gami (containing mud), (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)"
+      },
+      {
+        "example": "土方",
+        "reading": "どかた",
+        "meaning": "construction worker, laborer (labourer), navvy"
+      },
+      {
+        "example": "盛り土",
+        "reading": "もりど",
+        "meaning": "embankment (for road, railway, etc.), raising the ground level, fill"
+      },
+      {
+        "example": "赤土",
+        "reading": "あかつち",
+        "meaning": "red clay, red earth, laterite, dark-red paint"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22303_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0571f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/571f.gif",
+    "uri": "https://jisho.org/search/%E5%9C%9F%23kanji"
+  }
+}

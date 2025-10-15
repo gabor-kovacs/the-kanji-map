@@ -1,1 +1,56 @@
-{"id":"菊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"菊","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1287","strokeCount":11,"meaning":"chrysanthemum","kunyomi":[],"onyomi":["キク"],"onyomiExamples":[{"example":"菊","reading":"キク","meaning":"chrysanthemum (Chrysanthemum morifolium)"},{"example":"菊花","reading":"キッカ","meaning":"chrysanthemum flower"},{"example":"一菊","reading":"イッキク","meaning":"one scoop (of water)"},{"example":"斧琴菊","reading":"ヨキコトキク","meaning":"dyeing pattern with a yoki, koto bridge and a chrysanthemum"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["勹","米","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33738_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083ca.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83ca.gif","uri":"https://jisho.org/search/%E8%8F%8A%23kanji"}}
+{
+  "id": "菊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "菊",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1287",
+    "strokeCount": 11,
+    "meaning": "chrysanthemum",
+    "kunyomi": [],
+    "onyomi": [
+      "キク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "菊",
+        "reading": "キク",
+        "meaning": "chrysanthemum (Chrysanthemum morifolium)"
+      },
+      {
+        "example": "菊花",
+        "reading": "キッカ",
+        "meaning": "chrysanthemum flower"
+      },
+      {
+        "example": "一菊",
+        "reading": "イッキク",
+        "meaning": "one scoop (of water)"
+      },
+      {
+        "example": "斧琴菊",
+        "reading": "ヨキコトキク",
+        "meaning": "dyeing pattern with a yoki, koto bridge and a chrysanthemum"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "勹",
+      "米",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33738_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083ca.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83ca.gif",
+    "uri": "https://jisho.org/search/%E8%8F%8A%23kanji"
+  }
+}

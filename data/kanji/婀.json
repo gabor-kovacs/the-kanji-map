@@ -1,1 +1,62 @@
-{"id":"婀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"婀","found":true,"strokeCount":11,"meaning":"charm, flirtation","kunyomi":["あだ","あだ.っぽい","たおやか"],"onyomi":["ア"],"onyomiExamples":[{"example":"婀娜","reading":"アダ","meaning":"coquettish, charming, seductive, beautiful, graceful"},{"example":"婀娜っぽい","reading":"アダッポイ","meaning":"seductive, sensual, coquettish"}],"kunyomiExamples":[{"example":"婀娜","reading":"あだ","meaning":"coquettish, charming, seductive, beautiful, graceful"},{"example":"婀娜っぽい","reading":"あだっぽい","meaning":"seductive, sensual, coquettish"},{"example":"婀娜っぽい","reading":"あだっぽい","meaning":"seductive, sensual, coquettish"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["一","亅","口","女","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23104_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a40.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a40.gif","uri":"https://jisho.org/search/%E5%A9%80%23kanji"}}
+{
+  "id": "婀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "婀",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "charm, flirtation",
+    "kunyomi": [
+      "あだ",
+      "あだ.っぽい",
+      "たおやか"
+    ],
+    "onyomi": [
+      "ア"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "婀娜",
+        "reading": "アダ",
+        "meaning": "coquettish, charming, seductive, beautiful, graceful"
+      },
+      {
+        "example": "婀娜っぽい",
+        "reading": "アダッポイ",
+        "meaning": "seductive, sensual, coquettish"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "婀娜",
+        "reading": "あだ",
+        "meaning": "coquettish, charming, seductive, beautiful, graceful"
+      },
+      {
+        "example": "婀娜っぽい",
+        "reading": "あだっぽい",
+        "meaning": "seductive, sensual, coquettish"
+      },
+      {
+        "example": "婀娜っぽい",
+        "reading": "あだっぽい",
+        "meaning": "seductive, sensual, coquettish"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "女",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23104_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a40.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a40.gif",
+    "uri": "https://jisho.org/search/%E5%A9%80%23kanji"
+  }
+}

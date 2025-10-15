@@ -1,1 +1,52 @@
-{"id":"衾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"衾","found":true,"strokeCount":10,"meaning":"quilt, bedding","kunyomi":["ふすま"],"onyomi":["キン"],"onyomiExamples":[{"example":"合衾","reading":"ゴウキン","meaning":"sleeping together"}],"kunyomiExamples":[{"example":"衾","reading":"ふすま","meaning":"quilt, bedding"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["一","个","亠","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34942_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0887e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/887e.gif","uri":"https://jisho.org/search/%E8%A1%BE%23kanji"}}
+{
+  "id": "衾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衾",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "quilt, bedding",
+    "kunyomi": [
+      "ふすま"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "合衾",
+        "reading": "ゴウキン",
+        "meaning": "sleeping together"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "衾",
+        "reading": "ふすま",
+        "meaning": "quilt, bedding"
+      },
+      {
+        "example": "【ノミノフスマ】",
+        "reading": "bog chickweed (Stellaria uliginosa var. undulata)",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "一",
+      "个",
+      "亠",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34942_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0887e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/887e.gif",
+    "uri": "https://jisho.org/search/%E8%A1%BE%23kanji"
+  }
+}

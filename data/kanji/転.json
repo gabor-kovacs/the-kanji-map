@@ -1,1 +1,491 @@
-{"id":"転","kanjialiveData":{"kanji":{"character":"転","meaning":{"english":"turn, roll over, fall down"},"strokes":{"count":11,"timings":[0,1.066667,2.533333,4.133333,5.533333,6.8,7.933333,10.533333,11.6,12.866667,14.4,15.6],"images":["https://media.kanjialive.com/kanji_strokes/koro(bu)_1.svg","https://media.kanjialive.com/kanji_strokes/koro(bu)_2.svg","https://media.kanjialive.com/kanji_strokes/koro(bu)_3.svg","https://media.kanjialive.com/kanji_strokes/koro(bu)_4.svg","https://media.kanjialive.com/kanji_strokes/koro(bu)_5.svg","https://media.kanjialive.com/kanji_strokes/koro(bu)_6.svg","https://media.kanjialive.com/kanji_strokes/koro(bu)_7.svg","https://media.kanjialive.com/kanji_strokes/koro(bu)_8.svg","https://media.kanjialive.com/kanji_strokes/koro(bu)_9.svg","https://media.kanjialive.com/kanji_strokes/koro(bu)_10.svg","https://media.kanjialive.com/kanji_strokes/koro(bu)_11.svg"]},"onyomi":{"romaji":"ten","katakana":"テン"},"kunyomi":{"romaji":"koro, korogaru, korogeru, korogasu, korobu","hiragana":"ころ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/koro(bu)_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/koro(bu)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/koro(bu)_00.webm"}},"radical":{"character":"","strokes":7,"image":"https://media.kanjialive.com/radical_character/kurumahen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"くるまへん","romaji":"kurumahen"},"meaning":{"english":"vehicle, wheel, car"},"animation":["https://media.kanjialive.com/rad_frames/kurumahen0.svg","https://media.kanjialive.com/rad_frames/kurumahen1.svg","https://media.kanjialive.com/rad_frames/kurumahen2.svg"]},"references":{"grade":3,"kodansha":"995","classic_nelson":"4615"},"examples":[{"japanese":"転機（てんき）","meaning":{"english":"turning point"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_a.mp3"}},{"japanese":"自転車（じてんしゃ）","meaning":{"english":"bicycle"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_b.mp3"}},{"japanese":"転倒する（てんとうする）","meaning":{"english":"tumble, fall down"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_c.mp3"}},{"japanese":"転換する（てんかんする）","meaning":{"english":"convert, divert, change"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_d.mp3"}},{"japanese":"転職する（てんしょくする）","meaning":{"english":"change occupations"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_e.mp3"}},{"japanese":"回転する（かいてんする）","meaning":{"english":"rotate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_f.mp3"}},{"japanese":"運転する（うんてんする）","meaning":{"english":"operate, drive"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_g.mp3"}},{"japanese":"好転する（こうてんする）","meaning":{"english":"change for the better"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_h.mp3"}},{"japanese":"逆転する（ぎゃくてんする）","meaning":{"english":"reverse, turn around"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_i.mp3"}},{"japanese":"転がす（ころがす）","meaning":{"english":"roll [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_j.mp3"}},{"japanese":"転がる（ころがる）","meaning":{"english":"roll, tumble, fall down [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_k.mp3"}},{"japanese":"転ぶ（ころぶ）","meaning":{"english":"fall down [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_l.mp3"}}]},"jishoData":{"query":"転","found":true,"taughtIn":"grade 3","jlptLevel":"N4","newspaperFrequencyRank":"327","strokeCount":11,"meaning":"revolve, turn around, change","kunyomi":["ころ.がる","ころ.げる","ころ.がす","ころ.ぶ","まろ.ぶ","うたた","うつ.る","くる.めく"],"onyomi":["テン"],"onyomiExamples":[{"example":"転","reading":"テン","meaning":"change in pronunciation or meaning of a word, sound change, word with an altered pronunciation or meaning, turning or twisting part of a text (in Chinese poetry)"},{"example":"転移","reading":"テンイ","meaning":"moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis)"},{"example":"不退転","reading":"フタイテン","meaning":"determination, conviction"},{"example":"大回転","reading":"ダイカイテン","meaning":"giant slalom (alpine skiing event), big rotation"}],"kunyomiExamples":[{"example":"転がる","reading":"ころがる","meaning":"to roll, to tumble, to fall over, to roll over, to lie down, to be scattered about, to be lying around, (of a situation or outcome) to change, to turn out, to come easily, to be common, to fall into one's hands, to grow on trees"},{"example":"転がる石には苔は付かない","reading":"ころがるいしにはこけはつかない","meaning":"a rolling stone gathers no moss"},{"example":"転げる","reading":"ころげる","meaning":"to roll over, to tumble, to roll about (with laughter)"},{"example":"転がす","reading":"ころがす","meaning":"to roll, to wheel, to trundle, to drive (a car), to turn over, to tip over, to throw down, to leave, to buy and sell (quickly for a profit)"},{"example":"転ぶ","reading":"ころぶ","meaning":"to fall down, to fall over, to turn out, to play out, to abandon Christianity (and convert to Buddhism), to apostatize, to roll, to tumble, (for a geisha) to prostitute (herself) in secret"},{"example":"転ぶ","reading":"ころぶ","meaning":"to fall down, to fall over, to turn out, to play out, to abandon Christianity (and convert to Buddhism), to apostatize, to roll, to tumble, (for a geisha) to prostitute (herself) in secret"},{"example":"転","reading":"うたた","meaning":"more and more, increasingly, all the more"},{"example":"うたた寝","reading":"うたたね","meaning":"doze, nap, snooze"},{"example":"眩めく","reading":"くるめく","meaning":"to spin, to revolve, to twirl, to be dizzy, to feel faint, to bustle about"}],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["二","厶","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36578_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ee2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ee2.gif","uri":"https://jisho.org/search/%E8%BB%A2%23kanji"}}
+{
+  "id": "転",
+  "kanjialiveData": {
+    "_id": "54317b04791eba5146ee4be6",
+    "_rev": "9-ae266706b693209c5dfc63b603f87a42",
+    "rad_name_ja": "くるまへん",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "koro, korogaru, korogeru, korogasu, korobu",
+    "meaning": "turn, roll over, fall down",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "転機（てんき）",
+        "meaning": {
+          "english": "turning point"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "自転車（じてんしゃ）",
+        "meaning": {
+          "english": "bicycle"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "転倒する（てんとうする）",
+        "meaning": {
+          "english": "tumble, fall down"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "転換する（てんかんする）",
+        "meaning": {
+          "english": "convert, divert, change"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "転職する（てんしょくする）",
+        "meaning": {
+          "english": "change occupations"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "回転する（かいてんする）",
+        "meaning": {
+          "english": "rotate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "運転する（うんてんする）",
+        "meaning": {
+          "english": "operate, drive"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "好転する（こうてんする）",
+        "meaning": {
+          "english": "change for the better"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "逆転する（ぎゃくてんする）",
+        "meaning": {
+          "english": "reverse, turn around"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "転がす（ころがす）",
+        "meaning": {
+          "english": "roll [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "転がる（ころがる）",
+        "meaning": {
+          "english": "roll, tumble, fall down [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "転ぶ（ころぶ）",
+        "meaning": {
+          "english": "fall down [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro(bu)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro(bu)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro(bu)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro(bu)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ころ、ころがる、ころげる、ころがす、ころぶ",
+    "ka_utf": "転",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=転",
+    "rad_name_search": [
+      "kurumahen"
+    ],
+    "rad_order": 196,
+    "txt_books": [
+      {
+        "chapter": "17",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "27",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "15"
+      }
+    ],
+    "kname": "koro(bu)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.066667,
+      2.533333,
+      4.133333,
+      5.533333,
+      6.8,
+      7.933333,
+      10.533333,
+      11.6,
+      12.866667,
+      14.4,
+      15.6
+    ],
+    "kunyomi_ka_display": "ころ",
+    "dick": "995",
+    "rad_name": "kurumahen",
+    "dicn": "4615",
+    "mn_hint": "Individual ム falling down from bicycle 車 when ran over two branches 二.",
+    "rad_stroke": 7,
+    "onyomi_ja": "テン",
+    "rad_meaning": "vehicle, wheel, car",
+    "onyomi": "ten",
+    "ka_id": "ka_764",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "ten",
+      "ten"
+    ],
+    "kunyomi_search": [
+      "koro",
+      "korogaru",
+      "korogeru",
+      "korogasu",
+      "korobu",
+      "koro, korogaru, korogeru, korogasu, korobu"
+    ],
+    "meaning_search": [
+      "turn",
+      "roll over",
+      "roll",
+      "over",
+      "fall down",
+      "fall",
+      "down",
+      "turn, roll over, fall down"
+    ],
+    "onyomi_ja_search": [
+      "テン",
+      "テン"
+    ],
+    "kunyomi_ja_search": [
+      "ころ",
+      "ころがる",
+      "ころげる",
+      "ころがす",
+      "ころぶ",
+      "ころ、ころがる、ころげる、ころがす、ころぶ"
+    ],
+    "rad_meaning_search": [
+      "vehicle",
+      "wheel",
+      "car",
+      "vehicle, wheel, car"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "くるまへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:17",
+      "ij:c17",
+      "bk",
+      "bk:27",
+      "bk:c27",
+      "mac",
+      "mac:18",
+      "mac:c18",
+      "gen",
+      "gen:15",
+      "gen:c15",
+      "ap",
+      "ap:15",
+      "ap:c15",
+      "kll",
+      "kll:12",
+      "kll:c12",
+      "cijr",
+      "cijr:15",
+      "cijr:c15"
+    ],
+    "rad_name_file": "kurumahen",
+    "kanji": {
+      "character": "転",
+      "meaning": {
+        "english": "turn, roll over, fall down"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1.066667,
+          2.533333,
+          4.133333,
+          5.533333,
+          6.8,
+          7.933333,
+          10.533333,
+          11.6,
+          12.866667,
+          14.4,
+          15.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro(bu)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ten",
+        "katakana": "テン"
+      },
+      "kunyomi": {
+        "romaji": "koro, korogaru, korogeru, korogasu, korobu",
+        "hiragana": "ころ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/koro(bu)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/koro(bu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/koro(bu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/kurumahen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "くるまへん",
+        "romaji": "kurumahen"
+      },
+      "meaning": {
+        "english": "vehicle, wheel, car"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kurumahen0.svg",
+        "https://media.kanjialive.com/rad_frames/kurumahen1.svg",
+        "https://media.kanjialive.com/rad_frames/kurumahen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "995",
+      "classic_nelson": "4615"
+    }
+  },
+  "jishoData": {
+    "query": "転",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "327",
+    "strokeCount": 11,
+    "meaning": "revolve, turn around, change",
+    "kunyomi": [
+      "ころ.がる",
+      "ころ.げる",
+      "ころ.がす",
+      "ころ.ぶ",
+      "まろ.ぶ",
+      "うたた",
+      "うつ.る",
+      "くる.めく"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "転",
+        "reading": "テン",
+        "meaning": "change in pronunciation or meaning of a word, sound change, word with an altered pronunciation or meaning, turning or twisting part of a text (in Chinese poetry)"
+      },
+      {
+        "example": "転移",
+        "reading": "テンイ",
+        "meaning": "moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis)"
+      },
+      {
+        "example": "不退転",
+        "reading": "フタイテン",
+        "meaning": "determination, conviction"
+      },
+      {
+        "example": "大回転",
+        "reading": "ダイカイテン",
+        "meaning": "giant slalom, big rotation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "転がる",
+        "reading": "ころがる",
+        "meaning": "to roll, to tumble, to fall over, to roll over, to lie down, to be scattered about, to be lying around, (of a situation or outcome) to change, to turn out, to come easily, to be common, to fall into one's hands, to grow on trees"
+      },
+      {
+        "example": "転がる石には苔は付かない",
+        "reading": "ころがるいしにはこけはつかない",
+        "meaning": "a rolling stone gathers no moss"
+      },
+      {
+        "example": "転げる",
+        "reading": "ころげる",
+        "meaning": "to roll over, to tumble, to roll about (with laughter)"
+      },
+      {
+        "example": "転がす",
+        "reading": "ころがす",
+        "meaning": "to roll, to wheel, to trundle, to drive (a car), to turn over, to tip over, to throw down, to leave, to buy and sell (quickly for a profit)"
+      },
+      {
+        "example": "転ぶ",
+        "reading": "ころぶ",
+        "meaning": "to fall down, to fall over, to turn out, to play out, to abandon Christianity (and convert to Buddhism), to apostatize, to roll, to tumble, (for a geisha) to prostitute (herself) in secret"
+      },
+      {
+        "example": "転ぶ",
+        "reading": "ころぶ",
+        "meaning": "to fall down, to fall over, to turn out, to play out, to abandon Christianity (and convert to Buddhism), to apostatize, to roll, to tumble, (for a geisha) to prostitute (herself) in secret"
+      },
+      {
+        "example": "転",
+        "reading": "うたた",
+        "meaning": "more and more, increasingly, all the more"
+      },
+      {
+        "example": "うたた寝",
+        "reading": "うたたね",
+        "meaning": "doze, nap, snooze"
+      },
+      {
+        "example": "眩く",
+        "reading": "くるめく",
+        "meaning": "to feel dizzy, to feel faint, to spin, to revolve, to twirl"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "二",
+      "厶",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36578_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ee2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ee2.gif",
+    "uri": "https://jisho.org/search/%E8%BB%A2%23kanji"
+  }
+}

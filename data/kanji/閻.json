@@ -1,1 +1,40 @@
-{"id":"閻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"閻","found":true,"strokeCount":16,"meaning":"town","kunyomi":[],"onyomi":["エン"],"onyomiExamples":[{"example":"閻王","reading":"エンオウ","meaning":"Yama, judge of the afterlife"},{"example":"閻浮提","reading":"エンブダイ","meaning":"Jambudvipa, continent of the terrestrial world"}],"kunyomiExamples":[],"radical":{"symbol":"門","meaning":"gate"},"parts":["勹","臼","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38331_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095bb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95bb.gif","uri":"https://jisho.org/search/%E9%96%BB%23kanji"}}
+{
+  "id": "閻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閻",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "town",
+    "kunyomi": [],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "閻王",
+        "reading": "エンオウ",
+        "meaning": "Yama, judge of the afterlife"
+      },
+      {
+        "example": "閻浮提",
+        "reading": "エンブダイ",
+        "meaning": "Jambudvipa, continent of the terrestrial world"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "勹",
+      "臼",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38331_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095bb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95bb.gif",
+    "uri": "https://jisho.org/search/%E9%96%BB%23kanji"
+  }
+}

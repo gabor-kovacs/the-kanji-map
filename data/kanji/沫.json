@@ -1,1 +1,73 @@
-{"id":"沫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"沫","found":true,"strokeCount":8,"meaning":"splash, suds","kunyomi":["あわ","しぶき","つばき"],"onyomi":["マツ","バツ"],"onyomiExamples":[{"example":"飛沫","reading":"ヒマツ","meaning":"splash, spray, droplet"},{"example":"泡沫","reading":"ウタカタ","meaning":"bubble on surface of liquid, ephemeral, transient"}],"kunyomiExamples":[{"example":"泡","reading":"あわ","meaning":"bubble, foam, froth, suds, lather, head (on beer)"},{"example":"淡雪","reading":"あわゆき","meaning":"light snowfall"},{"example":"波しぶき","reading":"なみしぶき","meaning":"sea spray, spindrift"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ハ","二","亠","木","汁","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27819_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cab.gif","uri":"https://jisho.org/search/%E6%B2%AB%23kanji"}}
+{
+  "id": "沫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沫",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "splash, suds",
+    "kunyomi": [
+      "あわ",
+      "しぶき",
+      "つばき"
+    ],
+    "onyomi": [
+      "マツ",
+      "バツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "飛沫",
+        "reading": "ヒマツ",
+        "meaning": "splash, spray, droplet"
+      },
+      {
+        "example": "泡沫",
+        "reading": "ウタカタ",
+        "meaning": "bubble on surface of liquid, ephemeral, transient"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "泡",
+        "reading": "あわ",
+        "meaning": "bubble, foam, froth, suds, lather, head (on beer)"
+      },
+      {
+        "example": "淡雪",
+        "reading": "あわゆき",
+        "meaning": "light snow, light snowfall, thin layer of snow, jellied dessert made of beaten egg white, agar and sugar"
+      },
+      {
+        "example": "血飛沫",
+        "reading": "ちしぶき",
+        "meaning": "blood spray (caused by a weapon), fountain of blood"
+      },
+      {
+        "example": "波しぶき",
+        "reading": "なみしぶき",
+        "meaning": "sea spray, spindrift"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "亠",
+      "木",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27819_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cab.gif",
+    "uri": "https://jisho.org/search/%E6%B2%AB%23kanji"
+  }
+}

@@ -1,1 +1,67 @@
-{"id":"苔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"苔","found":true,"strokeCount":8,"meaning":"moss, lichen","kunyomi":["こけ","こけら"],"onyomi":["タイ"],"onyomiExamples":[{"example":"苔状","reading":"タイジョウ","meaning":"mossy"},{"example":"苔癬","reading":"タイセン","meaning":"lichen"},{"example":"青苔","reading":"セイタイ","meaning":"green moss"},{"example":"掃苔","reading":"ソウタイ","meaning":"visit to a family grave (esp. during the Bon festival), removal of moss from a tombstone"}],"kunyomiExamples":[{"example":"苔","reading":"こけ","meaning":"moss, short plants resembling moss (incl. other bryophytes, lichens, very small spermatophytes, etc.)"},{"example":"コケ植物","reading":"コケしょくぶつ","meaning":"bryophyte (any of three groups of non-vascular land plants, incl. mosses, hornworts and liverworts)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["厶","口","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33492_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d4.gif","uri":"https://jisho.org/search/%E8%8B%94%23kanji"}}
+{
+  "id": "苔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苔",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "moss, lichen",
+    "kunyomi": [
+      "こけ",
+      "こけら"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "苔状",
+        "reading": "タイジョウ",
+        "meaning": "mossy"
+      },
+      {
+        "example": "苔癬",
+        "reading": "タイセン",
+        "meaning": "lichen"
+      },
+      {
+        "example": "青苔",
+        "reading": "セイタイ",
+        "meaning": "green moss"
+      },
+      {
+        "example": "掃苔",
+        "reading": "ソウタイ",
+        "meaning": "visit to a family grave (esp. during the Bon festival), removal of moss from a tombstone"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "苔",
+        "reading": "こけ",
+        "meaning": "moss, short plants resembling moss (incl. other bryophytes, lichens, very small spermatophytes, etc.)"
+      },
+      {
+        "example": "コケ植物",
+        "reading": "コケしょくぶつ",
+        "meaning": "bryophyte (any of three groups of non-vascular land plants, incl. mosses, hornworts and liverworts)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "厶",
+      "口",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33492_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d4.gif",
+    "uri": "https://jisho.org/search/%E8%8B%94%23kanji"
+  }
+}

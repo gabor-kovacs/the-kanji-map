@@ -1,1 +1,56 @@
-{"id":"潭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"潭","found":true,"strokeCount":15,"meaning":"deep water, deep","kunyomi":["ふち","ふか.い"],"onyomi":["タン","ジン"],"onyomiExamples":[{"example":"古潭","reading":"コタン","meaning":"old abyss"},{"example":"深潭","reading":"シンタン","meaning":"abyss"}],"kunyomiExamples":[{"example":"淵","reading":"ふち","meaning":"deep pool, deep water, abyss, depths (e.g. of despair, etc.), grip (e.g. of death)"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["十","日","曰","汁","西"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28525_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f6d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f6d.gif","uri":"https://jisho.org/search/%E6%BD%AD%23kanji"}}
+{
+  "id": "潭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "潭",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "deep water, deep",
+    "kunyomi": [
+      "ふち",
+      "ふか.い"
+    ],
+    "onyomi": [
+      "タン",
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "古潭",
+        "reading": "コタン",
+        "meaning": "old abyss"
+      },
+      {
+        "example": "深潭",
+        "reading": "シンタン",
+        "meaning": "abyss"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "淵",
+        "reading": "ふち",
+        "meaning": "deep pool, deep water, abyss, depths (e.g. of despair), grip (e.g. of death)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "十",
+      "日",
+      "曰",
+      "汁",
+      "西"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28525_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f6d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f6d.gif",
+    "uri": "https://jisho.org/search/%E6%BD%AD%23kanji"
+  }
+}

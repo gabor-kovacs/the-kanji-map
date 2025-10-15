@@ -1,1 +1,58 @@
-{"id":"諾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"諾","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1490","strokeCount":15,"meaning":"consent, assent, agreement","kunyomi":[],"onyomi":["ダク"],"onyomiExamples":[{"example":"諾","reading":"ダク","meaning":"agreement, assent, Norway"},{"example":"諾否","reading":"ダクヒ","meaning":"consent or refusal, yes or no, decision to accept or decline, up or down (vote), assent or dissent, accept or reject"},{"example":"快諾","reading":"カイダク","meaning":"ready consent"},{"example":"内諾","reading":"ナイダク","meaning":"informal consent, private consent"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["ノ","一","口","艾","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35582_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08afe.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8afe.gif","uri":"https://jisho.org/search/%E8%AB%BE%23kanji"}}
+{
+  "id": "諾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諾",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1490",
+    "strokeCount": 15,
+    "meaning": "consent, assent, agreement",
+    "kunyomi": [],
+    "onyomi": [
+      "ダク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "諾",
+        "reading": "ダク",
+        "meaning": "agreement, assent, Norway"
+      },
+      {
+        "example": "諾否",
+        "reading": "ダクヒ",
+        "meaning": "consent or refusal, yes or no, decision to accept or decline, up or down (vote), assent or dissent, accept or reject"
+      },
+      {
+        "example": "快諾",
+        "reading": "カイダク",
+        "meaning": "ready consent"
+      },
+      {
+        "example": "内諾",
+        "reading": "ナイダク",
+        "meaning": "informal consent, private consent"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "口",
+      "艾",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35582_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08afe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8afe.gif",
+    "uri": "https://jisho.org/search/%E8%AB%BE%23kanji"
+  }
+}

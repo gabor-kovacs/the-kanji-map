@@ -1,1 +1,57 @@
-{"id":"塚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"塚","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"869","strokeCount":12,"meaning":"hillock, mound","kunyomi":["つか","-づか"],"onyomi":["チョウ"],"onyomiExamples":[{"example":"円塚","reading":"マルヅカ","meaning":"round burial mound"}],"kunyomiExamples":[{"example":"塚","reading":"つか","meaning":"mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue"},{"example":"塚穴","reading":"つかあな","meaning":"grave"},{"example":"高塚","reading":"たかつか","meaning":"tumulus, burial mound"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["冖","土","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22618_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0585a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/585a.gif","uri":"https://jisho.org/search/%E5%A1%9A%23kanji"}}
+{
+  "id": "塚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "塚",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "869",
+    "strokeCount": 12,
+    "meaning": "hillock, mound",
+    "kunyomi": [
+      "つか",
+      "-づか"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陪塚",
+        "reading": "バイチョウ",
+        "meaning": "subsidiary burial mound (Kofun period), satellite burial mound"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "塚",
+        "reading": "つか",
+        "meaning": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue"
+      },
+      {
+        "example": "塚穴",
+        "reading": "つかあな",
+        "meaning": "grave"
+      },
+      {
+        "example": "高塚",
+        "reading": "たかつか",
+        "meaning": "tumulus, burial mound"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "冖",
+      "土",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22618_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0585a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/585a.gif",
+    "uri": "https://jisho.org/search/%E5%A1%9A%23kanji"
+  }
+}

@@ -1,1 +1,39 @@
-{"id":"蟆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蟆","found":true,"strokeCount":16,"meaning":"toad","kunyomi":["ひき"],"onyomi":["バ","マ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蟇","reading":"ひきがえる","meaning":"toad (esp. the Japanese toad, Bufo japonicus)"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["大","日","艾","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34758_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c6.gif","uri":"https://jisho.org/search/%E8%9F%86%23kanji"}}
+{
+  "id": "蟆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟆",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "toad",
+    "kunyomi": [
+      "ひき"
+    ],
+    "onyomi": [
+      "バ",
+      "マ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蟇",
+        "reading": "ひきがえる",
+        "meaning": "toad (esp. the Japanese toad, Bufo japonicus)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "大",
+      "日",
+      "艾",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34758_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c6.gif",
+    "uri": "https://jisho.org/search/%E8%9F%86%23kanji"
+  }
+}

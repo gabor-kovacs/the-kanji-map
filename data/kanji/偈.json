@@ -1,1 +1,56 @@
-{"id":"偈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"偈","found":true,"strokeCount":11,"meaning":"verse in praise of Buddha, fast, healthy, rest","kunyomi":["いこ.う"],"onyomi":["ゲ","ケツ","ケイ"],"onyomiExamples":[{"example":"偈","reading":"ゲ","meaning":"gatha (poetic verse of a scripture)"},{"example":"七仏通戒偈","reading":"シチブツツウカイゲ","meaning":"Verse of the Shared Morality of the Seven Buddhas"},{"example":"回向偈","reading":"エコウゲ","meaning":"closing recital that transfers the merit of the service to a buddha, a bodhisattva, or the dead"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["一","人","勹","匕","化","日","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20552_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05048.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5048.gif","uri":"https://jisho.org/search/%E5%81%88%23kanji"}}
+{
+  "id": "偈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "偈",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "verse in praise of Buddha, fast, healthy, rest",
+    "kunyomi": [
+      "いこ.う"
+    ],
+    "onyomi": [
+      "ゲ",
+      "ケツ",
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "偈",
+        "reading": "ゲ",
+        "meaning": "gatha (poetic verse of a scripture)"
+      },
+      {
+        "example": "七仏通戒偈",
+        "reading": "シチブツツウカイゲ",
+        "meaning": "Verse of the Shared Morality of the Seven Buddhas"
+      },
+      {
+        "example": "回向偈",
+        "reading": "エコウゲ",
+        "meaning": "closing recital that transfers the merit of the service to a buddha, a bodhisattva, or the dead"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "一",
+      "人",
+      "勹",
+      "匕",
+      "化",
+      "日",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20552_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05048.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5048.gif",
+    "uri": "https://jisho.org/search/%E5%81%88%23kanji"
+  }
+}

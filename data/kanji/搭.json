@@ -1,1 +1,48 @@
-{"id":"搭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"搭","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1472","strokeCount":12,"meaning":"board, load (a vehicle), ride","kunyomi":[],"onyomi":["トウ"],"onyomiExamples":[{"example":"搭載","reading":"トウサイ","meaning":"loading (on board), equipping, equipped (with), built-in"},{"example":"搭乗","reading":"トウジョウ","meaning":"embarkation, boarding (an aeroplane, airplane)"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["一","个","口","扎","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25645_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0642d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/642d.gif","uri":"https://jisho.org/search/%E6%90%AD%23kanji"}}
+{
+  "id": "搭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "搭",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1472",
+    "strokeCount": 12,
+    "meaning": "board, load (a vehicle), ride",
+    "kunyomi": [],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "搭載",
+        "reading": "トウサイ",
+        "meaning": "loading (on a ship), equipping (an aircraft, car, etc.) with, being equipped with"
+      },
+      {
+        "example": "搭乗",
+        "reading": "トウジョウ",
+        "meaning": "embarkation, boarding (a ship or aircraft)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "扎",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25645_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0642d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/642d.gif",
+    "uri": "https://jisho.org/search/%E6%90%AD%23kanji"
+  }
+}

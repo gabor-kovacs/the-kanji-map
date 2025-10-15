@@ -1,1 +1,48 @@
-{"id":"悋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"悋","found":true,"strokeCount":10,"meaning":"stingy","kunyomi":["ねた.む","やぶさか","お.しむ"],"onyomi":["リン"],"onyomiExamples":[{"example":"悋気","reading":"リンキ","meaning":"jealousy"},{"example":"吝嗇","reading":"リンショク","meaning":"stinginess, miserliness, parsimony"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["口","忙","文"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24715_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0608b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/608b.gif","uri":"https://jisho.org/search/%E6%82%8B%23kanji"}}
+{
+  "id": "悋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悋",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "stingy",
+    "kunyomi": [
+      "ねた.む",
+      "やぶさか",
+      "お.しむ"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悋気",
+        "reading": "リンキ",
+        "meaning": "jealousy"
+      },
+      {
+        "example": "吝嗇",
+        "reading": "リンショク",
+        "meaning": "stinginess, miserliness, parsimony"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "口",
+      "忙",
+      "文"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24715_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0608b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/608b.gif",
+    "uri": "https://jisho.org/search/%E6%82%8B%23kanji"
+  }
+}

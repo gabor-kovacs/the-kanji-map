@@ -1,1 +1,527 @@
-{"id":"空","kanjialiveData":{"kanji":{"character":"空","meaning":{"english":"sky, air, empty"},"strokes":{"count":8,"timings":[0,1.599,2.465,3.932,4.598,5.598,6.799,7.399,8.2],"images":["https://media.kanjialive.com/kanji_strokes/sora_1.svg","https://media.kanjialive.com/kanji_strokes/sora_2.svg","https://media.kanjialive.com/kanji_strokes/sora_3.svg","https://media.kanjialive.com/kanji_strokes/sora_4.svg","https://media.kanjialive.com/kanji_strokes/sora_5.svg","https://media.kanjialive.com/kanji_strokes/sora_6.svg","https://media.kanjialive.com/kanji_strokes/sora_7.svg","https://media.kanjialive.com/kanji_strokes/sora_8.svg"]},"onyomi":{"romaji":"kuu","katakana":"クウ"},"kunyomi":{"romaji":"sora, a, kara, muna, aku, aki, akeru, kara, munashii, munashisa","hiragana":"そら、あ、から、むな"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/sora_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/sora_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/sora_00.webm"}},"radical":{"character":"","strokes":5,"image":"https://media.kanjialive.com/radical_character/anakanmuri.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"あなかんむり","romaji":"anakanmuri"},"meaning":{"english":"hole, cave"},"animation":["https://media.kanjialive.com/rad_frames/anakanmuri0.svg","https://media.kanjialive.com/rad_frames/anakanmuri1.svg","https://media.kanjialive.com/rad_frames/anakanmuri2.svg"]},"references":{"grade":1,"kodansha":"1418","classic_nelson":"3317"},"examples":[{"japanese":"空間（くうかん）","meaning":{"english":"space"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_a.mp3"}},{"japanese":"空港（くうこう）","meaning":{"english":"airport"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_b.mp3"}},{"japanese":"空気（くうき）","meaning":{"english":"air"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_c.mp3"}},{"japanese":"空車（くうしゃ）","meaning":{"english":"free taxi"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_d.mp3"}},{"japanese":"航空会社（こうくうがいしゃ）","meaning":{"english":"airline company"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_e.mp3"}},{"japanese":"空（そら）","meaning":{"english":"sky"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_f.mp3"}},{"japanese":"空く（あく）","meaning":{"english":"open [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_g.mp3"}},{"japanese":"空ける（あける）","meaning":{"english":"empty [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_h.mp3"}},{"japanese":"空き缶（あきかん）","meaning":{"english":"empty can"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_i.mp3"}},{"japanese":"空（から）","meaning":{"english":"empty [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_j.mp3"}},{"japanese":"空手（からて）","meaning":{"english":"karate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_k.mp3"}},{"japanese":"空しい（むなしい）","meaning":{"english":"feel empty [adj.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sora_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sora_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_l.mp3"}}]},"jishoData":{"query":"空","found":true,"taughtIn":"grade 1","jlptLevel":"N4","newspaperFrequencyRank":"304","strokeCount":8,"meaning":"empty, sky, void, vacant, vacuum","kunyomi":["そら","あ.く","あ.き","あ.ける","から","す.く","す.かす","むな.しい"],"onyomi":["クウ"],"onyomiExamples":[{"example":"空","reading":"クウ","meaning":"empty air, sky, shunyata (the lack of an immutable intrinsic nature within any phenomenon), emptiness, air force, fruitlessness, meaninglessness, void (one of the five elements), empty (e.g. set)"},{"example":"空域","reading":"クウイキ","meaning":"airspace"},{"example":"領空","reading":"リョウクウ","meaning":"territorial airspace"},{"example":"防空","reading":"ボウクウ","meaning":"air defense, air defence"}],"kunyomiExamples":[{"example":"空","reading":"そら","meaning":"sky, the air, the heavens, weather, far-off place, distant place, state of mind, feeling, (from) memory, (by) heart, falsehood, lie, somehow, vaguely, fake"},{"example":"空模様","reading":"そらもよう","meaning":"look of the sky, weather"},{"example":"定めなき空","reading":"さだめなきそら","meaning":"changeable weather"},{"example":"晴れた空","reading":"はれたそら","meaning":"clear sky, cloudless sky"},{"example":"開く","reading":"あく","meaning":"to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events)"},{"example":"空き","reading":"あき","meaning":"space, room, gap, emptiness, vacancy, opening, empty seat, free time, time to spare, disuse, unused thing"},{"example":"空き缶","reading":"あきかん","meaning":"empty can"},{"example":"開ける","reading":"あける","meaning":"to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole)"},{"example":"空","reading":"から","meaning":"emptiness, vacuum, blank"},{"example":"空手","reading":"からて","meaning":"karate, empty handed"},{"example":"もぬけの殻","reading":"もぬけのから","meaning":"completely empty (of a residence, etc.), vacant, deserted, body from which the soul has left, corpse, shed skin (of a snake, insect, etc.)"},{"example":"空く","reading":"すく","meaning":"to become less crowded, to thin out, to get empty, to be hungry"},{"example":"空かす","reading":"すかす","meaning":"to feel hungry, to get hungry"},{"example":"虚しい","reading":"むなしい","meaning":"empty, void, vacant, vain, fruitless, futile, ineffective, lifeless"}],"radical":{"symbol":"穴","meaning":"cave"},"parts":["儿","宀","工","穴"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31354_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a7a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a7a.gif","uri":"https://jisho.org/search/%E7%A9%BA%23kanji"}}
+{
+  "id": "空",
+  "kanjialiveData": {
+    "_id": "54317ae9791eba5146ee49de",
+    "_rev": "9-ebaf7c5342214bbd98f2d2bad1b5f2c3",
+    "rad_name_ja": "あなかんむり",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "sora, a, kara, muna, aku, aki, akeru, kara, munashii, munashisa",
+    "meaning": "sky, air, empty",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "空間（くうかん）",
+        "meaning": {
+          "english": "space"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "空港（くうこう）",
+        "meaning": {
+          "english": "airport"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "空気（くうき）",
+        "meaning": {
+          "english": "air"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "空車（くうしゃ）",
+        "meaning": {
+          "english": "free taxi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "航空会社（こうくうがいしゃ）",
+        "meaning": {
+          "english": "airline company"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "空（そら）",
+        "meaning": {
+          "english": "sky"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "空く（あく）",
+        "meaning": {
+          "english": "open [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "空ける（あける）",
+        "meaning": {
+          "english": "empty [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "空き缶（あきかん）",
+        "meaning": {
+          "english": "empty can"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "空（から）",
+        "meaning": {
+          "english": "empty [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "空手（からて）",
+        "meaning": {
+          "english": "karate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "空しい（むなしい）",
+        "meaning": {
+          "english": "feel empty [adj.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sora_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sora_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sora_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sora_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "そら、あ、から、むな、あく、あき、あける、から、むなしい、むなしさ",
+    "ka_utf": "空",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=空",
+    "rad_name_search": [
+      "anakanmuri"
+    ],
+    "rad_order": 147,
+    "txt_books": [
+      {
+        "chapter": "27",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "39",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "30"
+      }
+    ],
+    "kname": "sora",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.599,
+      2.465,
+      3.932,
+      4.598,
+      5.598,
+      6.799,
+      7.399,
+      8.2
+    ],
+    "kunyomi_ka_display": "そら、あ、から、むな",
+    "dick": "1418",
+    "rad_name": "anakanmuri",
+    "dicn": "3317",
+    "mn_hint": "In a side-cave dwelling, smoke hole 穴 made by the craftsman 工 through which the sky is visible.",
+    "rad_stroke": 5,
+    "onyomi_ja": "クウ",
+    "rad_meaning": "hole, cave",
+    "onyomi": "kuu",
+    "ka_id": "ka_296",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "kuu",
+      "kuu"
+    ],
+    "kunyomi_search": [
+      "sora",
+      "a",
+      "kara",
+      "muna",
+      "aku",
+      "aki",
+      "akeru",
+      "kara",
+      "munashii",
+      "munashisa",
+      "sora, a, kara, muna, aku, aki, akeru, kara, munashii, munashisa"
+    ],
+    "meaning_search": [
+      "sky",
+      "air",
+      "empty",
+      "sky, air, empty"
+    ],
+    "onyomi_ja_search": [
+      "クウ",
+      "クウ"
+    ],
+    "kunyomi_ja_search": [
+      "そら",
+      "あ",
+      "から",
+      "むな",
+      "あく",
+      "あき",
+      "あける",
+      "から",
+      "むなしい",
+      "むなしさ",
+      "そら、あ、から、むな、あく、あき、あける、から、むなしい、むなしさ"
+    ],
+    "rad_meaning_search": [
+      "hole",
+      "cave",
+      "hole, cave"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "あなかんむり"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:27",
+      "cij:c27",
+      "bk",
+      "bk:39",
+      "bk:c39",
+      "mac",
+      "mac:16",
+      "mac:c16",
+      "aij3",
+      "aij3:4",
+      "aij3:c4",
+      "aij3:v4",
+      "aij3:v4:4",
+      "aij3:v4:c4",
+      "gen",
+      "gen:13",
+      "gen:c13",
+      "ap",
+      "ap:4",
+      "ap:c4",
+      "kll",
+      "kll:10",
+      "kll:c10",
+      "cijr",
+      "cijr:30",
+      "cijr:c30"
+    ],
+    "rad_name_file": "anakanmuri",
+    "kanji": {
+      "character": "空",
+      "meaning": {
+        "english": "sky, air, empty"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.599,
+          2.465,
+          3.932,
+          4.598,
+          5.598,
+          6.799,
+          7.399,
+          8.2
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sora_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sora_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sora_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sora_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sora_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sora_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/sora_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/sora_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kuu",
+        "katakana": "クウ"
+      },
+      "kunyomi": {
+        "romaji": "sora, a, kara, muna, aku, aki, akeru, kara, munashii, munashisa",
+        "hiragana": "そら、あ、から、むな"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sora_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sora_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sora_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/anakanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "あなかんむり",
+        "romaji": "anakanmuri"
+      },
+      "meaning": {
+        "english": "hole, cave"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/anakanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/anakanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/anakanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1418",
+      "classic_nelson": "3317"
+    }
+  },
+  "jishoData": {
+    "query": "空",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "304",
+    "strokeCount": 8,
+    "meaning": "empty, sky, void, vacant, vacuum",
+    "kunyomi": [
+      "そら",
+      "あ.く",
+      "あ.き",
+      "あ.ける",
+      "から",
+      "す.く",
+      "す.かす",
+      "むな.しい"
+    ],
+    "onyomi": [
+      "クウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "空",
+        "reading": "クウ",
+        "meaning": "empty air, sky, shunyata (the lack of an immutable intrinsic nature within any phenomenon), emptiness, air force, fruitlessness, meaninglessness, void (one of the five elements), empty (e.g. set)"
+      },
+      {
+        "example": "空域",
+        "reading": "クウイキ",
+        "meaning": "airspace"
+      },
+      {
+        "example": "領空",
+        "reading": "リョウクウ",
+        "meaning": "territorial airspace"
+      },
+      {
+        "example": "防空",
+        "reading": "ボウクウ",
+        "meaning": "air defense, air defence"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "空",
+        "reading": "そら",
+        "meaning": "sky, the air, the heavens, weather, far-off place, distant place, state of mind, feeling, (from) memory, (by) heart, falsehood, lie, somehow, vaguely, fake"
+      },
+      {
+        "example": "空模様",
+        "reading": "そらもよう",
+        "meaning": "look of the sky, weather"
+      },
+      {
+        "example": "定めなき空",
+        "reading": "さだめなきそら",
+        "meaning": "changeable weather"
+      },
+      {
+        "example": "晴れた空",
+        "reading": "はれたそら",
+        "meaning": "clear sky, cloudless sky"
+      },
+      {
+        "example": "開く",
+        "reading": "あく",
+        "meaning": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events)"
+      },
+      {
+        "example": "空き",
+        "reading": "あき",
+        "meaning": "space, room, gap, emptiness, vacancy, opening, empty seat, free time, time to spare, disuse, unused thing"
+      },
+      {
+        "example": "空き缶",
+        "reading": "あきかん",
+        "meaning": "empty can"
+      },
+      {
+        "example": "開ける",
+        "reading": "あける",
+        "meaning": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole)"
+      },
+      {
+        "example": "空",
+        "reading": "から",
+        "meaning": "emptiness, being empty, not carrying anything, unburdened, empty-handed, dishonoured (bill, promise, etc.), false, no-show (reservation), put-on (cheeriness, courage, etc.), empty (compliments), insincere"
+      },
+      {
+        "example": "空手",
+        "reading": "からて",
+        "meaning": "karate, being empty-handed, having nothing in one's hands"
+      },
+      {
+        "example": "もぬけの殻",
+        "reading": "もぬけのから",
+        "meaning": "completely empty (of a residence, etc.), vacant, deserted, body from which the soul has left, corpse, shed skin (of a snake, insect, etc.)"
+      },
+      {
+        "example": "空く",
+        "reading": "すく",
+        "meaning": "to become less crowded, to thin out, to get empty, to be hungry"
+      },
+      {
+        "example": "空かす",
+        "reading": "すかす",
+        "meaning": "to feel hungry, to get hungry"
+      },
+      {
+        "example": "虚しい",
+        "reading": "むなしい",
+        "meaning": "empty, void, vacant, vain, fruitless, futile, ineffective, lifeless"
+      }
+    ],
+    "radical": {
+      "symbol": "穴",
+      "meaning": "cave"
+    },
+    "parts": [
+      "儿",
+      "宀",
+      "工",
+      "穴"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31354_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a7a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a7a.gif",
+    "uri": "https://jisho.org/search/%E7%A9%BA%23kanji"
+  }
+}

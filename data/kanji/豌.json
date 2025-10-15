@@ -1,1 +1,44 @@
-{"id":"豌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"豌","found":true,"strokeCount":15,"meaning":"pea","kunyomi":[],"onyomi":["エン","ワン"],"onyomiExamples":[{"example":"豌豆","reading":"エンドウ","meaning":"green peas"},{"example":"えんどう豆","reading":"エンドウマメ","meaning":"pea (Pisum sativum), green pea"}],"kunyomiExamples":[],"radical":{"symbol":"豆","meaning":"bean"},"parts":["卩","口","夕","宀","并","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35916_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c4c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c4c.gif","uri":"https://jisho.org/search/%E8%B1%8C%23kanji"}}
+{
+  "id": "豌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "豌",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "pea",
+    "kunyomi": [],
+    "onyomi": [
+      "エン",
+      "ワン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "豌豆",
+        "reading": "エンドウ",
+        "meaning": "pea (Pisum sativum)"
+      },
+      {
+        "example": "えんどう豆",
+        "reading": "エンドウマメ",
+        "meaning": "pea, green pea, garden pea"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "豆",
+      "meaning": "bean"
+    },
+    "parts": [
+      "卩",
+      "口",
+      "夕",
+      "宀",
+      "并",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35916_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c4c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c4c.gif",
+    "uri": "https://jisho.org/search/%E8%B1%8C%23kanji"
+  }
+}

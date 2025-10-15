@@ -1,1 +1,50 @@
-{"id":"逗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"逗","found":true,"newspaperFrequencyRank":"2027","strokeCount":10,"meaning":"stop","kunyomi":["とど.まる"],"onyomi":["トウ","ズ"],"onyomiExamples":[{"example":"逗留","reading":"トウリュウ","meaning":"staying, sojourn"},{"example":"逗留客","reading":"トウリュウキャク","meaning":"sojourner, visitor"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["口","并","豆","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36887_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09017.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9017.gif","uri":"https://jisho.org/search/%E9%80%97%23kanji"}}
+{
+  "id": "逗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逗",
+    "found": true,
+    "newspaperFrequencyRank": "2027",
+    "strokeCount": 10,
+    "meaning": "stop",
+    "kunyomi": [
+      "とど.まる"
+    ],
+    "onyomi": [
+      "トウ",
+      "ズ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "逗留",
+        "reading": "トウリュウ",
+        "meaning": "stay, sojourn"
+      },
+      {
+        "example": "逗留客",
+        "reading": "トウリュウキャク",
+        "meaning": "sojourner, visitor"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "口",
+      "并",
+      "豆",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36887_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09017.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9017.gif",
+    "uri": "https://jisho.org/search/%E9%80%97%23kanji"
+  }
+}

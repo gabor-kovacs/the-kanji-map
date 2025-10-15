@@ -1,1 +1,33 @@
-{"id":"袰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"袰","found":true,"strokeCount":11,"meaning":"hood, top, awning, cover, (kokuji)","kunyomi":["ほろ"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["亠","毋","母","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34992_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088b0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88b0.gif","uri":"https://jisho.org/search/%E8%A2%B0%23kanji"}}
+{
+  "id": "袰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "袰",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "hood, top, awning, cover, (kokuji)",
+    "kunyomi": [
+      "ほろ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "亠",
+      "毋",
+      "母",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34992_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088b0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88b0.gif",
+    "uri": "https://jisho.org/search/%E8%A2%B0%23kanji"
+  }
+}

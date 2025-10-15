@@ -1,1 +1,31 @@
-{"id":"廖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廖","found":true,"strokeCount":14,"meaning":"empty, name","kunyomi":[],"onyomi":["リョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"广","meaning":"house on cliff"},"parts":["个","冫","广","彡","羽"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24278_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ed6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ed6.gif","uri":"https://jisho.org/search/%E5%BB%96%23kanji"}}
+{
+  "id": "廖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廖",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "empty, name",
+    "kunyomi": [],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "广",
+      "meaning": "house on cliff"
+    },
+    "parts": [
+      "个",
+      "冫",
+      "广",
+      "彡",
+      "羽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24278_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ed6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ed6.gif",
+    "uri": "https://jisho.org/search/%E5%BB%96%23kanji"
+  }
+}

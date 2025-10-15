@@ -1,1 +1,33 @@
-{"id":"幎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"幎","found":true,"strokeCount":13,"meaning":"cloth covering","kunyomi":["とばり"],"onyomi":["ベキ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["ハ","亠","冖","巾","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24142_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e4e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e4e.gif","uri":"https://jisho.org/search/%E5%B9%8E%23kanji"}}
+{
+  "id": "幎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幎",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "cloth covering",
+    "kunyomi": [
+      "とばり"
+    ],
+    "onyomi": [
+      "ベキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "冖",
+      "巾",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24142_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e4e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e4e.gif",
+    "uri": "https://jisho.org/search/%E5%B9%8E%23kanji"
+  }
+}

@@ -1,1 +1,50 @@
-{"id":"淪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"淪","found":true,"strokeCount":11,"meaning":"sink, ripple","kunyomi":["しず.む"],"onyomi":["リン","ロン"],"onyomiExamples":[{"example":"淪落","reading":"リンラク","meaning":"ruin, depravity, corruption"},{"example":"沈淪","reading":"チンリン","meaning":"sinking into obscurity, being ruined"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","个","冊","廾","汁","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28138_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dea.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dea.gif","uri":"https://jisho.org/search/%E6%B7%AA%23kanji"}}
+{
+  "id": "淪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淪",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "sink, ripple",
+    "kunyomi": [
+      "しず.む"
+    ],
+    "onyomi": [
+      "リン",
+      "ロン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淪落",
+        "reading": "リンラク",
+        "meaning": "ruin, depravity, corruption"
+      },
+      {
+        "example": "沈淪",
+        "reading": "チンリン",
+        "meaning": "sinking into obscurity, coming down in the world, being ruined, sinking deeply"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "个",
+      "冊",
+      "廾",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28138_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dea.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dea.gif",
+    "uri": "https://jisho.org/search/%E6%B7%AA%23kanji"
+  }
+}

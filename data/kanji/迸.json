@@ -1,1 +1,48 @@
-{"id":"迸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"迸","found":true,"strokeCount":10,"meaning":"gush out, spurt","kunyomi":["ほとばし.る","はし.る"],"onyomi":["ホウ","ヒョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"迸る","reading":"ほとばしる","meaning":"to surge, to well up, to gush out"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["ノ","一","二","并","廾","込","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36856_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ff8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ff8.gif","uri":"https://jisho.org/search/%E8%BF%B8%23kanji"}}
+{
+  "id": "迸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "迸",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "gush out, spurt",
+    "kunyomi": [
+      "ほとばし.る",
+      "はし.る"
+    ],
+    "onyomi": [
+      "ホウ",
+      "ヒョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "迸る",
+        "reading": "ほとばしる",
+        "meaning": "to surge, to well up, to gush out"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "并",
+      "廾",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36856_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ff8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ff8.gif",
+    "uri": "https://jisho.org/search/%E8%BF%B8%23kanji"
+  }
+}

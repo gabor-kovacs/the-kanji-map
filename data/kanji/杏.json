@@ -1,1 +1,76 @@
-{"id":"杏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"杏","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2159","strokeCount":7,"meaning":"apricot","kunyomi":["あんず"],"onyomi":["キョウ","アン","コウ"],"onyomiExamples":[{"example":"杏林","reading":"キョウリン","meaning":"apricot grove"},{"example":"杏花","reading":"キョウカ","meaning":"apricot flower"},{"example":"巴旦杏","reading":"ハタンキョウ","meaning":"plum, almond"},{"example":"牡丹杏","reading":"ボタンキョウ","meaning":"variety of Japanese plum"},{"example":"杏","reading":"アンズ","meaning":"apricot (Prunus armeniaca)"},{"example":"杏酒","reading":"アンズシュ","meaning":"sake made from apricot"}],"kunyomiExamples":[{"example":"杏","reading":"あんず","meaning":"apricot (Prunus armeniaca)"},{"example":"杏酒","reading":"あんずしゅ","meaning":"sake made from apricot"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["口","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26447_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0674f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/674f.gif","uri":"https://jisho.org/search/%E6%9D%8F%23kanji"}}
+{
+  "id": "杏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杏",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2159",
+    "strokeCount": 7,
+    "meaning": "apricot",
+    "kunyomi": [
+      "あんず"
+    ],
+    "onyomi": [
+      "キョウ",
+      "アン",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "杏林",
+        "reading": "キョウリン",
+        "meaning": "apricot grove, doctor"
+      },
+      {
+        "example": "杏花",
+        "reading": "キョウカ",
+        "meaning": "apricot flower"
+      },
+      {
+        "example": "巴旦杏",
+        "reading": "ハタンキョウ",
+        "meaning": "plum, almond"
+      },
+      {
+        "example": "牡丹杏",
+        "reading": "ボタンキョウ",
+        "meaning": "variety of Japanese plum"
+      },
+      {
+        "example": "杏",
+        "reading": "アンズ",
+        "meaning": "apricot (Prunus armeniaca)"
+      },
+      {
+        "example": "杏酒",
+        "reading": "アンズシュ",
+        "meaning": "sake made from apricot"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "杏",
+        "reading": "あんず",
+        "meaning": "apricot (Prunus armeniaca)"
+      },
+      {
+        "example": "杏酒",
+        "reading": "あんずしゅ",
+        "meaning": "sake made from apricot"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26447_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0674f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/674f.gif",
+    "uri": "https://jisho.org/search/%E6%9D%8F%23kanji"
+  }
+}

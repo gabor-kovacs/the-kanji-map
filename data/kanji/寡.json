@@ -1,1 +1,55 @@
-{"id":"寡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"寡","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2035","strokeCount":14,"meaning":"widow, minority, few","kunyomi":[],"onyomi":["カ"],"onyomiExamples":[{"example":"寡","reading":"カ","meaning":"minority, small numbers, unmarried person, widow, widower"},{"example":"寡婦","reading":"カフ","meaning":"widow, divorced woman not remarried, unmarried woman"},{"example":"多寡","reading":"タカ","meaning":"degree (of something), greatness or smallness (of something), quantity, number, amount, size"},{"example":"鰥寡","reading":"カンカ","meaning":"widow and widower, lonely people"}],"kunyomiExamples":[],"radical":{"symbol":"宀","meaning":"roof"},"parts":["ハ","一","刀","宀","自"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23521_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be1.gif","uri":"https://jisho.org/search/%E5%AF%A1%23kanji"}}
+{
+  "id": "寡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寡",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2035",
+    "strokeCount": 14,
+    "meaning": "widow, minority, few",
+    "kunyomi": [],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寡",
+        "reading": "カ",
+        "meaning": "minority, small numbers, unmarried person, widow, widower"
+      },
+      {
+        "example": "寡婦",
+        "reading": "カフ",
+        "meaning": "widow, divorced woman not remarried, unmarried woman"
+      },
+      {
+        "example": "多寡",
+        "reading": "タカ",
+        "meaning": "degree (of something), greatness or smallness (of something), quantity, number, amount, size"
+      },
+      {
+        "example": "鰥寡",
+        "reading": "カンカ",
+        "meaning": "widow and widower, lonely people"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "刀",
+      "宀",
+      "自"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23521_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be1.gif",
+    "uri": "https://jisho.org/search/%E5%AF%A1%23kanji"
+  }
+}

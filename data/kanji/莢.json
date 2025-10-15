@@ -1,1 +1,66 @@
-{"id":"莢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"莢","found":true,"strokeCount":10,"meaning":"pod, hull, husk, shell, case","kunyomi":["さや"],"onyomi":["キョウ"],"onyomiExamples":[{"example":"莢膜","reading":"キョウマク","meaning":"(bacterial) capsule, ovarian follicle sheath, theca"},{"example":"排莢","reading":"ハイキョウ","meaning":"ejection (of spent shell casings)"},{"example":"薬莢","reading":"ヤッキョウ","meaning":"(ammunition) cartridge, shell case"}],"kunyomiExamples":[{"example":"莢","reading":"さや","meaning":"shell (e.g. of a pea), pod, hull"},{"example":"荒隠元","reading":"さやいんげん","meaning":"French beans, string beans"},{"example":"絹さや","reading":"きぬさや","meaning":"snow pea, snow peas, mange tout"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["人","大","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33698_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083a2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83a2.gif","uri":"https://jisho.org/search/%E8%8E%A2%23kanji"}}
+{
+  "id": "莢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "莢",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "pod, hull, husk, shell, case",
+    "kunyomi": [
+      "さや"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "莢膜",
+        "reading": "キョウマク",
+        "meaning": "(bacterial) capsule, ovarian follicle sheath, theca"
+      },
+      {
+        "example": "排莢",
+        "reading": "ハイキョウ",
+        "meaning": "ejection (of spent shell casings)"
+      },
+      {
+        "example": "薬莢",
+        "reading": "ヤッキョウ",
+        "meaning": "cartridge case"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "莢",
+        "reading": "さや",
+        "meaning": "pod (e.g. a pea pod), shell, hull"
+      },
+      {
+        "example": "莢隠元",
+        "reading": "さやいんげん",
+        "meaning": "green beans, French beans, string beans"
+      },
+      {
+        "example": "絹さや",
+        "reading": "きぬさや",
+        "meaning": "snow pea, snow peas, mange tout"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "人",
+      "大",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33698_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083a2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83a2.gif",
+    "uri": "https://jisho.org/search/%E8%8E%A2%23kanji"
+  }
+}

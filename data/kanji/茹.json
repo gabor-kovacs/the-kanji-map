@@ -1,1 +1,47 @@
-{"id":"茹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"茹","found":true,"strokeCount":9,"meaning":"boil, seethe","kunyomi":["ゆ.でる","う.でる"],"onyomi":["ジョ","ニョ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"茹でる","reading":"ゆでる","meaning":"to boil (something in hot water), to treat with medicinal steam (a swelling, etc.)"},{"example":"茹でる","reading":"ゆでる","meaning":"to boil (something in hot water), to treat with medicinal steam (a swelling, etc.)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["口","女","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33593_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08339.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8339.gif","uri":"https://jisho.org/search/%E8%8C%B9%23kanji"}}
+{
+  "id": "茹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "茹",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "boil, seethe",
+    "kunyomi": [
+      "ゆ.でる",
+      "う.でる"
+    ],
+    "onyomi": [
+      "ジョ",
+      "ニョ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "茹でる",
+        "reading": "ゆでる",
+        "meaning": "to boil (something in hot water), to treat with medicinal steam (a swelling, etc.)"
+      },
+      {
+        "example": "茹でる",
+        "reading": "ゆでる",
+        "meaning": "to boil (something in hot water), to treat with medicinal steam (a swelling, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "口",
+      "女",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33593_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08339.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8339.gif",
+    "uri": "https://jisho.org/search/%E8%8C%B9%23kanji"
+  }
+}

@@ -1,1 +1,67 @@
-{"id":"鷺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鷺","found":true,"newspaperFrequencyRank":"2172","strokeCount":24,"meaning":"heron","kunyomi":["さぎ"],"onyomi":["ロ"],"onyomiExamples":[{"example":"白鷺","reading":"シラサギ","meaning":"heron with all-white plumage (incl. egrets), white heron"},{"example":"烏鷺","reading":"ウロ","meaning":"crows and herons, black and white (esp. go stones), go (game)"}],"kunyomiExamples":[{"example":"鷺","reading":"さぎ","meaning":"heron (Ardeidae)"},{"example":"鷺苔","reading":"さぎごけ","meaning":"Miquel's mazus (species of small flowering plant, Mazus miquelii)"},{"example":"白鷺","reading":"しらさぎ","meaning":"heron with all-white plumage (incl. egrets), white heron"},{"example":"五位鷺","reading":"ごいさぎ","meaning":"black-crowned night heron (Nycticorax nycticorax), night heron"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["口","夂","杰","止","足","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40442_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dfa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dfa.gif","uri":"https://jisho.org/search/%E9%B7%BA%23kanji"}}
+{
+  "id": "鷺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鷺",
+    "found": true,
+    "newspaperFrequencyRank": "2172",
+    "strokeCount": 24,
+    "meaning": "heron",
+    "kunyomi": [
+      "さぎ"
+    ],
+    "onyomi": [
+      "ロ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "白鷺",
+        "reading": "シラサギ",
+        "meaning": "heron with all-white plumage (incl. egrets), white heron"
+      },
+      {
+        "example": "烏鷺",
+        "reading": "ウロ",
+        "meaning": "crows and herons, black and white (esp. go stones), go (game)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鷺",
+        "reading": "さぎ",
+        "meaning": "heron (Ardeidae)"
+      },
+      {
+        "example": "鷺苔",
+        "reading": "さぎごけ",
+        "meaning": "Miquel's mazus (species of small flowering plant, Mazus miquelii)"
+      },
+      {
+        "example": "白鷺",
+        "reading": "しらさぎ",
+        "meaning": "heron with all-white plumage (incl. egrets), white heron"
+      },
+      {
+        "example": "五位鷺",
+        "reading": "ごいさぎ",
+        "meaning": "black-crowned night heron (Nycticorax nycticorax), night heron"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "杰",
+      "止",
+      "足",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40442_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dfa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dfa.gif",
+    "uri": "https://jisho.org/search/%E9%B7%BA%23kanji"
+  }
+}

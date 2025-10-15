@@ -1,1 +1,59 @@
-{"id":"殆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"殆","found":true,"strokeCount":9,"meaning":"almost, quite, really","kunyomi":["ほとほと","ほとん.ど","あやうい"],"onyomi":["タイ","サイ"],"onyomiExamples":[{"example":"危殆","reading":"キタイ","meaning":"danger, jeopardy, distress"}],"kunyomiExamples":[{"example":"殆","reading":"ほとほと","meaning":"quite, utterly, really, completely"},{"example":"殆ど","reading":"ほとんど","meaning":"almost, nearly, mostly, practically, virtually, basically, just about, all but, hardly, barely, scarcely, little, large majority, large proportion, greater part, most (of), almost all (of)"},{"example":"殆どない","reading":"ほとんどない","meaning":"hardly any, almost nonexistent, very little"}],"radical":{"symbol":"歹","forms":["歺"],"meaning":"death, decay"},"parts":["厶","口","歹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27526_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b86.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b86.gif","uri":"https://jisho.org/search/%E6%AE%86%23kanji"}}
+{
+  "id": "殆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殆",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "almost, quite, really",
+    "kunyomi": [
+      "ほとほと",
+      "ほとん.ど",
+      "あやうい"
+    ],
+    "onyomi": [
+      "タイ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "危殆",
+        "reading": "キタイ",
+        "meaning": "danger, jeopardy, distress"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "殆",
+        "reading": "ほとほと",
+        "meaning": "quite, utterly, really, completely"
+      },
+      {
+        "example": "殆ど",
+        "reading": "ほとんど",
+        "meaning": "almost, nearly, mostly, practically, virtually, basically, just about, all but, hardly, barely, scarcely, little, large majority, large proportion, greater part, most (of), almost all (of)"
+      },
+      {
+        "example": "殆どない",
+        "reading": "ほとんどない",
+        "meaning": "hardly any, almost nonexistent, very little"
+      }
+    ],
+    "radical": {
+      "symbol": "歹",
+      "forms": [
+        "歺"
+      ],
+      "meaning": "death, decay"
+    },
+    "parts": [
+      "厶",
+      "口",
+      "歹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27526_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b86.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b86.gif",
+    "uri": "https://jisho.org/search/%E6%AE%86%23kanji"
+  }
+}

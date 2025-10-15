@@ -1,1 +1,45 @@
-{"id":"笹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"笹","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1743","strokeCount":11,"meaning":"bamboo grass, (kokuji)","kunyomi":["ささ"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"笹","reading":"ささ","meaning":"bamboo grass, generally smaller species of running bamboo that do not shed their sheaths (e.g. Sasa spp.)"},{"example":"笹原","reading":"ささはら","meaning":"field of bamboo grass"}],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["世","乞","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31545_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b39.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b39.gif","uri":"https://jisho.org/search/%E7%AC%B9%23kanji"}}
+{
+  "id": "笹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "笹",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1743",
+    "strokeCount": 11,
+    "meaning": "bamboo grass, (kokuji)",
+    "kunyomi": [
+      "ささ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "笹",
+        "reading": "ささ",
+        "meaning": "bamboo grass, generally smaller species of running bamboo that do not shed their sheaths (e.g. Sasa spp.)"
+      },
+      {
+        "example": "笹原",
+        "reading": "ささはら",
+        "meaning": "field of bamboo grass"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "世",
+      "乞",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31545_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b39.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b39.gif",
+    "uri": "https://jisho.org/search/%E7%AC%B9%23kanji"
+  }
+}

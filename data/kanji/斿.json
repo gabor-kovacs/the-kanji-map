@@ -1,1 +1,31 @@
-{"id":"斿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"斿","found":true,"strokeCount":9,"meaning":"to swim, to move freely, to rove","kunyomi":["はたあし"],"onyomi":["ヨウ","ヨ","リュウ","ル","ユウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"方","meaning":"square"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26047_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065bf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65bf.gif","uri":"https://jisho.org/search/%E6%96%BF%23kanji"}}
+{
+  "id": "斿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斿",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "to swim, to move freely, to rove",
+    "kunyomi": [
+      "はたあし"
+    ],
+    "onyomi": [
+      "ヨウ",
+      "ヨ",
+      "リュウ",
+      "ル",
+      "ユウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "方",
+      "meaning": "square"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26047_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065bf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65bf.gif",
+    "uri": "https://jisho.org/search/%E6%96%BF%23kanji"
+  }
+}

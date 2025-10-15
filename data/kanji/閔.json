@@ -1,1 +1,32 @@
-{"id":"閔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"閔","found":true,"strokeCount":12,"meaning":"grieve, be sad, pity","kunyomi":["あわ.れむ","うれ.える"],"onyomi":["ビン","ミン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"哀れむ","reading":"あわれむ","meaning":"to pity, to feel sympathy for, to sympathize with, to sympathise with, to commiserate with, to have mercy on, to enjoy the beauty of, to appreciate, to admire"}],"radical":{"symbol":"門","meaning":"gate"},"parts":["文","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38292_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09594.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9594.gif","uri":"https://jisho.org/search/%E9%96%94%23kanji"}}
+{
+  "id": "閔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閔",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "grieve, be sad, pity",
+    "kunyomi": [
+      "あわ.れむ",
+      "うれ.える"
+    ],
+    "onyomi": [
+      "ビン",
+      "ミン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "文",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38292_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09594.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9594.gif",
+    "uri": "https://jisho.org/search/%E9%96%94%23kanji"
+  }
+}

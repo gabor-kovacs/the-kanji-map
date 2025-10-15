@@ -1,1 +1,79 @@
-{"id":"壁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壁","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1037","strokeCount":16,"meaning":"wall, lining (stomach), fence","kunyomi":["かべ"],"onyomi":["ヘキ"],"onyomiExamples":[{"example":"壁","reading":"カベ","meaning":"wall, partition, barrier, obstacle, Chinese \"Wall\" constellation (one of the 28 mansions)"},{"example":"壁画","reading":"ヘキガ","meaning":"fresco, mural, wall painting"},{"example":"隔壁","reading":"カクヘキ","meaning":"barrier wall, bulkhead, partition, septum, diaphragm"},{"example":"内壁","reading":"ナイヘキ","meaning":"inner wall"}],"kunyomiExamples":[{"example":"壁","reading":"かべ","meaning":"wall, partition, barrier, obstacle, Chinese \"Wall\" constellation (one of the 28 mansions)"},{"example":"壁掛け","reading":"かべかけ","meaning":"wall-mounted ornament, wall decoration, wall hanging, wall-mounted"},{"example":"白壁","reading":"しらかべ","meaning":"white plaster wall, tofu, bean curd"},{"example":"厚い壁","reading":"あついかべ","meaning":"hard-to-overcome obstacle, high hurdle, thick wall"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["十","口","土","尸","立","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22721_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058c1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58c1.gif","uri":"https://jisho.org/search/%E5%A3%81%23kanji"}}
+{
+  "id": "壁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壁",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1037",
+    "strokeCount": 16,
+    "meaning": "wall, lining (stomach), fence",
+    "kunyomi": [
+      "かべ"
+    ],
+    "onyomi": [
+      "ヘキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壁",
+        "reading": "カベ",
+        "meaning": "wall, partition, barrier, obstacle, hindrance, difficulty, Chinese \"Wall\" constellation (one of the 28 mansions)"
+      },
+      {
+        "example": "壁画",
+        "reading": "ヘキガ",
+        "meaning": "fresco, mural, wall painting"
+      },
+      {
+        "example": "隔壁",
+        "reading": "カクヘキ",
+        "meaning": "barrier wall, bulkhead, partition, septum, diaphragm"
+      },
+      {
+        "example": "内壁",
+        "reading": "ナイヘキ",
+        "meaning": "inner wall"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "壁",
+        "reading": "かべ",
+        "meaning": "wall, partition, barrier, obstacle, hindrance, difficulty, Chinese \"Wall\" constellation (one of the 28 mansions)"
+      },
+      {
+        "example": "壁掛け",
+        "reading": "かべかけ",
+        "meaning": "wall-mounted ornament, wall decoration, wall hanging, wall-mounted"
+      },
+      {
+        "example": "白壁",
+        "reading": "しらかべ",
+        "meaning": "white plaster wall, tofu, bean curd"
+      },
+      {
+        "example": "厚い壁",
+        "reading": "あついかべ",
+        "meaning": "hard-to-overcome obstacle, high hurdle, thick wall"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "十",
+      "口",
+      "土",
+      "尸",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22721_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58c1.gif",
+    "uri": "https://jisho.org/search/%E5%A3%81%23kanji"
+  }
+}

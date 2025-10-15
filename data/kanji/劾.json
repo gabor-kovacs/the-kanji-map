@@ -1,1 +1,45 @@
-{"id":"劾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"劾","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2085","strokeCount":8,"meaning":"censure, criminal investigation","kunyomi":[],"onyomi":["ガイ"],"onyomiExamples":[{"example":"劾奏","reading":"ガイソウ","meaning":"report of an official's offence to the emperor (offense)"},{"example":"弾劾","reading":"ダンガイ","meaning":"impeachment, denunciation, accusation, censure, arraignment"}],"kunyomiExamples":[],"radical":{"symbol":"力","meaning":"power, force"},"parts":["ノ","丶","亠","人","力"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21182_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052be.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52be.gif","uri":"https://jisho.org/search/%E5%8A%BE%23kanji"}}
+{
+  "id": "劾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "劾",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2085",
+    "strokeCount": 8,
+    "meaning": "censure, criminal investigation",
+    "kunyomi": [],
+    "onyomi": [
+      "ガイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "劾奏",
+        "reading": "ガイソウ",
+        "meaning": "report of an official's offence to the emperor (offense)"
+      },
+      {
+        "example": "弾劾",
+        "reading": "ダンガイ",
+        "meaning": "impeachment, denunciation, accusation, censure, arraignment"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人",
+      "力"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21182_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052be.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52be.gif",
+    "uri": "https://jisho.org/search/%E5%8A%BE%23kanji"
+  }
+}

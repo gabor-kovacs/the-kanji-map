@@ -1,1 +1,44 @@
-{"id":"釋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"釋","found":true,"strokeCount":20,"meaning":"explain","kunyomi":["とく","す.てる","ゆる.す"],"onyomi":["シャク","セキ"],"onyomiExamples":[{"example":"釈義","reading":"シャクギ","meaning":"exegesis, explanation of a text, commentary on a text"}],"kunyomiExamples":[],"radical":{"symbol":"釆","meaning":"divide, distinguish, choose"},"parts":["亠","十","立","米","買","辛","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37323_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091cb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91cb.gif","uri":"https://jisho.org/search/%E9%87%8B%23kanji"}}
+{
+  "id": "釋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "釋",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "explain",
+    "kunyomi": [
+      "とく",
+      "す.てる",
+      "ゆる.す"
+    ],
+    "onyomi": [
+      "シャク",
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "釈義",
+        "reading": "シャクギ",
+        "meaning": "exegesis, explanation of a text, commentary on a text"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "釆",
+      "meaning": "divide, distinguish, choose"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "立",
+      "米",
+      "買",
+      "辛",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37323_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091cb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91cb.gif",
+    "uri": "https://jisho.org/search/%E9%87%8B%23kanji"
+  }
+}

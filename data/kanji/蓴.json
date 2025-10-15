@@ -1,1 +1,44 @@
-{"id":"蓴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蓴","found":true,"strokeCount":14,"meaning":"type of water plant","kunyomi":["ぬなわ"],"onyomi":["シュン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"沼縄","reading":"ぬなわ","meaning":"water shield (Brasenia schreberi)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","十","寸","日","田","艾","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34036_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084f4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84f4.gif","uri":"https://jisho.org/search/%E8%93%B4%23kanji"}}
+{
+  "id": "蓴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓴",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "type of water plant",
+    "kunyomi": [
+      "ぬなわ"
+    ],
+    "onyomi": [
+      "シュン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "沼縄",
+        "reading": "ぬなわ",
+        "meaning": "water shield (Brasenia schreberi)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "十",
+      "寸",
+      "日",
+      "田",
+      "艾",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34036_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084f4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84f4.gif",
+    "uri": "https://jisho.org/search/%E8%93%B4%23kanji"
+  }
+}

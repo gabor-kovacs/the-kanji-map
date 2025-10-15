@@ -1,1 +1,40 @@
-{"id":"奧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"奧","found":true,"strokeCount":13,"meaning":"heart, interior","kunyomi":["おく.まる","くま"],"onyomi":["オウ","オク"],"onyomiExamples":[{"example":"奥","reading":"オク","meaning":"inner part, inside, interior, depths (e.g. of a forest), back (of a house, drawer, etc.), bottom (e.g. of one's heart), recesses, heart"}],"kunyomiExamples":[],"radical":{"symbol":"大","meaning":"big, very"},"parts":["冂","大","米","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22887_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05967.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5967.gif","uri":"https://jisho.org/search/%E5%A5%A7%23kanji"}}
+{
+  "id": "奧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奧",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "heart, interior",
+    "kunyomi": [
+      "おく.まる",
+      "くま"
+    ],
+    "onyomi": [
+      "オウ",
+      "オク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奥",
+        "reading": "オク",
+        "meaning": "inner part, interior, back (of a drawer, one's throat, etc.), depths (e.g. of a forest), recesses (e.g. of a cave), heart, end (of a road, garden, etc.), living quarters (at the back of a house), inner room, recesses (of one's mind), bottom (of one's heart), behind (someone's words), mysteries (of an art)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "冂",
+      "大",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22887_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05967.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5967.gif",
+    "uri": "https://jisho.org/search/%E5%A5%A7%23kanji"
+  }
+}

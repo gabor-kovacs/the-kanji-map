@@ -1,1 +1,46 @@
-{"id":"澳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"澳","found":true,"strokeCount":16,"meaning":"curving shoreline, bend in river","kunyomi":["おき","くま"],"onyomi":["オウ","イク","オク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"沖","reading":"おき","meaning":"open sea, Okinawa"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["冂","大","汁","米","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28595_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fb3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fb3.gif","uri":"https://jisho.org/search/%E6%BE%B3%23kanji"}}
+{
+  "id": "澳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "澳",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "curving shoreline, bend in river",
+    "kunyomi": [
+      "おき",
+      "くま"
+    ],
+    "onyomi": [
+      "オウ",
+      "イク",
+      "オク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "沖",
+        "reading": "おき",
+        "meaning": "open sea, Okinawa"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "冂",
+      "大",
+      "汁",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28595_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fb3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fb3.gif",
+    "uri": "https://jisho.org/search/%E6%BE%B3%23kanji"
+  }
+}

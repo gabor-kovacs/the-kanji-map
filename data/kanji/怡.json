@@ -1,1 +1,51 @@
-{"id":"怡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"怡","found":true,"strokeCount":8,"meaning":"rejoice, enjoy","kunyomi":["よろこ.ぶ"],"onyomi":["イ"],"onyomiExamples":[{"example":"怡々","reading":"イイ","meaning":"having fun, rejoicing"},{"example":"怡悦","reading":"イエツ","meaning":"rejoicing"},{"example":"怡々","reading":"イイ","meaning":"having fun, rejoicing"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["厶","口","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24609_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06021.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6021.gif","uri":"https://jisho.org/search/%E6%80%A1%23kanji"}}
+{
+  "id": "怡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "怡",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "rejoice, enjoy",
+    "kunyomi": [
+      "よろこ.ぶ"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "怡々",
+        "reading": "イイ",
+        "meaning": "having fun, rejoicing"
+      },
+      {
+        "example": "怡悦",
+        "reading": "イエツ",
+        "meaning": "rejoicing"
+      },
+      {
+        "example": "怡々",
+        "reading": "イイ",
+        "meaning": "having fun, rejoicing"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "厶",
+      "口",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24609_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06021.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6021.gif",
+    "uri": "https://jisho.org/search/%E6%80%A1%23kanji"
+  }
+}

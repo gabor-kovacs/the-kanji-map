@@ -1,1 +1,63 @@
-{"id":"契","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"契","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"898","strokeCount":9,"meaning":"pledge, promise, vow","kunyomi":["ちぎ.る"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"契約","reading":"ケイヤク","meaning":"contract, compact, agreement"},{"example":"契機","reading":"ケイキ","meaning":"opportunity, chance, trigger, cause"},{"example":"幽契","reading":"ユウケイ","meaning":"secret promise made to the gods"},{"example":"黙契","reading":"モッケイ","meaning":"implicit agreement, tacit understanding"}],"kunyomiExamples":[{"example":"契る","reading":"ちぎる","meaning":"to pledge, to vow, to promise, to swear, to have sexual intercourse (esp. between husband and wife), to share a bed"}],"radical":{"symbol":"大","meaning":"big, very"},"parts":["二","亠","刀","土","大"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22865_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05951.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5951.gif","uri":"https://jisho.org/search/%E5%A5%91%23kanji"}}
+{
+  "id": "契",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "契",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "898",
+    "strokeCount": 9,
+    "meaning": "pledge, promise, vow",
+    "kunyomi": [
+      "ちぎ.る"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "契約",
+        "reading": "ケイヤク",
+        "meaning": "contract, compact, agreement"
+      },
+      {
+        "example": "契機",
+        "reading": "ケイキ",
+        "meaning": "opportunity, chance, trigger, cause"
+      },
+      {
+        "example": "幽契",
+        "reading": "ユウケイ",
+        "meaning": "secret promise made to the gods"
+      },
+      {
+        "example": "黙契",
+        "reading": "モッケイ",
+        "meaning": "implicit agreement, tacit understanding"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "契る",
+        "reading": "ちぎる",
+        "meaning": "to pledge, to vow, to promise, to swear, to have sexual intercourse (esp. between husband and wife), to share a bed"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "刀",
+      "土",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22865_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05951.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5951.gif",
+    "uri": "https://jisho.org/search/%E5%A5%91%23kanji"
+  }
+}

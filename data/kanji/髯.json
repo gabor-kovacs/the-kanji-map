@@ -1,1 +1,68 @@
-{"id":"髯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"髯","found":true,"strokeCount":15,"meaning":"beard, mustache","kunyomi":["ひげ"],"onyomi":["ゼン"],"onyomiExamples":[{"example":"肉髯","reading":"ニクゼン","meaning":"wattle (of a bird's neck)"},{"example":"白髯","reading":"ハクゼン","meaning":"white beard"}],"kunyomiExamples":[{"example":"髭","reading":"ひげ","meaning":"moustache, beard, whiskers, whiskers (on a cat, etc.), feelers (on an insect, etc.), (chin) tuft, shadow (on a candlestick chart)"},{"example":"髯発条","reading":"ひげぜんまい","meaning":"balance spring, hairspring"},{"example":"青髯","reading":"あおひげ","meaning":"use of blue eyebrow pencil to indicate a character has shaved his cheeks (in kabuki)"},{"example":"頬髭","reading":"ほおひげ","meaning":"whiskers, sideburns, sideboards"}],"radical":{"symbol":"髟","meaning":"long hair"},"parts":["一","冂","十","厶","彡","長","髟","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39663_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09aef.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9aef.gif","uri":"https://jisho.org/search/%E9%AB%AF%23kanji"}}
+{
+  "id": "髯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "髯",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "beard, mustache",
+    "kunyomi": [
+      "ひげ"
+    ],
+    "onyomi": [
+      "ゼン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肉髯",
+        "reading": "ニクゼン",
+        "meaning": "wattle (of a bird's neck)"
+      },
+      {
+        "example": "白髯",
+        "reading": "ハクゼン",
+        "meaning": "white beard"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "髭",
+        "reading": "ひげ",
+        "meaning": "moustache, mustache, beard, whiskers, sideburns, whiskers (on a cat, etc.), feelers (on an insect, etc.), (chin) tuft, shadow (on a candlestick chart)"
+      },
+      {
+        "example": "髯発条",
+        "reading": "ひげぜんまい",
+        "meaning": "balance spring, hairspring"
+      },
+      {
+        "example": "青ひげ",
+        "reading": "あおひげ",
+        "meaning": "use of blue eyebrow pencil to indicate a character has shaved his cheeks"
+      },
+      {
+        "example": "頬髭",
+        "reading": "ほおひげ",
+        "meaning": "whiskers, sideburns, sideboards"
+      }
+    ],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "long hair"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "十",
+      "厶",
+      "彡",
+      "長",
+      "髟",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39663_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09aef.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9aef.gif",
+    "uri": "https://jisho.org/search/%E9%AB%AF%23kanji"
+  }
+}

@@ -1,1 +1,74 @@
-{"id":"杖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"杖","found":true,"newspaperFrequencyRank":"2387","strokeCount":7,"meaning":"staff, cane","kunyomi":["つえ"],"onyomi":["ジョウ"],"onyomiExamples":[{"example":"杖","reading":"ジョウ","meaning":"public caning (60-100 strokes; second least severe of the five ritsuryō punishments)"},{"example":"杖鼓","reading":"ジョウコ","meaning":"janggu (Korean hourglass drum), janggo, changgo"},{"example":"金剛杖","reading":"コンゴウヅエ","meaning":"pilgrim's staff"},{"example":"手杖","reading":"シュジョウ","meaning":"staff (esp. one used by a monk, e.g. as a walking stick during a pilgrimage)"}],"kunyomiExamples":[{"example":"杖","reading":"つえ","meaning":"cane, walking stick, staff, wand"},{"example":"杖状","reading":"つえじょう","meaning":"staff-shaped"},{"example":"魔法の杖","reading":"まほうのつえ","meaning":"magic wand"},{"example":"転ばぬ先の杖","reading":"ころばぬさきのつえ","meaning":"prevention is better than cure, an ounce of prevention is worth a pound of cure, look before you leap, forewarned is forearmed, a stitch in time saves nine, a walking stick before stumbling"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ノ","一","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26454_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06756.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6756.gif","uri":"https://jisho.org/search/%E6%9D%96%23kanji"}}
+{
+  "id": "杖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杖",
+    "found": true,
+    "newspaperFrequencyRank": "2387",
+    "strokeCount": 7,
+    "meaning": "staff, cane",
+    "kunyomi": [
+      "つえ"
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "杖",
+        "reading": "ジョウ",
+        "meaning": "public caning (60-100 strokes; second least severe of the five ritsuryō punishments)"
+      },
+      {
+        "example": "杖鼓",
+        "reading": "ジョウコ",
+        "meaning": "janggu (Korean hourglass drum), janggo, changgo"
+      },
+      {
+        "example": "聖杖",
+        "reading": "セイジョウ",
+        "meaning": "holy staff, sacred staff"
+      },
+      {
+        "example": "金剛杖",
+        "reading": "コンゴウヅエ",
+        "meaning": "pilgrim's staff"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "杖",
+        "reading": "つえ",
+        "meaning": "cane, walking stick, staff, wand"
+      },
+      {
+        "example": "杖状",
+        "reading": "つえじょう",
+        "meaning": "staff-shaped"
+      },
+      {
+        "example": "魔法の杖",
+        "reading": "まほうのつえ",
+        "meaning": "magic wand"
+      },
+      {
+        "example": "転ばぬ先の杖",
+        "reading": "ころばぬさきのつえ",
+        "meaning": "prevention is better than cure, an ounce of prevention is worth a pound of cure, look before you leap, forewarned is forearmed, a stitch in time saves nine, a walking stick before stumbling"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26454_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06756.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6756.gif",
+    "uri": "https://jisho.org/search/%E6%9D%96%23kanji"
+  }
+}

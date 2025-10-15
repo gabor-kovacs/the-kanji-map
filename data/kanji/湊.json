@@ -1,1 +1,56 @@
-{"id":"湊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"湊","found":true,"newspaperFrequencyRank":"2222","strokeCount":12,"meaning":"port, harbor","kunyomi":["みなと","あつ.まる"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"輻輳","reading":"フクソウ","meaning":"congestion (e.g. traffic), overcrowding, convergence (esp. optical)"}],"kunyomiExamples":[{"example":"港","reading":"みなと","meaning":"harbour, harbor, port"},{"example":"春の湊","reading":"はるのみなと","meaning":"end of spring"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","二","人","大","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28234_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e4a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e4a.gif","uri":"https://jisho.org/search/%E6%B9%8A%23kanji"}}
+{
+  "id": "湊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "湊",
+    "found": true,
+    "newspaperFrequencyRank": "2222",
+    "strokeCount": 12,
+    "meaning": "port, harbor",
+    "kunyomi": [
+      "みなと",
+      "あつ.まる"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "輻輳",
+        "reading": "フクソウ",
+        "meaning": "congestion (e.g. traffic), overcrowding, convergence (esp. optical)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "港",
+        "reading": "みなと",
+        "meaning": "harbour, harbor, port"
+      },
+      {
+        "example": "春の湊",
+        "reading": "はるのみなと",
+        "meaning": "end of spring"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "二",
+      "人",
+      "大",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28234_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e4a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e4a.gif",
+    "uri": "https://jisho.org/search/%E6%B9%8A%23kanji"
+  }
+}

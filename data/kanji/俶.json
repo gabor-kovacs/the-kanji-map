@@ -1,1 +1,43 @@
-{"id":"俶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"俶","found":true,"strokeCount":10,"meaning":"beginning, good, excel","kunyomi":["はじめ","よい"],"onyomi":["シュク","テキ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","卜","又","小"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20470_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ff6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ff6.gif","uri":"https://jisho.org/search/%E4%BF%B6%23kanji"}}
+{
+  "id": "俶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "俶",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "beginning, good, excel",
+    "kunyomi": [
+      "はじめ",
+      "よい"
+    ],
+    "onyomi": [
+      "シュク",
+      "テキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "倜儻",
+        "reading": "テキトウ",
+        "meaning": "being exceedingly wiser than the common man"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "卜",
+      "又",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20470_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ff6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ff6.gif",
+    "uri": "https://jisho.org/search/%E4%BF%B6%23kanji"
+  }
+}

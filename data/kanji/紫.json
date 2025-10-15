@@ -1,1 +1,81 @@
-{"id":"紫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"紫","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1516","strokeCount":12,"meaning":"purple, violet","kunyomi":["むらさき"],"onyomi":["シ"],"onyomiExamples":[{"example":"紫色","reading":"ムラサキイロ","meaning":"purple, violet"},{"example":"紫外線","reading":"シガイセン","meaning":"ultraviolet rays, ultraviolet radiation"},{"example":"紅紫","reading":"コウシ","meaning":"crimson and purple, red-purple, magenta"},{"example":"九紫","reading":"キュウシ","meaning":"ninth of nine traditional astrological signs (corresponding to Mars and south)"}],"kunyomiExamples":[{"example":"紫","reading":"むらさき","meaning":"purple, violet, Lithospermum erythrorhizon (species of gromwell), type of soy sauce"},{"example":"紫色","reading":"むらさきいろ","meaning":"purple, violet"},{"example":"貝紫","reading":"かいむらさき","meaning":"Tyrian purple"},{"example":"古代紫","reading":"こだいむらさき","meaning":"reddish-purple"}],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["匕","小","幺","止","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32043_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d2b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d2b.gif","uri":"https://jisho.org/search/%E7%B4%AB%23kanji"}}
+{
+  "id": "紫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "紫",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1516",
+    "strokeCount": 12,
+    "meaning": "purple, violet",
+    "kunyomi": [
+      "むらさき"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "紫色",
+        "reading": "ムラサキイロ",
+        "meaning": "purple, violet"
+      },
+      {
+        "example": "紫外線",
+        "reading": "シガイセン",
+        "meaning": "ultraviolet rays, ultraviolet radiation"
+      },
+      {
+        "example": "紅紫",
+        "reading": "コウシ",
+        "meaning": "crimson and purple, red-purple, magenta"
+      },
+      {
+        "example": "九紫",
+        "reading": "キュウシ",
+        "meaning": "ninth of nine traditional astrological signs (corresponding to Mars and south)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "紫",
+        "reading": "むらさき",
+        "meaning": "purple, violet, purple gromwell (Lithospermum erythrorhizon), red gromwell, red-root gromwell, soy sauce"
+      },
+      {
+        "example": "紫色",
+        "reading": "むらさきいろ",
+        "meaning": "purple, violet"
+      },
+      {
+        "example": "貝紫",
+        "reading": "かいむらさき",
+        "meaning": "Tyrian purple"
+      },
+      {
+        "example": "古代紫",
+        "reading": "こだいむらさき",
+        "meaning": "reddish-purple"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "匕",
+      "小",
+      "幺",
+      "止",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32043_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d2b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d2b.gif",
+    "uri": "https://jisho.org/search/%E7%B4%AB%23kanji"
+  }
+}

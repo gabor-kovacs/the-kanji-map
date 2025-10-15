@@ -1,1 +1,89 @@
-{"id":"厨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"厨","found":true,"newspaperFrequencyRank":"2425","strokeCount":12,"meaning":"kitchen","kunyomi":["くりや"],"onyomi":["シュウ","ズ","チュ","チュウ"],"onyomiExamples":[{"example":"厨子","reading":"ズシ","meaning":"miniature shrine with double doors (used to store important Buddhist items such as sutras, etc.), cabinet with double doors (used by the nobility to store books, etc.), (in Okinawa) carved and decorated stone container for storing the bones of one's ancestors"},{"example":"厨子甕","reading":"ズシガメ","meaning":"decorated pottery container for storing the bones of one's ancestors (Okinawa)"},{"example":"厨","reading":"チュウ","meaning":"(Internet) troll, nerd, freak, addict, fag"},{"example":"厨房","reading":"チュウボウ","meaning":"kitchen, galley, (Internet) troll"},{"example":"厨","reading":"チュウ","meaning":"(Internet) troll, nerd, freak, addict, fag"},{"example":"厨房","reading":"チュウボウ","meaning":"kitchen, galley, (Internet) troll"},{"example":"出会い厨","reading":"デアイチュウ","meaning":"person who attends meetups or uses social media to proposition people for sex"},{"example":"海外厨","reading":"カイガイチュウ","meaning":"person who argues that everything is better abroad (esp. football), self-hating Japanese"}],"kunyomiExamples":[{"example":"厨","reading":"くりや","meaning":"kitchen"},{"example":"厨人","reading":"ちゅうじん","meaning":"chef, head cook"}],"radical":{"symbol":"厂","meaning":"cliff"},"parts":["厂","口","寸","并","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21416_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053a8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53a8.gif","uri":"https://jisho.org/search/%E5%8E%A8%23kanji"}}
+{
+  "id": "厨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "厨",
+    "found": true,
+    "newspaperFrequencyRank": "2425",
+    "strokeCount": 12,
+    "meaning": "kitchen",
+    "kunyomi": [
+      "くりや"
+    ],
+    "onyomi": [
+      "シュウ",
+      "ズ",
+      "チュ",
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "厨子",
+        "reading": "ズシ",
+        "meaning": "miniature shrine with double doors (used to store important Buddhist items such as sutras, etc.), cabinet with double doors (used by the nobility to store books, etc.), carved and decorated stone container for storing the bones of one's ancestors (in Okinawa)"
+      },
+      {
+        "example": "厨子甕",
+        "reading": "ズシガメ",
+        "meaning": "decorated pottery container for storing the bones of one's ancestors (Okinawa)"
+      },
+      {
+        "example": "厨",
+        "reading": "チュウ",
+        "meaning": "(Internet) troll, nerd, freak, addict, fag"
+      },
+      {
+        "example": "厨房",
+        "reading": "チュウボウ",
+        "meaning": "kitchen, galley, (Internet) troll"
+      },
+      {
+        "example": "厨",
+        "reading": "チュウ",
+        "meaning": "(Internet) troll, nerd, freak, addict, fag"
+      },
+      {
+        "example": "厨房",
+        "reading": "チュウボウ",
+        "meaning": "kitchen, galley, (Internet) troll"
+      },
+      {
+        "example": "出会い厨",
+        "reading": "デアイチュウ",
+        "meaning": "person who attends meetups or uses social media to proposition people for sex"
+      },
+      {
+        "example": "海外厨",
+        "reading": "カイガイチュウ",
+        "meaning": "person who argues that everything is better abroad (esp. football), self-hating Japanese"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "厨",
+        "reading": "くりや",
+        "meaning": "kitchen"
+      },
+      {
+        "example": "厨人",
+        "reading": "ちゅうじん",
+        "meaning": "chef, head cook"
+      }
+    ],
+    "radical": {
+      "symbol": "厂",
+      "meaning": "cliff"
+    },
+    "parts": [
+      "厂",
+      "口",
+      "寸",
+      "并",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21416_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53a8.gif",
+    "uri": "https://jisho.org/search/%E5%8E%A8%23kanji"
+  }
+}

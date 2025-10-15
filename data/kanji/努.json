@@ -1,1 +1,269 @@
-{"id":"努","kanjialiveData":{"kanji":{"character":"努","meaning":{"english":"exert, make efforts, strive"},"strokes":{"count":7,"timings":[0,1.733333,3.2,4.266667,5.933333,7.466667,9.4,12.4],"images":["https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_1.svg","https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_2.svg","https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_3.svg","https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_4.svg","https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_5.svg","https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_6.svg","https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_7.svg"]},"onyomi":{"romaji":"do","katakana":"ド"},"kunyomi":{"romaji":"tsuto, tsutomeru, tsutomete","hiragana":"つと"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/do-tsuto(meru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/do-tsuto(meru)_00.webm"}},"radical":{"character":"⼒","strokes":2,"image":"https://media.kanjialive.com/radical_character/chikara.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"ちから","romaji":"chikara"},"meaning":{"english":"power"},"animation":["https://media.kanjialive.com/rad_frames/chikara0.svg","https://media.kanjialive.com/rad_frames/chikara1.svg","https://media.kanjialive.com/rad_frames/chikara2.svg"]},"references":{"grade":4,"kodansha":"1618","classic_nelson":"717"},"examples":[{"japanese":"努力家（どりょくか）","meaning":{"english":"hard worker"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/do-tsuto(meru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/do-tsuto(meru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/do-tsuto(meru)_06_a.mp3"}},{"japanese":"努力賞（どりょくしょう）","meaning":{"english":"awarded for a person's effort"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/do-tsuto(meru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/do-tsuto(meru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/do-tsuto(meru)_06_b.mp3"}},{"japanese":"努力する（どりょくする）","meaning":{"english":"exert oneself, strive"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/do-tsuto(meru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/do-tsuto(meru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/do-tsuto(meru)_06_c.mp3"}},{"japanese":"努める（つとめる）","meaning":{"english":"work, strive, exert oneself"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/do-tsuto(meru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/do-tsuto(meru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/do-tsuto(meru)_06_d.mp3"}}]},"jishoData":{"query":"努","found":true,"taughtIn":"grade 4","jlptLevel":"N3","newspaperFrequencyRank":"749","strokeCount":7,"meaning":"toil, diligent, as much as possible","kunyomi":["つと.める"],"onyomi":["ド"],"onyomiExamples":[{"example":"努","reading":"ド","meaning":"third principle of the Eight Principles of Yong, downward stroke"},{"example":"努力","reading":"ドリョク","meaning":"effort, exertion, endeavour, endeavor, hard work, striving"}],"kunyomiExamples":[{"example":"努める","reading":"つとめる","meaning":"to endeavor (to do), to endeavour, to try, to strive, to make an effort, to exert oneself, to be committed (to doing)"}],"radical":{"symbol":"力","meaning":"power, force"},"parts":["力","又","女"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21162_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052aa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52aa.gif","uri":"https://jisho.org/search/%E5%8A%AA%23kanji"}}
+{
+  "id": "努",
+  "kanjialiveData": {
+    "_id": "54317b04791eba5146ee4bde",
+    "_rev": "10-8fef611dd5b9895f6640ad2934c4c0cf",
+    "rad_name_ja": "ちから",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "tsuto, tsutomeru, tsutomete",
+    "meaning": "exert, make efforts, strive",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "努力家（どりょくか）",
+        "meaning": {
+          "english": "hard worker"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/do-tsuto(meru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/do-tsuto(meru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/do-tsuto(meru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "努力賞（どりょくしょう）",
+        "meaning": {
+          "english": "awarded for a person's effort"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/do-tsuto(meru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/do-tsuto(meru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/do-tsuto(meru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "努力する（どりょくする）",
+        "meaning": {
+          "english": "exert oneself, strive"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/do-tsuto(meru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/do-tsuto(meru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/do-tsuto(meru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "努める（つとめる）",
+        "meaning": {
+          "english": "work, strive, exert oneself"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/do-tsuto(meru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/do-tsuto(meru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/do-tsuto(meru)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "つと、つとめる、つとめて",
+    "ka_utf": "努",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=努",
+    "kname": "do-tsuto(meru)",
+    "rad_order": 24,
+    "txt_books": [
+      {
+        "chapter": "16",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "chikara"
+    ],
+    "rad_utf": "⼒",
+    "stroketimes": [
+      0,
+      1.733333,
+      3.2,
+      4.266667,
+      5.933333,
+      7.466667,
+      9.4,
+      12.4
+    ],
+    "kunyomi_ka_display": "つと",
+    "dick": "1618",
+    "rad_name": "chikara",
+    "dicn": "717",
+    "mn_hint": "Woman 女 using hand 又 and ability 力 striving to succeed.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ド",
+    "rad_meaning": "power",
+    "onyomi": "do",
+    "ka_id": "ka_757",
+    "onyomi_search": [
+      "do",
+      "do"
+    ],
+    "kunyomi_search": [
+      "tsuto",
+      "tsutomeru",
+      "tsutomete",
+      "tsuto, tsutomeru, tsutomete"
+    ],
+    "meaning_search": [
+      "exert",
+      "make efforts",
+      "make",
+      "efforts",
+      "strive",
+      "exert, make efforts, strive"
+    ],
+    "onyomi_ja_search": [
+      "ド",
+      "ド"
+    ],
+    "kunyomi_ja_search": [
+      "つと",
+      "つとめる",
+      "つとめて",
+      "つと、つとめる、つとめて"
+    ],
+    "rad_meaning_search": [
+      "power",
+      "power"
+    ],
+    "rad_name_ja_search": [
+      "ちから"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:16",
+      "ij:c16",
+      "ik1",
+      "ik1:9",
+      "ik1:c9"
+    ],
+    "rad_name_file": "chikara",
+    "kanji": {
+      "character": "努",
+      "meaning": {
+        "english": "exert, make efforts, strive"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.733333,
+          3.2,
+          4.266667,
+          5.933333,
+          7.466667,
+          9.4,
+          12.4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "do",
+        "katakana": "ド"
+      },
+      "kunyomi": {
+        "romaji": "tsuto, tsutomeru, tsutomete",
+        "hiragana": "つと"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/do-tsuto(meru)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/do-tsuto(meru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/do-tsuto(meru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼒",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/chikara.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ちから",
+        "romaji": "chikara"
+      },
+      "meaning": {
+        "english": "power"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/chikara0.svg",
+        "https://media.kanjialive.com/rad_frames/chikara1.svg",
+        "https://media.kanjialive.com/rad_frames/chikara2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "1618",
+      "classic_nelson": "717"
+    }
+  },
+  "jishoData": {
+    "query": "努",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "749",
+    "strokeCount": 7,
+    "meaning": "toil, diligent, as much as possible",
+    "kunyomi": [
+      "つと.める"
+    ],
+    "onyomi": [
+      "ド"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "努",
+        "reading": "ド",
+        "meaning": "third principle of the Eight Principles of Yong, downward stroke"
+      },
+      {
+        "example": "努力",
+        "reading": "ドリョク",
+        "meaning": "effort, exertion, endeavour, endeavor, hard work, striving"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "努める",
+        "reading": "つとめる",
+        "meaning": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing)"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "力",
+      "又",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21162_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052aa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52aa.gif",
+    "uri": "https://jisho.org/search/%E5%8A%AA%23kanji"
+  }
+}

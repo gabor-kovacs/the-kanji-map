@@ -1,1 +1,69 @@
-{"id":"桂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"桂","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1651","strokeCount":10,"meaning":"Japanese Judas-tree, cinnamon tree","kunyomi":["かつら"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"桂","reading":"ケイ","meaning":"knight"},{"example":"桂林","reading":"ケイリン","meaning":"katsura forest, beautiful forest"},{"example":"月桂","reading":"ゲッケイ","meaning":"bay laurel (Laurus nobilis), bay tree, sweet bay, laurel tree, moon, moonlight, katsura tree on the moon (in Chinese legends)"},{"example":"肉桂","reading":"ニッケイ","meaning":"cinnamon, cinnamon tree (Cinnamomum sieboldii)"}],"kunyomiExamples":[{"example":"桂","reading":"かつら","meaning":"katsura (Cercidiphyllum japonicum), Japanese Judas tree"},{"example":"桂男","reading":"かつらおとこ","meaning":"man in the moon"},{"example":"広葉桂","reading":"ひろはかつら","meaning":"Cercidiphyllum magnificum (species of katsura)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["土","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26690_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06842.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6842.gif","uri":"https://jisho.org/search/%E6%A1%82%23kanji"}}
+{
+  "id": "桂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桂",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1651",
+    "strokeCount": 10,
+    "meaning": "Japanese Judas-tree, cinnamon tree",
+    "kunyomi": [
+      "かつら"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桂",
+        "reading": "ケイ",
+        "meaning": "knight"
+      },
+      {
+        "example": "桂庵",
+        "reading": "ケイアン",
+        "meaning": "agency for employing servants and arranging marriages (Edo period), mediator, go-between, flattery, flatterer, Keian era (1648.2.15-1652.9.18)"
+      },
+      {
+        "example": "月桂",
+        "reading": "ゲッケイ",
+        "meaning": "bay laurel (Laurus nobilis), bay tree, sweet bay, laurel tree, moon, moonlight, katsura tree on the moon (in Chinese legends)"
+      },
+      {
+        "example": "肉桂",
+        "reading": "ニッケイ",
+        "meaning": "cinnamon, cinnamon tree (Cinnamomum sieboldii)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "桂",
+        "reading": "かつら",
+        "meaning": "katsura (Cercidiphyllum japonicum), Japanese Judas tree"
+      },
+      {
+        "example": "桂男",
+        "reading": "かつらおとこ",
+        "meaning": "man in the moon"
+      },
+      {
+        "example": "広葉桂",
+        "reading": "ひろはかつら",
+        "meaning": "Cercidiphyllum magnificum (species of katsura)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "土",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26690_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06842.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6842.gif",
+    "uri": "https://jisho.org/search/%E6%A1%82%23kanji"
+  }
+}

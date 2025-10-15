@@ -1,1 +1,66 @@
-{"id":"薔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"薔","found":true,"newspaperFrequencyRank":"2356","strokeCount":16,"meaning":"water pepper","kunyomi":["みずたで"],"onyomi":["バ","ショウ","ショク","ソウ"],"onyomiExamples":[{"example":"薔薇","reading":"バラ","meaning":"rose"},{"example":"バラ色","reading":"バライロ","meaning":"rose-colour, rose-color, bright (e.g. life, future, prospects), cheerful, rosy"},{"example":"薔薇","reading":"バラ","meaning":"rose"},{"example":"薔薇","reading":"バラ","meaning":"rose"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["人","口","囗","土","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34196_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08594.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8594.gif","uri":"https://jisho.org/search/%E8%96%94%23kanji"}}
+{
+  "id": "薔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薔",
+    "found": true,
+    "newspaperFrequencyRank": "2356",
+    "strokeCount": 16,
+    "meaning": "water pepper",
+    "kunyomi": [
+      "みずたで"
+    ],
+    "onyomi": [
+      "バ",
+      "ショウ",
+      "ショク",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "薔薇",
+        "reading": "バラ",
+        "meaning": "rose"
+      },
+      {
+        "example": "バラ色",
+        "reading": "バライロ",
+        "meaning": "rose-colour, rose-color, bright (e.g. life, future, prospects), cheerful, rosy"
+      },
+      {
+        "example": "薔薇",
+        "reading": "バラ",
+        "meaning": "rose"
+      },
+      {
+        "example": "バラ油",
+        "reading": "バラユ",
+        "meaning": "rose oil, rose otto"
+      },
+      {
+        "example": "薔薇",
+        "reading": "バラ",
+        "meaning": "rose"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "人",
+      "口",
+      "囗",
+      "土",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34196_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08594.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8594.gif",
+    "uri": "https://jisho.org/search/%E8%96%94%23kanji"
+  }
+}

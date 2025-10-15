@@ -1,1 +1,79 @@
-{"id":"鋳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鋳","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2005","strokeCount":15,"meaning":"casting, mint","kunyomi":["い.る"],"onyomi":["チュウ","イ","シュ","シュウ"],"onyomiExamples":[{"example":"鋳造","reading":"チュウゾウ","meaning":"casting, founding, minting"},{"example":"鋳貨","reading":"チュウカ","meaning":"coinage, mintage"},{"example":"改鋳","reading":"カイチュウ","meaning":"reminting, recasting"},{"example":"再鋳","reading":"サイチュウ","meaning":"recasting"},{"example":"鋳物","reading":"イモノ","meaning":"casting, cast-metal object"},{"example":"鋳型","reading":"イガタ","meaning":"mold, mould, template"}],"kunyomiExamples":[{"example":"鋳る","reading":"いる","meaning":"to cast, to mint, to coin"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ノ","亠","土","寸","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37619_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092f3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92f3.gif","uri":"https://jisho.org/search/%E9%8B%B3%23kanji"}}
+{
+  "id": "鋳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鋳",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2005",
+    "strokeCount": 15,
+    "meaning": "casting, mint",
+    "kunyomi": [
+      "い.る"
+    ],
+    "onyomi": [
+      "チュウ",
+      "イ",
+      "シュ",
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鋳造",
+        "reading": "チュウゾウ",
+        "meaning": "casting, founding, minting"
+      },
+      {
+        "example": "鋳貨",
+        "reading": "チュウカ",
+        "meaning": "coinage, mintage"
+      },
+      {
+        "example": "改鋳",
+        "reading": "カイチュウ",
+        "meaning": "reminting, recasting"
+      },
+      {
+        "example": "再鋳",
+        "reading": "サイチュウ",
+        "meaning": "recasting"
+      },
+      {
+        "example": "鋳物",
+        "reading": "イモノ",
+        "meaning": "casting, cast-metal object"
+      },
+      {
+        "example": "鋳型",
+        "reading": "イガタ",
+        "meaning": "mold, mould, template"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鋳る",
+        "reading": "いる",
+        "meaning": "to cast, to mint, to coin"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ノ",
+      "亠",
+      "土",
+      "寸",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37619_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092f3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92f3.gif",
+    "uri": "https://jisho.org/search/%E9%8B%B3%23kanji"
+  }
+}

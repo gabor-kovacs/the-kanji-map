@@ -1,1 +1,58 @@
-{"id":"蕨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蕨","found":true,"newspaperFrequencyRank":"2307","strokeCount":15,"meaning":"bracken, fernbrake","kunyomi":["わらび"],"onyomi":["ケツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蕨","reading":"わらび","meaning":"bracken"},{"example":"わらび粉","reading":"わらびこ","meaning":"bracken starch (starch produced from the rhizomes of bracken)"},{"example":"早蕨","reading":"さわらび","meaning":"freshly budded bracken"},{"example":"水蕨","reading":"みずわらび","meaning":"water sprite (Ceratopteris thalictroides), Indian fern, water fern, oriental waterfern, water hornfern"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["厂","屮","并","欠","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34152_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08568.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8568.gif","uri":"https://jisho.org/search/%E8%95%A8%23kanji"}}
+{
+  "id": "蕨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕨",
+    "found": true,
+    "newspaperFrequencyRank": "2307",
+    "strokeCount": 15,
+    "meaning": "bracken, fernbrake",
+    "kunyomi": [
+      "わらび"
+    ],
+    "onyomi": [
+      "ケツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蕨",
+        "reading": "わらび",
+        "meaning": "bracken"
+      },
+      {
+        "example": "わらび粉",
+        "reading": "わらびこ",
+        "meaning": "bracken starch (starch produced from the rhizomes of bracken)"
+      },
+      {
+        "example": "早蕨",
+        "reading": "さわらび",
+        "meaning": "freshly budded bracken"
+      },
+      {
+        "example": "水蕨",
+        "reading": "みずわらび",
+        "meaning": "water sprite (Ceratopteris thalictroides), Indian fern, water fern, Oriental waterfern, water hornfern"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "厂",
+      "屮",
+      "并",
+      "欠",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34152_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08568.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8568.gif",
+    "uri": "https://jisho.org/search/%E8%95%A8%23kanji"
+  }
+}

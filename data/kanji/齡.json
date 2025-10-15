@@ -1,1 +1,43 @@
-{"id":"齡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"齡","found":true,"strokeCount":20,"meaning":"age","kunyomi":["よわ.い","とし"],"onyomi":["レイ"],"onyomiExamples":[{"example":"週令","reading":"シュウレイ","meaning":"week-old"}],"kunyomiExamples":[],"radical":{"symbol":"齒","meaning":"tooth, molar"},"parts":["一","个","人","凵","卩","止","歯","米"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40801_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f61.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f61.gif","uri":"https://jisho.org/search/%E9%BD%A1%23kanji"}}
+{
+  "id": "齡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齡",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "age",
+    "kunyomi": [
+      "よわ.い",
+      "とし"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "週令",
+        "reading": "シュウレイ",
+        "meaning": "week-old"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "齒",
+      "meaning": "tooth, molar"
+    },
+    "parts": [
+      "一",
+      "个",
+      "人",
+      "凵",
+      "卩",
+      "止",
+      "歯",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40801_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f61.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f61.gif",
+    "uri": "https://jisho.org/search/%E9%BD%A1%23kanji"
+  }
+}

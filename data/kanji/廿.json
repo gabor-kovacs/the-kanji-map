@@ -1,1 +1,43 @@
-{"id":"廿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廿","found":true,"strokeCount":4,"meaning":"twenty","kunyomi":["にじゅう"],"onyomi":["ジュウ","ニュウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"２０","reading":"にじゅう","meaning":"twenty, 20"},{"example":"２０日","reading":"はつか","meaning":"20th day of the month, 20 days"}],"radical":{"symbol":"廾","meaning":"two hands, twenty"},"parts":["一","凵","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24319_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eff.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eff.gif","uri":"https://jisho.org/search/%E5%BB%BF%23kanji"}}
+{
+  "id": "廿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廿",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "twenty",
+    "kunyomi": [
+      "にじゅう"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "ニュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "２０",
+        "reading": "にじゅう",
+        "meaning": "twenty, 20"
+      },
+      {
+        "example": "２０日",
+        "reading": "はつか",
+        "meaning": "20th day of the month, 20 days"
+      }
+    ],
+    "radical": {
+      "symbol": "廾",
+      "meaning": "two hands, twenty"
+    },
+    "parts": [
+      "一",
+      "凵",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24319_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eff.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eff.gif",
+    "uri": "https://jisho.org/search/%E5%BB%BF%23kanji"
+  }
+}

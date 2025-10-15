@@ -1,1 +1,52 @@
-{"id":"蝶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蝶","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2011","strokeCount":15,"meaning":"butterfly","kunyomi":[],"onyomi":["チョウ"],"onyomiExamples":[{"example":"蝶","reading":"チョウ","meaning":"butterfly"},{"example":"蝶々","reading":"チョウチョウ","meaning":"butterfly"},{"example":"太陽蝶","reading":"タイヨウチョウ","meaning":"sunset morpho (butterfly, Morpho hecuba)"},{"example":"猪鹿蝶","reading":"イノシカチョウ","meaning":"the boar, deer and butterfly cards (high-scoring meld), inoshikacho (type of hanafuda gambling game)"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["世","木","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34678_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08776.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8776.gif","uri":"https://jisho.org/search/%E8%9D%B6%23kanji"}}
+{
+  "id": "蝶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蝶",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2011",
+    "strokeCount": 15,
+    "meaning": "butterfly",
+    "kunyomi": [],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蝶",
+        "reading": "チョウ",
+        "meaning": "butterfly"
+      },
+      {
+        "example": "蝶々",
+        "reading": "チョウチョウ",
+        "meaning": "butterfly"
+      },
+      {
+        "example": "太陽蝶",
+        "reading": "タイヨウチョウ",
+        "meaning": "sunset morpho (butterfly, Morpho hecuba)"
+      },
+      {
+        "example": "猪鹿蝶",
+        "reading": "イノシカチョウ",
+        "meaning": "the boar, deer and butterfly cards (high-scoring meld), inoshikacho (type of hanafuda gambling game)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "世",
+      "木",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34678_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08776.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8776.gif",
+    "uri": "https://jisho.org/search/%E8%9D%B6%23kanji"
+  }
+}

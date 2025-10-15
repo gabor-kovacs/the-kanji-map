@@ -1,1 +1,98 @@
-{"id":"渋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"渋","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1011","strokeCount":11,"meaning":"astringent, hesitate, reluctant, have diarrhea","kunyomi":["しぶ","しぶ.い","しぶ.る"],"onyomi":["ジュウ","シュウ"],"onyomiExamples":[{"example":"渋滞","reading":"ジュウタイ","meaning":"(traffic) congestion, traffic jam, gridlock, delay, stagnation"},{"example":"渋面","reading":"ジュウメン","meaning":"grimace, sullen face"},{"example":"難渋","reading":"ナンジュウ","meaning":"suffering, distress, difficulty, hardship, misery, being bogged down, hurdle"},{"example":"晦渋","reading":"カイジュウ","meaning":"ambiguous, obscure, equivocal"}],"kunyomiExamples":[{"example":"渋","reading":"しぶ","meaning":"kakishibu, astringent persimmon juice used as a dye or to to treat wood, paper, etc."},{"example":"渋い","reading":"しぶい","meaning":"astringent, bitter, puckery, rough, harsh, tart, austere, elegant (and unobtrusive), refined, quiet (and simple), sober, sombre, subdued, tasteful (in a quiet way), understated, sour (look), glum, grim, sullen, sulky, stingy, tight-fisted"},{"example":"柿渋","reading":"かきしぶ","meaning":"kakishibu, astringent persimmon juice used as a dye or to to treat wood, paper, etc."},{"example":"鉄渋","reading":"かなしぶ","meaning":"aqueous iron rust"},{"example":"渋い","reading":"しぶい","meaning":"astringent, bitter, puckery, rough, harsh, tart, austere, elegant (and unobtrusive), refined, quiet (and simple), sober, sombre, subdued, tasteful (in a quiet way), understated, sour (look), glum, grim, sullen, sulky, stingy, tight-fisted"},{"example":"渋い顔をする","reading":"しぶいかおをする","meaning":"to frown (on), to be grim-faced, to look sullen"},{"example":"渋る","reading":"しぶる","meaning":"to hesitate, to hold back, to balk, to falter, to be reluctant, to be unwilling, to begrudge, to have loose painful bowel movement, to suffer from tenesmus"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["冫","止","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28171_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e0b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e0b.gif","uri":"https://jisho.org/search/%E6%B8%8B%23kanji"}}
+{
+  "id": "渋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渋",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1011",
+    "strokeCount": 11,
+    "meaning": "astringent, hesitate, reluctant, have diarrhea",
+    "kunyomi": [
+      "しぶ",
+      "しぶ.い",
+      "しぶ.る"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渋滞",
+        "reading": "ジュウタイ",
+        "meaning": "(traffic) congestion, traffic jam, gridlock, delay, stagnation"
+      },
+      {
+        "example": "渋面",
+        "reading": "ジュウメン",
+        "meaning": "grimace, sullen face"
+      },
+      {
+        "example": "難渋",
+        "reading": "ナンジュウ",
+        "meaning": "suffering, distress, difficulty, hardship, misery, being bogged down, hurdle"
+      },
+      {
+        "example": "晦渋",
+        "reading": "カイジュウ",
+        "meaning": "ambiguous, obscure, equivocal"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "渋",
+        "reading": "しぶ",
+        "meaning": "kakishibu, astringent persimmon juice used as a dye or to treat wood, paper, etc."
+      },
+      {
+        "example": "渋い",
+        "reading": "しぶい",
+        "meaning": "astringent, bitter, puckery, rough, harsh, tart, austere, elegant (and unobtrusive), refined, quiet (and simple), sober, sombre, subdued, tasteful (in a quiet way), understated, sour (look), glum, grim, sullen, sulky, stingy, tight-fisted"
+      },
+      {
+        "example": "柿渋",
+        "reading": "かきしぶ",
+        "meaning": "kakishibu, astringent persimmon juice used as a dye or to treat wood, paper, etc."
+      },
+      {
+        "example": "鉄渋",
+        "reading": "かなしぶ",
+        "meaning": "aqueous iron rust"
+      },
+      {
+        "example": "渋い",
+        "reading": "しぶい",
+        "meaning": "astringent, bitter, puckery, rough, harsh, tart, austere, elegant (and unobtrusive), refined, quiet (and simple), sober, sombre, subdued, tasteful (in a quiet way), understated, sour (look), glum, grim, sullen, sulky, stingy, tight-fisted"
+      },
+      {
+        "example": "渋い顔をする",
+        "reading": "しぶいかおをする",
+        "meaning": "to frown (on), to be grim-faced, to look sullen"
+      },
+      {
+        "example": "渋る",
+        "reading": "しぶる",
+        "meaning": "to be reluctant (to do), to be unwilling (to do), to hesitate (to do), to grudge, to be tardy (in doing), to put off (doing), to falter, to slacken, to slow down, to have a frequent urge to defecate but difficulty passing stool, to suffer from tenesmus"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "冫",
+      "止",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28171_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e0b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e0b.gif",
+    "uri": "https://jisho.org/search/%E6%B8%8B%23kanji"
+  }
+}

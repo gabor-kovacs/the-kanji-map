@@ -1,1 +1,299 @@
-{"id":"誕","kanjialiveData":{"kanji":{"character":"誕","meaning":{"english":"be born, birth"},"strokes":{"count":15,"timings":[0,0.933333,1.6,2.533333,3.4,4,5.066667,5.866667,7.8,8.933333,9.8,10.733333,11.533333,13.133333,14.266667,16.066667],"images":["https://media.kanjialive.com/kanji_strokes/tan(joubi)_1.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_2.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_3.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_4.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_5.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_6.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_7.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_8.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_9.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_10.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_11.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_12.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_13.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_14.svg","https://media.kanjialive.com/kanji_strokes/tan(joubi)_15.svg"]},"onyomi":{"romaji":"tan","katakana":"タン"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/tan(joubi)_15.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/tan(joubi)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/tan(joubi)_00.webm"}},"radical":{"character":"","strokes":7,"image":"https://media.kanjialive.com/radical_character/gonben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"ごんべん","romaji":"gonben"},"meaning":{"english":"words, to speak, say"},"animation":["https://media.kanjialive.com/rad_frames/gonben0.svg","https://media.kanjialive.com/rad_frames/gonben1.svg","https://media.kanjialive.com/rad_frames/gonben2.svg"]},"references":{"grade":6,"kodansha":"1062","classic_nelson":"4386"},"examples":[{"japanese":"誕生日（たんじょうび）","meaning":{"english":"birthday"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tan(joubi)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tan(joubi)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tan(joubi)_06_a.mp3"}},{"japanese":"生誕（せいたん）","meaning":{"english":"birth, nativity"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tan(joubi)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tan(joubi)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tan(joubi)_06_b.mp3"}},{"japanese":"降誕（こうたん）","meaning":{"english":"birth, nativity"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tan(joubi)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tan(joubi)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tan(joubi)_06_c.mp3"}},{"japanese":"誕生する（たんじょうする）","meaning":{"english":"be born"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tan(joubi)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tan(joubi)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tan(joubi)_06_d.mp3"}}]},"jishoData":{"query":"誕","found":true,"taughtIn":"grade 6","jlptLevel":"N1","newspaperFrequencyRank":"1024","strokeCount":15,"meaning":"nativity, be born, declension, lie, be arbitrary","kunyomi":[],"onyomi":["タン"],"onyomiExamples":[{"example":"誕生","reading":"タンジョウ","meaning":"birth, creation, formation"},{"example":"誕生日","reading":"タンジョウビ","meaning":"birthday"},{"example":"生誕","reading":"セイタン","meaning":"birth, nativity"},{"example":"再誕","reading":"サイタン","meaning":"resurrection (of a company or school, etc.)"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["ノ","廴","止","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35477_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a95.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a95.gif","uri":"https://jisho.org/search/%E8%AA%95%23kanji"}}
+{
+  "id": "誕",
+  "kanjialiveData": {
+    "_id": "54317ad6791eba5146ee487f",
+    "_rev": "10-e3281f5b9fe15056bcc6d65d19a6afe7",
+    "rad_name_ja": "ごんべん",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "be born, birth",
+    "kstroke": 15,
+    "examples": [
+      {
+        "japanese": "誕生日（たんじょうび）",
+        "meaning": {
+          "english": "birthday"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tan(joubi)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tan(joubi)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tan(joubi)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "生誕（せいたん）",
+        "meaning": {
+          "english": "birth, nativity"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tan(joubi)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tan(joubi)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tan(joubi)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "降誕（こうたん）",
+        "meaning": {
+          "english": "birth, nativity"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tan(joubi)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tan(joubi)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tan(joubi)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "誕生する（たんじょうする）",
+        "meaning": {
+          "english": "be born"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(joubi)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tan(joubi)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tan(joubi)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tan(joubi)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "誕",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=誕",
+    "kname": "tan(joubi)",
+    "rad_order": 183,
+    "txt_books": [
+      {
+        "chapter": "13",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "11"
+      }
+    ],
+    "rad_name_search": [
+      "gonben"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      0.933333,
+      1.6,
+      2.533333,
+      3.4,
+      4,
+      5.066667,
+      5.866667,
+      7.8,
+      8.933333,
+      9.8,
+      10.733333,
+      11.533333,
+      13.133333,
+      14.266667,
+      16.066667
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1062",
+    "rad_name": "gonben",
+    "dicn": "4386",
+    "mn_hint": "Congratulating words 言 postponed 延 until actual birth.",
+    "rad_stroke": 7,
+    "onyomi_ja": "タン",
+    "rad_meaning": "words, to speak, say",
+    "onyomi": "tan",
+    "ka_id": "ka_1091",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "tan",
+      "tan"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "be born",
+      "be",
+      "born",
+      "birth",
+      "be born, birth"
+    ],
+    "onyomi_ja_search": [
+      "タン",
+      "タン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "words",
+      "to speak",
+      "to",
+      "speak",
+      "say",
+      "words, to speak, say"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ごんべん"
+    ],
+    "textbook_search": [
+      "jtr",
+      "jtr:13",
+      "jtr:c13",
+      "cijr",
+      "cijr:11",
+      "cijr:c11"
+    ],
+    "rad_name_file": "gonben",
+    "kanji": {
+      "character": "誕",
+      "meaning": {
+        "english": "be born, birth"
+      },
+      "strokes": {
+        "count": 15,
+        "timings": [
+          0,
+          0.933333,
+          1.6,
+          2.533333,
+          3.4,
+          4,
+          5.066667,
+          5.866667,
+          7.8,
+          8.933333,
+          9.8,
+          10.733333,
+          11.533333,
+          13.133333,
+          14.266667,
+          16.066667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_14.svg",
+          "https://media.kanjialive.com/kanji_strokes/tan(joubi)_15.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "tan",
+        "katakana": "タン"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tan(joubi)_15.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tan(joubi)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tan(joubi)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/gonben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ごんべん",
+        "romaji": "gonben"
+      },
+      "meaning": {
+        "english": "words, to speak, say"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gonben0.svg",
+        "https://media.kanjialive.com/rad_frames/gonben1.svg",
+        "https://media.kanjialive.com/rad_frames/gonben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1062",
+      "classic_nelson": "4386"
+    }
+  },
+  "jishoData": {
+    "query": "誕",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1024",
+    "strokeCount": 15,
+    "meaning": "nativity, be born, declension, lie, be arbitrary",
+    "kunyomi": [],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "誕生",
+        "reading": "タンジョウ",
+        "meaning": "birth, creation, formation"
+      },
+      {
+        "example": "誕生日",
+        "reading": "タンジョウビ",
+        "meaning": "birthday"
+      },
+      {
+        "example": "生誕",
+        "reading": "セイタン",
+        "meaning": "birth (esp. of a famous person), nativity"
+      },
+      {
+        "example": "再誕",
+        "reading": "サイタン",
+        "meaning": "resurrection (of a company or school, etc.)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "ノ",
+      "廴",
+      "止",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35477_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a95.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a95.gif",
+    "uri": "https://jisho.org/search/%E8%AA%95%23kanji"
+  }
+}

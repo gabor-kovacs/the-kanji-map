@@ -1,1 +1,57 @@
-{"id":"鍋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鍋","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"1810","strokeCount":17,"meaning":"pot, pan, kettle","kunyomi":["なべ"],"onyomi":["カ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鍋","reading":"なべ","meaning":"pan, pot, saucepan, stew, hot pot"},{"example":"鍋物","reading":"なべもの","meaning":"stew, food cooked in a pot"},{"example":"もつ鍋","reading":"もつなべ","meaning":"hot pot stew made with offal, vegetables and (often) miso"},{"example":"土鍋","reading":"どなべ","meaning":"earthenware pot"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["冂","口","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37707_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0934b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/934b.gif","uri":"https://jisho.org/search/%E9%8D%8B%23kanji"}}
+{
+  "id": "鍋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鍋",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "1810",
+    "strokeCount": 17,
+    "meaning": "pot, pan, kettle",
+    "kunyomi": [
+      "なべ"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鍋",
+        "reading": "なべ",
+        "meaning": "pan, pot, saucepan, stew, hot pot"
+      },
+      {
+        "example": "鍋物",
+        "reading": "なべもの",
+        "meaning": "stew, food cooked in a pot"
+      },
+      {
+        "example": "もつ鍋",
+        "reading": "もつなべ",
+        "meaning": "hot pot stew made with offal, vegetables and (often) miso"
+      },
+      {
+        "example": "土鍋",
+        "reading": "どなべ",
+        "meaning": "earthenware pot"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "冂",
+      "口",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37707_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0934b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/934b.gif",
+    "uri": "https://jisho.org/search/%E9%8D%8B%23kanji"
+  }
+}

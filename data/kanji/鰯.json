@@ -1,1 +1,52 @@
-{"id":"鰯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鰯","found":true,"strokeCount":21,"meaning":"sardine, (kokuji)","kunyomi":["いわし"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"鰯","reading":"いわし","meaning":"pilchard (esp. Japanese pilchard, Sardinops melanostictus), sardine"},{"example":"鰯滓","reading":"いわしかす","meaning":"fish cake (made from sardines, used as a fertilizer), sardine meal"},{"example":"藤五郎鰯","reading":"とうごろういわし","meaning":"flathead silverside (Hypoatherina valenciennei)"},{"example":"赤鰯","reading":"あかいわし","meaning":"pickled sardines, dried sardines, red sardines, rusty and blunt sword"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["冫","弓","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39983_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c2f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c2f.gif","uri":"https://jisho.org/search/%E9%B0%AF%23kanji"}}
+{
+  "id": "鰯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰯",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "sardine, (kokuji)",
+    "kunyomi": [
+      "いわし"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鰯",
+        "reading": "いわし",
+        "meaning": "pilchard (esp. Japanese pilchard, Sardinops melanostictus), sardine"
+      },
+      {
+        "example": "鰯滓",
+        "reading": "いわしかす",
+        "meaning": "fish cake (made from sardines, used as a fertilizer), sardine meal"
+      },
+      {
+        "example": "藤五郎鰯",
+        "reading": "とうごろういわし",
+        "meaning": "flathead silverside (Hypoatherina valenciennei)"
+      },
+      {
+        "example": "赤鰯",
+        "reading": "あかいわし",
+        "meaning": "pickled sardines, dried sardines, red sardines, rusty and blunt sword"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "冫",
+      "弓",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39983_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c2f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c2f.gif",
+    "uri": "https://jisho.org/search/%E9%B0%AF%23kanji"
+  }
+}

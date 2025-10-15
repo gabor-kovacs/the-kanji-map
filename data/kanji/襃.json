@@ -1,1 +1,35 @@
-{"id":"襃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"襃","found":true,"strokeCount":17,"meaning":"praise, extol","kunyomi":["ほ.める"],"onyomi":["ホウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["亠","口","木","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35139_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08943.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8943.gif","uri":"https://jisho.org/search/%E8%A5%83%23kanji"}}
+{
+  "id": "襃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "襃",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "praise, extol",
+    "kunyomi": [
+      "ほ.める"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "木",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35139_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08943.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8943.gif",
+    "uri": "https://jisho.org/search/%E8%A5%83%23kanji"
+  }
+}

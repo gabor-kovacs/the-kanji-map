@@ -70,6 +70,7 @@
   body {
     color: var(--foreground);
     background: var(--background);
+    font-family: var(--font-sans), var(--font-radicals), system-ui, sans-serif;
   }
 }
 

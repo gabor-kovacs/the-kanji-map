@@ -1,1 +1,49 @@
-{"id":"蔬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蔬","found":true,"strokeCount":15,"meaning":"greens, vegetables","kunyomi":["あおもの"],"onyomi":["ソ","ショ"],"onyomiExamples":[{"example":"蔬菜","reading":"ソサイ","meaning":"greens, vegetables"},{"example":"蔬食","reading":"ソショク","meaning":"vegetarian diet, vegetarian food"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["亠","厶","川","止","疋","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34092_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0852c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/852c.gif","uri":"https://jisho.org/search/%E8%94%AC%23kanji"}}
+{
+  "id": "蔬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔬",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "greens, vegetables",
+    "kunyomi": [
+      "あおもの"
+    ],
+    "onyomi": [
+      "ソ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蔬菜",
+        "reading": "ソサイ",
+        "meaning": "greens, vegetables"
+      },
+      {
+        "example": "蔬食",
+        "reading": "ソショク",
+        "meaning": "vegetarian diet, vegetarian food"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "亠",
+      "厶",
+      "川",
+      "止",
+      "疋",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34092_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0852c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/852c.gif",
+    "uri": "https://jisho.org/search/%E8%94%AC%23kanji"
+  }
+}

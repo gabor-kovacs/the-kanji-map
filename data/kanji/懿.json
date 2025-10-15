@@ -1,1 +1,46 @@
-{"id":"懿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"懿","found":true,"strokeCount":22,"meaning":"beautiful, splendid","kunyomi":["よい"],"onyomi":["イ"],"onyomiExamples":[{"example":"偉徳","reading":"イトク","meaning":"great virtue, outstanding virtue"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["冖","冫","口","士","并","心","欠","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25087_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061ff.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61ff.gif","uri":"https://jisho.org/search/%E6%87%BF%23kanji"}}
+{
+  "id": "懿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懿",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "beautiful, splendid",
+    "kunyomi": [
+      "よい"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "偉徳",
+        "reading": "イトク",
+        "meaning": "great virtue, outstanding virtue"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "冖",
+      "冫",
+      "口",
+      "士",
+      "并",
+      "心",
+      "欠",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25087_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061ff.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61ff.gif",
+    "uri": "https://jisho.org/search/%E6%87%BF%23kanji"
+  }
+}

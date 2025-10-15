@@ -1,1 +1,29 @@
-{"id":"貎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"貎","found":true,"strokeCount":15,"meaning":"lion, wild beast, wild horse","kunyomi":[],"onyomi":["ゲイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"豸","meaning":"cat, badger"},"parts":["儿","臼","豸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35982_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c8e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c8e.gif","uri":"https://jisho.org/search/%E8%B2%8E%23kanji"}}
+{
+  "id": "貎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "貎",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "lion, wild beast, wild horse",
+    "kunyomi": [],
+    "onyomi": [
+      "ゲイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "豸",
+      "meaning": "cat, badger"
+    },
+    "parts": [
+      "儿",
+      "臼",
+      "豸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35982_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c8e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c8e.gif",
+    "uri": "https://jisho.org/search/%E8%B2%8E%23kanji"
+  }
+}

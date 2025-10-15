@@ -1,1 +1,79 @@
-{"id":"胡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"胡","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1995","strokeCount":9,"meaning":"barbarian, foreign","kunyomi":["なんぞ"],"onyomi":["ウ","コ","ゴ"],"onyomiExamples":[{"example":"胡散","reading":"ウサン","meaning":"suspicious"},{"example":"胡散臭い","reading":"ウサンクサイ","meaning":"suspicious-looking, shady, questionable, dubious, fishy"},{"example":"胡","reading":"コ","meaning":"barbarian tribes surrounding ancient China"},{"example":"胡座","reading":"アグラ","meaning":"sitting cross-legged (i.e. Indian style)"},{"example":"柴胡","reading":"サイコ","meaning":"Bupleurum root, Radix Bupleuri"},{"example":"京胡","reading":"キョウコ","meaning":"jinghu (2-stringed Chinese instrument played with a bow)"},{"example":"誤魔化す","reading":"ゴマカス","meaning":"to deceive, to cheat, to swindle, to falsify, to misrepresent, to lie about, to tamper with, to doctor, to cook, to evade (a question, taxes, etc.), to dodge, to gloss over (a mistake, fault, etc.), to smooth over, to get one's way out of (a difficult situation), to explain away, to embezzle, to pocket"},{"example":"胡麻","reading":"ゴマ","meaning":"sesame seeds, sesame (Sesamum indicum)"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["十","口","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32993_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080e1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80e1.gif","uri":"https://jisho.org/search/%E8%83%A1%23kanji"}}
+{
+  "id": "胡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胡",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1995",
+    "strokeCount": 9,
+    "meaning": "barbarian, foreign",
+    "kunyomi": [
+      "なんぞ"
+    ],
+    "onyomi": [
+      "ウ",
+      "コ",
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "胡散",
+        "reading": "ウサン",
+        "meaning": "suspicious"
+      },
+      {
+        "example": "胡散臭い",
+        "reading": "ウサンクサイ",
+        "meaning": "suspicious-looking, shady, questionable, dubious, fishy"
+      },
+      {
+        "example": "胡",
+        "reading": "コ",
+        "meaning": "barbarian tribes surrounding ancient China"
+      },
+      {
+        "example": "胡椒",
+        "reading": "コショウ",
+        "meaning": "pepper"
+      },
+      {
+        "example": "柴胡",
+        "reading": "サイコ",
+        "meaning": "Bupleurum root, Radix Bupleuri"
+      },
+      {
+        "example": "京胡",
+        "reading": "キョウコ",
+        "meaning": "jinghu (2-stringed Chinese instrument played with a bow)"
+      },
+      {
+        "example": "誤魔化す",
+        "reading": "ゴマカス",
+        "meaning": "to deceive, to cheat, to swindle, to falsify, to misrepresent, to lie about, to tamper with, to fiddle, to doctor, to cook, to evade (a question, taxes, etc.), to dodge, to gloss over (a mistake, fault, etc.), to smooth over, to get one's way out of (a difficult situation), to explain away, to embezzle, to pocket"
+      },
+      {
+        "example": "胡麻",
+        "reading": "ゴマ",
+        "meaning": "sesame seeds, sesame (Sesamum indicum)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "十",
+      "口",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32993_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080e1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80e1.gif",
+    "uri": "https://jisho.org/search/%E8%83%A1%23kanji"
+  }
+}

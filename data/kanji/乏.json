@@ -1,1 +1,276 @@
-{"id":"乏","kanjialiveData":{"kanji":{"character":"乏","meaning":{"english":"scanty, meager, scarce"},"strokes":{"count":4,"timings":[0,1,2.333333,3.866667,6.466667],"images":["https://media.kanjialive.com/kanji_strokes/tobo(shii)_1.svg","https://media.kanjialive.com/kanji_strokes/tobo(shii)_2.svg","https://media.kanjialive.com/kanji_strokes/tobo(shii)_3.svg","https://media.kanjialive.com/kanji_strokes/tobo(shii)_4.svg"]},"onyomi":{"romaji":"bou","katakana":"ボウ"},"kunyomi":{"romaji":"tobo, toboshii, toboshisa","hiragana":"とぼ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/tobo(shii)_4.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/tobo(shii)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/tobo(shii)_00.webm"}},"radical":{"character":"","strokes":1,"image":"https://media.kanjialive.com/radical_character/nokanmuri.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"のかんむり","romaji":"nokanmuri"},"meaning":{"english":"diagonal sweeping stroke"},"animation":["https://media.kanjialive.com/rad_frames/nokanmuri0.svg","https://media.kanjialive.com/rad_frames/nokanmuri1.svg","https://media.kanjialive.com/rad_frames/nokanmuri2.svg"]},"references":{"grade":null,"kodansha":"1228","classic_nelson":"150"},"examples":[{"japanese":"貧乏な（びんぼうな）","meaning":{"english":"poor"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tobo(shii)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tobo(shii)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tobo(shii)_06_a.mp3"}},{"japanese":"欠乏する（けつぼうする）","meaning":{"english":"run short"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tobo(shii)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tobo(shii)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tobo(shii)_06_b.mp3"}},{"japanese":"乏しい（とぼしい）","meaning":{"english":"meagre, scarce"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tobo(shii)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tobo(shii)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tobo(shii)_06_c.mp3"}}]},"jishoData":{"query":"乏","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1646","strokeCount":4,"meaning":"destitution, scarce, limited","kunyomi":["とぼ.しい","とも.しい"],"onyomi":["ボウ"],"onyomiExamples":[{"example":"乏精子症","reading":"ボウセイシショウ","meaning":"oligozoospermia, oligospermia"},{"example":"乏尿","reading":"ボウニョウ","meaning":"oliguria"},{"example":"耐乏","reading":"タイボウ","meaning":"austerity, voluntary privation"},{"example":"困苦窮乏","reading":"コンクキュウボウ","meaning":"hardships and privations"}],"kunyomiExamples":[{"example":"乏しい","reading":"とぼしい","meaning":"meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"},{"example":"乏しい","reading":"とぼしい","meaning":"meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"}],"radical":{"symbol":"丿","meaning":"slash"},"parts":["ノ","丶","乙","亠","廴"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20047_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e4f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e4f.gif","uri":"https://jisho.org/search/%E4%B9%8F%23kanji"}}
+{
+  "id": "乏",
+  "kanjialiveData": {
+    "_id": "54317afe791eba5146ee4b77",
+    "_rev": "12-46bdf4a03a90e4099a0c8bd3d4522b7b",
+    "rad_name_ja": "のかんむり",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "tobo, toboshii, toboshisa",
+    "meaning": "scanty, meager, scarce",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "貧乏な（びんぼうな）",
+        "meaning": {
+          "english": "poor"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tobo(shii)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tobo(shii)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tobo(shii)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "欠乏する（けつぼうする）",
+        "meaning": {
+          "english": "run short"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tobo(shii)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tobo(shii)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tobo(shii)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "乏しい（とぼしい）",
+        "meaning": {
+          "english": "meagre, scarce"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tobo(shii)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tobo(shii)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tobo(shii)_06_c.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "とぼ、とぼしい、とぼしさ",
+    "ka_utf": "乏",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=乏",
+    "kname": "tobo(shii)",
+    "rad_order": 5,
+    "txt_books": [
+      {
+        "chapter": "12",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "27"
+      }
+    ],
+    "rad_name_search": [
+      "nokanmuri"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1,
+      2.333333,
+      3.866667,
+      6.466667
+    ],
+    "kunyomi_ka_display": "とぼ",
+    "dick": "1228",
+    "rad_name": "nokanmuri",
+    "dicn": "150",
+    "mn_hint": "Possessing 之 little ノ.",
+    "rad_stroke": 1,
+    "onyomi_ja": "ボウ",
+    "rad_meaning": "diagonal sweeping stroke",
+    "onyomi": "bou",
+    "ka_id": "ka_664",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "bou",
+      "bou"
+    ],
+    "kunyomi_search": [
+      "tobo",
+      "toboshii",
+      "toboshisa",
+      "tobo, toboshii, toboshisa"
+    ],
+    "meaning_search": [
+      "scanty",
+      "meager",
+      "scarce",
+      "scanty, meager, scarce"
+    ],
+    "onyomi_ja_search": [
+      "ボウ",
+      "ボウ"
+    ],
+    "kunyomi_ja_search": [
+      "とぼ",
+      "とぼしい",
+      "とぼしさ",
+      "とぼ、とぼしい、とぼしさ"
+    ],
+    "rad_meaning_search": [
+      "diagonal sweeping stroke",
+      "diagonal",
+      "sweeping",
+      "stroke",
+      "diagonal sweeping stroke"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "のかんむり"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:12",
+      "ij:c12",
+      "ik1",
+      "ik1:4",
+      "ik1:c4",
+      "cijr",
+      "cijr:27",
+      "cijr:c27"
+    ],
+    "rad_name_file": "nokanmuri",
+    "kanji": {
+      "character": "乏",
+      "meaning": {
+        "english": "scanty, meager, scarce"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0,
+          1,
+          2.333333,
+          3.866667,
+          6.466667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tobo(shii)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tobo(shii)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tobo(shii)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/tobo(shii)_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bou",
+        "katakana": "ボウ"
+      },
+      "kunyomi": {
+        "romaji": "tobo, toboshii, toboshisa",
+        "hiragana": "とぼ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tobo(shii)_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tobo(shii)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tobo(shii)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 1,
+      "image": "https://media.kanjialive.com/radical_character/nokanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "のかんむり",
+        "romaji": "nokanmuri"
+      },
+      "meaning": {
+        "english": "diagonal sweeping stroke"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/nokanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/nokanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/nokanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1228",
+      "classic_nelson": "150"
+    }
+  },
+  "jishoData": {
+    "query": "乏",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1646",
+    "strokeCount": 4,
+    "meaning": "destitution, scarce, limited",
+    "kunyomi": [
+      "とぼ.しい",
+      "とも.しい"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "乏精子症",
+        "reading": "ボウセイシショウ",
+        "meaning": "oligozoospermia, oligospermia"
+      },
+      {
+        "example": "乏尿",
+        "reading": "ボウニョウ",
+        "meaning": "oliguria"
+      },
+      {
+        "example": "耐乏",
+        "reading": "タイボウ",
+        "meaning": "austerity, voluntary privation"
+      },
+      {
+        "example": "困苦窮乏",
+        "reading": "コンクキュウボウ",
+        "meaning": "hardships and privations"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "乏しい",
+        "reading": "とぼしい",
+        "meaning": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"
+      },
+      {
+        "example": "乏しい",
+        "reading": "とぼしい",
+        "meaning": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"
+      }
+    ],
+    "radical": {
+      "symbol": "丿",
+      "meaning": "slash"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "乙",
+      "亠",
+      "廴"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20047_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e4f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e4f.gif",
+    "uri": "https://jisho.org/search/%E4%B9%8F%23kanji"
+  }
+}

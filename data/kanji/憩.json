@@ -1,1 +1,78 @@
-{"id":"憩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"憩","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1731","strokeCount":16,"meaning":"recess, rest, relax, repose","kunyomi":["いこ.い","いこ.う"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"憩室","reading":"ケイシツ","meaning":"diverticulum"},{"example":"憩室炎","reading":"ケイシツエン","meaning":"diverticulitis"},{"example":"小休憩","reading":"ショウキュウケイ","meaning":"short break, breather"},{"example":"一服休憩","reading":"イップクキュウケイ","meaning":"tea (coffee, cigarette) break"}],"kunyomiExamples":[{"example":"憩い","reading":"いこい","meaning":"rest, relaxation"},{"example":"憩いの場","reading":"いこいのば","meaning":"place for relaxation and refreshment"},{"example":"憩う","reading":"いこう","meaning":"to rest, to relax, to repose"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["口","心","目","自","舌"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25001_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061a9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61a9.gif","uri":"https://jisho.org/search/%E6%86%A9%23kanji"}}
+{
+  "id": "憩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憩",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1731",
+    "strokeCount": 16,
+    "meaning": "recess, rest, relax, repose",
+    "kunyomi": [
+      "いこ.い",
+      "いこ.う"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憩室",
+        "reading": "ケイシツ",
+        "meaning": "diverticulum"
+      },
+      {
+        "example": "憩室炎",
+        "reading": "ケイシツエン",
+        "meaning": "diverticulitis"
+      },
+      {
+        "example": "小休憩",
+        "reading": "ショウキュウケイ",
+        "meaning": "short break, breather"
+      },
+      {
+        "example": "一服休憩",
+        "reading": "イップクキュウケイ",
+        "meaning": "tea (coffee, cigarette) break"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "憩い",
+        "reading": "いこい",
+        "meaning": "rest, relaxation"
+      },
+      {
+        "example": "憩いの場",
+        "reading": "いこいのば",
+        "meaning": "place for relaxation and refreshment"
+      },
+      {
+        "example": "憩う",
+        "reading": "いこう",
+        "meaning": "to rest, to relax, to repose"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "口",
+      "心",
+      "目",
+      "自",
+      "舌"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25001_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061a9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61a9.gif",
+    "uri": "https://jisho.org/search/%E6%86%A9%23kanji"
+  }
+}

@@ -1,1 +1,40 @@
-{"id":"膈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膈","found":true,"strokeCount":14,"meaning":"diaphragm","kunyomi":[],"onyomi":["カク"],"onyomiExamples":[{"example":"膈","reading":"カク","meaning":"diaphragm, vicinity of the diaphragm"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["儿","冂","口","月","鬲"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33160_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08188.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8188.gif","uri":"https://jisho.org/search/%E8%86%88%23kanji"}}
+{
+  "id": "膈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膈",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "diaphragm",
+    "kunyomi": [],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膈",
+        "reading": "カク",
+        "meaning": "diaphragm, vicinity of the diaphragm"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "儿",
+      "冂",
+      "口",
+      "月",
+      "鬲"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33160_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08188.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8188.gif",
+    "uri": "https://jisho.org/search/%E8%86%88%23kanji"
+  }
+}

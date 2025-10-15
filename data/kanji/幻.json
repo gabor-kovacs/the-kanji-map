@@ -1,1 +1,69 @@
-{"id":"幻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"幻","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1564","strokeCount":4,"meaning":"phantasm, vision, dream, illusion, apparition","kunyomi":["まぼろし"],"onyomi":["ゲン"],"onyomiExamples":[{"example":"幻想","reading":"ゲンソウ","meaning":"fantasy, illusion, vision, dream"},{"example":"幻覚","reading":"ゲンカク","meaning":"hallucination, illusion"},{"example":"変幻","reading":"ヘンゲン","meaning":"transformation"},{"example":"夢幻","reading":"ムゲン","meaning":"dreams, fantasy, visions"}],"kunyomiExamples":[{"example":"幻","reading":"まぼろし","meaning":"phantom, vision, illusion, apparition, something fleeting, short-lived dream, fabled item, mythical thing, very rare thing"},{"example":"幻を追う","reading":"まぼろしをおう","meaning":"to pursue an illusion, to pursue a fantasy, to pursue phantoms"},{"example":"夢幻","reading":"むげん","meaning":"dreams, fantasy, visions"}],"radical":{"symbol":"幺","meaning":"short, tiny"},"parts":["幺"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24187_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e7b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e7b.gif","uri":"https://jisho.org/search/%E5%B9%BB%23kanji"}}
+{
+  "id": "幻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幻",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1564",
+    "strokeCount": 4,
+    "meaning": "phantasm, vision, dream, illusion, apparition",
+    "kunyomi": [
+      "まぼろし"
+    ],
+    "onyomi": [
+      "ゲン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "幻想",
+        "reading": "ゲンソウ",
+        "meaning": "fantasy, illusion, vision, dream"
+      },
+      {
+        "example": "幻覚",
+        "reading": "ゲンカク",
+        "meaning": "hallucination, illusion"
+      },
+      {
+        "example": "変幻",
+        "reading": "ヘンゲン",
+        "meaning": "transformation"
+      },
+      {
+        "example": "夢幻",
+        "reading": "ムゲン",
+        "meaning": "dreams, fantasy, visions"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "幻",
+        "reading": "まぼろし",
+        "meaning": "phantom, vision, illusion, apparition, something fleeting, short-lived dream, fabled item, mythical thing, very rare thing"
+      },
+      {
+        "example": "幻を追う",
+        "reading": "まぼろしをおう",
+        "meaning": "to pursue an illusion, to pursue a fantasy, to pursue phantoms"
+      },
+      {
+        "example": "夢幻",
+        "reading": "むげん",
+        "meaning": "dreams, fantasy, visions"
+      }
+    ],
+    "radical": {
+      "symbol": "幺",
+      "meaning": "short, tiny"
+    },
+    "parts": [
+      "幺"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24187_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e7b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e7b.gif",
+    "uri": "https://jisho.org/search/%E5%B9%BB%23kanji"
+  }
+}

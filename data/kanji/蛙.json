@@ -1,1 +1,79 @@
-{"id":"蛙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蛙","found":true,"strokeCount":12,"meaning":"frog","kunyomi":["かえる","かわず"],"onyomi":["ア","ワ"],"onyomiExamples":[{"example":"蛙声","reading":"アセイ","meaning":"sound of frogs croaking"},{"example":"蛙黽","reading":"アボウ","meaning":"tree frog (toad)"},{"example":"井蛙","reading":"セイア","meaning":"frog in a well, someone with a narrow perspective"}],"kunyomiExamples":[{"example":"蛙","reading":"かえる","meaning":"frog, kajika frog (Buergeria buergeri)"},{"example":"蛙鮟鱇","reading":"かえるあんこう","meaning":"frogfish (any fish of family Antennariidae, esp. the striated frogfish, Antennarius striatus)"},{"example":"蛙の子は蛙","reading":"かえるのこはかえる","meaning":"like father, like son, the apple doesn't fall far from the tree, the child of a frog is a frog"},{"example":"蛙","reading":"かえる","meaning":"frog, kajika frog (Buergeria buergeri)"},{"example":"蛙狩神事","reading":"かわずがりしんじ","meaning":"frog hunting ritual"},{"example":"井の中の蛙","reading":"いのなかのかわず","meaning":"person who is ignorant of the real world, frog in a well"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["土","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34521_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086d9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86d9.gif","uri":"https://jisho.org/search/%E8%9B%99%23kanji"}}
+{
+  "id": "蛙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛙",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "frog",
+    "kunyomi": [
+      "かえる",
+      "かわず"
+    ],
+    "onyomi": [
+      "ア",
+      "ワ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛙声",
+        "reading": "アセイ",
+        "meaning": "sound of frogs croaking"
+      },
+      {
+        "example": "蛙黽",
+        "reading": "アボウ",
+        "meaning": "tree frog (toad)"
+      },
+      {
+        "example": "井蛙",
+        "reading": "セイア",
+        "meaning": "frog in a well, someone with a narrow perspective"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蛙",
+        "reading": "かえる",
+        "meaning": "frog, kajika frog (Buergeria buergeri)"
+      },
+      {
+        "example": "蛙鮟鱇",
+        "reading": "かえるあんこう",
+        "meaning": "frogfish (any fish of family Antennariidae, esp. the striated frogfish, Antennarius striatus)"
+      },
+      {
+        "example": "蛙の子は蛙",
+        "reading": "かえるのこはかえる",
+        "meaning": "like father, like son, the apple doesn't fall far from the tree, the child of a frog is a frog"
+      },
+      {
+        "example": "蛙",
+        "reading": "かえる",
+        "meaning": "frog, kajika frog (Buergeria buergeri)"
+      },
+      {
+        "example": "蛙狩神事",
+        "reading": "かわずがりしんじ",
+        "meaning": "frog hunting ritual"
+      },
+      {
+        "example": "井の中の蛙",
+        "reading": "いのなかのかわず",
+        "meaning": "person who is ignorant of the real world, frog in a well"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "土",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34521_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086d9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86d9.gif",
+    "uri": "https://jisho.org/search/%E8%9B%99%23kanji"
+  }
+}

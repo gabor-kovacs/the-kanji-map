@@ -1,1 +1,48 @@
-{"id":"諠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"諠","found":true,"strokeCount":16,"meaning":"forget, noisy","kunyomi":["かまびす.しい","わす.れる"],"onyomi":["ケン"],"onyomiExamples":[{"example":"喧嘩","reading":"ケンカ","meaning":"quarrel, brawl, fight, squabble, scuffle, argument"},{"example":"喧騒","reading":"ケンソウ","meaning":"tumult, great noise, clatter, hustle and bustle"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["一","二","宀","日","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35552_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae0.gif","uri":"https://jisho.org/search/%E8%AB%A0%23kanji"}}
+{
+  "id": "諠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諠",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "forget, noisy",
+    "kunyomi": [
+      "かまびす.しい",
+      "わす.れる"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喧嘩",
+        "reading": "ケンカ",
+        "meaning": "quarrel, brawl, fight, squabble, scuffle, argument"
+      },
+      {
+        "example": "喧騒",
+        "reading": "ケンソウ",
+        "meaning": "tumult, great noise, clatter, hustle and bustle"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "一",
+      "二",
+      "宀",
+      "日",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35552_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae0.gif",
+    "uri": "https://jisho.org/search/%E8%AB%A0%23kanji"
+  }
+}

@@ -1,1 +1,63 @@
-{"id":"渾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"渾","found":true,"strokeCount":12,"meaning":"all, turbidity","kunyomi":["すべ.て","にご.る"],"onyomi":["コン"],"onyomiExamples":[{"example":"あだ名","reading":"アダナ","meaning":"nickname"},{"example":"混沌","reading":"コントン","meaning":"chaos, confusion, disorder, chaotic, confused, uncertain, disarrayed"},{"example":"雄渾","reading":"ユウコン","meaning":"magnificent, sublime, vigorous, bold"},{"example":"滾々","reading":"コンコン","meaning":"copious (flowing)"}],"kunyomiExamples":[{"example":"全て","reading":"すべて","meaning":"everything, all, the whole, entirely, completely, wholly, all"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["冖","汁","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28222_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e3e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e3e.gif","uri":"https://jisho.org/search/%E6%B8%BE%23kanji"}}
+{
+  "id": "渾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渾",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "all, turbidity",
+    "kunyomi": [
+      "すべ.て",
+      "にご.る"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "あだ名",
+        "reading": "アダナ",
+        "meaning": "nickname"
+      },
+      {
+        "example": "混沌",
+        "reading": "コントン",
+        "meaning": "chaos, confusion, disorder, chaotic, confused, uncertain, disarrayed"
+      },
+      {
+        "example": "雄渾",
+        "reading": "ユウコン",
+        "meaning": "magnificent, sublime, vigorous, bold"
+      },
+      {
+        "example": "滾々",
+        "reading": "コンコン",
+        "meaning": "(flowing) copiously"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "全て",
+        "reading": "すべて",
+        "meaning": "everything, all, the whole, entirely, completely, wholly, all"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "冖",
+      "汁",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28222_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e3e.gif",
+    "uri": "https://jisho.org/search/%E6%B8%BE%23kanji"
+  }
+}

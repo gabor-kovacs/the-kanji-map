@@ -1,1 +1,443 @@
-{"id":"全","kanjialiveData":{"kanji":{"character":"全","meaning":{"english":"whole"},"strokes":{"count":6,"timings":[0,1.399,2.4,3.533,4.599,5.4,6.4],"images":["https://media.kanjialive.com/kanji_strokes/matta(ku)_1.svg","https://media.kanjialive.com/kanji_strokes/matta(ku)_2.svg","https://media.kanjialive.com/kanji_strokes/matta(ku)_3.svg","https://media.kanjialive.com/kanji_strokes/matta(ku)_4.svg","https://media.kanjialive.com/kanji_strokes/matta(ku)_5.svg","https://media.kanjialive.com/kanji_strokes/matta(ku)_6.svg"]},"onyomi":{"romaji":"zen","katakana":"ゼン"},"kunyomi":{"romaji":"matta, mattaku, sube, subete","hiragana":"まった、すべ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/matta(ku)_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/matta(ku)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/matta(ku)_00.webm"}},"radical":{"character":"𠆢","strokes":2,"image":"https://media.kanjialive.com/radical_character/hitoyane.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"ひとやね","romaji":"hitoyane"},"meaning":{"english":"person "},"animation":["https://media.kanjialive.com/rad_frames/hitoyane0.svg","https://media.kanjialive.com/rad_frames/hitoyane1.svg","https://media.kanjialive.com/rad_frames/hitoyane2.svg"]},"references":{"grade":3,"kodansha":"1277","classic_nelson":"384"},"examples":[{"japanese":"全然（ぜんぜん）","meaning":{"english":"not at all"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_a.mp3"}},{"japanese":"全部（ぜんぶ）","meaning":{"english":"all"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_b.mp3"}},{"japanese":"全体（ぜんたい）","meaning":{"english":"whole"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_c.mp3"}},{"japanese":"全員（ぜんいん）","meaning":{"english":"all members"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_d.mp3"}},{"japanese":"全力（ぜんりょく）","meaning":{"english":"all one's power"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_e.mp3"}},{"japanese":"全世界（ぜんせかい）","meaning":{"english":"the whole world"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_f.mp3"}},{"japanese":"完全な（かんぜんな）","meaning":{"english":"perfect"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_g.mp3"}},{"japanese":"安全な（あんぜんな）","meaning":{"english":"safe"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_h.mp3"}},{"japanese":"全く（まったく）","meaning":{"english":"really"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_i.mp3"}},{"japanese":"*全うする（まっとうする）","meaning":{"english":"fulfill"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_j.mp3"}},{"japanese":"全て（すべて）","meaning":{"english":"all"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_k.mp3"}}]},"jishoData":{"query":"全","found":true,"taughtIn":"grade 3","jlptLevel":"N3","newspaperFrequencyRank":"75","strokeCount":6,"meaning":"whole, entire, all, complete, fulfill","kunyomi":["まった.く","すべ.て"],"onyomi":["ゼン"],"onyomiExamples":[{"example":"全","reading":"ゼン","meaning":"all, whole, entire, complete, total, pan-, complete (set), in total"},{"example":"全域","reading":"ゼンイキ","meaning":"the whole area, all areas"},{"example":"腎不全","reading":"ジンフゼン","meaning":"kidney failure, renal failure"},{"example":"大全","reading":"タイゼン","meaning":"complete collection, large collection, complete works"}],"kunyomiExamples":[{"example":"全く","reading":"まったく","meaning":"really, truly, entirely, completely, wholly, perfectly, indeed, good grief"},{"example":"全くする","reading":"まったくする","meaning":"to accomplish, to fulfill, to carry out"},{"example":"全て","reading":"すべて","meaning":"everything, all, the whole, entirely, completely, wholly, all"},{"example":"全てにおいて","reading":"すべてにおいて","meaning":"in all aspects, in everything, in all matters"}],"radical":{"symbol":"入","meaning":"enter"},"parts":["ハ","个","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20840_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05168.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5168.gif","uri":"https://jisho.org/search/%E5%85%A8%23kanji"}}
+{
+  "id": "全",
+  "kanjialiveData": {
+    "_id": "54317ae5791eba5146ee4989",
+    "_rev": "9-fa142a5ef56ab7607dbdfac51379be5a",
+    "rad_name_ja": "ひとやね",
+    "grade": 3,
+    "hint_group": 2,
+    "kunyomi": "matta, mattaku, sube, subete",
+    "meaning": "whole",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "全然（ぜんぜん）",
+        "meaning": {
+          "english": "not at all"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "全部（ぜんぶ）",
+        "meaning": {
+          "english": "all"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "全体（ぜんたい）",
+        "meaning": {
+          "english": "whole"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "全員（ぜんいん）",
+        "meaning": {
+          "english": "all members"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "全力（ぜんりょく）",
+        "meaning": {
+          "english": "all one's power"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "全世界（ぜんせかい）",
+        "meaning": {
+          "english": "the whole world"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "完全な（かんぜんな）",
+        "meaning": {
+          "english": "perfect"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "安全な（あんぜんな）",
+        "meaning": {
+          "english": "safe"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "全く（まったく）",
+        "meaning": {
+          "english": "really"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "*全うする（まっとうする）",
+        "meaning": {
+          "english": "fulfill"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "全て（すべて）",
+        "meaning": {
+          "english": "all"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matta(ku)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matta(ku)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matta(ku)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matta(ku)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "まった、まったく、すべ、すべて",
+    "ka_utf": "全",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=全",
+    "rad_name_search": [
+      "hitoyane"
+    ],
+    "rad_order": 12,
+    "txt_books": [
+      {
+        "chapter": "21",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "45",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "10"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "19"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "22"
+      }
+    ],
+    "kname": "matta(ku)",
+    "rad_utf": "𠆢",
+    "stroketimes": [
+      0,
+      1.399,
+      2.4,
+      3.533,
+      4.599,
+      5.4,
+      6.4
+    ],
+    "kunyomi_ka_display": "まった、すべ",
+    "dick": "1277",
+    "rad_name": "hitoyane",
+    "dicn": "384",
+    "mn_hint": "The owner is king 王 of everything in his house [9]: his house is his castle.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ゼン",
+    "rad_meaning": "person ",
+    "onyomi": "zen",
+    "ka_id": "ka_219",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "zen",
+      "zen"
+    ],
+    "kunyomi_search": [
+      "matta",
+      "mattaku",
+      "sube",
+      "subete",
+      "matta, mattaku, sube, subete"
+    ],
+    "meaning_search": [
+      "whole",
+      "whole"
+    ],
+    "onyomi_ja_search": [
+      "ゼン",
+      "ゼン"
+    ],
+    "kunyomi_ja_search": [
+      "まった",
+      "まったく",
+      "すべ",
+      "すべて",
+      "まった、まったく、すべ、すべて"
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "ひとやね"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:21",
+      "cij:c21",
+      "bk",
+      "bk:45",
+      "bk:c45",
+      "mac",
+      "mac:22",
+      "mac:c22",
+      "aij3",
+      "aij3:1",
+      "aij3:c1",
+      "aij3:v4",
+      "aij3:v4:1",
+      "aij3:v4:c1",
+      "gen",
+      "gen:16",
+      "gen:c16",
+      "ap",
+      "ap:12",
+      "ap:c12",
+      "kll",
+      "kll:24",
+      "kll:c24",
+      "cijr",
+      "cijr:10",
+      "cijr:c10",
+      "cijr",
+      "cijr:19",
+      "cijr:c19",
+      "cijr",
+      "cijr:22",
+      "cijr:c22"
+    ],
+    "rad_name_file": "hitoyane",
+    "kanji": {
+      "character": "全",
+      "meaning": {
+        "english": "whole"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          1.399,
+          2.4,
+          3.533,
+          4.599,
+          5.4,
+          6.4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/matta(ku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/matta(ku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/matta(ku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/matta(ku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/matta(ku)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/matta(ku)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "zen",
+        "katakana": "ゼン"
+      },
+      "kunyomi": {
+        "romaji": "matta, mattaku, sube, subete",
+        "hiragana": "まった、すべ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/matta(ku)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/matta(ku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/matta(ku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "𠆢",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/hitoyane.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "ひとやね",
+        "romaji": "hitoyane"
+      },
+      "meaning": {
+        "english": "person "
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
+        "https://media.kanjialive.com/rad_frames/hitoyane1.svg",
+        "https://media.kanjialive.com/rad_frames/hitoyane2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "1277",
+      "classic_nelson": "384"
+    }
+  },
+  "jishoData": {
+    "query": "全",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "75",
+    "strokeCount": 6,
+    "meaning": "whole, entire, all, complete, fulfill",
+    "kunyomi": [
+      "まった.く",
+      "すべ.て"
+    ],
+    "onyomi": [
+      "ゼン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "全",
+        "reading": "ゼン",
+        "meaning": "all, whole, entire, complete, total, pan-, complete (set), in total"
+      },
+      {
+        "example": "全域",
+        "reading": "ゼンイキ",
+        "meaning": "the whole area, the entire region, all parts (of), the whole field (of study), every field, the whole gamut"
+      },
+      {
+        "example": "腎不全",
+        "reading": "ジンフゼン",
+        "meaning": "kidney failure, renal failure"
+      },
+      {
+        "example": "大全",
+        "reading": "タイゼン",
+        "meaning": "complete collection, large collection, complete works"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "全く",
+        "reading": "まったく",
+        "meaning": "really, truly, entirely, completely, wholly, perfectly, indeed, good grief"
+      },
+      {
+        "example": "全くする",
+        "reading": "まったくする",
+        "meaning": "to accomplish, to fulfill, to carry out"
+      },
+      {
+        "example": "全て",
+        "reading": "すべて",
+        "meaning": "everything, all, the whole, entirely, completely, wholly, all"
+      },
+      {
+        "example": "すべて選択",
+        "reading": "すべてせんたく",
+        "meaning": "select all"
+      }
+    ],
+    "radical": {
+      "symbol": "入",
+      "meaning": "enter"
+    },
+    "parts": [
+      "ハ",
+      "个",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20840_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05168.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5168.gif",
+    "uri": "https://jisho.org/search/%E5%85%A8%23kanji"
+  }
+}

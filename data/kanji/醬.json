@@ -1,0 +1,33 @@
+{
+  "id": "醬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醬",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "any jam-like or paste-like food",
+    "kunyomi": [
+      "ひしお"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醤油",
+        "reading": "ショウユ",
+        "meaning": "soy sauce, soya sauce, shoyu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37292_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91ac.gif",
+    "uri": "https://jisho.org/search/%E9%86%AC%23kanji"
+  }
+}

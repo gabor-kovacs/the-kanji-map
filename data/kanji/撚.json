@@ -1,1 +1,76 @@
-{"id":"撚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"撚","found":true,"newspaperFrequencyRank":"2398","strokeCount":15,"meaning":"twist, twine, kinky","kunyomi":["よ.る","よ.れる","より","ひね.る"],"onyomi":["ネン"],"onyomiExamples":[{"example":"撚糸","reading":"ネンシ","meaning":"twisted thread or yarn, twining of thread or yarn"}],"kunyomiExamples":[{"example":"撚る","reading":"よる","meaning":"to twist (yarn), to lay (rope)"},{"example":"縒り","reading":"より","meaning":"twist, ply"},{"example":"縒り合わせる","reading":"よりあわせる","meaning":"to intertwine, to twist together"},{"example":"紙縒り","reading":"こより","meaning":"string made from twisted paper"},{"example":"捻る","reading":"ひねる","meaning":"to twist, to wrench, to turn (a switch on or off, etc.), to wring (a neck), to puzzle over, to defeat easily"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["夕","扎","杰","犬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25754_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0649a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/649a.gif","uri":"https://jisho.org/search/%E6%92%9A%23kanji"}}
+{
+  "id": "撚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撚",
+    "found": true,
+    "newspaperFrequencyRank": "2398",
+    "strokeCount": 15,
+    "meaning": "twist, twine, kinky",
+    "kunyomi": [
+      "よ.る",
+      "よ.れる",
+      "より",
+      "ひね.る"
+    ],
+    "onyomi": [
+      "ネン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "撚糸",
+        "reading": "ネンシ",
+        "meaning": "twisted thread or yarn, twining of thread or yarn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "撚る",
+        "reading": "よる",
+        "meaning": "to twist (yarn), to lay (rope)"
+      },
+      {
+        "example": "縒れる",
+        "reading": "よれる",
+        "meaning": "to get twisted, to get kinked"
+      },
+      {
+        "example": "縒り",
+        "reading": "より",
+        "meaning": "twist, ply"
+      },
+      {
+        "example": "撚り合わせる",
+        "reading": "よりあわせる",
+        "meaning": "to intertwine, to twist together"
+      },
+      {
+        "example": "紙縒り",
+        "reading": "こより",
+        "meaning": "string made from twisted paper"
+      },
+      {
+        "example": "捻る",
+        "reading": "ひねる",
+        "meaning": "to twist, to wrench, to turn (a tap, switch, etc.), to twist (a body part), to bend, to sprain, to strangle (to death), to wring (an animal's neck), to defeat easily, to beat, to make (a problem, design, etc.) intricate, to make peculiar, to make complicated, to manage to compose (a haiku, song, etc.), to wrap (a monetary gift) in paper"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "夕",
+      "扎",
+      "杰",
+      "犬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25754_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0649a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/649a.gif",
+    "uri": "https://jisho.org/search/%E6%92%9A%23kanji"
+  }
+}

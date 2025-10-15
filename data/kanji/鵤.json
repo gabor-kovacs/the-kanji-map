@@ -1,1 +1,46 @@
-{"id":"鵤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鵤","found":true,"strokeCount":18,"meaning":"grosbeak, hawkfinch, (kokuji)","kunyomi":["いかる","いかるが"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"斑鳩","reading":"いかる","meaning":"Japanese grosbeak (Eophona personata)"},{"example":"斑鳩","reading":"いかる","meaning":"Japanese grosbeak (Eophona personata)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["杰","角","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40292_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d64.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d64.gif","uri":"https://jisho.org/search/%E9%B5%A4%23kanji"}}
+{
+  "id": "鵤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鵤",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "grosbeak, hawkfinch, (kokuji)",
+    "kunyomi": [
+      "いかる",
+      "いかるが"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "【イカル】",
+        "reading": "Japanese grosbeak (Eophona personata)",
+        "meaning": ""
+      },
+      {
+        "example": "斑鳩",
+        "reading": "いかるが",
+        "meaning": "Japanese grosbeak"
+      },
+      {
+        "example": "斑鳩",
+        "reading": "いかるが",
+        "meaning": "Japanese grosbeak"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "杰",
+      "角",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40292_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d64.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d64.gif",
+    "uri": "https://jisho.org/search/%E9%B5%A4%23kanji"
+  }
+}

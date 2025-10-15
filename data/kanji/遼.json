@@ -1,1 +1,54 @@
-{"id":"遼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遼","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2050","strokeCount":15,"meaning":"distant","kunyomi":[],"onyomi":["リョウ"],"onyomiExamples":[{"example":"遼","reading":"リョウ","meaning":"Liao (Manchurian dynasty; 916-1125 CE), Khitan Empire"},{"example":"遼遠","reading":"リョウエン","meaning":"remote, far off"},{"example":"西遼","reading":"セイリョウ","meaning":"Western Liao (Central Asian Khitan empire; 1132-1211)"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["大","小","并","日","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36988_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0907c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/907c.gif","uri":"https://jisho.org/search/%E9%81%BC%23kanji"}}
+{
+  "id": "遼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遼",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2050",
+    "strokeCount": 15,
+    "meaning": "distant",
+    "kunyomi": [],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遼",
+        "reading": "リョウ",
+        "meaning": "Liao (Manchurian dynasty; 916-1125 CE), Khitan Empire"
+      },
+      {
+        "example": "遼遠",
+        "reading": "リョウエン",
+        "meaning": "remote, far off"
+      },
+      {
+        "example": "西遼",
+        "reading": "セイリョウ",
+        "meaning": "Western Liao (Central Asian Khitan empire; 1132-1211)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "大",
+      "小",
+      "并",
+      "日",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36988_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0907c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/907c.gif",
+    "uri": "https://jisho.org/search/%E9%81%BC%23kanji"
+  }
+}

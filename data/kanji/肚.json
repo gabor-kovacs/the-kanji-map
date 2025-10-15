@@ -1,1 +1,50 @@
-{"id":"肚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"肚","found":true,"strokeCount":7,"meaning":"belly, stomach","kunyomi":["はら"],"onyomi":["ト"],"onyomiExamples":[{"example":"肚裏","reading":"トリ","meaning":"in the heart"}],"kunyomiExamples":[{"example":"腹","reading":"はら","meaning":"abdomen, belly, stomach, womb, one's mind, one's real intentions, one's true motive, courage, nerve, willpower, generosity, magnanimity, feelings, emotions, wide middle part, bulging part, inside, interior, inner part, anti-node, counter for hard roe, counter for containers with bulging middles (pots, vases, etc.)"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["土","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32922_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0809a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/809a.gif","uri":"https://jisho.org/search/%E8%82%9A%23kanji"}}
+{
+  "id": "肚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肚",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "belly, stomach",
+    "kunyomi": [
+      "はら"
+    ],
+    "onyomi": [
+      "ト"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肚裏",
+        "reading": "トリ",
+        "meaning": "in the heart"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "腹",
+        "reading": "はら",
+        "meaning": "abdomen, belly, stomach, womb, one's mind, one's real intentions, one's true motive, courage, nerve, willpower, generosity, magnanimity, feelings, emotions, wide middle part, bulging part, inside, interior, inner part, anti-node, counter for hard roe, counter for containers with bulging middles (pots, vases, etc.)"
+      },
+      {
+        "example": "腹を据える",
+        "reading": "はらをすえる",
+        "meaning": "to make up one's mind, to calm oneself, to be patient, to endure"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "土",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32922_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0809a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/809a.gif",
+    "uri": "https://jisho.org/search/%E8%82%9A%23kanji"
+  }
+}

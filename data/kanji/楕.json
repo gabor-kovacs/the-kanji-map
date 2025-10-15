@@ -1,1 +1,44 @@
-{"id":"楕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"楕","found":true,"newspaperFrequencyRank":"2476","strokeCount":13,"meaning":"ellipse","kunyomi":[],"onyomi":["ダ","タ"],"onyomiExamples":[{"example":"楕円形","reading":"ダエンケイ","meaning":"elliptical shape"},{"example":"楕円","reading":"ダエン","meaning":"ellipse"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["ノ","一","工","月","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26965_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06955.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6955.gif","uri":"https://jisho.org/search/%E6%A5%95%23kanji"}}
+{
+  "id": "楕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楕",
+    "found": true,
+    "newspaperFrequencyRank": "2476",
+    "strokeCount": 13,
+    "meaning": "ellipse",
+    "kunyomi": [],
+    "onyomi": [
+      "ダ",
+      "タ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "楕円形",
+        "reading": "ダエンケイ",
+        "meaning": "elliptical shape, oval shape"
+      },
+      {
+        "example": "楕円",
+        "reading": "ダエン",
+        "meaning": "ellipse, oval"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "工",
+      "月",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26965_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06955.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6955.gif",
+    "uri": "https://jisho.org/search/%E6%A5%95%23kanji"
+  }
+}

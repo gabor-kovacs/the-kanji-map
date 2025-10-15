@@ -1,1 +1,50 @@
-{"id":"嚥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嚥","found":true,"strokeCount":19,"meaning":"swallow","kunyomi":["の.む"],"onyomi":["エン"],"onyomiExamples":[{"example":"嚥下","reading":"エンゲ","meaning":"swallowing, deglutition"},{"example":"嚥下不能","reading":"エンカフノウ","meaning":"aphagia, aglutition, acataposis"},{"example":"誤嚥","reading":"ゴエン","meaning":"breathing in (of a foreign body, food, etc.), pulmonary aspiration, mis-swallowing, swallowing down the wrong pipe"}],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["一","凵","匕","口","杰","爿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22181_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056a5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56a5.gif","uri":"https://jisho.org/search/%E5%9A%A5%23kanji"}}
+{
+  "id": "嚥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嚥",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "swallow",
+    "kunyomi": [
+      "の.む"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嚥下",
+        "reading": "エンゲ",
+        "meaning": "swallowing, deglutition"
+      },
+      {
+        "example": "嚥下不能",
+        "reading": "エンカフノウ",
+        "meaning": "aphagia, aglutition, acataposis"
+      },
+      {
+        "example": "誤嚥",
+        "reading": "ゴエン",
+        "meaning": "breathing in (of a foreign body, food, etc.), pulmonary aspiration, mis-swallowing, swallowing down the wrong pipe"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "一",
+      "凵",
+      "匕",
+      "口",
+      "杰",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22181_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056a5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56a5.gif",
+    "uri": "https://jisho.org/search/%E5%9A%A5%23kanji"
+  }
+}

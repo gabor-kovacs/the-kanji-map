@@ -1,1 +1,66 @@
-{"id":"呆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"呆","found":true,"newspaperFrequencyRank":"1848","strokeCount":7,"meaning":"be amazed, disgusted, shocked","kunyomi":["ほけ.る","ぼ.ける","あき.れる","おろか"],"onyomi":["ホウ"],"onyomiExamples":[{"example":"呆","reading":"ホウ","meaning":"(I'm) shocked"},{"example":"呆ける","reading":"ボケル","meaning":"to grow senile, to be childish with age, to be mentally slow, to be befuddled, to play stupid, to say something stupid (oft. on purpose; esp. as part of a comedic routine), to become engrossed in, to become absorbed in"},{"example":"痴呆","reading":"チホウ","meaning":"dementia"},{"example":"踊る阿呆に見る阿呆","reading":"オドルアホウニミルアホウ","meaning":"you're a fool if you dance, and a fool if you just look on; we're all fools, so let's dance"}],"kunyomiExamples":[{"example":"呆ける","reading":"ぼける","meaning":"to grow senile, to be childish with age, to be mentally slow, to be befuddled, to play stupid, to say something stupid (oft. on purpose; esp. as part of a comedic routine), to become engrossed in, to become absorbed in"},{"example":"呆れる","reading":"あきれる","meaning":"to be amazed, to be shocked, to be astonished, to be astounded, to be disgusted, to be exasperated, to be fed up"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["口","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21574_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05446.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5446.gif","uri":"https://jisho.org/search/%E5%91%86%23kanji"}}
+{
+  "id": "呆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呆",
+    "found": true,
+    "newspaperFrequencyRank": "1848",
+    "strokeCount": 7,
+    "meaning": "be amazed, disgusted, shocked",
+    "kunyomi": [
+      "ほけ.る",
+      "ぼ.ける",
+      "あき.れる",
+      "おろか"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呆",
+        "reading": "ホウ",
+        "meaning": "(I'm) shocked"
+      },
+      {
+        "example": "惚ける",
+        "reading": "ホウケル",
+        "meaning": "to be mentally slow, to be befuddled, to become engrossed in, to become absorbed in, to become frayed and dishevelled (of hair, grass, etc.), to be fluffy"
+      },
+      {
+        "example": "痴呆",
+        "reading": "チホウ",
+        "meaning": "dementia, stupidity, foolishness, fool, idiot"
+      },
+      {
+        "example": "踊る阿呆に見る阿呆",
+        "reading": "オドルアホウニミルアホウ",
+        "meaning": "you're a fool if you dance, and a fool if you just look on; we're all fools, so let's dance"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【ボケる】",
+        "reading": "to grow senile, to be childish with age, to be mentally slow, to be befuddled, to play stupid, to say something stupid (oft. on purpose; esp. as part of a comedic routine)",
+        "meaning": ""
+      },
+      {
+        "example": "呆れる",
+        "reading": "あきれる",
+        "meaning": "to be amazed, to be shocked, to be astonished, to be astounded, to be disgusted, to be exasperated, to be fed up"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21574_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05446.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5446.gif",
+    "uri": "https://jisho.org/search/%E5%91%86%23kanji"
+  }
+}

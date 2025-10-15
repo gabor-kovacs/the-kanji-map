@@ -1,1 +1,61 @@
-{"id":"謙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"謙","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1582","strokeCount":17,"meaning":"self-effacing, humble oneself, condescend, be modest","kunyomi":["へりくだ.る"],"onyomi":["ケン"],"onyomiExamples":[{"example":"謙虚","reading":"ケンキョ","meaning":"modest, humble"},{"example":"謙遜","reading":"ケンソン","meaning":"modesty, humility, being humble"},{"example":"恭謙","reading":"キョウケン","meaning":"modesty, humility"}],"kunyomiExamples":[{"example":"謙る","reading":"へりくだる","meaning":"to deprecate oneself and praise the listener, to abase oneself"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["ハ","ヨ","并","言","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35609_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b19.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b19.gif","uri":"https://jisho.org/search/%E8%AC%99%23kanji"}}
+{
+  "id": "謙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謙",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1582",
+    "strokeCount": 17,
+    "meaning": "self-effacing, humble oneself, condescend, be modest",
+    "kunyomi": [
+      "へりくだ.る"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謙虚",
+        "reading": "ケンキョ",
+        "meaning": "modest, humble"
+      },
+      {
+        "example": "謙遜",
+        "reading": "ケンソン",
+        "meaning": "modesty, humility, being humble"
+      },
+      {
+        "example": "恭謙",
+        "reading": "キョウケン",
+        "meaning": "modesty, humility"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "謙る",
+        "reading": "へりくだる",
+        "meaning": "to deprecate oneself and praise the listener, to abase oneself"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "ハ",
+      "ヨ",
+      "并",
+      "言",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35609_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b19.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b19.gif",
+    "uri": "https://jisho.org/search/%E8%AC%99%23kanji"
+  }
+}

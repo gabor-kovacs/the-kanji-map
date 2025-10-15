@@ -1,1 +1,64 @@
-{"id":"倶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"倶","found":true,"newspaperFrequencyRank":"1842","strokeCount":10,"meaning":"both, together, alike","kunyomi":["とも.に"],"onyomi":["グ","ク"],"onyomiExamples":[{"example":"具す","reading":"グス","meaning":"to accompany, to follow, to assemble (necessary items), to prepare"},{"example":"具する","reading":"グスル","meaning":"to accompany, to follow, to assemble (necessary items), to prepare"},{"example":"倶楽部","reading":"クラブ","meaning":"club, fraternity, sorority, clubhouse"},{"example":"倶伎羅","reading":"クキラ","meaning":"Asian koel (Eudynamys scolopacea), lesser cuckoo (Cuculus poliocephalus)"}],"kunyomiExamples":[{"example":"共に","reading":"ともに","meaning":"together, jointly, at the same time, with, as ..., including, along with, both"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["ハ","一","化","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20534_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05036.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5036.gif","uri":"https://jisho.org/search/%E5%80%B6%23kanji"}}
+{
+  "id": "倶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "倶",
+    "found": true,
+    "newspaperFrequencyRank": "1842",
+    "strokeCount": 10,
+    "meaning": "both, together, alike",
+    "kunyomi": [
+      "とも.に"
+    ],
+    "onyomi": [
+      "グ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "具す",
+        "reading": "グス",
+        "meaning": "to accompany, to follow, to assemble (necessary items), to prepare"
+      },
+      {
+        "example": "具する",
+        "reading": "グスル",
+        "meaning": "to accompany, to follow, to assemble (necessary items), to prepare"
+      },
+      {
+        "example": "倶楽部",
+        "reading": "クラブ",
+        "meaning": "club, fraternity, sorority, clubhouse"
+      },
+      {
+        "example": "倶伎羅",
+        "reading": "クキラ",
+        "meaning": "Asian koel (Eudynamys scolopacea), lesser cuckoo (Cuculus poliocephalus)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "共に",
+        "reading": "ともに",
+        "meaning": "together, jointly, at the same time, with, as ..., including, along with, both"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "化",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20534_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05036.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5036.gif",
+    "uri": "https://jisho.org/search/%E5%80%B6%23kanji"
+  }
+}

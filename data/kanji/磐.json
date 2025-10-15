@@ -1,1 +1,63 @@
-{"id":"磐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"磐","found":true,"newspaperFrequencyRank":"1701","strokeCount":15,"meaning":"rock, crag, cliff, wall (in a mine)","kunyomi":["いわ"],"onyomi":["バン","ハン"],"onyomiExamples":[{"example":"盤石","reading":"バンジャク","meaning":"huge rock, firmness, solidity"},{"example":"落盤","reading":"ラクバン","meaning":"cave-in"}],"kunyomiExamples":[{"example":"岩","reading":"いわ","meaning":"rock, boulder, crag, cliff, anchor"},{"example":"磐城","reading":"いわき","meaning":"Iwaki (former province located in the central and eastern parts of present-day Fukushima and southern Miyagi prefectures)"}],"radical":{"symbol":"石","meaning":"stone"},"parts":["几","又","口","殳","石","舟"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30928_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/078d0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/78d0.gif","uri":"https://jisho.org/search/%E7%A3%90%23kanji"}}
+{
+  "id": "磐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "磐",
+    "found": true,
+    "newspaperFrequencyRank": "1701",
+    "strokeCount": 15,
+    "meaning": "rock, crag, cliff, wall (in a mine)",
+    "kunyomi": [
+      "いわ"
+    ],
+    "onyomi": [
+      "バン",
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "盤石",
+        "reading": "バンジャク",
+        "meaning": "huge rock, firmness, solidity"
+      },
+      {
+        "example": "磐越西線",
+        "reading": "バンエツサイセン",
+        "meaning": "Ban'etsu West Line"
+      },
+      {
+        "example": "落盤",
+        "reading": "ラクバン",
+        "meaning": "cave-in"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "岩",
+        "reading": "いわ",
+        "meaning": "rock, boulder, crag"
+      },
+      {
+        "example": "磐城",
+        "reading": "いわき",
+        "meaning": "Iwaki (former province located in the central and eastern parts of present-day Fukushima and southern Miyagi prefectures)"
+      }
+    ],
+    "radical": {
+      "symbol": "石",
+      "meaning": "stone"
+    },
+    "parts": [
+      "几",
+      "又",
+      "口",
+      "殳",
+      "石",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30928_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/078d0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/78d0.gif",
+    "uri": "https://jisho.org/search/%E7%A3%90%23kanji"
+  }
+}

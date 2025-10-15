@@ -1,1 +1,37 @@
-{"id":"霆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霆","found":true,"strokeCount":15,"meaning":"lightning, thunder","kunyomi":["いかづち"],"onyomi":["テイ"],"onyomiExamples":[{"example":"雷霆","reading":"ライテイ","meaning":"thunder"}],"kunyomiExamples":[],"radical":{"symbol":"雨","meaning":"rain"},"parts":["廴","王","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38662_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09706.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9706.gif","uri":"https://jisho.org/search/%E9%9C%86%23kanji"}}
+{
+  "id": "霆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霆",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "lightning, thunder",
+    "kunyomi": [
+      "いかづち"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雷霆",
+        "reading": "ライテイ",
+        "meaning": "thunder"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "廴",
+      "王",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38662_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09706.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9706.gif",
+    "uri": "https://jisho.org/search/%E9%9C%86%23kanji"
+  }
+}

@@ -1,1 +1,46 @@
-{"id":"蕁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蕁","found":true,"strokeCount":15,"meaning":"a kind of grass","kunyomi":[],"onyomi":["ジン","タン"],"onyomiExamples":[{"example":"刺草","reading":"イラクサ","meaning":"Urtica thunbergiana (species of stinging nettle)"},{"example":"蕁麻疹","reading":"ジンマシン","meaning":"hives, nettle rash, urticaria"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ヨ","口","寸","工","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34113_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08541.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8541.gif","uri":"https://jisho.org/search/%E8%95%81%23kanji"}}
+{
+  "id": "蕁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕁",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "a kind of grass",
+    "kunyomi": [],
+    "onyomi": [
+      "ジン",
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "刺草",
+        "reading": "イラクサ",
+        "meaning": "Urtica thunbergiana (species of stinging nettle)"
+      },
+      {
+        "example": "蕁麻疹",
+        "reading": "ジンマシン",
+        "meaning": "hives, nettle rash, urticaria"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ヨ",
+      "口",
+      "寸",
+      "工",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34113_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08541.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8541.gif",
+    "uri": "https://jisho.org/search/%E8%95%81%23kanji"
+  }
+}

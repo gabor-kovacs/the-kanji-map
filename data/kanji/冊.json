@@ -1,1 +1,278 @@
-{"id":"冊","kanjialiveData":{"kanji":{"character":"冊","meaning":{"english":"counter for books"},"strokes":{"count":5,"timings":[0,1.598,4.278,5.081,6.086,7.571],"images":["https://media.kanjialive.com/kanji_strokes/(nan)satsu_1.svg","https://media.kanjialive.com/kanji_strokes/(nan)satsu_2.svg","https://media.kanjialive.com/kanji_strokes/(nan)satsu_3.svg","https://media.kanjialive.com/kanji_strokes/(nan)satsu_4.svg","https://media.kanjialive.com/kanji_strokes/(nan)satsu_5.svg"]},"onyomi":{"romaji":"satsu, saku","katakana":"サツ、サク"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(nan)satsu_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(nan)satsu_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(nan)satsu_00.webm"}},"radical":{"character":"⼌ ","strokes":2,"image":"https://media.kanjialive.com/radical_character/keigamae.svg","position":{"hiragana":"かまえ, けいがまえ","romaji":"kamae, keigamae","icon":"https://media.kanjialive.com/rad_positions/keigamae.svg"},"name":{"hiragana":"けいがまえ","romaji":"keigamae"},"meaning":{"english":"to enclose"},"animation":["https://media.kanjialive.com/rad_frames/keigamae0.svg","https://media.kanjialive.com/rad_frames/keigamae1.svg","https://media.kanjialive.com/rad_frames/keigamae2.svg"]},"references":{"grade":6,"kodansha":"2171","classic_nelson":"88"},"examples":[{"japanese":"一冊（いっさつ）","meaning":{"english":"one (bound object)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(nan)satsu_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(nan)satsu_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(nan)satsu_06_a.mp3"}},{"japanese":"冊数（さっすう）","meaning":{"english":"number of bound things"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(nan)satsu_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(nan)satsu_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(nan)satsu_06_b.mp3"}},{"japanese":"別冊（べっさつ）","meaning":{"english":"extra issue"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(nan)satsu_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(nan)satsu_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(nan)satsu_06_c.mp3"}},{"japanese":"短冊（たんざく）","meaning":{"english":"small vertical card for poem"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(nan)satsu_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(nan)satsu_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(nan)satsu_06_d.mp3"}}]},"jishoData":{"query":"冊","found":true,"taughtIn":"grade 6","jlptLevel":"N2","newspaperFrequencyRank":"1313","strokeCount":5,"meaning":"tome, counter for books, volume","kunyomi":["ふみ"],"onyomi":["サツ","サク"],"onyomiExamples":[{"example":"冊","reading":"サツ","meaning":"counter for books, volume"},{"example":"別冊","reading":"ベッサツ","meaning":"separate volume, extra issue, supplement, additional volume, supplementary volume"},{"example":"合冊","reading":"ガッサツ","meaning":"collection in one volume"},{"example":"冊","reading":"サク","meaning":"imperial edict to confer nobility titles (in ancient China)"},{"example":"冊封","reading":"サクホウ","meaning":"bestowing peerage by imperial edict (in ancient China), document bestowing peerage"}],"kunyomiExamples":[],"radical":{"symbol":"冂","meaning":"open country"},"parts":["一","亅","冂","冊","廾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20874_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0518a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/518a.gif","uri":"https://jisho.org/search/%E5%86%8A%23kanji"}}
+{
+  "id": "冊",
+  "kanjialiveData": {
+    "_id": "54317b00791eba5146ee4b93",
+    "_rev": "10-87ebfb63c92f846b5d5f38c639cf595c",
+    "rad_name_ja": "けいがまえ",
+    "grade": 6,
+    "hint_group": 50,
+    "kunyomi": "n/a",
+    "meaning": "counter for books",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "一冊（いっさつ）",
+        "meaning": {
+          "english": "one (bound object)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)satsu_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)satsu_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)satsu_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "冊数（さっすう）",
+        "meaning": {
+          "english": "number of bound things"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)satsu_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)satsu_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)satsu_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "別冊（べっさつ）",
+        "meaning": {
+          "english": "extra issue"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)satsu_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)satsu_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)satsu_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "短冊（たんざく）",
+        "meaning": {
+          "english": "small vertical card for poem"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)satsu_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)satsu_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)satsu_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "冊",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=冊",
+    "kname": "(nan)satsu",
+    "rad_order": 17,
+    "txt_books": [
+      {
+        "chapter": "11",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "28",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "rad_name_search": [
+      "keigamae"
+    ],
+    "rad_utf": "⼌ ",
+    "stroketimes": [
+      0,
+      1.598,
+      4.278,
+      5.081,
+      6.086,
+      7.571
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "2171",
+    "rad_name": "keigamae",
+    "dicn": "88",
+    "mn_hint": "Pages or inscribed slats [159] tied with string 一.",
+    "rad_stroke": 2,
+    "onyomi_ja": "サツ、サク",
+    "rad_meaning": "to enclose",
+    "onyomi": "satsu, saku",
+    "ka_id": "ka_69",
+    "rad_position": "kamae, keigamae",
+    "rad_position_ja": "かまえ, けいがまえ",
+    "rad_position_search": [
+      "kamae",
+      "keigamae",
+      "kamae, keigamae"
+    ],
+    "onyomi_search": [
+      "satsu",
+      "saku",
+      "satsu, saku"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "counter for books",
+      "counter",
+      "for",
+      "books",
+      "counter for books"
+    ],
+    "onyomi_ja_search": [
+      "サツ",
+      "サク",
+      "サツ、サク"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "to enclose",
+      "to",
+      "enclose",
+      "to enclose"
+    ],
+    "rad_position_ja_search": [
+      "かまえ",
+      "けいがまえ",
+      "かまえ, けいがまえ"
+    ],
+    "rad_name_ja_search": [
+      "けいがまえ"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:11",
+      "cij:c11",
+      "kll",
+      "kll:28",
+      "kll:c28"
+    ],
+    "rad_name_file": "keigamae",
+    "kanji": {
+      "character": "冊",
+      "meaning": {
+        "english": "counter for books"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          1.598,
+          4.278,
+          5.081,
+          6.086,
+          7.571
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(nan)satsu_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nan)satsu_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nan)satsu_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nan)satsu_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nan)satsu_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "satsu, saku",
+        "katakana": "サツ、サク"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(nan)satsu_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(nan)satsu_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(nan)satsu_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼌ ",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/keigamae.svg",
+      "position": {
+        "hiragana": "かまえ, けいがまえ",
+        "romaji": "kamae, keigamae",
+        "icon": "https://media.kanjialive.com/rad_positions/keigamae.svg"
+      },
+      "name": {
+        "hiragana": "けいがまえ",
+        "romaji": "keigamae"
+      },
+      "meaning": {
+        "english": "to enclose"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/keigamae0.svg",
+        "https://media.kanjialive.com/rad_frames/keigamae1.svg",
+        "https://media.kanjialive.com/rad_frames/keigamae2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "2171",
+      "classic_nelson": "88"
+    }
+  },
+  "jishoData": {
+    "query": "冊",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1313",
+    "strokeCount": 5,
+    "meaning": "tome, counter for books, volume",
+    "kunyomi": [
+      "ふみ"
+    ],
+    "onyomi": [
+      "サツ",
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冊",
+        "reading": "サツ",
+        "meaning": "counter for books, volume"
+      },
+      {
+        "example": "別冊",
+        "reading": "ベッサツ",
+        "meaning": "separate volume, extra issue, supplement, additional volume, supplementary volume"
+      },
+      {
+        "example": "合冊",
+        "reading": "ガッサツ",
+        "meaning": "collection in one volume"
+      },
+      {
+        "example": "冊",
+        "reading": "サク",
+        "meaning": "imperial edict to confer nobility titles (in ancient China)"
+      },
+      {
+        "example": "冊封",
+        "reading": "サクホウ",
+        "meaning": "bestowing peerage by imperial edict (in ancient China), document bestowing peerage"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冂",
+      "meaning": "open country"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "冂",
+      "冊",
+      "廾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20874_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0518a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/518a.gif",
+    "uri": "https://jisho.org/search/%E5%86%8A%23kanji"
+  }
+}

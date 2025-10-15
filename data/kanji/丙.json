@@ -1,1 +1,60 @@
-{"id":"丙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"丙","found":true,"taughtIn":"junior high","jlptLevel":"N1","strokeCount":5,"meaning":"third class, 3rd, 3rd calendar sign","kunyomi":["ひのえ"],"onyomi":["ヘイ"],"onyomiExamples":[{"example":"丙","reading":"ヘイ","meaning":"third rank, third class, third person (in a contract, etc.), third sign of the Chinese calendar"},{"example":"丙寅","reading":"ヒノエトラ","meaning":"Fire Tiger (3rd term of the sexagenary cycle, e.g. 1926, 1986, 2046)"},{"example":"甲乙丙","reading":"コウオツヘイ","meaning":"ABC, 1, 2 and 3"}],"kunyomiExamples":[{"example":"丙","reading":"へい","meaning":"third rank, third class, third person (in a contract, etc.), third sign of the Chinese calendar"},{"example":"丙戌","reading":"ひのえいぬ","meaning":"Fire Dog (23rd term of the sexagenary cycle, e.g. 1946, 2006, 2066)"}],"radical":{"symbol":"一","meaning":"one"},"parts":["一","人","冂"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/19993_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e19.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e19.gif","uri":"https://jisho.org/search/%E4%B8%99%23kanji"}}
+{
+  "id": "丙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "丙",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "strokeCount": 5,
+    "meaning": "third class, 3rd, 3rd calendar sign",
+    "kunyomi": [
+      "ひのえ"
+    ],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丙",
+        "reading": "ヘイ",
+        "meaning": "third rank, third class, third person (in a contract, etc.), third sign of the Chinese calendar"
+      },
+      {
+        "example": "丙寅",
+        "reading": "ヒノエトラ",
+        "meaning": "Fire Tiger (3rd term of the sexagenary cycle, e.g. 1926, 1986, 2046)"
+      },
+      {
+        "example": "甲乙丙",
+        "reading": "コウオツヘイ",
+        "meaning": "A, B and C, first, second and third"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "丙",
+        "reading": "へい",
+        "meaning": "third rank, third class, third person (in a contract, etc.), third sign of the Chinese calendar"
+      },
+      {
+        "example": "丙戌",
+        "reading": "ひのえいぬ",
+        "meaning": "Fire Dog (23rd term of the sexagenary cycle, e.g. 1946, 2006, 2066)"
+      }
+    ],
+    "radical": {
+      "symbol": "一",
+      "meaning": "one"
+    },
+    "parts": [
+      "一",
+      "人",
+      "冂"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/19993_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e19.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e19.gif",
+    "uri": "https://jisho.org/search/%E4%B8%99%23kanji"
+  }
+}

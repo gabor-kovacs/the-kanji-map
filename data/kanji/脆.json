@@ -1,1 +1,55 @@
-{"id":"脆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"脆","found":true,"strokeCount":10,"meaning":"brittle, fragile, easy to beat, sentimental, susceptible","kunyomi":["もろ.い","よわい"],"onyomi":["ゼイ","セイ","セツ"],"onyomiExamples":[{"example":"脆弱","reading":"ゼイジャク","meaning":"weak, frail, fragile"},{"example":"脆化","reading":"ゼイカ","meaning":"embrittlement"}],"kunyomiExamples":[{"example":"脆い","reading":"もろい","meaning":"brittle, fragile, weak, frail, tender-hearted, sentimental, easily moved"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["勹","卩","厂","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33030_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08106.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8106.gif","uri":"https://jisho.org/search/%E8%84%86%23kanji"}}
+{
+  "id": "脆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "脆",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "brittle, fragile, easy to beat, sentimental, susceptible",
+    "kunyomi": [
+      "もろ.い",
+      "よわい"
+    ],
+    "onyomi": [
+      "ゼイ",
+      "セイ",
+      "セツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "脆弱",
+        "reading": "ゼイジャク",
+        "meaning": "weak, frail, fragile"
+      },
+      {
+        "example": "脆化",
+        "reading": "ゼイカ",
+        "meaning": "embrittlement"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脆い",
+        "reading": "もろい",
+        "meaning": "brittle, fragile, weak, frail, tender-hearted, sentimental, easily moved"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "勹",
+      "卩",
+      "厂",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33030_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08106.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8106.gif",
+    "uri": "https://jisho.org/search/%E8%84%86%23kanji"
+  }
+}

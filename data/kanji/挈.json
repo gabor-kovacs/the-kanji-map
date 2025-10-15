@@ -1,1 +1,41 @@
-{"id":"挈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"挈","found":true,"strokeCount":10,"meaning":"carry by hand","kunyomi":["ひっさ.げる"],"onyomi":["ケイ","ケツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["刀","土","手"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25352_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06308.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6308.gif","uri":"https://jisho.org/search/%E6%8C%88%23kanji"}}
+{
+  "id": "挈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挈",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "carry by hand",
+    "kunyomi": [
+      "ひっさ.げる"
+    ],
+    "onyomi": [
+      "ケイ",
+      "ケツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "提挈",
+        "reading": "テイケツ",
+        "meaning": "cooperation"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "刀",
+      "土",
+      "手"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25352_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06308.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6308.gif",
+    "uri": "https://jisho.org/search/%E6%8C%88%23kanji"
+  }
+}

@@ -1,1 +1,44 @@
-{"id":"椅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"椅","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2245","strokeCount":12,"meaning":"chair","kunyomi":[],"onyomi":["イ"],"onyomiExamples":[{"example":"椅子","reading":"イス","meaning":"chair, stool, post, office, position"},{"example":"倚子","reading":"イシ","meaning":"traditional square chair with armrests and a torii-shaped back (used by the emperor, etc. during ceremonies)"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","亅","口","大","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26885_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06905.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6905.gif","uri":"https://jisho.org/search/%E6%A4%85%23kanji"}}
+{
+  "id": "椅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椅",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2245",
+    "strokeCount": 12,
+    "meaning": "chair",
+    "kunyomi": [],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "椅子",
+        "reading": "イス",
+        "meaning": "chair, seat, stool, bench, post, position, seat, office"
+      },
+      {
+        "example": "倚子",
+        "reading": "イシ",
+        "meaning": "traditional square chair with armrests and a torii-shaped back (used by the emperor, etc. during ceremonies)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "大",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26885_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06905.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6905.gif",
+    "uri": "https://jisho.org/search/%E6%A4%85%23kanji"
+  }
+}

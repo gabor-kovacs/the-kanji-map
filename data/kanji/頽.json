@@ -1,1 +1,50 @@
-{"id":"頽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"頽","found":true,"strokeCount":16,"meaning":"decline, slide","kunyomi":["くず.れる"],"onyomi":["タイ"],"onyomiExamples":[{"example":"退廃","reading":"タイハイ","meaning":"(moral) decay, (social) decline, decadence, corruption, degeneration, deterioration, decline (in prosperity)"},{"example":"退勢","reading":"タイセイ","meaning":"decline, one's declining fortunes, decay"},{"example":"廃退","reading":"ハイタイ","meaning":"(moral) decay, (social) decline, decadence, corruption, degeneration, deterioration, decline (in prosperity), falling into disuse"}],"kunyomiExamples":[],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ハ","几","目","禾","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38973_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0983d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/983d.gif","uri":"https://jisho.org/search/%E9%A0%BD%23kanji"}}
+{
+  "id": "頽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頽",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "decline, slide",
+    "kunyomi": [
+      "くず.れる"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "退廃",
+        "reading": "タイハイ",
+        "meaning": "(moral) decay, (social) decline, decadence, corruption, degeneration, deterioration, decline (in prosperity)"
+      },
+      {
+        "example": "退勢",
+        "reading": "タイセイ",
+        "meaning": "decline, one's declining fortunes, decay"
+      },
+      {
+        "example": "廃退",
+        "reading": "ハイタイ",
+        "meaning": "(moral) decay, (social) decline, decadence, corruption, degeneration, deterioration, decline (in prosperity), falling into disuse"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ハ",
+      "几",
+      "目",
+      "禾",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38973_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0983d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/983d.gif",
+    "uri": "https://jisho.org/search/%E9%A0%BD%23kanji"
+  }
+}

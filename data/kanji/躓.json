@@ -1,1 +1,44 @@
-{"id":"躓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"躓","found":true,"strokeCount":22,"meaning":"stumble","kunyomi":["つまず.く"],"onyomi":["チ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"躓く","reading":"つまずく","meaning":"to trip (over), to stumble, to fail, to suffer a setback"}],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["ハ","口","斤","止","目","貝","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36499_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e93.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e93.gif","uri":"https://jisho.org/search/%E8%BA%93%23kanji"}}
+{
+  "id": "躓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "躓",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "stumble",
+    "kunyomi": [
+      "つまず.く"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "躓く",
+        "reading": "つまずく",
+        "meaning": "to trip (over), to stumble, to fail, to suffer a setback"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "斤",
+      "止",
+      "目",
+      "貝",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36499_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e93.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e93.gif",
+    "uri": "https://jisho.org/search/%E8%BA%93%23kanji"
+  }
+}

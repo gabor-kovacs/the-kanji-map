@@ -1,1 +1,44 @@
-{"id":"喇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"喇","found":true,"strokeCount":12,"meaning":"chatter, rattle on","kunyomi":[],"onyomi":["ラツ","ラ"],"onyomiExamples":[{"example":"喇叭","reading":"ラッパ","meaning":"trumpet, horn, bugle"},{"example":"喇叭雲丹","reading":"ラッパウニ","meaning":"flower urchin (Toxopneustes pileolus)"}],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["ハ","亠","刈","口","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21895_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05587.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5587.gif","uri":"https://jisho.org/search/%E5%96%87%23kanji"}}
+{
+  "id": "喇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喇",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "chatter, rattle on",
+    "kunyomi": [],
+    "onyomi": [
+      "ラツ",
+      "ラ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喇叭",
+        "reading": "ラッパ",
+        "meaning": "trumpet, horn, bugle"
+      },
+      {
+        "example": "喇叭雲丹",
+        "reading": "ラッパウニ",
+        "meaning": "flower urchin (Toxopneustes pileolus)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "刈",
+      "口",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21895_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05587.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5587.gif",
+    "uri": "https://jisho.org/search/%E5%96%87%23kanji"
+  }
+}

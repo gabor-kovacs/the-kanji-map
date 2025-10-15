@@ -1,1 +1,30 @@
-{"id":"埖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"埖","found":true,"strokeCount":10,"meaning":"garbage, refuse, (kokuji)","kunyomi":["ごみ"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["匕","化","土","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22486_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057d6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57d6.gif","uri":"https://jisho.org/search/%E5%9F%96%23kanji"}}
+{
+  "id": "埖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "埖",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "garbage, refuse, (kokuji)",
+    "kunyomi": [
+      "ごみ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "匕",
+      "化",
+      "土",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22486_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057d6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57d6.gif",
+    "uri": "https://jisho.org/search/%E5%9F%96%23kanji"
+  }
+}

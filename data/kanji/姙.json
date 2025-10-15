@@ -1,1 +1,45 @@
-{"id":"姙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"姙","found":true,"strokeCount":9,"meaning":"be(come) pregnant","kunyomi":["はら.む","みごも.る"],"onyomi":["ニン","ジン"],"onyomiExamples":[{"example":"不妊","reading":"フニン","meaning":"infertility, sterility, barrenness"},{"example":"懐妊","reading":"カイニン","meaning":"pregnancy, conception"}],"kunyomiExamples":[{"example":"身ごもる","reading":"みごもる","meaning":"to become pregnant"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["ノ","化","士","女"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23001_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059d9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59d9.gif","uri":"https://jisho.org/search/%E5%A7%99%23kanji"}}
+{
+  "id": "姙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "姙",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "be(come) pregnant",
+    "kunyomi": [
+      "はら.む",
+      "みごも.る"
+    ],
+    "onyomi": [
+      "ニン",
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "不妊",
+        "reading": "フニン",
+        "meaning": "infertility, sterility, barrenness"
+      },
+      {
+        "example": "懐妊",
+        "reading": "カイニン",
+        "meaning": "pregnancy, conception"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "ノ",
+      "化",
+      "士",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23001_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059d9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59d9.gif",
+    "uri": "https://jisho.org/search/%E5%A7%99%23kanji"
+  }
+}

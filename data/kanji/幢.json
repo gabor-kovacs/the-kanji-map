@@ -1,1 +1,37 @@
-{"id":"幢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"幢","found":true,"strokeCount":15,"meaning":"flag, banner","kunyomi":["はた"],"onyomi":["トウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"幢","reading":"はたほこ","meaning":"long-handled Chinese spear bearing a small flag, banner, hanging"}],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["巾","立","里"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24162_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e62.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e62.gif","uri":"https://jisho.org/search/%E5%B9%A2%23kanji"}}
+{
+  "id": "幢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幢",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "flag, banner",
+    "kunyomi": [
+      "はた"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "幢",
+        "reading": "はたほこ",
+        "meaning": "long-handled Chinese spear bearing a small flag, banner, hanging"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "巾",
+      "立",
+      "里"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24162_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e62.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e62.gif",
+    "uri": "https://jisho.org/search/%E5%B9%A2%23kanji"
+  }
+}

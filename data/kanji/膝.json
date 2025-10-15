@@ -1,1 +1,69 @@
-{"id":"膝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膝","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2320","strokeCount":15,"meaning":"knee, lap","kunyomi":["ひざ"],"onyomi":["シツ"],"onyomiExamples":[{"example":"膝窩静脈","reading":"シツカジョウミャク","meaning":"popliteal vein"},{"example":"膝窩動脈","reading":"シツカドウミャク","meaning":"popliteal artery"}],"kunyomiExamples":[{"example":"膝","reading":"ひざ","meaning":"knee, lap, knee and thigh (while sitting)"},{"example":"膝上","reading":"ひざうえ","meaning":"above the knee"},{"example":"両膝","reading":"りょうひざ","meaning":"both knees"},{"example":"突き膝","reading":"つきひざ","meaning":"knee touch down, posture with knees and toes on the floor"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["个","月","木","水"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33181_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0819d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/819d.gif","uri":"https://jisho.org/search/%E8%86%9D%23kanji"}}
+{
+  "id": "膝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膝",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2320",
+    "strokeCount": 15,
+    "meaning": "knee, lap",
+    "kunyomi": [
+      "ひざ"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膝窩静脈",
+        "reading": "シツカジョウミャク",
+        "meaning": "popliteal vein"
+      },
+      {
+        "example": "膝窩動脈",
+        "reading": "シツカドウミャク",
+        "meaning": "popliteal artery"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "膝",
+        "reading": "ひざ",
+        "meaning": "knee, lap, knee and thigh (while sitting)"
+      },
+      {
+        "example": "跪く",
+        "reading": "ひざまずく",
+        "meaning": "to kneel (in respect), to genuflect"
+      },
+      {
+        "example": "両膝",
+        "reading": "りょうひざ",
+        "meaning": "both knees"
+      },
+      {
+        "example": "突き膝",
+        "reading": "つきひざ",
+        "meaning": "knee touch down, posture with knees and toes on the floor"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "个",
+      "月",
+      "木",
+      "水"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33181_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0819d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/819d.gif",
+    "uri": "https://jisho.org/search/%E8%86%9D%23kanji"
+  }
+}

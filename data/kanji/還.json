@@ -1,1 +1,68 @@
-{"id":"還","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"還","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"910","strokeCount":16,"meaning":"send back, return","kunyomi":["かえ.る"],"onyomi":["カン"],"onyomiExamples":[{"example":"還付","reading":"カンプ","meaning":"return, restoration, refund, (duty) drawback"},{"example":"還元","reading":"カンゲン","meaning":"restoration, return, reduction, resolution, deoxidization, deoxidation"},{"example":"奪還","reading":"ダッカン","meaning":"recapture, retaking, recovery, taking back"},{"example":"送還","reading":"ソウカン","meaning":"sending home, repatriation, deportation"}],"kunyomiExamples":[{"example":"帰る","reading":"かえる","meaning":"to return, to come home, to go home, to go back, to leave (of a guest, customer, etc.), to get home, to get to home plate"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["一","口","衣","買","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36996_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09084.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9084.gif","uri":"https://jisho.org/search/%E9%82%84%23kanji"}}
+{
+  "id": "還",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "還",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "910",
+    "strokeCount": 16,
+    "meaning": "send back, return",
+    "kunyomi": [
+      "かえ.る"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "還元",
+        "reading": "カンゲン",
+        "meaning": "restoration, return, reduction, resolution, deoxidization, deoxidation"
+      },
+      {
+        "example": "環境",
+        "reading": "カンキョウ",
+        "meaning": "environment, surroundings, circumstances"
+      },
+      {
+        "example": "奪還",
+        "reading": "ダッカン",
+        "meaning": "recapture, retaking, recovery, taking back"
+      },
+      {
+        "example": "送還",
+        "reading": "ソウカン",
+        "meaning": "sending home, repatriation, deportation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "帰る",
+        "reading": "かえる",
+        "meaning": "to return, to come home, to go home, to go back, to leave (of a guest, customer, etc.), to get home, to get to home plate"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "一",
+      "口",
+      "衣",
+      "買",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36996_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09084.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9084.gif",
+    "uri": "https://jisho.org/search/%E9%82%84%23kanji"
+  }
+}

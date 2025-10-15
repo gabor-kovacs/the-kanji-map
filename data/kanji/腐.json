@@ -1,1 +1,100 @@
-{"id":"腐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"腐","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1225","strokeCount":14,"meaning":"rot, decay, sour","kunyomi":["くさ.る","-くさ.る","くさ.れる","くさ.れ","くさ.らす","くさ.す"],"onyomi":["フ"],"onyomiExamples":[{"example":"腐敗","reading":"フハイ","meaning":"decomposition, putrefaction, putrescence, spoilage, corruption, degeneracy, decay, depravity"},{"example":"腐心","reading":"フシン","meaning":"taking great pains (to do), making every effort, having a lot of trouble (doing), racking one's brains"},{"example":"防腐","reading":"ボウフ","meaning":"preservation from decay, prevention of putrefaction, embalmment, antisepsis"},{"example":"高野豆腐","reading":"コウヤドウフ","meaning":"freeze-dried tofu"}],"kunyomiExamples":[{"example":"腐る","reading":"くさる","meaning":"to rot, to go bad, to decay, to spoil, to fester, to decompose, to turn sour (e.g. milk), to corrode, to weather, to crumble, to become useless, to blunt, to weaken (from lack of practice), to become depraved, to be degenerate, to be morally bankrupt, to be corrupt, to be depressed, to be dispirited, to feel discouraged, to feel down, to have the audacity to, to be bastard enough to, to lose a bet, to be drenched, to become sopping wet"},{"example":"腐るほど","reading":"くさるほど","meaning":"more than one can possibly use, countless (e.g. examples), (money) to burn, rolling in (cash)"},{"example":"腐れる","reading":"くされる","meaning":"to spoil, to rot, to corrode"},{"example":"腐れ","reading":"くされ","meaning":"rotting, spoiling, decaying, corroding, rotten, worthless, paltry, contemptible"},{"example":"腐れ縁","reading":"くされえん","meaning":"(undesirable but) inseparable relationship"},{"example":"腐らす","reading":"くさらす","meaning":"to let spoil, to leave to rot, to cause to rot, to corrode, to discourage, to dishearten"},{"example":"腐す","reading":"くさす","meaning":"to speak ill of"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["化","寸","广","肉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33104_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08150.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8150.gif","uri":"https://jisho.org/search/%E8%85%90%23kanji"}}
+{
+  "id": "腐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腐",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1225",
+    "strokeCount": 14,
+    "meaning": "rot, decay, sour",
+    "kunyomi": [
+      "くさ.る",
+      "-くさ.る",
+      "くさ.れる",
+      "くさ.れ",
+      "くさ.らす",
+      "くさ.す"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腐敗",
+        "reading": "フハイ",
+        "meaning": "decomposition, putrefaction, putrescence, spoilage, corruption, degeneracy, decay, depravity"
+      },
+      {
+        "example": "腐心",
+        "reading": "フシン",
+        "meaning": "taking great pains (to do), making every effort, having a lot of trouble (doing), racking one's brains"
+      },
+      {
+        "example": "防腐",
+        "reading": "ボウフ",
+        "meaning": "preservation from decay, prevention of putrefaction, embalmment, antisepsis"
+      },
+      {
+        "example": "高野豆腐",
+        "reading": "コウヤドウフ",
+        "meaning": "freeze-dried tofu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "腐る",
+        "reading": "くさる",
+        "meaning": "to rot, to go bad, to decay, to spoil, to fester, to decompose, to turn sour (e.g. milk), to corrode, to weather, to crumble, to become useless, to blunt, to weaken (from lack of practice), to become depraved, to be degenerate, to be morally bankrupt, to be corrupt, to be depressed, to be dispirited, to feel discouraged, to feel down, to have the audacity to, to be bastard enough to, to lose a bet, to be drenched, to become sopping wet"
+      },
+      {
+        "example": "腐るほど",
+        "reading": "くさるほど",
+        "meaning": "more than one can possibly use, countless (e.g. examples), (money) to burn, rolling in (cash)"
+      },
+      {
+        "example": "腐れる",
+        "reading": "くされる",
+        "meaning": "to spoil, to rot, to corrode"
+      },
+      {
+        "example": "腐れ",
+        "reading": "くされ",
+        "meaning": "rotting, spoiling, decaying, corroding, rotten, worthless, paltry, contemptible"
+      },
+      {
+        "example": "腐れ縁",
+        "reading": "くされえん",
+        "meaning": "(undesirable but) inseparable relationship"
+      },
+      {
+        "example": "腐らす",
+        "reading": "くさらす",
+        "meaning": "to let spoil, to leave to rot, to cause to rot, to corrode, to discourage, to dishearten"
+      },
+      {
+        "example": "腐す",
+        "reading": "くさす",
+        "meaning": "to speak ill of"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "化",
+      "寸",
+      "广",
+      "肉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33104_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08150.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8150.gif",
+    "uri": "https://jisho.org/search/%E8%85%90%23kanji"
+  }
+}

@@ -1,1 +1,85 @@
-{"id":"賜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"賜","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2190","strokeCount":15,"meaning":"grant, gift, boon, results","kunyomi":["たまわ.る","たま.う","たも.う"],"onyomi":["シ"],"onyomiExamples":[{"example":"賜杯","reading":"シハイ","meaning":"Emperor's cup, trophy given by the Emperor"},{"example":"賜暇","reading":"シカ","meaning":"furlough, leave of absence"},{"example":"恩賜","reading":"オンシ","meaning":"Imperial gift"},{"example":"追賜","reading":"ツイシ","meaning":"being granted a court rank after death"}],"kunyomiExamples":[{"example":"賜る","reading":"たまわる","meaning":"to be given, to be granted, to be honored with, to be honoured with, to give, to bestow, to confer, to honor, to honour"},{"example":"給う","reading":"たまう","meaning":"to give, to do ..."},{"example":"給ふ","reading":"たまう","meaning":"to give, to receive"},{"example":"給う","reading":"たもう","meaning":"to give, to do ..."},{"example":"給ふ","reading":"たまう","meaning":"to give, to receive"}],"radical":{"symbol":"貝","meaning":"shell"},"parts":["ハ","勿","日","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36060_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cdc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cdc.gif","uri":"https://jisho.org/search/%E8%B3%9C%23kanji"}}
+{
+  "id": "賜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "賜",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2190",
+    "strokeCount": 15,
+    "meaning": "grant, gift, boon, results",
+    "kunyomi": [
+      "たまわ.る",
+      "たま.う",
+      "たも.う"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "賜杯",
+        "reading": "シハイ",
+        "meaning": "Emperor's cup, trophy given by the Emperor"
+      },
+      {
+        "example": "賜暇",
+        "reading": "シカ",
+        "meaning": "furlough, leave of absence"
+      },
+      {
+        "example": "恩賜",
+        "reading": "オンシ",
+        "meaning": "Imperial gift"
+      },
+      {
+        "example": "追賜",
+        "reading": "ツイシ",
+        "meaning": "being granted a court rank after death"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "賜る",
+        "reading": "たまわる",
+        "meaning": "to be given, to be granted, to be honored with, to be honoured with, to give, to bestow, to confer, to honor, to honour"
+      },
+      {
+        "example": "給う",
+        "reading": "たまう",
+        "meaning": "to give, to do ..."
+      },
+      {
+        "example": "給ふ",
+        "reading": "たまう",
+        "meaning": "to give, to receive"
+      },
+      {
+        "example": "給う",
+        "reading": "たもう",
+        "meaning": "to give, to do ..."
+      },
+      {
+        "example": "給ふ",
+        "reading": "たまう",
+        "meaning": "to give, to receive"
+      }
+    ],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "shell"
+    },
+    "parts": [
+      "ハ",
+      "勿",
+      "日",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36060_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cdc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cdc.gif",
+    "uri": "https://jisho.org/search/%E8%B3%9C%23kanji"
+  }
+}

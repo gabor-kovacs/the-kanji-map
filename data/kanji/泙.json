@@ -1,1 +1,33 @@
-{"id":"泙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"泙","found":true,"strokeCount":8,"meaning":"surging water","kunyomi":[],"onyomi":["ホウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ハ","干","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27865_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cd9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cd9.gif","uri":"https://jisho.org/search/%E6%B3%99%23kanji"}}
+{
+  "id": "泙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "泙",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "surging water",
+    "kunyomi": [],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ハ",
+      "干",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27865_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cd9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cd9.gif",
+    "uri": "https://jisho.org/search/%E6%B3%99%23kanji"
+  }
+}

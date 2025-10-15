@@ -1,1 +1,35 @@
-{"id":"殫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"殫","found":true,"strokeCount":16,"meaning":"become exhausted, all","kunyomi":["つき.る"],"onyomi":["タン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"歹","forms":["歺"],"meaning":"death, decay"},"parts":["十","口","歹","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27563_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bab.gif","uri":"https://jisho.org/search/%E6%AE%AB%23kanji"}}
+{
+  "id": "殫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殫",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "become exhausted, all",
+    "kunyomi": [
+      "つき.る"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "歹",
+      "forms": [
+        "歺"
+      ],
+      "meaning": "death, decay"
+    },
+    "parts": [
+      "十",
+      "口",
+      "歹",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27563_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bab.gif",
+    "uri": "https://jisho.org/search/%E6%AE%AB%23kanji"
+  }
+}

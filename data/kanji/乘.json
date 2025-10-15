@@ -1,1 +1,41 @@
-{"id":"乘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"乘","found":true,"strokeCount":10,"meaning":"power, multiplication, record, counter for vehicles","kunyomi":["の.る","の.せる"],"onyomi":["ジョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"乗る","reading":"のる","meaning":"to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark, to get on (e.g. a footstool), to step on, to jump on, to sit on, to mount, to reach, to go over, to pass, to follow, to stay (on track), to go with (the times, etc.), to take part, to participate, to join, to get into the swing (and sing, dance, etc.), to be deceived, to be taken in, to be carried, to be spread, to be scattered, to stick, to attach, to take, to go on"}],"radical":{"symbol":"丿","meaning":"slash"},"parts":["ノ","ハ","匕","十","爿","禾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20056_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e58.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e58.gif","uri":"https://jisho.org/search/%E4%B9%98%23kanji"}}
+{
+  "id": "乘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "乘",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "power, multiplication, record, counter for vehicles",
+    "kunyomi": [
+      "の.る",
+      "の.せる"
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "乗る",
+        "reading": "のる",
+        "meaning": "to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark, to get on (e.g. a footstool), to step on, to jump on, to sit on, to mount, to reach, to go over, to pass, to follow, to stay (on track), to go with (the times, etc.), to take part, to participate, to join, to get into the swing (and sing, dance, etc.), to be deceived, to be taken in, to be carried, to be spread, to be scattered, to stick, to attach, to take, to go on"
+      }
+    ],
+    "radical": {
+      "symbol": "丿",
+      "meaning": "slash"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "匕",
+      "十",
+      "爿",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20056_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e58.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e58.gif",
+    "uri": "https://jisho.org/search/%E4%B9%98%23kanji"
+  }
+}

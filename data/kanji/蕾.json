@@ -1,1 +1,61 @@
-{"id":"蕾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蕾","found":true,"strokeCount":16,"meaning":"bud (plants, mushrooms not yet opened)","kunyomi":["つぼみ"],"onyomi":["ライ"],"onyomiExamples":[{"example":"蕾状期","reading":"ライジョウキ","meaning":"bud stage (tooth)"},{"example":"花蕾","reading":"カライ","meaning":"flower bud"},{"example":"味蕾","reading":"ミライ","meaning":"taste bud"}],"kunyomiExamples":[{"example":"蕾","reading":"つぼみ","meaning":"(flower) bud, promising young person, budding beauty"},{"example":"薔薇のつぼみ","reading":"ばらのつぼみ","meaning":"rosebud"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["田","艾","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34174_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0857e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/857e.gif","uri":"https://jisho.org/search/%E8%95%BE%23kanji"}}
+{
+  "id": "蕾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕾",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "bud (plants, mushrooms not yet opened)",
+    "kunyomi": [
+      "つぼみ"
+    ],
+    "onyomi": [
+      "ライ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蕾状期",
+        "reading": "ライジョウキ",
+        "meaning": "bud stage (tooth)"
+      },
+      {
+        "example": "花蕾",
+        "reading": "カライ",
+        "meaning": "flower bud"
+      },
+      {
+        "example": "味蕾",
+        "reading": "ミライ",
+        "meaning": "taste bud"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蕾",
+        "reading": "つぼみ",
+        "meaning": "(flower) bud, promising young person, budding beauty"
+      },
+      {
+        "example": "薔薇のつぼみ",
+        "reading": "ばらのつぼみ",
+        "meaning": "rosebud"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "田",
+      "艾",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34174_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0857e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/857e.gif",
+    "uri": "https://jisho.org/search/%E8%95%BE%23kanji"
+  }
+}

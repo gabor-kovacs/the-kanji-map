@@ -1,1 +1,42 @@
-{"id":"簸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"簸","found":true,"strokeCount":19,"meaning":"winnow, fan","kunyomi":["ひ.る"],"onyomi":["ハ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"簸る","reading":"ひる","meaning":"to winnow (grain)"}],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","又","甘","皮","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31800_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c38.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c38.gif","uri":"https://jisho.org/search/%E7%B0%B8%23kanji"}}
+{
+  "id": "簸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "簸",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "winnow, fan",
+    "kunyomi": [
+      "ひ.る"
+    ],
+    "onyomi": [
+      "ハ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "簸る",
+        "reading": "ひる",
+        "meaning": "to winnow (grain)"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "又",
+      "甘",
+      "皮",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31800_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c38.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c38.gif",
+    "uri": "https://jisho.org/search/%E7%B0%B8%23kanji"
+  }
+}

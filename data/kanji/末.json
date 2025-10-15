@@ -1,1 +1,483 @@
-{"id":"末","kanjialiveData":{"kanji":{"character":"末","meaning":{"english":"last part, end"},"strokes":{"count":5,"timings":[0,0.8,2,3.733333,4.6,6.733333],"images":["https://media.kanjialive.com/kanji_strokes/matsu-sue_1.svg","https://media.kanjialive.com/kanji_strokes/matsu-sue_2.svg","https://media.kanjialive.com/kanji_strokes/matsu-sue_3.svg","https://media.kanjialive.com/kanji_strokes/matsu-sue_4.svg","https://media.kanjialive.com/kanji_strokes/matsu-sue_5.svg"]},"onyomi":{"romaji":"matsu, batsu","katakana":"マツ、バツ"},"kunyomi":{"romaji":"sue","hiragana":"すえ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/matsu-sue_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/matsu-sue_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/matsu-sue_00.webm"}},"radical":{"character":"⽊","strokes":4,"image":"https://media.kanjialive.com/radical_character/ki.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"き","romaji":"ki"},"meaning":{"english":"tree, wood"},"animation":["https://media.kanjialive.com/rad_frames/ki0.svg","https://media.kanjialive.com/rad_frames/ki1.svg","https://media.kanjialive.com/rad_frames/ki2.svg"]},"references":{"grade":4,"kodansha":"2184","classic_nelson":"177"},"examples":[{"japanese":"末端（まったん）","meaning":{"english":"end, tip, extremity"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_a.mp3"}},{"japanese":"週末（しゅうまつ）","meaning":{"english":"weekend"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_b.mp3"}},{"japanese":"月末（げつまつ）","meaning":{"english":"end of the month"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_c.mp3"}},{"japanese":"年末（ねんまつ）","meaning":{"english":"end-of-year"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_d.mp3"}},{"japanese":"結末（けつまつ）","meaning":{"english":"end conclusion"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_e.mp3"}},{"japanese":"期末試験（きまつしけん）","meaning":{"english":"final exam"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_f.mp3"}},{"japanese":"粗末な（そまつな）","meaning":{"english":"coarse, shabby"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_g.mp3"}},{"japanese":"末期的な（まっきてきな）","meaning":{"english":"decadent, terminal, final"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_h.mp3"}},{"japanese":"始末する（しまつする）","meaning":{"english":"manage, deal, settle"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_i.mp3"}},{"japanese":"末子（ばっし）","meaning":{"english":"youngest child"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_j.mp3"}},{"japanese":"末（すえ）","meaning":{"english":"top, end, tip"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_k.mp3"}},{"japanese":"末っ子（すえっこ）","meaning":{"english":"youngest child"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_l.mp3"}}]},"jishoData":{"query":"末","found":true,"taughtIn":"grade 4","jlptLevel":"N3","newspaperFrequencyRank":"456","strokeCount":5,"meaning":"end, close, tip, powder, posterity","kunyomi":["すえ","うら","うれ"],"onyomi":["マツ","バツ"],"onyomiExamples":[{"example":"末","reading":"マツ","meaning":"the end (of), powder"},{"example":"末日","reading":"マツジツ","meaning":"last day (of a month)"},{"example":"幕末","reading":"バクマツ","meaning":"Bakumatsu period, closing days of the Tokugawa shogunate, end of the Edo period"},{"example":"終末","reading":"シュウマツ","meaning":"end, close, conclusion, termination"},{"example":"末路","reading":"マツロ","meaning":"last days, the end, one's fate"},{"example":"末裔","reading":"マツエイ","meaning":"descendant"}],"kunyomiExamples":[{"example":"末","reading":"すえ","meaning":"end, tip, top, end (of the year, month, etc.), close, youngest child, descendants, offspring, posterity, future, (finally) after, (at last) after, at the end of, trifles, trivialities, degenerate age"},{"example":"末広","reading":"すえひろ","meaning":"spreading out like an open fan, becoming prosperous, folding fan, ceremonial folding fan"},{"example":"来月末","reading":"らいげつまつ","meaning":"end of next month"},{"example":"末の末","reading":"すえのすえ","meaning":"the last"},{"example":"末","reading":"うら","meaning":"top end, tip"},{"example":"末枯れ","reading":"うらがれ","meaning":"dying of the little twigs and branches"},{"example":"末","reading":"うれ","meaning":"new shoots, new growth (of a tree)"},{"example":"末葉","reading":"うらば","meaning":"end leaves, top leaves, last leaves"},{"example":"木の末","reading":"このうれ","meaning":"treetop, tip of a branch"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ハ","一","亠","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26411_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0672b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/672b.gif","uri":"https://jisho.org/search/%E6%9C%AB%23kanji"}}
+{
+  "id": "末",
+  "kanjialiveData": {
+    "_id": "54317b00791eba5146ee4b9a",
+    "_rev": "10-9b04366a2c87cbf2da054cf2ee334979",
+    "rad_name_ja": "き",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "sue",
+    "meaning": "last part, end",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "末端（まったん）",
+        "meaning": {
+          "english": "end, tip, extremity"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "週末（しゅうまつ）",
+        "meaning": {
+          "english": "weekend"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "月末（げつまつ）",
+        "meaning": {
+          "english": "end of the month"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "年末（ねんまつ）",
+        "meaning": {
+          "english": "end-of-year"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "結末（けつまつ）",
+        "meaning": {
+          "english": "end conclusion"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "期末試験（きまつしけん）",
+        "meaning": {
+          "english": "final exam"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "粗末な（そまつな）",
+        "meaning": {
+          "english": "coarse, shabby"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "末期的な（まっきてきな）",
+        "meaning": {
+          "english": "decadent, terminal, final"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "始末する（しまつする）",
+        "meaning": {
+          "english": "manage, deal, settle"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "末子（ばっし）",
+        "meaning": {
+          "english": "youngest child"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "末（すえ）",
+        "meaning": {
+          "english": "top, end, tip"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "末っ子（すえっこ）",
+        "meaning": {
+          "english": "youngest child"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/matsu-sue_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/matsu-sue_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/matsu-sue_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/matsu-sue_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "すえ",
+    "ka_utf": "末",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=末",
+    "kname": "matsu-sue",
+    "rad_order": 97,
+    "txt_books": [
+      {
+        "chapter": "14",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "23",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "23",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "10"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "12"
+      }
+    ],
+    "rad_name_search": [
+      "ki"
+    ],
+    "rad_utf": "⽊",
+    "stroketimes": [
+      0,
+      0.8,
+      2,
+      3.733333,
+      4.6,
+      6.733333
+    ],
+    "kunyomi_ka_display": "すえ",
+    "dick": "2184",
+    "rad_name": "ki",
+    "dicn": "177",
+    "mn_hint": "Top branch/extremity 一 of tree 木.",
+    "rad_stroke": 4,
+    "onyomi_ja": "マツ、バツ",
+    "rad_meaning": "tree, wood",
+    "onyomi": "matsu, batsu",
+    "ka_id": "ka_696",
+    "onyomi_search": [
+      "matsu",
+      "batsu",
+      "matsu, batsu"
+    ],
+    "kunyomi_search": [
+      "sue",
+      "sue"
+    ],
+    "meaning_search": [
+      "last part",
+      "last",
+      "part",
+      "end",
+      "last part, end"
+    ],
+    "onyomi_ja_search": [
+      "マツ",
+      "バツ",
+      "マツ、バツ"
+    ],
+    "kunyomi_ja_search": [
+      "すえ",
+      "すえ"
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_name_ja_search": [
+      "き"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:14",
+      "ij:c14",
+      "mac",
+      "mac:17",
+      "mac:c17",
+      "aij3",
+      "aij3:2",
+      "aij3:c2",
+      "aij3:v4",
+      "aij3:v4:2",
+      "aij3:v4:c2",
+      "gen",
+      "gen:22",
+      "gen:c22",
+      "ap",
+      "ap:19",
+      "ap:c19",
+      "kll",
+      "kll:24",
+      "kll:c24",
+      "cijr",
+      "cijr:10",
+      "cijr:c10",
+      "cijr",
+      "cijr:12",
+      "cijr:c12"
+    ],
+    "rad_name_file": "ki",
+    "kanji": {
+      "character": "末",
+      "meaning": {
+        "english": "last part, end"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          0.8,
+          2,
+          3.733333,
+          4.6,
+          6.733333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/matsu-sue_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/matsu-sue_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/matsu-sue_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/matsu-sue_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/matsu-sue_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "matsu, batsu",
+        "katakana": "マツ、バツ"
+      },
+      "kunyomi": {
+        "romaji": "sue",
+        "hiragana": "すえ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/matsu-sue_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/matsu-sue_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/matsu-sue_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽊",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/ki.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "き",
+        "romaji": "ki"
+      },
+      "meaning": {
+        "english": "tree, wood"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ki0.svg",
+        "https://media.kanjialive.com/rad_frames/ki1.svg",
+        "https://media.kanjialive.com/rad_frames/ki2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "2184",
+      "classic_nelson": "177"
+    }
+  },
+  "jishoData": {
+    "query": "末",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "456",
+    "strokeCount": 5,
+    "meaning": "end, close, tip, powder, posterity",
+    "kunyomi": [
+      "すえ",
+      "うら",
+      "うれ"
+    ],
+    "onyomi": [
+      "マツ",
+      "バツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "末",
+        "reading": "マツ",
+        "meaning": "the end (of), powder"
+      },
+      {
+        "example": "末日",
+        "reading": "マツジツ",
+        "meaning": "last day (of a month)"
+      },
+      {
+        "example": "幕末",
+        "reading": "バクマツ",
+        "meaning": "Bakumatsu period, closing days of the Tokugawa shogunate, end of the Edo period"
+      },
+      {
+        "example": "終末",
+        "reading": "シュウマツ",
+        "meaning": "end, close, conclusion, termination"
+      },
+      {
+        "example": "末路",
+        "reading": "マツロ",
+        "meaning": "last days, the end, one's fate"
+      },
+      {
+        "example": "末裔",
+        "reading": "マツエイ",
+        "meaning": "descendant"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "末",
+        "reading": "すえ",
+        "meaning": "end, tip, top, end (of the year, month, etc.), close, youngest child, descendants, offspring, posterity, future, (finally) after, (at last) after, at the end of, trifles, trivialities, degenerate age"
+      },
+      {
+        "example": "末広",
+        "reading": "すえひろ",
+        "meaning": "spreading out like an open fan, becoming prosperous, folding fan, ceremonial folding fan"
+      },
+      {
+        "example": "来月末",
+        "reading": "らいげつまつ",
+        "meaning": "end of next month"
+      },
+      {
+        "example": "末の末",
+        "reading": "すえのすえ",
+        "meaning": "the last"
+      },
+      {
+        "example": "末",
+        "reading": "うら",
+        "meaning": "top end, tip"
+      },
+      {
+        "example": "末枯れ",
+        "reading": "うらがれ",
+        "meaning": "dying of the little twigs and branches"
+      },
+      {
+        "example": "末",
+        "reading": "うれ",
+        "meaning": "new shoots, new growth (of a tree)"
+      },
+      {
+        "example": "末葉",
+        "reading": "うらば",
+        "meaning": "end leaves, top leaves, last leaves"
+      },
+      {
+        "example": "木の末",
+        "reading": "このうれ",
+        "meaning": "treetop, tip of a branch"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "亠",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26411_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0672b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/672b.gif",
+    "uri": "https://jisho.org/search/%E6%9C%AB%23kanji"
+  }
+}

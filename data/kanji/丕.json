@@ -1,1 +1,43 @@
-{"id":"丕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"丕","found":true,"strokeCount":5,"meaning":"large, great, grand, glorious, distinguished","kunyomi":["おお.きい"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"丕基","reading":"ヒキ","meaning":"foundation of imperial rule"},{"example":"丕業","reading":"ヒギョウ","meaning":"great deed, great undertaking"}],"kunyomiExamples":[],"radical":{"symbol":"一","meaning":"one"},"parts":["ノ","一","丶","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/19989_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e15.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e15.gif","uri":"https://jisho.org/search/%E4%B8%95%23kanji"}}
+{
+  "id": "丕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "丕",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "large, great, grand, glorious, distinguished",
+    "kunyomi": [
+      "おお.きい"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丕基",
+        "reading": "ヒキ",
+        "meaning": "foundation of imperial rule"
+      },
+      {
+        "example": "丕業",
+        "reading": "ヒギョウ",
+        "meaning": "great deed, great undertaking"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "一",
+      "meaning": "one"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "丶",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/19989_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e15.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e15.gif",
+    "uri": "https://jisho.org/search/%E4%B8%95%23kanji"
+  }
+}

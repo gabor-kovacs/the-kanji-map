@@ -1,1 +1,55 @@
-{"id":"摺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"摺","found":true,"strokeCount":14,"meaning":"rub, fold, print (on cloth)","kunyomi":["す.る","ひだ"],"onyomi":["ショウ","シュウ","ロウ"],"onyomiExamples":[{"example":"摺本","reading":"ショウホン","meaning":"folded book"},{"example":"摺動","reading":"シュウドウ","meaning":"sliding or moving along a smooth surface with continuous contact on that surface"}],"kunyomiExamples":[{"example":"刷る","reading":"する","meaning":"to print, to color or pattern fabric using a wooden mold"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["冫","扎","白","羽"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25722_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0647a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/647a.gif","uri":"https://jisho.org/search/%E6%91%BA%23kanji"}}
+{
+  "id": "摺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "摺",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "rub, fold, print (on cloth)",
+    "kunyomi": [
+      "す.る",
+      "ひだ"
+    ],
+    "onyomi": [
+      "ショウ",
+      "シュウ",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "摺本",
+        "reading": "ショウホン",
+        "meaning": "folded book"
+      },
+      {
+        "example": "摺動",
+        "reading": "シュウドウ",
+        "meaning": "sliding or moving along a smooth surface with continuous contact on that surface"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "刷る",
+        "reading": "する",
+        "meaning": "to print, to color or pattern fabric using a wooden mold"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "冫",
+      "扎",
+      "白",
+      "羽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25722_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0647a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/647a.gif",
+    "uri": "https://jisho.org/search/%E6%91%BA%23kanji"
+  }
+}

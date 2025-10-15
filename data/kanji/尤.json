@@ -1,1 +1,72 @@
-{"id":"尤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"尤","found":true,"strokeCount":4,"meaning":"reasonable, just, natural, superb, outstanding, plausible","kunyomi":["もっと.も","とが.める"],"onyomi":["ユウ"],"onyomiExamples":[{"example":"尤","reading":"ユウ","meaning":"superb, outstanding"},{"example":"尤度","reading":"ユウド","meaning":"likelihood"},{"example":"蚩尤","reading":"シユウ","meaning":"Chinese god of war"}],"kunyomiExamples":[{"example":"最も","reading":"もっとも","meaning":"most, extremely"},{"example":"尤も","reading":"もっとも","meaning":"but then, although, though, reasonable, natural, just"},{"example":"至極ごもっとも","reading":"しごくごもっとも","meaning":"you are quite right, quite so, what you say is sensible enough"}],"radical":{"symbol":"尢","forms":["尣"],"meaning":"lame"},"parts":["丶","尢","尤"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23588_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c24.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c24.gif","uri":"https://jisho.org/search/%E5%B0%A4%23kanji"}}
+{
+  "id": "尤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尤",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "reasonable, just, natural, superb, outstanding, plausible",
+    "kunyomi": [
+      "もっと.も",
+      "とが.める"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尤",
+        "reading": "ユウ",
+        "meaning": "superb, outstanding"
+      },
+      {
+        "example": "尤度",
+        "reading": "ユウド",
+        "meaning": "likelihood"
+      },
+      {
+        "example": "蚩尤",
+        "reading": "シユウ",
+        "meaning": "Chiyou (Chinese god of war)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "最も",
+        "reading": "もっとも",
+        "meaning": "most, extremely"
+      },
+      {
+        "example": "尤も",
+        "reading": "もっとも",
+        "meaning": "but then, although, though, reasonable, natural, just"
+      },
+      {
+        "example": "至極ごもっとも",
+        "reading": "しごくごもっとも",
+        "meaning": "you are quite right, quite so, what you say is sensible enough"
+      },
+      {
+        "example": "咎める",
+        "reading": "とがめる",
+        "meaning": "to blame, to reproach, to censure, to rebuke, to reprove, to find fault, to take to task, to criticize, to criticise, to question (a suspect), to challenge, to aggravate (an injury), to be aggravated, to get inflamed, to prick (one's conscience)"
+      }
+    ],
+    "radical": {
+      "symbol": "尢",
+      "forms": [
+        "尣"
+      ],
+      "meaning": "lame"
+    },
+    "parts": [
+      "丶",
+      "尢",
+      "尤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23588_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c24.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c24.gif",
+    "uri": "https://jisho.org/search/%E5%B0%A4%23kanji"
+  }
+}

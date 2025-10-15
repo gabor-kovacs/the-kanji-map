@@ -1,1 +1,43 @@
-{"id":"蟄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蟄","found":true,"strokeCount":17,"meaning":"hibernation of insects","kunyomi":["ちっ.する","かく.れる"],"onyomi":["チツ","チュウ"],"onyomiExamples":[{"example":"啓蟄","reading":"ケイチツ","meaning":"\"awakening of insects\" solar term (approx. March 6, the day on which hibernating insects are said to come out of the ground)"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["丶","九","亠","十","立","虫","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34756_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c4.gif","uri":"https://jisho.org/search/%E8%9F%84%23kanji"}}
+{
+  "id": "蟄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟄",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "hibernation of insects",
+    "kunyomi": [
+      "ちっ.する",
+      "かく.れる"
+    ],
+    "onyomi": [
+      "チツ",
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "啓蟄",
+        "reading": "ケイチツ",
+        "meaning": "\"awakening of insects\" solar term (approx. March 6, the day on which hibernating insects are said to come out of the ground)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "丶",
+      "九",
+      "亠",
+      "十",
+      "立",
+      "虫",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34756_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c4.gif",
+    "uri": "https://jisho.org/search/%E8%9F%84%23kanji"
+  }
+}

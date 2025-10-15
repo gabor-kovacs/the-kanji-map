@@ -1,1 +1,64 @@
-{"id":"屑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"屑","found":true,"strokeCount":10,"meaning":"rubbish, junk, trash, waste, scraps","kunyomi":["くず","いさぎよ.い"],"onyomi":["セツ"],"onyomiExamples":[{"example":"砕屑","reading":"サイセツ","meaning":"clastic"},{"example":"落屑","reading":"ラクセツ","meaning":"desquamation, skin peeling"}],"kunyomiExamples":[{"example":"屑","reading":"くず","meaning":"waste, scrap, garbage, dregs, scum, piece of trash, loser"},{"example":"屑穴子","reading":"くずあなご","meaning":"duck-billed eel (Nettastoma parviceps)"},{"example":"野菜くず","reading":"やさいくず","meaning":"vegetable scraps"},{"example":"大鋸屑","reading":"おがくず","meaning":"sawdust"}],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["尚","尸","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23633_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c51.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c51.gif","uri":"https://jisho.org/search/%E5%B1%91%23kanji"}}
+{
+  "id": "屑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屑",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "rubbish, junk, trash, waste, scraps",
+    "kunyomi": [
+      "くず",
+      "いさぎよ.い"
+    ],
+    "onyomi": [
+      "セツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "砕屑",
+        "reading": "サイセツ",
+        "meaning": "clastic"
+      },
+      {
+        "example": "落屑",
+        "reading": "ラクセツ",
+        "meaning": "desquamation, skin peeling"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "屑",
+        "reading": "くず",
+        "meaning": "waste, scrap, garbage, dregs, scum, piece of trash, loser"
+      },
+      {
+        "example": "屑穴子",
+        "reading": "くずあなご",
+        "meaning": "duck-billed eel (Nettastoma parviceps)"
+      },
+      {
+        "example": "野菜くず",
+        "reading": "やさいくず",
+        "meaning": "vegetable scraps"
+      },
+      {
+        "example": "大鋸屑",
+        "reading": "おがくず",
+        "meaning": "sawdust"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "尚",
+      "尸",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23633_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c51.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c51.gif",
+    "uri": "https://jisho.org/search/%E5%B1%91%23kanji"
+  }
+}

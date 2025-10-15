@@ -1,1 +1,42 @@
-{"id":"邉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"邉","found":true,"strokeCount":18,"meaning":"edge, margin, side, border","kunyomi":["あた.り","ほと.り","-べ"],"onyomi":["ヘン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["ハ","儿","冖","口","目","自","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37001_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09089.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9089.gif","uri":"https://jisho.org/search/%E9%82%89%23kanji"}}
+{
+  "id": "邉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "邉",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "edge, margin, side, border",
+    "kunyomi": [
+      "あた.り",
+      "ほと.り",
+      "-べ"
+    ],
+    "onyomi": [
+      "ヘン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "ハ",
+      "儿",
+      "冖",
+      "口",
+      "目",
+      "自",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37001_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09089.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9089.gif",
+    "uri": "https://jisho.org/search/%E9%82%89%23kanji"
+  }
+}

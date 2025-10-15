@@ -1,1 +1,57 @@
-{"id":"鈎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鈎","found":true,"strokeCount":12,"meaning":"hook, barb, gaff, brackets","kunyomi":["かぎ"],"onyomi":["コウ","ク"],"onyomiExamples":[{"example":"勾股弦","reading":"コウコゲン","meaning":"three sides of right triangle (minor cathetus, major cathetus and hypotenuse)"},{"example":"勾股弦の定理","reading":"コウコゲンノテイリ","meaning":"Pythagorean theorem"}],"kunyomiExamples":[{"example":"鉤","reading":"かぎ","meaning":"hook, hook bracket (Japanese quotation mark)"},{"example":"かぎ括弧","reading":"かぎかっこ","meaning":"square bracket, Japanese-style quotation marks"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["勹","厶","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37390_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0920e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/920e.gif","uri":"https://jisho.org/search/%E9%88%8E%23kanji"}}
+{
+  "id": "鈎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鈎",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "hook, barb, gaff, brackets",
+    "kunyomi": [
+      "かぎ"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "勾股弦",
+        "reading": "コウコゲン",
+        "meaning": "three sides of right triangle (minor cathetus, major cathetus and hypotenuse)"
+      },
+      {
+        "example": "勾股弦の定理",
+        "reading": "コウコゲンノテイリ",
+        "meaning": "Pythagorean theorem"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鉤",
+        "reading": "かぎ",
+        "meaning": "hook, hook bracket (Japanese quotation mark)"
+      },
+      {
+        "example": "かぎ括弧",
+        "reading": "かぎかっこ",
+        "meaning": "square bracket, Japanese-style quotation marks"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "勹",
+      "厶",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37390_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0920e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/920e.gif",
+    "uri": "https://jisho.org/search/%E9%88%8E%23kanji"
+  }
+}

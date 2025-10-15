@@ -1,1 +1,67 @@
-{"id":"肴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"肴","found":true,"strokeCount":8,"meaning":"accompaniment for drinks","kunyomi":["さかな"],"onyomi":["コウ"],"onyomiExamples":[{"example":"佳肴","reading":"カコウ","meaning":"delicacy, rare treat, good-eating fish"},{"example":"美味佳肴","reading":"ビミカコウ","meaning":"delicacies, epicurean dishes"}],"kunyomiExamples":[{"example":"肴","reading":"さかな","meaning":"appetizer or snack served with drinks, performance to liven up a bar, conversation to liven up a party"},{"example":"肴にする","reading":"さかなにする","meaning":"to have as a side order (with drinks), to make fun of someone, to laugh at someone's expense"},{"example":"酒肴","reading":"しゅこう","meaning":"food and (alcoholic) drinks, food eaten with an alcoholic drink, accompaniment to a drink"},{"example":"酒の肴","reading":"さけのさかな","meaning":"appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["ノ","一","丶","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32948_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080b4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80b4.gif","uri":"https://jisho.org/search/%E8%82%B4%23kanji"}}
+{
+  "id": "肴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肴",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "accompaniment for drinks",
+    "kunyomi": [
+      "さかな"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "佳肴",
+        "reading": "カコウ",
+        "meaning": "delicacy, rare treat, good-eating fish"
+      },
+      {
+        "example": "美味佳肴",
+        "reading": "ビミカコウ",
+        "meaning": "delicacies, epicurean dishes"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "肴",
+        "reading": "さかな",
+        "meaning": "appetizer or snack served with drinks, performance to liven up a bar, conversation to liven up a party"
+      },
+      {
+        "example": "肴にする",
+        "reading": "さかなにする",
+        "meaning": "to have as a side order (with drinks), to make fun of someone, to laugh at someone's expense"
+      },
+      {
+        "example": "酒肴",
+        "reading": "しゅこう",
+        "meaning": "food and (alcoholic) drinks, food eaten with an alcoholic drink, accompaniment to a drink"
+      },
+      {
+        "example": "酒の肴",
+        "reading": "さけのさかな",
+        "meaning": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "丶",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32948_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80b4.gif",
+    "uri": "https://jisho.org/search/%E8%82%B4%23kanji"
+  }
+}

@@ -1,1 +1,273 @@
-{"id":"冒","kanjialiveData":{"kanji":{"character":"冒","meaning":{"english":"risk, brave, desecrate"},"strokes":{"count":9,"timings":[0,1,2.8,4.266667,5.533333,6.533333,8.933333,10.2,11.066667,12.866667],"images":["https://media.kanjialive.com/kanji_strokes/bou-oka(su)_1.svg","https://media.kanjialive.com/kanji_strokes/bou-oka(su)_2.svg","https://media.kanjialive.com/kanji_strokes/bou-oka(su)_3.svg","https://media.kanjialive.com/kanji_strokes/bou-oka(su)_4.svg","https://media.kanjialive.com/kanji_strokes/bou-oka(su)_5.svg","https://media.kanjialive.com/kanji_strokes/bou-oka(su)_6.svg","https://media.kanjialive.com/kanji_strokes/bou-oka(su)_7.svg","https://media.kanjialive.com/kanji_strokes/bou-oka(su)_8.svg","https://media.kanjialive.com/kanji_strokes/bou-oka(su)_9.svg"]},"onyomi":{"romaji":"bou","katakana":"ボウ"},"kunyomi":{"romaji":"oka, okasu","hiragana":"おか"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/bou-oka(su)_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/bou-oka(su)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/bou-oka(su)_00.webm"}},"radical":{"character":"⽬","strokes":5,"image":"https://media.kanjialive.com/radical_character/me.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"め","romaji":"me"},"meaning":{"english":"eye"},"animation":["https://media.kanjialive.com/rad_frames/me0.svg","https://media.kanjialive.com/rad_frames/me1.svg","https://media.kanjialive.com/rad_frames/me2.svg"]},"references":{"grade":null,"kodansha":"1576","classic_nelson":"2117"},"examples":[{"japanese":"冒険（ぼうけん）","meaning":{"english":"adventure [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bou-oka(su)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bou-oka(su)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bou-oka(su)_06_a.mp3"}},{"japanese":"冒頭（ぼうとう）","meaning":{"english":"opening (of a story, article, etc.)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bou-oka(su)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bou-oka(su)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bou-oka(su)_06_b.mp3"}},{"japanese":"冒涜する（ぼうとくする）","meaning":{"english":"desecrate, blaspheme"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bou-oka(su)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bou-oka(su)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bou-oka(su)_06_c.mp3"}},{"japanese":"冒す（おかす）","meaning":{"english":"risk, take a risk"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bou-oka(su)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bou-oka(su)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bou-oka(su)_06_d.mp3"}}]},"jishoData":{"query":"冒","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1317","strokeCount":9,"meaning":"risk, face, defy, dare, damage, assume (a name)","kunyomi":["おか.す"],"onyomi":["ボウ"],"onyomiExamples":[{"example":"冒頭","reading":"ボウトウ","meaning":"beginning, opening, start, outset"},{"example":"冒険","reading":"ボウケン","meaning":"adventure, venture, venture which is unlikely to succeed, risky attempt, danger, hazard, risk"},{"example":"感冒","reading":"カンボウ","meaning":"cold (illness)"},{"example":"流行性感冒","reading":"リュウコウセイカンボウ","meaning":"influenza, flu"}],"kunyomiExamples":[{"example":"冒す","reading":"おかす","meaning":"to brave, to risk, to face, to venture, to harm, to afflict, to affect, to desecrate, to profane, to assume (someone else's surname), to take"}],"radical":{"symbol":"冂","meaning":"open country"},"parts":["日","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20882_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05192.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5192.gif","uri":"https://jisho.org/search/%E5%86%92%23kanji"}}
+{
+  "id": "冒",
+  "kanjialiveData": {
+    "_id": "54317afa791eba5146ee4b2b",
+    "_rev": "10-c419afdbc7303866de56890ba924e51e",
+    "rad_name_ja": "め",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "oka, okasu",
+    "meaning": "risk, brave, desecrate",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "冒険（ぼうけん）",
+        "meaning": {
+          "english": "adventure [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bou-oka(su)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bou-oka(su)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bou-oka(su)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "冒頭（ぼうとう）",
+        "meaning": {
+          "english": "opening (of a story, article, etc.)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bou-oka(su)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bou-oka(su)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bou-oka(su)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "冒涜する（ぼうとくする）",
+        "meaning": {
+          "english": "desecrate, blaspheme"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bou-oka(su)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bou-oka(su)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bou-oka(su)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "冒す（おかす）",
+        "meaning": {
+          "english": "risk, take a risk"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bou-oka(su)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bou-oka(su)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bou-oka(su)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "おか、おかす",
+    "ka_utf": "冒",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=冒",
+    "rad_name_search": [
+      "me"
+    ],
+    "rad_order": 137,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "txtMajoFilm"
+      }
+    ],
+    "kname": "bou-oka(su)",
+    "rad_utf": "⽬",
+    "stroketimes": [
+      0,
+      1,
+      2.8,
+      4.266667,
+      5.533333,
+      6.533333,
+      8.933333,
+      10.2,
+      11.066667,
+      12.866667
+    ],
+    "kunyomi_ka_display": "おか",
+    "dick": "1576",
+    "rad_name": "me",
+    "dicn": "2117",
+    "mn_hint": "Eye 目 looking into the sun 日.",
+    "rad_stroke": 5,
+    "onyomi_ja": "ボウ",
+    "rad_meaning": "eye",
+    "onyomi": "bou",
+    "ka_id": "ka_596",
+    "onyomi_search": [
+      "bou",
+      "bou"
+    ],
+    "kunyomi_search": [
+      "oka",
+      "okasu",
+      "oka, okasu"
+    ],
+    "meaning_search": [
+      "risk",
+      "brave",
+      "desecrate",
+      "risk, brave, desecrate"
+    ],
+    "onyomi_ja_search": [
+      "ボウ",
+      "ボウ"
+    ],
+    "kunyomi_ja_search": [
+      "おか",
+      "おかす",
+      "おか、おかす"
+    ],
+    "rad_meaning_search": [
+      "eye",
+      "eye"
+    ],
+    "rad_name_ja_search": [
+      "め"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "mnt",
+      "mnt:7",
+      "mnt:c7"
+    ],
+    "rad_name_file": "me",
+    "kanji": {
+      "character": "冒",
+      "meaning": {
+        "english": "risk, brave, desecrate"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1,
+          2.8,
+          4.266667,
+          5.533333,
+          6.533333,
+          8.933333,
+          10.2,
+          11.066667,
+          12.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/bou-oka(su)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou-oka(su)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou-oka(su)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou-oka(su)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou-oka(su)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou-oka(su)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou-oka(su)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou-oka(su)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou-oka(su)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bou",
+        "katakana": "ボウ"
+      },
+      "kunyomi": {
+        "romaji": "oka, okasu",
+        "hiragana": "おか"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/bou-oka(su)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/bou-oka(su)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/bou-oka(su)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽬",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/me.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "め",
+        "romaji": "me"
+      },
+      "meaning": {
+        "english": "eye"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/me0.svg",
+        "https://media.kanjialive.com/rad_frames/me1.svg",
+        "https://media.kanjialive.com/rad_frames/me2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1576",
+      "classic_nelson": "2117"
+    }
+  },
+  "jishoData": {
+    "query": "冒",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1317",
+    "strokeCount": 9,
+    "meaning": "risk, face, defy, dare, damage, assume (a name)",
+    "kunyomi": [
+      "おか.す"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冒頭",
+        "reading": "ボウトウ",
+        "meaning": "beginning, opening, start, outset"
+      },
+      {
+        "example": "冒険",
+        "reading": "ボウケン",
+        "meaning": "adventure, venture, venture which is unlikely to succeed, risky attempt, danger, hazard, risk"
+      },
+      {
+        "example": "感冒",
+        "reading": "カンボウ",
+        "meaning": "(common) cold"
+      },
+      {
+        "example": "流行性感冒",
+        "reading": "リュウコウセイカンボウ",
+        "meaning": "influenza, flu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "冒す",
+        "reading": "おかす",
+        "meaning": "to brave, to risk, to face, to venture, to harm, to afflict, to affect, to desecrate, to profane, to assume (someone else's surname), to take"
+      }
+    ],
+    "radical": {
+      "symbol": "冂",
+      "meaning": "open country"
+    },
+    "parts": [
+      "日",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20882_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05192.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5192.gif",
+    "uri": "https://jisho.org/search/%E5%86%92%23kanji"
+  }
+}

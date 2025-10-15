@@ -1,1 +1,50 @@
-{"id":"排","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"排","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1047","strokeCount":11,"meaning":"repudiate, exclude, expel, reject, line up, arrange","kunyomi":[],"onyomi":["ハイ"],"onyomiExamples":[{"example":"排","reading":"ハイ","meaning":"anti-"},{"example":"排気","reading":"ハイキ","meaning":"exhaust, emission (of gas from an engine), expulsion (of air), ventilation"},{"example":"暴排","reading":"ボウハイ","meaning":"combating organized crime, elimination of criminal gangs"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["扎","非"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25490_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06392.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6392.gif","uri":"https://jisho.org/search/%E6%8E%92%23kanji"}}
+{
+  "id": "排",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "排",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1047",
+    "strokeCount": 11,
+    "meaning": "repudiate, exclude, expel, reject, line up, arrange",
+    "kunyomi": [],
+    "onyomi": [
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "排",
+        "reading": "ハイ",
+        "meaning": "anti-"
+      },
+      {
+        "example": "排気",
+        "reading": "ハイキ",
+        "meaning": "exhaust, emission (of gas from an engine), expulsion (of air), ventilation"
+      },
+      {
+        "example": "暴排",
+        "reading": "ボウハイ",
+        "meaning": "combating organized crime, elimination of criminal gangs"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "扎",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25490_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06392.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6392.gif",
+    "uri": "https://jisho.org/search/%E6%8E%92%23kanji"
+  }
+}

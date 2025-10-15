@@ -1,1 +1,75 @@
-{"id":"掠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"掠","found":true,"strokeCount":11,"meaning":"pillage, rob, graze, skim, sweep over, cheat, hint","kunyomi":["かす.める","かす.る","かす.れる"],"onyomi":["リャク","リョウ"],"onyomiExamples":[{"example":"掠","reading":"リャク","meaning":"sixth principle of the Eight Principles of Yong, tapering thinning curve, usually concave left"},{"example":"略奪","reading":"リャクダツ","meaning":"pillage, plunder, looting, robbery"},{"example":"劫掠","reading":"キョウリャク","meaning":"pillage, plunder"},{"example":"奪掠","reading":"ダツリャク","meaning":"pillage, plunder"}],"kunyomiExamples":[{"example":"掠める","reading":"かすめる","meaning":"to steal, to rob, to snatch, to pocket, to plunder, to deceive, to trick, to cheat, to graze (in passing), to skim, to brush against, to touch lightly, to appear and quickly disappear (a thought, a smile, etc.), to flit (through one's mind, across one's face), to do (something) while no one is looking, to hint at, to suggest, to insinuate"},{"example":"掠る","reading":"かする","meaning":"to graze (e.g. bullet), to scratch, to touch lightly, to take a percentage, to exploit, to squeeze"},{"example":"掠れる","reading":"かすれる","meaning":"to get blurred, to get hoarse, to get husky, to graze, to scrape, to touch"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["亠","口","小","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25504_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a0.gif","uri":"https://jisho.org/search/%E6%8E%A0%23kanji"}}
+{
+  "id": "掠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "掠",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "pillage, rob, graze, skim, sweep over, cheat, hint",
+    "kunyomi": [
+      "かす.める",
+      "かす.る",
+      "かす.れる"
+    ],
+    "onyomi": [
+      "リャク",
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "掠",
+        "reading": "リャク",
+        "meaning": "sixth principle of the Eight Principles of Yong, tapering thinning curve, usually concave left"
+      },
+      {
+        "example": "略奪",
+        "reading": "リャクダツ",
+        "meaning": "pillage, plunder, looting, robbery"
+      },
+      {
+        "example": "劫掠",
+        "reading": "キョウリャク",
+        "meaning": "pillage, plunder"
+      },
+      {
+        "example": "盗掠",
+        "reading": "トウリャク",
+        "meaning": "stealing, looting, plundering"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "掠める",
+        "reading": "かすめる",
+        "meaning": "to steal, to rob, to snatch, to pocket, to plunder, to deceive, to trick, to cheat, to graze (in passing), to skim, to brush against, to touch lightly, to appear and quickly disappear (a thought, a smile, etc.), to flit (through one's mind, across one's face), to do (something) while no one is looking, to hint at, to suggest, to insinuate"
+      },
+      {
+        "example": "掠る",
+        "reading": "かする",
+        "meaning": "to graze (e.g. bullet), to scratch, to touch lightly, to take a percentage, to exploit, to squeeze"
+      },
+      {
+        "example": "掠れる",
+        "reading": "かすれる",
+        "meaning": "to get blurred, to get hoarse, to get husky, to graze, to scrape, to touch"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "小",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25504_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a0.gif",
+    "uri": "https://jisho.org/search/%E6%8E%A0%23kanji"
+  }
+}

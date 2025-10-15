@@ -1,1 +1,56 @@
-{"id":"逕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"逕","found":true,"strokeCount":11,"meaning":"path","kunyomi":["みち","こみち","さしわたし","ただちに"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"経路","reading":"ケイロ","meaning":"course, route, path, channel, process, stages"},{"example":"径庭","reading":"ケイテイ","meaning":"great difference"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["一","巛","工","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36885_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09015.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9015.gif","uri":"https://jisho.org/search/%E9%80%95%23kanji"}}
+{
+  "id": "逕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逕",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "path",
+    "kunyomi": [
+      "みち",
+      "こみち",
+      "さしわたし",
+      "ただちに"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "経路",
+        "reading": "ケイロ",
+        "meaning": "course, route, path, channel, process, stages"
+      },
+      {
+        "example": "径庭",
+        "reading": "ケイテイ",
+        "meaning": "great difference"
+      },
+      {
+        "example": "小径",
+        "reading": "ショウケイ",
+        "meaning": "path, lane, small diameter, small radius"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "一",
+      "巛",
+      "工",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36885_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09015.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9015.gif",
+    "uri": "https://jisho.org/search/%E9%80%95%23kanji"
+  }
+}

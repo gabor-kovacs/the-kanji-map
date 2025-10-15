@@ -1,1 +1,34 @@
-{"id":"稾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"稾","found":true,"strokeCount":15,"meaning":"draft, manuscript, rough copy","kunyomi":["わら","したがき"],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"禾","meaning":"grain"},"parts":["亠","冂","口","禾","高"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31294_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a3e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a3e.gif","uri":"https://jisho.org/search/%E7%A8%BE%23kanji"}}
+{
+  "id": "稾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "稾",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "draft, manuscript, rough copy",
+    "kunyomi": [
+      "わら",
+      "したがき"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "grain"
+    },
+    "parts": [
+      "亠",
+      "冂",
+      "口",
+      "禾",
+      "高"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31294_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a3e.gif",
+    "uri": "https://jisho.org/search/%E7%A8%BE%23kanji"
+  }
+}

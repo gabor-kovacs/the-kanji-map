@@ -1,1 +1,48 @@
-{"id":"醴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"醴","found":true,"strokeCount":20,"meaning":"sweet sake","kunyomi":["あまざけ"],"onyomi":["レイ","ライ"],"onyomiExamples":[{"example":"醴泉","reading":"レイセン","meaning":"spring of sweet water"}],"kunyomiExamples":[{"example":"甘酒","reading":"あまざけ","meaning":"sweet half sake, sweet drink made from fermented rice"}],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["一","口","并","日","豆","酉","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37300_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091b4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91b4.gif","uri":"https://jisho.org/search/%E9%86%B4%23kanji"}}
+{
+  "id": "醴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醴",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "sweet sake",
+    "kunyomi": [
+      "あまざけ"
+    ],
+    "onyomi": [
+      "レイ",
+      "ライ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醴泉",
+        "reading": "レイセン",
+        "meaning": "spring of sweet water"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "甘酒",
+        "reading": "あまざけ",
+        "meaning": "sweet half sake, sweet drink made from fermented rice"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "一",
+      "口",
+      "并",
+      "日",
+      "豆",
+      "酉",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37300_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91b4.gif",
+    "uri": "https://jisho.org/search/%E9%86%B4%23kanji"
+  }
+}

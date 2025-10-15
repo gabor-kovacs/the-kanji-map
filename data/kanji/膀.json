@@ -1,1 +1,47 @@
-{"id":"膀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膀","found":true,"strokeCount":14,"meaning":"bladder","kunyomi":[],"onyomi":["ボウ","ホウ"],"onyomiExamples":[{"example":"膀胱","reading":"ボウコウ","meaning":"urinary bladder"},{"example":"膀胱炎","reading":"ボウコウエン","meaning":"cystitis, inflammation of the bladder"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["亠","冖","并","方","月","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33152_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08180.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8180.gif","uri":"https://jisho.org/search/%E8%86%80%23kanji"}}
+{
+  "id": "膀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膀",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "bladder",
+    "kunyomi": [],
+    "onyomi": [
+      "ボウ",
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膀胱",
+        "reading": "ボウコウ",
+        "meaning": "urinary bladder"
+      },
+      {
+        "example": "膀胱炎",
+        "reading": "ボウコウエン",
+        "meaning": "cystitis, inflammation of the bladder"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "并",
+      "方",
+      "月",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33152_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08180.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8180.gif",
+    "uri": "https://jisho.org/search/%E8%86%80%23kanji"
+  }
+}

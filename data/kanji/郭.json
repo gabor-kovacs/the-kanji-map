@@ -1,1 +1,71 @@
-{"id":"郭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"郭","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1670","strokeCount":11,"meaning":"enclosure, quarters, fortification, red-light district","kunyomi":["くるわ"],"onyomi":["カク"],"onyomiExamples":[{"example":"廓","reading":"クルワ","meaning":"district, quarter, enclosure, area enclosed by earthwork, red-light district, wide and empty"},{"example":"廓清","reading":"カクセイ","meaning":"purification, cleaning up, purging"},{"example":"外郭","reading":"ガイカク","meaning":"outer wall (e.g. castle), outer block (enclosure), outline, contour"},{"example":"遊郭","reading":"ユウカク","meaning":"(licensed) red light district"}],"kunyomiExamples":[{"example":"廓","reading":"くるわ","meaning":"district, quarter, enclosure, area enclosed by earthwork, red-light district, wide and empty"},{"example":"郭言葉","reading":"くるわことば","meaning":"sociolect or secret language used by prostitutes in red-light districts (Edo period), vulgar words used by prostitutes (Edo period)"}],"radical":{"symbol":"邑","forms":["阝"],"meaning":"town (阝 right)"},"parts":["亅","亠","口","子","邦"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37101_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090ed.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90ed.gif","uri":"https://jisho.org/search/%E9%83%AD%23kanji"}}
+{
+  "id": "郭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "郭",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1670",
+    "strokeCount": 11,
+    "meaning": "enclosure, quarters, fortification, red-light district",
+    "kunyomi": [
+      "くるわ"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廓",
+        "reading": "クルワ",
+        "meaning": "district, quarter, enclosure, area enclosed by earthwork, red-light district, wide and empty"
+      },
+      {
+        "example": "廓清",
+        "reading": "カクセイ",
+        "meaning": "purification, cleaning up, purging"
+      },
+      {
+        "example": "外郭",
+        "reading": "ガイカク",
+        "meaning": "outer fence, outer enclosure, outer block, outline, contour"
+      },
+      {
+        "example": "遊郭",
+        "reading": "ユウカク",
+        "meaning": "(licensed) red light district"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "廓",
+        "reading": "くるわ",
+        "meaning": "district, quarter, enclosure, area enclosed by earthwork, red-light district, wide and empty"
+      },
+      {
+        "example": "郭言葉",
+        "reading": "くるわことば",
+        "meaning": "sociolect or secret language used by prostitutes in red-light districts (Edo period), vulgar words used by prostitutes (Edo period)"
+      }
+    ],
+    "radical": {
+      "symbol": "邑",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "town (阝 right)"
+    },
+    "parts": [
+      "亅",
+      "亠",
+      "口",
+      "子",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37101_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090ed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90ed.gif",
+    "uri": "https://jisho.org/search/%E9%83%AD%23kanji"
+  }
+}

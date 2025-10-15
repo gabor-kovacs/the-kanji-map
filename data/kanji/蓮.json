@@ -1,1 +1,84 @@
-{"id":"蓮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蓮","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1839","strokeCount":13,"meaning":"lotus","kunyomi":["はす","はちす"],"onyomi":["レン"],"onyomiExamples":[{"example":"蓮華","reading":"レンゲ","meaning":"lotus flower, Chinese milk vetch (Astragalus sinicus), china spoon, lotus-shaped pedestal for a gravestone"},{"example":"蓮角","reading":"レンカク","meaning":"jacana (esp. the pheasant-tailed jacana, Hydrophasianus chirurgus), lily-trotter"},{"example":"睡蓮","reading":"スイレン","meaning":"water lily (any plant of genus Nymphaea), pygmy waterlily (Nymphaea tetragona)"},{"example":"木蓮","reading":"モクレン","meaning":"lily magnolia (Magnolia quinquepeta, Magnolia liliiflora)"}],"kunyomiExamples":[{"example":"蓮","reading":"はす","meaning":"sacred lotus (Nelumbo nucifera), Indian lotus, lotus, rose of Sharon (Hibiscus syriacus)"},{"example":"蓮池","reading":"はすいけ","meaning":"lotus pond"},{"example":"蓮","reading":"はす","meaning":"sacred lotus (Nelumbo nucifera), Indian lotus, lotus, rose of Sharon (Hibiscus syriacus)"},{"example":"蓮の蔤","reading":"はちすのはい","meaning":"lotus root"},{"example":"木蓮","reading":"きはちす","meaning":"rose of Sharon (Hibiscus syriacus)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["艾","車","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34030_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084ee.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84ee.gif","uri":"https://jisho.org/search/%E8%93%AE%23kanji"}}
+{
+  "id": "蓮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓮",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1839",
+    "strokeCount": 13,
+    "meaning": "lotus",
+    "kunyomi": [
+      "はす",
+      "はちす"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蓮華",
+        "reading": "レンゲ",
+        "meaning": "lotus flower, Chinese milk vetch (Astragalus sinicus), china spoon, lotus-shaped pedestal for a gravestone"
+      },
+      {
+        "example": "蓮角",
+        "reading": "レンカク",
+        "meaning": "jacana (esp. the pheasant-tailed jacana, Hydrophasianus chirurgus), lily-trotter"
+      },
+      {
+        "example": "睡蓮",
+        "reading": "スイレン",
+        "meaning": "water lily (any plant of genus Nymphaea), pygmy waterlily (Nymphaea tetragona)"
+      },
+      {
+        "example": "黄連",
+        "reading": "オウレン",
+        "meaning": "goldthread (Coptis japonica)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蓮",
+        "reading": "はす",
+        "meaning": "sacred lotus (Nelumbo nucifera), Indian lotus, lotus, rose of Sharon (Hibiscus syriacus)"
+      },
+      {
+        "example": "蓮池",
+        "reading": "はすいけ",
+        "meaning": "lotus pond"
+      },
+      {
+        "example": "蓮",
+        "reading": "はす",
+        "meaning": "sacred lotus (Nelumbo nucifera), Indian lotus, lotus, rose of Sharon (Hibiscus syriacus)"
+      },
+      {
+        "example": "蓮の蔤",
+        "reading": "はちすのはい",
+        "meaning": "lotus root"
+      },
+      {
+        "example": "木蓮",
+        "reading": "きはちす",
+        "meaning": "rose of Sharon (Hibiscus syriacus)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "艾",
+      "車",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34030_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084ee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84ee.gif",
+    "uri": "https://jisho.org/search/%E8%93%AE%23kanji"
+  }
+}

@@ -1,1 +1,35 @@
-{"id":"槎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"槎","found":true,"strokeCount":14,"meaning":"raft, cut slantwise","kunyomi":["いかだ","き.る"],"onyomi":["サ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["ノ","工","并","木","王","羊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27086_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069ce.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69ce.gif","uri":"https://jisho.org/search/%E6%A7%8E%23kanji"}}
+{
+  "id": "槎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槎",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "raft, cut slantwise",
+    "kunyomi": [
+      "いかだ",
+      "き.る"
+    ],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ノ",
+      "工",
+      "并",
+      "木",
+      "王",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27086_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069ce.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69ce.gif",
+    "uri": "https://jisho.org/search/%E6%A7%8E%23kanji"
+  }
+}

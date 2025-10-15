@@ -1,1 +1,37 @@
-{"id":"卉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"卉","found":true,"strokeCount":5,"meaning":"grass","kunyomi":["くさ"],"onyomi":["キ","ケ"],"onyomiExamples":[{"example":"花き","reading":"カキ","meaning":"flowering plant, flower, ornamental plant"}],"kunyomiExamples":[],"radical":{"symbol":"十","meaning":"ten, complete"},"parts":["十","廾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21321_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05349.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5349.gif","uri":"https://jisho.org/search/%E5%8D%89%23kanji"}}
+{
+  "id": "卉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卉",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "grass",
+    "kunyomi": [
+      "くさ"
+    ],
+    "onyomi": [
+      "キ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "花き",
+        "reading": "カキ",
+        "meaning": "flowering plant, flower, ornamental plant"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "十",
+      "meaning": "ten, complete"
+    },
+    "parts": [
+      "十",
+      "廾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21321_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05349.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5349.gif",
+    "uri": "https://jisho.org/search/%E5%8D%89%23kanji"
+  }
+}

@@ -1,1 +1,45 @@
-{"id":"覡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"覡","found":true,"strokeCount":14,"meaning":"diviner, medium","kunyomi":["かんなぎ","みこ"],"onyomi":["ゲキ","ケキ"],"onyomiExamples":[{"example":"巫覡","reading":"フゲキ","meaning":"shaman, oracle, diviner, medium"}],"kunyomiExamples":[{"example":"巫","reading":"かんなぎ","meaning":"medium, diviner, shaman, oracle"}],"radical":{"symbol":"見","meaning":"see"},"parts":["人","工","見"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35233_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089a1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89a1.gif","uri":"https://jisho.org/search/%E8%A6%A1%23kanji"}}
+{
+  "id": "覡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覡",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "diviner, medium",
+    "kunyomi": [
+      "かんなぎ",
+      "みこ"
+    ],
+    "onyomi": [
+      "ゲキ",
+      "ケキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巫覡",
+        "reading": "フゲキ",
+        "meaning": "shaman, oracle, diviner, medium"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "巫",
+        "reading": "かんなぎ",
+        "meaning": "medium, diviner, shaman, oracle"
+      }
+    ],
+    "radical": {
+      "symbol": "見",
+      "meaning": "see"
+    },
+    "parts": [
+      "人",
+      "工",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35233_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089a1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89a1.gif",
+    "uri": "https://jisho.org/search/%E8%A6%A1%23kanji"
+  }
+}

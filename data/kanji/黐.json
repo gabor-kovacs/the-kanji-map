@@ -1,1 +1,67 @@
-{"id":"黐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"黐","found":true,"strokeCount":23,"meaning":"bird-lime","kunyomi":["もち"],"onyomi":["チ","リ"],"onyomiExamples":[{"example":"鼠黐","reading":"ネズミモチ","meaning":"Japanese privet (Ligustrum japonicum)"},{"example":"黒鉄黐","reading":"クロガネモチ","meaning":"kurogane holly (Ilex rotunda)"}],"kunyomiExamples":[{"example":"黐","reading":"もち","meaning":"birdlime, Nepal holly (Ilex integra)"},{"example":"黐竿","reading":"もちざお","meaning":"lime stick for catching insects"},{"example":"鼠黐","reading":"ねずみもち","meaning":"Japanese privet (Ligustrum japonicum)"},{"example":"黒鉄黐","reading":"くろがねもち","meaning":"kurogane holly (Ilex rotunda)"}],"radical":{"symbol":"黍","meaning":"millet"},"parts":["亠","凵","水","禹","禾","黍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40656_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ed0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ed0.gif","uri":"https://jisho.org/search/%E9%BB%90%23kanji"}}
+{
+  "id": "黐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黐",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "bird-lime",
+    "kunyomi": [
+      "もち"
+    ],
+    "onyomi": [
+      "チ",
+      "リ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鼠黐",
+        "reading": "ネズミモチ",
+        "meaning": "Japanese privet (Ligustrum japonicum)"
+      },
+      {
+        "example": "黒鉄黐",
+        "reading": "クロガネモチ",
+        "meaning": "kurogane holly (Ilex rotunda)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "黐",
+        "reading": "もち",
+        "meaning": "birdlime, Nepal holly (Ilex integra)"
+      },
+      {
+        "example": "黐竿",
+        "reading": "もちざお",
+        "meaning": "lime stick for catching insects"
+      },
+      {
+        "example": "鼠黐",
+        "reading": "ねずみもち",
+        "meaning": "Japanese privet (Ligustrum japonicum)"
+      },
+      {
+        "example": "黒鉄黐",
+        "reading": "くろがねもち",
+        "meaning": "kurogane holly (Ilex rotunda)"
+      }
+    ],
+    "radical": {
+      "symbol": "黍",
+      "meaning": "millet"
+    },
+    "parts": [
+      "亠",
+      "凵",
+      "水",
+      "禹",
+      "禾",
+      "黍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40656_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ed0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ed0.gif",
+    "uri": "https://jisho.org/search/%E9%BB%90%23kanji"
+  }
+}

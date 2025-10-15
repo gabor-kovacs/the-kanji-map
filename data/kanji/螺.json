@@ -1,1 +1,71 @@
-{"id":"螺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"螺","found":true,"strokeCount":17,"meaning":"small, edible, helical fresh-water mollusk","kunyomi":["にし","にな"],"onyomi":["ラ"],"onyomiExamples":[{"example":"螺","reading":"ニシ","meaning":"small spiral-shelled snail, spiral shellfish"},{"example":"螺旋","reading":"ラセン","meaning":"spiral, helix, screw"},{"example":"馬蹄螺","reading":"バテイラ","meaning":"Omphalius pfeifferi pfeifferi (subspecies of top shell)"},{"example":"サラサ馬蹄螺","reading":"サラサバテイラ","meaning":"Tectus maximus (species of top shell)"}],"kunyomiExamples":[{"example":"螺","reading":"にし","meaning":"small spiral-shelled snail, spiral shellfish"},{"example":"赤螺","reading":"あかにし","meaning":"veined rapa whelk (Rapana venosa)"},{"example":"長螺","reading":"ながにし","meaning":"perplexed spindle (species of sea snail, Fusinus perplexus)"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["小","幺","田","糸","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34746_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087ba.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87ba.gif","uri":"https://jisho.org/search/%E8%9E%BA%23kanji"}}
+{
+  "id": "螺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "螺",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "small, edible, helical fresh-water mollusk",
+    "kunyomi": [
+      "にし",
+      "にな"
+    ],
+    "onyomi": [
+      "ラ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "螺",
+        "reading": "ニシ",
+        "meaning": "small spiral-shelled snail, spiral shellfish"
+      },
+      {
+        "example": "螺旋",
+        "reading": "ラセン",
+        "meaning": "spiral, helix, screw"
+      },
+      {
+        "example": "馬蹄螺",
+        "reading": "バテイラ",
+        "meaning": "Omphalius pfeifferi pfeifferi (subspecies of top shell)"
+      },
+      {
+        "example": "サラサ馬蹄螺",
+        "reading": "サラサバテイラ",
+        "meaning": "Tectus maximus (species of top shell)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "螺",
+        "reading": "にし",
+        "meaning": "small spiral-shelled snail, spiral shellfish"
+      },
+      {
+        "example": "赤螺",
+        "reading": "あかにし",
+        "meaning": "veined rapa whelk (Rapana venosa)"
+      },
+      {
+        "example": "長螺",
+        "reading": "ながにし",
+        "meaning": "perplexed spindle (species of sea snail, Fusinus perplexus)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "田",
+      "糸",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34746_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087ba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87ba.gif",
+    "uri": "https://jisho.org/search/%E8%9E%BA%23kanji"
+  }
+}

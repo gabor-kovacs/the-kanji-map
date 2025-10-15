@@ -1,1 +1,55 @@
-{"id":"衙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"衙","found":true,"strokeCount":13,"meaning":"government office","kunyomi":[],"onyomi":["ガ","ギョ","ゴ"],"onyomiExamples":[{"example":"衙府","reading":"ガフ","meaning":"government office, public office"},{"example":"衙門","reading":"ガモン","meaning":"government office, public office"},{"example":"公衙","reading":"コウガ","meaning":"government office, public office"},{"example":"国衙","reading":"コクガ","meaning":"provincial governor's office, provincial governorate (beginning in the late Heian period)"}],"kunyomiExamples":[],"radical":{"symbol":"行","meaning":"go, do"},"parts":["一","五","口","彳","行","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34905_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08859.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8859.gif","uri":"https://jisho.org/search/%E8%A1%99%23kanji"}}
+{
+  "id": "衙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衙",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "government office",
+    "kunyomi": [],
+    "onyomi": [
+      "ガ",
+      "ギョ",
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "衙府",
+        "reading": "ガフ",
+        "meaning": "government office, public office"
+      },
+      {
+        "example": "衙門",
+        "reading": "ガモン",
+        "meaning": "government office, public office"
+      },
+      {
+        "example": "公衙",
+        "reading": "コウガ",
+        "meaning": "government office, public office"
+      },
+      {
+        "example": "国衙",
+        "reading": "コクガ",
+        "meaning": "provincial governor's office, provincial governorate (beginning in the late Heian period)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "行",
+      "meaning": "go, do"
+    },
+    "parts": [
+      "一",
+      "五",
+      "口",
+      "彳",
+      "行",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34905_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08859.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8859.gif",
+    "uri": "https://jisho.org/search/%E8%A1%99%23kanji"
+  }
+}

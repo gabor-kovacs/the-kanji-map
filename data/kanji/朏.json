@@ -1,1 +1,30 @@
-{"id":"朏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"朏","found":true,"strokeCount":9,"meaning":"new moon, crescent moon","kunyomi":[],"onyomi":["ヒ","ハイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"月","meaning":"moon, month"},"parts":["山","月","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26383_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0670f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/670f.gif","uri":"https://jisho.org/search/%E6%9C%8F%23kanji"}}
+{
+  "id": "朏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朏",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "new moon, crescent moon",
+    "kunyomi": [],
+    "onyomi": [
+      "ヒ",
+      "ハイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "月",
+      "meaning": "moon, month"
+    },
+    "parts": [
+      "山",
+      "月",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26383_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0670f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/670f.gif",
+    "uri": "https://jisho.org/search/%E6%9C%8F%23kanji"
+  }
+}

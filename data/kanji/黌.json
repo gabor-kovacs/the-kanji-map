@@ -1,1 +1,39 @@
-{"id":"黌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"黌","found":true,"strokeCount":25,"meaning":"school","kunyomi":[],"onyomi":["コウ","オウ"],"onyomiExamples":[{"example":"藩校","reading":"ハンコウ","meaning":"clan school, han school"}],"kunyomiExamples":[],"radical":{"symbol":"黃","meaning":"yellow"},"parts":["ハ","冖","爻","田","臼","黄"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40652_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ecc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ecc.gif","uri":"https://jisho.org/search/%E9%BB%8C%23kanji"}}
+{
+  "id": "黌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黌",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "school",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ",
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "藩校",
+        "reading": "ハンコウ",
+        "meaning": "han school, school established by a daimyo for educating the children of the domain's retainers"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "黃",
+      "meaning": "yellow"
+    },
+    "parts": [
+      "ハ",
+      "冖",
+      "爻",
+      "田",
+      "臼",
+      "黄"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40652_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ecc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ecc.gif",
+    "uri": "https://jisho.org/search/%E9%BB%8C%23kanji"
+  }
+}

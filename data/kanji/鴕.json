@@ -1,1 +1,37 @@
-{"id":"鴕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鴕","found":true,"strokeCount":16,"meaning":"Chinese ostrich","kunyomi":[],"onyomi":["ダ","タ"],"onyomiExamples":[{"example":"駝鳥","reading":"ダチョウ","meaning":"ostrich (Struthio camelus)"}],"kunyomiExamples":[],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["匕","宀","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40213_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d15.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d15.gif","uri":"https://jisho.org/search/%E9%B4%95%23kanji"}}
+{
+  "id": "鴕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鴕",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "Chinese ostrich",
+    "kunyomi": [],
+    "onyomi": [
+      "ダ",
+      "タ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駝鳥",
+        "reading": "ダチョウ",
+        "meaning": "ostrich (Struthio camelus)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "匕",
+      "宀",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40213_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d15.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d15.gif",
+    "uri": "https://jisho.org/search/%E9%B4%95%23kanji"
+  }
+}

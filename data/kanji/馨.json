@@ -1,1 +1,72 @@
-{"id":"馨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"馨","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2164","strokeCount":20,"meaning":"fragrant, balmy, favourable","kunyomi":["かお.る","かおり"],"onyomi":["ケイ","キョウ"],"onyomiExamples":[{"example":"馨香","reading":"ケイコウ","meaning":"fragrance, perfume, aroma, honor, honour, fame"},{"example":"素馨","reading":"ソケイ","meaning":"Spanish jasmine (Jasminum grandiflorum)"},{"example":"黄素馨","reading":"キソケイ","meaning":"Jasminum umile var. revolutum, curled flower yellow jasmine"}],"kunyomiExamples":[{"example":"香る","reading":"かおる","meaning":"to smell sweet, to be fragrant"},{"example":"香り","reading":"かおり","meaning":"aroma, fragrance, scent, smell"}],"radical":{"symbol":"香","meaning":"fragrance"},"parts":["几","又","士","尸","日","殳","禾","香"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39336_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099a8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99a8.gif","uri":"https://jisho.org/search/%E9%A6%A8%23kanji"}}
+{
+  "id": "馨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "馨",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2164",
+    "strokeCount": 20,
+    "meaning": "fragrant, balmy, favourable",
+    "kunyomi": [
+      "かお.る",
+      "かおり"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "馨香",
+        "reading": "ケイコウ",
+        "meaning": "fragrance, perfume, aroma, honor, honour, fame"
+      },
+      {
+        "example": "素馨",
+        "reading": "ソケイ",
+        "meaning": "Spanish jasmine (Jasminum grandiflorum)"
+      },
+      {
+        "example": "黄素馨",
+        "reading": "キソケイ",
+        "meaning": "Italian jasmine (Jasminum humile var. revolutum), yellow jasmine"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "香る",
+        "reading": "かおる",
+        "meaning": "to smell sweet, to be fragrant"
+      },
+      {
+        "example": "香り",
+        "reading": "かおり",
+        "meaning": "aroma, fragrance, scent, smell"
+      },
+      {
+        "example": "香り立つ",
+        "reading": "かおりたつ",
+        "meaning": "to be fragrant, to have a pleasant aroma"
+      }
+    ],
+    "radical": {
+      "symbol": "香",
+      "meaning": "fragrance"
+    },
+    "parts": [
+      "几",
+      "又",
+      "士",
+      "尸",
+      "日",
+      "殳",
+      "禾",
+      "香"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39336_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99a8.gif",
+    "uri": "https://jisho.org/search/%E9%A6%A8%23kanji"
+  }
+}

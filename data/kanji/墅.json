@@ -1,1 +1,38 @@
-{"id":"墅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"墅","found":true,"strokeCount":14,"meaning":"shed, country house, countryside","kunyomi":["しもやしき"],"onyomi":["ショ","ヤ"],"onyomiExamples":[{"example":"別墅","reading":"ベッショ","meaning":"holiday home, country retreat"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["マ","土","里"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22661_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05885.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5885.gif","uri":"https://jisho.org/search/%E5%A2%85%23kanji"}}
+{
+  "id": "墅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "墅",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "shed, country house, countryside",
+    "kunyomi": [
+      "しもやしき"
+    ],
+    "onyomi": [
+      "ショ",
+      "ヤ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "別墅",
+        "reading": "ベッショ",
+        "meaning": "holiday home, country retreat"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "マ",
+      "土",
+      "里"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22661_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05885.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5885.gif",
+    "uri": "https://jisho.org/search/%E5%A2%85%23kanji"
+  }
+}

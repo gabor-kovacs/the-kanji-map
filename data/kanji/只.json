@@ -1,1 +1,54 @@
-{"id":"只","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"只","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2288","strokeCount":5,"meaning":"only, free, in addition","kunyomi":["ただ"],"onyomi":["シ"],"onyomiExamples":[{"example":"只管打坐","reading":"シカンタザ","meaning":"shikantaza, meditation practice where one stays intensely focused without focusing on any particular object"},{"example":"只今","reading":"シコン","meaning":"just now"}],"kunyomiExamples":[{"example":"只","reading":"ただ","meaning":"ordinary, common, usual, free of charge, unaffected, as is, safe, only, merely, just, simply, but, however, nevertheless"},{"example":"只今","reading":"ただいま","meaning":"I'm home!, I'm back!, it's me!, now, at present, at the moment, just now, a moment ago, at once, right away, in a minute, shortly, soon"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["ハ","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21482_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ea.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ea.gif","uri":"https://jisho.org/search/%E5%8F%AA%23kanji"}}
+{
+  "id": "只",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "只",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2288",
+    "strokeCount": 5,
+    "meaning": "only, free, in addition",
+    "kunyomi": [
+      "ただ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "只管打坐",
+        "reading": "シカンタザ",
+        "meaning": "shikantaza, meditation practice where one stays intensely focused without focusing on any particular object"
+      },
+      {
+        "example": "只今",
+        "reading": "シコン",
+        "meaning": "just now"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "只",
+        "reading": "ただ",
+        "meaning": "ordinary, common, usual, free of charge, unaffected, as is, safe, only, merely, just, simply, but, however, nevertheless"
+      },
+      {
+        "example": "只今",
+        "reading": "ただいま",
+        "meaning": "I'm home!, I'm back!, it's me!, now, at present, at the moment, just now, a moment ago, at once, right away, in a minute, shortly, soon"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "ハ",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21482_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ea.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ea.gif",
+    "uri": "https://jisho.org/search/%E5%8F%AA%23kanji"
+  }
+}

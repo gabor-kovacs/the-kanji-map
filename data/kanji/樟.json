@@ -1,1 +1,56 @@
-{"id":"樟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"樟","found":true,"newspaperFrequencyRank":"2252","strokeCount":15,"meaning":"camphor","kunyomi":["くす"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"樟脳","reading":"ショウノウ","meaning":"camphor"},{"example":"樟脳チンキ","reading":"ショウノウチンキ","meaning":"tincture of camphor"}],"kunyomiExamples":[{"example":"樟","reading":"くすのき","meaning":"camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"},{"example":"クスノキ科","reading":"クスノキか","meaning":"Lauraceae (laurel family of plants)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["十","日","木","立","音"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27167_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a1f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a1f.gif","uri":"https://jisho.org/search/%E6%A8%9F%23kanji"}}
+{
+  "id": "樟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樟",
+    "found": true,
+    "newspaperFrequencyRank": "2252",
+    "strokeCount": 15,
+    "meaning": "camphor",
+    "kunyomi": [
+      "くす"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "樟蔭女子大学",
+        "reading": "ショウインジョシダイガク",
+        "meaning": "Shouin Women's University"
+      },
+      {
+        "example": "樟蔭東女子短大",
+        "reading": "ショウインヒガシジョシタンダイ",
+        "meaning": "Shouinhigashi Women's Junior College"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "樟",
+        "reading": "くすのき",
+        "meaning": "camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"
+      },
+      {
+        "example": "クスノキ科",
+        "reading": "クスノキか",
+        "meaning": "Lauraceae (laurel family of plants)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "十",
+      "日",
+      "木",
+      "立",
+      "音"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27167_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a1f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a1f.gif",
+    "uri": "https://jisho.org/search/%E6%A8%9F%23kanji"
+  }
+}

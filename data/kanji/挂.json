@@ -1,1 +1,61 @@
-{"id":"挂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"挂","found":true,"strokeCount":9,"meaning":"hang","kunyomi":["か.ける"],"onyomi":["ケイ","カイ","ケ"],"onyomiExamples":[{"example":"挂冠","reading":"ケイカン","meaning":"resigning from a government post"},{"example":"挂甲","reading":"ケイコウ","meaning":"armor made from small iron plates bound by leather cords (from Kofun to Nara periods)"},{"example":"挂冠","reading":"ケイカン","meaning":"resigning from a government post"},{"example":"挂冠","reading":"ケイカン","meaning":"resigning from a government post"},{"example":"挂甲","reading":"ケイコウ","meaning":"armor made from small iron plates bound by leather cords (from Kofun to Nara periods)"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["土","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25346_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06302.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6302.gif","uri":"https://jisho.org/search/%E6%8C%82%23kanji"}}
+{
+  "id": "挂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挂",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "hang",
+    "kunyomi": [
+      "か.ける"
+    ],
+    "onyomi": [
+      "ケイ",
+      "カイ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "挂冠",
+        "reading": "ケイカン",
+        "meaning": "resigning from a government post"
+      },
+      {
+        "example": "挂甲",
+        "reading": "ケイコウ",
+        "meaning": "armor made from small iron plates bound by leather cords (from Kofun to Nara periods)"
+      },
+      {
+        "example": "挂冠",
+        "reading": "ケイカン",
+        "meaning": "resigning from a government post"
+      },
+      {
+        "example": "挂冠",
+        "reading": "ケイカン",
+        "meaning": "resigning from a government post"
+      },
+      {
+        "example": "挂甲",
+        "reading": "ケイコウ",
+        "meaning": "armor made from small iron plates bound by leather cords (from Kofun to Nara periods)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "土",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25346_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06302.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6302.gif",
+    "uri": "https://jisho.org/search/%E6%8C%82%23kanji"
+  }
+}

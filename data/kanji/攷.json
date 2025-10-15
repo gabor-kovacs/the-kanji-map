@@ -1,1 +1,44 @@
-{"id":"攷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"攷","found":true,"strokeCount":6,"meaning":"examine, test, investigate","kunyomi":["かんが.える"],"onyomi":["コウ"],"onyomiExamples":[{"example":"考究","reading":"コウキュウ","meaning":"investigation, inquiry, research, study, consideration, deliberation, scrutiny"},{"example":"論考","reading":"ロンコウ","meaning":"study (of), discussion, discourse, inquiry, research article, academic paper"}],"kunyomiExamples":[],"radical":{"symbol":"攴","forms":["攵"],"meaning":"rap"},"parts":["乞","攵"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25911_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06537.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6537.gif","uri":"https://jisho.org/search/%E6%94%B7%23kanji"}}
+{
+  "id": "攷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "攷",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "examine, test, investigate",
+    "kunyomi": [
+      "かんが.える"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "考究",
+        "reading": "コウキュウ",
+        "meaning": "investigation, inquiry, research, study, consideration, deliberation, scrutiny"
+      },
+      {
+        "example": "論考",
+        "reading": "ロンコウ",
+        "meaning": "study (of), discussion, discourse, inquiry, research article, academic paper"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "乞",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25911_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06537.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6537.gif",
+    "uri": "https://jisho.org/search/%E6%94%B7%23kanji"
+  }
+}

@@ -1,1 +1,38 @@
-{"id":"撤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"撤","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"811","strokeCount":15,"meaning":"remove, withdraw, disarm, dismantle, reject, exclude","kunyomi":[],"onyomi":["テツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["乞","亠","厶","扎","攵","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25764_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064a4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64a4.gif","uri":"https://jisho.org/search/%E6%92%A4%23kanji"}}
+{
+  "id": "撤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撤",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "811",
+    "strokeCount": 15,
+    "meaning": "remove, withdraw, disarm, dismantle, reject, exclude",
+    "kunyomi": [],
+    "onyomi": [
+      "テツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "乞",
+      "亠",
+      "厶",
+      "扎",
+      "攵",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25764_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064a4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64a4.gif",
+    "uri": "https://jisho.org/search/%E6%92%A4%23kanji"
+  }
+}

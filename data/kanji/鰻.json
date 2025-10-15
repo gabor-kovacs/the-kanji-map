@@ -1,1 +1,62 @@
-{"id":"鰻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鰻","found":true,"strokeCount":22,"meaning":"eel","kunyomi":["うなぎ"],"onyomi":["マン","バン"],"onyomiExamples":[{"example":"養鰻","reading":"ヨウマン","meaning":"eel farming, eel culture"}],"kunyomiExamples":[{"example":"鰻","reading":"うなぎ","meaning":"eel (esp. the Japanese eel, Anguilla japonica)"},{"example":"鰻裂き包丁","reading":"うなぎさきほうちょう","meaning":"eel knife"},{"example":"大鰻","reading":"おおうなぎ","meaning":"giant mottled eel (Anguilla marmorata), marbled eel"},{"example":"電気ウナギ","reading":"でんきウナギ","meaning":"electric eel (Electrophorus electricus)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["又","日","杰","田","買","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39995_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c3b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c3b.gif","uri":"https://jisho.org/search/%E9%B0%BB%23kanji"}}
+{
+  "id": "鰻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰻",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "eel",
+    "kunyomi": [
+      "うなぎ"
+    ],
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "養鰻",
+        "reading": "ヨウマン",
+        "meaning": "eel farming, eel culture"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鰻",
+        "reading": "うなぎ",
+        "meaning": "eel (esp. the Japanese eel, Anguilla japonica)"
+      },
+      {
+        "example": "鰻裂き包丁",
+        "reading": "うなぎさきほうちょう",
+        "meaning": "eel knife"
+      },
+      {
+        "example": "大鰻",
+        "reading": "おおうなぎ",
+        "meaning": "giant mottled eel (Anguilla marmorata), marbled eel"
+      },
+      {
+        "example": "電気ウナギ",
+        "reading": "でんきウナギ",
+        "meaning": "electric eel (Electrophorus electricus)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "又",
+      "日",
+      "杰",
+      "田",
+      "買",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39995_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c3b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c3b.gif",
+    "uri": "https://jisho.org/search/%E9%B0%BB%23kanji"
+  }
+}

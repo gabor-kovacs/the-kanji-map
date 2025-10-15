@@ -1,1 +1,50 @@
-{"id":"媾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"媾","found":true,"strokeCount":13,"meaning":"association, intimacy","kunyomi":["よしみ"],"onyomi":["コウ"],"onyomiExamples":[{"example":"講和","reading":"コウワ","meaning":"reconciliation (between warring nations), (making of) peace"},{"example":"交合","reading":"コウゴウ","meaning":"sexual union, congress"},{"example":"交媾","reading":"コウコウ","meaning":"sexual union"}],"kunyomiExamples":[],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["一","二","冂","十","女","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23230_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05abe.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5abe.gif","uri":"https://jisho.org/search/%E5%AA%BE%23kanji"}}
+{
+  "id": "媾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "媾",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "association, intimacy",
+    "kunyomi": [
+      "よしみ"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "講和",
+        "reading": "コウワ",
+        "meaning": "reconciliation (between warring nations), (making of) peace"
+      },
+      {
+        "example": "交合",
+        "reading": "コウゴウ",
+        "meaning": "sexual union, congress"
+      },
+      {
+        "example": "交媾",
+        "reading": "コウコウ",
+        "meaning": "sexual union"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "一",
+      "二",
+      "冂",
+      "十",
+      "女",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23230_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05abe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5abe.gif",
+    "uri": "https://jisho.org/search/%E5%AA%BE%23kanji"
+  }
+}

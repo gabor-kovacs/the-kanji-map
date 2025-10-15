@@ -1,1 +1,41 @@
-{"id":"獻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"獻","found":true,"strokeCount":20,"meaning":"offer, present, show, display","kunyomi":["たてまつ.る"],"onyomi":["ケン","コン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"犬","forms":["犭"],"meaning":"dog"},"parts":["儿","冂","匕","卜","厂","口","犬","虍","鬲"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29563_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0737b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/737b.gif","uri":"https://jisho.org/search/%E7%8D%BB%23kanji"}}
+{
+  "id": "獻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "獻",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "offer, present, show, display",
+    "kunyomi": [
+      "たてまつ.る"
+    ],
+    "onyomi": [
+      "ケン",
+      "コン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "犬",
+      "forms": [
+        "犭"
+      ],
+      "meaning": "dog"
+    },
+    "parts": [
+      "儿",
+      "冂",
+      "匕",
+      "卜",
+      "厂",
+      "口",
+      "犬",
+      "虍",
+      "鬲"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29563_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0737b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/737b.gif",
+    "uri": "https://jisho.org/search/%E7%8D%BB%23kanji"
+  }
+}

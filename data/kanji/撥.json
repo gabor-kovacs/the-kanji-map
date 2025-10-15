@@ -1,1 +1,69 @@
-{"id":"撥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"撥","found":true,"strokeCount":15,"meaning":"brush up, reject, exclude, eliminate, bone plectrum","kunyomi":["は.ねる","おさ.める"],"onyomi":["ハツ","バチ"],"onyomiExamples":[{"example":"発条","reading":"バネ","meaning":"spring, spring (in one's legs), bounce, springboard, impetus"},{"example":"撥音","reading":"ハツオン","meaning":"the sound of the kana \"n\""},{"example":"撥","reading":"バチ","meaning":"plectrum (for a shamisen, biwa, etc.), pick, drumstick (for taiko), mallet (for a gong), beater"},{"example":"撥音","reading":"バチオト","meaning":"sound made by a plectrum"},{"example":"目撥","reading":"メバチ","meaning":"bigeye tuna (edible fish, Thunnus obesus)"}],"kunyomiExamples":[{"example":"撥ねる","reading":"はねる","meaning":"to hit (e.g. to have a car hit someone), to run into, to reject, to deny, to refuse, to eliminate, to exclude, to leave out, to flip, to splash, to splatter, to decapitate, to behead, to jump up, to point or curl up (e.g. ends of hair)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["二","儿","扎","癶"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25765_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064a5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64a5.gif","uri":"https://jisho.org/search/%E6%92%A5%23kanji"}}
+{
+  "id": "撥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撥",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "brush up, reject, exclude, eliminate, bone plectrum",
+    "kunyomi": [
+      "は.ねる",
+      "おさ.める"
+    ],
+    "onyomi": [
+      "ハツ",
+      "バチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "撥音",
+        "reading": "ハツオン",
+        "meaning": "syllabic nasal (in Japanese)"
+      },
+      {
+        "example": "撥音便",
+        "reading": "ハツオンビン",
+        "meaning": "nasal sound change (generation of the mora 'n', primarily from verb stems ending in 'i')"
+      },
+      {
+        "example": "撥",
+        "reading": "バチ",
+        "meaning": "plectrum (for a shamisen, biwa, etc.), pick, drumstick (for taiko), mallet (for a gong), beater"
+      },
+      {
+        "example": "撥音",
+        "reading": "バチオト",
+        "meaning": "sound made by a plectrum"
+      },
+      {
+        "example": "目撥",
+        "reading": "メバチ",
+        "meaning": "bigeye tuna (edible fish, Thunnus obesus)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "撥ねる",
+        "reading": "はねる",
+        "meaning": "to hit (e.g. with a car), to knock down, to reject, to eliminate, to exclude, to get rid of, to refuse (e.g. a request), to deny, to turn down, to flip, to splash, to splatter, to take (a percentage), to stick up (e.g. of hair), to curl up (e.g. of a moustache), to sweep up (the end of a brush stroke), to pronounce as a syllabic nasal"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "二",
+      "儿",
+      "扎",
+      "癶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25765_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064a5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64a5.gif",
+    "uri": "https://jisho.org/search/%E6%92%A5%23kanji"
+  }
+}

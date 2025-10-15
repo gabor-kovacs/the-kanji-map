@@ -1,1 +1,54 @@
-{"id":"邁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"邁","found":true,"strokeCount":17,"meaning":"go, excel","kunyomi":["ゆ.く"],"onyomi":["マイ","バイ"],"onyomiExamples":[{"example":"邁進","reading":"マイシン","meaning":"pushing forward (undaunted, bravely), working vigorously towards an aim, struggling on, striving towards"},{"example":"英邁","reading":"エイマイ","meaning":"wise and great"},{"example":"天資英邁","reading":"テンシエイマイ","meaning":"highly gifted"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["田","禹","艾","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36993_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09081.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9081.gif","uri":"https://jisho.org/search/%E9%82%81%23kanji"}}
+{
+  "id": "邁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "邁",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "go, excel",
+    "kunyomi": [
+      "ゆ.く"
+    ],
+    "onyomi": [
+      "マイ",
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "邁進",
+        "reading": "マイシン",
+        "meaning": "pushing forward (undaunted), pushing on (toward a goal), striving (for)"
+      },
+      {
+        "example": "英邁",
+        "reading": "エイマイ",
+        "meaning": "wise and great"
+      },
+      {
+        "example": "天資英邁",
+        "reading": "テンシエイマイ",
+        "meaning": "highly gifted"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "田",
+      "禹",
+      "艾",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36993_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09081.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9081.gif",
+    "uri": "https://jisho.org/search/%E9%82%81%23kanji"
+  }
+}

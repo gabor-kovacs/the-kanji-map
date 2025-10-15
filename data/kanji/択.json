@@ -1,1 +1,64 @@
-{"id":"択","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"択","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"847","strokeCount":7,"meaning":"choose, select, elect, prefer","kunyomi":["えら.ぶ"],"onyomi":["タク"],"onyomiExamples":[{"example":"択","reading":"タク","meaning":"counter for choices, options, etc."},{"example":"択一","reading":"タクイツ","meaning":"choosing one from among several, multiple choice"},{"example":"一択","reading":"イッタク","meaning":"(only) one option, one possible choice"},{"example":"性選択","reading":"セイセンタク","meaning":"sexual selection"}],"kunyomiExamples":[{"example":"選ぶ","reading":"えらぶ","meaning":"to choose, to select"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["丶","尸","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25246_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0629e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/629e.gif","uri":"https://jisho.org/search/%E6%8A%9E%23kanji"}}
+{
+  "id": "択",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "択",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "847",
+    "strokeCount": 7,
+    "meaning": "choose, select, elect, prefer",
+    "kunyomi": [
+      "えら.ぶ"
+    ],
+    "onyomi": [
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "択",
+        "reading": "タク",
+        "meaning": "counter for choices, options, etc."
+      },
+      {
+        "example": "択一",
+        "reading": "タクイツ",
+        "meaning": "choosing one from among several, multiple choice"
+      },
+      {
+        "example": "一択",
+        "reading": "イッタク",
+        "meaning": "(only) one option, one possible choice"
+      },
+      {
+        "example": "二択",
+        "reading": "ニタク",
+        "meaning": "(having) two choices, choice between two things"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "選ぶ",
+        "reading": "えらぶ",
+        "meaning": "to choose, to select"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "丶",
+      "尸",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25246_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0629e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/629e.gif",
+    "uri": "https://jisho.org/search/%E6%8A%9E%23kanji"
+  }
+}

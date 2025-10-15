@@ -1,1 +1,45 @@
-{"id":"恚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"恚","found":true,"strokeCount":10,"meaning":"anger","kunyomi":["いか.る"],"onyomi":["イ"],"onyomiExamples":[{"example":"慚恚","reading":"ザンイ","meaning":"being ashamed and angry"},{"example":"瞋恚","reading":"シンイ","meaning":"dosa (ill will, antipathy), irateness, anger"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["土","心"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24666_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0605a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/605a.gif","uri":"https://jisho.org/search/%E6%81%9A%23kanji"}}
+{
+  "id": "恚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恚",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "anger",
+    "kunyomi": [
+      "いか.る"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慚恚",
+        "reading": "ザンイ",
+        "meaning": "being ashamed and angry"
+      },
+      {
+        "example": "瞋恚",
+        "reading": "シンイ",
+        "meaning": "dosa (ill will, antipathy), irateness, anger"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "土",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24666_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0605a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/605a.gif",
+    "uri": "https://jisho.org/search/%E6%81%9A%23kanji"
+  }
+}

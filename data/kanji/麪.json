@@ -1,1 +1,45 @@
-{"id":"麪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"麪","found":true,"strokeCount":15,"meaning":"noodles, wheat flour","kunyomi":["むぎこ"],"onyomi":["メン","ベン"],"onyomiExamples":[{"example":"麺","reading":"メン","meaning":"noodles, flour"},{"example":"麺麭","reading":"メンポウ","meaning":"bread"}],"kunyomiExamples":[],"radical":{"symbol":"麥","meaning":"wheat"},"parts":["人","十","夂","止","疋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40618_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09eaa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9eaa.gif","uri":"https://jisho.org/search/%E9%BA%AA%23kanji"}}
+{
+  "id": "麪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麪",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "noodles, wheat flour",
+    "kunyomi": [
+      "むぎこ"
+    ],
+    "onyomi": [
+      "メン",
+      "ベン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麺",
+        "reading": "メン",
+        "meaning": "noodles, flour"
+      },
+      {
+        "example": "麺麭",
+        "reading": "メンポウ",
+        "meaning": "bread"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "麥",
+      "meaning": "wheat"
+    },
+    "parts": [
+      "人",
+      "十",
+      "夂",
+      "止",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40618_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09eaa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9eaa.gif",
+    "uri": "https://jisho.org/search/%E9%BA%AA%23kanji"
+  }
+}

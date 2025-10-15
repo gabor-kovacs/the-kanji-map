@@ -1,1 +1,54 @@
-{"id":"癸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"癸","found":true,"strokeCount":9,"meaning":"10th calendar sign","kunyomi":["みずのと"],"onyomi":["キ"],"onyomiExamples":[{"example":"癸","reading":"キ","meaning":"10th in rank, tenth sign of the Chinese calendar"},{"example":"癸亥","reading":"ミズノトイ","meaning":"Water Boar (60th term of the sexagenary cycle, e.g. 1923, 1983, 2043)"}],"kunyomiExamples":[{"example":"癸","reading":"き","meaning":"10th in rank, tenth sign of the Chinese calendar"},{"example":"癸亥","reading":"みずのとい","meaning":"Water Boar (60th term of the sexagenary cycle, e.g. 1923, 1983, 2043)"}],"radical":{"symbol":"癶","meaning":"footsteps"},"parts":["一","二","大","癶"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30328_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07678.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7678.gif","uri":"https://jisho.org/search/%E7%99%B8%23kanji"}}
+{
+  "id": "癸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "癸",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "10th calendar sign",
+    "kunyomi": [
+      "みずのと"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "癸",
+        "reading": "キ",
+        "meaning": "10th in rank, tenth sign of the Chinese calendar"
+      },
+      {
+        "example": "癸亥",
+        "reading": "ミズノトイ",
+        "meaning": "Water Boar (60th term of the sexagenary cycle, e.g. 1923, 1983, 2043)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "癸",
+        "reading": "き",
+        "meaning": "10th in rank, tenth sign of the Chinese calendar"
+      },
+      {
+        "example": "癸亥",
+        "reading": "みずのとい",
+        "meaning": "Water Boar (60th term of the sexagenary cycle, e.g. 1923, 1983, 2043)"
+      }
+    ],
+    "radical": {
+      "symbol": "癶",
+      "meaning": "footsteps"
+    },
+    "parts": [
+      "一",
+      "二",
+      "大",
+      "癶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30328_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07678.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7678.gif",
+    "uri": "https://jisho.org/search/%E7%99%B8%23kanji"
+  }
+}

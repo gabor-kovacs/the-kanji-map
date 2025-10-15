@@ -1,1 +1,41 @@
-{"id":"坎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"坎","found":true,"strokeCount":7,"meaning":"pitfall","kunyomi":["あな"],"onyomi":["カン"],"onyomiExamples":[{"example":"坎","reading":"カン","meaning":"pit, hole, kan (one of the trigrams of the I Ching: water, north)"},{"example":"轗軻","reading":"カンカ","meaning":"separation from the world"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","欠"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22350_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0574e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/574e.gif","uri":"https://jisho.org/search/%E5%9D%8E%23kanji"}}
+{
+  "id": "坎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "坎",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "pitfall",
+    "kunyomi": [
+      "あな"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "坎",
+        "reading": "カン",
+        "meaning": "pit, hole, kan (one of the trigrams of the I Ching: water, north)"
+      },
+      {
+        "example": "轗軻",
+        "reading": "カンカ",
+        "meaning": "separation from the world"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "欠"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22350_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0574e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/574e.gif",
+    "uri": "https://jisho.org/search/%E5%9D%8E%23kanji"
+  }
+}

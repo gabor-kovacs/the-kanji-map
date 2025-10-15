@@ -1,1 +1,74 @@
-{"id":"慰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"慰","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1158","strokeCount":15,"meaning":"consolation, amusement, seduce, cheer, make sport of, comfort, console","kunyomi":["なぐさ.める","なぐさ.む"],"onyomi":["イ"],"onyomiExamples":[{"example":"慰謝","reading":"イシャ","meaning":"consolation"},{"example":"慰安","reading":"イアン","meaning":"solace, relaxation"},{"example":"弔意","reading":"チョウイ","meaning":"condolence, sympathy, mourning"},{"example":"少慰","reading":"ショウイ","meaning":"ensign (navy), second lieutenant (marine and army)"}],"kunyomiExamples":[{"example":"慰める","reading":"なぐさめる","meaning":"to comfort, to console, to amuse"},{"example":"慰む","reading":"なぐさむ","meaning":"to feel comforted, to be in good spirits, to feel better, to forget one's worries, to trifle with, to fool around with"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["二","寸","小","尸","心","示"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24944_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06170.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6170.gif","uri":"https://jisho.org/search/%E6%85%B0%23kanji"}}
+{
+  "id": "慰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慰",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1158",
+    "strokeCount": 15,
+    "meaning": "consolation, amusement, seduce, cheer, make sport of, comfort, console",
+    "kunyomi": [
+      "なぐさ.める",
+      "なぐさ.む"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慰謝",
+        "reading": "イシャ",
+        "meaning": "consolation"
+      },
+      {
+        "example": "慰安",
+        "reading": "イアン",
+        "meaning": "solace, relaxation"
+      },
+      {
+        "example": "弔慰",
+        "reading": "チョウイ",
+        "meaning": "condolence, sympathy"
+      },
+      {
+        "example": "自慰",
+        "reading": "ジイ",
+        "meaning": "masturbation, onanism, self-consolation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慰める",
+        "reading": "なぐさめる",
+        "meaning": "to comfort, to console, to amuse"
+      },
+      {
+        "example": "慰む",
+        "reading": "なぐさむ",
+        "meaning": "to feel comforted, to be in good spirits, to feel better, to forget one's worries, to trifle with, to fool around with"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "二",
+      "寸",
+      "小",
+      "尸",
+      "心",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24944_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06170.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6170.gif",
+    "uri": "https://jisho.org/search/%E6%85%B0%23kanji"
+  }
+}

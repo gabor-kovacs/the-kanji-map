@@ -1,1 +1,52 @@
-{"id":"纈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"纈","found":true,"strokeCount":21,"meaning":"tie-dyeing, purblind","kunyomi":["しぼり"],"onyomi":["ケツ","ケチ"],"onyomiExamples":[{"example":"纐纈","reading":"コウケチ","meaning":"style of tie-dyeing used during the Nara era"},{"example":"纐纈","reading":"コウケチ","meaning":"style of tie-dyeing used during the Nara era"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["ハ","口","士","小","幺","目","糸","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32392_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e88.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e88.gif","uri":"https://jisho.org/search/%E7%BA%88%23kanji"}}
+{
+  "id": "纈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "纈",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "tie-dyeing, purblind",
+    "kunyomi": [
+      "しぼり"
+    ],
+    "onyomi": [
+      "ケツ",
+      "ケチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "纐纈",
+        "reading": "コウケチ",
+        "meaning": "style of tie-dyeing used during the Nara era"
+      },
+      {
+        "example": "纐纈",
+        "reading": "コウケチ",
+        "meaning": "style of tie-dyeing used during the Nara era"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "士",
+      "小",
+      "幺",
+      "目",
+      "糸",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32392_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e88.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e88.gif",
+    "uri": "https://jisho.org/search/%E7%BA%88%23kanji"
+  }
+}

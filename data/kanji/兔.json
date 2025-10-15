@@ -1,1 +1,39 @@
-{"id":"兔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"兔","found":true,"strokeCount":8,"meaning":"rabbit, hare","kunyomi":["うさぎ"],"onyomi":["ト","ツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"兎","reading":"うさぎ","meaning":"rabbit, hare, coney, cony, lagomorph (esp. leporids)"}],"radical":{"symbol":"儿","meaning":"legs"},"parts":["丶","儿","免","勹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20820_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05154.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5154.gif","uri":"https://jisho.org/search/%E5%85%94%23kanji"}}
+{
+  "id": "兔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "兔",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "rabbit, hare",
+    "kunyomi": [
+      "うさぎ"
+    ],
+    "onyomi": [
+      "ト",
+      "ツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "兎",
+        "reading": "うさぎ",
+        "meaning": "rabbit, hare, coney, cony, lagomorph (esp. leporids)"
+      }
+    ],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "legs"
+    },
+    "parts": [
+      "丶",
+      "儿",
+      "免",
+      "勹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20820_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05154.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5154.gif",
+    "uri": "https://jisho.org/search/%E5%85%94%23kanji"
+  }
+}

@@ -1,1 +1,53 @@
-{"id":"樅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"樅","found":true,"strokeCount":15,"meaning":"fir","kunyomi":["もみ"],"onyomi":["ショウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"樅","reading":"もみ","meaning":"Japanese fir (Abies firma), momi fir"},{"example":"もみの木","reading":"もみのき","meaning":"Japanese fir (Abies firma), momi fir"},{"example":"アマビリス樅","reading":"アマビリスもみ","meaning":"Pacific silver fir (Abies amabilis)"},{"example":"ヨーロッパ樅","reading":"ヨーロッパもみ","meaning":"European silver fir (Abies alba)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["并","彳","木","疋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27141_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a05.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a05.gif","uri":"https://jisho.org/search/%E6%A8%85%23kanji"}}
+{
+  "id": "樅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樅",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "fir",
+    "kunyomi": [
+      "もみ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "樅",
+        "reading": "もみ",
+        "meaning": "Japanese fir (Abies firma), momi fir"
+      },
+      {
+        "example": "樅茸",
+        "reading": "もみたけ",
+        "meaning": "Catathelasma ventricosum (Peck) Sing. (species of mushroom)"
+      },
+      {
+        "example": "アマビリス樅",
+        "reading": "アマビリスもみ",
+        "meaning": "Pacific silver fir (Abies amabilis)"
+      },
+      {
+        "example": "ヨーロッパ樅",
+        "reading": "ヨーロッパもみ",
+        "meaning": "European silver fir (Abies alba)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "并",
+      "彳",
+      "木",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27141_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a05.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a05.gif",
+    "uri": "https://jisho.org/search/%E6%A8%85%23kanji"
+  }
+}

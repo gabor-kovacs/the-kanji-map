@@ -1,1 +1,339 @@
-{"id":"則","kanjialiveData":{"kanji":{"character":"則","meaning":{"english":"rule, law"},"strokes":{"count":9,"timings":[0,1.933,3.933,4.533,5.333,6.133,6.933,7.666,8.933,10.666667],"images":["https://media.kanjialive.com/kanji_strokes/(hou)soku_1.svg","https://media.kanjialive.com/kanji_strokes/(hou)soku_2.svg","https://media.kanjialive.com/kanji_strokes/(hou)soku_3.svg","https://media.kanjialive.com/kanji_strokes/(hou)soku_4.svg","https://media.kanjialive.com/kanji_strokes/(hou)soku_5.svg","https://media.kanjialive.com/kanji_strokes/(hou)soku_6.svg","https://media.kanjialive.com/kanji_strokes/(hou)soku_7.svg","https://media.kanjialive.com/kanji_strokes/(hou)soku_8.svg","https://media.kanjialive.com/kanji_strokes/(hou)soku_9.svg"]},"onyomi":{"romaji":"soku","katakana":"ソク"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(hou)soku_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(hou)soku_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(hou)soku_00.webm"}},"radical":{"character":"⺉","strokes":2,"image":"https://media.kanjialive.com/radical_character/rittou.svg","position":{"hiragana":"つくり","romaji":"tsukuri","icon":"https://media.kanjialive.com/rad_positions/tsukuri.svg"},"name":{"hiragana":"りっとう","romaji":"rittou"},"meaning":{"english":"knife, sword"},"animation":["https://media.kanjialive.com/rad_frames/rittou0.svg","https://media.kanjialive.com/rad_frames/rittou1.svg","https://media.kanjialive.com/rad_frames/rittou2.svg"]},"references":{"grade":5,"kodansha":"967","classic_nelson":"4487"},"examples":[{"japanese":"規則（きそく）","meaning":{"english":"regulation"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_a.mp3"}},{"japanese":"法則（ほうそく）","meaning":{"english":"law, principle (e.g. in physics)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_b.mp3"}},{"japanese":"原則（げんそく）","meaning":{"english":"principle"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_c.mp3"}},{"japanese":"罰則（ばっそく）","meaning":{"english":"penal regulations"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_d.mp3"}},{"japanese":"会則（かいそく）","meaning":{"english":"society or club regulations"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_e.mp3"}},{"japanese":"不規則な（ふきそくな）","meaning":{"english":"irregular"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_f.mp3"}},{"japanese":"反則する（はんそくする）","meaning":{"english":"violate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_g.mp3"}}]},"jishoData":{"query":"則","found":true,"taughtIn":"grade 5","jlptLevel":"N2","newspaperFrequencyRank":"753","strokeCount":9,"meaning":"rule, law, follow, based on, model after","kunyomi":["のっと.る","のり","すなわち"],"onyomi":["ソク"],"onyomiExamples":[{"example":"則","reading":"ソク","meaning":"counter for rules, rule, regulation"},{"example":"即する","reading":"ソクスル","meaning":"to conform to, to agree with, to be adapted to, to be based on"},{"example":"規則","reading":"キソク","meaning":"rule, regulation"},{"example":"正則","reading":"セイソク","meaning":"correct, proper, formal, regular, systematic, normal, invertible (matrix), holomorphic"}],"kunyomiExamples":[{"example":"則る","reading":"のっとる","meaning":"to conform to, to be in accordance with, to follow (rule, tradition, example, etc.)"},{"example":"法","reading":"のり","meaning":"rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"},{"example":"即ち","reading":"すなわち","meaning":"that is, namely, i.e."}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["ハ","刈","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21063_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05247.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5247.gif","uri":"https://jisho.org/search/%E5%89%87%23kanji"}}
+{
+  "id": "則",
+  "kanjialiveData": {
+    "_id": "54317aea791eba5146ee49ef",
+    "_rev": "11-35d7952337dd22a4fb048d65a26fdc02",
+    "rad_name_ja": "りっとう",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "rule, law",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "規則（きそく）",
+        "meaning": {
+          "english": "regulation"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "法則（ほうそく）",
+        "meaning": {
+          "english": "law, principle (e.g. in physics)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "原則（げんそく）",
+        "meaning": {
+          "english": "principle"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "罰則（ばっそく）",
+        "meaning": {
+          "english": "penal regulations"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "会則（かいそく）",
+        "meaning": {
+          "english": "society or club regulations"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "不規則な（ふきそくな）",
+        "meaning": {
+          "english": "irregular"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "反則する（はんそくする）",
+        "meaning": {
+          "english": "violate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)soku_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)soku_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)soku_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "則",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=則",
+    "rad_name_search": [
+      "rittou"
+    ],
+    "rad_order": 23,
+    "txt_books": [
+      {
+        "chapter": "28",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "(hou)soku",
+    "rad_utf": "⺉",
+    "stroketimes": [
+      0,
+      1.933,
+      3.933,
+      4.533,
+      5.333,
+      6.133,
+      6.933,
+      7.666,
+      8.933,
+      10.666667
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "967",
+    "rad_name": "rittou",
+    "dicn": "4487",
+    "mn_hint": "The lawmaker has money 貝 and a sword 刂.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ソク",
+    "rad_meaning": "knife, sword",
+    "onyomi": "soku",
+    "ka_id": "ka_310",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "soku",
+      "soku"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "rule",
+      "law",
+      "rule, law"
+    ],
+    "onyomi_ja_search": [
+      "ソク",
+      "ソク"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "knife",
+      "sword",
+      "knife, sword"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "りっとう"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:28",
+      "cij:c28",
+      "ik1",
+      "ik1:12",
+      "ik1:c12",
+      "jtr",
+      "jtr:13",
+      "jtr:c13"
+    ],
+    "rad_name_file": "rittou",
+    "kanji": {
+      "character": "則",
+      "meaning": {
+        "english": "rule, law"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1.933,
+          3.933,
+          4.533,
+          5.333,
+          6.133,
+          6.933,
+          7.666,
+          8.933,
+          10.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(hou)soku_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)soku_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)soku_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)soku_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)soku_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)soku_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)soku_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)soku_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)soku_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "soku",
+        "katakana": "ソク"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(hou)soku_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(hou)soku_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(hou)soku_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺉",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/rittou.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "りっとう",
+        "romaji": "rittou"
+      },
+      "meaning": {
+        "english": "knife, sword"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/rittou0.svg",
+        "https://media.kanjialive.com/rad_frames/rittou1.svg",
+        "https://media.kanjialive.com/rad_frames/rittou2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "967",
+      "classic_nelson": "4487"
+    }
+  },
+  "jishoData": {
+    "query": "則",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "753",
+    "strokeCount": 9,
+    "meaning": "rule, law, follow, based on, model after",
+    "kunyomi": [
+      "のっと.る",
+      "のり",
+      "すなわち"
+    ],
+    "onyomi": [
+      "ソク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "則",
+        "reading": "ソク",
+        "meaning": "counter for rules, rule, regulation"
+      },
+      {
+        "example": "即する",
+        "reading": "ソクスル",
+        "meaning": "to conform to, to agree with, to be adapted to, to be based on"
+      },
+      {
+        "example": "反則",
+        "reading": "ハンソク",
+        "meaning": "foul, breaking the rules, violation (of the law, regulations, etc.), infringement, breach, infraction"
+      },
+      {
+        "example": "正則",
+        "reading": "セイソク",
+        "meaning": "correct, proper, formal, regular, systematic, normal, invertible (matrix), holomorphic"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "則る",
+        "reading": "のっとる",
+        "meaning": "to follow (a rule, precedent, style, etc.), to conform to, to be in accordance with"
+      },
+      {
+        "example": "法",
+        "reading": "のり",
+        "meaning": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+      },
+      {
+        "example": "即ち",
+        "reading": "すなわち",
+        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "ハ",
+      "刈",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21063_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05247.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5247.gif",
+    "uri": "https://jisho.org/search/%E5%89%87%23kanji"
+  }
+}

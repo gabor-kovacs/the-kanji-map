@@ -1,1 +1,40 @@
-{"id":"蘗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蘗","found":true,"strokeCount":20,"meaning":"stump, sprout","kunyomi":["きはだ","きわだ"],"onyomi":["ハク","ビャク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["十","口","尸","木","立","艾","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34327_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08617.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8617.gif","uri":"https://jisho.org/search/%E8%98%97%23kanji"}}
+{
+  "id": "蘗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蘗",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "stump, sprout",
+    "kunyomi": [
+      "きはだ",
+      "きわだ"
+    ],
+    "onyomi": [
+      "ハク",
+      "ビャク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "木",
+      "立",
+      "艾",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34327_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08617.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8617.gif",
+    "uri": "https://jisho.org/search/%E8%98%97%23kanji"
+  }
+}

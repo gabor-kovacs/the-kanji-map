@@ -1,1 +1,69 @@
-{"id":"胆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"胆","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1449","strokeCount":9,"meaning":"gall bladder, courage, pluck, nerve","kunyomi":["きも"],"onyomi":["タン"],"onyomiExamples":[{"example":"肝","reading":"キモ","meaning":"liver, innards, courage, spirit, pluck, guts, crux, essential point, key"},{"example":"胆石","reading":"タンセキ","meaning":"gallstones"},{"example":"魂胆","reading":"コンタン","meaning":"ulterior motive, plot, scheme, complicated circumstances, intricacies"},{"example":"豪胆","reading":"ゴウタン","meaning":"bold, daring, dauntless, intrepid, stout-hearted"}],"kunyomiExamples":[{"example":"肝","reading":"きも","meaning":"liver, innards, courage, spirit, pluck, guts, crux, essential point, key"},{"example":"肝いり","reading":"きもいり","meaning":"good offices, auspices, sponsorship, help, assistance, village official (during the Edo period)"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["一","日","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32966_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080c6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80c6.gif","uri":"https://jisho.org/search/%E8%83%86%23kanji"}}
+{
+  "id": "胆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胆",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1449",
+    "strokeCount": 9,
+    "meaning": "gall bladder, courage, pluck, nerve",
+    "kunyomi": [
+      "きも"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肝",
+        "reading": "キモ",
+        "meaning": "liver, innards, courage, spirit, pluck, guts, crux, essential point, key"
+      },
+      {
+        "example": "胆石",
+        "reading": "タンセキ",
+        "meaning": "gallstone"
+      },
+      {
+        "example": "魂胆",
+        "reading": "コンタン",
+        "meaning": "ulterior motive, plot, scheme, complicated circumstances, intricacies"
+      },
+      {
+        "example": "豪胆",
+        "reading": "ゴウタン",
+        "meaning": "bold, daring, dauntless, intrepid, stout-hearted"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "肝",
+        "reading": "きも",
+        "meaning": "liver, innards, courage, spirit, pluck, guts, crux, essential point, key"
+      },
+      {
+        "example": "肝いり",
+        "reading": "きもいり",
+        "meaning": "good offices, auspices, sponsorship, help, assistance, village official (during the Edo period)"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "一",
+      "日",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32966_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080c6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80c6.gif",
+    "uri": "https://jisho.org/search/%E8%83%86%23kanji"
+  }
+}

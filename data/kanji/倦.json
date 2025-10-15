@@ -1,1 +1,74 @@
-{"id":"倦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"倦","found":true,"strokeCount":11,"meaning":"lose interest in, tire of","kunyomi":["あき.る","あぐ.む","あぐ.ねる","う.む","つか.れる"],"onyomi":["ケン"],"onyomiExamples":[{"example":"倦怠","reading":"ケンタイ","meaning":"weariness, fatigue, languor, boredom, tedium, ennui"},{"example":"倦厭","reading":"ケンエン","meaning":"weariness"}],"kunyomiExamples":[{"example":"飽きる","reading":"あきる","meaning":"to get tired of, to lose interest in, to be fed up with, to have enough"},{"example":"倦む","reading":"あぐむ","meaning":"to get tired of (doing), to lose interest in"},{"example":"倦ねる","reading":"あぐねる","meaning":"to tire of, to lose interest in, to be too much for one, to find unmanageable, to be beyond one's control, to not know what to do with"},{"example":"倦む","reading":"あぐむ","meaning":"to get tired of (doing), to lose interest in"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["ハ","二","化","卩","大","已","并"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20518_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05026.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5026.gif","uri":"https://jisho.org/search/%E5%80%A6%23kanji"}}
+{
+  "id": "倦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "倦",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "lose interest in, tire of",
+    "kunyomi": [
+      "あき.る",
+      "あぐ.む",
+      "あぐ.ねる",
+      "う.む",
+      "つか.れる"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "倦怠",
+        "reading": "ケンタイ",
+        "meaning": "weariness, fatigue, languor, boredom, tedium, ennui"
+      },
+      {
+        "example": "倦厭",
+        "reading": "ケンエン",
+        "meaning": "weariness"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "飽きる",
+        "reading": "あきる",
+        "meaning": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to become sated, to become satiated, to have one's fill"
+      },
+      {
+        "example": "倦む",
+        "reading": "あぐむ",
+        "meaning": "to get tired of (doing), to lose interest in"
+      },
+      {
+        "example": "倦ねる",
+        "reading": "あぐねる",
+        "meaning": "to tire of, to lose interest in, to be too much for one, to find unmanageable, to be beyond one's control, to not know what to do with"
+      },
+      {
+        "example": "倦む",
+        "reading": "あぐむ",
+        "meaning": "to get tired of (doing), to lose interest in"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "化",
+      "卩",
+      "大",
+      "已",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20518_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05026.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5026.gif",
+    "uri": "https://jisho.org/search/%E5%80%A6%23kanji"
+  }
+}

@@ -1,1 +1,67 @@
-{"id":"遂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遂","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1423","strokeCount":12,"meaning":"consummate, accomplish, attain, commit (suicide)","kunyomi":["と.げる","つい.に"],"onyomi":["スイ"],"onyomiExamples":[{"example":"遂行","reading":"スイコウ","meaning":"accomplishment, execution"},{"example":"完遂","reading":"カンスイ","meaning":"successful execution, accomplishment, completion, fulfillment, carrying through"},{"example":"既遂","reading":"キスイ","meaning":"already finished (action), already accomplished, committed (crime; as opposed to attempted), perpetrated, consummated, successful"}],"kunyomiExamples":[{"example":"遂げる","reading":"とげる","meaning":"to accomplish, to achieve, to carry out, to arrive at (a certain outcome), to come to, to end with"},{"example":"遂に","reading":"ついに","meaning":"finally, at last, in the end, after all, never (happened)"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["并","豕","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36930_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09042.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9042.gif","uri":"https://jisho.org/search/%E9%81%82%23kanji"}}
+{
+  "id": "遂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遂",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1423",
+    "strokeCount": 12,
+    "meaning": "consummate, accomplish, attain, commit (suicide)",
+    "kunyomi": [
+      "と.げる",
+      "つい.に"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遂行",
+        "reading": "スイコウ",
+        "meaning": "accomplishment, execution"
+      },
+      {
+        "example": "完遂",
+        "reading": "カンスイ",
+        "meaning": "successful execution, accomplishment, completion, fulfillment, carrying through"
+      },
+      {
+        "example": "既遂",
+        "reading": "キスイ",
+        "meaning": "already finished (action), already accomplished, committed (crime; as opposed to attempted), perpetrated, consummated, successful"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "遂げる",
+        "reading": "とげる",
+        "meaning": "to accomplish, to achieve, to carry out, to arrive at (a certain outcome), to come to, to end with"
+      },
+      {
+        "example": "遂に",
+        "reading": "ついに",
+        "meaning": "finally, in the end, at last, in the end, after all, never (happened)"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "并",
+      "豕",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36930_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09042.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9042.gif",
+    "uri": "https://jisho.org/search/%E9%81%82%23kanji"
+  }
+}

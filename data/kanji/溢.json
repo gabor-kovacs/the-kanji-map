@@ -1,1 +1,72 @@
-{"id":"溢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"溢","found":true,"newspaperFrequencyRank":"2405","strokeCount":13,"meaning":"overflow, inundate, spill","kunyomi":["こぼ.れる","あふ.れる","み.ちる"],"onyomi":["イツ"],"onyomiExamples":[{"example":"溢乳","reading":"イツニュウ","meaning":"galactorrhea, lactorrhea, regurgitation of milk"},{"example":"溢美","reading":"イツビ","meaning":"excessive praise, undeserved praise"},{"example":"横溢","reading":"オウイツ","meaning":"overflowing, inundation"},{"example":"活気横溢","reading":"カッキオウイツ","meaning":"being full of vitality (energy), in exuberant spirits, effervescent, ebullient"}],"kunyomiExamples":[{"example":"零れる","reading":"こぼれる","meaning":"to spill, to fall out of, to overflow, to peek through, to become visible (although normally not), to escape (of a smile, tear, etc.)"},{"example":"溢れる","reading":"あふれる","meaning":"to overflow, to brim over, to flood"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ハ","尚","并","汁","皿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28322_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ea2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ea2.gif","uri":"https://jisho.org/search/%E6%BA%A2%23kanji"}}
+{
+  "id": "溢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溢",
+    "found": true,
+    "newspaperFrequencyRank": "2405",
+    "strokeCount": 13,
+    "meaning": "overflow, inundate, spill",
+    "kunyomi": [
+      "こぼ.れる",
+      "あふ.れる",
+      "み.ちる"
+    ],
+    "onyomi": [
+      "イツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "溢乳",
+        "reading": "イツニュウ",
+        "meaning": "galactorrhea, lactorrhea, regurgitation of milk"
+      },
+      {
+        "example": "溢美",
+        "reading": "イツビ",
+        "meaning": "excessive praise, undeserved praise"
+      },
+      {
+        "example": "横溢",
+        "reading": "オウイツ",
+        "meaning": "overflowing, inundation"
+      },
+      {
+        "example": "活気横溢",
+        "reading": "カッキオウイツ",
+        "meaning": "being full of vitality (energy), in exuberant spirits, effervescent, ebullient"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "零れる",
+        "reading": "こぼれる",
+        "meaning": "to spill, to fall out of, to overflow, to peek through, to become visible (although normally not), to escape (of a smile, tear, etc.)"
+      },
+      {
+        "example": "溢れる",
+        "reading": "あふれる",
+        "meaning": "to overflow, to brim over, to flood"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ハ",
+      "尚",
+      "并",
+      "汁",
+      "皿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28322_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ea2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ea2.gif",
+    "uri": "https://jisho.org/search/%E6%BA%A2%23kanji"
+  }
+}

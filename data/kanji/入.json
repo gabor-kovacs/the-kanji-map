@@ -1,1 +1,441 @@
-{"id":"入","kanjialiveData":{"kanji":{"character":"入","meaning":{"english":"enter, put in"},"strokes":{"count":2,"timings":[0,1.763,2.866667],"images":["https://media.kanjialive.com/kanji_strokes/hai(ru)_1.svg","https://media.kanjialive.com/kanji_strokes/hai(ru)_2.svg"]},"onyomi":{"romaji":"nyuu","katakana":"ニュウ"},"kunyomi":{"romaji":"i, hai, iri, iru, hairu, ireru, ire","hiragana":"い、はい"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/hai(ru)_2.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/hai(ru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/hai(ru)_00.webm"}},"radical":{"character":"⼊","strokes":2,"image":"https://media.kanjialive.com/radical_character/iru.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"いる","romaji":"iru"},"meaning":{"english":"to enter"},"animation":["https://media.kanjialive.com/rad_frames/iru0.svg","https://media.kanjialive.com/rad_frames/iru1.svg","https://media.kanjialive.com/rad_frames/iru2.svg"]},"references":{"grade":1,"kodansha":"2113","classic_nelson":"574"},"examples":[{"japanese":"収入（しゅうにゅう）","meaning":{"english":"income"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_a.mp3"}},{"japanese":"入学する（にゅうがくする）","meaning":{"english":"entry school or university"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_b.mp3"}},{"japanese":"入国する（にゅうこくする）","meaning":{"english":"entry a country"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_c.mp3"}},{"japanese":"輸入する（ゆにゅうする）","meaning":{"english":"import"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_d.mp3"}},{"japanese":"気に入る（きにいる）","meaning":{"english":"be pleased with, come to like"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_e.mp3"}},{"japanese":"入り口（いりぐち）","meaning":{"english":"entrance"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_f.mp3"}},{"japanese":"仲間入り（なかまいり）","meaning":{"english":"join a group"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_g.mp3"}},{"japanese":"入れる（いれる）","meaning":{"english":"put in, let in [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_h.mp3"}},{"japanese":"入れ物（いれもの）","meaning":{"english":"container"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_i.mp3"}},{"japanese":"入る（はいる）","meaning":{"english":"enter, get in [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_j.mp3"}}]},"jishoData":{"query":"入","found":true,"taughtIn":"grade 1","jlptLevel":"N5","newspaperFrequencyRank":"56","strokeCount":2,"meaning":"enter, insert","kunyomi":["い.る","-い.る","-い.り","い.れる","-い.れ","はい.る"],"onyomi":["ニュウ","ジュ"],"onyomiExamples":[{"example":"入園","reading":"ニュウエン","meaning":"enrollment in kindergarten, enrolment in nursery school, entering a park, garden, zoo, etc."},{"example":"入院","reading":"ニュウイン","meaning":"hospitalization, hospitalisation"},{"example":"輸出入","reading":"ユシュツニュウ","meaning":"export and import"},{"example":"納入","reading":"ノウニュウ","meaning":"payment (taxes, fees, etc.), supply (of goods), delivery"},{"example":"入水","reading":"ジュスイ","meaning":"suicide by drowning, drowning oneself, entering the water, hitting the water"},{"example":"入御","reading":"ニュウギョ","meaning":"emperor's return to the imperial palace"}],"kunyomiExamples":[{"example":"入る","reading":"いる","meaning":"to get in, to go in, to come in, to flow into, to set, to set in"},{"example":"入満","reading":"イルマン","meaning":"brother, lay brother, non-ordained member of a Christian religious order"},{"example":"入れる","reading":"いれる","meaning":"to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"},{"example":"入る","reading":"はいる","meaning":"to enter, to go into, to break into, to join, to enroll, to contain, to hold, to accommodate, to have (an income of), to get turned on, to start functioning, to start working, to get, to obtain, to receive, to score"}],"radical":{"symbol":"入","meaning":"enter"},"parts":["入"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20837_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05165.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5165.gif","uri":"https://jisho.org/search/%E5%85%A5%23kanji"}}
+{
+  "id": "入",
+  "kanjialiveData": {
+    "_id": "54317ae2791eba5146ee494d",
+    "_rev": "11-bdecfbe12c11632b9b6494ef79be8a52",
+    "rad_name_ja": "いる",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "i, hai, iri, iru, hairu, ireru, ire",
+    "meaning": "enter, put in",
+    "kstroke": 2,
+    "examples": [
+      {
+        "japanese": "収入（しゅうにゅう）",
+        "meaning": {
+          "english": "income"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "入学する（にゅうがくする）",
+        "meaning": {
+          "english": "entry school or university"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "入国する（にゅうこくする）",
+        "meaning": {
+          "english": "entry a country"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "輸入する（ゆにゅうする）",
+        "meaning": {
+          "english": "import"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "気に入る（きにいる）",
+        "meaning": {
+          "english": "be pleased with, come to like"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "入り口（いりぐち）",
+        "meaning": {
+          "english": "entrance"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "仲間入り（なかまいり）",
+        "meaning": {
+          "english": "join a group"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "入れる（いれる）",
+        "meaning": {
+          "english": "put in, let in [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "入れ物（いれもの）",
+        "meaning": {
+          "english": "container"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "入る（はいる）",
+        "meaning": {
+          "english": "enter, get in [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(ru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(ru)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "い、はい、いり、いる、はいる、いれる、いれ",
+    "ka_utf": "入",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=入",
+    "rad_name_search": [
+      "iru"
+    ],
+    "rad_order": 14,
+    "txt_books": [
+      {
+        "chapter": "17",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "17"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "30"
+      }
+    ],
+    "kname": "hai(ru)",
+    "rad_utf": "⼊",
+    "stroketimes": [
+      0,
+      1.763,
+      2.866667
+    ],
+    "kunyomi_ka_display": "い、はい",
+    "dick": "2113",
+    "rad_name": "iru",
+    "dicn": "574",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ニュウ",
+    "rad_meaning": "to enter",
+    "onyomi": "nyuu",
+    "ka_id": "ka_165",
+    "onyomi_search": [
+      "nyuu",
+      "nyuu"
+    ],
+    "kunyomi_search": [
+      "i",
+      "hai",
+      "iri",
+      "iru",
+      "hairu",
+      "ireru",
+      "ire",
+      "i, hai, iri, iru, hairu, ireru, ire"
+    ],
+    "meaning_search": [
+      "enter",
+      "put in",
+      "put",
+      "in",
+      "enter, put in"
+    ],
+    "onyomi_ja_search": [
+      "ニュウ",
+      "ニュウ"
+    ],
+    "kunyomi_ja_search": [
+      "い",
+      "はい",
+      "いり",
+      "いる",
+      "はいる",
+      "いれる",
+      "いれ",
+      "い、はい、いり、いる、はいる、いれる、いれ"
+    ],
+    "rad_meaning_search": [
+      "to enter",
+      "to",
+      "enter",
+      "to enter"
+    ],
+    "rad_name_ja_search": [
+      "いる"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:17",
+      "cij:c17",
+      "bk",
+      "bk:17",
+      "bk:c17",
+      "aij3",
+      "aij3:13",
+      "aij3:c13",
+      "aij3:v2",
+      "aij3:v2:13",
+      "aij3:v2:c13",
+      "gen",
+      "gen:7",
+      "gen:c7",
+      "ap",
+      "ap:16",
+      "ap:c16",
+      "kll",
+      "kll:7",
+      "kll:c7",
+      "cijr",
+      "cijr:17",
+      "cijr:c17",
+      "cijr",
+      "cijr:30",
+      "cijr:c30"
+    ],
+    "rad_name_file": "iru",
+    "kanji": {
+      "character": "入",
+      "meaning": {
+        "english": "enter, put in"
+      },
+      "strokes": {
+        "count": 2,
+        "timings": [
+          0,
+          1.763,
+          2.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hai(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hai(ru)_2.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "nyuu",
+        "katakana": "ニュウ"
+      },
+      "kunyomi": {
+        "romaji": "i, hai, iri, iru, hairu, ireru, ire",
+        "hiragana": "い、はい"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hai(ru)_2.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hai(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hai(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼊",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/iru.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "いる",
+        "romaji": "iru"
+      },
+      "meaning": {
+        "english": "to enter"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/iru0.svg",
+        "https://media.kanjialive.com/rad_frames/iru1.svg",
+        "https://media.kanjialive.com/rad_frames/iru2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "2113",
+      "classic_nelson": "574"
+    }
+  },
+  "jishoData": {
+    "query": "入",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "56",
+    "strokeCount": 2,
+    "meaning": "enter, insert",
+    "kunyomi": [
+      "い.る",
+      "-い.る",
+      "-い.り",
+      "い.れる",
+      "-い.れ",
+      "はい.る"
+    ],
+    "onyomi": [
+      "ニュウ",
+      "ジュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "入園",
+        "reading": "ニュウエン",
+        "meaning": "enrollment in kindergarten, enrollment in nursery school, entering a park, garden, zoo, etc."
+      },
+      {
+        "example": "入院",
+        "reading": "ニュウイン",
+        "meaning": "hospitalization, hospitalisation"
+      },
+      {
+        "example": "輸出入",
+        "reading": "ユシュツニュウ",
+        "meaning": "export and import"
+      },
+      {
+        "example": "納入",
+        "reading": "ノウニュウ",
+        "meaning": "payment (of taxes, fees, etc.), supply (of goods), delivery"
+      },
+      {
+        "example": "入水",
+        "reading": "ジュスイ",
+        "meaning": "suicide by drowning, drowning oneself, entering the water, hitting the water"
+      },
+      {
+        "example": "入御",
+        "reading": "ニュウギョ",
+        "meaning": "emperor's return to the imperial palace"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "入る",
+        "reading": "いる",
+        "meaning": "to enter, to go in, to get in, to come in, to set (of the sun or moon), to sink, to go down, to attain (nirvana, enlightenment, etc.), to achieve, to reach (e.g. a climax), to do fully, to do intently, to do sincerely, to do deeply, to feel keenly, to (reach a state) completely"
+      },
+      {
+        "example": "入満",
+        "reading": "イルマン",
+        "meaning": "brother, lay brother, non-ordained member of a Christian religious order"
+      },
+      {
+        "example": "東入ル",
+        "reading": "ひがしいる",
+        "meaning": "east of"
+      },
+      {
+        "example": "西入ル",
+        "reading": "にしいる",
+        "meaning": "west of"
+      },
+      {
+        "example": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"
+      },
+      {
+        "example": "入る",
+        "reading": "はいる",
+        "meaning": "to enter, to come in, to go in, to get in, to arrive, to join (a club, company, etc.), to enter (a university, the army, etc.), to enroll (in), to go into (e.g. politics), to get into, to be contained (in), to be included (in), to be inside (e.g. a box), to come under (a heading), to belong (in a category), to (be able to) fit (in a container, building, etc.), to be (able to be) held, to be (able to be) accommodated, to be introduced, to be brought in, to be installed, to be received, to be obtained, to be scored (of points), to be won (of votes), to turn on, to start functioning, to start working, to enter (a month, season, etc.), to reach (e.g. a climax), to get to (e.g. the main topic), to enter into (e.g. negotiations), to start (doing), to begin, to form (of a crack, fissure, etc.), to develop, to be put in (of effort, spirit, feeling, etc.), to be applied (e.g. of strength), to be ready (of tea, coffee, etc.), to be made, to enter the body (of alcohol), to become drunk"
+      }
+    ],
+    "radical": {
+      "symbol": "入",
+      "meaning": "enter"
+    },
+    "parts": [
+      "入"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20837_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05165.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5165.gif",
+    "uri": "https://jisho.org/search/%E5%85%A5%23kanji"
+  }
+}

@@ -1,1 +1,33 @@
-{"id":"嚶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嚶","found":true,"strokeCount":20,"meaning":"chirping, birds singing together","kunyomi":["な.く"],"onyomi":["オウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["ハ","口","女","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22198_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056b6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56b6.gif","uri":"https://jisho.org/search/%E5%9A%B6%23kanji"}}
+{
+  "id": "嚶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嚶",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "chirping, birds singing together",
+    "kunyomi": [
+      "な.く"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "女",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22198_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056b6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56b6.gif",
+    "uri": "https://jisho.org/search/%E5%9A%B6%23kanji"
+  }
+}

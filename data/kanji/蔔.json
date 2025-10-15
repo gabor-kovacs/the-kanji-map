@@ -1,1 +1,40 @@
-{"id":"蔔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蔔","found":true,"strokeCount":14,"meaning":"giant radish, daikon","kunyomi":[],"onyomi":["フク","ホク"],"onyomiExamples":[{"example":"蘿蔔","reading":"スズシロ","meaning":"daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["勹","口","田","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34068_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08514.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8514.gif","uri":"https://jisho.org/search/%E8%94%94%23kanji"}}
+{
+  "id": "蔔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔔",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "giant radish, daikon",
+    "kunyomi": [],
+    "onyomi": [
+      "フク",
+      "ホク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蘿蔔",
+        "reading": "スズシロ",
+        "meaning": "daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "勹",
+      "口",
+      "田",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34068_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08514.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8514.gif",
+    "uri": "https://jisho.org/search/%E8%94%94%23kanji"
+  }
+}

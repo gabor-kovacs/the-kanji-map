@@ -1,1 +1,64 @@
-{"id":"淡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"淡","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1436","strokeCount":11,"meaning":"thin, faint, pale, fleeting","kunyomi":["あわ.い"],"onyomi":["タン"],"onyomiExamples":[{"example":"淡々","reading":"タンタン","meaning":"uninterested, unconcerned, indifferent, dispassionate, matter-of-fact, detached, plain, light, simple, bland, flowing gently"},{"example":"淡水","reading":"タンスイ","meaning":"fresh water (i.e. not salt water)"},{"example":"濃淡","reading":"ノウタン","meaning":"light and shade, shade (of colour, color), depth (of flavor), complexity, strength and weakness (of flavor)"},{"example":"平淡","reading":"ヘイタン","meaning":"simple, quiet"}],"kunyomiExamples":[{"example":"淡い","reading":"あわい","meaning":"light, faint, pale, fleeting"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["汁","火"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28129_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06de1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6de1.gif","uri":"https://jisho.org/search/%E6%B7%A1%23kanji"}}
+{
+  "id": "淡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淡",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1436",
+    "strokeCount": 11,
+    "meaning": "thin, faint, pale, fleeting",
+    "kunyomi": [
+      "あわ.い"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淡々",
+        "reading": "タンタン",
+        "meaning": "uninterested, unconcerned, indifferent, dispassionate, matter-of-fact, detached, plain, light, simple, bland, flowing gently"
+      },
+      {
+        "example": "淡水",
+        "reading": "タンスイ",
+        "meaning": "fresh water (i.e. not salt water)"
+      },
+      {
+        "example": "濃淡",
+        "reading": "ノウタン",
+        "meaning": "light and shade, shade (of colour, color), depth (of flavor), complexity, strength and weakness (of flavor)"
+      },
+      {
+        "example": "平淡",
+        "reading": "ヘイタン",
+        "meaning": "simple, quiet"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "淡い",
+        "reading": "あわい",
+        "meaning": "light, faint, pale, fleeting"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "汁",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28129_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06de1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6de1.gif",
+    "uri": "https://jisho.org/search/%E6%B7%A1%23kanji"
+  }
+}

@@ -1,1 +1,77 @@
-{"id":"閾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"閾","found":true,"strokeCount":16,"meaning":"threshold","kunyomi":["くぎり","しきい"],"onyomi":["シキ","イキ","キョク","ヨク"],"onyomiExamples":[{"example":"敷居","reading":"シキイ","meaning":"threshold (esp. one with grooves for sliding doors), sill"},{"example":"閾値","reading":"イキチ","meaning":"threshold (amount, dose, etc.)"},{"example":"閾","reading":"イキ","meaning":"threshold, limen"},{"example":"閾値","reading":"イキチ","meaning":"threshold (amount, dose, etc.)"},{"example":"刺激閾","reading":"シゲキイキ","meaning":"stimulus threshold, stimulus limen"},{"example":"識閾","reading":"シキイキ","meaning":"threshold of consciousness"}],"kunyomiExamples":[{"example":"敷居","reading":"しきい","meaning":"threshold (esp. one with grooves for sliding doors), sill"},{"example":"閾値","reading":"いきち","meaning":"threshold (amount, dose, etc.)"}],"radical":{"symbol":"門","meaning":"gate"},"parts":["口","戈","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38334_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095be.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95be.gif","uri":"https://jisho.org/search/%E9%96%BE%23kanji"}}
+{
+  "id": "閾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閾",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "threshold",
+    "kunyomi": [
+      "くぎり",
+      "しきい"
+    ],
+    "onyomi": [
+      "シキ",
+      "イキ",
+      "キョク",
+      "ヨク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "敷居",
+        "reading": "シキイ",
+        "meaning": "threshold (esp. one with grooves for sliding doors), sill"
+      },
+      {
+        "example": "閾値",
+        "reading": "イキチ",
+        "meaning": "threshold (amount, dose, etc.)"
+      },
+      {
+        "example": "閾",
+        "reading": "イキ",
+        "meaning": "threshold, limen"
+      },
+      {
+        "example": "閾値",
+        "reading": "イキチ",
+        "meaning": "threshold (amount, dose, etc.)"
+      },
+      {
+        "example": "刺激閾",
+        "reading": "シゲキイキ",
+        "meaning": "stimulus threshold, stimulus limen"
+      },
+      {
+        "example": "識閾",
+        "reading": "シキイキ",
+        "meaning": "threshold of consciousness"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "敷居",
+        "reading": "しきい",
+        "meaning": "threshold (esp. one with grooves for sliding doors), sill"
+      },
+      {
+        "example": "閾値",
+        "reading": "いきち",
+        "meaning": "threshold (amount, dose, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "口",
+      "戈",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38334_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095be.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95be.gif",
+    "uri": "https://jisho.org/search/%E9%96%BE%23kanji"
+  }
+}

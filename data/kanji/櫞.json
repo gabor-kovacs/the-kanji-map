@@ -1,1 +1,38 @@
-{"id":"櫞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"櫞","found":true,"strokeCount":19,"meaning":"kind of lemon tree","kunyomi":[],"onyomi":["エン"],"onyomiExamples":[{"example":"枸櫞","reading":"クエン","meaning":"citron (Citrus medica)"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["ヨ","小","幺","木","糸","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27358_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ade.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ade.gif","uri":"https://jisho.org/search/%E6%AB%9E%23kanji"}}
+{
+  "id": "櫞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "櫞",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "kind of lemon tree",
+    "kunyomi": [],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "枸櫞",
+        "reading": "クエン",
+        "meaning": "citron (Citrus medica)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ヨ",
+      "小",
+      "幺",
+      "木",
+      "糸",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27358_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ade.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ade.gif",
+    "uri": "https://jisho.org/search/%E6%AB%9E%23kanji"
+  }
+}

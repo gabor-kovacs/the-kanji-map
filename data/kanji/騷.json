@@ -1,1 +1,41 @@
-{"id":"騷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"騷","found":true,"strokeCount":20,"meaning":"harass, bother, annoy, disturb, agitate, sad, grieved","kunyomi":["さわ.ぐ","うれい","さわが.しい"],"onyomi":["ソウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"騒ぐ","reading":"さわぐ","meaning":"to make noise, to make racket, to be noisy, to rustle, to swoosh, to make merry, to clamor, to clamour, to make a fuss, to kick up a fuss, to lose one's cool, to panic, to act flustered, to feel tense, to be uneasy, to be excited"}],"radical":{"symbol":"馬","meaning":"horse"},"parts":["丶","又","杰","虫","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39479_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a37.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a37.gif","uri":"https://jisho.org/search/%E9%A8%B7%23kanji"}}
+{
+  "id": "騷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "騷",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "harass, bother, annoy, disturb, agitate, sad, grieved",
+    "kunyomi": [
+      "さわ.ぐ",
+      "うれい",
+      "さわが.しい"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "騒ぐ",
+        "reading": "さわぐ",
+        "meaning": "to make noise, to make racket, to be noisy, to rustle, to swoosh, to make merry, to clamor, to clamour, to make a fuss, to kick up a fuss, to lose one's cool, to panic, to act flustered, to feel tense, to be uneasy, to be excited"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "丶",
+      "又",
+      "杰",
+      "虫",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39479_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a37.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a37.gif",
+    "uri": "https://jisho.org/search/%E9%A8%B7%23kanji"
+  }
+}

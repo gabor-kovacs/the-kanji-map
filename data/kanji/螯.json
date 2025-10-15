@@ -1,1 +1,39 @@
-{"id":"螯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"螯","found":true,"strokeCount":17,"meaning":"claws","kunyomi":["はさみ"],"onyomi":["ゴウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"螯","reading":"はさみ","meaning":"pincers (of a crab, scorpion, etc.), claws, forceps"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["乞","土","攵","方","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34735_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087af.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87af.gif","uri":"https://jisho.org/search/%E8%9E%AF%23kanji"}}
+{
+  "id": "螯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "螯",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "claws",
+    "kunyomi": [
+      "はさみ"
+    ],
+    "onyomi": [
+      "ゴウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "螯",
+        "reading": "はさみ",
+        "meaning": "pincers (of a crab, scorpion, etc.), claws, forceps"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "乞",
+      "土",
+      "攵",
+      "方",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34735_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087af.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87af.gif",
+    "uri": "https://jisho.org/search/%E8%9E%AF%23kanji"
+  }
+}

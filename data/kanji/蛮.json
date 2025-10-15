@@ -1,1 +1,54 @@
-{"id":"蛮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蛮","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2339","strokeCount":12,"meaning":"barbarian","kunyomi":["えびす"],"onyomi":["バン"],"onyomiExamples":[{"example":"蛮勇","reading":"バンユウ","meaning":"foolhardiness, recklessness, savage valour, savage valor, brute courage"},{"example":"蛮行","reading":"バンコウ","meaning":"act of barbarity, barbarism, brutality, savagery"},{"example":"南蛮","reading":"ナンバン","meaning":"southern barbarians (formerly used by the Chinese to refer to non-ethnic Chinese to the south), South-East Asia, Western Europe (esp. Spain and Portugal, their South-East Asian colonies, and their goods and people arriving in Japan via the colonies), exotic (esp. Western European or South-East Asian style), (in dance, puppetry, etc.) thrusting the right foot and right arm forward at the same time (or left foot and left arm), nanban, dish prepared using chili peppers and Welsh onions"},{"example":"生蕃","reading":"セイバン","meaning":"unconquered savage, uncivilized aboriginal, aboriginal Taiwanese tribes outside Qing China's jurisdiction"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["亠","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34542_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086ee.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86ee.gif","uri":"https://jisho.org/search/%E8%9B%AE%23kanji"}}
+{
+  "id": "蛮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛮",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2339",
+    "strokeCount": 12,
+    "meaning": "barbarian",
+    "kunyomi": [
+      "えびす"
+    ],
+    "onyomi": [
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛮勇",
+        "reading": "バンユウ",
+        "meaning": "foolhardiness, recklessness, savage valour, savage valor, brute courage"
+      },
+      {
+        "example": "蛮行",
+        "reading": "バンコウ",
+        "meaning": "act of barbarity, barbarism, brutality, savagery"
+      },
+      {
+        "example": "南蛮",
+        "reading": "ナンバン",
+        "meaning": "southern barbarians (name used in ancient China for non-Chinese ethnic groups to the south), South-East Asian countries (in the late-Muromachi and Edo periods), Western Europe (esp. Spain and Portugal and their South-East Asian colonies; late-Muromachi and Edo periods), foreign (of goods from South-East Asia and Western Europe), exotic (esp. in a Western European or South-East Asian style), chili pepper, nanban, dish prepared using chili peppers and Welsh onions, thrusting the right foot and right arm forward at the same time (or left foot and left arm; in kabuki, dance, puppetry, etc.)"
+      },
+      {
+        "example": "生蕃",
+        "reading": "セイバン",
+        "meaning": "unconquered savage, uncivilized aboriginal, aboriginal Taiwanese tribes outside Qing China's jurisdiction"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "亠",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34542_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086ee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86ee.gif",
+    "uri": "https://jisho.org/search/%E8%9B%AE%23kanji"
+  }
+}

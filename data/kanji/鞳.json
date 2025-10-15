@@ -1,1 +1,37 @@
-{"id":"鞳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鞳","found":true,"strokeCount":18,"meaning":"rumbling","kunyomi":[],"onyomi":["トウ"],"onyomiExamples":[{"example":"鼕々","reading":"トウトウ","meaning":"sound of bells or drums reverberating, sound of water or waves resounding"}],"kunyomiExamples":[],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["一","个","口","艾","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38835_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097b3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97b3.gif","uri":"https://jisho.org/search/%E9%9E%B3%23kanji"}}
+{
+  "id": "鞳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞳",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "rumbling",
+    "kunyomi": [],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鼕々",
+        "reading": "トウトウ",
+        "meaning": "beating (of drums), rushing (water), crashing (of waves)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "艾",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38835_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097b3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97b3.gif",
+    "uri": "https://jisho.org/search/%E9%9E%B3%23kanji"
+  }
+}

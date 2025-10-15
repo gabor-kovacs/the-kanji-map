@@ -1,1 +1,401 @@
-{"id":"母","kanjialiveData":{"kanji":{"character":"母","meaning":{"english":"mother"},"strokes":{"count":5,"timings":[0.995,2.933,5.545,6.133,7.266,8],"images":["https://media.kanjialive.com/kanji_strokes/haha_1.svg","https://media.kanjialive.com/kanji_strokes/haha_2.svg","https://media.kanjialive.com/kanji_strokes/haha_3.svg","https://media.kanjialive.com/kanji_strokes/haha_4.svg","https://media.kanjialive.com/kanji_strokes/haha_5.svg"]},"onyomi":{"romaji":"bo","katakana":"ボ"},"kunyomi":{"romaji":"haha","hiragana":"はは"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/haha_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/haha_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/haha_00.webm"}},"radical":{"character":"⽏","strokes":4,"image":"https://media.kanjialive.com/radical_character/nakare.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"なかれ","romaji":"nakare"},"meaning":{"english":"not, mother"},"animation":["https://media.kanjialive.com/rad_frames/nakare0.svg","https://media.kanjialive.com/rad_frames/nakare1.svg","https://media.kanjialive.com/rad_frames/nakare2.svg"]},"references":{"grade":2,"kodansha":"2165","classic_nelson":"2466"},"examples":[{"japanese":"母国語（ぼこくご）","meaning":{"english":"mother tongue"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haha_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haha_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_a.mp3"}},{"japanese":"母音（ぼいん）","meaning":{"english":"vowel"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haha_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haha_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_b.mp3"}},{"japanese":"母校（ぼこう）","meaning":{"english":"alma mater"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haha_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haha_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_c.mp3"}},{"japanese":"祖母（そぼ）","meaning":{"english":"grandmother"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haha_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haha_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_d.mp3"}},{"japanese":"母（はは）","meaning":{"english":"one's own mother"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haha_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haha_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_e.mp3"}},{"japanese":"母親（ははおや）","meaning":{"english":"mother"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haha_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haha_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_f.mp3"}},{"japanese":"*お母さん（おかあさん）","meaning":{"english":"mother [hon.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haha_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haha_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_g.mp3"}}]},"jishoData":{"query":"母","found":true,"taughtIn":"grade 2","jlptLevel":"N5","newspaperFrequencyRank":"570","strokeCount":5,"meaning":"mother","kunyomi":["はは","も"],"onyomi":["ボ"],"onyomiExamples":[{"example":"母国","reading":"ボコク","meaning":"one's home country, one's homeland"},{"example":"母校","reading":"ボコウ","meaning":"alma mater"},{"example":"養父母","reading":"ヨウフボ","meaning":"adoptive parents"},{"example":"空母","reading":"クウボ","meaning":"aircraft carrier"}],"kunyomiExamples":[{"example":"母","reading":"はは","meaning":"mother"},{"example":"母親","reading":"ははおや","meaning":"mother"},{"example":"必要は発明の母","reading":"ひつようははつめいのはは","meaning":"necessity is the mother of invention"},{"example":"失敗は成功の母","reading":"しっぱいはせいこうのはは","meaning":"failure is the mother of success"},{"example":"母屋","reading":"もや","meaning":"purlin (structural beam in a roof), purline, main building (of a manor), central room (in traditional palatial-style architecture)"},{"example":"母屋桁","reading":"もやげた","meaning":"purlin (structural beam in a roof), purline"},{"example":"雲母","reading":"うんも","meaning":"mica, isinglass"},{"example":"乳母","reading":"うば","meaning":"wet nurse, nursing mother"}],"radical":{"symbol":"毋","forms":["母","⺟"],"meaning":"mother, do not"},"parts":["毋","母"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27597_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bcd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bcd.gif","uri":"https://jisho.org/search/%E6%AF%8D%23kanji"}}
+{
+  "id": "母",
+  "kanjialiveData": {
+    "_id": "54317af2791eba5146ee4a89",
+    "_rev": "11-5f0fda3a0af6f9f813f1c32df2902868",
+    "rad_name_ja": "なかれ",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "haha",
+    "meaning": "mother",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "母国語（ぼこくご）",
+        "meaning": {
+          "english": "mother tongue"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "母音（ぼいん）",
+        "meaning": {
+          "english": "vowel"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "母校（ぼこう）",
+        "meaning": {
+          "english": "alma mater"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "祖母（そぼ）",
+        "meaning": {
+          "english": "grandmother"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "母（はは）",
+        "meaning": {
+          "english": "one's own mother"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "母親（ははおや）",
+        "meaning": {
+          "english": "mother"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "*お母さん（おかあさん）",
+        "meaning": {
+          "english": "mother [hon.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haha_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haha_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "はは",
+    "ka_utf": "母",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=母",
+    "rad_name_search": [
+      "nakare"
+    ],
+    "rad_order": 104,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "18"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "6"
+      }
+    ],
+    "kname": "haha",
+    "rad_utf": "⽏",
+    "stroketimes": [
+      0.995,
+      2.933,
+      5.545,
+      6.133,
+      7.266,
+      8
+    ],
+    "kunyomi_ka_display": "はは",
+    "dick": "2165",
+    "rad_name": "nakare",
+    "dicn": "2466",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ボ",
+    "rad_meaning": "not, mother",
+    "onyomi": "bo",
+    "ka_id": "ka_45",
+    "onyomi_search": [
+      "bo",
+      "bo"
+    ],
+    "kunyomi_search": [
+      "haha",
+      "haha"
+    ],
+    "meaning_search": [
+      "mother",
+      "mother"
+    ],
+    "onyomi_ja_search": [
+      "ボ",
+      "ボ"
+    ],
+    "kunyomi_ja_search": [
+      "はは",
+      "はは"
+    ],
+    "rad_meaning_search": [
+      "not",
+      "mother",
+      "not, mother"
+    ],
+    "rad_name_ja_search": [
+      "なかれ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:9",
+      "cij:c9",
+      "bk",
+      "bk:15",
+      "bk:c15",
+      "aij3",
+      "aij3:5",
+      "aij3:c5",
+      "aij3:v2",
+      "aij3:v2:5",
+      "aij3:v2:c5",
+      "gen",
+      "gen:7",
+      "gen:c7",
+      "ap",
+      "ap:18",
+      "ap:c18",
+      "kll",
+      "kll:4",
+      "kll:c4",
+      "cijr",
+      "cijr:18",
+      "cijr:c18",
+      "aij4",
+      "aij4:6",
+      "aij4:c6",
+      "aij4:v1",
+      "aij4:v1:6",
+      "aij4:v1:c6"
+    ],
+    "rad_name_file": "nakare",
+    "kanji": {
+      "character": "母",
+      "meaning": {
+        "english": "mother"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0.995,
+          2.933,
+          5.545,
+          6.133,
+          7.266,
+          8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/haha_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/haha_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/haha_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/haha_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/haha_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bo",
+        "katakana": "ボ"
+      },
+      "kunyomi": {
+        "romaji": "haha",
+        "hiragana": "はは"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/haha_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/haha_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/haha_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽏",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/nakare.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "なかれ",
+        "romaji": "nakare"
+      },
+      "meaning": {
+        "english": "not, mother"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/nakare0.svg",
+        "https://media.kanjialive.com/rad_frames/nakare1.svg",
+        "https://media.kanjialive.com/rad_frames/nakare2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "2165",
+      "classic_nelson": "2466"
+    }
+  },
+  "jishoData": {
+    "query": "母",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "570",
+    "strokeCount": 5,
+    "meaning": "mother",
+    "kunyomi": [
+      "はは",
+      "も"
+    ],
+    "onyomi": [
+      "ボ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "母国",
+        "reading": "ボコク",
+        "meaning": "one's home country, one's homeland"
+      },
+      {
+        "example": "母校",
+        "reading": "ボコウ",
+        "meaning": "alma mater"
+      },
+      {
+        "example": "養父母",
+        "reading": "ヨウフボ",
+        "meaning": "adoptive parents"
+      },
+      {
+        "example": "空母",
+        "reading": "クウボ",
+        "meaning": "aircraft carrier"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "母",
+        "reading": "はは",
+        "meaning": "mother"
+      },
+      {
+        "example": "母親",
+        "reading": "ははおや",
+        "meaning": "mother"
+      },
+      {
+        "example": "必要は発明の母",
+        "reading": "ひつようははつめいのはは",
+        "meaning": "necessity is the mother of invention"
+      },
+      {
+        "example": "失敗は成功の母",
+        "reading": "しっぱいはせいこうのはは",
+        "meaning": "failure is the mother of success"
+      },
+      {
+        "example": "母屋",
+        "reading": "もや",
+        "meaning": "purlin (structural beam in a roof), purline, main building (of a manor), central room (in traditional palatial-style architecture)"
+      },
+      {
+        "example": "母屋桁",
+        "reading": "もやげた",
+        "meaning": "purlin (structural beam in a roof), purline"
+      },
+      {
+        "example": "雲母",
+        "reading": "うんも",
+        "meaning": "mica, isinglass"
+      },
+      {
+        "example": "乳母",
+        "reading": "うば",
+        "meaning": "wet nurse, nursing mother"
+      }
+    ],
+    "radical": {
+      "symbol": "毋",
+      "forms": [
+        "母",
+        "⺟"
+      ],
+      "meaning": "mother, do not"
+    },
+    "parts": [
+      "毋",
+      "母"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27597_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bcd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bcd.gif",
+    "uri": "https://jisho.org/search/%E6%AF%8D%23kanji"
+  }
+}

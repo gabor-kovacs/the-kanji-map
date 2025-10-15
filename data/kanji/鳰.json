@@ -1,1 +1,40 @@
-{"id":"鳰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鳰","found":true,"strokeCount":13,"meaning":"grebe, (kokuji)","kunyomi":["にお"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"鳰","reading":"にお","meaning":"little grebe (Tachybaptus ruficollis), grebe"},{"example":"鳰鳥","reading":"におどり","meaning":"little grebe (Tachybaptus ruficollis)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["入","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40176_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09cf0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9cf0.gif","uri":"https://jisho.org/search/%E9%B3%B0%23kanji"}}
+{
+  "id": "鳰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鳰",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "grebe, (kokuji)",
+    "kunyomi": [
+      "にお"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鳰",
+        "reading": "にお",
+        "meaning": "little grebe"
+      },
+      {
+        "example": "鳰鳥",
+        "reading": "におどり",
+        "meaning": "little grebe"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "入",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40176_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09cf0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9cf0.gif",
+    "uri": "https://jisho.org/search/%E9%B3%B0%23kanji"
+  }
+}

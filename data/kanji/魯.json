@@ -1,1 +1,44 @@
-{"id":"魯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"魯","found":true,"newspaperFrequencyRank":"2153","strokeCount":15,"meaning":"foolish, Russia","kunyomi":["おろか"],"onyomi":["ロ"],"onyomiExamples":[{"example":"魯","reading":"ロ","meaning":"Lu (Chinese vassal state existing during the Spring and Autumn period)"},{"example":"露","reading":"ロ","meaning":"Russia"}],"kunyomiExamples":[],"radical":{"symbol":"魚","meaning":"fish"},"parts":["日","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39791_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b6f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b6f.gif","uri":"https://jisho.org/search/%E9%AD%AF%23kanji"}}
+{
+  "id": "魯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "魯",
+    "found": true,
+    "newspaperFrequencyRank": "2153",
+    "strokeCount": 15,
+    "meaning": "foolish, Russia",
+    "kunyomi": [
+      "おろか"
+    ],
+    "onyomi": [
+      "ロ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "魯",
+        "reading": "ロ",
+        "meaning": "Lu (Chinese vassal state existing during the Spring and Autumn period)"
+      },
+      {
+        "example": "露",
+        "reading": "ロ",
+        "meaning": "Russia"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "日",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39791_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b6f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b6f.gif",
+    "uri": "https://jisho.org/search/%E9%AD%AF%23kanji"
+  }
+}

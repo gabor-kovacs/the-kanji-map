@@ -1,1 +1,59 @@
-{"id":"憶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"憶","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1324","strokeCount":16,"meaning":"recollection, think, remember","kunyomi":[],"onyomi":["オク"],"onyomiExamples":[{"example":"憶測","reading":"オクソク","meaning":"guess, speculation, supposition"},{"example":"臆病","reading":"オクビョウ","meaning":"cowardly, timid, easily frightened"},{"example":"追憶","reading":"ツイオク","meaning":"recollection, reminiscence"},{"example":"バッファ記憶","reading":"バッファキオク","meaning":"buffer storage, buffer"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["心","忙","日","立","音"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25014_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061b6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61b6.gif","uri":"https://jisho.org/search/%E6%86%B6%23kanji"}}
+{
+  "id": "憶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憶",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1324",
+    "strokeCount": 16,
+    "meaning": "recollection, think, remember",
+    "kunyomi": [],
+    "onyomi": [
+      "オク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憶測",
+        "reading": "オクソク",
+        "meaning": "guess, speculation, supposition"
+      },
+      {
+        "example": "臆病",
+        "reading": "オクビョウ",
+        "meaning": "cowardly, timid, easily frightened"
+      },
+      {
+        "example": "追憶",
+        "reading": "ツイオク",
+        "meaning": "recollection, reminiscence"
+      },
+      {
+        "example": "バッファ記憶",
+        "reading": "バッファキオク",
+        "meaning": "buffer storage, buffer"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "心",
+      "忙",
+      "日",
+      "立",
+      "音"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25014_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061b6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61b6.gif",
+    "uri": "https://jisho.org/search/%E6%86%B6%23kanji"
+  }
+}

@@ -1,1 +1,38 @@
-{"id":"嶋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嶋","found":true,"newspaperFrequencyRank":"1633","strokeCount":14,"meaning":"island","kunyomi":["しま"],"onyomi":["トウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"島","reading":"しま","meaning":"island, one's territory (e.g. of a sex worker, organized crime gang), one's turf"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["山","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23947_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d8b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d8b.gif","uri":"https://jisho.org/search/%E5%B6%8B%23kanji"}}
+{
+  "id": "嶋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嶋",
+    "found": true,
+    "newspaperFrequencyRank": "1633",
+    "strokeCount": 14,
+    "meaning": "island",
+    "kunyomi": [
+      "しま"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "島",
+        "reading": "しま",
+        "meaning": "island, one's territory (of a sex worker, organized crime gang, etc.), one's turf"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "山",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23947_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d8b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d8b.gif",
+    "uri": "https://jisho.org/search/%E5%B6%8B%23kanji"
+  }
+}

@@ -1,1 +1,33 @@
-{"id":"歐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"歐","found":true,"strokeCount":15,"meaning":"Europe","kunyomi":["うた.う","は.く"],"onyomi":["オウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"欠","meaning":"lack, yawn"},"parts":["匚","口","品","欠"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27472_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b50.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b50.gif","uri":"https://jisho.org/search/%E6%AD%90%23kanji"}}
+{
+  "id": "歐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "歐",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "Europe",
+    "kunyomi": [
+      "うた.う",
+      "は.く"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "欠",
+      "meaning": "lack, yawn"
+    },
+    "parts": [
+      "匚",
+      "口",
+      "品",
+      "欠"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27472_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b50.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b50.gif",
+    "uri": "https://jisho.org/search/%E6%AD%90%23kanji"
+  }
+}

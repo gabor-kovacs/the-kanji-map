@@ -1,1 +1,37 @@
-{"id":"槲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"槲","found":true,"strokeCount":15,"meaning":"oak","kunyomi":["かしわ"],"onyomi":["コク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"柏","reading":"かしわ","meaning":"oak, daimyo oak, Japanese emperor oak, Quercus dentata"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["斗","木","角"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27122_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069f2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69f2.gif","uri":"https://jisho.org/search/%E6%A7%B2%23kanji"}}
+{
+  "id": "槲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槲",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "oak",
+    "kunyomi": [
+      "かしわ"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "柏",
+        "reading": "かしわ",
+        "meaning": "daimyo oak (Quercus dentata), Japanese emperor oak"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "斗",
+      "木",
+      "角"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27122_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069f2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69f2.gif",
+    "uri": "https://jisho.org/search/%E6%A7%B2%23kanji"
+  }
+}

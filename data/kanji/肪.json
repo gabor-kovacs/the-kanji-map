@@ -1,1 +1,45 @@
-{"id":"肪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"肪","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1878","strokeCount":8,"meaning":"obese, fat","kunyomi":[],"onyomi":["ボウ"],"onyomiExamples":[{"example":"中性脂肪","reading":"チュウセイシボウ","meaning":"neutral fat, neutral lipid, triglyceride"},{"example":"動物性脂肪","reading":"ドウブツセイシボウ","meaning":"animal fat"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["方","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32938_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080aa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80aa.gif","uri":"https://jisho.org/search/%E8%82%AA%23kanji"}}
+{
+  "id": "肪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肪",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1878",
+    "strokeCount": 8,
+    "meaning": "obese, fat",
+    "kunyomi": [],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "中性脂肪",
+        "reading": "チュウセイシボウ",
+        "meaning": "neutral fat, neutral lipid, triglyceride"
+      },
+      {
+        "example": "動物性脂肪",
+        "reading": "ドウブツセイシボウ",
+        "meaning": "animal fat"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "方",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32938_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080aa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80aa.gif",
+    "uri": "https://jisho.org/search/%E8%82%AA%23kanji"
+  }
+}

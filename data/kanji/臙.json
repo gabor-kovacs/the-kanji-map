@@ -1,1 +1,49 @@
-{"id":"臙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"臙","found":true,"strokeCount":20,"meaning":"rouge","kunyomi":["のど","べに"],"onyomi":["エン"],"onyomiExamples":[{"example":"臙脂","reading":"エンジ","meaning":"dark-red pigment, rouge, dark red, deep red, cochineal"},{"example":"えんじ色","reading":"エンジイロ","meaning":"dark red, deep red"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["凵","匕","口","月","杰","爿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33241_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081d9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81d9.gif","uri":"https://jisho.org/search/%E8%87%99%23kanji"}}
+{
+  "id": "臙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臙",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "rouge",
+    "kunyomi": [
+      "のど",
+      "べに"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "臙脂",
+        "reading": "エンジ",
+        "meaning": "dark-red pigment, rouge, dark red, deep red, cochineal"
+      },
+      {
+        "example": "えんじ色",
+        "reading": "エンジイロ",
+        "meaning": "dark red, deep red"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "凵",
+      "匕",
+      "口",
+      "月",
+      "杰",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33241_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081d9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81d9.gif",
+    "uri": "https://jisho.org/search/%E8%87%99%23kanji"
+  }
+}

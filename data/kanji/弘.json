@@ -1,1 +1,70 @@
-{"id":"弘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"弘","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1059","strokeCount":5,"meaning":"vast, broad, wide","kunyomi":["ひろ.い"],"onyomi":["コウ","グ"],"onyomiExamples":[{"example":"広報","reading":"コウホウ","meaning":"public relations, PR, publicity, public information, publicizing"},{"example":"広大","reading":"コウダイ","meaning":"vast, extensive, immense, huge, large, grand, magnificent"},{"example":"恢弘","reading":"カイコウ","meaning":"propagation, spreading out, extending"},{"example":"寛弘","reading":"カンコウ","meaning":"Kankō era (1004.7.20-1012.12.25)"},{"example":"弘通","reading":"グズウ","meaning":"spread (of Buddhist teachings)"},{"example":"弘誓","reading":"グゼイ","meaning":"Buddha's great vows"}],"kunyomiExamples":[{"example":"広い","reading":"ひろい","meaning":"spacious, vast, wide"}],"radical":{"symbol":"弓","meaning":"bow"},"parts":["厶","弓"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24344_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f18.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f18.gif","uri":"https://jisho.org/search/%E5%BC%98%23kanji"}}
+{
+  "id": "弘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弘",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1059",
+    "strokeCount": 5,
+    "meaning": "vast, broad, wide",
+    "kunyomi": [
+      "ひろ.い"
+    ],
+    "onyomi": [
+      "コウ",
+      "グ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "広報",
+        "reading": "コウホウ",
+        "meaning": "public relations, PR, publicity, public information, publicizing"
+      },
+      {
+        "example": "広大",
+        "reading": "コウダイ",
+        "meaning": "vast, extensive, immense, huge, large, grand, magnificent"
+      },
+      {
+        "example": "恢弘",
+        "reading": "カイコウ",
+        "meaning": "propagation, spreading out, extending"
+      },
+      {
+        "example": "寛弘",
+        "reading": "カンコウ",
+        "meaning": "Kankō era (1004.7.20-1012.12.25)"
+      },
+      {
+        "example": "弘通",
+        "reading": "グズウ",
+        "meaning": "spread (of Buddhist teachings)"
+      },
+      {
+        "example": "弘誓",
+        "reading": "グゼイ",
+        "meaning": "Buddha's great vows"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "広い",
+        "reading": "ひろい",
+        "meaning": "spacious, vast, wide"
+      }
+    ],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "bow"
+    },
+    "parts": [
+      "厶",
+      "弓"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24344_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f18.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f18.gif",
+    "uri": "https://jisho.org/search/%E5%BC%98%23kanji"
+  }
+}

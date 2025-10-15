@@ -1,1 +1,67 @@
-{"id":"唐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"唐","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"1727","strokeCount":10,"meaning":"T'ang, China, foreign","kunyomi":["から"],"onyomi":["トウ"],"onyomiExamples":[{"example":"唐","reading":"トウ","meaning":"Tang dynasty (of China; 618-907), T'ang dynasty, China, foreign country"},{"example":"唐土","reading":"モロコシ","meaning":"China, Chinese"},{"example":"頽唐","reading":"タイトウ","meaning":"decadence, decline"},{"example":"後唐","reading":"コウトウ","meaning":"Later Tang dynasty (of China; 923-937), Later T'ang dynasty"}],"kunyomiExamples":[{"example":"唐","reading":"から","meaning":"China (sometimes also used in ref. to Korea or other foreign countries)"},{"example":"空手","reading":"からて","meaning":"karate, empty handed"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["ヨ","一","口","广","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21776_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05510.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5510.gif","uri":"https://jisho.org/search/%E5%94%90%23kanji"}}
+{
+  "id": "唐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唐",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "1727",
+    "strokeCount": 10,
+    "meaning": "T'ang, China, foreign",
+    "kunyomi": [
+      "から"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "唐",
+        "reading": "トウ",
+        "meaning": "Tang dynasty (of China; 618-907), T'ang dynasty, China, foreign country"
+      },
+      {
+        "example": "唐土",
+        "reading": "モロコシ",
+        "meaning": "China, Chinese"
+      },
+      {
+        "example": "頽唐",
+        "reading": "タイトウ",
+        "meaning": "decadence, decline"
+      },
+      {
+        "example": "後唐",
+        "reading": "コウトウ",
+        "meaning": "Later Tang dynasty (of China; 923-937), Later T'ang dynasty"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "唐",
+        "reading": "から",
+        "meaning": "China (sometimes also used in ref. to Korea or other foreign countries)"
+      },
+      {
+        "example": "空手",
+        "reading": "からて",
+        "meaning": "karate, being empty-handed, having nothing in one's hands"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "ヨ",
+      "一",
+      "口",
+      "广",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21776_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05510.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5510.gif",
+    "uri": "https://jisho.org/search/%E5%94%90%23kanji"
+  }
+}

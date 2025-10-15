@@ -1,1 +1,56 @@
-{"id":"舂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"舂","found":true,"strokeCount":11,"meaning":"pound (mortar), sink, set (sun)","kunyomi":["うすつ.く","うすづ.く","つ.く"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"舂米","reading":"ショウマイ","meaning":"polished rice, white rice, husking rice with a mortar and pestle"}],"kunyomiExamples":[{"example":"臼搗く","reading":"うすづく","meaning":"to pound (rice, etc.)"},{"example":"臼搗く","reading":"うすづく","meaning":"to pound (rice, etc.)"},{"example":"搗く","reading":"つく","meaning":"to hull (rice, barley, etc.), to pound (rice), to polish (rice), to stamp (ore)"}],"radical":{"symbol":"臼","meaning":"mortar"},"parts":["ノ","二","大","臼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33282_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08202.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8202.gif","uri":"https://jisho.org/search/%E8%88%82%23kanji"}}
+{
+  "id": "舂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "舂",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "pound (mortar), sink, set (sun)",
+    "kunyomi": [
+      "うすつ.く",
+      "うすづ.く",
+      "つ.く"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舂米",
+        "reading": "ショウマイ",
+        "meaning": "polished rice, white rice, husking rice with a mortar and pestle"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "臼搗く",
+        "reading": "うすづく",
+        "meaning": "to pound (rice, etc.)"
+      },
+      {
+        "example": "臼搗く",
+        "reading": "うすづく",
+        "meaning": "to pound (rice, etc.)"
+      },
+      {
+        "example": "搗く",
+        "reading": "つく",
+        "meaning": "to hull (rice, barley, etc.), to pound (rice), to polish (rice), to stamp (ore)"
+      }
+    ],
+    "radical": {
+      "symbol": "臼",
+      "meaning": "mortar"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "大",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33282_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08202.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8202.gif",
+    "uri": "https://jisho.org/search/%E8%88%82%23kanji"
+  }
+}

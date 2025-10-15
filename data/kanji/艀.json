@@ -1,1 +1,48 @@
-{"id":"艀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"艀","found":true,"strokeCount":13,"meaning":"sampan, lighter, barge","kunyomi":["はしけ"],"onyomi":["フ"],"onyomiExamples":[{"example":"艀船","reading":"ハシケブネ","meaning":"barge"}],"kunyomiExamples":[{"example":"艀","reading":"はしけ","meaning":"barge"},{"example":"艀船","reading":"はしけぶね","meaning":"barge"}],"radical":{"symbol":"舟","meaning":"boat"},"parts":["子","爪","舟"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33344_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08240.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8240.gif","uri":"https://jisho.org/search/%E8%89%80%23kanji"}}
+{
+  "id": "艀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艀",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "sampan, lighter, barge",
+    "kunyomi": [
+      "はしけ"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "はしけ船",
+        "reading": "ハシケブネ",
+        "meaning": "lighter, barge, baggage boat"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "艀",
+        "reading": "はしけ",
+        "meaning": "lighter, barge, baggage boat"
+      },
+      {
+        "example": "はしけ船",
+        "reading": "はしけぶね",
+        "meaning": "lighter, barge, baggage boat"
+      }
+    ],
+    "radical": {
+      "symbol": "舟",
+      "meaning": "boat"
+    },
+    "parts": [
+      "子",
+      "爪",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33344_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08240.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8240.gif",
+    "uri": "https://jisho.org/search/%E8%89%80%23kanji"
+  }
+}

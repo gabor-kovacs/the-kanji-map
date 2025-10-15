@@ -1,1 +1,32 @@
-{"id":"抖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"抖","found":true,"strokeCount":7,"meaning":"shake, jiggle","kunyomi":[],"onyomi":["ト","トウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["扎","斗"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25238_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06296.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6296.gif","uri":"https://jisho.org/search/%E6%8A%96%23kanji"}}
+{
+  "id": "抖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "抖",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "shake, jiggle",
+    "kunyomi": [],
+    "onyomi": [
+      "ト",
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "扎",
+      "斗"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25238_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06296.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6296.gif",
+    "uri": "https://jisho.org/search/%E6%8A%96%23kanji"
+  }
+}

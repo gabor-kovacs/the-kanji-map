@@ -1,1 +1,57 @@
-{"id":"萩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"萩","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1544","strokeCount":12,"meaning":"bush clover","kunyomi":["はぎ"],"onyomi":["シュウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"萩","reading":"はぎ","meaning":"bush clover, Japanese clover (any flowering plant of genus Lespedeza), dark red exterior with blue interior (color combination worn in autumn), Hagi (city in Yamaguchi)"},{"example":"萩原","reading":"はぎはら","meaning":"reedy field"},{"example":"仙台萩","reading":"せんだいはぎ","meaning":"Russian false yellow lupine (Thermopsis lupinoides)"},{"example":"舞萩","reading":"まいはぎ","meaning":"telegraph plant (Codariocalyx motorius), semaphore plant, dancing plant"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["火","禾","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33833_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08429.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8429.gif","uri":"https://jisho.org/search/%E8%90%A9%23kanji"}}
+{
+  "id": "萩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "萩",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1544",
+    "strokeCount": 12,
+    "meaning": "bush clover",
+    "kunyomi": [
+      "はぎ"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "萩",
+        "reading": "はぎ",
+        "meaning": "bush clover, Japanese clover (any flowering plant of genus Lespedeza), dark red exterior with blue interior (color combination worn in autumn), Hagi (city in Yamaguchi)"
+      },
+      {
+        "example": "萩重ね",
+        "reading": "はぎがさね",
+        "meaning": "autumn garment"
+      },
+      {
+        "example": "先代萩",
+        "reading": "せんだいはぎ",
+        "meaning": "Sendaihagi"
+      },
+      {
+        "example": "仙台萩",
+        "reading": "せんだいはぎ",
+        "meaning": "Russian false yellow lupine (Thermopsis lupinoides)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "火",
+      "禾",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33833_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08429.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8429.gif",
+    "uri": "https://jisho.org/search/%E8%90%A9%23kanji"
+  }
+}

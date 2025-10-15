@@ -1,1 +1,45 @@
-{"id":"忖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"忖","found":true,"strokeCount":6,"meaning":"conjecture","kunyomi":["はか.る"],"onyomi":["ソン"],"onyomiExamples":[{"example":"忖度","reading":"ソンタク","meaning":"surmise (about someone's feelings), guess, conjecture"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["寸","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24534_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fd6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fd6.gif","uri":"https://jisho.org/search/%E5%BF%96%23kanji"}}
+{
+  "id": "忖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "忖",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "conjecture",
+    "kunyomi": [
+      "はか.る"
+    ],
+    "onyomi": [
+      "ソン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忖度",
+        "reading": "ソンタク",
+        "meaning": "surmise (about someone's feelings), guess, conjecture, (showing) deference (to), consideration (of someone's wishes), servility"
+      },
+      {
+        "example": "忖度マスク",
+        "reading": "ソンタクマスク",
+        "meaning": "wearing a face mask solely to avoid upsetting others (during the COVID-19 pandemic), wearing a mask to not stand out"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "寸",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24534_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fd6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fd6.gif",
+    "uri": "https://jisho.org/search/%E5%BF%96%23kanji"
+  }
+}

@@ -1,1 +1,86 @@
-{"id":"遣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遣","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"664","strokeCount":13,"meaning":"dispatch, despatch, send, give, donate, do, undertake","kunyomi":["つか.う","-つか.い","-づか.い","つか.わす","や.る"],"onyomi":["ケン"],"onyomiExamples":[{"example":"遣唐使","reading":"ケントウシ","meaning":"envoy to Tang China"},{"example":"遣欧","reading":"ケンオウ","meaning":"dispatching to Europe (e.g. an envoy), sending to Europe"},{"example":"先遣","reading":"センケン","meaning":"sending ahead"},{"example":"差遣","reading":"サケン","meaning":"dispatch, despatch, sending"}],"kunyomiExamples":[{"example":"使う","reading":"つかう","meaning":"to use (a tool, method, etc.), to make use of, to put to use, to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate, to use (time, money, etc.), to spend, to consume, to use (language), to speak"},{"example":"遣わす","reading":"つかわす","meaning":"to send, to dispatch, to despatch, to bestow (favour, etc.), to grant (e.g. pardon)"},{"example":"遣る","reading":"やる","meaning":"to do, to undertake, to perform, to play (a game), to study, to send, to dispatch, to despatch, to put, to move, to turn (one's head, glance, etc.), to give (esp. to someone of equal or lower status), to let have, to present, to bestow, to confer, to make (a vehicle) go faster, to run (a business), to keep, to be engaged in, to practice (law, medicine, etc.), to practise, to have (food, drink, etc.), to eat, to drink, to smoke, to hold (a performance), to perform, to show, to ease (one's mind), to harm, to injure, to kill, to have sex, to fuck, to bang, to live, to get by, to get along, to do ... completely, to do ... broadly, to do ... to a great distance, to do ... for (someone of equal or lower status), to do ... to, to make active efforts to ..."},{"example":"やる気","reading":"やるき","meaning":"will (to do something), drive, motivation, enthusiasm, eagerness"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["一","口","込","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36963_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09063.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9063.gif","uri":"https://jisho.org/search/%E9%81%A3%23kanji"}}
+{
+  "id": "遣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遣",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "664",
+    "strokeCount": 13,
+    "meaning": "dispatch, despatch, send, give, donate, do, undertake",
+    "kunyomi": [
+      "つか.う",
+      "-つか.い",
+      "-づか.い",
+      "つか.わす",
+      "や.る"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遣唐使",
+        "reading": "ケントウシ",
+        "meaning": "envoy to Tang China"
+      },
+      {
+        "example": "遣欧",
+        "reading": "ケンオウ",
+        "meaning": "dispatching to Europe (e.g. an envoy), sending to Europe"
+      },
+      {
+        "example": "先遣",
+        "reading": "センケン",
+        "meaning": "sending ahead"
+      },
+      {
+        "example": "差遣",
+        "reading": "サケン",
+        "meaning": "dispatch, despatch, sending"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "使う",
+        "reading": "つかう",
+        "meaning": "to use (a tool, method, etc.), to make use of, to put to use, to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate, to use (time, money, etc.), to spend, to consume, to use (language), to speak"
+      },
+      {
+        "example": "遣わす",
+        "reading": "つかわす",
+        "meaning": "to send, to dispatch, to despatch, to bestow (favour, etc.), to grant (e.g. pardon)"
+      },
+      {
+        "example": "遣る",
+        "reading": "やる",
+        "meaning": "to do, to undertake, to perform, to play (a game), to study, to send, to dispatch, to despatch, to put, to move, to turn (one's head, glance, etc.), to give (esp. to someone of equal or lower status), to let have, to present, to bestow, to confer, to make (a vehicle) go faster, to run (a business), to keep, to be engaged in, to practice (law, medicine, etc.), to practise, to have (food, drink, etc.), to eat, to drink, to smoke, to hold (a performance), to perform, to show, to ease (one's mind), to harm, to injure, to kill, to have sex, to fuck, to bang, to live, to get by, to get along, to do ... completely, to do ... broadly, to do ... to a great distance, to do ... for (someone of equal or lower status), to do ... to, to make active efforts to ..."
+      },
+      {
+        "example": "やる気",
+        "reading": "やるき",
+        "meaning": "will (to do something), drive, motivation, enthusiasm, eagerness"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "一",
+      "口",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36963_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09063.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9063.gif",
+    "uri": "https://jisho.org/search/%E9%81%A3%23kanji"
+  }
+}

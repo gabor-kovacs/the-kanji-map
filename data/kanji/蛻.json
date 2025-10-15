@@ -1,1 +1,41 @@
-{"id":"蛻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蛻","found":true,"strokeCount":13,"meaning":"insect moulting","kunyomi":["もぬ.ける","ぬけがら"],"onyomi":["ゼイ","セイ","タイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"抜け殻","reading":"ぬけがら","meaning":"cast-off skin (snake, insect, etc.), husk, empty shell, exuvia, exuviae"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["儿","口","并","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34555_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086fb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86fb.gif","uri":"https://jisho.org/search/%E8%9B%BB%23kanji"}}
+{
+  "id": "蛻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛻",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "insect moulting",
+    "kunyomi": [
+      "もぬ.ける",
+      "ぬけがら"
+    ],
+    "onyomi": [
+      "ゼイ",
+      "セイ",
+      "タイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "抜け殻",
+        "reading": "ぬけがら",
+        "meaning": "cast-off skin (snake, insect, etc.), husk, empty shell, exuvia, exuviae"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "儿",
+      "口",
+      "并",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34555_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86fb.gif",
+    "uri": "https://jisho.org/search/%E8%9B%BB%23kanji"
+  }
+}

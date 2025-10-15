@@ -1,1 +1,405 @@
-{"id":"抜","kanjialiveData":{"kanji":{"character":"抜","meaning":{"english":"pull out, stand out, surpass"},"strokes":{"count":7,"timings":[0,1.066667,2.666667,3.333333,4.4,6,7.533333,10.133333],"images":["https://media.kanjialive.com/kanji_strokes/nu(kasu)_1.svg","https://media.kanjialive.com/kanji_strokes/nu(kasu)_2.svg","https://media.kanjialive.com/kanji_strokes/nu(kasu)_3.svg","https://media.kanjialive.com/kanji_strokes/nu(kasu)_4.svg","https://media.kanjialive.com/kanji_strokes/nu(kasu)_5.svg","https://media.kanjialive.com/kanji_strokes/nu(kasu)_6.svg","https://media.kanjialive.com/kanji_strokes/nu(kasu)_7.svg"]},"onyomi":{"romaji":"batsu","katakana":"バツ"},"kunyomi":{"romaji":"nuku, nuki, nukeru, nukasu, nukaru, nu","hiragana":"ぬ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/nu(kasu)_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/nu(kasu)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/nu(kasu)_00.webm"}},"radical":{"character":"⺘","strokes":3,"image":"https://media.kanjialive.com/radical_character/tehen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"てへん","romaji":"tehen"},"meaning":{"english":"hand"},"animation":["https://media.kanjialive.com/rad_frames/tehen0.svg","https://media.kanjialive.com/rad_frames/tehen1.svg","https://media.kanjialive.com/rad_frames/tehen2.svg"]},"references":{"grade":null,"kodansha":"183","classic_nelson":"1854"},"examples":[{"japanese":"抜群（ばつぐん）","meaning":{"english":"pre-eminence"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_a.mp3"}},{"japanese":"海抜（かいばつ）","meaning":{"english":"height above sea level"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_b.mp3"}},{"japanese":"奇抜な（きばつな）","meaning":{"english":"original, eccentric"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_c.mp3"}},{"japanese":"抜本的な（ばっぽんてきな）","meaning":{"english":"drastic, radical"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_d.mp3"}},{"japanese":"抜粋する（ばっすいする）","meaning":{"english":"extract, select"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_e.mp3"}},{"japanese":"選抜する（せんばつする）","meaning":{"english":"select"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_f.mp3"}},{"japanese":"抜ける（ぬける）","meaning":{"english":"come out, be missing, [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_g.mp3"}},{"japanese":"抜く（ぬく）","meaning":{"english":"draw out, unplug [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_h.mp3"}},{"japanese":"抜かす（ぬかす）","meaning":{"english":"omit, leave out [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_i.mp3"}}]},"jishoData":{"query":"抜","found":true,"taughtIn":"junior high","jlptLevel":"N3","newspaperFrequencyRank":"726","strokeCount":7,"meaning":"slip out, extract, pull out, pilfer, quote, remove, omit","kunyomi":["ぬ.く","-ぬ.く","ぬ.き","ぬ.ける","ぬ.かす","ぬ.かる"],"onyomi":["バツ","ハツ","ハイ"],"onyomiExamples":[{"example":"抜群","reading":"バツグン","meaning":"outstanding, excellent, exceptional, surpassing, extraordinary, distinguished, preeminence, distinction, extraordinariness"},{"example":"抜山蓋世","reading":"バツザンガイセイ","meaning":"great strength and energy (of a mighty hero), Herculean strength and vitality"},{"example":"卓抜","reading":"タクバツ","meaning":"excellence, superiority, preeminence, prevalence"},{"example":"警抜","reading":"ケイバツ","meaning":"scintillating, extraordinarily excellent"}],"kunyomiExamples":[{"example":"抜く","reading":"ぬく","meaning":"to pull out, to draw out, to extract, to unplug, to weed, to omit, to leave out, to go without, to skip, to do to the end, to carry through, to let out (e.g. air from a tyre), to drain (e.g. water from a bath), to empty, to pick out, to choose, to select, to extract, to pilfer, to steal, to remove, to get rid of, to take out, to pass, to overtake, to outstrip, to get ahead of, to pierce, to break through, to go through, to cut out (a shape), to create (a pattern) by dying the surrounding area, to seize, to capture, to reduce, to scoop (a story), to take out (an opponent's stones; in go), to masturbate (of a male), to ejaculate (while masturbating), to take (a photo), to record (video)"},{"example":"抜くべからざる","reading":"ぬくべからざる","meaning":"deep-rooted (suspicion, etc.)"},{"example":"抜き","reading":"ぬき","meaning":"leaving out, omitting, skipping, dispensing with, (beating) in succession, in a row"},{"example":"抜き打ち","reading":"ぬきうち","meaning":"drawing a katana and attacking in the same stroke, doing (something) suddenly and without warning, doing without prior notice"},{"example":"手抜き","reading":"てぬき","meaning":"omitting crucial steps, cutting corners, skimping, intentional negligence, tenuki, taking the initiative by ignoring the opponent's last move and playing somewhere else (in go)"},{"example":"栓抜き","reading":"せんぬき","meaning":"bottle opener, corkscrew"},{"example":"抜ける","reading":"ぬける","meaning":"to come out, to fall out, to be omitted, to be missing, to escape, to come loose, to fade, to discolour, to wear a hole (e.g. clothes), to leave (e.g. a meeting), to be clear, to be transparent (e.g. of the sky), to be stupid, to be absentminded, to be careless, to be inattentive, to exit (a program loop), to go through, to pass through, to give way, to collapse, to finish a round with more than 88 points (not counting points gained from scoring combinations)"},{"example":"抜けるような青空","reading":"ぬけるようなあおぞら","meaning":"deep blue sky, bottomless blue sky"},{"example":"抜かす","reading":"ぬかす","meaning":"to omit, to leave out, to skip, to overtake, to pass, to say, to speak"},{"example":"抜かる","reading":"ぬかる","meaning":"to make a mistake"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["亠","又","夂","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25244_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0629c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/629c.gif","uri":"https://jisho.org/search/%E6%8A%9C%23kanji"}}
+{
+  "id": "抜",
+  "kanjialiveData": {
+    "_id": "54317af5791eba5146ee4ac8",
+    "_rev": "12-dd48c81170338dd7fbd301306b46a16f",
+    "rad_name_ja": "てへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "nuku, nuki, nukeru, nukasu, nukaru, nu",
+    "meaning": "pull out, stand out, surpass",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "抜群（ばつぐん）",
+        "meaning": {
+          "english": "pre-eminence"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "海抜（かいばつ）",
+        "meaning": {
+          "english": "height above sea level"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "奇抜な（きばつな）",
+        "meaning": {
+          "english": "original, eccentric"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "抜本的な（ばっぽんてきな）",
+        "meaning": {
+          "english": "drastic, radical"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "抜粋する（ばっすいする）",
+        "meaning": {
+          "english": "extract, select"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "選抜する（せんばつする）",
+        "meaning": {
+          "english": "select"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "抜ける（ぬける）",
+        "meaning": {
+          "english": "come out, be missing, [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "抜く（ぬく）",
+        "meaning": {
+          "english": "draw out, unplug [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "抜かす（ぬかす）",
+        "meaning": {
+          "english": "omit, leave out [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ぬく、ぬき、ぬける、ぬかす、ぬかる、ぬ",
+    "ka_utf": "抜",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=抜",
+    "kname": "nu(kasu)",
+    "rad_order": 77,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      1.066667,
+      2.666667,
+      3.333333,
+      4.4,
+      6,
+      7.533333,
+      10.133333
+    ],
+    "kunyomi_ka_display": "ぬ",
+    "dick": "183",
+    "rad_name": "tehen",
+    "dicn": "1854",
+    "mn_hint": "Hand 扌 taking something from one's own possessions to help a friend 友.",
+    "rad_stroke": 3,
+    "onyomi_ja": "バツ",
+    "rad_meaning": "hand",
+    "onyomi": "batsu",
+    "ka_id": "ka_506",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "batsu",
+      "batsu"
+    ],
+    "kunyomi_search": [
+      "nuku",
+      "nuki",
+      "nukeru",
+      "nukasu",
+      "nukaru",
+      "nu",
+      "nuku, nuki, nukeru, nukasu, nukaru, nu"
+    ],
+    "meaning_search": [
+      "pull out",
+      "pull",
+      "out",
+      "stand out",
+      "stand",
+      "out",
+      "surpass",
+      "pull out, stand out, surpass"
+    ],
+    "onyomi_ja_search": [
+      "バツ",
+      "バツ"
+    ],
+    "kunyomi_ja_search": [
+      "ぬく",
+      "ぬき",
+      "ぬける",
+      "ぬかす",
+      "ぬかる",
+      "ぬ",
+      "ぬく、ぬき、ぬける、ぬかす、ぬかる、ぬ"
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:7",
+      "ij:c7",
+      "jtr",
+      "jtr:8",
+      "jtr:c8"
+    ],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "抜",
+      "meaning": {
+        "english": "pull out, stand out, surpass"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.066667,
+          2.666667,
+          3.333333,
+          4.4,
+          6,
+          7.533333,
+          10.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "batsu",
+        "katakana": "バツ"
+      },
+      "kunyomi": {
+        "romaji": "nuku, nuki, nukeru, nukasu, nukaru, nu",
+        "hiragana": "ぬ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/nu(kasu)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/nu(kasu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/nu(kasu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "hand"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "183",
+      "classic_nelson": "1854"
+    }
+  },
+  "jishoData": {
+    "query": "抜",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "726",
+    "strokeCount": 7,
+    "meaning": "slip out, extract, pull out, pilfer, quote, remove, omit",
+    "kunyomi": [
+      "ぬ.く",
+      "-ぬ.く",
+      "ぬ.き",
+      "ぬ.ける",
+      "ぬ.かす",
+      "ぬ.かる"
+    ],
+    "onyomi": [
+      "バツ",
+      "ハツ",
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "抜群",
+        "reading": "バツグン",
+        "meaning": "outstanding, excellent, exceptional, distinguished, unrivaled, surpassing (e.g. beauty), beyond compare"
+      },
+      {
+        "example": "抜山蓋世",
+        "reading": "バツザンガイセイ",
+        "meaning": "great strength and energy (of a mighty hero), Herculean strength and vitality"
+      },
+      {
+        "example": "卓抜",
+        "reading": "タクバツ",
+        "meaning": "excellence, superiority, preeminence, prevalence"
+      },
+      {
+        "example": "警抜",
+        "reading": "ケイバツ",
+        "meaning": "scintillating, extraordinarily excellent"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "抜く",
+        "reading": "ぬく",
+        "meaning": "to pull out, to draw out, to extract, to unplug, to weed, to omit, to leave out, to go without, to skip, to do to the end, to do thoroughly, to do completely, to do severely, to let out (e.g. air from a tyre), to drain (e.g. water from a bath), to empty, to pick out, to choose, to select, to extract, to pilfer, to steal, to remove, to get rid of, to take out, to pass, to overtake, to outstrip, to get ahead of, to pierce, to break through, to go through, to cut out (a shape), to create (a pattern) by dying the surrounding area, to seize, to capture, to reduce, to scoop (a story), to take out (an opponent's stones; in go), to masturbate (of a male), to ejaculate (while masturbating), to take (a photo), to record (video)"
+      },
+      {
+        "example": "抜くべからざる",
+        "reading": "ぬくべからざる",
+        "meaning": "deep-rooted (suspicion, etc.)"
+      },
+      {
+        "example": "抜き",
+        "reading": "ぬき",
+        "meaning": "leaving out, omitting, skipping, dispensing with, (beating) in succession, in a row"
+      },
+      {
+        "example": "抜き打ち",
+        "reading": "ぬきうち",
+        "meaning": "drawing a katana and attacking in the same stroke, doing (something) suddenly and without warning, doing without prior notice"
+      },
+      {
+        "example": "手抜き",
+        "reading": "てぬき",
+        "meaning": "omitting crucial steps, cutting corners, skimping, intentional negligence, tenuki, making a move which is not a direct counter to one's opponent's last move"
+      },
+      {
+        "example": "栓抜き",
+        "reading": "せんぬき",
+        "meaning": "bottle opener, corkscrew"
+      },
+      {
+        "example": "抜ける",
+        "reading": "ぬける",
+        "meaning": "to come out, to fall out, to be omitted, to be missing, to escape, to come loose, to fade, to discolour, to wear a hole (e.g. clothes), to leave (e.g. a meeting), to be clear, to be transparent (e.g. of the sky), to be absentminded, to be careless, to be inattentive, to be foolish, to exit (a program loop), to go through, to pass through, to give way, to collapse, to finish a round with more than 88 points (not counting points gained from scoring combinations)"
+      },
+      {
+        "example": "抜けるような青空",
+        "reading": "ぬけるようなあおぞら",
+        "meaning": "deep blue sky, bottomless blue sky"
+      },
+      {
+        "example": "抜かす",
+        "reading": "ぬかす",
+        "meaning": "to omit, to leave out, to skip, to overtake, to pass, to say, to speak"
+      },
+      {
+        "example": "抜かる",
+        "reading": "ぬかる",
+        "meaning": "to make a mistake"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "亠",
+      "又",
+      "夂",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25244_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0629c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/629c.gif",
+    "uri": "https://jisho.org/search/%E6%8A%9C%23kanji"
+  }
+}

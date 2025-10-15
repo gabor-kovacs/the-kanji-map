@@ -1,1 +1,57 @@
-{"id":"耗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"耗","found":true,"taughtIn":"junior high","jlptLevel":"N1","strokeCount":10,"meaning":"decrease","kunyomi":[],"onyomi":["モウ","コウ"],"onyomiExamples":[{"example":"摩耗","reading":"マモウ","meaning":"wear, abrasion"},{"example":"衰耗","reading":"スイモウ","meaning":"weaken and decline"},{"example":"減耗","reading":"ゲンモウ","meaning":"natural decrease"}],"kunyomiExamples":[],"radical":{"symbol":"耒","meaning":"plow"},"parts":["ノ","ハ","士","木","毛","耒","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32791_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08017.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8017.gif","uri":"https://jisho.org/search/%E8%80%97%23kanji"}}
+{
+  "id": "耗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "耗",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "strokeCount": 10,
+    "meaning": "decrease",
+    "kunyomi": [],
+    "onyomi": [
+      "モウ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "摩耗",
+        "reading": "マモウ",
+        "meaning": "wear, abrasion"
+      },
+      {
+        "example": "衰耗",
+        "reading": "スイモウ",
+        "meaning": "weaken and decline"
+      },
+      {
+        "example": "減耗",
+        "reading": "ゲンモウ",
+        "meaning": "natural decrease"
+      },
+      {
+        "example": "損耗",
+        "reading": "ソンモウ",
+        "meaning": "wear, loss"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "耒",
+      "meaning": "plow"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "士",
+      "木",
+      "毛",
+      "耒",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32791_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08017.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8017.gif",
+    "uri": "https://jisho.org/search/%E8%80%97%23kanji"
+  }
+}

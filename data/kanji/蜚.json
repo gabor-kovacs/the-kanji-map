@@ -1,1 +1,41 @@
-{"id":"蜚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蜚","found":true,"strokeCount":14,"meaning":"beetle, cockroach","kunyomi":["あぶらむし"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"飛語","reading":"ヒゴ","meaning":"baseless rumor, baseless rumour, gossip, false report"},{"example":"飛鳥","reading":"ヒチョウ","meaning":"flying bird"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["虫","非"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34586_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0871a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/871a.gif","uri":"https://jisho.org/search/%E8%9C%9A%23kanji"}}
+{
+  "id": "蜚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜚",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "beetle, cockroach",
+    "kunyomi": [
+      "あぶらむし"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "飛語",
+        "reading": "ヒゴ",
+        "meaning": "baseless rumor, baseless rumour, gossip, false report"
+      },
+      {
+        "example": "飛鳥",
+        "reading": "ヒチョウ",
+        "meaning": "flying bird"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "虫",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34586_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0871a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/871a.gif",
+    "uri": "https://jisho.org/search/%E8%9C%9A%23kanji"
+  }
+}

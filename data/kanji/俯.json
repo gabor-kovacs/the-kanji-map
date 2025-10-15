@@ -1,1 +1,58 @@
-{"id":"俯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"俯","found":true,"strokeCount":10,"meaning":"bend down, lie prostrate","kunyomi":["ふ.す","うつむ.く","ふ.せる"],"onyomi":["フ"],"onyomiExamples":[{"example":"俯角","reading":"フカク","meaning":"depression, angle of dip"},{"example":"俯瞰","reading":"フカン","meaning":"overlooking, looking down at, having an overhead view, having a bird's-eye view, having a high-angle view"}],"kunyomiExamples":[{"example":"俯す","reading":"ふす","meaning":"to lower (one's head, gaze, etc.)"},{"example":"俯く","reading":"うつむく","meaning":"to hang one's head, to look down, to cast one's eyes downward"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","寸","广"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20463_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fef.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fef.gif","uri":"https://jisho.org/search/%E4%BF%AF%23kanji"}}
+{
+  "id": "俯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "俯",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "bend down, lie prostrate",
+    "kunyomi": [
+      "ふ.す",
+      "うつむ.く",
+      "ふ.せる"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "俯角",
+        "reading": "フカク",
+        "meaning": "depression, angle of dip"
+      },
+      {
+        "example": "俯瞰",
+        "reading": "フカン",
+        "meaning": "overlooking, looking down at, having an overhead view, having a bird's-eye view, having a high-angle view"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "俯す",
+        "reading": "ふす",
+        "meaning": "to lower (one's head, gaze, etc.)"
+      },
+      {
+        "example": "俯く",
+        "reading": "うつむく",
+        "meaning": "to hang one's head, to look down, to cast one's eyes downward"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "寸",
+      "广"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20463_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fef.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fef.gif",
+    "uri": "https://jisho.org/search/%E4%BF%AF%23kanji"
+  }
+}

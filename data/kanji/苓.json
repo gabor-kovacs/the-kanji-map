@@ -1,1 +1,52 @@
-{"id":"苓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"苓","found":true,"strokeCount":8,"meaning":"plant, herb, mushroom","kunyomi":["みみなぐさ"],"onyomi":["レイ","リョウ"],"onyomiExamples":[{"example":"猪苓","reading":"チョレイ","meaning":"umbrella polypore sclerotium (used as a diuretic, antipyretic, and antitussive in traditional Chinese medicine)"},{"example":"茯苓","reading":"ブクリョウ","meaning":"Poria cocos (species of basidiomycete used in Chinese medicine)"},{"example":"土茯苓","reading":"ドブクリョウ","meaning":"Smilax glabra (species of sarsaparilla, used esp. to refer to its dried rhizome, used in Chinese medicine)"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","个","卩","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33491_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d3.gif","uri":"https://jisho.org/search/%E8%8B%93%23kanji"}}
+{
+  "id": "苓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苓",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "plant, herb, mushroom",
+    "kunyomi": [
+      "みみなぐさ"
+    ],
+    "onyomi": [
+      "レイ",
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "猪苓",
+        "reading": "チョレイ",
+        "meaning": "umbrella polypore sclerotium (used as a diuretic, antipyretic, and antitussive in traditional Chinese medicine)"
+      },
+      {
+        "example": "茯苓",
+        "reading": "ブクリョウ",
+        "meaning": "Poria cocos (species of basidiomycete used in Chinese medicine)"
+      },
+      {
+        "example": "土茯苓",
+        "reading": "ドブクリョウ",
+        "meaning": "Smilax glabra (species of sarsaparilla, used esp. to refer to its dried rhizome, used in Chinese medicine)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "个",
+      "卩",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33491_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d3.gif",
+    "uri": "https://jisho.org/search/%E8%8B%93%23kanji"
+  }
+}

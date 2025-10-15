@@ -1,1 +1,77 @@
-{"id":"朴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"朴","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1626","strokeCount":6,"meaning":"crude, simple, plain, docile","kunyomi":["ほう","ほお","えのき"],"onyomi":["ボク"],"onyomiExamples":[{"example":"朴直","reading":"ボクチョク","meaning":"simplicity, honesty, naivete"},{"example":"朴訥","reading":"ボクトツ","meaning":"unsophisticated, ruggedly honest, artless, unaffected, simple, naive"},{"example":"淳朴","reading":"ジュンボク","meaning":"rustic simplicity, homeliness, unsophisticated, naive, honest, simple"},{"example":"厚朴","reading":"コウボク","meaning":"Japanese bigleaf magnolia bark (used in Chinese medicine)"}],"kunyomiExamples":[{"example":"朴の木","reading":"ほおのき","meaning":"magnolia (Magnolia obovata), Japanese big leaf magnolia"},{"example":"朴","reading":"ほお","meaning":"Japanese bigleaf magnolia (Magnolia obovata)"},{"example":"朴の木","reading":"ほおのき","meaning":"magnolia (Magnolia obovata), Japanese big leaf magnolia"},{"example":"榎","reading":"えのき","meaning":"Japanese hackberry (Celtis sinensis var. japonica), Chinese nettle tree, enoki mushroom (Flammulina velutipes), winter mushroom, velvet shank, enokitake, enokidake"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["卜","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26420_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06734.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6734.gif","uri":"https://jisho.org/search/%E6%9C%B4%23kanji"}}
+{
+  "id": "朴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朴",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1626",
+    "strokeCount": 6,
+    "meaning": "crude, simple, plain, docile",
+    "kunyomi": [
+      "ほう",
+      "ほお",
+      "えのき"
+    ],
+    "onyomi": [
+      "ボク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "朴直",
+        "reading": "ボクチョク",
+        "meaning": "simplicity, honesty, naivete"
+      },
+      {
+        "example": "朴訥",
+        "reading": "ボクトツ",
+        "meaning": "unsophisticated, ruggedly honest, artless, unaffected, simple, naive"
+      },
+      {
+        "example": "純朴",
+        "reading": "ジュンボク",
+        "meaning": "simple and honest, unsophisticated, simpleminded, naive, unspoiled"
+      },
+      {
+        "example": "厚朴",
+        "reading": "コウボク",
+        "meaning": "Japanese bigleaf magnolia bark (used in Chinese medicine)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "朴の木",
+        "reading": "ほおのき",
+        "meaning": "magnolia (Magnolia obovata), Japanese big leaf magnolia"
+      },
+      {
+        "example": "朴",
+        "reading": "ほお",
+        "meaning": "Japanese bigleaf magnolia (Magnolia obovata)"
+      },
+      {
+        "example": "朴の木",
+        "reading": "ほおのき",
+        "meaning": "magnolia (Magnolia obovata), Japanese big leaf magnolia"
+      },
+      {
+        "example": "榎",
+        "reading": "えのき",
+        "meaning": "Japanese hackberry (Celtis sinensis var. japonica), Chinese nettle tree, enoki mushroom (Flammulina velutipes), winter mushroom, velvet shank, enokitake, enokidake"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "卜",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26420_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06734.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6734.gif",
+    "uri": "https://jisho.org/search/%E6%9C%B4%23kanji"
+  }
+}

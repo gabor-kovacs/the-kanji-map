@@ -1,1 +1,51 @@
-{"id":"壌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壌","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1407","strokeCount":16,"meaning":"lot, earth, soil","kunyomi":["つち"],"onyomi":["ジョウ"],"onyomiExamples":[{"example":"壌土","reading":"ジョウド","meaning":"soil, loamy soil, loam, soil with clay content of 25-37.5%"},{"example":"平壌","reading":"ピョンヤン","meaning":"Pyongyang (North Korea)"},{"example":"黄壌","reading":"コウジョウ","meaning":"yellow soil, loess, Hades, hell, underworld, world of the dead"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["ハ","亠","土","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22732_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058cc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58cc.gif","uri":"https://jisho.org/search/%E5%A3%8C%23kanji"}}
+{
+  "id": "壌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壌",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1407",
+    "strokeCount": 16,
+    "meaning": "lot, earth, soil",
+    "kunyomi": [
+      "つち"
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壌土",
+        "reading": "ジョウド",
+        "meaning": "soil, loamy soil, loam, soil with clay content of 25-37.5%"
+      },
+      {
+        "example": "平壌",
+        "reading": "ピョンヤン",
+        "meaning": "Pyongyang (North Korea)"
+      },
+      {
+        "example": "黄壌",
+        "reading": "コウジョウ",
+        "meaning": "yellow soil, loess, Hades, hell, underworld, world of the dead"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "土",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22732_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058cc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58cc.gif",
+    "uri": "https://jisho.org/search/%E5%A3%8C%23kanji"
+  }
+}

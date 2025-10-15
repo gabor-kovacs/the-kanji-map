@@ -1,1 +1,37 @@
-{"id":"娥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"娥","found":true,"strokeCount":10,"meaning":"beautiful","kunyomi":["みめよ.い"],"onyomi":["ガ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["亅","女","戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23077_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a25.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a25.gif","uri":"https://jisho.org/search/%E5%A8%A5%23kanji"}}
+{
+  "id": "娥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "娥",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "beautiful",
+    "kunyomi": [
+      "みめよ.い"
+    ],
+    "onyomi": [
+      "ガ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嫦娥",
+        "reading": "ジョウガ",
+        "meaning": "Chang'e (Chinese goddess)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "亅",
+      "女",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23077_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a25.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a25.gif",
+    "uri": "https://jisho.org/search/%E5%A8%A5%23kanji"
+  }
+}

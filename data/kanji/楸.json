@@ -1,1 +1,43 @@
-{"id":"楸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"楸","found":true,"strokeCount":13,"meaning":"Japanese catalpa","kunyomi":["きささげ","ひさぎ"],"onyomi":["シュウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"楸","reading":"きささげ","meaning":"yellow catalpa (Catalpa ovata), Chinese catalpa"},{"example":"楸","reading":"ひさぎ","meaning":"yellow catalpa (Catalpa ovata), Chinese catalpa, Japanese mallotus (Mallotus japonicus)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["木","火","禾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27000_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06978.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6978.gif","uri":"https://jisho.org/search/%E6%A5%B8%23kanji"}}
+{
+  "id": "楸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楸",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "Japanese catalpa",
+    "kunyomi": [
+      "きささげ",
+      "ひさぎ"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "楸",
+        "reading": "きささげ",
+        "meaning": "yellow catalpa (Catalpa ovata), Chinese catalpa"
+      },
+      {
+        "example": "楸",
+        "reading": "ひさぎ",
+        "meaning": "yellow catalpa (Catalpa ovata), Chinese catalpa, Japanese mallotus (Mallotus japonicus)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "木",
+      "火",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27000_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06978.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6978.gif",
+    "uri": "https://jisho.org/search/%E6%A5%B8%23kanji"
+  }
+}

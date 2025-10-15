@@ -1,1 +1,64 @@
-{"id":"纛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"纛","found":true,"strokeCount":25,"meaning":"flag, banner","kunyomi":["はたぼこ","おにがしら"],"onyomi":["トウ","トク"],"onyomiExamples":[{"example":"鬼頭","reading":"オニガシラ","meaning":"decorative black flagpole tassel made from tail hair (of a yak, horse, ox, etc.) or dyed hemp"},{"example":"大纛","reading":"タイトウ","meaning":"large decorative black flagpole tassel made from tail hair (of a yak, horse, ox, etc.) or dyed hemp, emperor's encampment"},{"example":"牙纛","reading":"ガトウ","meaning":"flagstaff decorated with ivory carried by the emperor or a general"}],"kunyomiExamples":[{"example":"鬼頭","reading":"おにがしら","meaning":"decorative black flagpole tassel made from tail hair (of a yak, horse, ox, etc.) or dyed hemp"}],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["二","亠","土","小","幺","毋","母","目","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32411_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e9b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e9b.gif","uri":"https://jisho.org/search/%E7%BA%9B%23kanji"}}
+{
+  "id": "纛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "纛",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "flag, banner",
+    "kunyomi": [
+      "はたぼこ",
+      "おにがしら"
+    ],
+    "onyomi": [
+      "トウ",
+      "トク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鬼頭",
+        "reading": "オニガシラ",
+        "meaning": "decorative black flagpole tassel made from tail hair (of a yak, horse, ox, etc.) or dyed hemp"
+      },
+      {
+        "example": "大纛",
+        "reading": "タイトウ",
+        "meaning": "large decorative black flagpole tassel made from tail hair (of a yak, horse, ox, etc.) or dyed hemp, emperor's encampment"
+      },
+      {
+        "example": "牙纛",
+        "reading": "ガトウ",
+        "meaning": "flagstaff decorated with ivory carried by the emperor or a general"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鬼頭",
+        "reading": "おにがしら",
+        "meaning": "decorative black flagpole tassel made from tail hair (of a yak, horse, ox, etc.) or dyed hemp"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "土",
+      "小",
+      "幺",
+      "毋",
+      "母",
+      "目",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32411_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e9b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e9b.gif",
+    "uri": "https://jisho.org/search/%E7%BA%9B%23kanji"
+  }
+}

@@ -1,1 +1,45 @@
-{"id":"襴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"襴","found":true,"strokeCount":22,"meaning":"a kind of cloth","kunyomi":[],"onyomi":["ラン","リン"],"onyomiExamples":[{"example":"襴","reading":"ラン","meaning":"horizontally-wrapped fabric forming the bottom part of some traditional Japanese clothing"},{"example":"金襴","reading":"キンラン","meaning":"gold brocade"}],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["初","日","木","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35188_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08974.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8974.gif","uri":"https://jisho.org/search/%E8%A5%B4%23kanji"}}
+{
+  "id": "襴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "襴",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "a kind of cloth",
+    "kunyomi": [],
+    "onyomi": [
+      "ラン",
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "襴",
+        "reading": "ラン",
+        "meaning": "horizontally-wrapped fabric forming the bottom part of some traditional Japanese clothing"
+      },
+      {
+        "example": "金襴",
+        "reading": "キンラン",
+        "meaning": "gold brocade"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "初",
+      "日",
+      "木",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35188_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08974.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8974.gif",
+    "uri": "https://jisho.org/search/%E8%A5%B4%23kanji"
+  }
+}

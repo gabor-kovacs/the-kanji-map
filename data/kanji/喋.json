@@ -1,1 +1,56 @@
-{"id":"喋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"喋","found":true,"newspaperFrequencyRank":"2403","strokeCount":12,"meaning":"talk, chat, chatter","kunyomi":["しゃべ.る","ついば.む"],"onyomi":["チョウ","トウ"],"onyomiExamples":[{"example":"喋々","reading":"チョウチョウ","meaning":"glibly, volubly, at great length"},{"example":"喋々喃々","reading":"チョウチョウナンナン","meaning":"billing and cooing, holding an intimate, long-winded conversation in whispers"},{"example":"喋々","reading":"チョウチョウ","meaning":"glibly, volubly, at great length"}],"kunyomiExamples":[{"example":"喋る","reading":"しゃべる","meaning":"to talk, to chat, to chatter"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["世","口","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21899_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0558b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/558b.gif","uri":"https://jisho.org/search/%E5%96%8B%23kanji"}}
+{
+  "id": "喋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喋",
+    "found": true,
+    "newspaperFrequencyRank": "2403",
+    "strokeCount": 12,
+    "meaning": "talk, chat, chatter",
+    "kunyomi": [
+      "しゃべ.る",
+      "ついば.む"
+    ],
+    "onyomi": [
+      "チョウ",
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喋々",
+        "reading": "チョウチョウ",
+        "meaning": "glibly, volubly, at great length"
+      },
+      {
+        "example": "喋々喃々",
+        "reading": "チョウチョウナンナン",
+        "meaning": "billing and cooing, holding an intimate, long-winded conversation in whispers"
+      },
+      {
+        "example": "喋々",
+        "reading": "チョウチョウ",
+        "meaning": "glibly, volubly, at great length"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "喋る",
+        "reading": "しゃべる",
+        "meaning": "to talk, to chat, to chatter"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "世",
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21899_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0558b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/558b.gif",
+    "uri": "https://jisho.org/search/%E5%96%8B%23kanji"
+  }
+}

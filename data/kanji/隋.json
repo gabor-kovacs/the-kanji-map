@@ -1,1 +1,48 @@
-{"id":"隋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"隋","found":true,"strokeCount":12,"meaning":"name of a Chinese dynasty, remains of scarifice, bury, fall, sag","kunyomi":[],"onyomi":["ズイ","スイ","タ","ダ"],"onyomiExamples":[{"example":"隋","reading":"ズイ","meaning":"Sui dynasty (of China; 581-618)"}],"kunyomiExamples":[],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["ノ","一","工","月","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38539_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0968b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/968b.gif","uri":"https://jisho.org/search/%E9%9A%8B%23kanji"}}
+{
+  "id": "隋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "隋",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "name of a Chinese dynasty, remains of sacrifice, bury, fall, sag",
+    "kunyomi": [],
+    "onyomi": [
+      "ズイ",
+      "スイ",
+      "タ",
+      "ダ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "隋",
+        "reading": "ズイ",
+        "meaning": "Sui dynasty (of China; 581-618)"
+      },
+      {
+        "example": "隋書",
+        "reading": "ズイショ",
+        "meaning": "Book of Sui"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "工",
+      "月",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38539_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0968b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/968b.gif",
+    "uri": "https://jisho.org/search/%E9%9A%8B%23kanji"
+  }
+}

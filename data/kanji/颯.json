@@ -1,1 +1,46 @@
-{"id":"颯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"颯","found":true,"jlptLevel":"N1","strokeCount":14,"meaning":"sudden, quick, sound of the wind","kunyomi":["さっ.と"],"onyomi":["サツ","ソウ"],"onyomiExamples":[{"example":"颯々","reading":"サッサツ","meaning":"rustling (of wind), murmuring, whistling, soughing"}],"kunyomiExamples":[{"example":"颯と","reading":"さっと","meaning":"quickly (esp. actions), suddenly (esp. wind, rain, etc.)"}],"radical":{"symbol":"風","meaning":"wind"},"parts":["几","立","虫","風"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39087_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098af.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98af.gif","uri":"https://jisho.org/search/%E9%A2%AF%23kanji"}}
+{
+  "id": "颯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "颯",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 14,
+    "meaning": "sudden, quick, sound of the wind",
+    "kunyomi": [
+      "さっ.と"
+    ],
+    "onyomi": [
+      "サツ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "颯々",
+        "reading": "サッサツ",
+        "meaning": "rustling (of wind), murmuring, whistling, soughing"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "颯と",
+        "reading": "さっと",
+        "meaning": "quickly (esp. actions), suddenly (esp. wind, rain, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "風",
+      "meaning": "wind"
+    },
+    "parts": [
+      "几",
+      "立",
+      "虫",
+      "風"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39087_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098af.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98af.gif",
+    "uri": "https://jisho.org/search/%E9%A2%AF%23kanji"
+  }
+}

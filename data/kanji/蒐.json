@@ -1,1 +1,50 @@
-{"id":"蒐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蒐","found":true,"strokeCount":13,"meaning":"gather","kunyomi":["あかね","あつ.まる","あつ.める"],"onyomi":["シュウ"],"onyomiExamples":[{"example":"集荷","reading":"シュウカ","meaning":"collection of cargo (esp. produce, etc.), cargo booking"},{"example":"収集","reading":"シュウシュウ","meaning":"collecting, accumulating, gathering, collection (of art, stamps, insects, etc.), garbage collection, waste collection"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["儿","匕","厶","田","艾","鬼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33936_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08490.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8490.gif","uri":"https://jisho.org/search/%E8%92%90%23kanji"}}
+{
+  "id": "蒐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蒐",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "gather",
+    "kunyomi": [
+      "あかね",
+      "あつ.まる",
+      "あつ.める"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "集荷",
+        "reading": "シュウカ",
+        "meaning": "collection of cargo (esp. produce, etc.), cargo booking"
+      },
+      {
+        "example": "収集",
+        "reading": "シュウシュウ",
+        "meaning": "collecting, accumulating, gathering, collection (of art, stamps, insects, etc.), garbage collection, waste collection"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "田",
+      "艾",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33936_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08490.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8490.gif",
+    "uri": "https://jisho.org/search/%E8%92%90%23kanji"
+  }
+}

@@ -1,1 +1,46 @@
-{"id":"蛭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蛭","found":true,"newspaperFrequencyRank":"2434","strokeCount":12,"meaning":"leech","kunyomi":["ひる"],"onyomi":["シツ","チツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蛭","reading":"ひる","meaning":"leech"},{"example":"恵比寿","reading":"えびす","meaning":"Ebisu, god of fishing and commerce"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["一","厶","土","至","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34541_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086ed.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86ed.gif","uri":"https://jisho.org/search/%E8%9B%AD%23kanji"}}
+{
+  "id": "蛭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛭",
+    "found": true,
+    "newspaperFrequencyRank": "2434",
+    "strokeCount": 12,
+    "meaning": "leech",
+    "kunyomi": [
+      "ひる"
+    ],
+    "onyomi": [
+      "シツ",
+      "チツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蛭",
+        "reading": "ひる",
+        "meaning": "leech"
+      },
+      {
+        "example": "恵比寿",
+        "reading": "えびす",
+        "meaning": "Ebisu, god of fishing and commerce"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "一",
+      "厶",
+      "土",
+      "至",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34541_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086ed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86ed.gif",
+    "uri": "https://jisho.org/search/%E8%9B%AD%23kanji"
+  }
+}

@@ -1,1 +1,67 @@
-{"id":"壕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壕","found":true,"newspaperFrequencyRank":"2273","strokeCount":17,"meaning":"trench, dugout, air raid shelter","kunyomi":["ほり"],"onyomi":["コウ","ゴウ"],"onyomiExamples":[{"example":"壕","reading":"ゴウ","meaning":"moat, fosse, trench, ditch, underground air-raid shelter, dugout"},{"example":"壕跡","reading":"ゴウアト","meaning":"remains of a dugout (usu. military)"},{"example":"防空壕","reading":"ボウクウゴウ","meaning":"air-raid shelter, bomb shelter"},{"example":"水濠","reading":"スイゴウ","meaning":"water jump (on a racetrack, etc.), moat (around a castle, etc.)"}],"kunyomiExamples":[{"example":"堀","reading":"ほり","meaning":"moat, fosse, canal, ditch"},{"example":"壕跡","reading":"ごうあと","meaning":"remains of a dugout (usu. military)"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["亠","冖","口","土","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22741_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058d5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58d5.gif","uri":"https://jisho.org/search/%E5%A3%95%23kanji"}}
+{
+  "id": "壕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壕",
+    "found": true,
+    "newspaperFrequencyRank": "2273",
+    "strokeCount": 17,
+    "meaning": "trench, dugout, air raid shelter",
+    "kunyomi": [
+      "ほり"
+    ],
+    "onyomi": [
+      "コウ",
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壕",
+        "reading": "ゴウ",
+        "meaning": "moat, fosse, trench, ditch, underground air-raid shelter, dugout"
+      },
+      {
+        "example": "壕跡",
+        "reading": "ゴウアト",
+        "meaning": "remains of a dugout (usu. military)"
+      },
+      {
+        "example": "防空壕",
+        "reading": "ボウクウゴウ",
+        "meaning": "air-raid shelter, bomb shelter"
+      },
+      {
+        "example": "水濠",
+        "reading": "スイゴウ",
+        "meaning": "water jump (on a racetrack, etc.), moat (around a castle, etc.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "堀",
+        "reading": "ほり",
+        "meaning": "moat, fosse, canal, ditch"
+      },
+      {
+        "example": "壕跡",
+        "reading": "ごうあと",
+        "meaning": "remains of a dugout (usu. military)"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "口",
+      "土",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22741_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058d5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58d5.gif",
+    "uri": "https://jisho.org/search/%E5%A3%95%23kanji"
+  }
+}

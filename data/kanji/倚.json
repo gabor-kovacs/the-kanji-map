@@ -1,1 +1,70 @@
-{"id":"倚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"倚","found":true,"strokeCount":10,"meaning":"lean on, rest against","kunyomi":["よ.る","たの.む"],"onyomi":["イ","キ"],"onyomiExamples":[{"example":"椅子","reading":"イス","meaning":"chair, stool, post, office, position"},{"example":"倚音","reading":"イオン","meaning":"appoggiatura"},{"example":"信倚","reading":"シンイ","meaning":"trust, faith, confidence"},{"example":"偏倚","reading":"ヘンイ","meaning":"deviation, bias"}],"kunyomiExamples":[{"example":"倚る","reading":"よる","meaning":"to lean on, to rest against"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["一","亅","化","口","大"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20506_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0501a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/501a.gif","uri":"https://jisho.org/search/%E5%80%9A%23kanji"}}
+{
+  "id": "倚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "倚",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "lean on, rest against",
+    "kunyomi": [
+      "よ.る",
+      "たの.む"
+    ],
+    "onyomi": [
+      "イ",
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "椅子",
+        "reading": "イス",
+        "meaning": "chair, seat, stool, bench, post, position, seat, office"
+      },
+      {
+        "example": "倚音",
+        "reading": "イオン",
+        "meaning": "appoggiatura"
+      },
+      {
+        "example": "信倚",
+        "reading": "シンイ",
+        "meaning": "trust, faith, confidence"
+      },
+      {
+        "example": "偏倚",
+        "reading": "ヘンイ",
+        "meaning": "deviation, bias"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寄る",
+        "reading": "よる",
+        "meaning": "to approach, to draw near, to come near, to be close to, to gather (in one place), to come together, to meet, to stop by (while on one's way to another place), to drop by, to make a short visit, to grow old, to grow high (number, etc.), to grow (wrinkly), to lean against, to recline on, to push one's opponent while holding their belt, to decide on a price and come to a deal, to be swayed by (a person), to yield to"
+      },
+      {
+        "example": "倚る",
+        "reading": "よる",
+        "meaning": "to lean on, to rest against"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "化",
+      "口",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20506_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0501a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/501a.gif",
+    "uri": "https://jisho.org/search/%E5%80%9A%23kanji"
+  }
+}

@@ -1,1 +1,75 @@
-{"id":"梱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梱","found":true,"strokeCount":11,"meaning":"pack, tie up, bale","kunyomi":["こう.る","こうり","こり","しきみ"],"onyomi":["コン"],"onyomiExamples":[{"example":"梱包","reading":"コンポウ","meaning":"packing, crating, packaging"},{"example":"梱包材","reading":"コンポウザイ","meaning":"packing material (boxes, insulation, shock resistance, etc.)"},{"example":"開梱","reading":"カイコン","meaning":"open (as of a pack)"},{"example":"同梱","reading":"ドウコン","meaning":"including (in a package), packing together with"}],"kunyomiExamples":[{"example":"梱る","reading":"こうる","meaning":"to pack, to box, to package"},{"example":"行李","reading":"こうり","meaning":"wicker trunk, wicker luggage"},{"example":"元梱","reading":"もとこん","meaning":"original packaging (e.g. box holding several cartons, each with individually packaged products)"},{"example":"梱","reading":"こり","meaning":"wrapped package, bale, wicker trunk, wicker luggage"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["囗","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26801_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b1.gif","uri":"https://jisho.org/search/%E6%A2%B1%23kanji"}}
+{
+  "id": "梱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梱",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "pack, tie up, bale",
+    "kunyomi": [
+      "こう.る",
+      "こうり",
+      "こり",
+      "しきみ"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梱包",
+        "reading": "コンポウ",
+        "meaning": "packing, crating, packaging"
+      },
+      {
+        "example": "梱包材",
+        "reading": "コンポウザイ",
+        "meaning": "packing material (boxes, insulation, shock resistance, etc.)"
+      },
+      {
+        "example": "開梱",
+        "reading": "カイコン",
+        "meaning": "open (as of a pack)"
+      },
+      {
+        "example": "同梱",
+        "reading": "ドウコン",
+        "meaning": "including (in a package), packing together with"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梱る",
+        "reading": "こうる",
+        "meaning": "to pack, to box, to package"
+      },
+      {
+        "example": "行李",
+        "reading": "こうり",
+        "meaning": "wicker trunk, wicker luggage"
+      },
+      {
+        "example": "元梱",
+        "reading": "もとこん",
+        "meaning": "original packaging (e.g. box holding several cartons, each with individually packaged products)"
+      },
+      {
+        "example": "梱",
+        "reading": "こり",
+        "meaning": "wrapped package, bale, wicker trunk, wicker luggage"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "囗",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26801_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b1.gif",
+    "uri": "https://jisho.org/search/%E6%A2%B1%23kanji"
+  }
+}

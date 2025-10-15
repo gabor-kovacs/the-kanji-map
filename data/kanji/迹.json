@@ -1,1 +1,66 @@
-{"id":"迹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"迹","found":true,"strokeCount":10,"meaning":"mark, print, impression","kunyomi":["あと"],"onyomi":["セキ","シャク"],"onyomiExamples":[{"example":"事跡","reading":"ジセキ","meaning":"evidence, trace, vestige"},{"example":"真跡","reading":"シンセキ","meaning":"true autograph"},{"example":"迹門","reading":"シャクモン","meaning":"first half of the Lotus Sutra, in which the Buddha appears as a spatiotemporally restricted being"},{"example":"垂迹","reading":"スイジャク","meaning":"temporary manifestation by a buddha (in order to save people), manifested form (often a Shinto deity)"}],"kunyomiExamples":[{"example":"跡","reading":"あと","meaning":"trace, tracks, mark, sign, site, remains, ruins, scar"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["ハ","亅","亠","赤","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36857_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ff9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ff9.gif","uri":"https://jisho.org/search/%E8%BF%B9%23kanji"}}
+{
+  "id": "迹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "迹",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "mark, print, impression",
+    "kunyomi": [
+      "あと"
+    ],
+    "onyomi": [
+      "セキ",
+      "シャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "名所旧跡",
+        "reading": "メイショキュウセキ",
+        "meaning": "places of scenic beauty and historical interest"
+      },
+      {
+        "example": "古跡",
+        "reading": "コセキ",
+        "meaning": "historic spot, historic site, place of historical interest, historic remains, ruins"
+      },
+      {
+        "example": "迹門",
+        "reading": "シャクモン",
+        "meaning": "first half of the Lotus Sutra, in which the Buddha appears as a spatiotemporally restricted being"
+      },
+      {
+        "example": "垂迹",
+        "reading": "スイジャク",
+        "meaning": "manifested form (of a Buddha or Shinto deity to save people), temporary manifestation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "跡",
+        "reading": "あと",
+        "meaning": "trace, tracks, mark, sign, site, remains, ruins, scar"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "ハ",
+      "亅",
+      "亠",
+      "赤",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36857_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ff9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ff9.gif",
+    "uri": "https://jisho.org/search/%E8%BF%B9%23kanji"
+  }
+}

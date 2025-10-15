@@ -1,1 +1,63 @@
-{"id":"藝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"藝","found":true,"newspaperFrequencyRank":"2065","strokeCount":18,"meaning":"art, craft, performance, acting, trick, stunt","kunyomi":["う.える","のり","わざ"],"onyomi":["ゲイ","ウン"],"onyomiExamples":[{"example":"芸","reading":"ゲイ","meaning":"art, craft, accomplishment, artistic skill, technique, performance"},{"example":"芸者","reading":"ゲイシャ","meaning":"geisha, professional female entertainer, usu. at traditional banquets"},{"example":"文芸","reading":"ブンゲイ","meaning":"literature, the arts, art and literature, liberal arts"},{"example":"射芸","reading":"シャゲイ","meaning":"archery"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["丶","九","二","儿","厶","土","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34269_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085dd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85dd.gif","uri":"https://jisho.org/search/%E8%97%9D%23kanji"}}
+{
+  "id": "藝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藝",
+    "found": true,
+    "newspaperFrequencyRank": "2065",
+    "strokeCount": 18,
+    "meaning": "art, craft, performance, acting, trick, stunt",
+    "kunyomi": [
+      "う.える",
+      "のり",
+      "わざ"
+    ],
+    "onyomi": [
+      "ゲイ",
+      "ウン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芸",
+        "reading": "ゲイ",
+        "meaning": "art, craft, accomplishment, artistic skill, technique, performance"
+      },
+      {
+        "example": "芸者",
+        "reading": "ゲイシャ",
+        "meaning": "geisha, professional female entertainer, usu. at traditional banquets"
+      },
+      {
+        "example": "文芸",
+        "reading": "ブンゲイ",
+        "meaning": "literature, the arts, art and literature, liberal arts"
+      },
+      {
+        "example": "射芸",
+        "reading": "シャゲイ",
+        "meaning": "archery"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "丶",
+      "九",
+      "二",
+      "儿",
+      "厶",
+      "土",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34269_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085dd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85dd.gif",
+    "uri": "https://jisho.org/search/%E8%97%9D%23kanji"
+  }
+}

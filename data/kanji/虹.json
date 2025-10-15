@@ -1,1 +1,75 @@
-{"id":"虹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"虹","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2110","strokeCount":9,"meaning":"rainbow","kunyomi":["にじ"],"onyomi":["コウ"],"onyomiExamples":[{"example":"虹霓","reading":"コウゲイ","meaning":"rainbow"},{"example":"虹彩","reading":"コウサイ","meaning":"iris (of the eye)"},{"example":"副虹","reading":"フクニジ","meaning":"secondary rainbow"},{"example":"月虹","reading":"ゲッコウ","meaning":"moonbow, lunar rainbow, whitish rainbow cast by moonlight, lunar bow, space rainbow"}],"kunyomiExamples":[{"example":"虹","reading":"にじ","meaning":"rainbow"},{"example":"虹色","reading":"にじいろ","meaning":"rainbow-colored, rainbow-coloured"},{"example":"夕虹","reading":"ゆうにじ","meaning":"evening rainbow"},{"example":"過剰虹","reading":"かじょうにじ","meaning":"supernumerary rainbow"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["工","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34425_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08679.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8679.gif","uri":"https://jisho.org/search/%E8%99%B9%23kanji"}}
+{
+  "id": "虹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虹",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2110",
+    "strokeCount": 9,
+    "meaning": "rainbow",
+    "kunyomi": [
+      "にじ"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虹技",
+        "reading": "コウギ",
+        "meaning": "Kogi Corporation"
+      },
+      {
+        "example": "虹霓",
+        "reading": "コウゲイ",
+        "meaning": "rainbow"
+      },
+      {
+        "example": "副虹",
+        "reading": "フクニジ",
+        "meaning": "secondary rainbow"
+      },
+      {
+        "example": "月虹",
+        "reading": "ゲッコウ",
+        "meaning": "moonbow, lunar rainbow, whitish rainbow cast by moonlight, lunar bow, space rainbow"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虹",
+        "reading": "にじ",
+        "meaning": "rainbow"
+      },
+      {
+        "example": "二次",
+        "reading": "にじ",
+        "meaning": "second, secondary, quadratic (function, equation, etc.), second-order, fictional (in relation to anime, manga, etc.), drawn, two-dimensional"
+      },
+      {
+        "example": "夕虹",
+        "reading": "ゆうにじ",
+        "meaning": "evening rainbow"
+      },
+      {
+        "example": "過剰虹",
+        "reading": "かじょうにじ",
+        "meaning": "supernumerary rainbow"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "工",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34425_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08679.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8679.gif",
+    "uri": "https://jisho.org/search/%E8%99%B9%23kanji"
+  }
+}

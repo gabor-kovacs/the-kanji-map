@@ -1,1 +1,43 @@
-{"id":"餉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"餉","found":true,"strokeCount":15,"meaning":"(dried) boiled rice","kunyomi":["け","かれい","かれい.い","べんとう"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"仏餉","reading":"ブッショウ","meaning":"rice offered to Buddha"}],"kunyomiExamples":[],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":["冂","口","食"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39177_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09909.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9909.gif","uri":"https://jisho.org/search/%E9%A4%89%23kanji"}}
+{
+  "id": "餉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "餉",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "(dried) boiled rice",
+    "kunyomi": [
+      "け",
+      "かれい",
+      "かれい.い",
+      "べんとう"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "仏餉",
+        "reading": "ブッショウ",
+        "meaning": "rice offered to Buddha"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [
+      "冂",
+      "口",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39177_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09909.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9909.gif",
+    "uri": "https://jisho.org/search/%E9%A4%89%23kanji"
+  }
+}

@@ -1,1 +1,44 @@
-{"id":"蟇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蟇","found":true,"strokeCount":16,"meaning":"toad","kunyomi":["ひき"],"onyomi":["バ","マ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蟇","reading":"ひきがえる","meaning":"toad (esp. the Japanese toad, Bufo japonicus)"},{"example":"蟇目","reading":"ひきめ","meaning":"large, perforated, turnip-shaped arrowhead cover made of Japanese bigleaf magnolia or paulownia, harmless arrow affixed with such a cover (that whistles when shot and is used to drive off evil spirits)"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["大","日","艾","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34759_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c7.gif","uri":"https://jisho.org/search/%E8%9F%87%23kanji"}}
+{
+  "id": "蟇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟇",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "toad",
+    "kunyomi": [
+      "ひき"
+    ],
+    "onyomi": [
+      "バ",
+      "マ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蟇",
+        "reading": "ひきがえる",
+        "meaning": "toad (esp. the Japanese toad, Bufo japonicus)"
+      },
+      {
+        "example": "蟇目",
+        "reading": "ひきめ",
+        "meaning": "large, perforated, turnip-shaped arrowhead cover made of Japanese bigleaf magnolia or paulownia, harmless arrow affixed with such a cover (that whistles when shot and is used to drive off evil spirits)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "大",
+      "日",
+      "艾",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34759_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c7.gif",
+    "uri": "https://jisho.org/search/%E8%9F%87%23kanji"
+  }
+}

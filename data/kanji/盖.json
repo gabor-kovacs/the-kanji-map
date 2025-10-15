@@ -1,1 +1,38 @@
-{"id":"盖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"盖","found":true,"strokeCount":11,"meaning":"cover, lid, flap","kunyomi":["ふた","けだ.し","おお.う","かさ","かこう"],"onyomi":["ガイ","カイ","コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"皿","meaning":"dish"},"parts":["并","王","皿","羊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30422_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076d6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76d6.gif","uri":"https://jisho.org/search/%E7%9B%96%23kanji"}}
+{
+  "id": "盖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "盖",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "cover, lid, flap",
+    "kunyomi": [
+      "ふた",
+      "けだ.し",
+      "おお.う",
+      "かさ",
+      "かこう"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ",
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "皿",
+      "meaning": "dish"
+    },
+    "parts": [
+      "并",
+      "王",
+      "皿",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30422_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076d6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76d6.gif",
+    "uri": "https://jisho.org/search/%E7%9B%96%23kanji"
+  }
+}

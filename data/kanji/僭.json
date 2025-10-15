@@ -1,1 +1,54 @@
-{"id":"僭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"僭","found":true,"strokeCount":14,"meaning":"boastfully usurp","kunyomi":["せん.する","おご.る"],"onyomi":["シン","セン"],"onyomiExamples":[{"example":"僭位","reading":"センイ","meaning":"usurpation of a throne"},{"example":"僭越","reading":"センエツ","meaning":"presumptuous, arrogant, audacious, forward, insolent"}],"kunyomiExamples":[{"example":"僭する","reading":"せんする","meaning":"to usurp boastfully"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["亠","化","无","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20717_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ed.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ed.gif","uri":"https://jisho.org/search/%E5%83%AD%23kanji"}}
+{
+  "id": "僭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "僭",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "boastfully usurp",
+    "kunyomi": [
+      "せん.する",
+      "おご.る"
+    ],
+    "onyomi": [
+      "シン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "僭位",
+        "reading": "センイ",
+        "meaning": "usurpation of a throne"
+      },
+      {
+        "example": "僭越",
+        "reading": "センエツ",
+        "meaning": "presumptuous, arrogant, audacious, forward, insolent"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "僭する",
+        "reading": "せんする",
+        "meaning": "to usurp boastfully"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "亠",
+      "化",
+      "无",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20717_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ed.gif",
+    "uri": "https://jisho.org/search/%E5%83%AD%23kanji"
+  }
+}

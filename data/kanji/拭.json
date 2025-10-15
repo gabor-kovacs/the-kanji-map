@@ -1,1 +1,75 @@
-{"id":"拭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"拭","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2421","strokeCount":9,"meaning":"wipe, mop, swab","kunyomi":["ぬぐ.う","ふ.く"],"onyomi":["ショク","シキ"],"onyomiExamples":[{"example":"拭浄","reading":"ショクジョウ","meaning":"wiping and purifying, wiping and cleansing"},{"example":"払拭","reading":"フッショク","meaning":"wiping out, sweeping away, eradicating, dispelling"},{"example":"清拭","reading":"セイシキ","meaning":"bed bath, sponge bath, blanket bath, toilet"},{"example":"払拭","reading":"フッショク","meaning":"wiping out, sweeping away, eradicating, dispelling"},{"example":"清拭","reading":"セイシキ","meaning":"bed bath, sponge bath, blanket bath, toilet"}],"kunyomiExamples":[{"example":"拭う","reading":"ぬぐう","meaning":"to wipe, to mop up, to get rid of (an impression, feeling, blemish, etc.), to dispel (e.g. shame), to erase, to remove"},{"example":"拭く","reading":"ふく","meaning":"to wipe, to dry"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["工","弋","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25325_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ed.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ed.gif","uri":"https://jisho.org/search/%E6%8B%AD%23kanji"}}
+{
+  "id": "拭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拭",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2421",
+    "strokeCount": 9,
+    "meaning": "wipe, mop, swab",
+    "kunyomi": [
+      "ぬぐ.う",
+      "ふ.く"
+    ],
+    "onyomi": [
+      "ショク",
+      "シキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拭浄",
+        "reading": "ショクジョウ",
+        "meaning": "wiping and purifying, wiping and cleansing"
+      },
+      {
+        "example": "払拭",
+        "reading": "フッショク",
+        "meaning": "wiping out, sweeping away, eradicating, dispelling"
+      },
+      {
+        "example": "清拭",
+        "reading": "セイシキ",
+        "meaning": "bed bath, sponge bath, blanket bath, toilet"
+      },
+      {
+        "example": "払拭",
+        "reading": "フッショク",
+        "meaning": "wiping out, sweeping away, eradicating, dispelling"
+      },
+      {
+        "example": "清拭",
+        "reading": "セイシキ",
+        "meaning": "bed bath, sponge bath, blanket bath, toilet"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "拭う",
+        "reading": "ぬぐう",
+        "meaning": "to wipe, to mop up, to get rid of (an impression, feeling, blemish, etc.), to dispel (e.g. shame), to erase, to remove"
+      },
+      {
+        "example": "拭く",
+        "reading": "ふく",
+        "meaning": "to wipe, to dry"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "工",
+      "弋",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25325_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ed.gif",
+    "uri": "https://jisho.org/search/%E6%8B%AD%23kanji"
+  }
+}

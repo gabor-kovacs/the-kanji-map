@@ -1,1 +1,266 @@
-{"id":"陛","kanjialiveData":{"kanji":{"character":"陛","meaning":{"english":"imperial palace steps"},"strokes":{"count":10,"timings":[0,1.533333,2.666667,4.733333,7.333333,10.666667,11.8,14.2,16.666667,18.6,20.666667],"images":["https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_1.svg","https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_2.svg","https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_3.svg","https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_4.svg","https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_5.svg","https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_6.svg","https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_7.svg","https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_8.svg","https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_9.svg","https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_10.svg"]},"onyomi":{"romaji":"hei","katakana":"ヘイ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(tennou)hei(ka)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(tennou)hei(ka)_00.webm"}},"radical":{"character":"⻖","strokes":3,"image":"https://media.kanjialive.com/radical_character/kozatohen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"こざとへん","romaji":"kozatohen"},"meaning":{"english":"hill, mound"},"animation":["https://media.kanjialive.com/rad_frames/kozatohen0.svg","https://media.kanjialive.com/rad_frames/kozatohen1.svg","https://media.kanjialive.com/rad_frames/kozatohen2.svg"]},"references":{"grade":6,"kodansha":"330","classic_nelson":"4988"},"examples":[{"japanese":"陛下（へいか）","meaning":{"english":"your Majesty"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(tennou)hei(ka)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(tennou)hei(ka)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(tennou)hei(ka)_06_a.mp3"}},{"japanese":"天皇陛下（てんのうへいか）","meaning":{"english":"His Majesty the Emperor"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(tennou)hei(ka)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(tennou)hei(ka)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(tennou)hei(ka)_06_b.mp3"}},{"japanese":"皇后陛下（こうごうへいか）","meaning":{"english":"Her majesty the Empress"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(tennou)hei(ka)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(tennou)hei(ka)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(tennou)hei(ka)_06_c.mp3"}},{"japanese":"国王陛下（こくおうへいか）","meaning":{"english":"His Majesty the King"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(tennou)hei(ka)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(tennou)hei(ka)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(tennou)hei(ka)_06_d.mp3"}},{"japanese":"女王陛下（じょおうへいか）","meaning":{"english":"Her Majesty the Queen"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(tennou)hei(ka)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(tennou)hei(ka)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(tennou)hei(ka)_06_e.mp3"}}]},"jishoData":{"query":"陛","found":true,"taughtIn":"grade 6","jlptLevel":"N1","newspaperFrequencyRank":"1429","strokeCount":10,"meaning":"highness, steps (of throne)","kunyomi":[],"onyomi":["ヘイ"],"onyomiExamples":[{"example":"陛下","reading":"ヘイカ","meaning":"Your Majesty, His Majesty, Her Majesty"},{"example":"陛衛","reading":"ヘイエイ","meaning":"Imperial guard"}],"kunyomiExamples":[],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["土","比","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38491_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0965b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/965b.gif","uri":"https://jisho.org/search/%E9%99%9B%23kanji"}}
+{
+  "id": "陛",
+  "kanjialiveData": {
+    "_id": "54317ad7791eba5146ee4895",
+    "_rev": "9-e42ead8e8afc7191c2fe6a5b7fe3d278",
+    "rad_name_ja": "こざとへん",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "imperial palace steps",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "陛下（へいか）",
+        "meaning": {
+          "english": "your Majesty"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(tennou)hei(ka)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(tennou)hei(ka)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(tennou)hei(ka)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "天皇陛下（てんのうへいか）",
+        "meaning": {
+          "english": "His Majesty the Emperor"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(tennou)hei(ka)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(tennou)hei(ka)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(tennou)hei(ka)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "皇后陛下（こうごうへいか）",
+        "meaning": {
+          "english": "Her majesty the Empress"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(tennou)hei(ka)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(tennou)hei(ka)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(tennou)hei(ka)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "国王陛下（こくおうへいか）",
+        "meaning": {
+          "english": "His Majesty the King"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(tennou)hei(ka)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(tennou)hei(ka)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(tennou)hei(ka)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "女王陛下（じょおうへいか）",
+        "meaning": {
+          "english": "Her Majesty the Queen"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tennou)hei(ka)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(tennou)hei(ka)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(tennou)hei(ka)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(tennou)hei(ka)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "陛",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=陛",
+    "rad_name_search": [
+      "kozatohen"
+    ],
+    "rad_order": 74,
+    "txt_books": [],
+    "kname": "(tennou)hei(ka)",
+    "rad_utf": "⻖",
+    "stroketimes": [
+      0,
+      1.533333,
+      2.666667,
+      4.733333,
+      7.333333,
+      10.666667,
+      11.8,
+      14.2,
+      16.666667,
+      18.6,
+      20.666667
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "330",
+    "rad_name": "kozatohen",
+    "dicn": "4988",
+    "mn_hint": "Slope 阝 with old 比 councilmen on the ground 土.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ヘイ",
+    "rad_meaning": "hill, mound",
+    "onyomi": "hei",
+    "ka_id": "ka_1110",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "hei",
+      "hei"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "imperial palace steps",
+      "imperial",
+      "palace",
+      "steps",
+      "imperial palace steps"
+    ],
+    "onyomi_ja_search": [
+      "ヘイ",
+      "ヘイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "hill",
+      "mound",
+      "hill, mound"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "こざとへん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "kozatohen",
+    "kanji": {
+      "character": "陛",
+      "meaning": {
+        "english": "imperial palace steps"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          1.533333,
+          2.666667,
+          4.733333,
+          7.333333,
+          10.666667,
+          11.8,
+          14.2,
+          16.666667,
+          18.6,
+          20.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "hei",
+        "katakana": "ヘイ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(tennou)hei(ka)_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(tennou)hei(ka)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(tennou)hei(ka)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⻖",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kozatohen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "こざとへん",
+        "romaji": "kozatohen"
+      },
+      "meaning": {
+        "english": "hill, mound"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
+        "https://media.kanjialive.com/rad_frames/kozatohen1.svg",
+        "https://media.kanjialive.com/rad_frames/kozatohen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "330",
+      "classic_nelson": "4988"
+    }
+  },
+  "jishoData": {
+    "query": "陛",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1429",
+    "strokeCount": 10,
+    "meaning": "highness, steps (of throne)",
+    "kunyomi": [],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陛下",
+        "reading": "ヘイカ",
+        "meaning": "Your Majesty, His Majesty, Her Majesty"
+      },
+      {
+        "example": "陛衛",
+        "reading": "ヘイエイ",
+        "meaning": "Imperial guard"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "土",
+      "比",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38491_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0965b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/965b.gif",
+    "uri": "https://jisho.org/search/%E9%99%9B%23kanji"
+  }
+}

@@ -1,1 +1,53 @@
-{"id":"鎚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鎚","found":true,"strokeCount":17,"meaning":"hammer, mallet","kunyomi":["つち"],"onyomi":["ツイ","タイ"],"onyomiExamples":[{"example":"鉄槌","reading":"テッツイ","meaning":"iron hammer, crushing blow"}],"kunyomiExamples":[{"example":"槌目","reading":"つちめ","meaning":"hammered mark, hammered pattern"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["口","込","金","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37786_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0939a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/939a.gif","uri":"https://jisho.org/search/%E9%8E%9A%23kanji"}}
+{
+  "id": "鎚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鎚",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "hammer, mallet",
+    "kunyomi": [
+      "つち"
+    ],
+    "onyomi": [
+      "ツイ",
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鉄槌",
+        "reading": "テッツイ",
+        "meaning": "iron hammer, crushing blow"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "槌",
+        "reading": "つち",
+        "meaning": "hammer, mallet, sledgehammer, gavel"
+      },
+      {
+        "example": "鎚矛",
+        "reading": "つちほこ",
+        "meaning": "mace"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "口",
+      "込",
+      "金",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37786_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0939a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/939a.gif",
+    "uri": "https://jisho.org/search/%E9%8E%9A%23kanji"
+  }
+}

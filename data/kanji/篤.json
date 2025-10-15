@@ -1,1 +1,65 @@
-{"id":"篤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"篤","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1942","strokeCount":16,"meaning":"fervent, kind, cordial, serious, deliberate","kunyomi":["あつ.い"],"onyomi":["トク"],"onyomiExamples":[{"example":"篤志家","reading":"トクシカ","meaning":"charitable person, philanthropist, volunteer, supporter"},{"example":"篤学","reading":"トクガク","meaning":"love of learning"},{"example":"重篤","reading":"ジュウトク","meaning":"critical (condition), serious"},{"example":"懇篤","reading":"コントク","meaning":"cordial, kind"}],"kunyomiExamples":[{"example":"厚い","reading":"あつい","meaning":"thick, deep, heavy, kind, cordial, hospitable, warm, faithful, serious (of an illness), abundant"}],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","杰","竹","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31716_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07be4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7be4.gif","uri":"https://jisho.org/search/%E7%AF%A4%23kanji"}}
+{
+  "id": "篤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "篤",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1942",
+    "strokeCount": 16,
+    "meaning": "fervent, kind, cordial, serious, deliberate",
+    "kunyomi": [
+      "あつ.い"
+    ],
+    "onyomi": [
+      "トク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "篤志家",
+        "reading": "トクシカ",
+        "meaning": "charitable person, philanthropist, volunteer, supporter"
+      },
+      {
+        "example": "篤学",
+        "reading": "トクガク",
+        "meaning": "love of learning"
+      },
+      {
+        "example": "重篤",
+        "reading": "ジュウトク",
+        "meaning": "critical (condition), serious"
+      },
+      {
+        "example": "懇篤",
+        "reading": "コントク",
+        "meaning": "cordial, kind, warm, genial"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "厚い",
+        "reading": "あつい",
+        "meaning": "thick, deep, heavy, kind, cordial, hospitable, warm, faithful, serious (of an illness), abundant"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "杰",
+      "竹",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31716_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07be4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7be4.gif",
+    "uri": "https://jisho.org/search/%E7%AF%A4%23kanji"
+  }
+}

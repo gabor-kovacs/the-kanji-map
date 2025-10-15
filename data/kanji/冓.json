@@ -1,1 +1,33 @@
-{"id":"冓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冓","found":true,"strokeCount":10,"meaning":"put together, inner palace","kunyomi":["かま.える"],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"冂","meaning":"open country"},"parts":["一","二","冂","十","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20883_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05193.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5193.gif","uri":"https://jisho.org/search/%E5%86%93%23kanji"}}
+{
+  "id": "冓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冓",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "put together, inner palace",
+    "kunyomi": [
+      "かま.える"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冂",
+      "meaning": "open country"
+    },
+    "parts": [
+      "一",
+      "二",
+      "冂",
+      "十",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20883_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05193.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5193.gif",
+    "uri": "https://jisho.org/search/%E5%86%93%23kanji"
+  }
+}

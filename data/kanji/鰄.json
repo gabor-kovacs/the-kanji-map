@@ -1,1 +1,40 @@
-{"id":"鰄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鰄","found":true,"strokeCount":20,"meaning":"a type of fish","kunyomi":["かいらぎ"],"onyomi":["イ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鰄","reading":"かいらぎ","meaning":"fish skin with a granular texture, esp. shark and stingray, rough ceramic glaze (like sharkskin), rough enamel"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["ノ","女","戈","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39940_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c04.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c04.gif","uri":"https://jisho.org/search/%E9%B0%84%23kanji"}}
+{
+  "id": "鰄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰄",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "a type of fish",
+    "kunyomi": [
+      "かいらぎ"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鰄",
+        "reading": "かいらぎ",
+        "meaning": "fish skin with a granular texture, esp. shark and stingray, rough ceramic glaze (like sharkskin), rough enamel"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "ノ",
+      "女",
+      "戈",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39940_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c04.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c04.gif",
+    "uri": "https://jisho.org/search/%E9%B0%84%23kanji"
+  }
+}

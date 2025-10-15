@@ -1,1 +1,55 @@
-{"id":"餓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"餓","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1754","strokeCount":15,"meaning":"starve, hungry, thirst","kunyomi":["う.える"],"onyomi":["ガ"],"onyomiExamples":[{"example":"餓死","reading":"ガシ","meaning":"(death from) starvation, starving to death"},{"example":"餓鬼","reading":"ガキ","meaning":"brat, kid, urchin, little devil, preta, hungry ghost"}],"kunyomiExamples":[{"example":"飢える","reading":"うえる","meaning":"to starve, to be famished, to be hungry, to be starved of (e.g. love), to be thirsty for (e.g. knowledge), to be hungry for"}],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":["亅","戈","手","食"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39187_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09913.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9913.gif","uri":"https://jisho.org/search/%E9%A4%93%23kanji"}}
+{
+  "id": "餓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "餓",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1754",
+    "strokeCount": 15,
+    "meaning": "starve, hungry, thirst",
+    "kunyomi": [
+      "う.える"
+    ],
+    "onyomi": [
+      "ガ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "餓死",
+        "reading": "ガシ",
+        "meaning": "(death from) starvation, starving to death"
+      },
+      {
+        "example": "餓鬼",
+        "reading": "ガキ",
+        "meaning": "brat, kid, urchin, little devil, preta, hungry ghost"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "飢える",
+        "reading": "うえる",
+        "meaning": "to starve, to be famished, to be hungry, to be starved of (e.g. love), to be thirsty for (e.g. knowledge), to be hungry for"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [
+      "亅",
+      "戈",
+      "手",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39187_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09913.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9913.gif",
+    "uri": "https://jisho.org/search/%E9%A4%93%23kanji"
+  }
+}

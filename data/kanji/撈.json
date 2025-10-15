@@ -1,1 +1,40 @@
-{"id":"撈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"撈","found":true,"strokeCount":15,"meaning":"catch fish","kunyomi":[],"onyomi":["ロウ","リョウ"],"onyomiExamples":[{"example":"漁労","reading":"ギョロウ","meaning":"fishing, fishery"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["冖","力","扎","火"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25736_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06488.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6488.gif","uri":"https://jisho.org/search/%E6%92%88%23kanji"}}
+{
+  "id": "撈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撈",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "catch fish",
+    "kunyomi": [],
+    "onyomi": [
+      "ロウ",
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "漁労",
+        "reading": "ギョロウ",
+        "meaning": "fishing, fishery"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "冖",
+      "力",
+      "扎",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25736_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06488.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6488.gif",
+    "uri": "https://jisho.org/search/%E6%92%88%23kanji"
+  }
+}

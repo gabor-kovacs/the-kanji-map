@@ -1,1 +1,308 @@
-{"id":"誰","kanjialiveData":{"kanji":{"character":"誰","meaning":{"english":"who, someone"},"strokes":{"count":15,"timings":[0,1.266,2.132,2.933,3.667,4.599,5.666,6.4,7.333,8.333,9.133,9.866,10.666,11.533,12.399,13.333333],"images":["https://media.kanjialive.com/kanji_strokes/dare_1.svg","https://media.kanjialive.com/kanji_strokes/dare_2.svg","https://media.kanjialive.com/kanji_strokes/dare_3.svg","https://media.kanjialive.com/kanji_strokes/dare_4.svg","https://media.kanjialive.com/kanji_strokes/dare_5.svg","https://media.kanjialive.com/kanji_strokes/dare_6.svg","https://media.kanjialive.com/kanji_strokes/dare_7.svg","https://media.kanjialive.com/kanji_strokes/dare_8.svg","https://media.kanjialive.com/kanji_strokes/dare_9.svg","https://media.kanjialive.com/kanji_strokes/dare_10.svg","https://media.kanjialive.com/kanji_strokes/dare_11.svg","https://media.kanjialive.com/kanji_strokes/dare_12.svg","https://media.kanjialive.com/kanji_strokes/dare_13.svg","https://media.kanjialive.com/kanji_strokes/dare_14.svg","https://media.kanjialive.com/kanji_strokes/dare_15.svg"]},"onyomi":{"romaji":"sui","katakana":"スイ"},"kunyomi":{"romaji":"dare","hiragana":"だれ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/dare_15.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/dare_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/dare_00.webm"}},"radical":{"character":"","strokes":7,"image":"https://media.kanjialive.com/radical_character/gonben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"ごんべん","romaji":"gonben"},"meaning":{"english":"words, to speak, say"},"animation":["https://media.kanjialive.com/rad_frames/gonben0.svg","https://media.kanjialive.com/rad_frames/gonben1.svg","https://media.kanjialive.com/rad_frames/gonben2.svg"]},"references":{"grade":null,"kodansha":"n/a","classic_nelson":"4384"},"examples":[{"japanese":"誰何（すいか）","meaning":{"english":"asking a person's identity"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/dare_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/dare_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/dare_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/dare_06_a.mp3"}},{"japanese":"誰（だれ）","meaning":{"english":"who"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/dare_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/dare_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/dare_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/dare_06_b.mp3"}}]},"jishoData":{"query":"誰","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"1933","strokeCount":15,"meaning":"who, someone, somebody","kunyomi":["だれ","たれ","た"],"onyomi":["スイ"],"onyomiExamples":[{"example":"誰何","reading":"スイカ","meaning":"challenging (an unknown person), asking a person's identity"}],"kunyomiExamples":[{"example":"誰","reading":"だれ","meaning":"who"},{"example":"誰か","reading":"だれか","meaning":"someone, somebody"},{"example":"どこの誰","reading":"どこのだれ","meaning":"who the heck, just who"},{"example":"誰々","reading":"だれだれ","meaning":"so-and-so, who?, which people?"},{"example":"誰","reading":"だれ","meaning":"who"},{"example":"誰彼","reading":"だれかれ","meaning":"this or that person, anybody, many people"},{"example":"誰","reading":"だれ","meaning":"who"},{"example":"誰が為に","reading":"たがために","meaning":"for whom"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["言","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35504_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ab0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ab0.gif","uri":"https://jisho.org/search/%E8%AA%B0%23kanji"}}
+{
+  "id": "誰",
+  "kanjialiveData": {
+    "_id": "54317ae7791eba5146ee49b0",
+    "_rev": "12-7f05a5bd2426d0a7fed4edb32ebd9be5",
+    "rad_name_ja": "ごんべん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "dare",
+    "meaning": "who, someone",
+    "kstroke": 15,
+    "examples": [
+      {
+        "japanese": "誰何（すいか）",
+        "meaning": {
+          "english": "asking a person's identity"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dare_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/dare_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/dare_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/dare_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "誰（だれ）",
+        "meaning": {
+          "english": "who"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dare_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/dare_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/dare_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/dare_06_b.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "だれ",
+    "ka_utf": "誰",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=誰",
+    "kname": "dare",
+    "rad_order": 183,
+    "txt_books": [
+      {
+        "chapter": "24",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "15"
+      }
+    ],
+    "rad_name_search": [
+      "gonben"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.266,
+      2.132,
+      2.933,
+      3.667,
+      4.599,
+      5.666,
+      6.4,
+      7.333,
+      8.333,
+      9.133,
+      9.866,
+      10.666,
+      11.533,
+      12.399,
+      13.333333
+    ],
+    "kunyomi_ka_display": "だれ",
+    "dick": "n/a",
+    "rad_name": "gonben",
+    "dicn": "4384",
+    "mn_hint": "Who named 言 this bird 隹？.",
+    "rad_stroke": 7,
+    "onyomi_ja": "スイ",
+    "rad_meaning": "words, to speak, say",
+    "onyomi": "sui",
+    "ka_id": "ka_254",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "sui",
+      "sui"
+    ],
+    "kunyomi_search": [
+      "dare",
+      "dare"
+    ],
+    "meaning_search": [
+      "who",
+      "someone",
+      "who, someone"
+    ],
+    "onyomi_ja_search": [
+      "スイ",
+      "スイ"
+    ],
+    "kunyomi_ja_search": [
+      "だれ",
+      "だれ"
+    ],
+    "rad_meaning_search": [
+      "words",
+      "to speak",
+      "to",
+      "speak",
+      "say",
+      "words, to speak, say"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ごんべん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:24",
+      "cij:c24",
+      "jtr",
+      "jtr:2",
+      "jtr:c2",
+      "cijr",
+      "cijr:15",
+      "cijr:c15"
+    ],
+    "rad_name_file": "gonben",
+    "kanji": {
+      "character": "誰",
+      "meaning": {
+        "english": "who, someone"
+      },
+      "strokes": {
+        "count": 15,
+        "timings": [
+          0,
+          1.266,
+          2.132,
+          2.933,
+          3.667,
+          4.599,
+          5.666,
+          6.4,
+          7.333,
+          8.333,
+          9.133,
+          9.866,
+          10.666,
+          11.533,
+          12.399,
+          13.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/dare_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_14.svg",
+          "https://media.kanjialive.com/kanji_strokes/dare_15.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sui",
+        "katakana": "スイ"
+      },
+      "kunyomi": {
+        "romaji": "dare",
+        "hiragana": "だれ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/dare_15.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/dare_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/dare_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/gonben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ごんべん",
+        "romaji": "gonben"
+      },
+      "meaning": {
+        "english": "words, to speak, say"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gonben0.svg",
+        "https://media.kanjialive.com/rad_frames/gonben1.svg",
+        "https://media.kanjialive.com/rad_frames/gonben2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "n/a",
+      "classic_nelson": "4384"
+    }
+  },
+  "jishoData": {
+    "query": "誰",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "1933",
+    "strokeCount": 15,
+    "meaning": "who, someone, somebody",
+    "kunyomi": [
+      "だれ",
+      "たれ",
+      "た"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "誰何",
+        "reading": "スイカ",
+        "meaning": "challenging (an unknown person), asking a person's identity"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "誰",
+        "reading": "だれ",
+        "meaning": "who"
+      },
+      {
+        "example": "誰か",
+        "reading": "だれか",
+        "meaning": "someone, somebody"
+      },
+      {
+        "example": "どこの誰",
+        "reading": "どこのだれ",
+        "meaning": "who the heck, just who"
+      },
+      {
+        "example": "誰々",
+        "reading": "だれだれ",
+        "meaning": "so-and-so, who?, which people?"
+      },
+      {
+        "example": "誰彼",
+        "reading": "だれかれ",
+        "meaning": "this or that person, anybody, many people"
+      },
+      {
+        "example": "誰しも",
+        "reading": "だれしも",
+        "meaning": "everyone, anyone, no one"
+      },
+      {
+        "example": "誰が",
+        "reading": "たが",
+        "meaning": "whose, who (is, does, etc.)"
+      },
+      {
+        "example": "誰が為に",
+        "reading": "たがために",
+        "meaning": "for whom"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "言",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35504_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ab0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ab0.gif",
+    "uri": "https://jisho.org/search/%E8%AA%B0%23kanji"
+  }
+}

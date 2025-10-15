@@ -1,1 +1,35 @@
-{"id":"螂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"螂","found":true,"strokeCount":16,"meaning":"mantis","kunyomi":[],"onyomi":["ロウ"],"onyomiExamples":[{"example":"蟷螂","reading":"カマキリ","meaning":"praying mantis (esp. the narrow-winged mantis, Tenodera angustipennis)"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["艮","虫","邦"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34690_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08782.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8782.gif","uri":"https://jisho.org/search/%E8%9E%82%23kanji"}}
+{
+  "id": "螂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "螂",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "mantis",
+    "kunyomi": [],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蟷螂",
+        "reading": "カマキリ",
+        "meaning": "praying mantis (esp. the narrow-winged mantis, Tenodera angustipennis)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "艮",
+      "虫",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34690_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08782.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8782.gif",
+    "uri": "https://jisho.org/search/%E8%9E%82%23kanji"
+  }
+}

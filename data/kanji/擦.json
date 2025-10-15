@@ -1,1 +1,87 @@
-{"id":"擦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"擦","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1485","strokeCount":17,"meaning":"grate, rub, scratch, scrape, chafe, scour","kunyomi":["す.る","す.れる","-ず.れ","こす.る","こす.れる"],"onyomi":["サツ"],"onyomiExamples":[{"example":"擦弦楽器","reading":"サツゲンガッキ","meaning":"bowed stringed instrument"},{"example":"擦文","reading":"サツモン","meaning":"brush-mark pattern (scraped into the surface of earthenware with wood)"},{"example":"塗擦","reading":"トサツ","meaning":"rubbing an ointment into the skin"},{"example":"冷水摩擦","reading":"レイスイマサツ","meaning":"rubdown with a wet towel, cold-water rubbing"}],"kunyomiExamples":[{"example":"擦る","reading":"する","meaning":"to rub, to chafe, to strike (match), to file, to frost (glass), to lose (e.g. a match), to forfeit, to squander one's money (e.g. through gambling, Pachinko, etc.)"},{"example":"擦れる","reading":"すれる","meaning":"to rub, to chafe, to wear out, to become worn, to lose one's innocence, to become sly"},{"example":"擦る","reading":"こする","meaning":"to rub, to scrub, to scrape"},{"example":"擦れる","reading":"こすれる","meaning":"to be rubbed"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ノ","二","宀","小","扎","癶","示"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25830_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064e6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64e6.gif","uri":"https://jisho.org/search/%E6%93%A6%23kanji"}}
+{
+  "id": "擦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擦",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1485",
+    "strokeCount": 17,
+    "meaning": "grate, rub, scratch, scrape, chafe, scour",
+    "kunyomi": [
+      "す.る",
+      "す.れる",
+      "-ず.れ",
+      "こす.る",
+      "こす.れる"
+    ],
+    "onyomi": [
+      "サツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "擦弦楽器",
+        "reading": "サツゲンガッキ",
+        "meaning": "bowed stringed instrument"
+      },
+      {
+        "example": "擦文",
+        "reading": "サツモン",
+        "meaning": "brush-mark pattern (scraped into the surface of earthenware with wood)"
+      },
+      {
+        "example": "塗擦",
+        "reading": "トサツ",
+        "meaning": "rubbing an ointment into the skin"
+      },
+      {
+        "example": "冷水摩擦",
+        "reading": "レイスイマサツ",
+        "meaning": "rubdown with a wet towel, cold-water rubbing"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "擦る",
+        "reading": "する",
+        "meaning": "to rub, to chafe, to strike (match), to file, to frost (glass), to lose (e.g. a match), to forfeit, to squander one's money"
+      },
+      {
+        "example": "擦れる",
+        "reading": "すれる",
+        "meaning": "to rub, to chafe, to wear out, to become worn, to lose one's innocence, to become sly"
+      },
+      {
+        "example": "擦る",
+        "reading": "こする",
+        "meaning": "to rub, to scrub, to scrape"
+      },
+      {
+        "example": "擦れる",
+        "reading": "こすれる",
+        "meaning": "to be rubbed"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "宀",
+      "小",
+      "扎",
+      "癶",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25830_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064e6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64e6.gif",
+    "uri": "https://jisho.org/search/%E6%93%A6%23kanji"
+  }
+}

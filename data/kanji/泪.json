@@ -1,1 +1,46 @@
-{"id":"泪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"泪","found":true,"strokeCount":8,"meaning":"tears, weep, cry","kunyomi":["なみだ"],"onyomi":["ルイ","レイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"涙","reading":"なみだ","meaning":"tear, tears, lachrymal secretion, sympathy"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["汁","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27882_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cea.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cea.gif","uri":"https://jisho.org/search/%E6%B3%AA%23kanji"}}
+{
+  "id": "泪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "泪",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "tears, weep, cry",
+    "kunyomi": [
+      "なみだ"
+    ],
+    "onyomi": [
+      "ルイ",
+      "レイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "涙",
+        "reading": "なみだ",
+        "meaning": "tear, tears, lachrymal secretion, sympathy"
+      },
+      {
+        "example": "涙ながら",
+        "reading": "なみだながら",
+        "meaning": "while crying, tearfully, in tears"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "汁",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27882_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cea.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cea.gif",
+    "uri": "https://jisho.org/search/%E6%B3%AA%23kanji"
+  }
+}

@@ -1,1 +1,51 @@
-{"id":"悄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"悄","found":true,"strokeCount":10,"meaning":"anxiety","kunyomi":["うれ.える"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"悄悄","reading":"シオシオ","meaning":"in low spirits, dejected, sad"},{"example":"消然","reading":"ショウゼン","meaning":"dejected, dispirited, crestfallen, discouraged"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["尚","忙","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24708_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06084.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6084.gif","uri":"https://jisho.org/search/%E6%82%84%23kanji"}}
+{
+  "id": "悄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悄",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "anxiety",
+    "kunyomi": [
+      "うれ.える"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悄悄",
+        "reading": "シオシオ",
+        "meaning": "in low spirits, dejected, sad"
+      },
+      {
+        "example": "悄然",
+        "reading": "ショウゼン",
+        "meaning": "dejected, dispirited, crestfallen, discouraged"
+      },
+      {
+        "example": "悄悄",
+        "reading": "ショウショウ",
+        "meaning": "dejectedly, crestfallen, downheartedly, lonesomely, alone, quietly"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "尚",
+      "忙",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24708_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06084.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6084.gif",
+    "uri": "https://jisho.org/search/%E6%82%84%23kanji"
+  }
+}

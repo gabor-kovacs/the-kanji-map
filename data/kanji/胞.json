@@ -1,1 +1,56 @@
-{"id":"胞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"胞","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1379","strokeCount":9,"meaning":"placenta, sac, sheath","kunyomi":[],"onyomi":["ホウ"],"onyomiExamples":[{"example":"胞子","reading":"ホウシ","meaning":"spore"},{"example":"胞衣","reading":"エナ","meaning":"afterbirth, placenta"},{"example":"卵胞","reading":"ランポウ","meaning":"(ovarian) follicle"},{"example":"肺胞","reading":"ハイホウ","meaning":"pulmonary alveolus, alveoli, lung cavity, air cell"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["勹","已","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32990_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080de.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80de.gif","uri":"https://jisho.org/search/%E8%83%9E%23kanji"}}
+{
+  "id": "胞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胞",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1379",
+    "strokeCount": 9,
+    "meaning": "placenta, sac, sheath",
+    "kunyomi": [],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "胞子",
+        "reading": "ホウシ",
+        "meaning": "spore"
+      },
+      {
+        "example": "胞衣",
+        "reading": "エナ",
+        "meaning": "afterbirth, placenta"
+      },
+      {
+        "example": "卵胞",
+        "reading": "ランポウ",
+        "meaning": "(ovarian) follicle"
+      },
+      {
+        "example": "肺胞",
+        "reading": "ハイホウ",
+        "meaning": "pulmonary alveolus, alveoli, air cell, air sac"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "勹",
+      "已",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32990_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080de.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80de.gif",
+    "uri": "https://jisho.org/search/%E8%83%9E%23kanji"
+  }
+}

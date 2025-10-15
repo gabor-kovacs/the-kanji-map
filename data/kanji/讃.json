@@ -1,1 +1,73 @@
-{"id":"讃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"讃","found":true,"newspaperFrequencyRank":"2179","strokeCount":22,"meaning":"praise, title on a picture","kunyomi":["ほ.める","たた.える"],"onyomi":["サン"],"onyomiExamples":[{"example":"賛","reading":"サン","meaning":"praise, tribute, inscription (on a painting)"},{"example":"賛歌","reading":"サンカ","meaning":"song of praise, eulogy, paean, hymn"},{"example":"絶賛","reading":"ゼッサン","meaning":"high praise, great admiration, rave reviews"},{"example":"礼賛","reading":"ライサン","meaning":"praise, worship, adoration, glorification"}],"kunyomiExamples":[{"example":"褒める","reading":"ほめる","meaning":"to praise, to commend, to compliment, to speak well of, to speak highly of"},{"example":"称える","reading":"たたえる","meaning":"to extol, to give praise"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["ハ","二","亠","人","大","目","言","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35715_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b83.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b83.gif","uri":"https://jisho.org/search/%E8%AE%83%23kanji"}}
+{
+  "id": "讃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "讃",
+    "found": true,
+    "newspaperFrequencyRank": "2179",
+    "strokeCount": 22,
+    "meaning": "praise, title on a picture",
+    "kunyomi": [
+      "ほ.める",
+      "たた.える"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "賛",
+        "reading": "サン",
+        "meaning": "praise, tribute, inscription (on a painting)"
+      },
+      {
+        "example": "賛歌",
+        "reading": "サンカ",
+        "meaning": "song of praise, eulogy, paean, hymn"
+      },
+      {
+        "example": "絶賛",
+        "reading": "ゼッサン",
+        "meaning": "high praise, great admiration, acclaim, with critical acclaim, to rave reviews, with high commendations, currently, presently, right now"
+      },
+      {
+        "example": "礼賛",
+        "reading": "ライサン",
+        "meaning": "praise, worship, adoration, glorification"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "褒める",
+        "reading": "ほめる",
+        "meaning": "to praise, to commend, to compliment, to speak well of, to speak highly of"
+      },
+      {
+        "example": "称える",
+        "reading": "たたえる",
+        "meaning": "to praise, to extol, to hail, to laud, to celebrate"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "亠",
+      "人",
+      "大",
+      "目",
+      "言",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35715_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b83.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b83.gif",
+    "uri": "https://jisho.org/search/%E8%AE%83%23kanji"
+  }
+}

@@ -1,1 +1,61 @@
-{"id":"克","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"克","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1333","strokeCount":7,"meaning":"overcome, kindly, skillfully","kunyomi":["か.つ"],"onyomi":["コク"],"onyomiExamples":[{"example":"克明","reading":"コクメイ","meaning":"detailed, scrupulous, careful, minute, faithful, elaborate, diligent, honest, upright, sincere"},{"example":"克服","reading":"コクフク","meaning":"conquest (of a difficulty, illness, handicap, etc.), overcoming, bringing under control, subjugation, victory over"},{"example":"相克","reading":"ソウコク","meaning":"rivalry"},{"example":"超克","reading":"チョウコク","meaning":"overcoming, conquering, surmounting, getting over"}],"kunyomiExamples":[{"example":"勝つ","reading":"かつ","meaning":"to win, to gain victory"}],"radical":{"symbol":"儿","meaning":"legs"},"parts":["儿","十","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20811_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514b.gif","uri":"https://jisho.org/search/%E5%85%8B%23kanji"}}
+{
+  "id": "克",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "克",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1333",
+    "strokeCount": 7,
+    "meaning": "overcome, kindly, skillfully",
+    "kunyomi": [
+      "か.つ"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "克明",
+        "reading": "コクメイ",
+        "meaning": "detailed, scrupulous, careful, minute, faithful, elaborate, diligent, honest, upright, sincere"
+      },
+      {
+        "example": "克服",
+        "reading": "コクフク",
+        "meaning": "conquest (of a difficulty, illness, crisis, etc.), overcoming, surmounting, bringing under control"
+      },
+      {
+        "example": "相克",
+        "reading": "ソウコク",
+        "meaning": "rivalry"
+      },
+      {
+        "example": "超克",
+        "reading": "チョウコク",
+        "meaning": "overcoming, conquering, surmounting, getting over"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "勝つ",
+        "reading": "かつ",
+        "meaning": "to win, to gain victory"
+      }
+    ],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "legs"
+    },
+    "parts": [
+      "儿",
+      "十",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20811_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514b.gif",
+    "uri": "https://jisho.org/search/%E5%85%8B%23kanji"
+  }
+}

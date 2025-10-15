@@ -1,1 +1,41 @@
-{"id":"葢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"葢","found":true,"strokeCount":12,"meaning":"cover, lid, flap","kunyomi":["ふた","けだ.し","おお.う","かさ","かこう"],"onyomi":["ガイ","カイ","コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["丶","大","皿","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33890_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08462.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8462.gif","uri":"https://jisho.org/search/%E8%91%A2%23kanji"}}
+{
+  "id": "葢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "葢",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "cover, lid, flap",
+    "kunyomi": [
+      "ふた",
+      "けだ.し",
+      "おお.う",
+      "かさ",
+      "かこう"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ",
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "丶",
+      "大",
+      "皿",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33890_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08462.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8462.gif",
+    "uri": "https://jisho.org/search/%E8%91%A2%23kanji"
+  }
+}

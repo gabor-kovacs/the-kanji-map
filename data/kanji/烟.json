@@ -1,1 +1,83 @@
-{"id":"烟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"烟","found":true,"strokeCount":10,"meaning":"smoke","kunyomi":["けむ.る","けむり","けむ.い"],"onyomi":["エン"],"onyomiExamples":[{"example":"煙突","reading":"エントツ","meaning":"chimney, smokestack, funnel (of a ship), stovepipe, carrying a passenger without turning on the taximeter"},{"example":"煙草","reading":"タバコ","meaning":"tobacco, cigarette, cigaret, cigar, tobacco plant (Nicotiana tabacum)"},{"example":"水煙","reading":"ミズケムリ","meaning":"mist over a body of water, spray, suien, four decorative metal plates joined at right angles forming part of a pagoda finial"},{"example":"煤煙","reading":"バイエン","meaning":"dirty smoke, soot and smoke"}],"kunyomiExamples":[{"example":"煙る","reading":"けむる","meaning":"to smoke (e.g. fire), to billow smoke, to smoulder, to smolder, to be hazy, to look dim"},{"example":"煙","reading":"けむり","meaning":"smoke, fumes"},{"example":"煙に巻く","reading":"けむにまく","meaning":"to confuse (someone), to befuddle, to bewilder, to mystify, to throw up a smokescreen, to surround with smoke"},{"example":"水煙","reading":"みずけむり","meaning":"mist over a body of water, spray, suien, four decorative metal plates joined at right angles forming part of a pagoda finial"},{"example":"煙い","reading":"けむい","meaning":"smoky"}],"radical":{"symbol":"火","forms":["灬"],"meaning":"fire"},"parts":["囗","大","火"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28895_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/070df.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/70df.gif","uri":"https://jisho.org/search/%E7%83%9F%23kanji"}}
+{
+  "id": "烟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "烟",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "smoke",
+    "kunyomi": [
+      "けむ.る",
+      "けむり",
+      "けむ.い"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "煙突",
+        "reading": "エントツ",
+        "meaning": "chimney, smokestack, funnel (of a ship), stovepipe, carrying a passenger without turning on the taximeter"
+      },
+      {
+        "example": "煙霞",
+        "reading": "エンカ",
+        "meaning": "smoke and mist, (enveloping) mist, natural view, landscape of the mountains and valleys"
+      },
+      {
+        "example": "炊煙",
+        "reading": "スイエン",
+        "meaning": "smoke from cooking, smoke from a cook stove"
+      },
+      {
+        "example": "水煙",
+        "reading": "ミズケムリ",
+        "meaning": "mist over a body of water, spray, suien, four decorative metal plates joined at right angles forming part of a pagoda finial"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "煙る",
+        "reading": "けむる",
+        "meaning": "to smoke (e.g. fire), to billow smoke, to smoulder, to smolder, to be hazy, to look dim"
+      },
+      {
+        "example": "煙",
+        "reading": "けむり",
+        "meaning": "smoke, fumes"
+      },
+      {
+        "example": "煙に巻く",
+        "reading": "けむにまく",
+        "meaning": "to confuse (someone), to befuddle, to bewilder, to mystify, to throw up a smokescreen, to surround with smoke"
+      },
+      {
+        "example": "水煙",
+        "reading": "みずけむり",
+        "meaning": "mist over a body of water, spray, suien, four decorative metal plates joined at right angles forming part of a pagoda finial"
+      },
+      {
+        "example": "煙い",
+        "reading": "けむい",
+        "meaning": "smoky"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "fire"
+    },
+    "parts": [
+      "囗",
+      "大",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28895_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/070df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/70df.gif",
+    "uri": "https://jisho.org/search/%E7%83%9F%23kanji"
+  }
+}

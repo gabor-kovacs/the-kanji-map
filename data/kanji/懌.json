@@ -1,1 +1,39 @@
-{"id":"懌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"懌","found":true,"strokeCount":16,"meaning":"rejoice","kunyomi":["よろこ.ぶ"],"onyomi":["エキ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["亠","十","土","忙","立","買","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25036_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061cc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61cc.gif","uri":"https://jisho.org/search/%E6%87%8C%23kanji"}}
+{
+  "id": "懌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懌",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "rejoice",
+    "kunyomi": [
+      "よろこ.ぶ"
+    ],
+    "onyomi": [
+      "エキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "土",
+      "忙",
+      "立",
+      "買",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25036_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061cc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61cc.gif",
+    "uri": "https://jisho.org/search/%E6%87%8C%23kanji"
+  }
+}

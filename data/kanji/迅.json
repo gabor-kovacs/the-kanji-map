@@ -1,1 +1,53 @@
-{"id":"迅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"迅","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1888","strokeCount":6,"meaning":"swift, fast","kunyomi":[],"onyomi":["ジン"],"onyomiExamples":[{"example":"迅速","reading":"ジンソク","meaning":"quick, fast, rapid, swift, prompt, streamlined, expedited, expeditious"},{"example":"迅速果敢","reading":"ジンソクカカン","meaning":"quick and decisive, fast and daring, swift and resolute"},{"example":"奮迅","reading":"フンジン","meaning":"impetuous dash forward"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["乙","十","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36805_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fc5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fc5.gif","uri":"https://jisho.org/search/%E8%BF%85%23kanji"}}
+{
+  "id": "迅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "迅",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1888",
+    "strokeCount": 6,
+    "meaning": "swift, fast",
+    "kunyomi": [],
+    "onyomi": [
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "迅速",
+        "reading": "ジンソク",
+        "meaning": "quick, fast, rapid, swift, prompt, streamlined, expedited, expeditious"
+      },
+      {
+        "example": "迅速果敢",
+        "reading": "ジンソクカカン",
+        "meaning": "quick and decisive, fast and daring, swift and resolute"
+      },
+      {
+        "example": "奮迅",
+        "reading": "フンジン",
+        "meaning": "rousing oneself fiercely, being intensely stirred up"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "乙",
+      "十",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36805_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fc5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fc5.gif",
+    "uri": "https://jisho.org/search/%E8%BF%85%23kanji"
+  }
+}

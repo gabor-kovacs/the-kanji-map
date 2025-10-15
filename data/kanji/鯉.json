@@ -1,1 +1,61 @@
-{"id":"鯉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鯉","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2369","strokeCount":18,"meaning":"carp","kunyomi":["こい"],"onyomi":["リ"],"onyomiExamples":[{"example":"養鯉","reading":"ヨウリ","meaning":"carp breeding"}],"kunyomiExamples":[{"example":"鯉","reading":"こい","meaning":"common carp (Cyprinus carpio), koi carp"},{"example":"鯉口","reading":"こいぐち","meaning":"mouth of a (sword) sheath"},{"example":"まな板の上の鯉","reading":"まないたのうえのこい","meaning":"someone doomed to their fate, fish on the chopping board"},{"example":"まな板の鯉","reading":"まないたのこい","meaning":"someone doomed to their fate, fish on the chopping board"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["杰","田","里","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39881_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bc9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bc9.gif","uri":"https://jisho.org/search/%E9%AF%89%23kanji"}}
+{
+  "id": "鯉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯉",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2369",
+    "strokeCount": 18,
+    "meaning": "carp",
+    "kunyomi": [
+      "こい"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "養鯉",
+        "reading": "ヨウリ",
+        "meaning": "carp breeding"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鯉",
+        "reading": "こい",
+        "meaning": "common carp (Cyprinus carpio), koi carp"
+      },
+      {
+        "example": "鯉口",
+        "reading": "こいぐち",
+        "meaning": "mouth of a (sword) sheath"
+      },
+      {
+        "example": "俎上の鯉",
+        "reading": "そじょうのこい",
+        "meaning": "someone doomed to their fate, fish on the chopping board"
+      },
+      {
+        "example": "まな板の上の鯉",
+        "reading": "まないたのうえのこい",
+        "meaning": "someone doomed to their fate, fish on the chopping board"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "杰",
+      "田",
+      "里",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39881_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bc9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bc9.gif",
+    "uri": "https://jisho.org/search/%E9%AF%89%23kanji"
+  }
+}

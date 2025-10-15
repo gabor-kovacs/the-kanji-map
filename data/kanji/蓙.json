@@ -1,1 +1,62 @@
-{"id":"蓙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蓙","found":true,"strokeCount":13,"meaning":"mat, matting, (kokuji)","kunyomi":["ござ"],"onyomi":["ザ"],"onyomiExamples":[{"example":"茣蓙","reading":"ゴザ","meaning":"rush mat, matting, mat"},{"example":"花ござ","reading":"ハナゴザ","meaning":"rush mat with a floral or bulrush pattern"}],"kunyomiExamples":[{"example":"茣蓙","reading":"ござ","meaning":"rush mat, matting, mat"},{"example":"花ござ","reading":"はなござ","meaning":"rush mat with a floral or bulrush pattern"},{"example":"寝茣蓙","reading":"ねござ","meaning":"rush mat for sleeping, sleeping mat"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["人","土","广","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34009_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084d9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84d9.gif","uri":"https://jisho.org/search/%E8%93%99%23kanji"}}
+{
+  "id": "蓙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓙",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "mat, matting, (kokuji)",
+    "kunyomi": [
+      "ござ"
+    ],
+    "onyomi": [
+      "ザ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "茣蓙",
+        "reading": "ゴザ",
+        "meaning": "rush mat, matting, mat"
+      },
+      {
+        "example": "花ござ",
+        "reading": "ハナゴザ",
+        "meaning": "rush mat with a floral or bulrush pattern"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "茣蓙",
+        "reading": "ござ",
+        "meaning": "rush mat, matting, mat"
+      },
+      {
+        "example": "花ござ",
+        "reading": "はなござ",
+        "meaning": "rush mat with a floral or bulrush pattern"
+      },
+      {
+        "example": "寝茣蓙",
+        "reading": "ねござ",
+        "meaning": "rush mat for sleeping, sleeping mat"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "人",
+      "土",
+      "广",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34009_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084d9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84d9.gif",
+    "uri": "https://jisho.org/search/%E8%93%99%23kanji"
+  }
+}

@@ -1,1 +1,39 @@
-{"id":"髱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"髱","found":true,"strokeCount":15,"meaning":"topknot, bun, coiled hairknot","kunyomi":["たぼ"],"onyomi":["ホウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"髱","reading":"たぼ","meaning":"chignon (in a Japanese hair-style)"}],"radical":{"symbol":"髟","meaning":"long hair"},"parts":["勹","已","彡","長","髟"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39665_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09af1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9af1.gif","uri":"https://jisho.org/search/%E9%AB%B1%23kanji"}}
+{
+  "id": "髱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "髱",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "topknot, bun, coiled hairknot",
+    "kunyomi": [
+      "たぼ"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "髱",
+        "reading": "たぼ",
+        "meaning": "chignon (in a Japanese hair-style)"
+      }
+    ],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "long hair"
+    },
+    "parts": [
+      "勹",
+      "已",
+      "彡",
+      "長",
+      "髟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39665_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09af1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9af1.gif",
+    "uri": "https://jisho.org/search/%E9%AB%B1%23kanji"
+  }
+}

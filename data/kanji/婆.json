@@ -1,1 +1,98 @@
-{"id":"婆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"婆","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2435","strokeCount":11,"meaning":"old woman, grandma, wet nurse","kunyomi":["ばば","ばあ"],"onyomi":["バ"],"onyomiExamples":[{"example":"婆","reading":"ババ","meaning":"old woman, joker (card), hag, bitch"},{"example":"婆さん","reading":"バアサン","meaning":"grandmother, old woman, female senior citizen"},{"example":"提婆","reading":"ダイバ","meaning":"deva (being with god-like characteristics)"},{"example":"塔婆","reading":"トウバ","meaning":"stupa, pagoda, wooden grave tablet"}],"kunyomiExamples":[{"example":"婆","reading":"ばば","meaning":"old woman, joker (card), hag, bitch"},{"example":"婆婆鰈","reading":"ばばがれい","meaning":"slime flounder (Microstomus achne)"},{"example":"祖父祖母","reading":"じじばば","meaning":"old people, grandparents"},{"example":"遣り手婆","reading":"やりてばば","meaning":"brothel madam"},{"example":"婆さん","reading":"ばあさん","meaning":"grandmother, old woman, female senior citizen"},{"example":"婆ちゃん","reading":"ばあちゃん","meaning":"granny, grandma, gran, old lady, old woman"},{"example":"糞婆","reading":"くそばばあ","meaning":"old hag, old woman, old bat"},{"example":"鬼婆","reading":"おにばば","meaning":"hag, witch, bitch, penurious or spiteful old woman, termagant, virago"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["又","女","汁","皮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23110_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a46.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a46.gif","uri":"https://jisho.org/search/%E5%A9%86%23kanji"}}
+{
+  "id": "婆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "婆",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2435",
+    "strokeCount": 11,
+    "meaning": "old woman, grandma, wet nurse",
+    "kunyomi": [
+      "ばば",
+      "ばあ"
+    ],
+    "onyomi": [
+      "バ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "婆",
+        "reading": "ババ",
+        "meaning": "old woman, joker (in old maid)"
+      },
+      {
+        "example": "婆",
+        "reading": "ババア",
+        "meaning": "old woman, hag, old bag"
+      },
+      {
+        "example": "提婆",
+        "reading": "ダイバ",
+        "meaning": "deva (being with god-like characteristics)"
+      },
+      {
+        "example": "湯婆",
+        "reading": "タンポ",
+        "meaning": "hot-water bottle, metal sake jug, sake warmer"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "婆",
+        "reading": "ばば",
+        "meaning": "old woman, joker (in old maid)"
+      },
+      {
+        "example": "婆",
+        "reading": "ばばあ",
+        "meaning": "old woman, hag, old bag"
+      },
+      {
+        "example": "祖父祖母",
+        "reading": "じじばば",
+        "meaning": "old people, grandparents"
+      },
+      {
+        "example": "遣り手婆",
+        "reading": "やりてばば",
+        "meaning": "brothel madam"
+      },
+      {
+        "example": "婆さん",
+        "reading": "ばあさん",
+        "meaning": "grandmother, old woman, female senior citizen"
+      },
+      {
+        "example": "婆ちゃん",
+        "reading": "ばあちゃん",
+        "meaning": "granny, grandma, gran, old lady, old woman"
+      },
+      {
+        "example": "【クソババア】",
+        "reading": "old hag, old woman, old bat",
+        "meaning": ""
+      },
+      {
+        "example": "鬼婆",
+        "reading": "おにばば",
+        "meaning": "hag, witch, bitch, penurious or spiteful old woman, termagant, virago"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "又",
+      "女",
+      "汁",
+      "皮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23110_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a46.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a46.gif",
+    "uri": "https://jisho.org/search/%E5%A9%86%23kanji"
+  }
+}

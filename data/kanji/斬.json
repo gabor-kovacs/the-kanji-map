@@ -1,1 +1,52 @@
-{"id":"斬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"斬","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2132","strokeCount":11,"meaning":"beheading, kill, murder","kunyomi":["き.る"],"onyomi":["ザン","サン","セン","ゼン"],"onyomiExamples":[{"example":"斬","reading":"ザン","meaning":"beheading, decapitation"},{"example":"斬新","reading":"ザンシン","meaning":"novel, original, new, innovative"}],"kunyomiExamples":[{"example":"斬る","reading":"きる","meaning":"to kill (a human) using a blade (sword, machete, knife, etc.), to slice (off), to lop (off), to cut (off)"}],"radical":{"symbol":"斤","meaning":"axe"},"parts":["斤","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26028_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065ac.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65ac.gif","uri":"https://jisho.org/search/%E6%96%AC%23kanji"}}
+{
+  "id": "斬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斬",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2132",
+    "strokeCount": 11,
+    "meaning": "beheading, kill, murder",
+    "kunyomi": [
+      "き.る"
+    ],
+    "onyomi": [
+      "ザン",
+      "サン",
+      "セン",
+      "ゼン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斬",
+        "reading": "ザン",
+        "meaning": "beheading, decapitation"
+      },
+      {
+        "example": "斬新",
+        "reading": "ザンシン",
+        "meaning": "novel, original, new, innovative"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "斬る",
+        "reading": "きる",
+        "meaning": "to kill (a human) using a blade (sword, machete, knife, etc.), to slice (off), to lop (off), to cut (off)"
+      }
+    ],
+    "radical": {
+      "symbol": "斤",
+      "meaning": "axe"
+    },
+    "parts": [
+      "斤",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26028_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65ac.gif",
+    "uri": "https://jisho.org/search/%E6%96%AC%23kanji"
+  }
+}

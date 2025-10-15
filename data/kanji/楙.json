@@ -1,1 +1,30 @@
-{"id":"楙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"楙","found":true,"strokeCount":13,"meaning":"name of plant, lush","kunyomi":["しげる"],"onyomi":["ボウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["木","矛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26969_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06959.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6959.gif","uri":"https://jisho.org/search/%E6%A5%99%23kanji"}}
+{
+  "id": "楙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楙",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "name of plant, lush",
+    "kunyomi": [
+      "しげる"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "木",
+      "矛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26969_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06959.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6959.gif",
+    "uri": "https://jisho.org/search/%E6%A5%99%23kanji"
+  }
+}

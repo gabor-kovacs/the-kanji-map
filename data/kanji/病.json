@@ -1,1 +1,423 @@
-{"id":"病","kanjialiveData":{"kanji":{"character":"病","meaning":{"english":"illness, disease, sickness"},"strokes":{"count":10,"timings":[0,1.866,3,3.733,4.733,5.599,6.4,7.466,9,9.8,10.733333],"images":["https://media.kanjialive.com/kanji_strokes/yamai_1.svg","https://media.kanjialive.com/kanji_strokes/yamai_2.svg","https://media.kanjialive.com/kanji_strokes/yamai_3.svg","https://media.kanjialive.com/kanji_strokes/yamai_4.svg","https://media.kanjialive.com/kanji_strokes/yamai_5.svg","https://media.kanjialive.com/kanji_strokes/yamai_6.svg","https://media.kanjialive.com/kanji_strokes/yamai_7.svg","https://media.kanjialive.com/kanji_strokes/yamai_8.svg","https://media.kanjialive.com/kanji_strokes/yamai_9.svg","https://media.kanjialive.com/kanji_strokes/yamai_10.svg"]},"onyomi":{"romaji":"byou, hei","katakana":"ビョウ、ヘイ"},"kunyomi":{"romaji":"ya, yamu, yami, yamai","hiragana":"や、やまい"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/yamai_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/yamai_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/yamai_00.webm"}},"radical":{"character":"⽧","strokes":5,"image":"https://media.kanjialive.com/radical_character/yamaidare.svg","position":{"hiragana":"たれ","romaji":"tare","icon":"https://media.kanjialive.com/rad_positions/tare.svg"},"name":{"hiragana":"やまいだれ","romaji":"yamaidare"},"meaning":{"english":"sickness"},"animation":["https://media.kanjialive.com/rad_frames/yamaidare0.svg","https://media.kanjialive.com/rad_frames/yamaidare1.svg","https://media.kanjialive.com/rad_frames/yamaidare2.svg"]},"references":{"grade":3,"kodansha":"2059","classic_nelson":"3042"},"examples":[{"japanese":"病気（びょうき）","meaning":{"english":"illness"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_a.mp3"}},{"japanese":"病院（びょういん）","meaning":{"english":"hospital"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_b.mp3"}},{"japanese":"病人（びょうにん）","meaning":{"english":"patient"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_c.mp3"}},{"japanese":"心臓病（しんぞうびょう）","meaning":{"english":"heart disease"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_d.mp3"}},{"japanese":"看病する（かんびょうする）","meaning":{"english":"nurse (a patient)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_e.mp3"}},{"japanese":"病む（やむ）","meaning":{"english":"be ill"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_f.mp3"}},{"japanese":"病み付き（やみつき）","meaning":{"english":"addicted, hooked"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_g.mp3"}},{"japanese":"病み上がり（やみあがり）","meaning":{"english":"convalescence"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_h.mp3"}},{"japanese":"病（やまい）","meaning":{"english":"illness"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_i.mp3"}}]},"jishoData":{"query":"病","found":true,"taughtIn":"grade 3","jlptLevel":"N4","newspaperFrequencyRank":"384","strokeCount":10,"meaning":"ill, sick","kunyomi":["や.む","-や.み","やまい"],"onyomi":["ビョウ","ヘイ"],"onyomiExamples":[{"example":"病","reading":"ビョウ","meaning":"disease, -pathy"},{"example":"病院","reading":"ビョウイン","meaning":"hospital, clinic, doctor's office, doctor's surgery, infirmary"},{"example":"血友病","reading":"ケツユウビョウ","meaning":"haemophilia"},{"example":"同病","reading":"ドウビョウ","meaning":"the same sickness"}],"kunyomiExamples":[{"example":"病む","reading":"やむ","meaning":"to fall ill, to suffer from (e.g. a disease), to have something wrong with (e.g. an inner organ)"},{"example":"病","reading":"やまい","meaning":"illness, disease, bad habit, weakness, fault"},{"example":"病が篤い","reading":"やまいがあつい","meaning":"seriously ill"},{"example":"恋病","reading":"こいやまい","meaning":"lovesickness"},{"example":"躁鬱病","reading":"そううつびょう","meaning":"manic depression, manic-depressive psychosis, bipolar disorder"}],"radical":{"symbol":"疒","meaning":"sickness"},"parts":["一","人","冂","疔"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30149_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075c5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75c5.gif","uri":"https://jisho.org/search/%E7%97%85%23kanji"}}
+{
+  "id": "病",
+  "kanjialiveData": {
+    "_id": "54317ae4791eba5146ee4979",
+    "_rev": "10-b783f2ac186ff2e7d129142c6aeda7e0",
+    "rad_name_ja": "やまいだれ",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "ya, yamu, yami, yamai",
+    "meaning": "illness, disease, sickness",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "病気（びょうき）",
+        "meaning": {
+          "english": "illness"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "病院（びょういん）",
+        "meaning": {
+          "english": "hospital"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "病人（びょうにん）",
+        "meaning": {
+          "english": "patient"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "心臓病（しんぞうびょう）",
+        "meaning": {
+          "english": "heart disease"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "看病する（かんびょうする）",
+        "meaning": {
+          "english": "nurse (a patient)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "病む（やむ）",
+        "meaning": {
+          "english": "be ill"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "病み付き（やみつき）",
+        "meaning": {
+          "english": "addicted, hooked"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "病み上がり（やみあがり）",
+        "meaning": {
+          "english": "convalescence"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "病（やまい）",
+        "meaning": {
+          "english": "illness"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yamai_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yamai_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yamai_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yamai_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "や、やむ、やみ、やまい",
+    "ka_utf": "病",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=病",
+    "kname": "yamai",
+    "rad_order": 131,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "rad_name_search": [
+      "yamaidare"
+    ],
+    "rad_utf": "⽧",
+    "stroketimes": [
+      0,
+      1.866,
+      3,
+      3.733,
+      4.733,
+      5.599,
+      6.4,
+      7.466,
+      9,
+      9.8,
+      10.733333
+    ],
+    "kunyomi_ka_display": "や、やまい",
+    "dick": "2059",
+    "rad_name": "yamaidare",
+    "dicn": "3042",
+    "mn_hint": "Sick 疒 person lying 一 inside 内 house/hospital.",
+    "rad_stroke": 5,
+    "onyomi_ja": "ビョウ、ヘイ",
+    "rad_meaning": "sickness",
+    "onyomi": "byou, hei",
+    "ka_id": "ka_204",
+    "rad_position": "tare",
+    "rad_position_ja": "たれ",
+    "rad_position_search": [
+      "tare",
+      "tare"
+    ],
+    "onyomi_search": [
+      "byou",
+      "hei",
+      "byou, hei"
+    ],
+    "kunyomi_search": [
+      "ya",
+      "yamu",
+      "yami",
+      "yamai",
+      "ya, yamu, yami, yamai"
+    ],
+    "meaning_search": [
+      "illness",
+      "disease",
+      "sickness",
+      "illness, disease, sickness"
+    ],
+    "onyomi_ja_search": [
+      "ビョウ",
+      "ヘイ",
+      "ビョウ、ヘイ"
+    ],
+    "kunyomi_ja_search": [
+      "や",
+      "やむ",
+      "やみ",
+      "やまい",
+      "や、やむ、やみ、やまい"
+    ],
+    "rad_meaning_search": [
+      "sickness",
+      "sickness"
+    ],
+    "rad_position_ja_search": [
+      "たれ",
+      "たれ"
+    ],
+    "rad_name_ja_search": [
+      "やまいだれ"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:20",
+      "cij:c20",
+      "bk",
+      "bk:13",
+      "bk:c13",
+      "aij3",
+      "aij3:2",
+      "aij3:c2",
+      "aij3:v4",
+      "aij3:v4:2",
+      "aij3:v4:c2",
+      "gen",
+      "gen:11",
+      "gen:c11",
+      "ap",
+      "ap:17",
+      "ap:c17",
+      "kll",
+      "kll:7",
+      "kll:c7"
+    ],
+    "rad_name_file": "yamaidare",
+    "kanji": {
+      "character": "病",
+      "meaning": {
+        "english": "illness, disease, sickness"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          1.866,
+          3,
+          3.733,
+          4.733,
+          5.599,
+          6.4,
+          7.466,
+          9,
+          9.8,
+          10.733333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/yamai_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/yamai_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/yamai_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/yamai_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/yamai_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/yamai_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/yamai_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/yamai_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/yamai_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/yamai_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "byou, hei",
+        "katakana": "ビョウ、ヘイ"
+      },
+      "kunyomi": {
+        "romaji": "ya, yamu, yami, yamai",
+        "hiragana": "や、やまい"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/yamai_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/yamai_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/yamai_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽧",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/yamaidare.svg",
+      "position": {
+        "hiragana": "たれ",
+        "romaji": "tare",
+        "icon": "https://media.kanjialive.com/rad_positions/tare.svg"
+      },
+      "name": {
+        "hiragana": "やまいだれ",
+        "romaji": "yamaidare"
+      },
+      "meaning": {
+        "english": "sickness"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/yamaidare0.svg",
+        "https://media.kanjialive.com/rad_frames/yamaidare1.svg",
+        "https://media.kanjialive.com/rad_frames/yamaidare2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "2059",
+      "classic_nelson": "3042"
+    }
+  },
+  "jishoData": {
+    "query": "病",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "384",
+    "strokeCount": 10,
+    "meaning": "ill, sick",
+    "kunyomi": [
+      "や.む",
+      "-や.み",
+      "やまい"
+    ],
+    "onyomi": [
+      "ビョウ",
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "病",
+        "reading": "ビョウ",
+        "meaning": "disease"
+      },
+      {
+        "example": "病院",
+        "reading": "ビョウイン",
+        "meaning": "hospital, clinic, doctor's office, doctor's surgery, infirmary"
+      },
+      {
+        "example": "血友病",
+        "reading": "ケツユウビョウ",
+        "meaning": "hemophilia, haemophilia"
+      },
+      {
+        "example": "同病",
+        "reading": "ドウビョウ",
+        "meaning": "the same sickness"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "病む",
+        "reading": "やむ",
+        "meaning": "to fall ill, to suffer from (e.g. a disease), to have something wrong with (e.g. an inner organ)"
+      },
+      {
+        "example": "病",
+        "reading": "やまい",
+        "meaning": "illness, disease, bad habit, weakness, fault"
+      },
+      {
+        "example": "病が篤い",
+        "reading": "やまいがあつい",
+        "meaning": "seriously ill"
+      },
+      {
+        "example": "恋病",
+        "reading": "こいやまい",
+        "meaning": "lovesickness"
+      },
+      {
+        "example": "躁鬱病",
+        "reading": "そううつびょう",
+        "meaning": "manic depression, manic-depressive psychosis, bipolar disorder"
+      }
+    ],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "sickness"
+    },
+    "parts": [
+      "一",
+      "人",
+      "冂",
+      "疔"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30149_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75c5.gif",
+    "uri": "https://jisho.org/search/%E7%97%85%23kanji"
+  }
+}

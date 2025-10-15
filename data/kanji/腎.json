@@ -1,1 +1,55 @@
-{"id":"腎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"腎","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"1755","strokeCount":13,"meaning":"kidney","kunyomi":[],"onyomi":["ジン"],"onyomiExamples":[{"example":"腎","reading":"ジン","meaning":"kidney"},{"example":"腎臓","reading":"ジンゾウ","meaning":"kidney"},{"example":"右腎","reading":"ウジン","meaning":"right kidney"},{"example":"後じん","reading":"コウジン","meaning":"metanephros, third stage of kidney development"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["又","月","臣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33102_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0814e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/814e.gif","uri":"https://jisho.org/search/%E8%85%8E%23kanji"}}
+{
+  "id": "腎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腎",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "1755",
+    "strokeCount": 13,
+    "meaning": "kidney",
+    "kunyomi": [],
+    "onyomi": [
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腎",
+        "reading": "ジン",
+        "meaning": "kidney"
+      },
+      {
+        "example": "腎臓",
+        "reading": "ジンゾウ",
+        "meaning": "kidney"
+      },
+      {
+        "example": "右腎",
+        "reading": "ウジン",
+        "meaning": "right kidney"
+      },
+      {
+        "example": "後じん",
+        "reading": "コウジン",
+        "meaning": "metanephros, third stage of kidney development"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "又",
+      "月",
+      "臣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33102_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0814e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/814e.gif",
+    "uri": "https://jisho.org/search/%E8%85%8E%23kanji"
+  }
+}

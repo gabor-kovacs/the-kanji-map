@@ -1,1 +1,32 @@
-{"id":"楴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"楴","found":true,"strokeCount":13,"meaning":"ornamental hairpin","kunyomi":[],"onyomi":["テイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["亠","冖","巾","并","木","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26996_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06974.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6974.gif","uri":"https://jisho.org/search/%E6%A5%B4%23kanji"}}
+{
+  "id": "楴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楴",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "ornamental hairpin",
+    "kunyomi": [],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "巾",
+      "并",
+      "木",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26996_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06974.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6974.gif",
+    "uri": "https://jisho.org/search/%E6%A5%B4%23kanji"
+  }
+}

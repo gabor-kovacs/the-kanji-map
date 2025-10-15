@@ -1,1 +1,26 @@
-{"id":"飠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"飠","found":true,"strokeCount":8,"meaning":"eat, food, radical number 184","kunyomi":[],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39136_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098e0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98e0.gif","uri":"https://jisho.org/search/%E9%A3%A0%23kanji"}}
+{
+  "id": "飠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "飠",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "eat, food, radical number 184",
+    "kunyomi": [],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39136_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098e0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98e0.gif",
+    "uri": "https://jisho.org/search/%E9%A3%A0%23kanji"
+  }
+}

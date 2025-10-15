@@ -1,1 +1,55 @@
-{"id":"涕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"涕","found":true,"strokeCount":10,"meaning":"tears, sympathy","kunyomi":["なみだ","な.く"],"onyomi":["テイ"],"onyomiExamples":[{"example":"流涕","reading":"リュウテイ","meaning":"crying, delacrimation"}],"kunyomiExamples":[{"example":"涙","reading":"なみだ","meaning":"tear, tears, lachrymal secretion, sympathy"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ノ","并","弓","汁","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28053_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d95.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d95.gif","uri":"https://jisho.org/search/%E6%B6%95%23kanji"}}
+{
+  "id": "涕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "涕",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "tears, sympathy",
+    "kunyomi": [
+      "なみだ",
+      "な.く"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "涕泣",
+        "reading": "テイキュウ",
+        "meaning": "weeping, sobbing"
+      },
+      {
+        "example": "流涕",
+        "reading": "リュウテイ",
+        "meaning": "crying, delacrimation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "涙",
+        "reading": "なみだ",
+        "meaning": "tear, tears, lachrymal secretion, sympathy"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ノ",
+      "并",
+      "弓",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28053_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d95.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d95.gif",
+    "uri": "https://jisho.org/search/%E6%B6%95%23kanji"
+  }
+}

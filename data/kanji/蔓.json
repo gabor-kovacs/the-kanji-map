@@ -1,1 +1,64 @@
-{"id":"蔓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蔓","found":true,"strokeCount":14,"meaning":"vine, tendril, influence, connections, good offices, spread, sprawl, thrive, rampant, powerful","kunyomi":["はびこ.る","つる"],"onyomi":["マン","バン"],"onyomiExamples":[{"example":"蔓延","reading":"マンエン","meaning":"spread (e.g. of a disease), rampancy, infestation, proliferation, being widespread"},{"example":"まん延防止","reading":"マンエンボウシ","meaning":"semi-state of emergency COVID-19 measures"}],"kunyomiExamples":[{"example":"蔓延る","reading":"はびこる","meaning":"to become overgrown, to grow thick, to spread, to run rampant, to thrive, to prevail, to become powerful"},{"example":"蔓","reading":"つる","meaning":"vine, bine, tendril, runner, bow, temple arm, sidepiece, lug arm, earpiece, part of a pair of glasses that goes over the ear, connections, contacts, influence, financial supporter"},{"example":"蔓脚類","reading":"まんきゃくるい","meaning":"Cirripedia, barnacles"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["又","日","艾","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34067_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08513.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8513.gif","uri":"https://jisho.org/search/%E8%94%93%23kanji"}}
+{
+  "id": "蔓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔓",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "vine, tendril, influence, connections, good offices, spread, sprawl, thrive, rampant, powerful",
+    "kunyomi": [
+      "はびこ.る",
+      "つる"
+    ],
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蔓延",
+        "reading": "マンエン",
+        "meaning": "spread (e.g. of a disease), rampancy, infestation, proliferation, being widespread"
+      },
+      {
+        "example": "まん延防止",
+        "reading": "マンエンボウシ",
+        "meaning": "semi-state of emergency COVID-19 measures"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蔓延る",
+        "reading": "はびこる",
+        "meaning": "to become overgrown, to grow thick, to spread, to run rampant, to thrive, to prevail, to become powerful"
+      },
+      {
+        "example": "蔓",
+        "reading": "つる",
+        "meaning": "vine, bine, tendril, runner, bow, temple arm, sidepiece, lug arm, earpiece, part of a pair of glasses that goes over the ear, connections, contacts, influence, financial supporter"
+      },
+      {
+        "example": "蔓脚類",
+        "reading": "まんきゃくるい",
+        "meaning": "Cirripedia, barnacles"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "又",
+      "日",
+      "艾",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34067_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08513.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8513.gif",
+    "uri": "https://jisho.org/search/%E8%94%93%23kanji"
+  }
+}

@@ -1,1 +1,52 @@
-{"id":"鰊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鰊","found":true,"strokeCount":20,"meaning":"herring","kunyomi":["にしん"],"onyomi":["レン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鰊","reading":"にしん","meaning":"Pacific herring (Clupea pallasii)"},{"example":"鰊粕","reading":"にしんかす","meaning":"dried and pressed boiled herring (used as fertilizer)"},{"example":"身欠きにしん","reading":"みがきにしん","meaning":"dried, sliced herring"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["口","并","木","杰","田","買","魚","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39946_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c0a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c0a.gif","uri":"https://jisho.org/search/%E9%B0%8A%23kanji"}}
+{
+  "id": "鰊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰊",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "herring",
+    "kunyomi": [
+      "にしん"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鰊",
+        "reading": "にしん",
+        "meaning": "Pacific herring (Clupea pallasii)"
+      },
+      {
+        "example": "鰊粕",
+        "reading": "にしんかす",
+        "meaning": "dried and pressed boiled herring (used as fertilizer)"
+      },
+      {
+        "example": "身欠きにしん",
+        "reading": "みがきにしん",
+        "meaning": "dried, sliced herring"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "口",
+      "并",
+      "木",
+      "杰",
+      "田",
+      "買",
+      "魚",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39946_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c0a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c0a.gif",
+    "uri": "https://jisho.org/search/%E9%B0%8A%23kanji"
+  }
+}

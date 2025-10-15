@@ -1,1 +1,37 @@
-{"id":"徨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"徨","found":true,"strokeCount":12,"meaning":"wandering","kunyomi":["さまよ.う"],"onyomi":["コウ"],"onyomiExamples":[{"example":"彷徨","reading":"ホウコウ","meaning":"wandering, rambling, roaming"}],"kunyomiExamples":[],"radical":{"symbol":"彳","meaning":"step"},"parts":["彳","王","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24488_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fa8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fa8.gif","uri":"https://jisho.org/search/%E5%BE%A8%23kanji"}}
+{
+  "id": "徨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "徨",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "wandering",
+    "kunyomi": [
+      "さまよ.う"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彷徨",
+        "reading": "ホウコウ",
+        "meaning": "wandering, rambling, roaming"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "step"
+    },
+    "parts": [
+      "彳",
+      "王",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24488_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fa8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fa8.gif",
+    "uri": "https://jisho.org/search/%E5%BE%A8%23kanji"
+  }
+}

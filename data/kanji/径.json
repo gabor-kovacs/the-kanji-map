@@ -1,1 +1,285 @@
-{"id":"径","kanjialiveData":{"kanji":{"character":"径","meaning":{"english":"path, diameter"},"strokes":{"count":8,"timings":[0,0.733333,1.6,3,4.866667,6.333333,7.133333,8.4,10.6],"images":["https://media.kanjialive.com/kanji_strokes/(han)kei_1.svg","https://media.kanjialive.com/kanji_strokes/(han)kei_2.svg","https://media.kanjialive.com/kanji_strokes/(han)kei_3.svg","https://media.kanjialive.com/kanji_strokes/(han)kei_4.svg","https://media.kanjialive.com/kanji_strokes/(han)kei_5.svg","https://media.kanjialive.com/kanji_strokes/(han)kei_6.svg","https://media.kanjialive.com/kanji_strokes/(han)kei_7.svg","https://media.kanjialive.com/kanji_strokes/(han)kei_8.svg"]},"onyomi":{"romaji":"kei","katakana":"ケイ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(han)kei_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(han)kei_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(han)kei_00.webm"}},"radical":{"character":"⼻","strokes":3,"image":"https://media.kanjialive.com/radical_character/gyouninben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"ぎょうにんべん","romaji":"gyouninben"},"meaning":{"english":"step, stride, street, to go"},"animation":["https://media.kanjialive.com/rad_frames/gyouninben0.svg","https://media.kanjialive.com/rad_frames/gyouninben1.svg","https://media.kanjialive.com/rad_frames/gyouninben2.svg"]},"references":{"grade":4,"kodansha":"216","classic_nelson":"1602"},"examples":[{"japanese":"径路（けいろ）","meaning":{"english":"path, route, process"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_a.mp3"}},{"japanese":"直径（ちょっけい）","meaning":{"english":"diameter"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_b.mp3"}},{"japanese":"半径（はんけい）","meaning":{"english":"radius"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_c.mp3"}},{"japanese":"口径（こうけい）","meaning":{"english":"aperture, bore, calibre"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_d.mp3"}},{"japanese":"直情径行（ちょくじょうけいこう）","meaning":{"english":"straightforward, guileless"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_e.mp3"}}]},"jishoData":{"query":"径","found":true,"taughtIn":"grade 4","jlptLevel":"N1","newspaperFrequencyRank":"1435","strokeCount":8,"meaning":"diameter, path, method","kunyomi":["みち","こみち","さしわたし","ただちに"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"径","reading":"ケイ","meaning":"diameter"},{"example":"経路","reading":"ケイロ","meaning":"course, route, path, channel, process, stages"},{"example":"半径","reading":"ハンケイ","meaning":"radius"},{"example":"口径","reading":"コウケイ","meaning":"aperture, bore, calibre, caliber"}],"kunyomiExamples":[{"example":"道","reading":"みち","meaning":"road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"}],"radical":{"symbol":"彳","meaning":"step"},"parts":["又","土","彳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24452_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f84.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f84.gif","uri":"https://jisho.org/search/%E5%BE%84%23kanji"}}
+{
+  "id": "径",
+  "kanjialiveData": {
+    "_id": "54317b0e791eba5146ee4c96",
+    "_rev": "10-b259b8f31da9a702ac24b41173db70ce",
+    "rad_name_ja": "ぎょうにんべん",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "path, diameter",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "径路（けいろ）",
+        "meaning": {
+          "english": "path, route, process"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "直径（ちょっけい）",
+        "meaning": {
+          "english": "diameter"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "半径（はんけい）",
+        "meaning": {
+          "english": "radius"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "口径（こうけい）",
+        "meaning": {
+          "english": "aperture, bore, calibre"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "直情径行（ちょくじょうけいこう）",
+        "meaning": {
+          "english": "straightforward, guileless"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "径",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=径",
+    "rad_name_search": [
+      "gyouninben"
+    ],
+    "rad_order": 70,
+    "txt_books": [],
+    "kname": "(han)kei",
+    "rad_utf": "⼻",
+    "stroketimes": [
+      0,
+      0.733333,
+      1.6,
+      3,
+      4.866667,
+      6.333333,
+      7.133333,
+      8.4,
+      10.6
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "216",
+    "rad_name": "gyouninben",
+    "dicn": "1602",
+    "mn_hint": "Go 彳 along a straight 圣 line.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ケイ",
+    "rad_meaning": "step, stride, street, to go",
+    "onyomi": "kei",
+    "ka_id": "ka_922",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kei",
+      "kei"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "path",
+      "diameter",
+      "path, diameter"
+    ],
+    "onyomi_ja_search": [
+      "ケイ",
+      "ケイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "step",
+      "stride",
+      "street",
+      "to go",
+      "to",
+      "go",
+      "step, stride, street, to go"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ぎょうにんべん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "gyouninben",
+    "kanji": {
+      "character": "径",
+      "meaning": {
+        "english": "path, diameter"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.733333,
+          1.6,
+          3,
+          4.866667,
+          6.333333,
+          7.133333,
+          8.4,
+          10.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kei",
+        "katakana": "ケイ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(han)kei_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(han)kei_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(han)kei_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼻",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/gyouninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ぎょうにんべん",
+        "romaji": "gyouninben"
+      },
+      "meaning": {
+        "english": "step, stride, street, to go"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben1.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "216",
+      "classic_nelson": "1602"
+    }
+  },
+  "jishoData": {
+    "query": "径",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1435",
+    "strokeCount": 8,
+    "meaning": "diameter, path, method",
+    "kunyomi": [
+      "みち",
+      "こみち",
+      "さしわたし",
+      "ただちに"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "径",
+        "reading": "ケイ",
+        "meaning": "diameter"
+      },
+      {
+        "example": "経路",
+        "reading": "ケイロ",
+        "meaning": "course, route, path, channel, process, stages"
+      },
+      {
+        "example": "半径",
+        "reading": "ハンケイ",
+        "meaning": "radius"
+      },
+      {
+        "example": "口径",
+        "reading": "コウケイ",
+        "meaning": "aperture, bore, calibre, caliber"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "道",
+        "reading": "みち",
+        "meaning": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+      },
+      {
+        "example": "径書房",
+        "reading": "こみちしょぼう",
+        "meaning": "Komichi Shobo Publishing Ltd (publishing company)"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "step"
+    },
+    "parts": [
+      "又",
+      "土",
+      "彳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24452_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f84.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f84.gif",
+    "uri": "https://jisho.org/search/%E5%BE%84%23kanji"
+  }
+}

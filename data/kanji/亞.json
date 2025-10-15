@@ -1,1 +1,41 @@
-{"id":"亞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"亞","found":true,"strokeCount":8,"meaning":"rank, follow","kunyomi":["つ.ぐ"],"onyomi":["ア"],"onyomiExamples":[{"example":"東亜","reading":"トウア","meaning":"East Asia, the Orient"}],"kunyomiExamples":[],"radical":{"symbol":"二","meaning":"two"},"parts":["一","二"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20126_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e9e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e9e.gif","uri":"https://jisho.org/search/%E4%BA%9E%23kanji"}}
+{
+  "id": "亞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "亞",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "rank, follow",
+    "kunyomi": [
+      "つ.ぐ"
+    ],
+    "onyomi": [
+      "ア"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "亜",
+        "reading": "ア",
+        "meaning": "sub-, second-rate, inferior, -ous (indicating a low oxidation state), -ite, Asia, Argentina, Arabia, America, American person"
+      },
+      {
+        "example": "東亜",
+        "reading": "トウア",
+        "meaning": "East Asia, the Orient"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "二",
+      "meaning": "two"
+    },
+    "parts": [
+      "一",
+      "二"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20126_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e9e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e9e.gif",
+    "uri": "https://jisho.org/search/%E4%BA%9E%23kanji"
+  }
+}

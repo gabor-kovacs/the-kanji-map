@@ -1,1 +1,66 @@
-{"id":"這","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"這","found":true,"strokeCount":10,"meaning":"crawl, creep, grovel, trail (vines)","kunyomi":["は.う","は.い","むか.える","この"],"onyomi":["シャ","ゲン"],"onyomiExamples":[{"example":"這裏","reading":"シャリ","meaning":"inside this, within"}],"kunyomiExamples":[{"example":"這う","reading":"はう","meaning":"to crawl, to creep, to go on all fours, to slither, to wriggle, to trail (of vines, flowers, etc.), to spread, to creep"},{"example":"入り込む","reading":"はいりこむ","meaning":"to go into, to come into, to penetrate, to get in, to step in (a house), to become complicated"},{"example":"入口","reading":"いりぐち","meaning":"entrance, entry, gate, approach, mouth"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["言","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36889_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09019.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9019.gif","uri":"https://jisho.org/search/%E9%80%99%23kanji"}}
+{
+  "id": "這",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "這",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "crawl, creep, grovel, trail (vines)",
+    "kunyomi": [
+      "は.う",
+      "は.い",
+      "むか.える",
+      "この"
+    ],
+    "onyomi": [
+      "シャ",
+      "ゲン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "這般",
+        "reading": "シャハン",
+        "meaning": "these, this kind of, such, this time"
+      },
+      {
+        "example": "這裏",
+        "reading": "シャリ",
+        "meaning": "inside this, within"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "這う",
+        "reading": "はう",
+        "meaning": "to crawl, to creep, to go on all fours, to slither, to wriggle, to trail (of vines, flowers, etc.), to spread, to creep"
+      },
+      {
+        "example": "入り込む",
+        "reading": "はいりこむ",
+        "meaning": "to go into, to come into, to penetrate, to get in, to step in (a house), to become complicated"
+      },
+      {
+        "example": "入り口",
+        "reading": "いりぐち",
+        "meaning": "entrance, entry, gate, approach, mouth"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "言",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36889_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09019.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9019.gif",
+    "uri": "https://jisho.org/search/%E9%80%99%23kanji"
+  }
+}

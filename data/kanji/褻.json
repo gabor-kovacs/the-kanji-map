@@ -1,1 +1,48 @@
-{"id":"褻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"褻","found":true,"strokeCount":17,"meaning":"filthy","kunyomi":["けが.れる","な.れる"],"onyomi":["セツ"],"onyomiExamples":[{"example":"猥褻","reading":"ワイセツ","meaning":"obscene, indecent, dirty, improper"},{"example":"強制わいせつ","reading":"キョウセイワイセツ","meaning":"indecent assault, forcible indecency"}],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["丶","九","亠","土","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35131_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0893b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/893b.gif","uri":"https://jisho.org/search/%E8%A4%BB%23kanji"}}
+{
+  "id": "褻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "褻",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "filthy",
+    "kunyomi": [
+      "けが.れる",
+      "な.れる"
+    ],
+    "onyomi": [
+      "セツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "猥褻",
+        "reading": "ワイセツ",
+        "meaning": "obscene, indecent, dirty, improper"
+      },
+      {
+        "example": "強制わいせつ",
+        "reading": "キョウセイワイセツ",
+        "meaning": "indecent assault, forcible indecency"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "丶",
+      "九",
+      "亠",
+      "土",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35131_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0893b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/893b.gif",
+    "uri": "https://jisho.org/search/%E8%A4%BB%23kanji"
+  }
+}

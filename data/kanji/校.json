@@ -1,1 +1,373 @@
-{"id":"校","kanjialiveData":{"kanji":{"character":"校","meaning":{"english":"school"},"strokes":{"count":10,"timings":[0,1.533,2.4,3.266,4.066,4.933,5.732,6.467,7.4,8.533,9.6],"images":["https://media.kanjialive.com/kanji_strokes/(gak)kou_1.svg","https://media.kanjialive.com/kanji_strokes/(gak)kou_2.svg","https://media.kanjialive.com/kanji_strokes/(gak)kou_3.svg","https://media.kanjialive.com/kanji_strokes/(gak)kou_4.svg","https://media.kanjialive.com/kanji_strokes/(gak)kou_5.svg","https://media.kanjialive.com/kanji_strokes/(gak)kou_6.svg","https://media.kanjialive.com/kanji_strokes/(gak)kou_7.svg","https://media.kanjialive.com/kanji_strokes/(gak)kou_8.svg","https://media.kanjialive.com/kanji_strokes/(gak)kou_9.svg","https://media.kanjialive.com/kanji_strokes/(gak)kou_10.svg"]},"onyomi":{"romaji":"kou","katakana":"コウ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(gak)kou_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(gak)kou_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(gak)kou_00.webm"}},"radical":{"character":"","strokes":4,"image":"https://media.kanjialive.com/radical_character/kihen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"きへん","romaji":"kihen"},"meaning":{"english":"tree, wood"},"animation":["https://media.kanjialive.com/rad_frames/kihen0.svg","https://media.kanjialive.com/rad_frames/kihen1.svg","https://media.kanjialive.com/rad_frames/kihen2.svg"]},"references":{"grade":1,"kodansha":"630","classic_nelson":"2260"},"examples":[{"japanese":"学校（がっこう）","meaning":{"english":"school"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_a.mp3"}},{"japanese":"母校（ぼこう）","meaning":{"english":"alma mater"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_b.mp3"}},{"japanese":"小学校（しょうがっこう）","meaning":{"english":"elementary school"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_c.mp3"}},{"japanese":"中学校（ちゅうがっこう）","meaning":{"english":"junior high school"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_d.mp3"}},{"japanese":"高校生（こうこうせい）","meaning":{"english":"senior high school student"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_e.mp3"}},{"japanese":"予備校（よびこう）","meaning":{"english":"cram school"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_f.mp3"}},{"japanese":"校正する（こうせいする）","meaning":{"english":"proofread"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_g.mp3"}}]},"jishoData":{"query":"校","found":true,"taughtIn":"grade 1","jlptLevel":"N5","newspaperFrequencyRank":"294","strokeCount":10,"meaning":"exam, school, printing, proof, correction","kunyomi":[],"onyomi":["コウ","キョウ"],"onyomiExamples":[{"example":"校","reading":"コウ","meaning":"school, proof (of a book, document, etc.), counter for proofs"},{"example":"校歌","reading":"コウカ","meaning":"school song"},{"example":"一校","reading":"イッコウ","meaning":"whole school, the first proof, one proofreading"},{"example":"同校","reading":"ドウコウ","meaning":"the same school, the said school"},{"example":"校合","reading":"キョウゴウ","meaning":"collation, examining and comparing, checking (against the original text)"},{"example":"校書","reading":"キョウショ","meaning":"collation, examining and comparing, checking (against the original text), geisha"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["亠","木","父"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26657_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06821.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6821.gif","uri":"https://jisho.org/search/%E6%A0%A1%23kanji"}}
+{
+  "id": "校",
+  "kanjialiveData": {
+    "_id": "54317ae4791eba5146ee497b",
+    "_rev": "9-fcac0b5d2d978299bbcf7ea45f041abf",
+    "rad_name_ja": "きへん",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "school",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "学校（がっこう）",
+        "meaning": {
+          "english": "school"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "母校（ぼこう）",
+        "meaning": {
+          "english": "alma mater"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "小学校（しょうがっこう）",
+        "meaning": {
+          "english": "elementary school"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "中学校（ちゅうがっこう）",
+        "meaning": {
+          "english": "junior high school"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "高校生（こうこうせい）",
+        "meaning": {
+          "english": "senior high school student"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "予備校（よびこう）",
+        "meaning": {
+          "english": "cram school"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "校正する（こうせいする）",
+        "meaning": {
+          "english": "proofread"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(gak)kou_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(gak)kou_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "校",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=校",
+    "rad_name_search": [
+      "kihen"
+    ],
+    "rad_order": 98,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "29"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "10"
+      }
+    ],
+    "kname": "(gak)kou",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.533,
+      2.4,
+      3.266,
+      4.066,
+      4.933,
+      5.732,
+      6.467,
+      7.4,
+      8.533,
+      9.6
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "630",
+    "rad_name": "kihen",
+    "dicn": "2260",
+    "mn_hint": "Big tree 木 in the village center where people interact 交 and where children attend school.",
+    "rad_stroke": 4,
+    "onyomi_ja": "コウ",
+    "rad_meaning": "tree, wood",
+    "onyomi": "kou",
+    "ka_id": "ka_206",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kou",
+      "kou"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "school",
+      "school"
+    ],
+    "onyomi_ja_search": [
+      "コウ",
+      "コウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "きへん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:20",
+      "cij:c20",
+      "bk",
+      "bk:11",
+      "bk:c11",
+      "aij3",
+      "aij3:4",
+      "aij3:c4",
+      "aij3:v2",
+      "aij3:v2:4",
+      "aij3:v2:c4",
+      "gen",
+      "gen:7",
+      "gen:c7",
+      "ap",
+      "ap:6",
+      "ap:c6",
+      "kll",
+      "kll:7",
+      "kll:c7",
+      "cijr",
+      "cijr:29",
+      "cijr:c29",
+      "aij4",
+      "aij4:10",
+      "aij4:c10",
+      "aij4:v1",
+      "aij4:v1:10",
+      "aij4:v1:c10"
+    ],
+    "rad_name_file": "kihen",
+    "kanji": {
+      "character": "校",
+      "meaning": {
+        "english": "school"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          1.533,
+          2.4,
+          3.266,
+          4.066,
+          4.933,
+          5.732,
+          6.467,
+          7.4,
+          8.533,
+          9.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(gak)kou_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(gak)kou_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(gak)kou_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(gak)kou_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(gak)kou_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(gak)kou_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(gak)kou_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(gak)kou_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(gak)kou_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(gak)kou_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kou",
+        "katakana": "コウ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(gak)kou_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(gak)kou_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(gak)kou_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "きへん",
+        "romaji": "kihen"
+      },
+      "meaning": {
+        "english": "tree, wood"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kihen0.svg",
+        "https://media.kanjialive.com/rad_frames/kihen1.svg",
+        "https://media.kanjialive.com/rad_frames/kihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "630",
+      "classic_nelson": "2260"
+    }
+  },
+  "jishoData": {
+    "query": "校",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "294",
+    "strokeCount": 10,
+    "meaning": "exam, school, printing, proof, correction",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "校",
+        "reading": "コウ",
+        "meaning": "school, proofreading, proof"
+      },
+      {
+        "example": "校歌",
+        "reading": "コウカ",
+        "meaning": "school song"
+      },
+      {
+        "example": "一校",
+        "reading": "イッコウ",
+        "meaning": "one school, the whole school, one proofreading, first proof"
+      },
+      {
+        "example": "同校",
+        "reading": "ドウコウ",
+        "meaning": "the same school, the said school"
+      },
+      {
+        "example": "校合",
+        "reading": "キョウゴウ",
+        "meaning": "collation, examining and comparing, checking (against the original text)"
+      },
+      {
+        "example": "校書",
+        "reading": "キョウショ",
+        "meaning": "collation, examining and comparing, checking (against the original text), geisha"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "亠",
+      "木",
+      "父"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26657_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06821.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6821.gif",
+    "uri": "https://jisho.org/search/%E6%A0%A1%23kanji"
+  }
+}

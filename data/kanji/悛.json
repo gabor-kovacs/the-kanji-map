@@ -1,1 +1,43 @@
-{"id":"悛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"悛","found":true,"strokeCount":10,"meaning":"amend","kunyomi":["あらた.める"],"onyomi":["シュン","セン"],"onyomiExamples":[{"example":"改悛","reading":"カイシュン","meaning":"repentance, contrition"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["儿","厶","夂","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24731_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0609b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/609b.gif","uri":"https://jisho.org/search/%E6%82%9B%23kanji"}}
+{
+  "id": "悛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悛",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "amend",
+    "kunyomi": [
+      "あらた.める"
+    ],
+    "onyomi": [
+      "シュン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "改悛",
+        "reading": "カイシュン",
+        "meaning": "repentance, contrition"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "儿",
+      "厶",
+      "夂",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24731_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0609b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/609b.gif",
+    "uri": "https://jisho.org/search/%E6%82%9B%23kanji"
+  }
+}

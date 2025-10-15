@@ -1,1 +1,59 @@
-{"id":"焚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"焚","found":true,"strokeCount":12,"meaning":"burn, kindle, build a fire, boil, cook","kunyomi":["た.く","や.く","やきがり"],"onyomi":["フン","ホン","ハン"],"onyomiExamples":[{"example":"焚刑","reading":"フンケイ","meaning":"burning at the stake"},{"example":"焚書","reading":"フンショ","meaning":"book burning"}],"kunyomiExamples":[{"example":"焚く","reading":"たく","meaning":"to burn, to kindle, to light (a fire), to make (a fire), to heat (a bath), to light (a stove), to stoke (a boiler), to use (a camera flash)"},{"example":"焼く","reading":"やく","meaning":"to burn, to roast, to broil, to grill, to bake, to toast, to barbecue, to heat, to heat up, to make (charcoal, pottery, bricks, etc.), to bake, to fire, to burn, to tan (i.e. suntan), to burn, to print (a photo), to burn (an optical disc), to be jealous of, to be envious of, to envy"}],"radical":{"symbol":"火","forms":["灬"],"meaning":"fire"},"parts":["木","火"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28954_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0711a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/711a.gif","uri":"https://jisho.org/search/%E7%84%9A%23kanji"}}
+{
+  "id": "焚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "焚",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "burn, kindle, build a fire, boil, cook",
+    "kunyomi": [
+      "た.く",
+      "や.く",
+      "やきがり"
+    ],
+    "onyomi": [
+      "フン",
+      "ホン",
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "焚刑",
+        "reading": "フンケイ",
+        "meaning": "burning at the stake"
+      },
+      {
+        "example": "焚書",
+        "reading": "フンショ",
+        "meaning": "book burning"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "焚く",
+        "reading": "たく",
+        "meaning": "to burn, to kindle, to light (a fire), to make (a fire), to heat (a bath), to light (a stove), to stoke (a boiler), to use (a camera flash)"
+      },
+      {
+        "example": "焼く",
+        "reading": "やく",
+        "meaning": "to burn, to roast, to broil, to grill, to bake, to toast, to barbecue, to heat, to heat up, to make (charcoal, pottery, bricks, etc.), to bake, to fire, to burn, to tan (i.e. suntan), to burn, to print (a photo), to burn (an optical disc), to be jealous of, to be envious of, to envy"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "fire"
+    },
+    "parts": [
+      "木",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28954_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0711a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/711a.gif",
+    "uri": "https://jisho.org/search/%E7%84%9A%23kanji"
+  }
+}

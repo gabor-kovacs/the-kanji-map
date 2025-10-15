@@ -1,1 +1,44 @@
-{"id":"搦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"搦","found":true,"strokeCount":13,"meaning":"bind, tie, approx.","kunyomi":["から.める","-がら.み"],"onyomi":["ジャク","ジョク","ダク","ニャク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"絡める","reading":"からめる","meaning":"to entwine, to twine around, to mix together, to coordinate (with), to arrest"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["冫","弓","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25638_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06426.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6426.gif","uri":"https://jisho.org/search/%E6%90%A6%23kanji"}}
+{
+  "id": "搦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "搦",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "bind, tie, approx.",
+    "kunyomi": [
+      "から.める",
+      "-がら.み"
+    ],
+    "onyomi": [
+      "ジャク",
+      "ジョク",
+      "ダク",
+      "ニャク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "絡める",
+        "reading": "からめる",
+        "meaning": "to entwine, to twine around, to mix together, to coordinate (with), to arrest"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "冫",
+      "弓",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25638_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06426.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6426.gif",
+    "uri": "https://jisho.org/search/%E6%90%A6%23kanji"
+  }
+}

@@ -1,1 +1,106 @@
-{"id":"殻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"殻","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1892","strokeCount":11,"meaning":"husk, nut shell","kunyomi":["から","がら"],"onyomi":["カク","コク","バイ"],"onyomiExamples":[{"example":"殻","reading":"カク","meaning":"shell (e.g. electron shell)"},{"example":"殻構造","reading":"カクコウゾウ","meaning":"shell structure"},{"example":"地殻","reading":"チカク","meaning":"(Earth's) crust"},{"example":"介殻","reading":"カイカク","meaning":"sea shell"},{"example":"枸橘","reading":"カラタチ","meaning":"trifoliate orange (Poncirus trifoliata), hardy orange"},{"example":"船殻","reading":"センコク","meaning":"hull"}],"kunyomiExamples":[{"example":"殻","reading":"から","meaning":"shell, husk, hull, pod, chaff"},{"example":"殻竿","reading":"からざお","meaning":"flail (for threshing grain)"},{"example":"雪花菜","reading":"おから","meaning":"okara, soy pulp, tofu dregs, edible pulp separated from soybean milk in the production of tofu"},{"example":"もぬけの殻","reading":"もぬけのから","meaning":"completely empty (of a residence, etc.), vacant, deserted, body from which the soul has left, corpse, shed skin (of a snake, insect, etc.)"},{"example":"殻","reading":"がら","meaning":"chicken bones (e.g. for soup), chicken carcass, poor-quality coke (coal), left-overs, remnants"},{"example":"灰殻","reading":"はいがら","meaning":"ashes"},{"example":"燃え殻","reading":"もえがら","meaning":"embers, cinders, burnt residue, combustion residue"}],"radical":{"symbol":"殳","meaning":"weapon, lance"},"parts":["冖","几","又","士","殳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27579_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bbb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bbb.gif","uri":"https://jisho.org/search/%E6%AE%BB%23kanji"}}
+{
+  "id": "殻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殻",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1892",
+    "strokeCount": 11,
+    "meaning": "husk, nut shell",
+    "kunyomi": [
+      "から",
+      "がら"
+    ],
+    "onyomi": [
+      "カク",
+      "コク",
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "殻",
+        "reading": "カク",
+        "meaning": "shell (e.g. electron shell)"
+      },
+      {
+        "example": "殻果",
+        "reading": "カクカ",
+        "meaning": "hard-shelled nut (e.g. walnut, pecan, almond)"
+      },
+      {
+        "example": "地殻",
+        "reading": "チカク",
+        "meaning": "(Earth's) crust"
+      },
+      {
+        "example": "介殻",
+        "reading": "カイカク",
+        "meaning": "sea shell"
+      },
+      {
+        "example": "枸橘",
+        "reading": "カラタチ",
+        "meaning": "trifoliate orange (Poncirus trifoliata), hardy orange"
+      },
+      {
+        "example": "船殻",
+        "reading": "センコク",
+        "meaning": "hull"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "殻",
+        "reading": "から",
+        "meaning": "shell, husk, hull, pod, chaff"
+      },
+      {
+        "example": "殻竿",
+        "reading": "からざお",
+        "meaning": "flail (for threshing grain)"
+      },
+      {
+        "example": "雪花菜",
+        "reading": "おから",
+        "meaning": "okara, soy pulp, tofu dregs, edible pulp separated from soybean milk in the production of tofu"
+      },
+      {
+        "example": "もぬけの殻",
+        "reading": "もぬけのから",
+        "meaning": "completely empty (of a residence, etc.), vacant, deserted, body from which the soul has left, corpse, shed skin (of a snake, insect, etc.)"
+      },
+      {
+        "example": "殻",
+        "reading": "がら",
+        "meaning": "chicken bones (e.g. for soup), chicken carcass, poor-quality coke (coal), left-overs, remnants"
+      },
+      {
+        "example": "灰殻",
+        "reading": "はいがら",
+        "meaning": "ashes"
+      },
+      {
+        "example": "燃え殻",
+        "reading": "もえがら",
+        "meaning": "embers, cinders, burnt residue, combustion residue"
+      }
+    ],
+    "radical": {
+      "symbol": "殳",
+      "meaning": "weapon, lance"
+    },
+    "parts": [
+      "冖",
+      "几",
+      "又",
+      "士",
+      "殳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27579_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bbb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bbb.gif",
+    "uri": "https://jisho.org/search/%E6%AE%BB%23kanji"
+  }
+}

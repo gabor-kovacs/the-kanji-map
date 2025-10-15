@@ -1,1 +1,48 @@
-{"id":"廠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廠","found":true,"strokeCount":15,"meaning":"workshop","kunyomi":[],"onyomi":["ショウ"],"onyomiExamples":[{"example":"廠舎","reading":"ショウシャ","meaning":"barracks, cantonment, temporary lodging with roof but no walls (esp. for military exercises)"},{"example":"造兵廠","reading":"ゾウヘイショウ","meaning":"armory, armoury, arms factory, arsenal"},{"example":"工廠","reading":"コウショウ","meaning":"arsenal, arms and ammunition factory"}],"kunyomiExamples":[],"radical":{"symbol":"广","meaning":"house on cliff"},"parts":["乞","冂","口","尚","广","攵"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24288_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ee0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ee0.gif","uri":"https://jisho.org/search/%E5%BB%A0%23kanji"}}
+{
+  "id": "廠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廠",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "workshop",
+    "kunyomi": [],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廠舎",
+        "reading": "ショウシャ",
+        "meaning": "barracks, cantonment, temporary lodging with roof but no walls (esp. for military exercises)"
+      },
+      {
+        "example": "造兵廠",
+        "reading": "ゾウヘイショウ",
+        "meaning": "armory, armoury, arms factory, arsenal"
+      },
+      {
+        "example": "工廠",
+        "reading": "コウショウ",
+        "meaning": "arsenal, arms and ammunition factory"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "广",
+      "meaning": "house on cliff"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "口",
+      "尚",
+      "广",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24288_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ee0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ee0.gif",
+    "uri": "https://jisho.org/search/%E5%BB%A0%23kanji"
+  }
+}

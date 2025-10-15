@@ -1,1 +1,57 @@
-{"id":"魏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"魏","found":true,"newspaperFrequencyRank":"2075","strokeCount":18,"meaning":"high, large, Kingdom of Wei","kunyomi":["たか.い"],"onyomi":["ギ"],"onyomiExamples":[{"example":"魏","reading":"ギ","meaning":"Wei (kingdom in China during the Three Kingdoms period; 220-266 CE), Cao Wei, Wei (kingdom in China during the Warring States period; 403-225 BCE)"},{"example":"巍々","reading":"ギギ","meaning":"towering (mountains), soaring, lofty, majestic"},{"example":"阿魏","reading":"アギ","meaning":"asafetida (Ferula assafoetida)"},{"example":"西魏","reading":"セイギ","meaning":"Western Wei dynasty (of China; 535-557)"}],"kunyomiExamples":[],"radical":{"symbol":"鬼","meaning":"ghost, demon"},"parts":["儿","匕","厶","女","田","禾","鬼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39759_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b4f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b4f.gif","uri":"https://jisho.org/search/%E9%AD%8F%23kanji"}}
+{
+  "id": "魏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "魏",
+    "found": true,
+    "newspaperFrequencyRank": "2075",
+    "strokeCount": 18,
+    "meaning": "high, large, Kingdom of Wei",
+    "kunyomi": [
+      "たか.い"
+    ],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "魏",
+        "reading": "ギ",
+        "meaning": "Wei (kingdom in China during the Three Kingdoms period; 220-266 CE), Cao Wei, Wei (kingdom in China during the Warring States period; 403-225 BCE)"
+      },
+      {
+        "example": "巍々",
+        "reading": "ギギ",
+        "meaning": "towering (mountains), soaring, lofty, majestic"
+      },
+      {
+        "example": "阿魏",
+        "reading": "アギ",
+        "meaning": "asafetida (Ferula assafoetida)"
+      },
+      {
+        "example": "西魏",
+        "reading": "セイギ",
+        "meaning": "Western Wei dynasty (of China; 535-557)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鬼",
+      "meaning": "ghost, demon"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "女",
+      "田",
+      "禾",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39759_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b4f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b4f.gif",
+    "uri": "https://jisho.org/search/%E9%AD%8F%23kanji"
+  }
+}

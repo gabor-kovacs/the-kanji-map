@@ -1,1 +1,52 @@
-{"id":"秦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"秦","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1894","strokeCount":10,"meaning":"Manchu dynasty, name given to naturalized foreigners","kunyomi":["はた"],"onyomi":["シン"],"onyomiExamples":[{"example":"秦","reading":"シン","meaning":"Qin dynasty (of China; 221-207 BCE), Ch'in dynasty"},{"example":"先秦","reading":"センシン","meaning":"pre-Qin period (of China)"}],"kunyomiExamples":[{"example":"秦","reading":"しん","meaning":"Qin dynasty (of China; 221-207 BCE), Ch'in dynasty"}],"radical":{"symbol":"禾","meaning":"grain"},"parts":["一","二","人","大","禾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31206_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/079e6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/79e6.gif","uri":"https://jisho.org/search/%E7%A7%A6%23kanji"}}
+{
+  "id": "秦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "秦",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1894",
+    "strokeCount": 10,
+    "meaning": "Manchu dynasty, name given to naturalized foreigners",
+    "kunyomi": [
+      "はた"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "秦",
+        "reading": "シン",
+        "meaning": "Qin dynasty (of China; 221-207 BCE), Ch'in dynasty"
+      },
+      {
+        "example": "先秦",
+        "reading": "センシン",
+        "meaning": "pre-Qin period (of China)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "秦",
+        "reading": "しん",
+        "meaning": "Qin dynasty (of China; 221-207 BCE), Ch'in dynasty"
+      }
+    ],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "grain"
+    },
+    "parts": [
+      "一",
+      "二",
+      "人",
+      "大",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31206_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/079e6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/79e6.gif",
+    "uri": "https://jisho.org/search/%E7%A7%A6%23kanji"
+  }
+}

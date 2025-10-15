@@ -1,1 +1,47 @@
-{"id":"箍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"箍","found":true,"strokeCount":14,"meaning":"barrel hoop","kunyomi":["たが"],"onyomi":["コ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"箍","reading":"たが","meaning":"hoop (of a barrel, bucket, etc.)"},{"example":"たがが外れる","reading":"たががはずれる","meaning":"to become unrestrained and go to excess, to lose all restraint, to lose one's tension and become relaxed, to let go, to become disorderly, to be scattered, to lose one's self-control"}],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","匚","巾","扎","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31629_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b8d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b8d.gif","uri":"https://jisho.org/search/%E7%AE%8D%23kanji"}}
+{
+  "id": "箍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "箍",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "barrel hoop",
+    "kunyomi": [
+      "たが"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "【タガ】",
+        "reading": "hoop (of a barrel, bucket, etc.), discipline, solidarity",
+        "meaning": ""
+      },
+      {
+        "example": "タガが外れる",
+        "reading": "タガがはずれる",
+        "meaning": "to become unrestrained and go to excess, to lose all restraint, to lose one's tension and become relaxed, to let go, to become disorderly, to be scattered, to lose one's self-control"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "匚",
+      "巾",
+      "扎",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31629_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b8d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b8d.gif",
+    "uri": "https://jisho.org/search/%E7%AE%8D%23kanji"
+  }
+}

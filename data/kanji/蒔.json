@@ -1,1 +1,45 @@
-{"id":"蒔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蒔","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2368","strokeCount":13,"meaning":"sow (seeds)","kunyomi":["う.える","ま.く"],"onyomi":["シ","ジ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蒔く","reading":"まく","meaning":"to sow, to plant, to seed, to sow (the seeds of; e.g. conflict), to sprinkle (gold or silver powder on lacquerware)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["土","寸","日","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33940_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08494.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8494.gif","uri":"https://jisho.org/search/%E8%92%94%23kanji"}}
+{
+  "id": "蒔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蒔",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2368",
+    "strokeCount": 13,
+    "meaning": "sow (seeds)",
+    "kunyomi": [
+      "う.える",
+      "ま.く"
+    ],
+    "onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蒔く",
+        "reading": "まく",
+        "meaning": "to sow, to plant, to seed, to sow (the seeds of; e.g. conflict), to sprinkle (gold or silver powder on lacquerware)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "土",
+      "寸",
+      "日",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33940_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08494.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8494.gif",
+    "uri": "https://jisho.org/search/%E8%92%94%23kanji"
+  }
+}

@@ -1,1 +1,67 @@
-{"id":"屯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"屯","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1980","strokeCount":4,"meaning":"barracks, police station, camp, ton","kunyomi":["たむろ"],"onyomi":["トン"],"onyomiExamples":[{"example":"屯","reading":"トン","meaning":"ton (esp. a metric ton, i.e. 1000 kg), tonne"},{"example":"屯営","reading":"トンエイ","meaning":"military camp, barracks, camping"},{"example":"駐屯","reading":"チュウトン","meaning":"stationing (troops), occupancy"},{"example":"英噸","reading":"エイトン","meaning":"long ton, British ton"}],"kunyomiExamples":[{"example":"屯","reading":"たむろ","meaning":"gathering, place where people gather, police station, camp, barracks"},{"example":"屯う","reading":"たむろう","meaning":"to gather in large numbers (of people), to hang out (as a large group)"}],"radical":{"symbol":"屮","meaning":"sprout"},"parts":["ノ","乙","凵","屯"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23663_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c6f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c6f.gif","uri":"https://jisho.org/search/%E5%B1%AF%23kanji"}}
+{
+  "id": "屯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屯",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1980",
+    "strokeCount": 4,
+    "meaning": "barracks, police station, camp, ton",
+    "kunyomi": [
+      "たむろ"
+    ],
+    "onyomi": [
+      "トン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "屯",
+        "reading": "トン",
+        "meaning": "ton (esp. a metric ton, i.e. 1000 kg), tonne"
+      },
+      {
+        "example": "屯営",
+        "reading": "トンエイ",
+        "meaning": "military camp, barracks, camping"
+      },
+      {
+        "example": "駐屯",
+        "reading": "チュウトン",
+        "meaning": "stationing (troops), garrisoning"
+      },
+      {
+        "example": "英トン",
+        "reading": "エイトン",
+        "meaning": "long ton, British ton"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "屯",
+        "reading": "たむろ",
+        "meaning": "gathering, place where people gather, police station, camp, barracks"
+      },
+      {
+        "example": "屯う",
+        "reading": "たむろう",
+        "meaning": "to gather (of people), to assemble, to hang out"
+      }
+    ],
+    "radical": {
+      "symbol": "屮",
+      "meaning": "sprout"
+    },
+    "parts": [
+      "ノ",
+      "乙",
+      "凵",
+      "屯"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23663_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c6f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c6f.gif",
+    "uri": "https://jisho.org/search/%E5%B1%AF%23kanji"
+  }
+}

@@ -1,1 +1,318 @@
-{"id":"捨","kanjialiveData":{"kanji":{"character":"捨","meaning":{"english":"discard, throw away, abandon"},"strokes":{"count":11,"timings":[0,1.066667,2.733333,3.591667,4.788333,5.666667,6.733333,7.533333,8.8,9.895,11.4,12.866667],"images":["https://media.kanjialive.com/kanji_strokes/sha-su(teru)_1.svg","https://media.kanjialive.com/kanji_strokes/sha-su(teru)_2.svg","https://media.kanjialive.com/kanji_strokes/sha-su(teru)_3.svg","https://media.kanjialive.com/kanji_strokes/sha-su(teru)_4.svg","https://media.kanjialive.com/kanji_strokes/sha-su(teru)_5.svg","https://media.kanjialive.com/kanji_strokes/sha-su(teru)_6.svg","https://media.kanjialive.com/kanji_strokes/sha-su(teru)_7.svg","https://media.kanjialive.com/kanji_strokes/sha-su(teru)_8.svg","https://media.kanjialive.com/kanji_strokes/sha-su(teru)_9.svg","https://media.kanjialive.com/kanji_strokes/sha-su(teru)_10.svg","https://media.kanjialive.com/kanji_strokes/sha-su(teru)_11.svg"]},"onyomi":{"romaji":"sha","katakana":"シャ"},"kunyomi":{"romaji":"su, suteru","hiragana":"す"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/sha-su(teru)_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/sha-su(teru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/sha-su(teru)_00.webm"}},"radical":{"character":"⺘","strokes":3,"image":"https://media.kanjialive.com/radical_character/tehen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"てへん","romaji":"tehen"},"meaning":{"english":"hand"},"animation":["https://media.kanjialive.com/rad_frames/tehen0.svg","https://media.kanjialive.com/rad_frames/tehen1.svg","https://media.kanjialive.com/rad_frames/tehen2.svg"]},"references":{"grade":6,"kodansha":"369","classic_nelson":"1944"},"examples":[{"japanese":"四捨五入（ししゃごにゅう）","meaning":{"english":"rounding up (fractions)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sha-su(teru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sha-su(teru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sha-su(teru)_06_a.mp3"}},{"japanese":"取捨選択（しゅしゃせんたく）","meaning":{"english":"decision to adopt or reject"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sha-su(teru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sha-su(teru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sha-su(teru)_06_b.mp3"}},{"japanese":"捨てる（すてる）","meaning":{"english":"throw away"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sha-su(teru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sha-su(teru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sha-su(teru)_06_c.mp3"}},{"japanese":"見捨てる（みすてる）","meaning":{"english":"abandon"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sha-su(teru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sha-su(teru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sha-su(teru)_06_d.mp3"}}]},"jishoData":{"query":"捨","found":true,"taughtIn":"grade 6","jlptLevel":"N2","newspaperFrequencyRank":"1266","strokeCount":11,"meaning":"discard, throw away, abandon, resign, reject, sacrifice","kunyomi":["す.てる"],"onyomi":["シャ"],"onyomiExamples":[{"example":"捨","reading":"シャ","meaning":"equanimity, upeksa, upekkha"},{"example":"捨象","reading":"シャショウ","meaning":"abstraction"},{"example":"取捨","reading":"シュシャ","meaning":"adoption or rejection, selection, choice, option"},{"example":"用捨","reading":"ヨウシャ","meaning":"adoption or rejection, selection, choice, leniency, mercy, going easy (on someone)"}],"kunyomiExamples":[{"example":"捨てる","reading":"すてる","meaning":"to throw away, to cast away, to dump, to discard, to abandon, to desert, to leave, to give up, to resign"},{"example":"捨てる神あれば拾う神あり","reading":"すてるかみあればひろうかみあり","meaning":"when one door is shut, another is open, the world is as kind as it is cruel"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["个","口","土","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25448_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06368.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6368.gif","uri":"https://jisho.org/search/%E6%8D%A8%23kanji"}}
+{
+  "id": "捨",
+  "kanjialiveData": {
+    "_id": "54317afb791eba5146ee4b2d",
+    "_rev": "12-3f09053948cf76879796d8de3c3ea4c7",
+    "rad_name_ja": "てへん",
+    "grade": 6,
+    "hint_group": 2,
+    "kunyomi": "su, suteru",
+    "meaning": "discard, throw away, abandon",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "四捨五入（ししゃごにゅう）",
+        "meaning": {
+          "english": "rounding up (fractions)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-su(teru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-su(teru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-su(teru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "取捨選択（しゅしゃせんたく）",
+        "meaning": {
+          "english": "decision to adopt or reject"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-su(teru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-su(teru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-su(teru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "捨てる（すてる）",
+        "meaning": {
+          "english": "throw away"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-su(teru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-su(teru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-su(teru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "見捨てる（みすてる）",
+        "meaning": {
+          "english": "abandon"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-su(teru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-su(teru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-su(teru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-su(teru)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "す、すてる",
+    "ka_utf": "捨",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=捨",
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_order": 77,
+    "txt_books": [
+      {
+        "chapter": "19",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtMajoFilm"
+      },
+      {
+        "chapter": "32",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "sha-su(teru)",
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      1.066667,
+      2.733333,
+      3.591667,
+      4.788333,
+      5.666667,
+      6.733333,
+      7.533333,
+      8.8,
+      9.895,
+      11.4,
+      12.866667
+    ],
+    "kunyomi_ka_display": "す",
+    "dick": "369",
+    "rad_name": "tehen",
+    "dicn": "1944",
+    "mn_hint": "Person [9] throwing 扌 away dirt 土 to a trash can 口.",
+    "rad_stroke": 3,
+    "onyomi_ja": "シャ",
+    "rad_meaning": "hand",
+    "onyomi": "sha",
+    "ka_id": "ka_598",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "sha",
+      "sha"
+    ],
+    "kunyomi_search": [
+      "su",
+      "suteru",
+      "su, suteru"
+    ],
+    "meaning_search": [
+      "discard",
+      "throw away",
+      "throw",
+      "away",
+      "abandon",
+      "discard, throw away, abandon"
+    ],
+    "onyomi_ja_search": [
+      "シャ",
+      "シャ"
+    ],
+    "kunyomi_ja_search": [
+      "す",
+      "すてる",
+      "す、すてる"
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:19",
+      "ij:c19",
+      "mnt",
+      "mnt:7",
+      "mnt:c7",
+      "kll",
+      "kll:32",
+      "kll:c32",
+      "jt",
+      "jt:15",
+      "jt:c15"
+    ],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "捨",
+      "meaning": {
+        "english": "discard, throw away, abandon"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1.066667,
+          2.733333,
+          3.591667,
+          4.788333,
+          5.666667,
+          6.733333,
+          7.533333,
+          8.8,
+          9.895,
+          11.4,
+          12.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sha",
+        "katakana": "シャ"
+      },
+      "kunyomi": {
+        "romaji": "su, suteru",
+        "hiragana": "す"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sha-su(teru)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sha-su(teru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sha-su(teru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "hand"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "369",
+      "classic_nelson": "1944"
+    }
+  },
+  "jishoData": {
+    "query": "捨",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1266",
+    "strokeCount": 11,
+    "meaning": "discard, throw away, abandon, resign, reject, sacrifice",
+    "kunyomi": [
+      "す.てる"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "捨",
+        "reading": "シャ",
+        "meaning": "equanimity, upeksa, upekkha"
+      },
+      {
+        "example": "捨象",
+        "reading": "シャショウ",
+        "meaning": "abstraction"
+      },
+      {
+        "example": "取捨",
+        "reading": "シュシャ",
+        "meaning": "adoption or rejection, selection, choice, option"
+      },
+      {
+        "example": "用捨",
+        "reading": "ヨウシャ",
+        "meaning": "adoption or rejection, selection, choice, leniency, mercy, going easy (on someone)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捨てる",
+        "reading": "すてる",
+        "meaning": "to throw away, to cast away, to dump, to discard, to abandon, to desert, to leave, to give up, to resign"
+      },
+      {
+        "example": "捨てる神あれば拾う神あり",
+        "reading": "すてるかみあればひろうかみあり",
+        "meaning": "when one door is shut, another is open, the world is as kind as it is cruel, there are gods that will abandon you and there are gods that will pick you up"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "个",
+      "口",
+      "土",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25448_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06368.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6368.gif",
+    "uri": "https://jisho.org/search/%E6%8D%A8%23kanji"
+  }
+}

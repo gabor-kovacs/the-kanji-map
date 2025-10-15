@@ -1,1 +1,43 @@
-{"id":"髴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"髴","found":true,"strokeCount":15,"meaning":"dimly","kunyomi":[],"onyomi":["フツ"],"onyomiExamples":[{"example":"彷彿","reading":"ホウフツ","meaning":"(bearing a) close resemblance, vivid reminder (e.g. of the past), dim, faint, vague, blurred"},{"example":"水天彷彿","reading":"スイテンホウフツ","meaning":"view in the distant offing where the sea and skyline cannot be distinguished"}],"kunyomiExamples":[],"radical":{"symbol":"髟","meaning":"long hair"},"parts":["ノ","弓","彡","長","髟","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39668_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09af4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9af4.gif","uri":"https://jisho.org/search/%E9%AB%B4%23kanji"}}
+{
+  "id": "髴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "髴",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "dimly",
+    "kunyomi": [],
+    "onyomi": [
+      "フツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彷彿",
+        "reading": "ホウフツ",
+        "meaning": "(bearing a) close resemblance, vivid reminder (e.g. of the past), dim, faint, vague, blurred"
+      },
+      {
+        "example": "水天彷彿",
+        "reading": "スイテンホウフツ",
+        "meaning": "the sky and water merging into one, seamless merging of the sea and the sky"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "long hair"
+    },
+    "parts": [
+      "ノ",
+      "弓",
+      "彡",
+      "長",
+      "髟",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39668_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09af4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9af4.gif",
+    "uri": "https://jisho.org/search/%E9%AB%B4%23kanji"
+  }
+}

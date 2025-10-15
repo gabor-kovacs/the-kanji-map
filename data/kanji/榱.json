@@ -1,1 +1,37 @@
-{"id":"榱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"榱","found":true,"strokeCount":14,"meaning":"rafter","kunyomi":["たるき"],"onyomi":["スイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"垂木","reading":"たるき","meaning":"rafter"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["亠","木","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27057_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069b1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69b1.gif","uri":"https://jisho.org/search/%E6%A6%B1%23kanji"}}
+{
+  "id": "榱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "榱",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "rafter",
+    "kunyomi": [
+      "たるき"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "垂木",
+        "reading": "たるき",
+        "meaning": "rafter"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "亠",
+      "木",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27057_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069b1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69b1.gif",
+    "uri": "https://jisho.org/search/%E6%A6%B1%23kanji"
+  }
+}

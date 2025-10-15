@@ -1,1 +1,57 @@
-{"id":"曳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"曳","found":true,"strokeCount":6,"meaning":"pull, tug, jerk, admit, install, quote, refer to","kunyomi":["ひ.く"],"onyomi":["エイ"],"onyomiExamples":[{"example":"曳々","reading":"エイエイ","meaning":"heaving, pulling"},{"example":"曳火弾","reading":"エイカダン","meaning":"tracer bullet"},{"example":"曳々","reading":"エイエイ","meaning":"heaving, pulling"},{"example":"揺曳","reading":"ヨウエイ","meaning":"flutter, linger"}],"kunyomiExamples":[{"example":"引く","reading":"ひく","meaning":"to pull, to tug, to lead (e.g. a horse), to draw (attention, sympathy, etc.), to attract (e.g. interest), to draw back (e.g. one's hand), to draw in (one's chin, stomach, etc.), to pull in, to draw (a card, mahjong tile, etc.), to draw (a line, plan, etc.), to catch (a cold), to play (a stringed or keyboard instrument), to look up (in a dictionary, phone book, etc.), to consult, to check, to haul, to pull (vehicles), to subtract, to deduct, to recede, to ebb, to fade, to be descend from, to inherit (a characteristic), to quote, to cite, to raise (as evidence), to lay on (electricity, gas, etc.), to install (e.g. a telephone), to supply (e.g. water), to hold (e.g. a note), to apply (e.g. lipstick), to oil (e.g. a pan), to wax (e.g. a floor), to move back, to draw back, to recede, to lessen, to subside, to ebb, to go down (e.g. of swelling), to resign, to retire, to quit"}],"radical":{"symbol":"曰","meaning":"say"},"parts":["乙","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26355_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066f3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66f3.gif","uri":"https://jisho.org/search/%E6%9B%B3%23kanji"}}
+{
+  "id": "曳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "曳",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "pull, tug, jerk, admit, install, quote, refer to",
+    "kunyomi": [
+      "ひ.く"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "曳々",
+        "reading": "エイエイ",
+        "meaning": "heaving, pulling"
+      },
+      {
+        "example": "曳火弾",
+        "reading": "エイカダン",
+        "meaning": "tracer bullet"
+      },
+      {
+        "example": "曳々",
+        "reading": "エイエイ",
+        "meaning": "heaving, pulling"
+      },
+      {
+        "example": "揺曳",
+        "reading": "ヨウエイ",
+        "meaning": "flutter, linger"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "引く",
+        "reading": "ひく",
+        "meaning": "to pull, to tug, to lead (e.g. a horse), to draw (attention, sympathy, etc.), to attract (e.g. interest), to draw back (e.g. one's hand), to draw in (one's chin, stomach, etc.), to pull in, to draw (a card, mahjong tile, etc.), to draw (a line, plan, etc.), to catch (a cold), to play (a stringed or keyboard instrument), to look up (in a dictionary, phone book, etc.), to consult, to check, to haul, to pull (vehicles), to subtract, to deduct, to recede, to ebb, to fade, to be descend from, to inherit (a characteristic), to quote, to cite, to raise (as evidence), to lay on (electricity, gas, etc.), to install (e.g. a telephone), to supply (e.g. water), to hold (e.g. a note), to apply (e.g. lipstick), to oil (e.g. a pan), to wax (e.g. a floor), to move back, to draw back, to recede, to fall back, to retreat, to lessen, to subside, to ebb, to go down (e.g. of swelling), to resign, to retire, to quit, to be put off (by someone's words or behaviour), to be turned off, to recoil (in disgust, etc.), to cringe"
+      }
+    ],
+    "radical": {
+      "symbol": "曰",
+      "meaning": "say"
+    },
+    "parts": [
+      "乙",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26355_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066f3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66f3.gif",
+    "uri": "https://jisho.org/search/%E6%9B%B3%23kanji"
+  }
+}

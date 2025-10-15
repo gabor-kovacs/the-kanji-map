@@ -1,1 +1,56 @@
-{"id":"靖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"靖","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1390","strokeCount":13,"meaning":"peaceful","kunyomi":["やす.んじる"],"onyomi":["セイ","ジョウ"],"onyomiExamples":[{"example":"靖国","reading":"セイコク","meaning":"pacifying the nation"},{"example":"静寧","reading":"セイネイ","meaning":"peace and quiet, tranquility, peace on earth"},{"example":"閑靖","reading":"カンセイ","meaning":"tranquillity, quiet"}],"kunyomiExamples":[],"radical":{"symbol":"青","forms":["靑"],"meaning":"blue"},"parts":["二","亠","土","月","立","青"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38742_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09756.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9756.gif","uri":"https://jisho.org/search/%E9%9D%96%23kanji"}}
+{
+  "id": "靖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "靖",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1390",
+    "strokeCount": 13,
+    "meaning": "peaceful",
+    "kunyomi": [
+      "やす.んじる"
+    ],
+    "onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "靖国",
+        "reading": "セイコク",
+        "meaning": "pacifying the nation"
+      },
+      {
+        "example": "静寧",
+        "reading": "セイネイ",
+        "meaning": "peace, calm, tranquility"
+      },
+      {
+        "example": "閑靖",
+        "reading": "カンセイ",
+        "meaning": "tranquillity, quiet"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "青",
+      "forms": [
+        "靑"
+      ],
+      "meaning": "blue"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "土",
+      "月",
+      "立",
+      "青"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38742_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09756.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9756.gif",
+    "uri": "https://jisho.org/search/%E9%9D%96%23kanji"
+  }
+}

@@ -1,1 +1,69 @@
-{"id":"鑒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鑒","found":true,"strokeCount":23,"meaning":"take warning from, learn from, pattern, example","kunyomi":["かんが.みる","かがみ"],"onyomi":["カン"],"onyomiExamples":[{"example":"鑑識","reading":"カンシキ","meaning":"judgement, judgment, discernment, discrimination, having an eye for, appraisal (e.g. of an antique), evaluation, assessment, forensics, (criminal) identification, crime lab"},{"example":"鑑みる","reading":"カンガミル","meaning":"to take into account, to bear in mind, to consider, to learn from, to take warning from"},{"example":"清鑑","reading":"セイカン","meaning":"excellent judgement"},{"example":"降鑒","reading":"コウカン","meaning":"the gods watching over humans from the heavens"}],"kunyomiExamples":[{"example":"鑑みる","reading":"かんがみる","meaning":"to take into account, to bear in mind, to consider, to learn from, to take warning from"},{"example":"鑑","reading":"かがみ","meaning":"model, pattern, paragon, exemplar"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["乞","二","臣","買","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37970_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09452.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9452.gif","uri":"https://jisho.org/search/%E9%91%92%23kanji"}}
+{
+  "id": "鑒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑒",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "take warning from, learn from, pattern, example",
+    "kunyomi": [
+      "かんが.みる",
+      "かがみ"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鑑識",
+        "reading": "カンシキ",
+        "meaning": "judgement, judgment, discernment, discrimination, having an eye for, appraisal (e.g. of an antique), evaluation, assessment, forensics, (criminal) identification, crime lab"
+      },
+      {
+        "example": "鑑みる",
+        "reading": "カンガミル",
+        "meaning": "to take into account, to bear in mind, to consider, to learn from, to take warning from"
+      },
+      {
+        "example": "清鑑",
+        "reading": "セイカン",
+        "meaning": "excellent judgement"
+      },
+      {
+        "example": "降鑒",
+        "reading": "コウカン",
+        "meaning": "the gods watching over humans from the heavens"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鑑みる",
+        "reading": "かんがみる",
+        "meaning": "to take into account, to bear in mind, to consider, to learn from, to take warning from"
+      },
+      {
+        "example": "鑑",
+        "reading": "かがみ",
+        "meaning": "model, pattern, paragon, exemplar"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "臣",
+      "買",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37970_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09452.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9452.gif",
+    "uri": "https://jisho.org/search/%E9%91%92%23kanji"
+  }
+}

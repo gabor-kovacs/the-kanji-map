@@ -1,1 +1,476 @@
-{"id":"物","kanjialiveData":{"kanji":{"character":"物","meaning":{"english":"thing"},"strokes":{"count":8,"timings":[0,2.265,3.265,4.332,5.132,6.065,7.999,8.732,9.866667],"images":["https://media.kanjialive.com/kanji_strokes/butsu-mono_1.svg","https://media.kanjialive.com/kanji_strokes/butsu-mono_2.svg","https://media.kanjialive.com/kanji_strokes/butsu-mono_3.svg","https://media.kanjialive.com/kanji_strokes/butsu-mono_4.svg","https://media.kanjialive.com/kanji_strokes/butsu-mono_5.svg","https://media.kanjialive.com/kanji_strokes/butsu-mono_6.svg","https://media.kanjialive.com/kanji_strokes/butsu-mono_7.svg","https://media.kanjialive.com/kanji_strokes/butsu-mono_8.svg"]},"onyomi":{"romaji":"butsu, motsu","katakana":"ブツ、モツ"},"kunyomi":{"romaji":"mono","hiragana":"もの"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/butsu-mono_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/butsu-mono_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/butsu-mono_00.webm"}},"radical":{"character":"","strokes":4,"image":"https://media.kanjialive.com/radical_character/ushihen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"うしへん","romaji":"ushihen"},"meaning":{"english":"cow"},"animation":["https://media.kanjialive.com/rad_frames/ushihen0.svg","https://media.kanjialive.com/rad_frames/ushihen1.svg","https://media.kanjialive.com/rad_frames/ushihen2.svg"]},"references":{"grade":3,"kodansha":"587","classic_nelson":"2857"},"examples":[{"japanese":"動物園（どうぶつえん）","meaning":{"english":"zoo"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_a.mp3"}},{"japanese":"物価（ぶっか）","meaning":{"english":"cost of living"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_b.mp3"}},{"japanese":"物理（ぶつり）","meaning":{"english":"physics"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_c.mp3"}},{"japanese":"見物する（けんぶつする）","meaning":{"english":"go sightseeing"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_d.mp3"}},{"japanese":"荷物（にもつ）","meaning":{"english":"luggage"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_e.mp3"}},{"japanese":"物（もの）","meaning":{"english":"thing"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_f.mp3"}},{"japanese":"建物（たてもの）","meaning":{"english":"building"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_g.mp3"}},{"japanese":"食べ物（たべもの）","meaning":{"english":"food"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_h.mp3"}},{"japanese":"買い物（かいもの）","meaning":{"english":"shopping"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_i.mp3"}},{"japanese":"乗り物（のりもの）","meaning":{"english":"vehicle"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_j.mp3"}},{"japanese":"着物（きもの）","meaning":{"english":"kimono"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_k.mp3"}},{"japanese":"贈り物（おくりもの）","meaning":{"english":"gift"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_l.mp3"}}]},"jishoData":{"query":"物","found":true,"taughtIn":"grade 3","jlptLevel":"N4","newspaperFrequencyRank":"215","strokeCount":8,"meaning":"thing, object, matter","kunyomi":["もの","もの-"],"onyomi":["ブツ","モツ"],"onyomiExamples":[{"example":"物","reading":"ブツ","meaning":"stock, products, stolen goods, loot, spoils"},{"example":"物議","reading":"ブツギ","meaning":"public discussion, public criticism, controversy"},{"example":"異物","reading":"イブツ","meaning":"foreign substance, foreign body, foreign contamination, foreign material, strange object, unusual object, dead body, corpse, remains"},{"example":"遺物","reading":"イブツ","meaning":"relic, remains, memento"},{"example":"財物","reading":"ザイブツ","meaning":"property"},{"example":"幣物","reading":"ヘイモツ","meaning":"Shinto offerings, present to a guest"}],"kunyomiExamples":[{"example":"物","reading":"もの","meaning":"thing, object, article, stuff, substance, one's things, possessions, property, belongings, things, something, anything, everything, nothing, quality, reason, the way of things, used to emphasize emotion, judgment, etc., used to indicate a common occurrence in the past (after a verb in past tense), used to indicate a general tendency, used to indicate something that should happen, item classified as ..., item related to ..., work in the genre of ..., cause of ..., cause for ..., somehow, somewhat, for some reason, really, truly"},{"example":"物言い","reading":"ものいい","meaning":"manner of speaking, verbal argument, objection, protesting a decision (esp. that of a sumo referee), rumor, rumour"},{"example":"先物","reading":"さきもの","meaning":"futures, futures contract"},{"example":"拾い物","reading":"ひろいもの","meaning":"a find, windfall, bargain"}],"radical":{"symbol":"牛","forms":["牜"],"meaning":"cow"},"parts":["ノ","勹","勿","牛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29289_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07269.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7269.gif","uri":"https://jisho.org/search/%E7%89%A9%23kanji"}}
+{
+  "id": "物",
+  "kanjialiveData": {
+    "_id": "54317ae0791eba5146ee492a",
+    "_rev": "10-d0bb197ee3280e846c52dde4d060b401",
+    "rad_name_ja": "うしへん",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "mono",
+    "meaning": "thing",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "動物園（どうぶつえん）",
+        "meaning": {
+          "english": "zoo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "物価（ぶっか）",
+        "meaning": {
+          "english": "cost of living"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "物理（ぶつり）",
+        "meaning": {
+          "english": "physics"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "見物する（けんぶつする）",
+        "meaning": {
+          "english": "go sightseeing"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "荷物（にもつ）",
+        "meaning": {
+          "english": "luggage"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "物（もの）",
+        "meaning": {
+          "english": "thing"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "建物（たてもの）",
+        "meaning": {
+          "english": "building"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "食べ物（たべもの）",
+        "meaning": {
+          "english": "food"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "買い物（かいもの）",
+        "meaning": {
+          "english": "shopping"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "乗り物（のりもの）",
+        "meaning": {
+          "english": "vehicle"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "着物（きもの）",
+        "meaning": {
+          "english": "kimono"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "贈り物（おくりもの）",
+        "meaning": {
+          "english": "gift"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/butsu-mono_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/butsu-mono_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/butsu-mono_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/butsu-mono_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "もの",
+    "ka_utf": "物",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=物",
+    "kname": "butsu-mono",
+    "rad_order": 117,
+    "txt_books": [
+      {
+        "chapter": "14",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "4"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "8"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "14"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "22"
+      }
+    ],
+    "rad_name_search": [
+      "ushihen"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      2.265,
+      3.265,
+      4.332,
+      5.132,
+      6.065,
+      7.999,
+      8.732,
+      9.866667
+    ],
+    "kunyomi_ka_display": "もの",
+    "dick": "587",
+    "rad_name": "ushihen",
+    "dicn": "2857",
+    "mn_hint": "Most precious things to farmers: cattle 牛 and animals 勿.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ブツ、モツ",
+    "rad_meaning": "cow",
+    "onyomi": "butsu, motsu",
+    "ka_id": "ka_133",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "butsu",
+      "motsu",
+      "butsu, motsu"
+    ],
+    "kunyomi_search": [
+      "mono",
+      "mono"
+    ],
+    "meaning_search": [
+      "thing",
+      "thing"
+    ],
+    "onyomi_ja_search": [
+      "ブツ",
+      "モツ",
+      "ブツ、モツ"
+    ],
+    "kunyomi_ja_search": [
+      "もの",
+      "もの"
+    ],
+    "rad_meaning_search": [
+      "cow",
+      "cow"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "うしへん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:14",
+      "cij:c14",
+      "bk",
+      "bk:7",
+      "bk:c7",
+      "aij3",
+      "aij3:13",
+      "aij3:c13",
+      "aij3:v2",
+      "aij3:v2:13",
+      "aij3:v2:c13",
+      "gen",
+      "gen:13",
+      "gen:c13",
+      "ap",
+      "ap:18",
+      "ap:c18",
+      "kll",
+      "kll:20",
+      "kll:c20",
+      "mosr",
+      "mosr:4",
+      "mosr:c4",
+      "mosr",
+      "mosr:8",
+      "mosr:c8",
+      "mosr",
+      "mosr:14",
+      "mosr:c14",
+      "cijr",
+      "cijr:22",
+      "cijr:c22"
+    ],
+    "rad_name_file": "ushihen",
+    "kanji": {
+      "character": "物",
+      "meaning": {
+        "english": "thing"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          2.265,
+          3.265,
+          4.332,
+          5.132,
+          6.065,
+          7.999,
+          8.732,
+          9.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/butsu-mono_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/butsu-mono_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/butsu-mono_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/butsu-mono_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/butsu-mono_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/butsu-mono_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/butsu-mono_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/butsu-mono_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "butsu, motsu",
+        "katakana": "ブツ、モツ"
+      },
+      "kunyomi": {
+        "romaji": "mono",
+        "hiragana": "もの"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/butsu-mono_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/butsu-mono_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/butsu-mono_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/ushihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "うしへん",
+        "romaji": "ushihen"
+      },
+      "meaning": {
+        "english": "cow"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ushihen0.svg",
+        "https://media.kanjialive.com/rad_frames/ushihen1.svg",
+        "https://media.kanjialive.com/rad_frames/ushihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "587",
+      "classic_nelson": "2857"
+    }
+  },
+  "jishoData": {
+    "query": "物",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "215",
+    "strokeCount": 8,
+    "meaning": "thing, object, matter",
+    "kunyomi": [
+      "もの",
+      "もの-"
+    ],
+    "onyomi": [
+      "ブツ",
+      "モツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "物",
+        "reading": "ブツ",
+        "meaning": "stock, products, goods (esp. stolen), loot, spoils, stuff"
+      },
+      {
+        "example": "物議",
+        "reading": "ブツギ",
+        "meaning": "public discussion, public criticism, controversy"
+      },
+      {
+        "example": "異物",
+        "reading": "イブツ",
+        "meaning": "foreign substance, foreign body, foreign contamination, foreign material, strange object, unusual object, dead body, corpse, remains"
+      },
+      {
+        "example": "遺物",
+        "reading": "イブツ",
+        "meaning": "relic, remains, memento"
+      },
+      {
+        "example": "一物",
+        "reading": "イチモツ",
+        "meaning": "one thing, one article, ulterior motive, secret intention, secret scheme, plot, penis, money"
+      },
+      {
+        "example": "財物",
+        "reading": "ザイブツ",
+        "meaning": "property"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "物",
+        "reading": "もの",
+        "meaning": "thing, object, article, stuff, substance, one's things, possessions, property, belongings, things, something, anything, everything, nothing, quality, reason, the way of things, used to emphasize emotion, judgment, etc., used to indicate a common occurrence in the past (after a verb in past tense), used to indicate a general tendency, used to indicate something that should happen, item classified as ..., item related to ..., work in the genre of ..., cause of ..., cause for ..., somehow, somewhat, for some reason, really, truly"
+      },
+      {
+        "example": "物言い",
+        "reading": "ものいい",
+        "meaning": "manner of speaking, verbal argument, objection, protesting a decision (esp. that of a sumo referee), rumor, rumour"
+      },
+      {
+        "example": "先物",
+        "reading": "さきもの",
+        "meaning": "futures, futures contract"
+      },
+      {
+        "example": "拾い物",
+        "reading": "ひろいもの",
+        "meaning": "found article, thing picked up (e.g. in the street), (lucky) find, piece of good luck, windfall, bargain"
+      }
+    ],
+    "radical": {
+      "symbol": "牛",
+      "forms": [
+        "牜"
+      ],
+      "meaning": "cow"
+    },
+    "parts": [
+      "ノ",
+      "勹",
+      "勿",
+      "牛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29289_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07269.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7269.gif",
+    "uri": "https://jisho.org/search/%E7%89%A9%23kanji"
+  }
+}

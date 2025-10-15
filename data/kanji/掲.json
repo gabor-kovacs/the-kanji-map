@@ -1,1 +1,65 @@
-{"id":"掲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"掲","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"899","strokeCount":11,"meaning":"put up (a notice), put up, hoist, display, hang out, publish, describe","kunyomi":["かか.げる"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"掲示","reading":"ケイジ","meaning":"notice, bulletin, post, posting, placard"},{"example":"掲載","reading":"ケイサイ","meaning":"publication (e.g. of an article in a newspaper), carrying (e.g. a story), running (e.g. a serial), insertion (e.g. of an advertisement), printing, posting (e.g. on the web)"},{"example":"再掲","reading":"サイケイ","meaning":"redisplaying, republishing, reproduction, reprint, repost"},{"example":"上掲","reading":"ジョウケイ","meaning":"the above-mentioned"}],"kunyomiExamples":[{"example":"掲げる","reading":"かかげる","meaning":"to put up (a notice, sign, etc.), to hang out (e.g. a banner), to fly (e.g. a flag), to hoist, to raise, to display, to hold up high, to raise overhead, to tout (a principle, plan, etc.), to herald, to hold up (an ideal), to parade (e.g. a slogan), to publish, to print, to carry (e.g. an article), to tuck up (e.g. sleeves), to roll up, to stoke (a fire), to fan (a flame)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["勹","匕","扎","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25522_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063b2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63b2.gif","uri":"https://jisho.org/search/%E6%8E%B2%23kanji"}}
+{
+  "id": "掲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "掲",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "899",
+    "strokeCount": 11,
+    "meaning": "put up (a notice), put up, hoist, display, hang out, publish, describe",
+    "kunyomi": [
+      "かか.げる"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "掲示",
+        "reading": "ケイジ",
+        "meaning": "notice, bulletin, post, posting, placard"
+      },
+      {
+        "example": "掲載",
+        "reading": "ケイサイ",
+        "meaning": "publication (e.g. of an article in a newspaper), carrying (e.g. a story), running (e.g. a serial), insertion (e.g. of an advertisement), printing, posting (e.g. on the web)"
+      },
+      {
+        "example": "再掲",
+        "reading": "サイケイ",
+        "meaning": "redisplaying, republishing, reproduction, reprint, repost"
+      },
+      {
+        "example": "上掲",
+        "reading": "ジョウケイ",
+        "meaning": "the above-mentioned"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "掲げる",
+        "reading": "かかげる",
+        "meaning": "to put up (a notice, sign, etc.), to hang out (e.g. a banner), to fly (e.g. a flag), to hoist, to raise, to display, to hold up high, to raise overhead, to tout (a principle, plan, etc.), to herald, to hold up (an ideal), to parade (e.g. a slogan), to publish, to print, to carry (e.g. an article), to tuck up (e.g. sleeves), to roll up, to stoke (a fire), to fan (a flame)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "勹",
+      "匕",
+      "扎",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25522_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063b2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63b2.gif",
+    "uri": "https://jisho.org/search/%E6%8E%B2%23kanji"
+  }
+}

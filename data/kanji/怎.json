@@ -1,1 +1,45 @@
-{"id":"怎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"怎","found":true,"strokeCount":9,"meaning":"why, how","kunyomi":["いかで","なんぞ"],"onyomi":["シン","ソ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ノ","一","乞","心","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24590_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0600e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/600e.gif","uri":"https://jisho.org/search/%E6%80%8E%23kanji"}}
+{
+  "id": "怎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "怎",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "why, how",
+    "kunyomi": [
+      "いかで",
+      "なんぞ"
+    ],
+    "onyomi": [
+      "シン",
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "作麼生",
+        "reading": "ソモサン",
+        "meaning": "consider the following, can you answer this?"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "心",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24590_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0600e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/600e.gif",
+    "uri": "https://jisho.org/search/%E6%80%8E%23kanji"
+  }
+}

@@ -1,1 +1,47 @@
-{"id":"孤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"孤","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1239","strokeCount":9,"meaning":"orphan, alone","kunyomi":[],"onyomi":["コ"],"onyomiExamples":[{"example":"孤","reading":"コ","meaning":"being alone, solitude, loneliness, orphan"},{"example":"孤児","reading":"コジ","meaning":"orphan, person without friends"},{"example":"遺孤","reading":"イコ","meaning":"orphan"}],"kunyomiExamples":[],"radical":{"symbol":"子","meaning":"child, seed"},"parts":["子","瓜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23396_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b64.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b64.gif","uri":"https://jisho.org/search/%E5%AD%A4%23kanji"}}
+{
+  "id": "孤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "孤",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1239",
+    "strokeCount": 9,
+    "meaning": "orphan, alone",
+    "kunyomi": [],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "孤",
+        "reading": "コ",
+        "meaning": "being alone, solitude, loneliness, orphan"
+      },
+      {
+        "example": "孤児",
+        "reading": "コジ",
+        "meaning": "orphan, person without friends"
+      },
+      {
+        "example": "遺孤",
+        "reading": "イコ",
+        "meaning": "orphan"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "子",
+      "meaning": "child, seed"
+    },
+    "parts": [
+      "子",
+      "瓜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23396_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b64.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b64.gif",
+    "uri": "https://jisho.org/search/%E5%AD%A4%23kanji"
+  }
+}

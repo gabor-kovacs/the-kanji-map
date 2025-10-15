@@ -1,1 +1,38 @@
-{"id":"湎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"湎","found":true,"strokeCount":12,"meaning":"drown, be immersed","kunyomi":["おぼ.れる","しず.む"],"onyomi":["メン","ベン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","囗","汁","面"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28238_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e4e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e4e.gif","uri":"https://jisho.org/search/%E6%B9%8E%23kanji"}}
+{
+  "id": "湎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "湎",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "drown, be immersed",
+    "kunyomi": [
+      "おぼ.れる",
+      "しず.む"
+    ],
+    "onyomi": [
+      "メン",
+      "ベン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "囗",
+      "汁",
+      "面"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28238_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e4e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e4e.gif",
+    "uri": "https://jisho.org/search/%E6%B9%8E%23kanji"
+  }
+}

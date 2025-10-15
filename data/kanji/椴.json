@@ -1,1 +1,45 @@
-{"id":"椴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"椴","found":true,"strokeCount":13,"meaning":"fir","kunyomi":["むくげ"],"onyomi":["タン","ダン","トド"],"onyomiExamples":[{"example":"椴","reading":"トド","meaning":"Sakhalin fir (Abies sachalinensis)"},{"example":"椴松","reading":"トドマツ","meaning":"Sakhalin fir (Abies sachalinensis)"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["几","又","木","殳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26932_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06934.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6934.gif","uri":"https://jisho.org/search/%E6%A4%B4%23kanji"}}
+{
+  "id": "椴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椴",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "fir",
+    "kunyomi": [
+      "むくげ"
+    ],
+    "onyomi": [
+      "タン",
+      "ダン",
+      "トド"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "椴",
+        "reading": "トド",
+        "meaning": "Sakhalin fir (Abies sachalinensis)"
+      },
+      {
+        "example": "椴松",
+        "reading": "トドマツ",
+        "meaning": "Sakhalin fir (Abies sachalinensis)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "几",
+      "又",
+      "木",
+      "殳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26932_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06934.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6934.gif",
+    "uri": "https://jisho.org/search/%E6%A4%B4%23kanji"
+  }
+}

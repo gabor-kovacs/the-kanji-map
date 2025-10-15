@@ -1,1 +1,48 @@
-{"id":"凧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"凧","found":true,"newspaperFrequencyRank":"2117","strokeCount":5,"meaning":"kite, (kokuji)","kunyomi":["いかのぼり","たこ"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"凧","reading":"たこ","meaning":"kite"},{"example":"凧","reading":"たこ","meaning":"kite"},{"example":"凧揚げ","reading":"たこあげ","meaning":"kite flying"}],"radical":{"symbol":"几","meaning":"table"},"parts":["冂","几","巾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20967_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051e7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51e7.gif","uri":"https://jisho.org/search/%E5%87%A7%23kanji"}}
+{
+  "id": "凧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凧",
+    "found": true,
+    "newspaperFrequencyRank": "2117",
+    "strokeCount": 5,
+    "meaning": "kite, (kokuji)",
+    "kunyomi": [
+      "いかのぼり",
+      "たこ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "凧",
+        "reading": "いかのぼり",
+        "meaning": "kite"
+      },
+      {
+        "example": "凧",
+        "reading": "たこ",
+        "meaning": "kite"
+      },
+      {
+        "example": "凧揚げ",
+        "reading": "たこあげ",
+        "meaning": "kite flying"
+      }
+    ],
+    "radical": {
+      "symbol": "几",
+      "meaning": "table"
+    },
+    "parts": [
+      "冂",
+      "几",
+      "巾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20967_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051e7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51e7.gif",
+    "uri": "https://jisho.org/search/%E5%87%A7%23kanji"
+  }
+}

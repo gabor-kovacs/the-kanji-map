@@ -1,1 +1,47 @@
-{"id":"蹼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蹼","found":true,"strokeCount":19,"meaning":"webfoot, web","kunyomi":["みずかき"],"onyomi":["ボク","ホク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"水かき","reading":"みずかき","meaning":"web (between fingers or toes), paddle, paddle blade"}],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["二","人","口","大","并","止","王","羊","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36476_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e7c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e7c.gif","uri":"https://jisho.org/search/%E8%B9%BC%23kanji"}}
+{
+  "id": "蹼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蹼",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "webfoot, web",
+    "kunyomi": [
+      "みずかき"
+    ],
+    "onyomi": [
+      "ボク",
+      "ホク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "水かき",
+        "reading": "みずかき",
+        "meaning": "web (between fingers or toes), paddle, paddle blade"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "二",
+      "人",
+      "口",
+      "大",
+      "并",
+      "止",
+      "王",
+      "羊",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36476_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e7c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e7c.gif",
+    "uri": "https://jisho.org/search/%E8%B9%BC%23kanji"
+  }
+}

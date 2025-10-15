@@ -1,1 +1,55 @@
-{"id":"躄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"躄","found":true,"strokeCount":20,"meaning":"crawl, cripple","kunyomi":["いざ.る","いざ.り"],"onyomi":["ヘキ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"躄る","reading":"いざる","meaning":"to shuffle (on one's bottom or knees), to crawl, to shift position (of an object)"},{"example":"躄","reading":"いざり","meaning":"crawling on the ground, shuffling on one's knees, cripple"},{"example":"躄魚","reading":"いざりうお","meaning":"frogfish (any fish of family Antennariidae, esp. the striated frogfish, Antennarius striatus)"}],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["十","口","尸","止","立","足","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36484_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e84.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e84.gif","uri":"https://jisho.org/search/%E8%BA%84%23kanji"}}
+{
+  "id": "躄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "躄",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "crawl, cripple",
+    "kunyomi": [
+      "いざ.る",
+      "いざ.り"
+    ],
+    "onyomi": [
+      "ヘキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "躄る",
+        "reading": "いざる",
+        "meaning": "to shuffle (on one's bottom or knees), to crawl, to shift position (of an object)"
+      },
+      {
+        "example": "躄",
+        "reading": "いざり",
+        "meaning": "crawling on the ground, shuffling on one's knees, cripple"
+      },
+      {
+        "example": "躄魚",
+        "reading": "いざりうお",
+        "meaning": "frogfish (any fish of family Antennariidae, esp. the striated frogfish, Antennarius striatus)"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "止",
+      "立",
+      "足",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36484_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e84.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e84.gif",
+    "uri": "https://jisho.org/search/%E8%BA%84%23kanji"
+  }
+}

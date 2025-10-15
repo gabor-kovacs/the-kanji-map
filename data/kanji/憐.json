@@ -1,1 +1,74 @@
-{"id":"憐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"憐","found":true,"strokeCount":16,"meaning":"pity, have mercy, sympathise, compassion","kunyomi":["あわ.れむ","あわ.れ"],"onyomi":["レン"],"onyomiExamples":[{"example":"憐察","reading":"レンサツ","meaning":"pity, mercy, compassion"},{"example":"憐情","reading":"レンジョウ","meaning":"compassion, pity"},{"example":"可憐","reading":"カレン","meaning":"sweet (e.g. young girls, flowers blooming), touchingly lovely, cute, pitiful, pitiable"},{"example":"愛憐","reading":"アイレン","meaning":"sympathy"}],"kunyomiExamples":[{"example":"哀れむ","reading":"あわれむ","meaning":"to pity, to feel sympathy for, to sympathize with, to sympathise with, to commiserate with, to have mercy on, to enjoy the beauty of, to appreciate, to admire"},{"example":"哀れ","reading":"あわれ","meaning":"pity, sorrow, grief, misery, compassion, pathos, pitiable, pitiful, pathetic, miserable, alack, alas"},{"example":"哀れむ","reading":"あわれむ","meaning":"to pity, to feel sympathy for, to sympathize with, to sympathise with, to commiserate with, to have mercy on, to enjoy the beauty of, to appreciate, to admire"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["夕","忙","米","舛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24976_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06190.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6190.gif","uri":"https://jisho.org/search/%E6%86%90%23kanji"}}
+{
+  "id": "憐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憐",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "pity, have mercy, sympathise, compassion",
+    "kunyomi": [
+      "あわ.れむ",
+      "あわ.れ"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憐察",
+        "reading": "レンサツ",
+        "meaning": "pity, mercy, compassion"
+      },
+      {
+        "example": "憐情",
+        "reading": "レンジョウ",
+        "meaning": "compassion, pity"
+      },
+      {
+        "example": "可憐",
+        "reading": "カレン",
+        "meaning": "sweet (e.g. young girls, flowers blooming), touchingly lovely, cute, pitiful, pitiable"
+      },
+      {
+        "example": "愛憐",
+        "reading": "アイレン",
+        "meaning": "sympathy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "哀れむ",
+        "reading": "あわれむ",
+        "meaning": "to pity, to feel sympathy for, to sympathize with, to sympathise with, to commiserate with, to have mercy on, to enjoy the beauty of, to appreciate, to admire"
+      },
+      {
+        "example": "哀れ",
+        "reading": "あわれ",
+        "meaning": "pity, sorrow, grief, misery, compassion, pathos, pitiable, pitiful, pathetic, miserable, alack, alas"
+      },
+      {
+        "example": "哀れむ",
+        "reading": "あわれむ",
+        "meaning": "to pity, to feel sympathy for, to sympathize with, to sympathise with, to commiserate with, to have mercy on, to enjoy the beauty of, to appreciate, to admire"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "夕",
+      "忙",
+      "米",
+      "舛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24976_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06190.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6190.gif",
+    "uri": "https://jisho.org/search/%E6%86%90%23kanji"
+  }
+}

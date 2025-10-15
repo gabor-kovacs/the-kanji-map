@@ -1,1 +1,68 @@
-{"id":"愧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"愧","found":true,"strokeCount":13,"meaning":"feel ashamed, shy","kunyomi":["はじ.る","はじ.らう","はずかし.める","とが.める"],"onyomi":["キ"],"onyomiExamples":[{"example":"愧死","reading":"キシ","meaning":"dying of shame, being so ashamed one wants to die"},{"example":"愧赧","reading":"キタン","meaning":"blushing with embarrassment"},{"example":"無愧","reading":"ムギ","meaning":"shameless"},{"example":"慙愧","reading":"ザンキ","meaning":"(feeling of) shame"}],"kunyomiExamples":[{"example":"恥じる","reading":"はじる","meaning":"to feel ashamed"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["儿","匕","厶","忙","田","鬼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24871_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06127.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6127.gif","uri":"https://jisho.org/search/%E6%84%A7%23kanji"}}
+{
+  "id": "愧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "愧",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "feel ashamed, shy",
+    "kunyomi": [
+      "はじ.る",
+      "はじ.らう",
+      "はずかし.める",
+      "とが.める"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "愧死",
+        "reading": "キシ",
+        "meaning": "dying of shame, being so ashamed one wants to die"
+      },
+      {
+        "example": "愧赧",
+        "reading": "キタン",
+        "meaning": "blushing with embarrassment"
+      },
+      {
+        "example": "無愧",
+        "reading": "ムギ",
+        "meaning": "shameless"
+      },
+      {
+        "example": "慙愧",
+        "reading": "ザンキ",
+        "meaning": "(feeling of) shame"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恥じる",
+        "reading": "はじる",
+        "meaning": "to feel ashamed"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "忙",
+      "田",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24871_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06127.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6127.gif",
+    "uri": "https://jisho.org/search/%E6%84%A7%23kanji"
+  }
+}

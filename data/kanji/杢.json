@@ -1,1 +1,39 @@
-{"id":"杢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"杢","found":true,"strokeCount":7,"meaning":"woodworker, (kokuji)","kunyomi":["もく"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"木目","reading":"もくめ","meaning":"grain (of wood)"},{"example":"杢糸","reading":"もくいと","meaning":"grandrelle yarn, mouline yarn, mottled yarn, mock twist yarn"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["工","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26466_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06762.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6762.gif","uri":"https://jisho.org/search/%E6%9D%A2%23kanji"}}
+{
+  "id": "杢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杢",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "woodworker, (kokuji)",
+    "kunyomi": [
+      "もく"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "杢",
+        "reading": "もく",
+        "meaning": "figure (pattern in wood)"
+      },
+      {
+        "example": "木目",
+        "reading": "もくめ",
+        "meaning": "grain (of wood)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "工",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26466_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06762.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6762.gif",
+    "uri": "https://jisho.org/search/%E6%9D%A2%23kanji"
+  }
+}

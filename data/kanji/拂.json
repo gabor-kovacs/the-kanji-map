@@ -1,1 +1,37 @@
-{"id":"拂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"拂","found":true,"strokeCount":8,"meaning":"clear out, sweep away","kunyomi":["はら.う"],"onyomi":["ヒツ","フツ","ホツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ノ","弓","扎","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25282_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062c2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62c2.gif","uri":"https://jisho.org/search/%E6%8B%82%23kanji"}}
+{
+  "id": "拂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拂",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "clear out, sweep away",
+    "kunyomi": [
+      "はら.う"
+    ],
+    "onyomi": [
+      "ヒツ",
+      "フツ",
+      "ホツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ノ",
+      "弓",
+      "扎",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25282_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062c2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62c2.gif",
+    "uri": "https://jisho.org/search/%E6%8B%82%23kanji"
+  }
+}

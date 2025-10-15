@@ -1,1 +1,44 @@
-{"id":"冦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冦","found":true,"strokeCount":10,"meaning":"foe, enemy, revenge, grudge, feud","kunyomi":["あだ.する"],"onyomi":["コウ"],"onyomiExamples":[{"example":"侵攻","reading":"シンコウ","meaning":"invasion"},{"example":"来冦","reading":"ライコウ","meaning":"invasion, raid"}],"kunyomiExamples":[],"radical":{"symbol":"冖","meaning":"cover"},"parts":["儿","元","冖","卜","又"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20902_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a6.gif","uri":"https://jisho.org/search/%E5%86%A6%23kanji"}}
+{
+  "id": "冦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冦",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "foe, enemy, revenge, grudge, feud",
+    "kunyomi": [
+      "あだ.する"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "侵攻",
+        "reading": "シンコウ",
+        "meaning": "invasion"
+      },
+      {
+        "example": "来冦",
+        "reading": "ライコウ",
+        "meaning": "invasion, raid"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冖",
+      "meaning": "cover"
+    },
+    "parts": [
+      "儿",
+      "元",
+      "冖",
+      "卜",
+      "又"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20902_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a6.gif",
+    "uri": "https://jisho.org/search/%E5%86%A6%23kanji"
+  }
+}

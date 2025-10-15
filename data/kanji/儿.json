@@ -1,1 +1,30 @@
-{"id":"儿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"儿","found":true,"strokeCount":2,"meaning":"legs radical (no. 10)","kunyomi":["がい"],"onyomi":["ジン","ニン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"儿","meaning":"legs"},"parts":["儿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20799_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0513f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/513f.gif","uri":"https://jisho.org/search/%E5%84%BF%23kanji"}}
+{
+  "id": "儿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "儿",
+    "found": true,
+    "strokeCount": 2,
+    "meaning": "legs radical (no. 10)",
+    "kunyomi": [
+      "がい"
+    ],
+    "onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "legs"
+    },
+    "parts": [
+      "儿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20799_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0513f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/513f.gif",
+    "uri": "https://jisho.org/search/%E5%84%BF%23kanji"
+  }
+}

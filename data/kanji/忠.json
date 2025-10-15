@@ -1,1 +1,265 @@
-{"id":"忠","kanjialiveData":{"kanji":{"character":"忠","meaning":{"english":"loyalty, faithfulness"},"strokes":{"count":8,"timings":[0,0.6,2.266667,3.266667,4.6,5.6,6.666667,7.266667,9.066667],"images":["https://media.kanjialive.com/kanji_strokes/chuu(koku)_1.svg","https://media.kanjialive.com/kanji_strokes/chuu(koku)_2.svg","https://media.kanjialive.com/kanji_strokes/chuu(koku)_3.svg","https://media.kanjialive.com/kanji_strokes/chuu(koku)_4.svg","https://media.kanjialive.com/kanji_strokes/chuu(koku)_5.svg","https://media.kanjialive.com/kanji_strokes/chuu(koku)_6.svg","https://media.kanjialive.com/kanji_strokes/chuu(koku)_7.svg","https://media.kanjialive.com/kanji_strokes/chuu(koku)_8.svg"]},"onyomi":{"romaji":"chuu","katakana":"チュウ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/chuu(koku)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/chuu(koku)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/chuu(koku)_00.webm"}},"radical":{"character":"⼼","strokes":4,"image":"https://media.kanjialive.com/radical_character/kokoro.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"こころ","romaji":"kokoro"},"meaning":{"english":"heart, mind, spirit"},"animation":["https://media.kanjialive.com/rad_frames/kokoro0.svg","https://media.kanjialive.com/rad_frames/kokoro1.svg","https://media.kanjialive.com/rad_frames/kokoro2.svg"]},"references":{"grade":6,"kodansha":"1575","classic_nelson":"1653"},"examples":[{"japanese":"忠義（ちゅうぎ）","meaning":{"english":"loyalty, devotion"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/chuu(koku)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/chuu(koku)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/chuu(koku)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/chuu(koku)_06_a.mp3"}},{"japanese":"忠誠心（ちゅうせいしん）","meaning":{"english":"loyalty, sincerity"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/chuu(koku)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/chuu(koku)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/chuu(koku)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/chuu(koku)_06_b.mp3"}},{"japanese":"忠実な（ちゅうじつな）","meaning":{"english":"faithful, loyal"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/chuu(koku)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/chuu(koku)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/chuu(koku)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/chuu(koku)_06_c.mp3"}},{"japanese":"忠告する（ちゅうこくする）","meaning":{"english":"advise, warn"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/chuu(koku)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/chuu(koku)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/chuu(koku)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/chuu(koku)_06_d.mp3"}}]},"jishoData":{"query":"忠","found":true,"taughtIn":"grade 6","jlptLevel":"N1","newspaperFrequencyRank":"1113","strokeCount":8,"meaning":"loyalty, fidelity, faithfulness","kunyomi":[],"onyomi":["チュウ"],"onyomiExamples":[{"example":"忠","reading":"チュウ","meaning":"loyalty, devotion, fidelity, faithfulness, inspector of the Imperial Prosecuting and Investigating Office (ritsuryō system)"},{"example":"忠臣","reading":"チュウシン","meaning":"loyal retainer, loyal subject"},{"example":"誠忠","reading":"セイチュウ","meaning":"loyalty"},{"example":"不忠","reading":"フチュウ","meaning":"disloyalty, infidelity"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["口","心","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24544_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fe0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fe0.gif","uri":"https://jisho.org/search/%E5%BF%A0%23kanji"}}
+{
+  "id": "忠",
+  "kanjialiveData": {
+    "_id": "54317b01791eba5146ee4bad",
+    "_rev": "9-3aae1f2293d96871e640b6aa4651ef82",
+    "rad_name_ja": "こころ",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "loyalty, faithfulness",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "忠義（ちゅうぎ）",
+        "meaning": {
+          "english": "loyalty, devotion"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu(koku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu(koku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu(koku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu(koku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "忠誠心（ちゅうせいしん）",
+        "meaning": {
+          "english": "loyalty, sincerity"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu(koku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu(koku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu(koku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu(koku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "忠実な（ちゅうじつな）",
+        "meaning": {
+          "english": "faithful, loyal"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu(koku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu(koku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu(koku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu(koku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "忠告する（ちゅうこくする）",
+        "meaning": {
+          "english": "advise, warn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu(koku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu(koku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu(koku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu(koku)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "忠",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=忠",
+    "rad_name_search": [
+      "kokoro"
+    ],
+    "rad_order": 80,
+    "txt_books": [
+      {
+        "chapter": "15",
+        "txt_bk": "txtIntermJpn"
+      }
+    ],
+    "kname": "chuu(koku)",
+    "rad_utf": "⼼",
+    "stroketimes": [
+      0,
+      0.6,
+      2.266667,
+      3.266667,
+      4.6,
+      5.6,
+      6.666667,
+      7.266667,
+      9.066667
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1575",
+    "rad_name": "kokoro",
+    "dicn": "1653",
+    "mn_hint": "When a person's word 口 \"has the backbone\" 丨, supported by a devoted heart 心.",
+    "rad_stroke": 4,
+    "onyomi_ja": "チュウ",
+    "rad_meaning": "heart, mind, spirit",
+    "onyomi": "chuu",
+    "ka_id": "ka_712",
+    "onyomi_search": [
+      "chuu",
+      "chuu"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "loyalty",
+      "faithfulness",
+      "loyalty, faithfulness"
+    ],
+    "onyomi_ja_search": [
+      "チュウ",
+      "チュウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "heart",
+      "mind",
+      "spirit",
+      "heart, mind, spirit"
+    ],
+    "rad_name_ja_search": [
+      "こころ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:15",
+      "ij:c15"
+    ],
+    "rad_name_file": "kokoro",
+    "kanji": {
+      "character": "忠",
+      "meaning": {
+        "english": "loyalty, faithfulness"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.6,
+          2.266667,
+          3.266667,
+          4.6,
+          5.6,
+          6.666667,
+          7.266667,
+          9.066667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/chuu(koku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/chuu(koku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/chuu(koku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/chuu(koku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/chuu(koku)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/chuu(koku)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/chuu(koku)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/chuu(koku)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "chuu",
+        "katakana": "チュウ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/chuu(koku)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/chuu(koku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/chuu(koku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼼",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kokoro.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "こころ",
+        "romaji": "kokoro"
+      },
+      "meaning": {
+        "english": "heart, mind, spirit"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kokoro0.svg",
+        "https://media.kanjialive.com/rad_frames/kokoro1.svg",
+        "https://media.kanjialive.com/rad_frames/kokoro2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1575",
+      "classic_nelson": "1653"
+    }
+  },
+  "jishoData": {
+    "query": "忠",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1113",
+    "strokeCount": 8,
+    "meaning": "loyalty, fidelity, faithfulness",
+    "kunyomi": [],
+    "onyomi": [
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忠",
+        "reading": "チュウ",
+        "meaning": "loyalty, devotion, fidelity, faithfulness, inspector of the Imperial Prosecuting and Investigating Office (ritsuryō system)"
+      },
+      {
+        "example": "忠臣",
+        "reading": "チュウシン",
+        "meaning": "loyal retainer, loyal subject"
+      },
+      {
+        "example": "誠忠",
+        "reading": "セイチュウ",
+        "meaning": "loyalty"
+      },
+      {
+        "example": "不忠",
+        "reading": "フチュウ",
+        "meaning": "disloyalty, infidelity"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "口",
+      "心",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24544_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fe0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fe0.gif",
+    "uri": "https://jisho.org/search/%E5%BF%A0%23kanji"
+  }
+}

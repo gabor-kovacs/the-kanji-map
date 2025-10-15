@@ -1,1 +1,40 @@
-{"id":"耜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"耜","found":true,"strokeCount":11,"meaning":"plough","kunyomi":["すき"],"onyomi":["シ"],"onyomiExamples":[{"example":"耒耜","reading":"ライシ","meaning":"spade"}],"kunyomiExamples":[],"radical":{"symbol":"耒","meaning":"plow"},"parts":["ノ","ハ","口","木","耒","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32796_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0801c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/801c.gif","uri":"https://jisho.org/search/%E8%80%9C%23kanji"}}
+{
+  "id": "耜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "耜",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "plough",
+    "kunyomi": [
+      "すき"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "耒耜",
+        "reading": "ライシ",
+        "meaning": "spade"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "耒",
+      "meaning": "plow"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "口",
+      "木",
+      "耒",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32796_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0801c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/801c.gif",
+    "uri": "https://jisho.org/search/%E8%80%9C%23kanji"
+  }
+}

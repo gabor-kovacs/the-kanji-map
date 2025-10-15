@@ -1,1 +1,44 @@
-{"id":"愈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"愈","found":true,"strokeCount":13,"meaning":"be superior, heal, more and more, increasingly, finally, beyond doubt","kunyomi":["いよいよ","まさ.る"],"onyomi":["ユ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"愈","reading":"いよいよ","meaning":"more and more, all the more, increasingly, at last, finally, beyond doubt, (at the) last moment, worst possible time"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["一","个","刈","心","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24840_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06108.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6108.gif","uri":"https://jisho.org/search/%E6%84%88%23kanji"}}
+{
+  "id": "愈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "愈",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "be superior, heal, more and more, increasingly, finally, beyond doubt",
+    "kunyomi": [
+      "いよいよ",
+      "まさ.る"
+    ],
+    "onyomi": [
+      "ユ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "愈",
+        "reading": "いよいよ",
+        "meaning": "more and more, all the more, increasingly, at last, finally, beyond doubt, (at the) last moment, worst possible time"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "一",
+      "个",
+      "刈",
+      "心",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24840_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06108.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6108.gif",
+    "uri": "https://jisho.org/search/%E6%84%88%23kanji"
+  }
+}

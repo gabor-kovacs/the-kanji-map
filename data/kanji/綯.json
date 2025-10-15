@@ -1,1 +1,45 @@
-{"id":"綯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"綯","found":true,"strokeCount":14,"meaning":"twist, make rope","kunyomi":["な.う","なわ","よ.る"],"onyomi":["トウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"綯う","reading":"なう","meaning":"to twine (fibers to make rope), to twist"}],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["凵","勹","小","幺","糸","缶"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32175_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07daf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7daf.gif","uri":"https://jisho.org/search/%E7%B6%AF%23kanji"}}
+{
+  "id": "綯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "綯",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "twist, make rope",
+    "kunyomi": [
+      "な.う",
+      "なわ",
+      "よ.る"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "綯う",
+        "reading": "なう",
+        "meaning": "to twine (fibers to make rope), to twist"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "凵",
+      "勹",
+      "小",
+      "幺",
+      "糸",
+      "缶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32175_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07daf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7daf.gif",
+    "uri": "https://jisho.org/search/%E7%B6%AF%23kanji"
+  }
+}

@@ -1,1 +1,61 @@
-{"id":"劣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"劣","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1620","strokeCount":6,"meaning":"inferiority, be inferior to, be worse","kunyomi":["おと.る"],"onyomi":["レツ"],"onyomiExamples":[{"example":"劣","reading":"レツ","meaning":"sub-, inferior, minor"},{"example":"劣悪","reading":"レツアク","meaning":"inferior, coarse, poor quality, inadequate, deteriorated"},{"example":"卑劣","reading":"ヒレツ","meaning":"mean, contemptible, despicable, dirty, foul, cowardly, base"},{"example":"拙劣","reading":"セツレツ","meaning":"clumsy, unskillful"}],"kunyomiExamples":[{"example":"劣る","reading":"おとる","meaning":"to be inferior to, to be less good at, to fall behind"}],"radical":{"symbol":"力","meaning":"power, force"},"parts":["ノ","力","小"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21155_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052a3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52a3.gif","uri":"https://jisho.org/search/%E5%8A%A3%23kanji"}}
+{
+  "id": "劣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "劣",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1620",
+    "strokeCount": 6,
+    "meaning": "inferiority, be inferior to, be worse",
+    "kunyomi": [
+      "おと.る"
+    ],
+    "onyomi": [
+      "レツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "劣",
+        "reading": "レツ",
+        "meaning": "sub-, inferior, minor"
+      },
+      {
+        "example": "劣悪",
+        "reading": "レツアク",
+        "meaning": "poor (quality, conditions, etc.), bad, inferior, poor-quality"
+      },
+      {
+        "example": "卑劣",
+        "reading": "ヒレツ",
+        "meaning": "mean, contemptible, despicable, dirty, foul, cowardly, base"
+      },
+      {
+        "example": "拙劣",
+        "reading": "セツレツ",
+        "meaning": "clumsy, unskillful"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "劣る",
+        "reading": "おとる",
+        "meaning": "to be inferior to, to be less good at, to fall behind"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "ノ",
+      "力",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21155_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052a3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52a3.gif",
+    "uri": "https://jisho.org/search/%E5%8A%A3%23kanji"
+  }
+}

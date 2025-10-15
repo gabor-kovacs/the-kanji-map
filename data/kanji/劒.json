@@ -1,1 +1,49 @@
-{"id":"劒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"劒","found":true,"strokeCount":16,"meaning":"sword","kunyomi":["つるぎ"],"onyomi":["ケン"],"onyomiExamples":[{"example":"剣","reading":"ケン","meaning":"sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"}],"kunyomiExamples":[{"example":"剣","reading":"けん","meaning":"sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["一","个","丶","人","刀","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21138_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05292.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5292.gif","uri":"https://jisho.org/search/%E5%8A%92%23kanji"}}
+{
+  "id": "劒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "劒",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "sword",
+    "kunyomi": [
+      "つるぎ"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剣",
+        "reading": "ケン",
+        "meaning": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "剣",
+        "reading": "けん",
+        "meaning": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "一",
+      "个",
+      "丶",
+      "人",
+      "刀",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21138_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05292.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5292.gif",
+    "uri": "https://jisho.org/search/%E5%8A%92%23kanji"
+  }
+}

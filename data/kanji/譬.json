@@ -1,1 +1,65 @@
-{"id":"譬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"譬","found":true,"strokeCount":20,"meaning":"illustrate","kunyomi":["たと.える","たと.え"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"比喩","reading":"ヒユ","meaning":"simile, metaphor, allegory, parable"},{"example":"譬喩歌","reading":"ヒユカ","meaning":"metaphorical poem (of the Man'yōshū)"}],"kunyomiExamples":[{"example":"例える","reading":"たとえる","meaning":"to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor"},{"example":"例え","reading":"たとえ","meaning":"example, simile, metaphor, allegory, fable, parable"},{"example":"例える","reading":"たとえる","meaning":"to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["十","口","尸","立","言","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35692_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b6c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b6c.gif","uri":"https://jisho.org/search/%E8%AD%AC%23kanji"}}
+{
+  "id": "譬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "譬",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "illustrate",
+    "kunyomi": [
+      "たと.える",
+      "たと.え"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "比喩",
+        "reading": "ヒユ",
+        "meaning": "simile, metaphor, allegory, parable"
+      },
+      {
+        "example": "譬喩歌",
+        "reading": "ヒユカ",
+        "meaning": "metaphorical poem (of the Man'yōshū)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "例える",
+        "reading": "たとえる",
+        "meaning": "to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor"
+      },
+      {
+        "example": "例え",
+        "reading": "たとえ",
+        "meaning": "example, simile, metaphor, allegory, fable, parable"
+      },
+      {
+        "example": "例える",
+        "reading": "たとえる",
+        "meaning": "to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "立",
+      "言",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35692_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b6c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b6c.gif",
+    "uri": "https://jisho.org/search/%E8%AD%AC%23kanji"
+  }
+}

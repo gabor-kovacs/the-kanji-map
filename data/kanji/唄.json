@@ -1,1 +1,73 @@
-{"id":"唄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"唄","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2051","strokeCount":10,"meaning":"song, ballad","kunyomi":["うた","うた.う"],"onyomi":["バイ"],"onyomiExamples":[{"example":"貝葉","reading":"バイヨウ","meaning":"palm-leaf manuscript"},{"example":"梵唄","reading":"ボンバイ","meaning":"song in praise of Buddhas virtues"}],"kunyomiExamples":[{"example":"歌","reading":"うた","meaning":"song, singing, classical Japanese poem (esp. tanka), modern poetry"},{"example":"歌う","reading":"うたう","meaning":"to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"},{"example":"長唄","reading":"ながうた","meaning":"long epic song with shamisen accompaniment (developed in Edo in the early 17th century)"},{"example":"紡ぎ歌","reading":"つむぎうた","meaning":"spinning song"},{"example":"歌う","reading":"うたう","meaning":"to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["ハ","口","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21764_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05504.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5504.gif","uri":"https://jisho.org/search/%E5%94%84%23kanji"}}
+{
+  "id": "唄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唄",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2051",
+    "strokeCount": 10,
+    "meaning": "song, ballad",
+    "kunyomi": [
+      "うた",
+      "うた.う"
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "貝葉",
+        "reading": "バイヨウ",
+        "meaning": "palm-leaf manuscript"
+      },
+      {
+        "example": "梵唄",
+        "reading": "ボンバイ",
+        "meaning": "song praising the virtues of the Buddha, chanting of Buddhist hymns"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "歌",
+        "reading": "うた",
+        "meaning": "song, singing, classical Japanese poem (esp. tanka), modern poetry"
+      },
+      {
+        "example": "歌う",
+        "reading": "うたう",
+        "meaning": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"
+      },
+      {
+        "example": "長唄",
+        "reading": "ながうた",
+        "meaning": "long epic song with shamisen accompaniment (developed in Edo in the early 17th century)"
+      },
+      {
+        "example": "紡ぎ歌",
+        "reading": "つむぎうた",
+        "meaning": "spinning song"
+      },
+      {
+        "example": "歌う",
+        "reading": "うたう",
+        "meaning": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21764_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05504.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5504.gif",
+    "uri": "https://jisho.org/search/%E5%94%84%23kanji"
+  }
+}

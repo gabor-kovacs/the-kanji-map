@@ -1,1 +1,30 @@
-{"id":"屮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"屮","found":true,"strokeCount":3,"meaning":"left hand, old grass radical (no. 45)","kunyomi":["ひだりて"],"onyomi":["テツ","サ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"屮","meaning":"sprout"},"parts":["屮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23662_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c6e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c6e.gif","uri":"https://jisho.org/search/%E5%B1%AE%23kanji"}}
+{
+  "id": "屮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屮",
+    "found": true,
+    "strokeCount": 3,
+    "meaning": "left hand, old grass radical (no. 45)",
+    "kunyomi": [
+      "ひだりて"
+    ],
+    "onyomi": [
+      "テツ",
+      "サ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "屮",
+      "meaning": "sprout"
+    },
+    "parts": [
+      "屮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23662_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c6e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c6e.gif",
+    "uri": "https://jisho.org/search/%E5%B1%AE%23kanji"
+  }
+}

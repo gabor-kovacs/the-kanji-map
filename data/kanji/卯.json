@@ -1,1 +1,69 @@
-{"id":"卯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"卯","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2400","strokeCount":5,"meaning":"sign of the hare or rabbit, fourth sign of Chinese zodiac, 5-7AM, east","kunyomi":["う"],"onyomi":["ボウ","モウ"],"onyomiExamples":[{"example":"卯","reading":"ウ","meaning":"the Rabbit (fourth sign of the Chinese zodiac), the Hare, hour of the Rabbit (around 6am, 5-7am, or 6-8am), east, second month in the lunar calendar"},{"example":"丁卯","reading":"ヒノトウ","meaning":"Fire Rabbit (4th term of the sexagenary cycle, e.g. 1927, 1987, 2047)"},{"example":"己卯","reading":"ツチノトウ","meaning":"Earth Rabbit (16th term of the sexagenary cycle, e.g. 1939, 1999, 2059)"}],"kunyomiExamples":[{"example":"卯","reading":"う","meaning":"the Rabbit (fourth sign of the Chinese zodiac), the Hare, hour of the Rabbit (around 6am, 5-7am, or 6-8am), east, second month in the lunar calendar"},{"example":"卯年","reading":"うさぎどし","meaning":"year of the Hare, year of the Rabbit"},{"example":"辛卯","reading":"かのとう","meaning":"Metal Rabbit (28th term of the sexagenary cycle, e.g. 1951, 2011, 2071)"},{"example":"乙卯","reading":"きのとう","meaning":"Wood Rabbit (52nd term of the sexagenary cycle, e.g. 1915, 1975, 2035)"}],"radical":{"symbol":"卩","meaning":"kneel"},"parts":["卩"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21359_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0536f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/536f.gif","uri":"https://jisho.org/search/%E5%8D%AF%23kanji"}}
+{
+  "id": "卯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卯",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2400",
+    "strokeCount": 5,
+    "meaning": "sign of the hare or rabbit, fourth sign of Chinese zodiac, 5-7AM, east",
+    "kunyomi": [
+      "う"
+    ],
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "卯",
+        "reading": "ウ",
+        "meaning": "the Rabbit (fourth sign of the Chinese zodiac), the Hare, hour of the Rabbit (around 6am, 5-7am, or 6-8am), east, second month in the lunar calendar"
+      },
+      {
+        "example": "丁卯",
+        "reading": "ヒノトウ",
+        "meaning": "Fire Rabbit (4th term of the sexagenary cycle, e.g. 1927, 1987, 2047)"
+      },
+      {
+        "example": "己卯",
+        "reading": "ツチノトウ",
+        "meaning": "Earth Rabbit (16th term of the sexagenary cycle, e.g. 1939, 1999, 2059)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "卯",
+        "reading": "う",
+        "meaning": "the Rabbit (fourth sign of the Chinese zodiac), the Hare, hour of the Rabbit (around 6am, 5-7am, or 6-8am), east, second month in the lunar calendar"
+      },
+      {
+        "example": "卯年",
+        "reading": "うさぎどし",
+        "meaning": "year of the Hare, year of the Rabbit"
+      },
+      {
+        "example": "なか卯",
+        "reading": "なかう",
+        "meaning": "Nakau (restaurant chain)"
+      },
+      {
+        "example": "辛卯",
+        "reading": "かのとう",
+        "meaning": "Metal Rabbit (28th term of the sexagenary cycle, e.g. 1951, 2011, 2071)"
+      }
+    ],
+    "radical": {
+      "symbol": "卩",
+      "meaning": "kneel"
+    },
+    "parts": [
+      "卩"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21359_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0536f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/536f.gif",
+    "uri": "https://jisho.org/search/%E5%8D%AF%23kanji"
+  }
+}

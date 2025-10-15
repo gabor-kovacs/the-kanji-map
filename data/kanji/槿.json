@@ -1,1 +1,50 @@
-{"id":"槿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"槿","found":true,"strokeCount":15,"meaning":"rose of Sharon","kunyomi":["むくげ"],"onyomi":["キン"],"onyomiExamples":[{"example":"槿花一日","reading":"キンカイチジツ","meaning":"evanescent glory, passing prosperity"},{"example":"槿花一朝","reading":"キンカイッチョウ","meaning":"evanescent glory, passing prosperity"}],"kunyomiExamples":[{"example":"木槿","reading":"むくげ","meaning":"rose of Sharon (Hibiscus syriacus), Korean rose"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["二","口","土","木","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27135_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069ff.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69ff.gif","uri":"https://jisho.org/search/%E6%A7%BF%23kanji"}}
+{
+  "id": "槿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槿",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "rose of Sharon",
+    "kunyomi": [
+      "むくげ"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "槿花一日",
+        "reading": "キンカイチジツ",
+        "meaning": "evanescent glory, passing prosperity"
+      },
+      {
+        "example": "槿花一朝",
+        "reading": "キンカイッチョウ",
+        "meaning": "evanescent glory, passing prosperity"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "木槿",
+        "reading": "むくげ",
+        "meaning": "rose of Sharon (Hibiscus syriacus), Korean rose"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "二",
+      "口",
+      "土",
+      "木",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27135_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069ff.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69ff.gif",
+    "uri": "https://jisho.org/search/%E6%A7%BF%23kanji"
+  }
+}

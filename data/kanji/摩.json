@@ -1,1 +1,77 @@
-{"id":"摩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"摩","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1252","strokeCount":15,"meaning":"chafe, rub, polish, grind, scrape","kunyomi":["ま.する","さす.る","す.る"],"onyomi":["マ"],"onyomiExamples":[{"example":"摩擦","reading":"マサツ","meaning":"friction, rubbing, chafing, discord, friction, strife, conflict"},{"example":"摩天楼","reading":"マテンロウ","meaning":"skyscraper"},{"example":"研磨","reading":"ケンマ","meaning":"grinding, polishing, refining (a skill, knowledge, etc.), applying oneself (to study), disciplining oneself"},{"example":"あん摩","reading":"アンマ","meaning":"massage (esp. anma, a traditional form of Japanese massage), masseur, masseuse, massager, blind person"}],"kunyomiExamples":[{"example":"摩する","reading":"まする","meaning":"to rub, to scrub, to scrape, to draw near, to press"},{"example":"摩る","reading":"さする","meaning":"to rub, to pat, to stroke, to massage"},{"example":"擦る","reading":"する","meaning":"to rub, to chafe, to strike (match), to file, to frost (glass), to lose (e.g. a match), to forfeit, to squander one's money (e.g. through gambling, Pachinko, etc.)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["广","手","木","麻"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25705_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06469.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6469.gif","uri":"https://jisho.org/search/%E6%91%A9%23kanji"}}
+{
+  "id": "摩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "摩",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1252",
+    "strokeCount": 15,
+    "meaning": "chafe, rub, polish, grind, scrape",
+    "kunyomi": [
+      "ま.する",
+      "さす.る",
+      "す.る"
+    ],
+    "onyomi": [
+      "マ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "摩擦",
+        "reading": "マサツ",
+        "meaning": "friction, rubbing, chafing, discord, friction, strife, conflict"
+      },
+      {
+        "example": "摩天楼",
+        "reading": "マテンロウ",
+        "meaning": "skyscraper"
+      },
+      {
+        "example": "研磨",
+        "reading": "ケンマ",
+        "meaning": "grinding, polishing, refining (a skill, knowledge, etc.), applying oneself (to study), disciplining oneself"
+      },
+      {
+        "example": "あん摩",
+        "reading": "アンマ",
+        "meaning": "massage (esp. anma, a traditional form of Japanese massage), masseur, masseuse, massager, blind person"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "摩する",
+        "reading": "まする",
+        "meaning": "to rub, to scrub, to scrape, to draw near, to press"
+      },
+      {
+        "example": "摩る",
+        "reading": "さする",
+        "meaning": "to rub, to pat, to stroke, to massage"
+      },
+      {
+        "example": "擦る",
+        "reading": "する",
+        "meaning": "to rub, to chafe, to strike (match), to file, to frost (glass), to lose (e.g. a match), to forfeit, to squander one's money"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "广",
+      "手",
+      "木",
+      "麻"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25705_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06469.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6469.gif",
+    "uri": "https://jisho.org/search/%E6%91%A9%23kanji"
+  }
+}

@@ -1,1 +1,54 @@
-{"id":"茂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"茂","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1188","strokeCount":8,"meaning":"overgrown, grow thick, be luxuriant","kunyomi":["しげ.る"],"onyomi":["モ"],"onyomiExamples":[{"example":"茂林","reading":"モリン","meaning":"luxuriant (dense) forest"}],"kunyomiExamples":[{"example":"茂る","reading":"しげる","meaning":"to grow thickly, to be in full leaf, to be rampant, to luxuriate, to be luxurious"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ノ","戈","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33538_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08302.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8302.gif","uri":"https://jisho.org/search/%E8%8C%82%23kanji"}}
+{
+  "id": "茂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "茂",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1188",
+    "strokeCount": 8,
+    "meaning": "overgrown, grow thick, be luxuriant",
+    "kunyomi": [
+      "しげ.る"
+    ],
+    "onyomi": [
+      "モ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "茂林",
+        "reading": "モリン",
+        "meaning": "luxuriant (dense) forest"
+      },
+      {
+        "example": "繁茂",
+        "reading": "ハンモ",
+        "meaning": "flourishing (of plants), thriving, luxuriant growth, growing lushly, rankness (of weeds)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "茂る",
+        "reading": "しげる",
+        "meaning": "to grow thickly, to be in full leaf, to be rampant, to luxuriate, to be luxurious"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ノ",
+      "戈",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33538_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08302.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8302.gif",
+    "uri": "https://jisho.org/search/%E8%8C%82%23kanji"
+  }
+}

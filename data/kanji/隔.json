@@ -1,1 +1,73 @@
-{"id":"隔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"隔","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1382","strokeCount":13,"meaning":"isolate, alternate, distance, separate, gulf","kunyomi":["へだ.てる","へだ.たる"],"onyomi":["カク"],"onyomiExamples":[{"example":"隔","reading":"カク","meaning":"every other, second, alternate"},{"example":"隔月","reading":"カクゲツ","meaning":"every second month, every other month"},{"example":"遠隔","reading":"エンカク","meaning":"distant, remote, isolated"},{"example":"縦隔","reading":"ジュウカク","meaning":"mediastinum"}],"kunyomiExamples":[{"example":"隔てる","reading":"へだてる","meaning":"to separate (by distance, time, etc.), to isolate, to partition, to divide, to interpose, to have between, to alienate, to estrange"},{"example":"隔たる","reading":"へだたる","meaning":"to be distant"}],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["一","儿","冂","口","阡","鬲"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38548_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09694.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9694.gif","uri":"https://jisho.org/search/%E9%9A%94%23kanji"}}
+{
+  "id": "隔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "隔",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1382",
+    "strokeCount": 13,
+    "meaning": "isolate, alternate, distance, separate, gulf",
+    "kunyomi": [
+      "へだ.てる",
+      "へだ.たる"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "隔",
+        "reading": "カク",
+        "meaning": "every other, second, alternate"
+      },
+      {
+        "example": "隔月",
+        "reading": "カクゲツ",
+        "meaning": "every second month, every other month"
+      },
+      {
+        "example": "遠隔",
+        "reading": "エンカク",
+        "meaning": "distant, remote, isolated"
+      },
+      {
+        "example": "縦隔",
+        "reading": "ジュウカク",
+        "meaning": "mediastinum"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "隔てる",
+        "reading": "へだてる",
+        "meaning": "to separate (by distance, time, etc.), to isolate, to partition, to divide, to interpose, to have between, to alienate, to estrange"
+      },
+      {
+        "example": "隔たる",
+        "reading": "へだたる",
+        "meaning": "to be distant"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "冂",
+      "口",
+      "阡",
+      "鬲"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38548_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09694.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9694.gif",
+    "uri": "https://jisho.org/search/%E9%9A%94%23kanji"
+  }
+}

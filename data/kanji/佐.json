@@ -1,1 +1,57 @@
-{"id":"佐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"佐","found":true,"taughtIn":"grade 4","jlptLevel":"N1","newspaperFrequencyRank":"474","strokeCount":7,"meaning":"assistant, help","kunyomi":[],"onyomi":["サ"],"onyomiExamples":[{"example":"佐保姫","reading":"サホヒメ","meaning":"Saohime, goddess of Spring"},{"example":"佐官","reading":"サカン","meaning":"field officer"},{"example":"中佐","reading":"チュウサ","meaning":"lieutenant colonel, commander (navy)"},{"example":"二佐","reading":"ニサ","meaning":"lieutenant colonel (JGSDF)"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["ノ","一","化","工"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20304_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f50.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f50.gif","uri":"https://jisho.org/search/%E4%BD%90%23kanji"}}
+{
+  "id": "佐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佐",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "474",
+    "strokeCount": 7,
+    "meaning": "assistant, help",
+    "kunyomi": [],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "佐保姫",
+        "reading": "サホヒメ",
+        "meaning": "Saohime, goddess of Spring"
+      },
+      {
+        "example": "佐織養護学校",
+        "reading": "サオリヨウゴガッコウ",
+        "meaning": "Saori Special Needs School (older name style)"
+      },
+      {
+        "example": "中佐",
+        "reading": "チュウサ",
+        "meaning": "lieutenant colonel, commander (navy)"
+      },
+      {
+        "example": "二佐",
+        "reading": "ニサ",
+        "meaning": "lieutenant colonel (JGSDF)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "化",
+      "工"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20304_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f50.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f50.gif",
+    "uri": "https://jisho.org/search/%E4%BD%90%23kanji"
+  }
+}

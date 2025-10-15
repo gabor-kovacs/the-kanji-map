@@ -1,1 +1,86 @@
-{"id":"斎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"斎","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1155","strokeCount":11,"meaning":"purification, Buddhist food, room, worship, avoid, alike","kunyomi":["とき","つつし.む","ものいみ","い.む","いわ.う","いつ.く"],"onyomi":["サイ"],"onyomiExamples":[{"example":"斎場","reading":"サイジョウ","meaning":"funeral hall, ceremony site"},{"example":"斎院","reading":"サイイン","meaning":"imperial princess who served as a priestess at Ise"},{"example":"大斎","reading":"タイサイ","meaning":"Great Lent, Great Fast"},{"example":"小斎","reading":"ショウサイ","meaning":"abstinence (in Catholicism)"}],"kunyomiExamples":[{"example":"斎","reading":"とき","meaning":"meals exchanged by parishioners and priests"},{"example":"忌む","reading":"いむ","meaning":"to avoid, to refrain from, to shun, to detest"},{"example":"祝う","reading":"いわう","meaning":"to celebrate, to congratulate, to observe (a festival), to present (a gift) in celebration, to drink in celebration, to wish for (a happy future, good fortune, etc.), to pray for"},{"example":"斎く","reading":"いつく","meaning":"to worship, to enshrine"}],"radical":{"symbol":"文","meaning":"script, literature"},"parts":["ノ","二","小","廾","文","斉","示","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25998_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0658e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/658e.gif","uri":"https://jisho.org/search/%E6%96%8E%23kanji"}}
+{
+  "id": "斎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斎",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1155",
+    "strokeCount": 11,
+    "meaning": "purification, Buddhist food, room, worship, avoid, alike",
+    "kunyomi": [
+      "とき",
+      "つつし.む",
+      "ものいみ",
+      "い.む",
+      "いわ.う",
+      "いつ.く"
+    ],
+    "onyomi": [
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斎場",
+        "reading": "サイジョウ",
+        "meaning": "funeral hall, ceremony site"
+      },
+      {
+        "example": "斎院",
+        "reading": "サイイン",
+        "meaning": "imperial princess who served as a priestess at Ise"
+      },
+      {
+        "example": "大斎",
+        "reading": "タイサイ",
+        "meaning": "Great Lent, Great Fast"
+      },
+      {
+        "example": "小斎",
+        "reading": "ショウサイ",
+        "meaning": "abstinence (in Catholicism)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "斎",
+        "reading": "とき",
+        "meaning": "meals exchanged by parishioners and priests"
+      },
+      {
+        "example": "忌む",
+        "reading": "いむ",
+        "meaning": "to avoid, to refrain from, to shun, to detest"
+      },
+      {
+        "example": "祝う",
+        "reading": "いわう",
+        "meaning": "to celebrate, to congratulate, to observe (a festival), to present (a gift) in celebration, to drink in celebration, to wish for (a happy future, good fortune, etc.), to pray for"
+      },
+      {
+        "example": "斎く",
+        "reading": "いつく",
+        "meaning": "to worship, to enshrine"
+      }
+    ],
+    "radical": {
+      "symbol": "文",
+      "meaning": "script, literature"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "小",
+      "廾",
+      "文",
+      "斉",
+      "示",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25998_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0658e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/658e.gif",
+    "uri": "https://jisho.org/search/%E6%96%8E%23kanji"
+  }
+}

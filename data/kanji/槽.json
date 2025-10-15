@@ -1,1 +1,57 @@
-{"id":"槽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"槽","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1809","strokeCount":15,"meaning":"vat, tub, tank","kunyomi":["ふね"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"槽","reading":"ソウ","meaning":"body (of a biwa)"},{"example":"浄化槽","reading":"ジョウカソウ","meaning":"water-purification tank, septic tank"},{"example":"電解槽","reading":"デンカイソウ","meaning":"electrolytic cell, electrolytic bath"}],"kunyomiExamples":[{"example":"船","reading":"ふね","meaning":"ship, boat, watercraft, vessel, seaplane, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","日","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27133_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069fd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69fd.gif","uri":"https://jisho.org/search/%E6%A7%BD%23kanji"}}
+{
+  "id": "槽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槽",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1809",
+    "strokeCount": 15,
+    "meaning": "vat, tub, tank",
+    "kunyomi": [
+      "ふね"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "槽",
+        "reading": "ソウ",
+        "meaning": "body (of a biwa)"
+      },
+      {
+        "example": "浄化槽",
+        "reading": "ジョウカソウ",
+        "meaning": "water-purification tank, septic tank"
+      },
+      {
+        "example": "電解槽",
+        "reading": "デンカイソウ",
+        "meaning": "electrolytic cell, electrolytic bath"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "船",
+        "reading": "ふね",
+        "meaning": "ship, boat, watercraft, vessel, seaplane, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "日",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27133_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069fd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69fd.gif",
+    "uri": "https://jisho.org/search/%E6%A7%BD%23kanji"
+  }
+}

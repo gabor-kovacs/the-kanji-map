@@ -1,1 +1,63 @@
-{"id":"履","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"履","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1619","strokeCount":15,"meaning":"perform, complete, footgear, shoes, boots, put on (the feet)","kunyomi":["は.く"],"onyomi":["リ"],"onyomiExamples":[{"example":"履歴書","reading":"リレキショ","meaning":"personal history, curriculum vitae, resume"},{"example":"履行","reading":"リコウ","meaning":"performance (of a duty), fulfillment (of a promise), fulfilment, execution (of a contract), discharge, implementation"},{"example":"草履","reading":"ゾウリ","meaning":"zori, traditional Japanese thonged sandals"},{"example":"再履","reading":"サイリ","meaning":"repeating a course, taking a course again"}],"kunyomiExamples":[{"example":"履く","reading":"はく","meaning":"to put on (lower-body clothing, e.g. pants, skirt, footwear), to wear, to affix (a sword to one's hip), to affix (a bowstring to a bow)"}],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["乞","夂","尸","彳","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23653_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c65.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c65.gif","uri":"https://jisho.org/search/%E5%B1%A5%23kanji"}}
+{
+  "id": "履",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "履",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1619",
+    "strokeCount": 15,
+    "meaning": "perform, complete, footgear, shoes, boots, put on (the feet)",
+    "kunyomi": [
+      "は.く"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "履歴書",
+        "reading": "リレキショ",
+        "meaning": "personal history, curriculum vitae, resume"
+      },
+      {
+        "example": "履行",
+        "reading": "リコウ",
+        "meaning": "performance (of a duty), fulfillment (of a promise), fulfilment, execution (of a contract), discharge, implementation"
+      },
+      {
+        "example": "草履",
+        "reading": "ゾウリ",
+        "meaning": "zori, traditional Japanese thonged sandals"
+      },
+      {
+        "example": "再履",
+        "reading": "サイリ",
+        "meaning": "repeating a course, taking a course again"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "履く",
+        "reading": "はく",
+        "meaning": "to put on (lower-body clothing, e.g. pants, skirt, footwear), to wear, to affix (a sword to one's hip), to affix (a bowstring to a bow)"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "乞",
+      "夂",
+      "尸",
+      "彳",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23653_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c65.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c65.gif",
+    "uri": "https://jisho.org/search/%E5%B1%A5%23kanji"
+  }
+}

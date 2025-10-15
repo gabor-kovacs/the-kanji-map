@@ -1,1 +1,84 @@
-{"id":"嫁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嫁","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1581","strokeCount":13,"meaning":"marry into, bride","kunyomi":["よめ","とつ.ぐ","い.く","ゆ.く"],"onyomi":["カ"],"onyomiExamples":[{"example":"嫁す","reading":"カス","meaning":"to wed, to be married, to shift blame to someone else"},{"example":"嫁する","reading":"カスル","meaning":"to wed, to be married, to shift blame to someone else"},{"example":"責任転嫁","reading":"セキニンテンカ","meaning":"shift the responsibility (for something) on to (someone), pass the buck"},{"example":"再嫁","reading":"サイカ","meaning":"remarriage"}],"kunyomiExamples":[{"example":"嫁","reading":"よめ","meaning":"wife, bride, (one's) daughter-in-law"},{"example":"嫁入り","reading":"よめいり","meaning":"marriage, wedding"},{"example":"新嫁","reading":"しんよめ","meaning":"newly-wed bride"},{"example":"弟嫁","reading":"おとうとよめ","meaning":"younger brother's wife"},{"example":"嫁ぐ","reading":"とつぐ","meaning":"to marry (of a woman), to become a bride, to marry into (a family), to have sexual intercourse"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["女","宀","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23233_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ac1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ac1.gif","uri":"https://jisho.org/search/%E5%AB%81%23kanji"}}
+{
+  "id": "嫁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嫁",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1581",
+    "strokeCount": 13,
+    "meaning": "marry into, bride",
+    "kunyomi": [
+      "よめ",
+      "とつ.ぐ",
+      "い.く",
+      "ゆ.く"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "片付ける",
+        "reading": "カタヅケル",
+        "meaning": "to put in order, to tidy up, to clean up, to put away, to clear away, to settle (a matter), to solve, to deal with, to dispose of, to finish, to get through, to complete, to get (something) done, to marry off (one's daughter), to do away with (someone), to bump off, to kill, to eliminate"
+      },
+      {
+        "example": "嫁す",
+        "reading": "カス",
+        "meaning": "to wed, to be married, to shift blame to someone else"
+      },
+      {
+        "example": "責任転嫁",
+        "reading": "セキニンテンカ",
+        "meaning": "shifting the responsibility (for something) on to (someone), passing the buck"
+      },
+      {
+        "example": "再嫁",
+        "reading": "サイカ",
+        "meaning": "remarriage (of a woman)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嫁",
+        "reading": "よめ",
+        "meaning": "bride, (one's) daughter-in-law, wife"
+      },
+      {
+        "example": "嫁入り",
+        "reading": "よめいり",
+        "meaning": "marriage, wedding"
+      },
+      {
+        "example": "新嫁",
+        "reading": "しんよめ",
+        "meaning": "newly-wed bride"
+      },
+      {
+        "example": "惣嫁",
+        "reading": "そうか",
+        "meaning": "streetwalker (Edo period)"
+      },
+      {
+        "example": "嫁ぐ",
+        "reading": "とつぐ",
+        "meaning": "to marry (of a woman), to become a bride, to marry into (a family), to have sexual intercourse"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "女",
+      "宀",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23233_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ac1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ac1.gif",
+    "uri": "https://jisho.org/search/%E5%AB%81%23kanji"
+  }
+}

@@ -1,1 +1,105 @@
-{"id":"寿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"寿","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"1245","strokeCount":7,"meaning":"longevity, congratulations, one's natural life","kunyomi":["ことぶき","ことぶ.く","ことほ.ぐ"],"onyomi":["ジュ","ス","シュウ"],"onyomiExamples":[{"example":"寿","reading":"ジュ","meaning":"age, years, longevity, long life, congratulation, celebration, congratulatory gift"},{"example":"寿命","reading":"ジュミョウ","meaning":"life span"},{"example":"喜寿","reading":"キジュ","meaning":"77th birthday"},{"example":"米寿","reading":"ベイジュ","meaning":"88th birthday"},{"example":"寿司","reading":"スシ","meaning":"sushi, anything made with vinegared rice (may also contain vegetables, spices, fish, or other delicacies)"},{"example":"すき焼き","reading":"スキヤキ","meaning":"sukiyaki, thin slices of beef, cooked with various vegetables in a table-top cast-iron pan"},{"example":"恵比寿","reading":"エビス","meaning":"Ebisu, god of fishing and commerce"}],"kunyomiExamples":[{"example":"寿","reading":"ことぶき","meaning":"congratulations, felicitations, best wishes, longevity, long life"},{"example":"寿教室","reading":"ことぶききょうしつ","meaning":"culture courses for the aged"},{"example":"新年の寿","reading":"しんねんのことぶき","meaning":"New Years greetings"},{"example":"寿く","reading":"ことぶく","meaning":"to congratulate, to wish one well"},{"example":"寿ぐ","reading":"ことほぐ","meaning":"to congratulate, to wish (someone) well, to celebrate"}],"radical":{"symbol":"寸","meaning":"thumb, inch"},"parts":["ノ","一","二","寸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23551_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bff.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bff.gif","uri":"https://jisho.org/search/%E5%AF%BF%23kanji"}}
+{
+  "id": "寿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寿",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "1245",
+    "strokeCount": 7,
+    "meaning": "longevity, congratulations, one's natural life",
+    "kunyomi": [
+      "ことぶき",
+      "ことぶ.く",
+      "ことほ.ぐ"
+    ],
+    "onyomi": [
+      "ジュ",
+      "ス",
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寿",
+        "reading": "ジュ",
+        "meaning": "age, years, longevity, long life, congratulation, celebration, congratulatory gift"
+      },
+      {
+        "example": "寿命",
+        "reading": "ジュミョウ",
+        "meaning": "lifespan, life, lifetime, life (of a battery, lightbulb, etc.), service life, end of an object's (useful) life"
+      },
+      {
+        "example": "喜寿",
+        "reading": "キジュ",
+        "meaning": "77th birthday"
+      },
+      {
+        "example": "米寿",
+        "reading": "ベイジュ",
+        "meaning": "88th birthday"
+      },
+      {
+        "example": "寿司",
+        "reading": "スシ",
+        "meaning": "sushi, range of dishes made with vinegared rice combined with fish, vegetables, egg, etc."
+      },
+      {
+        "example": "すき焼き",
+        "reading": "スキヤキ",
+        "meaning": "sukiyaki, thin slices of beef, cooked with various vegetables in a table-top cast-iron pan"
+      },
+      {
+        "example": "恵比寿",
+        "reading": "エビス",
+        "meaning": "Ebisu, god of fishing and commerce"
+      },
+      {
+        "example": "十日戎",
+        "reading": "トオカエビス",
+        "meaning": "Tōka Ebisu, festival held on January 10 in honor of Ebisu, the god of fishing and commerce"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寿",
+        "reading": "ことぶき",
+        "meaning": "congratulations, felicitations, best wishes, longevity, long life"
+      },
+      {
+        "example": "寿教室",
+        "reading": "ことぶききょうしつ",
+        "meaning": "culture courses for the aged"
+      },
+      {
+        "example": "新年の寿",
+        "reading": "しんねんのことぶき",
+        "meaning": "New Years greetings"
+      },
+      {
+        "example": "寿く",
+        "reading": "ことぶく",
+        "meaning": "to congratulate, to wish one well"
+      },
+      {
+        "example": "寿ぐ",
+        "reading": "ことほぐ",
+        "meaning": "to congratulate, to wish (someone) well, to celebrate"
+      }
+    ],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "thumb, inch"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "寸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23551_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bff.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bff.gif",
+    "uri": "https://jisho.org/search/%E5%AF%BF%23kanji"
+  }
+}

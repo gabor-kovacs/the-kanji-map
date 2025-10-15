@@ -1,1 +1,33 @@
-{"id":"豕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"豕","found":true,"strokeCount":7,"meaning":"pig, hog, pig radical (no. 152)","kunyomi":[],"onyomi":["シ"],"onyomiExamples":[{"example":"魯魚亥豕","reading":"ロギョガイシ","meaning":"miswriting a word, using the wrong kanji to write a word"}],"kunyomiExamples":[],"radical":{"symbol":"豕","meaning":"pig"},"parts":["豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35925_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c55.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c55.gif","uri":"https://jisho.org/search/%E8%B1%95%23kanji"}}
+{
+  "id": "豕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "豕",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "pig, hog, pig radical (no. 152)",
+    "kunyomi": [],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "魯魚亥豕",
+        "reading": "ロギョガイシ",
+        "meaning": "miswriting a word, using the wrong kanji to write a word"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "豕",
+      "meaning": "pig"
+    },
+    "parts": [
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35925_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c55.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c55.gif",
+    "uri": "https://jisho.org/search/%E8%B1%95%23kanji"
+  }
+}

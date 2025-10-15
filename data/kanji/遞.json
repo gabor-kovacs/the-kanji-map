@@ -1,1 +1,40 @@
-{"id":"遞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遞","found":true,"strokeCount":14,"meaning":"hand over, deliver, substitute","kunyomi":["かわ.る","たがいに"],"onyomi":["テイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["儿","匕","卜","厂","虍","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36958_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0905e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/905e.gif","uri":"https://jisho.org/search/%E9%81%9E%23kanji"}}
+{
+  "id": "遞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遞",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "hand over, deliver, substitute",
+    "kunyomi": [
+      "かわ.る",
+      "たがいに"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "卜",
+      "厂",
+      "虍",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36958_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0905e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/905e.gif",
+    "uri": "https://jisho.org/search/%E9%81%9E%23kanji"
+  }
+}

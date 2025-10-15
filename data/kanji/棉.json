@@ -1,1 +1,53 @@
-{"id":"棉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"棉","found":true,"strokeCount":12,"meaning":"cotton","kunyomi":["わた"],"onyomi":["メン"],"onyomiExamples":[{"example":"綿","reading":"メン","meaning":"cotton"},{"example":"綿花","reading":"メンカ","meaning":"raw cotton, cotton wool"},{"example":"印棉","reading":"インメン","meaning":"Indian cotton (raw)"}],"kunyomiExamples":[{"example":"綿","reading":"わた","meaning":"cotton plant (Gossypium spp.), batting, wadding, padding"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["巾","木","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26825_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068c9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68c9.gif","uri":"https://jisho.org/search/%E6%A3%89%23kanji"}}
+{
+  "id": "棉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棉",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "cotton",
+    "kunyomi": [
+      "わた"
+    ],
+    "onyomi": [
+      "メン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "綿",
+        "reading": "メン",
+        "meaning": "cotton"
+      },
+      {
+        "example": "綿花",
+        "reading": "メンカ",
+        "meaning": "raw cotton, cotton wool"
+      },
+      {
+        "example": "印棉",
+        "reading": "インメン",
+        "meaning": "Indian cotton (raw)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "綿",
+        "reading": "わた",
+        "meaning": "cotton plant (Gossypium spp.), batting, wadding, padding"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "巾",
+      "木",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26825_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068c9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68c9.gif",
+    "uri": "https://jisho.org/search/%E6%A3%89%23kanji"
+  }
+}

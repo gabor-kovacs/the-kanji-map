@@ -1,1 +1,55 @@
-{"id":"佳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"佳","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1643","strokeCount":8,"meaning":"excellent, beautiful, good, pleasing, skilled","kunyomi":[],"onyomi":["カ"],"onyomiExamples":[{"example":"佳","reading":"カ","meaning":"beautiful, good, excellent"},{"example":"佳作","reading":"カサク","meaning":"good piece of work, honourable mention (honorable)"},{"example":"絶佳","reading":"ゼッカ","meaning":"superb (view, landscape)"},{"example":"風光絶佳","reading":"フウコウゼッカ","meaning":"scenic beauty"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20339_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f73.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f73.gif","uri":"https://jisho.org/search/%E4%BD%B3%23kanji"}}
+{
+  "id": "佳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佳",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1643",
+    "strokeCount": 8,
+    "meaning": "excellent, beautiful, good, pleasing, skilled",
+    "kunyomi": [],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "佳",
+        "reading": "カ",
+        "meaning": "beautiful, good, excellent"
+      },
+      {
+        "example": "佳作",
+        "reading": "カサク",
+        "meaning": "fine (piece of) work, excellent work, work that receives an honourable mention"
+      },
+      {
+        "example": "絶佳",
+        "reading": "ゼッカ",
+        "meaning": "superb (view, landscape)"
+      },
+      {
+        "example": "風光絶佳",
+        "reading": "フウコウゼッカ",
+        "meaning": "scenic beauty"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20339_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f73.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f73.gif",
+    "uri": "https://jisho.org/search/%E4%BD%B3%23kanji"
+  }
+}

@@ -1,1 +1,53 @@
-{"id":"靡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"靡","found":true,"strokeCount":19,"meaning":"flutter, wave, bow to, obey, seduce","kunyomi":["なび.く","ない","わ.ける"],"onyomi":["ヒ","ビ","ミ"],"onyomiExamples":[{"example":"風靡","reading":"フウビ","meaning":"overwhelming, conquering, dominating, sweeping (the world), swaying"},{"example":"萎靡","reading":"イビ","meaning":"decline, decay"}],"kunyomiExamples":[{"example":"靡く","reading":"なびく","meaning":"to bend, to flutter, to wave, to yield to, to be swayed by, to bow to, to obey"}],"radical":{"symbol":"非","meaning":"wrong"},"parts":["广","木","非","麻"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38753_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09761.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9761.gif","uri":"https://jisho.org/search/%E9%9D%A1%23kanji"}}
+{
+  "id": "靡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "靡",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "flutter, wave, bow to, obey, seduce",
+    "kunyomi": [
+      "なび.く",
+      "ない",
+      "わ.ける"
+    ],
+    "onyomi": [
+      "ヒ",
+      "ビ",
+      "ミ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "風靡",
+        "reading": "フウビ",
+        "meaning": "overwhelming, conquering, dominating, sweeping (the world), swaying"
+      },
+      {
+        "example": "萎靡",
+        "reading": "イビ",
+        "meaning": "decline, decay"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "靡く",
+        "reading": "なびく",
+        "meaning": "to bend, to flutter, to wave, to yield to, to be swayed by, to bow to, to obey"
+      }
+    ],
+    "radical": {
+      "symbol": "非",
+      "meaning": "wrong"
+    },
+    "parts": [
+      "广",
+      "木",
+      "非",
+      "麻"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38753_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09761.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9761.gif",
+    "uri": "https://jisho.org/search/%E9%9D%A1%23kanji"
+  }
+}

@@ -1,1 +1,48 @@
-{"id":"倅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"倅","found":true,"strokeCount":10,"meaning":"son, my son","kunyomi":["せがれ"],"onyomi":["サイ","ソツ","ソチ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"倅","reading":"せがれ","meaning":"son, punk, brat, penis"},{"example":"小倅","reading":"こせがれ","meaning":"one's son, you little bastard, you little brat"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["亠","人","化","十"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20485_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05005.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5005.gif","uri":"https://jisho.org/search/%E5%80%85%23kanji"}}
+{
+  "id": "倅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "倅",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "son, my son",
+    "kunyomi": [
+      "せがれ"
+    ],
+    "onyomi": [
+      "サイ",
+      "ソツ",
+      "ソチ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "倅",
+        "reading": "せがれ",
+        "meaning": "son, punk, brat, penis"
+      },
+      {
+        "example": "小倅",
+        "reading": "こせがれ",
+        "meaning": "one's son, you little bastard, you little brat"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "亠",
+      "人",
+      "化",
+      "十"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20485_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05005.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5005.gif",
+    "uri": "https://jisho.org/search/%E5%80%85%23kanji"
+  }
+}

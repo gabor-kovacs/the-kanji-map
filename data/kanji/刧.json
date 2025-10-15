@@ -1,1 +1,36 @@
-{"id":"刧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"刧","found":true,"strokeCount":7,"meaning":"threat, long ages","kunyomi":["おびや.かす"],"onyomi":["コウ","ゴウ","キョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["刀","厶","土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21031_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05227.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5227.gif","uri":"https://jisho.org/search/%E5%88%A7%23kanji"}}
+{
+  "id": "刧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "刧",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "threat, long ages",
+    "kunyomi": [
+      "おびや.かす"
+    ],
+    "onyomi": [
+      "コウ",
+      "ゴウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "刀",
+      "厶",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21031_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05227.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5227.gif",
+    "uri": "https://jisho.org/search/%E5%88%A7%23kanji"
+  }
+}

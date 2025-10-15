@@ -1,1 +1,37 @@
-{"id":"蜊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蜊","found":true,"strokeCount":13,"meaning":"a kind of bivalve","kunyomi":["あさり"],"onyomi":["リ"],"onyomiExamples":[{"example":"浅蜊","reading":"アサリ","meaning":"Manila clam (Ruditapes philippinarum), Japanese littleneck clam"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["刈","禾","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34570_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0870a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/870a.gif","uri":"https://jisho.org/search/%E8%9C%8A%23kanji"}}
+{
+  "id": "蜊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜊",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "a kind of bivalve",
+    "kunyomi": [
+      "あさり"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浅蜊",
+        "reading": "アサリ",
+        "meaning": "Manila clam (Ruditapes philippinarum), Japanese littleneck clam"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "刈",
+      "禾",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34570_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0870a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/870a.gif",
+    "uri": "https://jisho.org/search/%E8%9C%8A%23kanji"
+  }
+}

@@ -1,1 +1,230 @@
-{"id":"汽","kanjialiveData":{"kanji":{"character":"汽","meaning":{"english":"steam"},"strokes":{"count":7,"timings":[0,0.733333,1.6,2.8,3.8,4.733333,5.533333,8.8],"images":["https://media.kanjialive.com/kanji_strokes/ki(teki)_1.svg","https://media.kanjialive.com/kanji_strokes/ki(teki)_2.svg","https://media.kanjialive.com/kanji_strokes/ki(teki)_3.svg","https://media.kanjialive.com/kanji_strokes/ki(teki)_4.svg","https://media.kanjialive.com/kanji_strokes/ki(teki)_5.svg","https://media.kanjialive.com/kanji_strokes/ki(teki)_6.svg","https://media.kanjialive.com/kanji_strokes/ki(teki)_7.svg"]},"onyomi":{"romaji":"ki","katakana":"キ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ki(teki)_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ki(teki)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ki(teki)_00.webm"}},"radical":{"character":"⺡","strokes":3,"image":"https://media.kanjialive.com/radical_character/sanzui.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"さんずい","romaji":"sanzui"},"meaning":{"english":"water"},"animation":["https://media.kanjialive.com/rad_frames/sanzui0.svg","https://media.kanjialive.com/rad_frames/sanzui1.svg","https://media.kanjialive.com/rad_frames/sanzui2.svg"]},"references":{"grade":2,"kodansha":"198","classic_nelson":"2507"},"examples":[{"japanese":"汽車（きしゃ）","meaning":{"english":"train [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ki(teki)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ki(teki)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ki(teki)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ki(teki)_06_a.mp3"}},{"japanese":"汽船（きせん）","meaning":{"english":"steamship"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ki(teki)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ki(teki)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ki(teki)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ki(teki)_06_b.mp3"}},{"japanese":"汽笛（きてき）","meaning":{"english":"steam whistle"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ki(teki)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ki(teki)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ki(teki)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ki(teki)_06_c.mp3"}}]},"jishoData":{"query":"汽","found":true,"taughtIn":"grade 2","jlptLevel":"N1","newspaperFrequencyRank":"2020","strokeCount":7,"meaning":"vapor, steam","kunyomi":[],"onyomi":["キ"],"onyomiExamples":[{"example":"汽車","reading":"キシャ","meaning":"train (esp. long distance train), steam train"},{"example":"汽船","reading":"キセン","meaning":"steamship, steamboat, steamer"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["乞","气","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27773_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c7d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c7d.gif","uri":"https://jisho.org/search/%E6%B1%BD%23kanji"}}
+{
+  "id": "汽",
+  "kanjialiveData": {
+    "_id": "54317b0a791eba5146ee4c51",
+    "_rev": "9-910394d837c89c1923344a611633bc35",
+    "rad_name_ja": "さんずい",
+    "grade": 2,
+    "hint_group": 6,
+    "kunyomi": "n/a",
+    "meaning": "steam",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "汽車（きしゃ）",
+        "meaning": {
+          "english": "train [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(teki)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki(teki)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki(teki)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki(teki)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "汽船（きせん）",
+        "meaning": {
+          "english": "steamship"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(teki)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki(teki)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki(teki)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki(teki)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "汽笛（きてき）",
+        "meaning": {
+          "english": "steam whistle"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(teki)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki(teki)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki(teki)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki(teki)_06_c.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "汽",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=汽",
+    "rad_name_search": [
+      "sanzui"
+    ],
+    "rad_order": 76,
+    "txt_books": [],
+    "kname": "ki(teki)",
+    "rad_utf": "⺡",
+    "stroketimes": [
+      0,
+      0.733333,
+      1.6,
+      2.8,
+      3.8,
+      4.733333,
+      5.533333,
+      8.8
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "198",
+    "rad_name": "sanzui",
+    "dicn": "2507",
+    "mn_hint": "Evaporation [37] of water シ.",
+    "rad_stroke": 3,
+    "onyomi_ja": "キ",
+    "rad_meaning": "water",
+    "onyomi": "ki",
+    "ka_id": "ka_860",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "ki",
+      "ki"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "steam",
+      "steam"
+    ],
+    "onyomi_ja_search": [
+      "キ",
+      "キ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "water",
+      "water"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "さんずい"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "sanzui",
+    "kanji": {
+      "character": "汽",
+      "meaning": {
+        "english": "steam"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          0.733333,
+          1.6,
+          2.8,
+          3.8,
+          4.733333,
+          5.533333,
+          8.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ki(teki)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(teki)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(teki)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(teki)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(teki)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(teki)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(teki)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ki",
+        "katakana": "キ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ki(teki)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ki(teki)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ki(teki)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺡",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/sanzui.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "さんずい",
+        "romaji": "sanzui"
+      },
+      "meaning": {
+        "english": "water"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sanzui0.svg",
+        "https://media.kanjialive.com/rad_frames/sanzui1.svg",
+        "https://media.kanjialive.com/rad_frames/sanzui2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "198",
+      "classic_nelson": "2507"
+    }
+  },
+  "jishoData": {
+    "query": "汽",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2020",
+    "strokeCount": 7,
+    "meaning": "vapor, steam",
+    "kunyomi": [],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "汽車",
+        "reading": "キシャ",
+        "meaning": "train (esp. long distance train), steam train"
+      },
+      {
+        "example": "汽船",
+        "reading": "キセン",
+        "meaning": "steamship, steamboat, steamer"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "乞",
+      "气",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27773_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c7d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c7d.gif",
+    "uri": "https://jisho.org/search/%E6%B1%BD%23kanji"
+  }
+}

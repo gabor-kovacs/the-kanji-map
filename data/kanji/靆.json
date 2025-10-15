@@ -1,1 +1,39 @@
-{"id":"靆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"靆","found":true,"strokeCount":24,"meaning":"cloud cover","kunyomi":[],"onyomi":["タイ"],"onyomiExamples":[{"example":"靉靆","reading":"アイタイ","meaning":"trailing (clouds), thick, heavy, dark (mood), gloomy (feeling), eyeglasses"}],"kunyomiExamples":[],"radical":{"symbol":"雨","meaning":"rain"},"parts":["ヨ","二","厶","水","込","隶","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38726_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09746.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9746.gif","uri":"https://jisho.org/search/%E9%9D%86%23kanji"}}
+{
+  "id": "靆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "靆",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "cloud cover",
+    "kunyomi": [],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "靉靆",
+        "reading": "アイタイ",
+        "meaning": "trailing (clouds), thick, heavy, dark (mood), gloomy (feeling), eyeglasses"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "ヨ",
+      "二",
+      "厶",
+      "水",
+      "込",
+      "隶",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38726_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09746.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9746.gif",
+    "uri": "https://jisho.org/search/%E9%9D%86%23kanji"
+  }
+}

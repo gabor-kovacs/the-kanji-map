@@ -1,1 +1,42 @@
-{"id":"鑛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鑛","found":true,"strokeCount":23,"meaning":"ore","kunyomi":["あらがね"],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"粗金","reading":"あらがね","meaning":"ore"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ハ","广","田","金","黄"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37979_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0945b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/945b.gif","uri":"https://jisho.org/search/%E9%91%9B%23kanji"}}
+{
+  "id": "鑛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑛",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "ore",
+    "kunyomi": [
+      "あらがね"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "粗金",
+        "reading": "あらがね",
+        "meaning": "ore"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ハ",
+      "广",
+      "田",
+      "金",
+      "黄"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37979_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0945b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/945b.gif",
+    "uri": "https://jisho.org/search/%E9%91%9B%23kanji"
+  }
+}

@@ -1,1 +1,42 @@
-{"id":"膰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膰","found":true,"strokeCount":16,"meaning":"offerings to gods","kunyomi":["ひもごり","ひもろぎ"],"onyomi":["ハン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"胙","reading":"ひもろぎ","meaning":"offerings of food (to the gods)"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["月","田","米","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33200_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081b0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81b0.gif","uri":"https://jisho.org/search/%E8%86%B0%23kanji"}}
+{
+  "id": "膰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膰",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "offerings to gods",
+    "kunyomi": [
+      "ひもごり",
+      "ひもろぎ"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "胙",
+        "reading": "ひもろぎ",
+        "meaning": "offerings of food (to the gods)"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "月",
+      "田",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33200_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081b0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81b0.gif",
+    "uri": "https://jisho.org/search/%E8%86%B0%23kanji"
+  }
+}

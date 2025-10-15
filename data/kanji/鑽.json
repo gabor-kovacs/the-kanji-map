@@ -1,1 +1,65 @@
-{"id":"鑽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鑽","found":true,"strokeCount":27,"meaning":"make fire by rubbing sticks","kunyomi":["き.る"],"onyomi":["サン"],"onyomiExamples":[{"example":"鑽孔","reading":"サンコウ","meaning":"boring, punching"},{"example":"鑽孔機","reading":"サンコウキ","meaning":"boring machine, punching machine, perforator"},{"example":"研鑽","reading":"ケンサン","meaning":"diligent study, devoting oneself to one's studies"},{"example":"試鑽","reading":"シサン","meaning":"boring, drilling"}],"kunyomiExamples":[{"example":"鑽る","reading":"きる","meaning":"to start a fire (with wood-wood friction or by striking metal against stone)"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ノ","ハ","儿","土","目","貝","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38013_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0947d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/947d.gif","uri":"https://jisho.org/search/%E9%91%BD%23kanji"}}
+{
+  "id": "鑽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑽",
+    "found": true,
+    "strokeCount": 27,
+    "meaning": "make fire by rubbing sticks",
+    "kunyomi": [
+      "き.る"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鑽孔",
+        "reading": "サンコウ",
+        "meaning": "boring, punching"
+      },
+      {
+        "example": "鑽孔機",
+        "reading": "サンコウキ",
+        "meaning": "boring machine, punching machine, perforator"
+      },
+      {
+        "example": "研鑽",
+        "reading": "ケンサン",
+        "meaning": "diligent study, devoting oneself to one's studies"
+      },
+      {
+        "example": "試鑽",
+        "reading": "シサン",
+        "meaning": "boring, drilling"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鑽る",
+        "reading": "きる",
+        "meaning": "to start a fire (with wood-wood friction or by striking metal against stone)"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "儿",
+      "土",
+      "目",
+      "貝",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38013_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0947d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/947d.gif",
+    "uri": "https://jisho.org/search/%E9%91%BD%23kanji"
+  }
+}

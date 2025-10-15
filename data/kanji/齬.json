@@ -1,1 +1,43 @@
-{"id":"齬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"齬","found":true,"strokeCount":22,"meaning":"irregular teeth","kunyomi":[],"onyomi":["ゴ"],"onyomiExamples":[{"example":"齟齬","reading":"ソゴ","meaning":"inconsistency, discord, conflict, discrepancy, contradiction, failure, frustration"},{"example":"言行齟齬","reading":"ゲンコウソゴ","meaning":"inconsistency of speech and action, failing to act up to one's words, not practicing what one preaches"}],"kunyomiExamples":[],"radical":{"symbol":"齒","meaning":"tooth, molar"},"parts":["五","凵","口","止","歯","米"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40812_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f6c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f6c.gif","uri":"https://jisho.org/search/%E9%BD%AC%23kanji"}}
+{
+  "id": "齬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齬",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "irregular teeth",
+    "kunyomi": [],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "齟齬",
+        "reading": "ソゴ",
+        "meaning": "inconsistency, discord, conflict, discrepancy, contradiction, failure, frustration"
+      },
+      {
+        "example": "言行齟齬",
+        "reading": "ゲンコウソゴ",
+        "meaning": "inconsistency of speech and action, failing to act up to one's words, not practicing what one preaches"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "齒",
+      "meaning": "tooth, molar"
+    },
+    "parts": [
+      "五",
+      "凵",
+      "口",
+      "止",
+      "歯",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40812_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f6c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f6c.gif",
+    "uri": "https://jisho.org/search/%E9%BD%AC%23kanji"
+  }
+}

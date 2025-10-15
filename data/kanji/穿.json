@@ -1,1 +1,55 @@
-{"id":"穿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"穿","found":true,"strokeCount":10,"meaning":"put on (to the feet), dig, pierce, drill","kunyomi":["うが.つ","は.く"],"onyomi":["セン"],"onyomiExamples":[{"example":"穿孔","reading":"センコウ","meaning":"perforation, punching, boring, drilling"},{"example":"穿孔位置","reading":"センコウイチ","meaning":"punch position, punching position"}],"kunyomiExamples":[{"example":"穿つ","reading":"うがつ","meaning":"to drill, to bore, to pierce, to pass through, to hit the mark, to get to the heart of (the matter), to be true to (nature), to put on, to wear"},{"example":"履く","reading":"はく","meaning":"to put on (lower-body clothing, e.g. pants, skirt, footwear), to wear, to affix (a sword to one's hip), to affix (a bowstring to a bow)"}],"radical":{"symbol":"穴","meaning":"cave"},"parts":["儿","宀","牙","穴"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31359_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a7f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a7f.gif","uri":"https://jisho.org/search/%E7%A9%BF%23kanji"}}
+{
+  "id": "穿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "穿",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "put on (to the feet), dig, pierce, drill",
+    "kunyomi": [
+      "うが.つ",
+      "は.く"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "穿孔",
+        "reading": "センコウ",
+        "meaning": "perforation, punching, boring, drilling"
+      },
+      {
+        "example": "穿孔位置",
+        "reading": "センコウイチ",
+        "meaning": "punch position, punching position"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "穿つ",
+        "reading": "うがつ",
+        "meaning": "to drill, to bore, to pierce, to pass through, to hit the mark, to get to the heart of (the matter), to be true to (nature), to put on, to wear"
+      },
+      {
+        "example": "履く",
+        "reading": "はく",
+        "meaning": "to put on (lower-body clothing, e.g. pants, skirt, footwear), to wear, to affix (a sword to one's hip), to affix (a bowstring to a bow)"
+      }
+    ],
+    "radical": {
+      "symbol": "穴",
+      "meaning": "cave"
+    },
+    "parts": [
+      "儿",
+      "宀",
+      "牙",
+      "穴"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31359_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a7f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a7f.gif",
+    "uri": "https://jisho.org/search/%E7%A9%BF%23kanji"
+  }
+}

@@ -1,1 +1,77 @@
-{"id":"墨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"墨","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1616","strokeCount":14,"meaning":"black ink, India ink, ink stick, Mexico","kunyomi":["すみ"],"onyomi":["ボク"],"onyomiExamples":[{"example":"墨","reading":"ボク","meaning":"Mexico, Mohism, ink, tattooing"},{"example":"墨書","reading":"ボクショ","meaning":"writing in India ink"},{"example":"遺墨","reading":"イボク","meaning":"autographs (brushwork) of departed person"},{"example":"水墨","reading":"スイボク","meaning":"water and ink, ink painting"}],"kunyomiExamples":[{"example":"墨","reading":"すみ","meaning":"sumi, India ink, Chinese ink, ink stick, ink-cake, squid ink, octopus ink, carpenter's inking string"},{"example":"墨付き","reading":"すみつき","meaning":"certificate, certified document, authorization, authorisation, (the) thumbs up, seal of approval, paper with signature of the shogun or lord"},{"example":"烏賊墨","reading":"いかすみ","meaning":"squid ink"},{"example":"雪と墨","reading":"ゆきとすみ","meaning":"diametric opposites, night and day, black and white, snow and ink"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","杰","里","黒"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22696_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058a8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58a8.gif","uri":"https://jisho.org/search/%E5%A2%A8%23kanji"}}
+{
+  "id": "墨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "墨",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1616",
+    "strokeCount": 14,
+    "meaning": "black ink, India ink, ink stick, Mexico",
+    "kunyomi": [
+      "すみ"
+    ],
+    "onyomi": [
+      "ボク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "墨",
+        "reading": "ボク",
+        "meaning": "Mexico, Mohism, ink, tattooing (as a form of punishment in ancient China)"
+      },
+      {
+        "example": "墨書",
+        "reading": "ボクショ",
+        "meaning": "writing in India ink"
+      },
+      {
+        "example": "遺墨",
+        "reading": "イボク",
+        "meaning": "autographs (brushwork) of departed person"
+      },
+      {
+        "example": "水墨",
+        "reading": "スイボク",
+        "meaning": "water and ink, ink painting"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "墨",
+        "reading": "すみ",
+        "meaning": "sumi, India ink, Chinese ink, ink stick, ink-cake, squid ink, octopus ink, carpenter's inking string"
+      },
+      {
+        "example": "墨絵",
+        "reading": "すみえ",
+        "meaning": "ink painting"
+      },
+      {
+        "example": "イカ墨",
+        "reading": "いかすみ",
+        "meaning": "squid ink"
+      },
+      {
+        "example": "雪と墨",
+        "reading": "ゆきとすみ",
+        "meaning": "diametric opposites, night and day, black and white, snow and ink"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "杰",
+      "里",
+      "黒"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22696_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58a8.gif",
+    "uri": "https://jisho.org/search/%E5%A2%A8%23kanji"
+  }
+}

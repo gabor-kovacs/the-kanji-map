@@ -1,1 +1,44 @@
-{"id":"櫂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"櫂","found":true,"strokeCount":18,"meaning":"oar, scull, paddle","kunyomi":["かい","かじ"],"onyomi":["トウ","タク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"櫂","reading":"かい","meaning":"paddle, oar, scull"},{"example":"櫓櫂","reading":"ろかい","meaning":"sculls and paddles"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ヨ","木","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27330_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ac2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ac2.gif","uri":"https://jisho.org/search/%E6%AB%82%23kanji"}}
+{
+  "id": "櫂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "櫂",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "oar, scull, paddle",
+    "kunyomi": [
+      "かい",
+      "かじ"
+    ],
+    "onyomi": [
+      "トウ",
+      "タク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "櫂",
+        "reading": "かい",
+        "meaning": "paddle, oar, scull"
+      },
+      {
+        "example": "櫓櫂",
+        "reading": "ろかい",
+        "meaning": "sculls and paddles"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ヨ",
+      "木",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27330_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ac2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ac2.gif",
+    "uri": "https://jisho.org/search/%E6%AB%82%23kanji"
+  }
+}

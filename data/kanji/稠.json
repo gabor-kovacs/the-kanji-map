@@ -1,1 +1,60 @@
-{"id":"稠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"稠","found":true,"strokeCount":13,"meaning":"density","kunyomi":["おお.い","し.げる"],"onyomi":["チュウ","チョウ"],"onyomiExamples":[{"example":"稠度","reading":"チョウド","meaning":"consistency"},{"example":"稠密","reading":"チュウミツ","meaning":"dense, populous, crowded, thick"},{"example":"粘稠","reading":"ネンチュウ","meaning":"viscous"},{"example":"稠度","reading":"チョウド","meaning":"consistency"},{"example":"稠密","reading":"チュウミツ","meaning":"dense, populous, crowded, thick"}],"kunyomiExamples":[],"radical":{"symbol":"禾","meaning":"grain"},"parts":["冂","口","土","禾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31264_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a20.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a20.gif","uri":"https://jisho.org/search/%E7%A8%A0%23kanji"}}
+{
+  "id": "稠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "稠",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "density",
+    "kunyomi": [
+      "おお.い",
+      "し.げる"
+    ],
+    "onyomi": [
+      "チュウ",
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "稠度",
+        "reading": "チョウド",
+        "meaning": "consistency"
+      },
+      {
+        "example": "稠密",
+        "reading": "チュウミツ",
+        "meaning": "dense, populous, crowded, thick"
+      },
+      {
+        "example": "粘稠",
+        "reading": "ネンチュウ",
+        "meaning": "viscous"
+      },
+      {
+        "example": "稠度",
+        "reading": "チョウド",
+        "meaning": "consistency"
+      },
+      {
+        "example": "稠密",
+        "reading": "チュウミツ",
+        "meaning": "dense, populous, crowded, thick"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "grain"
+    },
+    "parts": [
+      "冂",
+      "口",
+      "土",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31264_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a20.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a20.gif",
+    "uri": "https://jisho.org/search/%E7%A8%A0%23kanji"
+  }
+}

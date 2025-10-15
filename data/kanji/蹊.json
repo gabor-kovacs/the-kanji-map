@@ -1,1 +1,44 @@
-{"id":"蹊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蹊","found":true,"strokeCount":17,"meaning":"path","kunyomi":["みち","わた.る"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"鼠蹊","reading":"ソケイ","meaning":"groin, inguinal region"}],"kunyomiExamples":[],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["口","大","幺","止","爪","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36426_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e4a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e4a.gif","uri":"https://jisho.org/search/%E8%B9%8A%23kanji"}}
+{
+  "id": "蹊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蹊",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "path",
+    "kunyomi": [
+      "みち",
+      "わた.る"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鼠径",
+        "reading": "ソケイ",
+        "meaning": "groin, inguinal region"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "口",
+      "大",
+      "幺",
+      "止",
+      "爪",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36426_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e4a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e4a.gif",
+    "uri": "https://jisho.org/search/%E8%B9%8A%23kanji"
+  }
+}

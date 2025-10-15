@@ -1,1 +1,55 @@
-{"id":"隨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"隨","found":true,"strokeCount":16,"meaning":"at the mercy of (the waves)","kunyomi":["まにまに","したが.う"],"onyomi":["ズイ"],"onyomiExamples":[{"example":"随筆","reading":"ズイヒツ","meaning":"essays, miscellaneous writings, literary jottings"},{"example":"随分","reading":"ズイブン","meaning":"very, extremely, surprisingly, considerably, awfully, terribly, terrible, horrid, contemptible, reprehensible, remarkable, extraordinary"}],"kunyomiExamples":[{"example":"従う","reading":"したがう","meaning":"to obey (an order, law, etc.), to abide by (a rule, custom, etc.), to follow, to observe, to conform to, to yield to, to follow (a person), to accompany, to go with, to go alongside (e.g. a river), to follow (e.g. a sign), to serve (as), to engage in (work)"}],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["ノ","一","工","月","込","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38568_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096a8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96a8.gif","uri":"https://jisho.org/search/%E9%9A%A8%23kanji"}}
+{
+  "id": "隨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "隨",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "at the mercy of (the waves)",
+    "kunyomi": [
+      "まにまに",
+      "したが.う"
+    ],
+    "onyomi": [
+      "ズイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "随筆",
+        "reading": "ズイヒツ",
+        "meaning": "essays, miscellaneous writings, literary jottings"
+      },
+      {
+        "example": "随分",
+        "reading": "ズイブン",
+        "meaning": "very, extremely, surprisingly, fairly, quite, considerably, awfully, terribly, terrible, horrid, contemptible, reprehensible, remarkable, extraordinary"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "従う",
+        "reading": "したがう",
+        "meaning": "to obey (an order, law, etc.), to abide by (a rule, custom, etc.), to follow, to observe, to conform to, to yield to, to follow (a person), to accompany, to go with, to go alongside (e.g. a river), to follow (e.g. a sign), to serve (as), to engage in (work)"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "工",
+      "月",
+      "込",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38568_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96a8.gif",
+    "uri": "https://jisho.org/search/%E9%9A%A8%23kanji"
+  }
+}

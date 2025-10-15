@@ -1,1 +1,88 @@
-{"id":"峰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"峰","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1836","strokeCount":10,"meaning":"summit, peak","kunyomi":["みね","ね"],"onyomi":["ホウ"],"onyomiExamples":[{"example":"峰頭","reading":"ホウトウ","meaning":"summit of a peak"},{"example":"未踏峰","reading":"ミトウホウ","meaning":"unclimbed mountain"},{"example":"高峰","reading":"コウホウ","meaning":"high mountain, lofty peak"}],"kunyomiExamples":[{"example":"峰","reading":"みね","meaning":"peak, summit, ridge, top, back of a blade"},{"example":"峰打ち","reading":"みねうち","meaning":"striking with the back of the sword"},{"example":"剣ヶ峰","reading":"けんがみね","meaning":"rim of a volcano (esp. Mt. Fuji), wrestling ring, dire or risky situation with no room for error, sink-or-swim position"},{"example":"峰々","reading":"みねみね","meaning":"peaks"},{"example":"剣ヶ峰","reading":"けんがみね","meaning":"rim of a volcano (esp. Mt. Fuji), wrestling ring, dire or risky situation with no room for error, sink-or-swim position"},{"example":"峰々","reading":"みねみね","meaning":"peaks"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["一","夂","山","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23792_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cf0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cf0.gif","uri":"https://jisho.org/search/%E5%B3%B0%23kanji"}}
+{
+  "id": "峰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "峰",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1836",
+    "strokeCount": 10,
+    "meaning": "summit, peak",
+    "kunyomi": [
+      "みね",
+      "ね"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "峰頭",
+        "reading": "ホウトウ",
+        "meaning": "summit of a peak"
+      },
+      {
+        "example": "峰巒",
+        "reading": "ホウラン",
+        "meaning": "(mountain) peak, mountain, mountain range"
+      },
+      {
+        "example": "未踏峰",
+        "reading": "ミトウホウ",
+        "meaning": "unclimbed mountain"
+      },
+      {
+        "example": "高峰",
+        "reading": "コウホウ",
+        "meaning": "high mountain, lofty peak"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "峰",
+        "reading": "みね",
+        "meaning": "peak, summit, ridge, top, back of a blade"
+      },
+      {
+        "example": "峰打ち",
+        "reading": "みねうち",
+        "meaning": "striking with the back of the sword"
+      },
+      {
+        "example": "剣ヶ峰",
+        "reading": "けんがみね",
+        "meaning": "rim of a volcano (esp. Mt. Fuji), wrestling ring, dire or risky situation with no room for error, sink-or-swim position"
+      },
+      {
+        "example": "峰々",
+        "reading": "みねみね",
+        "meaning": "peaks"
+      },
+      {
+        "example": "剣ヶ峰",
+        "reading": "けんがみね",
+        "meaning": "rim of a volcano (esp. Mt. Fuji), wrestling ring, dire or risky situation with no room for error, sink-or-swim position"
+      },
+      {
+        "example": "峰々",
+        "reading": "みねみね",
+        "meaning": "peaks"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "一",
+      "夂",
+      "山",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23792_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cf0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cf0.gif",
+    "uri": "https://jisho.org/search/%E5%B3%B0%23kanji"
+  }
+}

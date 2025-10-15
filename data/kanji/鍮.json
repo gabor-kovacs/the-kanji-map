@@ -1,1 +1,35 @@
-{"id":"鍮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鍮","found":true,"strokeCount":17,"meaning":"brass","kunyomi":[],"onyomi":["チュウ","トウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["一","个","刈","月","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37742_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0936e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/936e.gif","uri":"https://jisho.org/search/%E9%8D%AE%23kanji"}}
+{
+  "id": "鍮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鍮",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "brass",
+    "kunyomi": [],
+    "onyomi": [
+      "チュウ",
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "一",
+      "个",
+      "刈",
+      "月",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37742_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0936e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/936e.gif",
+    "uri": "https://jisho.org/search/%E9%8D%AE%23kanji"
+  }
+}

@@ -1,1 +1,33 @@
-{"id":"檪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"檪","found":true,"strokeCount":17,"meaning":"oak used for charcoal","kunyomi":["くぬぎ"],"onyomi":["レキ","ヤク","ロウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["冫","木","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27306_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06aaa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6aaa.gif","uri":"https://jisho.org/search/%E6%AA%AA%23kanji"}}
+{
+  "id": "檪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "檪",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "oak used for charcoal",
+    "kunyomi": [
+      "くぬぎ"
+    ],
+    "onyomi": [
+      "レキ",
+      "ヤク",
+      "ロウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "冫",
+      "木",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27306_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06aaa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6aaa.gif",
+    "uri": "https://jisho.org/search/%E6%AA%AA%23kanji"
+  }
+}

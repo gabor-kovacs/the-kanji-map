@@ -1,1 +1,62 @@
-{"id":"匿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"匿","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2024","strokeCount":10,"meaning":"hide, shelter, shield","kunyomi":["かくま.う"],"onyomi":["トク"],"onyomiExamples":[{"example":"匿","reading":"トク","meaning":"shelter, shield, hide"},{"example":"匿名","reading":"トクメイ","meaning":"anonymity, using an assumed name"},{"example":"隠匿","reading":"イントク","meaning":"concealment"},{"example":"秘匿","reading":"ヒトク","meaning":"hiding, concealment"}],"kunyomiExamples":[{"example":"匿う","reading":"かくまう","meaning":"to shelter (e.g. a fugitive), to harbour, to harbor, to hide, to give refuge to"}],"radical":{"symbol":"匸","meaning":"hiding enclosure"},"parts":["ノ","匚","口","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21311_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0533f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/533f.gif","uri":"https://jisho.org/search/%E5%8C%BF%23kanji"}}
+{
+  "id": "匿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匿",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2024",
+    "strokeCount": 10,
+    "meaning": "hide, shelter, shield",
+    "kunyomi": [
+      "かくま.う"
+    ],
+    "onyomi": [
+      "トク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匿",
+        "reading": "トク",
+        "meaning": "shelter, shield, hide"
+      },
+      {
+        "example": "匿名",
+        "reading": "トクメイ",
+        "meaning": "anonymity, using an assumed name"
+      },
+      {
+        "example": "隠匿",
+        "reading": "イントク",
+        "meaning": "concealment (esp. of wrongdoings or criminals), sheltering, harboring"
+      },
+      {
+        "example": "秘匿",
+        "reading": "ヒトク",
+        "meaning": "hiding, concealment"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "匿う",
+        "reading": "かくまう",
+        "meaning": "to shelter (e.g. a fugitive), to harbour, to harbor, to hide, to give refuge to"
+      }
+    ],
+    "radical": {
+      "symbol": "匸",
+      "meaning": "hiding enclosure"
+    },
+    "parts": [
+      "ノ",
+      "匚",
+      "口",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21311_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0533f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/533f.gif",
+    "uri": "https://jisho.org/search/%E5%8C%BF%23kanji"
+  }
+}

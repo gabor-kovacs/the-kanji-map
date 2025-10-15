@@ -1,1 +1,81 @@
-{"id":"渦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"渦","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1789","strokeCount":12,"meaning":"whirlpool, eddy, vortex","kunyomi":["うず"],"onyomi":["カ"],"onyomiExamples":[{"example":"渦中","reading":"カチュウ","meaning":"vortex, maelstrom, whirlpool, (in the middle of a) scandal, controversy, quarrel, turmoil"},{"example":"渦状","reading":"カジョウ","meaning":"spiral"},{"example":"極渦","reading":"キョクウズ","meaning":"polar vortex, polar cell"},{"example":"戦渦","reading":"センカ","meaning":"chaos of war, war turmoil"}],"kunyomiExamples":[{"example":"渦","reading":"うず","meaning":"whirlpool, swirl, eddy, vortex, maelstrom"},{"example":"渦巻き","reading":"うずまき","meaning":"whirlpool, maelstrom, vortex, eddy, swirl, spiral (shape, pattern)"},{"example":"寒冷渦","reading":"かんれいうず","meaning":"cold vortex"},{"example":"極渦","reading":"きょくうず","meaning":"polar vortex, polar cell"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["冂","口","汁","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28198_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e26.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e26.gif","uri":"https://jisho.org/search/%E6%B8%A6%23kanji"}}
+{
+  "id": "渦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渦",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1789",
+    "strokeCount": 12,
+    "meaning": "whirlpool, eddy, vortex",
+    "kunyomi": [
+      "うず"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渦中",
+        "reading": "カチュウ",
+        "meaning": "vortex, maelstrom, whirlpool, (in the middle of a) scandal, controversy, quarrel, turmoil"
+      },
+      {
+        "example": "渦状",
+        "reading": "カジョウ",
+        "meaning": "spiral"
+      },
+      {
+        "example": "冷水渦",
+        "reading": "レイスイウズ",
+        "meaning": "cold eddy"
+      },
+      {
+        "example": "極渦",
+        "reading": "キョクウズ",
+        "meaning": "polar vortex, polar cell"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "渦",
+        "reading": "うず",
+        "meaning": "whirlpool, swirl, eddy, vortex, maelstrom"
+      },
+      {
+        "example": "渦巻き",
+        "reading": "うずまき",
+        "meaning": "whirlpool, maelstrom, vortex, eddy, swirl, spiral (shape, pattern)"
+      },
+      {
+        "example": "冷水渦",
+        "reading": "れいすいうず",
+        "meaning": "cold eddy"
+      },
+      {
+        "example": "暖水渦",
+        "reading": "だんすいうず",
+        "meaning": "warm eddy"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "冂",
+      "口",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28198_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e26.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e26.gif",
+    "uri": "https://jisho.org/search/%E6%B8%A6%23kanji"
+  }
+}

@@ -1,1 +1,76 @@
-{"id":"礫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"礫","found":true,"strokeCount":20,"meaning":"small stones","kunyomi":["つぶて","こいし"],"onyomi":["レキ"],"onyomiExamples":[{"example":"礫岩","reading":"レキガン","meaning":"conglomerate stone"},{"example":"礫器","reading":"レッキ","meaning":"chopping tool, chopping stoneware"},{"example":"石礫","reading":"セキレキ","meaning":"pellet, pebble, small rock"},{"example":"砂礫","reading":"サレキ","meaning":"pebbles"}],"kunyomiExamples":[{"example":"礫","reading":"つぶて","meaning":"stone (used for throwing)"},{"example":"雪つぶて","reading":"ゆきつぶて","meaning":"snowball"},{"example":"天狗礫","reading":"てんぐつぶて","meaning":"rock flying out of nowhere (while in the mountains)"},{"example":"小石","reading":"こいし","meaning":"pebble"}],"radical":{"symbol":"石","meaning":"stone"},"parts":["冫","口","木","白","石"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31019_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0792b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/792b.gif","uri":"https://jisho.org/search/%E7%A4%AB%23kanji"}}
+{
+  "id": "礫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "礫",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "small stones",
+    "kunyomi": [
+      "つぶて",
+      "こいし"
+    ],
+    "onyomi": [
+      "レキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "礫",
+        "reading": "レキ",
+        "meaning": "small stone, gravel"
+      },
+      {
+        "example": "礫岩",
+        "reading": "レキガン",
+        "meaning": "conglomerate stone"
+      },
+      {
+        "example": "石礫",
+        "reading": "セキレキ",
+        "meaning": "pellet, pebble, small rock"
+      },
+      {
+        "example": "砂礫",
+        "reading": "サレキ",
+        "meaning": "pebbles"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "礫",
+        "reading": "つぶて",
+        "meaning": "stone (used for throwing)"
+      },
+      {
+        "example": "雪つぶて",
+        "reading": "ゆきつぶて",
+        "meaning": "snowball"
+      },
+      {
+        "example": "天狗礫",
+        "reading": "てんぐつぶて",
+        "meaning": "rock flying out of nowhere (while in the mountains)"
+      },
+      {
+        "example": "小石",
+        "reading": "こいし",
+        "meaning": "pebble, small stone"
+      }
+    ],
+    "radical": {
+      "symbol": "石",
+      "meaning": "stone"
+    },
+    "parts": [
+      "冫",
+      "口",
+      "木",
+      "白",
+      "石"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31019_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0792b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/792b.gif",
+    "uri": "https://jisho.org/search/%E7%A4%AB%23kanji"
+  }
+}

@@ -1,1 +1,38 @@
-{"id":"麿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"麿","found":true,"jlptLevel":"N1","strokeCount":18,"meaning":"I, you, (kokuji)","kunyomi":["まろ"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"麿","reading":"まろ","meaning":"I, me, (person having) thin or shaved eyebrows, affectionate suffix for names of young men or pets"}],"radical":{"symbol":"麻","meaning":"hemp, flax"},"parts":["ノ","口","广","木","麻"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40639_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ebf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ebf.gif","uri":"https://jisho.org/search/%E9%BA%BF%23kanji"}}
+{
+  "id": "麿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麿",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 18,
+    "meaning": "I, you, (kokuji)",
+    "kunyomi": [
+      "まろ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "麿",
+        "reading": "まろ",
+        "meaning": "I, me, (person having) thin or shaved eyebrows, affectionate suffix for names of young men or pets"
+      }
+    ],
+    "radical": {
+      "symbol": "麻",
+      "meaning": "hemp, flax"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "广",
+      "木",
+      "麻"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40639_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ebf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ebf.gif",
+    "uri": "https://jisho.org/search/%E9%BA%BF%23kanji"
+  }
+}

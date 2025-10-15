@@ -1,1 +1,40 @@
-{"id":"婁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"婁","found":true,"strokeCount":11,"meaning":"frequently, tie","kunyomi":["つな.ぐ","ひ.く"],"onyomi":["ル","ロウ"],"onyomiExamples":[{"example":"婁","reading":"ロウ","meaning":"Chinese \"Bond\" constellation (one of the 28 mansions)"}],"kunyomiExamples":[],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["一","口","女","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23105_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a41.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a41.gif","uri":"https://jisho.org/search/%E5%A9%81%23kanji"}}
+{
+  "id": "婁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "婁",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "frequently, tie",
+    "kunyomi": [
+      "つな.ぐ",
+      "ひ.く"
+    ],
+    "onyomi": [
+      "ル",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "婁",
+        "reading": "ロウ",
+        "meaning": "Chinese \"Bond\" constellation (one of the 28 mansions)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "一",
+      "口",
+      "女",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23105_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a41.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a41.gif",
+    "uri": "https://jisho.org/search/%E5%A9%81%23kanji"
+  }
+}

@@ -1,1 +1,40 @@
-{"id":"濕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"濕","found":true,"strokeCount":17,"meaning":"wet, moist, humid, damp, an illness","kunyomi":["しめ.る","しめ.す","うるお.う","うるお.す"],"onyomi":["シツ","シュウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["幺","日","杰","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28629_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fd5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fd5.gif","uri":"https://jisho.org/search/%E6%BF%95%23kanji"}}
+{
+  "id": "濕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "濕",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "wet, moist, humid, damp, an illness",
+    "kunyomi": [
+      "しめ.る",
+      "しめ.す",
+      "うるお.う",
+      "うるお.す"
+    ],
+    "onyomi": [
+      "シツ",
+      "シュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "幺",
+      "日",
+      "杰",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28629_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fd5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fd5.gif",
+    "uri": "https://jisho.org/search/%E6%BF%95%23kanji"
+  }
+}

@@ -1,1 +1,44 @@
-{"id":"怩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"怩","found":true,"strokeCount":8,"meaning":"shame","kunyomi":[],"onyomi":["ジ"],"onyomiExamples":[{"example":"忸怩","reading":"ジクジ","meaning":"bashful, shameful, ashamed"},{"example":"内心忸怩","reading":"ナイシンジクジ","meaning":"ashamed deep down in one's heart, blushing with shame when one remembers something"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["匕","尸","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24617_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06029.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6029.gif","uri":"https://jisho.org/search/%E6%80%A9%23kanji"}}
+{
+  "id": "怩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "怩",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "shame",
+    "kunyomi": [],
+    "onyomi": [
+      "ジ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忸怩",
+        "reading": "ジクジ",
+        "meaning": "bashful, shameful, ashamed"
+      },
+      {
+        "example": "内心忸怩",
+        "reading": "ナイシンジクジ",
+        "meaning": "ashamed deep down in one's heart, blushing with shame when one remembers something"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "匕",
+      "尸",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24617_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06029.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6029.gif",
+    "uri": "https://jisho.org/search/%E6%80%A9%23kanji"
+  }
+}

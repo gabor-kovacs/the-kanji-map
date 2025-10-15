@@ -1,1 +1,274 @@
-{"id":"抵","kanjialiveData":{"kanji":{"character":"抵","meaning":{"english":"resist"},"strokes":{"count":8,"timings":[0,1,2,2.8,3.866667,5.333333,6.333333,7.8,10.8],"images":["https://media.kanjialive.com/kanji_strokes/tei(kousuru)_1.svg","https://media.kanjialive.com/kanji_strokes/tei(kousuru)_2.svg","https://media.kanjialive.com/kanji_strokes/tei(kousuru)_3.svg","https://media.kanjialive.com/kanji_strokes/tei(kousuru)_4.svg","https://media.kanjialive.com/kanji_strokes/tei(kousuru)_5.svg","https://media.kanjialive.com/kanji_strokes/tei(kousuru)_6.svg","https://media.kanjialive.com/kanji_strokes/tei(kousuru)_7.svg","https://media.kanjialive.com/kanji_strokes/tei(kousuru)_8.svg"]},"onyomi":{"romaji":"tei","katakana":"テイ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/tei(kousuru)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/tei(kousuru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/tei(kousuru)_00.webm"}},"radical":{"character":"⺘","strokes":3,"image":"https://media.kanjialive.com/radical_character/tehen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"てへん","romaji":"tehen"},"meaning":{"english":"hand"},"animation":["https://media.kanjialive.com/rad_frames/tehen0.svg","https://media.kanjialive.com/rad_frames/tehen1.svg","https://media.kanjialive.com/rad_frames/tehen2.svg"]},"references":{"grade":null,"kodansha":"239","classic_nelson":"406"},"examples":[{"japanese":"抵当（ていとう）","meaning":{"english":"mortgage, security"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tei(kousuru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tei(kousuru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tei(kousuru)_06_a.mp3"}},{"japanese":"抵抗力（ていこうりょく）","meaning":{"english":"resistance"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tei(kousuru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tei(kousuru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tei(kousuru)_06_b.mp3"}},{"japanese":"大抵（たいてい）","meaning":{"english":"usually, generally"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tei(kousuru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tei(kousuru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tei(kousuru)_06_c.mp3"}},{"japanese":"抵抗する（ていこうする）","meaning":{"english":"resist, oppose"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tei(kousuru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tei(kousuru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tei(kousuru)_06_d.mp3"}},{"japanese":"抵触する（ていしょくする）","meaning":{"english":"conflict with, run counter to"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tei(kousuru)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tei(kousuru)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tei(kousuru)_06_e.mp3"}}]},"jishoData":{"query":"抵","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1182","strokeCount":8,"meaning":"resist, reach, touch","kunyomi":[],"onyomi":["テイ"],"onyomiExamples":[{"example":"抵触","reading":"テイショク","meaning":"infringement (of a law, treaty, etc.), contravention, running afoul, conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction, collision, contact, touching"},{"example":"抵抗","reading":"テイコウ","meaning":"resistance, opposition, standing up to, reluctance, repulsion, repugnance, resistance, drag, friction, electrical resistance, resistor"},{"example":"抗抵","reading":"コウテイ","meaning":"resistance, opposition"},{"example":"角觝","reading":"カクテイ","meaning":"strength contest, sumo wrestling"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["扎","氏"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25269_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062b5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62b5.gif","uri":"https://jisho.org/search/%E6%8A%B5%23kanji"}}
+{
+  "id": "抵",
+  "kanjialiveData": {
+    "_id": "54317b08791eba5146ee4c27",
+    "_rev": "11-c475491f2de73e802a0bf8bdae209ef2",
+    "rad_name_ja": "てへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "resist",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "抵当（ていとう）",
+        "meaning": {
+          "english": "mortgage, security"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(kousuru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(kousuru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(kousuru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "抵抗力（ていこうりょく）",
+        "meaning": {
+          "english": "resistance"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(kousuru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(kousuru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(kousuru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "大抵（たいてい）",
+        "meaning": {
+          "english": "usually, generally"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(kousuru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(kousuru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(kousuru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "抵抗する（ていこうする）",
+        "meaning": {
+          "english": "resist, oppose"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(kousuru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(kousuru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(kousuru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "抵触する（ていしょくする）",
+        "meaning": {
+          "english": "conflict with, run counter to"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(kousuru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(kousuru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(kousuru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(kousuru)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "抵",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=抵",
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_order": 77,
+    "txt_books": [
+      {
+        "chapter": "19",
+        "txt_bk": "txtIntermJpn"
+      }
+    ],
+    "kname": "tei(kousuru)",
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      1,
+      2,
+      2.8,
+      3.866667,
+      5.333333,
+      6.333333,
+      7.8,
+      10.8
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "239",
+    "rad_name": "tehen",
+    "dicn": "406",
+    "mn_hint": "Actions 扌 of clans 氏 to resist authority 一.",
+    "rad_stroke": 3,
+    "onyomi_ja": "テイ",
+    "rad_meaning": "hand",
+    "onyomi": "tei",
+    "ka_id": "ka_822",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "tei",
+      "tei"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "resist",
+      "resist"
+    ],
+    "onyomi_ja_search": [
+      "テイ",
+      "テイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:19",
+      "ij:c19"
+    ],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "抵",
+      "meaning": {
+        "english": "resist"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1,
+          2,
+          2.8,
+          3.866667,
+          5.333333,
+          6.333333,
+          7.8,
+          10.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tei(kousuru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(kousuru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(kousuru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(kousuru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(kousuru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(kousuru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(kousuru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(kousuru)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "tei",
+        "katakana": "テイ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tei(kousuru)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tei(kousuru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tei(kousuru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "hand"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "239",
+      "classic_nelson": "406"
+    }
+  },
+  "jishoData": {
+    "query": "抵",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1182",
+    "strokeCount": 8,
+    "meaning": "resist, reach, touch",
+    "kunyomi": [],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "抵触",
+        "reading": "テイショク",
+        "meaning": "infringement (of a law, treaty, etc.), contravention, running afoul, conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction, collision, contact, touching"
+      },
+      {
+        "example": "抵抗",
+        "reading": "テイコウ",
+        "meaning": "resistance, opposition, standing up to, reluctance, repulsion, repugnance, resistance, drag, friction, electrical resistance, resistor"
+      },
+      {
+        "example": "抗抵",
+        "reading": "コウテイ",
+        "meaning": "resistance, opposition"
+      },
+      {
+        "example": "角觝",
+        "reading": "カクテイ",
+        "meaning": "strength contest, sumo wrestling"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "扎",
+      "氏"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25269_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062b5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62b5.gif",
+    "uri": "https://jisho.org/search/%E6%8A%B5%23kanji"
+  }
+}

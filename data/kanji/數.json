@@ -1,1 +1,56 @@
-{"id":"數","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"數","found":true,"strokeCount":15,"meaning":"number, strength, fate, law, figures","kunyomi":["かず","かぞ.える","しばしば","せ.める","わずらわ.しい"],"onyomi":["スウ","ス","サク","ソク","シュ"],"onyomiExamples":[{"example":"数度","reading":"スウド","meaning":"several times, several degrees"},{"example":"数度","reading":"スウド","meaning":"several times, several degrees"}],"kunyomiExamples":[],"radical":{"symbol":"攴","forms":["攵"],"meaning":"rap"},"parts":["一","乞","口","女","攵","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25976_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06578.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6578.gif","uri":"https://jisho.org/search/%E6%95%B8%23kanji"}}
+{
+  "id": "數",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "數",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "number, strength, fate, law, figures",
+    "kunyomi": [
+      "かず",
+      "かぞ.える",
+      "しばしば",
+      "せ.める",
+      "わずらわ.しい"
+    ],
+    "onyomi": [
+      "スウ",
+      "ス",
+      "サク",
+      "ソク",
+      "シュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "数度",
+        "reading": "スウド",
+        "meaning": "several times, a few times, several degrees, a few degrees"
+      },
+      {
+        "example": "数度",
+        "reading": "スウド",
+        "meaning": "several times, a few times, several degrees, a few degrees"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "一",
+      "乞",
+      "口",
+      "女",
+      "攵",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25976_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06578.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6578.gif",
+    "uri": "https://jisho.org/search/%E6%95%B8%23kanji"
+  }
+}

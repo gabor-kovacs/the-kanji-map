@@ -1,1 +1,73 @@
-{"id":"梳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梳","found":true,"strokeCount":11,"meaning":"comb (hair)","kunyomi":["と.く","と.かす","す.く","けず.る","くしけず.る"],"onyomi":["ソ"],"onyomiExamples":[{"example":"梳綿機","reading":"ソメンキ","meaning":"carding machine"},{"example":"梳毛","reading":"ソモウ","meaning":"combed wool (yarn)"}],"kunyomiExamples":[{"example":"梳く","reading":"すく","meaning":"to comb (out), to card, to untangle (hair)"},{"example":"梳かす","reading":"とかす","meaning":"to comb out, to brush, to untangle, to unravel"},{"example":"梳く","reading":"すく","meaning":"to comb (out), to card, to untangle (hair)"},{"example":"梳る","reading":"くしけずる","meaning":"to comb"},{"example":"梳る","reading":"くしけずる","meaning":"to comb"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["亠","厶","川","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26803_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b3.gif","uri":"https://jisho.org/search/%E6%A2%B3%23kanji"}}
+{
+  "id": "梳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梳",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "comb (hair)",
+    "kunyomi": [
+      "と.く",
+      "と.かす",
+      "す.く",
+      "けず.る",
+      "くしけず.る"
+    ],
+    "onyomi": [
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梳綿機",
+        "reading": "ソメンキ",
+        "meaning": "carding machine"
+      },
+      {
+        "example": "梳毛",
+        "reading": "ソモウ",
+        "meaning": "combed wool (yarn)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "解く",
+        "reading": "とく",
+        "meaning": "to untie, to unfasten, to unwrap, to undo, to unbind, to unpack, to unsew, to unstitch, to solve, to work out, to answer, to dispel (misunderstanding, etc.), to clear up, to remove (suspicion), to appease, to dissolve (a contract), to cancel, to remove (a prohibition), to lift (a ban), to raise (a siege), to release (from duty), to relieve, to dismiss, to comb (out), to card, to untangle (hair)"
+      },
+      {
+        "example": "梳かす",
+        "reading": "とかす",
+        "meaning": "to comb out, to brush, to untangle, to unravel"
+      },
+      {
+        "example": "梳く",
+        "reading": "すく",
+        "meaning": "to comb (out), to card, to untangle (hair), to thin (hair), to reduce in volume"
+      },
+      {
+        "example": "梳る",
+        "reading": "くしけずる",
+        "meaning": "to comb"
+      },
+      {
+        "example": "梳る",
+        "reading": "くしけずる",
+        "meaning": "to comb"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "亠",
+      "厶",
+      "川",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26803_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b3.gif",
+    "uri": "https://jisho.org/search/%E6%A2%B3%23kanji"
+  }
+}

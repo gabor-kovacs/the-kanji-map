@@ -1,1 +1,37 @@
-{"id":"隸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"隸","found":true,"strokeCount":17,"meaning":"servant, prisoner, criminal, follower","kunyomi":["したが.う","しもべ"],"onyomi":["レイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"隶","meaning":"slave, capture"},"parts":["ヨ","亅","二","小","木","水","示","隶"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38584_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096b8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96b8.gif","uri":"https://jisho.org/search/%E9%9A%B8%23kanji"}}
+{
+  "id": "隸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "隸",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "servant, prisoner, criminal, follower",
+    "kunyomi": [
+      "したが.う",
+      "しもべ"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "隶",
+      "meaning": "slave, capture"
+    },
+    "parts": [
+      "ヨ",
+      "亅",
+      "二",
+      "小",
+      "木",
+      "水",
+      "示",
+      "隶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38584_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096b8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96b8.gif",
+    "uri": "https://jisho.org/search/%E9%9A%B8%23kanji"
+  }
+}

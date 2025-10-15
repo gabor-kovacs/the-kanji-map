@@ -1,1 +1,44 @@
-{"id":"莨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"莨","found":true,"strokeCount":10,"meaning":"tobacco","kunyomi":["たばこ"],"onyomi":["ロウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"煙草","reading":"たばこ","meaning":"tobacco, cigarette, cigaret, cigar, tobacco plant (Nicotiana tabacum)"},{"example":"莨草","reading":"たばこぐさ","meaning":"Desmarestia tabacoides (species of algae)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["艮","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33704_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083a8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83a8.gif","uri":"https://jisho.org/search/%E8%8E%A8%23kanji"}}
+{
+  "id": "莨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "莨",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "tobacco",
+    "kunyomi": [
+      "たばこ"
+    ],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "煙草",
+        "reading": "タバコ",
+        "meaning": "tobacco, cigarette, cigar, tobacco plant (Nicotiana tabacum)"
+      },
+      {
+        "example": "莨草",
+        "reading": "たばこぐさ",
+        "meaning": "Desmarestia tabacoides (species of algae)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "艮",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33704_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83a8.gif",
+    "uri": "https://jisho.org/search/%E8%8E%A8%23kanji"
+  }
+}

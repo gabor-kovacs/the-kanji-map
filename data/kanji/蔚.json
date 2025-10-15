@@ -1,1 +1,55 @@
-{"id":"蔚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蔚","found":true,"strokeCount":14,"meaning":"dense growth","kunyomi":["うち","おとこよもぎ"],"onyomi":["ウツ","イ"],"onyomiExamples":[{"example":"鬱林","reading":"ウツリン","meaning":"dense forest, thick forest, May, fifth month of the lunar calendar"},{"example":"蓊鬱","reading":"オウウツ","meaning":"overgrown, exuberant, lush"},{"example":"彬蔚","reading":"ヒンウツ","meaning":"erudite and refined, handsome"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["二","寸","小","尸","示","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34074_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0851a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/851a.gif","uri":"https://jisho.org/search/%E8%94%9A%23kanji"}}
+{
+  "id": "蔚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔚",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "dense growth",
+    "kunyomi": [
+      "うち",
+      "おとこよもぎ"
+    ],
+    "onyomi": [
+      "ウツ",
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鬱林",
+        "reading": "ウツリン",
+        "meaning": "dense forest, thick forest, May, fifth month of the lunar calendar"
+      },
+      {
+        "example": "蓊鬱",
+        "reading": "オウウツ",
+        "meaning": "overgrown, exuberant, lush"
+      },
+      {
+        "example": "彬蔚",
+        "reading": "ヒンウツ",
+        "meaning": "erudite and refined, handsome"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "二",
+      "寸",
+      "小",
+      "尸",
+      "示",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34074_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0851a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/851a.gif",
+    "uri": "https://jisho.org/search/%E8%94%9A%23kanji"
+  }
+}

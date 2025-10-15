@@ -1,1 +1,55 @@
-{"id":"耐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"耐","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1295","strokeCount":9,"meaning":"-proof, enduring","kunyomi":["た.える"],"onyomi":["タイ"],"onyomiExamples":[{"example":"耐","reading":"タイ","meaning":"-proof, -resistant"},{"example":"耐久","reading":"タイキュウ","meaning":"endurance, persistence"},{"example":"不耐","reading":"フタイ","meaning":"intolerance (to food, drug, etc.)"}],"kunyomiExamples":[{"example":"耐える","reading":"たえる","meaning":"to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, to be equal to"}],"radical":{"symbol":"而","meaning":"beard"},"parts":["寸","而"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32784_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08010.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8010.gif","uri":"https://jisho.org/search/%E8%80%90%23kanji"}}
+{
+  "id": "耐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "耐",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1295",
+    "strokeCount": 9,
+    "meaning": "-proof, enduring",
+    "kunyomi": [
+      "た.える"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "耐",
+        "reading": "タイ",
+        "meaning": "-proof, -resistant"
+      },
+      {
+        "example": "耐久",
+        "reading": "タイキュウ",
+        "meaning": "endurance, persistence"
+      },
+      {
+        "example": "不耐",
+        "reading": "フタイ",
+        "meaning": "intolerance (to food, drug, etc.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "耐える",
+        "reading": "たえる",
+        "meaning": "to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, to be equal to"
+      }
+    ],
+    "radical": {
+      "symbol": "而",
+      "meaning": "beard"
+    },
+    "parts": [
+      "寸",
+      "而"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32784_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08010.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8010.gif",
+    "uri": "https://jisho.org/search/%E8%80%90%23kanji"
+  }
+}

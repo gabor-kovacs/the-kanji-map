@@ -1,1 +1,60 @@
-{"id":"詮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"詮","found":true,"taughtIn":"junior high","strokeCount":13,"meaning":"discussion, methods called for, selection, result","kunyomi":["せん.ずる","かい","あき.らか"],"onyomi":["セン"],"onyomiExamples":[{"example":"詮","reading":"セン","meaning":"way, method, means, effect, result, benefit, help, worth, use"},{"example":"選考","reading":"センコウ","meaning":"selection, screening"}],"kunyomiExamples":[{"example":"詮ずる所","reading":"せんずるところ","meaning":"after all, in the end, in short, given due consideration, when all is said and done"},{"example":"甲斐","reading":"かい","meaning":"effect, result, worth, use, avail, Kai (former province located in present-day Yamanashi Prefecture)"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["ハ","个","王","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35438_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a6e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a6e.gif","uri":"https://jisho.org/search/%E8%A9%AE%23kanji"}}
+{
+  "id": "詮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "詮",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 13,
+    "meaning": "discussion, methods called for, selection, result",
+    "kunyomi": [
+      "せん.ずる",
+      "かい",
+      "あき.らか"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "詮",
+        "reading": "セン",
+        "meaning": "way, method, means, effect, result, worth, benefit, use"
+      },
+      {
+        "example": "選考",
+        "reading": "センコウ",
+        "meaning": "selection, choice, screening"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "詮ずるところ",
+        "reading": "せんずるところ",
+        "meaning": "after all, in the end, in short, given due consideration, when all is said and done"
+      },
+      {
+        "example": "甲斐",
+        "reading": "かい",
+        "meaning": "result (that makes an act worthwhile), worth (in doing something), value, effect, use, benefit, avail"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "ハ",
+      "个",
+      "王",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35438_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a6e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a6e.gif",
+    "uri": "https://jisho.org/search/%E8%A9%AE%23kanji"
+  }
+}

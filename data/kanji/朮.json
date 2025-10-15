@@ -1,1 +1,48 @@
-{"id":"朮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"朮","found":true,"strokeCount":5,"meaning":"a type of millet, a type of herb","kunyomi":["もちあわ","おけら"],"onyomi":["ジュツ","シュツ","チュツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"朮","reading":"おけら","meaning":"Atractylodes japonica"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","丶","儿","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26414_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0672e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/672e.gif","uri":"https://jisho.org/search/%E6%9C%AE%23kanji"}}
+{
+  "id": "朮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朮",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "a type of millet, a type of herb",
+    "kunyomi": [
+      "もちあわ",
+      "おけら"
+    ],
+    "onyomi": [
+      "ジュツ",
+      "シュツ",
+      "チュツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "白朮",
+        "reading": "ビャクジュツ",
+        "meaning": "atractylodes rhizome (used in herbal medicine)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "朮",
+        "reading": "おけら",
+        "meaning": "Atractylodes japonica"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "丶",
+      "儿",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26414_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0672e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/672e.gif",
+    "uri": "https://jisho.org/search/%E6%9C%AE%23kanji"
+  }
+}

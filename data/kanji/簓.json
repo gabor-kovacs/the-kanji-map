@@ -1,1 +1,46 @@
-{"id":"簓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"簓","found":true,"strokeCount":17,"meaning":"bamboo whisk, (kokuji)","kunyomi":["ささら"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"簓","reading":"ささら","meaning":"bamboo whisk"},{"example":"簓子","reading":"ささらこ","meaning":"notched bamboo rod rubbed with an implement similar to a bamboo whisk (used as a percussion instrument), wooden vertical batten"}],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","冂","十","口","彡","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31763_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c13.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c13.gif","uri":"https://jisho.org/search/%E7%B0%93%23kanji"}}
+{
+  "id": "簓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "簓",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "bamboo whisk, (kokuji)",
+    "kunyomi": [
+      "ささら"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "簓",
+        "reading": "ささら",
+        "meaning": "bamboo whisk"
+      },
+      {
+        "example": "簓子",
+        "reading": "ささらこ",
+        "meaning": "notched bamboo rod rubbed with an implement similar to a bamboo whisk (used as a percussion instrument), wooden vertical batten"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "十",
+      "口",
+      "彡",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31763_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c13.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c13.gif",
+    "uri": "https://jisho.org/search/%E7%B0%93%23kanji"
+  }
+}

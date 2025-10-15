@@ -1,1 +1,65 @@
-{"id":"疫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"疫","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1661","strokeCount":9,"meaning":"epidemic","kunyomi":[],"onyomi":["エキ","ヤク"],"onyomiExamples":[{"example":"疫病","reading":"エキビョウ","meaning":"epidemic, plague, pestilence"},{"example":"疫学","reading":"エキガク","meaning":"epidemiology, the study of epidemics"},{"example":"検疫","reading":"ケンエキ","meaning":"quarantine, medical inspection"},{"example":"防疫","reading":"ボウエキ","meaning":"communicable disease control (e.g. by quarantine, disinfection, etc.), prevention of epidemics"},{"example":"疫病","reading":"エキビョウ","meaning":"epidemic, plague, pestilence"},{"example":"疫神","reading":"エキジン","meaning":"god who spreads infectious diseases, god of pestilence"}],"kunyomiExamples":[],"radical":{"symbol":"疒","meaning":"sickness"},"parts":["几","又","殳","疔"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30123_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075ab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75ab.gif","uri":"https://jisho.org/search/%E7%96%AB%23kanji"}}
+{
+  "id": "疫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "疫",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1661",
+    "strokeCount": 9,
+    "meaning": "epidemic",
+    "kunyomi": [],
+    "onyomi": [
+      "エキ",
+      "ヤク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "疫病",
+        "reading": "エキビョウ",
+        "meaning": "epidemic, plague, pestilence"
+      },
+      {
+        "example": "疫学",
+        "reading": "エキガク",
+        "meaning": "epidemiology"
+      },
+      {
+        "example": "検疫",
+        "reading": "ケンエキ",
+        "meaning": "quarantine, medical inspection"
+      },
+      {
+        "example": "防疫",
+        "reading": "ボウエキ",
+        "meaning": "communicable disease control (e.g. by quarantine, disinfection, etc.), prevention of epidemics"
+      },
+      {
+        "example": "疫病",
+        "reading": "エキビョウ",
+        "meaning": "epidemic, plague, pestilence"
+      },
+      {
+        "example": "疫神",
+        "reading": "エキジン",
+        "meaning": "god who spreads infectious diseases, god of pestilence"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "sickness"
+    },
+    "parts": [
+      "几",
+      "又",
+      "殳",
+      "疔"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30123_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75ab.gif",
+    "uri": "https://jisho.org/search/%E7%96%AB%23kanji"
+  }
+}

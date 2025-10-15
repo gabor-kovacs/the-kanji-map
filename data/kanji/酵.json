@@ -1,1 +1,53 @@
-{"id":"酵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"酵","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1862","strokeCount":14,"meaning":"fermentation","kunyomi":[],"onyomi":["コウ"],"onyomiExamples":[{"example":"酵素","reading":"コウソ","meaning":"enzyme"},{"example":"酵母","reading":"コウボ","meaning":"yeast, leaven"},{"example":"並行複発酵","reading":"ヘイコウフクハッコウ","meaning":"multiple parallel fermentation (esp. in sake brewing)"},{"example":"アルコール発酵","reading":"アルコールハッコウ","meaning":"alcohol fermentation"}],"kunyomiExamples":[],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["子","老","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37237_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09175.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9175.gif","uri":"https://jisho.org/search/%E9%85%B5%23kanji"}}
+{
+  "id": "酵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酵",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1862",
+    "strokeCount": 14,
+    "meaning": "fermentation",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "酵素",
+        "reading": "コウソ",
+        "meaning": "enzyme"
+      },
+      {
+        "example": "酵母",
+        "reading": "コウボ",
+        "meaning": "yeast, leaven"
+      },
+      {
+        "example": "並行複発酵",
+        "reading": "ヘイコウフクハッコウ",
+        "meaning": "multiple parallel fermentation (esp. in sake brewing)"
+      },
+      {
+        "example": "精密発酵",
+        "reading": "セイミツハッコウ",
+        "meaning": "precision fermentation (use of microbial hosts, such as bacteria and yeast, to produce specific biomolecules)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "子",
+      "老",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37237_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09175.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9175.gif",
+    "uri": "https://jisho.org/search/%E9%85%B5%23kanji"
+  }
+}

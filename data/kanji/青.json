@@ -1,1 +1,418 @@
-{"id":"青","kanjialiveData":{"kanji":{"character":"青","meaning":{"english":"blue"},"strokes":{"count":8,"timings":[0,1.733,2.733,3.533,4.867,5.8,7.333,8.133,8.866667],"images":["https://media.kanjialive.com/kanji_strokes/ao_1.svg","https://media.kanjialive.com/kanji_strokes/ao_2.svg","https://media.kanjialive.com/kanji_strokes/ao_3.svg","https://media.kanjialive.com/kanji_strokes/ao_4.svg","https://media.kanjialive.com/kanji_strokes/ao_5.svg","https://media.kanjialive.com/kanji_strokes/ao_6.svg","https://media.kanjialive.com/kanji_strokes/ao_7.svg","https://media.kanjialive.com/kanji_strokes/ao_8.svg"]},"onyomi":{"romaji":"sei, shou","katakana":"セイ、ショウ"},"kunyomi":{"romaji":"ao, aoi","hiragana":"あお"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ao_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ao_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ao_00.webm"}},"radical":{"character":"⻘","strokes":8,"image":"https://media.kanjialive.com/radical_character/ao.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"あお","romaji":"ao"},"meaning":{"english":"blue, green"},"animation":["https://media.kanjialive.com/rad_frames/ao0.svg","https://media.kanjialive.com/rad_frames/ao1.svg","https://media.kanjialive.com/rad_frames/ao2.svg"]},"references":{"grade":1,"kodansha":"1573","classic_nelson":"5076"},"examples":[{"japanese":"青春（せいしゅん）","meaning":{"english":"springtime of life"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ao_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ao_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_a.mp3"}},{"japanese":"青年（せいねん）","meaning":{"english":"youth"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ao_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ao_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_b.mp3"}},{"japanese":"緑青（ろくしょう）","meaning":{"english":"copper rust"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ao_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ao_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_c.mp3"}},{"japanese":"青い（あおい）","meaning":{"english":"blue, pale"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ao_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ao_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_d.mp3"}},{"japanese":"青空（あおぞら）","meaning":{"english":"blue sky"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ao_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ao_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_e.mp3"}},{"japanese":"青白い（あおじろい）","meaning":{"english":"pale"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ao_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ao_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_f.mp3"}},{"japanese":"青信号（あおしんごう）","meaning":{"english":"green light"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ao_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ao_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_g.mp3"}}]},"jishoData":{"query":"青","found":true,"taughtIn":"grade 1","jlptLevel":"N4","newspaperFrequencyRank":"589","strokeCount":8,"meaning":"blue, green","kunyomi":["あお","あお-","あお.い"],"onyomi":["セイ","ショウ"],"onyomiExamples":[{"example":"青果","reading":"セイカ","meaning":"fruit(s) and vegetables, produce"},{"example":"青雲","reading":"セイウン","meaning":"blue sky, erudition, detachment from the world, high rank"},{"example":"回青","reading":"カイセイ","meaning":"Mohammedan blue (pigment used in porcelain painting)"},{"example":"黛青","reading":"タイセイ","meaning":"blackish blue"},{"example":"青面金剛","reading":"ショウメンコンゴウ","meaning":"Shōmen Kongō, Blue-Faced Vajra, blue-skinned deity depicted with two, four or six arms; originally associated with esoteric Buddhism, thought to bring sickness; revered as part of kōshin-machi beliefs during the Edo period"},{"example":"青龍","reading":"セイリョウ","meaning":"blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"},{"example":"緑青","reading":"ロクショウ","meaning":"verdigris, green rust, copper rust"},{"example":"花緑青","reading":"ハナロクショウ","meaning":"Paris green, emerald green"}],"kunyomiExamples":[{"example":"青","reading":"あお","meaning":"blue, azure, green, green light (traffic), black (horse coat color), blue 5-point card, immature, unripe, young"},{"example":"青梅","reading":"あおうめ","meaning":"unripe plum"},{"example":"プロシア青","reading":"プロシアあお","meaning":"Prussian blue"},{"example":"深青","reading":"ふかあお","meaning":"dark blue, deep blue, navy blue"},{"example":"青い","reading":"あおい","meaning":"blue, azure, green, pale, gray, grey, unripe, inexperienced"},{"example":"青色","reading":"あおいろ","meaning":"blue"}],"radical":{"symbol":"青","forms":["靑"],"meaning":"blue"},"parts":["二","亠","土","月","青"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38738_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09752.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9752.gif","uri":"https://jisho.org/search/%E9%9D%92%23kanji"}}
+{
+  "id": "青",
+  "kanjialiveData": {
+    "_id": "54317ae2791eba5146ee4953",
+    "_rev": "11-36bdc064f93e0b0e417d33a88dce2064",
+    "rad_name_ja": "あお",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "ao, aoi",
+    "meaning": "blue",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "青春（せいしゅん）",
+        "meaning": {
+          "english": "springtime of life"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ao_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "青年（せいねん）",
+        "meaning": {
+          "english": "youth"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ao_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "緑青（ろくしょう）",
+        "meaning": {
+          "english": "copper rust"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ao_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "青い（あおい）",
+        "meaning": {
+          "english": "blue, pale"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ao_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "青空（あおぞら）",
+        "meaning": {
+          "english": "blue sky"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ao_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "青白い（あおじろい）",
+        "meaning": {
+          "english": "pale"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ao_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "青信号（あおしんごう）",
+        "meaning": {
+          "english": "green light"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ao_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ao_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ao_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ao_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あお、あおい",
+    "ka_utf": "青",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=青",
+    "kname": "ao",
+    "rad_order": 212,
+    "txt_books": [
+      {
+        "chapter": "17",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "16"
+      }
+    ],
+    "rad_name_search": [
+      "ao"
+    ],
+    "rad_utf": "⻘",
+    "stroketimes": [
+      0,
+      1.733,
+      2.733,
+      3.533,
+      4.867,
+      5.8,
+      7.333,
+      8.133,
+      8.866667
+    ],
+    "kunyomi_ka_display": "あお",
+    "dick": "1573",
+    "rad_name": "ao",
+    "dicn": "5076",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 8,
+    "onyomi_ja": "セイ、ショウ",
+    "rad_meaning": "blue, green",
+    "onyomi": "sei, shou",
+    "ka_id": "ka_170",
+    "onyomi_search": [
+      "sei",
+      "shou",
+      "sei, shou"
+    ],
+    "kunyomi_search": [
+      "ao",
+      "aoi",
+      "ao, aoi"
+    ],
+    "meaning_search": [
+      "blue",
+      "blue"
+    ],
+    "onyomi_ja_search": [
+      "セイ",
+      "ショウ",
+      "セイ、ショウ"
+    ],
+    "kunyomi_ja_search": [
+      "あお",
+      "あおい",
+      "あお、あおい"
+    ],
+    "rad_meaning_search": [
+      "blue",
+      "green",
+      "blue, green"
+    ],
+    "rad_name_ja_search": [
+      "あお"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:17",
+      "cij:c17",
+      "bk",
+      "bk:14",
+      "bk:c14",
+      "aij3",
+      "aij3:8",
+      "aij3:c8",
+      "aij3:v3",
+      "aij3:v3:8",
+      "aij3:v3:c8",
+      "gen",
+      "gen:12",
+      "gen:c12",
+      "ap",
+      "ap:11",
+      "ap:c11",
+      "kll",
+      "kll:10",
+      "kll:c10",
+      "cijr",
+      "cijr:16",
+      "cijr:c16"
+    ],
+    "rad_name_file": "ao",
+    "kanji": {
+      "character": "青",
+      "meaning": {
+        "english": "blue"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.733,
+          2.733,
+          3.533,
+          4.867,
+          5.8,
+          7.333,
+          8.133,
+          8.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ao_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ao_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ao_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ao_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ao_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ao_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ao_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/ao_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sei, shou",
+        "katakana": "セイ、ショウ"
+      },
+      "kunyomi": {
+        "romaji": "ao, aoi",
+        "hiragana": "あお"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ao_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ao_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ao_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⻘",
+      "strokes": 8,
+      "image": "https://media.kanjialive.com/radical_character/ao.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "あお",
+        "romaji": "ao"
+      },
+      "meaning": {
+        "english": "blue, green"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ao0.svg",
+        "https://media.kanjialive.com/rad_frames/ao1.svg",
+        "https://media.kanjialive.com/rad_frames/ao2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1573",
+      "classic_nelson": "5076"
+    }
+  },
+  "jishoData": {
+    "query": "青",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "589",
+    "strokeCount": 8,
+    "meaning": "blue, green",
+    "kunyomi": [
+      "あお",
+      "あお-",
+      "あお.い"
+    ],
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "青果",
+        "reading": "セイカ",
+        "meaning": "fruits and vegetables, produce"
+      },
+      {
+        "example": "青雲",
+        "reading": "セイウン",
+        "meaning": "blue sky, erudition, detachment from the world, high rank"
+      },
+      {
+        "example": "回青",
+        "reading": "カイセイ",
+        "meaning": "Mohammedan blue (pigment used in porcelain painting)"
+      },
+      {
+        "example": "黛青",
+        "reading": "タイセイ",
+        "meaning": "blackish blue"
+      },
+      {
+        "example": "青面金剛",
+        "reading": "ショウメンコンゴウ",
+        "meaning": "Shōmen Kongō, Blue-Faced Vajra, blue-skinned deity depicted with two, four or six arms; originally associated with esoteric Buddhism, thought to bring sickness; revered as part of kōshin-machi beliefs during the Edo period"
+      },
+      {
+        "example": "青龍",
+        "reading": "セイリョウ",
+        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+      },
+      {
+        "example": "緑青",
+        "reading": "ロクショウ",
+        "meaning": "verdigris, green rust, copper rust"
+      },
+      {
+        "example": "花緑青",
+        "reading": "ハナロクショウ",
+        "meaning": "Paris green, emerald green"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "青",
+        "reading": "あお",
+        "meaning": "blue, azure, green, green light (traffic), black (horse coat color), blue 5-point card, immature, unripe, young"
+      },
+      {
+        "example": "青梅",
+        "reading": "あおうめ",
+        "meaning": "unripe plum"
+      },
+      {
+        "example": "プロシア青",
+        "reading": "プロシアあお",
+        "meaning": "Prussian blue"
+      },
+      {
+        "example": "深青",
+        "reading": "ふかあお",
+        "meaning": "dark blue, deep blue, navy blue"
+      },
+      {
+        "example": "青い",
+        "reading": "あおい",
+        "meaning": "blue, azure, green, pale (facial color), gray, grey, unripe, inexperienced"
+      },
+      {
+        "example": "青色",
+        "reading": "あおいろ",
+        "meaning": "blue"
+      }
+    ],
+    "radical": {
+      "symbol": "青",
+      "forms": [
+        "靑"
+      ],
+      "meaning": "blue"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "土",
+      "月",
+      "青"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38738_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09752.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9752.gif",
+    "uri": "https://jisho.org/search/%E9%9D%92%23kanji"
+  }
+}

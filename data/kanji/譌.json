@@ -1,1 +1,42 @@
-{"id":"譌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"譌","found":true,"strokeCount":19,"meaning":"accent, dialect","kunyomi":["なま.る","あやま.る"],"onyomi":["カ"],"onyomiExamples":[{"example":"譌字","reading":"カジ","meaning":"variant kanji form, unorthodox kanji form, incorrect kanji form"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["ノ","杰","爪","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35660_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b4c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b4c.gif","uri":"https://jisho.org/search/%E8%AD%8C%23kanji"}}
+{
+  "id": "譌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "譌",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "accent, dialect",
+    "kunyomi": [
+      "なま.る",
+      "あやま.る"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "譌字",
+        "reading": "カジ",
+        "meaning": "variant kanji form, unorthodox kanji form, incorrect kanji form"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "ノ",
+      "杰",
+      "爪",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35660_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b4c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b4c.gif",
+    "uri": "https://jisho.org/search/%E8%AD%8C%23kanji"
+  }
+}

@@ -1,1 +1,409 @@
-{"id":"海","kanjialiveData":{"kanji":{"character":"海","meaning":{"english":"sea, ocean"},"strokes":{"count":9,"timings":[0.638,1.576,2.246,3.049,3.854,4.657,6.264,7.938,8.607,9.447],"images":["https://media.kanjialive.com/kanji_strokes/kai-umi_1.svg","https://media.kanjialive.com/kanji_strokes/kai-umi_2.svg","https://media.kanjialive.com/kanji_strokes/kai-umi_3.svg","https://media.kanjialive.com/kanji_strokes/kai-umi_4.svg","https://media.kanjialive.com/kanji_strokes/kai-umi_5.svg","https://media.kanjialive.com/kanji_strokes/kai-umi_6.svg","https://media.kanjialive.com/kanji_strokes/kai-umi_7.svg","https://media.kanjialive.com/kanji_strokes/kai-umi_8.svg","https://media.kanjialive.com/kanji_strokes/kai-umi_9.svg"]},"onyomi":{"romaji":"kai","katakana":"カイ"},"kunyomi":{"romaji":"umi","hiragana":"うみ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kai-umi_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kai-umi_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kai-umi_00.webm"}},"radical":{"character":"⺡","strokes":3,"image":"https://media.kanjialive.com/radical_character/sanzui.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"さんずい","romaji":"sanzui"},"meaning":{"english":"water"},"animation":["https://media.kanjialive.com/rad_frames/sanzui0.svg","https://media.kanjialive.com/rad_frames/sanzui1.svg","https://media.kanjialive.com/rad_frames/sanzui2.svg"]},"references":{"grade":2,"kodansha":"284","classic_nelson":"2553"},"examples":[{"japanese":"日本海（にほんかい）","meaning":{"english":"Sea of Japan"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_a.mp3"}},{"japanese":"航海（こうかい）","meaning":{"english":"sailing"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_b.mp3"}},{"japanese":"海岸（かいがん）","meaning":{"english":"coast"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_c.mp3"}},{"japanese":"海外（かいがい）","meaning":{"english":"abroad"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_d.mp3"}},{"japanese":"海水浴（かいすいよく）","meaning":{"english":"sea bathing"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_e.mp3"}},{"japanese":"海（うみ）","meaning":{"english":"sea"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_f.mp3"}},{"japanese":"海辺（うみべ）","meaning":{"english":"beach"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_g.mp3"}},{"japanese":"*海老（えび）","meaning":{"english":"shrimp"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_h.mp3"}},{"japanese":"*海苔（のり）","meaning":{"english":"sea seed sheet"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_i.mp3"}}]},"jishoData":{"query":"海","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"200","strokeCount":9,"meaning":"sea, ocean","kunyomi":["うみ"],"onyomi":["カイ"],"onyomiExamples":[{"example":"海運","reading":"カイウン","meaning":"maritime, marine transportation"},{"example":"海域","reading":"カイイキ","meaning":"area of ocean"},{"example":"公海","reading":"コウカイ","meaning":"high seas, international waters"},{"example":"内海","reading":"ウチウミ","meaning":"inlet, bay, inland sea"}],"kunyomiExamples":[{"example":"海","reading":"うみ","meaning":"sea, ocean, waters"},{"example":"海辺","reading":"うみべ","meaning":"beach, seashore, seaside, coast"},{"example":"内海","reading":"うちうみ","meaning":"inlet, bay, inland sea"},{"example":"血の海","reading":"ちのうみ","meaning":"sea of blood, pool of blood"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["乞","毋","母","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28023_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d77.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d77.gif","uri":"https://jisho.org/search/%E6%B5%B7%23kanji"}}
+{
+  "id": "海",
+  "kanjialiveData": {
+    "_id": "54317aee791eba5146ee4a42",
+    "_rev": "9-8af1282b1ed0b5452e850f0d94bb33e8",
+    "rad_name_ja": "さんずい",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "umi",
+    "meaning": "sea, ocean",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "日本海（にほんかい）",
+        "meaning": {
+          "english": "Sea of Japan"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "航海（こうかい）",
+        "meaning": {
+          "english": "sailing"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "海岸（かいがん）",
+        "meaning": {
+          "english": "coast"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "海外（かいがい）",
+        "meaning": {
+          "english": "abroad"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "海水浴（かいすいよく）",
+        "meaning": {
+          "english": "sea bathing"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "海（うみ）",
+        "meaning": {
+          "english": "sea"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "海辺（うみべ）",
+        "meaning": {
+          "english": "beach"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "*海老（えび）",
+        "meaning": {
+          "english": "shrimp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "*海苔（のり）",
+        "meaning": {
+          "english": "sea seed sheet"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-umi_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-umi_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-umi_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "うみ",
+    "ka_utf": "海",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=海",
+    "rad_name_search": [
+      "sanzui"
+    ],
+    "rad_order": 76,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtMajoFilm"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "kai-umi",
+    "rad_utf": "⺡",
+    "stroketimes": [
+      0.638,
+      1.576,
+      2.246,
+      3.049,
+      3.854,
+      4.657,
+      6.264,
+      7.938,
+      8.607,
+      9.447
+    ],
+    "kunyomi_ka_display": "うみ",
+    "dick": "284",
+    "rad_name": "sanzui",
+    "dicn": "2553",
+    "mn_hint": "Where every 毎 drop of water シ flows to.",
+    "rad_stroke": 3,
+    "onyomi_ja": "カイ",
+    "rad_meaning": "water",
+    "onyomi": "kai",
+    "ka_id": "ka_386",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kai",
+      "kai"
+    ],
+    "kunyomi_search": [
+      "umi",
+      "umi"
+    ],
+    "meaning_search": [
+      "sea",
+      "ocean",
+      "sea, ocean"
+    ],
+    "onyomi_ja_search": [
+      "カイ",
+      "カイ"
+    ],
+    "kunyomi_ja_search": [
+      "うみ",
+      "うみ"
+    ],
+    "rad_meaning_search": [
+      "water",
+      "water"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "さんずい"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:7",
+      "ij:c7",
+      "mos",
+      "mos:14",
+      "mos:c14",
+      "mnt",
+      "mnt:5",
+      "mnt:c5",
+      "bk",
+      "bk:11",
+      "bk:c11",
+      "aij3",
+      "aij3:2",
+      "aij3:c2",
+      "aij3:v3",
+      "aij3:v3:2",
+      "aij3:v3:c2",
+      "gen",
+      "gen:13",
+      "gen:c13",
+      "ap",
+      "ap:2",
+      "ap:c2",
+      "kll",
+      "kll:10",
+      "kll:c10"
+    ],
+    "rad_name_file": "sanzui",
+    "kanji": {
+      "character": "海",
+      "meaning": {
+        "english": "sea, ocean"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0.638,
+          1.576,
+          2.246,
+          3.049,
+          3.854,
+          4.657,
+          6.264,
+          7.938,
+          8.607,
+          9.447
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kai-umi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-umi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-umi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-umi_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-umi_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-umi_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-umi_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-umi_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-umi_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kai",
+        "katakana": "カイ"
+      },
+      "kunyomi": {
+        "romaji": "umi",
+        "hiragana": "うみ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kai-umi_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kai-umi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kai-umi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺡",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/sanzui.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "さんずい",
+        "romaji": "sanzui"
+      },
+      "meaning": {
+        "english": "water"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sanzui0.svg",
+        "https://media.kanjialive.com/rad_frames/sanzui1.svg",
+        "https://media.kanjialive.com/rad_frames/sanzui2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "284",
+      "classic_nelson": "2553"
+    }
+  },
+  "jishoData": {
+    "query": "海",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "200",
+    "strokeCount": 9,
+    "meaning": "sea, ocean",
+    "kunyomi": [
+      "うみ"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "海運",
+        "reading": "カイウン",
+        "meaning": "maritime transport, shipping"
+      },
+      {
+        "example": "海域",
+        "reading": "カイイキ",
+        "meaning": "area of sea, waters"
+      },
+      {
+        "example": "公海",
+        "reading": "コウカイ",
+        "meaning": "high seas, international waters"
+      },
+      {
+        "example": "内海",
+        "reading": "ナイカイ",
+        "meaning": "inland sea, inlet, gulf, bay, lake"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "海",
+        "reading": "うみ",
+        "meaning": "sea, ocean, waters"
+      },
+      {
+        "example": "海辺",
+        "reading": "うみべ",
+        "meaning": "beach, seashore, seaside, coast"
+      },
+      {
+        "example": "内海",
+        "reading": "ないかい",
+        "meaning": "inland sea, inlet, gulf, bay, lake"
+      },
+      {
+        "example": "血の海",
+        "reading": "ちのうみ",
+        "meaning": "sea of blood, pool of blood"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "乞",
+      "毋",
+      "母",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28023_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d77.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d77.gif",
+    "uri": "https://jisho.org/search/%E6%B5%B7%23kanji"
+  }
+}

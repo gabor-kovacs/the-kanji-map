@@ -1,1 +1,68 @@
-{"id":"没","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"没","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1385","strokeCount":7,"meaning":"drown, sink, hide, fall into, disappear, die","kunyomi":["おぼ.れる","しず.む","ない"],"onyomi":["ボツ","モツ"],"onyomiExamples":[{"example":"没","reading":"ボツ","meaning":"death, rejection (of a manuscript, etc.), lacking, without"},{"example":"没後","reading":"ボツゴ","meaning":"after death, posthumously"},{"example":"戦没","reading":"センボツ","meaning":"death in battle, killed in action"},{"example":"陥没","reading":"カンボツ","meaning":"cave-in, collapse, sinking, depression (e.g. of the skull), subsidence"},{"example":"没薬","reading":"モツヤク","meaning":"myrrh"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["几","又","殳","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27809_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ca1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ca1.gif","uri":"https://jisho.org/search/%E6%B2%A1%23kanji"}}
+{
+  "id": "没",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "没",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1385",
+    "strokeCount": 7,
+    "meaning": "drown, sink, hide, fall into, disappear, die",
+    "kunyomi": [
+      "おぼ.れる",
+      "しず.む",
+      "ない"
+    ],
+    "onyomi": [
+      "ボツ",
+      "モツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "没",
+        "reading": "ボツ",
+        "meaning": "death, rejection (of a manuscript, etc.), lacking, without"
+      },
+      {
+        "example": "没後",
+        "reading": "ボツゴ",
+        "meaning": "after death, posthumously"
+      },
+      {
+        "example": "戦没",
+        "reading": "センボツ",
+        "meaning": "death in battle, killed in action"
+      },
+      {
+        "example": "陥没",
+        "reading": "カンボツ",
+        "meaning": "cave-in, collapse, sinking, depression (e.g. of the skull), subsidence"
+      },
+      {
+        "example": "没薬",
+        "reading": "モツヤク",
+        "meaning": "myrrh"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "几",
+      "又",
+      "殳",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27809_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ca1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ca1.gif",
+    "uri": "https://jisho.org/search/%E6%B2%A1%23kanji"
+  }
+}

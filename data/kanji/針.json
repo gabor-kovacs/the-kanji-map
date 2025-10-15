@@ -1,1 +1,369 @@
-{"id":"針","kanjialiveData":{"kanji":{"character":"針","meaning":{"english":"needle"},"strokes":{"count":10,"timings":[0,0.8,1.933333,3.066667,3.8,5.466667,6.133333,7,8.2,10,12],"images":["https://media.kanjialive.com/kanji_strokes/shin-hari_1.svg","https://media.kanjialive.com/kanji_strokes/shin-hari_2.svg","https://media.kanjialive.com/kanji_strokes/shin-hari_3.svg","https://media.kanjialive.com/kanji_strokes/shin-hari_4.svg","https://media.kanjialive.com/kanji_strokes/shin-hari_5.svg","https://media.kanjialive.com/kanji_strokes/shin-hari_6.svg","https://media.kanjialive.com/kanji_strokes/shin-hari_7.svg","https://media.kanjialive.com/kanji_strokes/shin-hari_8.svg","https://media.kanjialive.com/kanji_strokes/shin-hari_9.svg","https://media.kanjialive.com/kanji_strokes/shin-hari_10.svg"]},"onyomi":{"romaji":"shin","katakana":"シン"},"kunyomi":{"romaji":"hari","hiragana":"はり"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/shin-hari_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/shin-hari_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/shin-hari_00.webm"}},"radical":{"character":"","strokes":8,"image":"https://media.kanjialive.com/radical_character/kanehen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"かねへん","romaji":"kanehen"},"meaning":{"english":"metal, gold, mineral"},"animation":["https://media.kanjialive.com/rad_frames/kanehen0.svg","https://media.kanjialive.com/rad_frames/kanehen1.svg","https://media.kanjialive.com/rad_frames/kanehen2.svg"]},"references":{"grade":6,"kodansha":"1092","classic_nelson":"4817"},"examples":[{"japanese":"針葉樹林（しんようじゅりん）","meaning":{"english":"conifer, needle-leaved tree"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_a.mp3"}},{"japanese":"秒針（びょうしん）","meaning":{"english":"second hand"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_b.mp3"}},{"japanese":"長針（ちょうしん）","meaning":{"english":"long hand"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_c.mp3"}},{"japanese":"短針（たんしん）","meaning":{"english":"hour hand"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_d.mp3"}},{"japanese":"指針（ししん）","meaning":{"english":"pointer, guiding principle"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_e.mp3"}},{"japanese":"方針（ほうしん）","meaning":{"english":"objective, plan, policy"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_f.mp3"}},{"japanese":"検針（けんしん）","meaning":{"english":"inspection of a meter"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_g.mp3"}},{"japanese":"羅針盤（らしんばん）","meaning":{"english":"(mariner's) compass"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_h.mp3"}},{"japanese":"避雷針（ひらいしん）","meaning":{"english":"lightning rod"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_i.mp3"}},{"japanese":"針（はり）","meaning":{"english":"needle, fish hook, pointer, hand"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_j.mp3"}},{"japanese":"針金（はりがね）","meaning":{"english":"wire"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_k.mp3"}}]},"jishoData":{"query":"針","found":true,"taughtIn":"grade 6","jlptLevel":"N2","newspaperFrequencyRank":"505","strokeCount":10,"meaning":"needle, pin, staple, stinger","kunyomi":["はり"],"onyomi":["シン"],"onyomiExamples":[{"example":"鍼灸","reading":"シンキュウ","meaning":"acupuncture and moxibustion"},{"example":"針葉樹","reading":"シンヨウジュ","meaning":"conifer, needle-leaved tree"},{"example":"指針","reading":"シシン","meaning":"needle (compass, gauge, etc.), hand (clock), indicator, pointer, index, guiding principle, guideline, guide"},{"example":"検針","reading":"ケンシン","meaning":"inspection of a meter, reading a meter, needle detection (in garments, etc.), needle inspection"}],"kunyomiExamples":[{"example":"針","reading":"はり","meaning":"needle, pin, hook, stinger, thorn, hand (e.g. clock, etc.), pointer, staple (for a stapler), needlework, sewing, malice, counter for stitches"},{"example":"針金","reading":"はりがね","meaning":"wire"},{"example":"無外傷性針","reading":"むがいしょうせいはり","meaning":"atraumatic needle"},{"example":"お針","reading":"おはり","meaning":"needlework, sewing, seamstress"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["十","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37341_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091dd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91dd.gif","uri":"https://jisho.org/search/%E9%87%9D%23kanji"}}
+{
+  "id": "針",
+  "kanjialiveData": {
+    "_id": "54317ad5791eba5146ee486e",
+    "_rev": "9-d765d8a9e3f6b8d5426be0554334b146",
+    "rad_name_ja": "かねへん",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "hari",
+    "meaning": "needle",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "針葉樹林（しんようじゅりん）",
+        "meaning": {
+          "english": "conifer, needle-leaved tree"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "秒針（びょうしん）",
+        "meaning": {
+          "english": "second hand"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "長針（ちょうしん）",
+        "meaning": {
+          "english": "long hand"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "短針（たんしん）",
+        "meaning": {
+          "english": "hour hand"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "指針（ししん）",
+        "meaning": {
+          "english": "pointer, guiding principle"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "方針（ほうしん）",
+        "meaning": {
+          "english": "objective, plan, policy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "検針（けんしん）",
+        "meaning": {
+          "english": "inspection of a meter"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "羅針盤（らしんばん）",
+        "meaning": {
+          "english": "(mariner's) compass"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "避雷針（ひらいしん）",
+        "meaning": {
+          "english": "lightning rod"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "針（はり）",
+        "meaning": {
+          "english": "needle, fish hook, pointer, hand"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "針金（はりがね）",
+        "meaning": {
+          "english": "wire"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-hari_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-hari_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-hari_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-hari_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "はり",
+    "ka_utf": "針",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=針",
+    "rad_name_search": [
+      "kanehen"
+    ],
+    "rad_order": 206,
+    "txt_books": [],
+    "kname": "shin-hari",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      0.8,
+      1.933333,
+      3.066667,
+      3.8,
+      5.466667,
+      6.133333,
+      7,
+      8.2,
+      10,
+      12
+    ],
+    "kunyomi_ka_display": "はり",
+    "dick": "1092",
+    "rad_name": "kanehen",
+    "dicn": "4817",
+    "mn_hint": "Metal 金 requiring lots 十 of attention to make that little hole.",
+    "rad_stroke": 8,
+    "onyomi_ja": "シン",
+    "rad_meaning": "metal, gold, mineral",
+    "onyomi": "shin",
+    "ka_id": "ka_1076",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "shin",
+      "shin"
+    ],
+    "kunyomi_search": [
+      "hari",
+      "hari"
+    ],
+    "meaning_search": [
+      "needle",
+      "needle"
+    ],
+    "onyomi_ja_search": [
+      "シン",
+      "シン"
+    ],
+    "kunyomi_ja_search": [
+      "はり",
+      "はり"
+    ],
+    "rad_meaning_search": [
+      "metal",
+      "gold",
+      "mineral",
+      "metal, gold, mineral"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "かねへん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "kanehen",
+    "kanji": {
+      "character": "針",
+      "meaning": {
+        "english": "needle"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          0.8,
+          1.933333,
+          3.066667,
+          3.8,
+          5.466667,
+          6.133333,
+          7,
+          8.2,
+          10,
+          12
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/shin-hari_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-hari_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-hari_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-hari_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-hari_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-hari_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-hari_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-hari_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-hari_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-hari_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shin",
+        "katakana": "シン"
+      },
+      "kunyomi": {
+        "romaji": "hari",
+        "hiragana": "はり"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/shin-hari_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shin-hari_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/shin-hari_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 8,
+      "image": "https://media.kanjialive.com/radical_character/kanehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "かねへん",
+        "romaji": "kanehen"
+      },
+      "meaning": {
+        "english": "metal, gold, mineral"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kanehen0.svg",
+        "https://media.kanjialive.com/rad_frames/kanehen1.svg",
+        "https://media.kanjialive.com/rad_frames/kanehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1092",
+      "classic_nelson": "4817"
+    }
+  },
+  "jishoData": {
+    "query": "針",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "505",
+    "strokeCount": 10,
+    "meaning": "needle, pin, staple, stinger",
+    "kunyomi": [
+      "はり"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鍼灸",
+        "reading": "シンキュウ",
+        "meaning": "acupuncture and moxibustion"
+      },
+      {
+        "example": "針葉樹",
+        "reading": "シンヨウジュ",
+        "meaning": "conifer, needle-leaved tree"
+      },
+      {
+        "example": "指針",
+        "reading": "シシン",
+        "meaning": "needle (compass, gauge, etc.), hand (clock), indicator, pointer, index, guiding principle, guideline, guide"
+      },
+      {
+        "example": "検針",
+        "reading": "ケンシン",
+        "meaning": "inspection of a meter, reading a meter, needle detection (in garments, etc.), needle inspection"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "針",
+        "reading": "はり",
+        "meaning": "needle, pin, hook, stinger, thorn, hand (e.g. clock, etc.), pointer, staple (for a stapler), needlework, sewing, malice, counter for stitches"
+      },
+      {
+        "example": "針金",
+        "reading": "はりがね",
+        "meaning": "wire"
+      },
+      {
+        "example": "縫い針",
+        "reading": "ぬいばり",
+        "meaning": "sewing needle"
+      },
+      {
+        "example": "無外傷性針",
+        "reading": "むがいしょうせいはり",
+        "meaning": "atraumatic needle"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "十",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37341_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091dd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91dd.gif",
+    "uri": "https://jisho.org/search/%E9%87%9D%23kanji"
+  }
+}

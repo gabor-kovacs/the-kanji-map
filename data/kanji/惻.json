@@ -1,1 +1,64 @@
-{"id":"惻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"惻","found":true,"strokeCount":12,"meaning":"be sad","kunyomi":["いた.む"],"onyomi":["ソク","ショク"],"onyomiExamples":[{"example":"惻隠","reading":"ソクイン","meaning":"compassion, pity"},{"example":"惻隠の情","reading":"ソクインノジョウ","meaning":"compassion, pity"},{"example":"惻々","reading":"ソクソク","meaning":"keenly felt, heart-wrenching, heart-rending"},{"example":"惻々","reading":"ソクソク","meaning":"keenly felt, heart-wrenching, heart-rending"},{"example":"惻々","reading":"ソクソク","meaning":"keenly felt, heart-wrenching, heart-rending"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ハ","刈","忙","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24827_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060fb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60fb.gif","uri":"https://jisho.org/search/%E6%83%BB%23kanji"}}
+{
+  "id": "惻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "惻",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "be sad",
+    "kunyomi": [
+      "いた.む"
+    ],
+    "onyomi": [
+      "ソク",
+      "ショク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "惻隠",
+        "reading": "ソクイン",
+        "meaning": "compassion, pity"
+      },
+      {
+        "example": "惻隠の情",
+        "reading": "ソクインノジョウ",
+        "meaning": "compassion, pity"
+      },
+      {
+        "example": "惻々",
+        "reading": "ソクソク",
+        "meaning": "keenly felt, heart-wrenching, heart-rending"
+      },
+      {
+        "example": "惻々",
+        "reading": "ソクソク",
+        "meaning": "keenly felt, heart-wrenching, heart-rending"
+      },
+      {
+        "example": "惻々",
+        "reading": "ソクソク",
+        "meaning": "keenly felt, heart-wrenching, heart-rending"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ハ",
+      "刈",
+      "忙",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24827_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60fb.gif",
+    "uri": "https://jisho.org/search/%E6%83%BB%23kanji"
+  }
+}

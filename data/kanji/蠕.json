@@ -1,1 +1,52 @@
-{"id":"蠕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蠕","found":true,"strokeCount":20,"meaning":"crawling of a worm","kunyomi":["うごめ.く"],"onyomi":["ゼン","ダ","ネン","ジュ","ニュ"],"onyomiExamples":[{"example":"蠕虫","reading":"ゼンチュウ","meaning":"worm, helminth"},{"example":"蠕虫病","reading":"ゼンチュウビョウ","meaning":"helminthiasis"}],"kunyomiExamples":[{"example":"蠢く","reading":"うごめく","meaning":"to wriggle, to squirm, to crawl like a worm"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["而","虫","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34837_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08815.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8815.gif","uri":"https://jisho.org/search/%E8%A0%95%23kanji"}}
+{
+  "id": "蠕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蠕",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "crawling of a worm",
+    "kunyomi": [
+      "うごめ.く"
+    ],
+    "onyomi": [
+      "ゼン",
+      "ダ",
+      "ネン",
+      "ジュ",
+      "ニュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蠕虫",
+        "reading": "ゼンチュウ",
+        "meaning": "worm, helminth"
+      },
+      {
+        "example": "蠕虫学",
+        "reading": "ゼンチュウガク",
+        "meaning": "helminthology"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蠢く",
+        "reading": "うごめく",
+        "meaning": "to wriggle, to squirm, to crawl like a worm"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "而",
+      "虫",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34837_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08815.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8815.gif",
+    "uri": "https://jisho.org/search/%E8%A0%95%23kanji"
+  }
+}

@@ -1,1 +1,53 @@
-{"id":"壻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壻","found":true,"strokeCount":12,"meaning":"son-in-law","kunyomi":["むこ"],"onyomi":["セイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"婿","reading":"むこ","meaning":"husband, groom, (one's) son-in-law"},{"example":"入り婿","reading":"いりむこ","meaning":"man who takes his wife's family name and marries into her family, man who is adopted by his wife's family"}],"radical":{"symbol":"士","meaning":"scholar, bachelor"},"parts":["土","月","疋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22779_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058fb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58fb.gif","uri":"https://jisho.org/search/%E5%A3%BB%23kanji"}}
+{
+  "id": "壻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壻",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "son-in-law",
+    "kunyomi": [
+      "むこ"
+    ],
+    "onyomi": [
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "女婿",
+        "reading": "ジョセイ",
+        "meaning": "son-in-law"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "婿",
+        "reading": "むこ",
+        "meaning": "husband, groom, (one's) son-in-law"
+      },
+      {
+        "example": "花婿",
+        "reading": "はなむこ",
+        "meaning": "bridegroom"
+      },
+      {
+        "example": "入り婿",
+        "reading": "いりむこ",
+        "meaning": "man who takes his wife's family name and marries into her family, man who is adopted by his wife's family"
+      }
+    ],
+    "radical": {
+      "symbol": "士",
+      "meaning": "scholar, bachelor"
+    },
+    "parts": [
+      "土",
+      "月",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22779_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58fb.gif",
+    "uri": "https://jisho.org/search/%E5%A3%BB%23kanji"
+  }
+}

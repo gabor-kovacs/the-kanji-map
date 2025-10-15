@@ -1,1 +1,383 @@
-{"id":"売","kanjialiveData":{"kanji":{"character":"売","meaning":{"english":"sell"},"strokes":{"count":7,"timings":[0,1.358,2.43,3.568,4.373,5.846,6.65,8.156425],"images":["https://media.kanjialive.com/kanji_strokes/bai-u(ru)_1.svg","https://media.kanjialive.com/kanji_strokes/bai-u(ru)_2.svg","https://media.kanjialive.com/kanji_strokes/bai-u(ru)_3.svg","https://media.kanjialive.com/kanji_strokes/bai-u(ru)_4.svg","https://media.kanjialive.com/kanji_strokes/bai-u(ru)_5.svg","https://media.kanjialive.com/kanji_strokes/bai-u(ru)_6.svg","https://media.kanjialive.com/kanji_strokes/bai-u(ru)_7.svg"]},"onyomi":{"romaji":"bai","katakana":"バイ"},"kunyomi":{"romaji":"u, uru","hiragana":"う"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/bai-u(ru)_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/bai-u(ru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/bai-u(ru)_00.webm"}},"radical":{"character":"","strokes":3,"image":"https://media.kanjialive.com/radical_character/samuraikanmuri.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"さむらいかんむり","romaji":"samuraikanmuri"},"meaning":{"english":"man, scholar, samurai"},"animation":["https://media.kanjialive.com/rad_frames/samuraikanmuri0.svg","https://media.kanjialive.com/rad_frames/samuraikanmuri1.svg","https://media.kanjialive.com/rad_frames/samuraikanmuri2.svg"]},"references":{"grade":2,"kodansha":"1391","classic_nelson":"1067"},"examples":[{"japanese":"売買する（ばいばいする）","meaning":{"english":"trade"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_a.mp3"}},{"japanese":"商売する（しょうばいする）","meaning":{"english":"do business"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_b.mp3"}},{"japanese":"発売する（はつばいする）","meaning":{"english":"put a product on the market"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_c.mp3"}},{"japanese":"売店（ばいてん）","meaning":{"english":"shop, kiosk"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_d.mp3"}},{"japanese":"売る（うる）","meaning":{"english":"sell"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_e.mp3"}},{"japanese":"売り切れ（うりきれ）","meaning":{"english":"sold-out"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_f.mp3"}},{"japanese":"売り場（うりば）","meaning":{"english":"sales floor"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_g.mp3"}}]},"jishoData":{"query":"売","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"202","strokeCount":7,"meaning":"sell","kunyomi":["う.る","う.れる"],"onyomi":["バイ"],"onyomiExamples":[{"example":"売春","reading":"バイシュン","meaning":"prostitution"},{"example":"売却","reading":"バイキャク","meaning":"selling off, disposal by sale, sale"},{"example":"乱売","reading":"ランバイ","meaning":"underselling, panic selling"},{"example":"転売","reading":"テンバイ","meaning":"resale"}],"kunyomiExamples":[{"example":"売る","reading":"うる","meaning":"to sell"},{"example":"売れる","reading":"うれる","meaning":"to sell (well), to be well known, to be popular, to be famous"}],"radical":{"symbol":"士","meaning":"scholar, bachelor"},"parts":["儿","冖","士"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22770_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058f2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58f2.gif","uri":"https://jisho.org/search/%E5%A3%B2%23kanji"}}
+{
+  "id": "売",
+  "kanjialiveData": {
+    "_id": "54317b04791eba5146ee4bec",
+    "_rev": "10-42915cd7540c9eab9c3db78931eadfdd",
+    "rad_name_ja": "さむらいかんむり",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "u, uru",
+    "meaning": "sell",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "売買する（ばいばいする）",
+        "meaning": {
+          "english": "trade"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "商売する（しょうばいする）",
+        "meaning": {
+          "english": "do business"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "発売する（はつばいする）",
+        "meaning": {
+          "english": "put a product on the market"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "売店（ばいてん）",
+        "meaning": {
+          "english": "shop, kiosk"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "売る（うる）",
+        "meaning": {
+          "english": "sell"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "売り切れ（うりきれ）",
+        "meaning": {
+          "english": "sold-out"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "売り場（うりば）",
+        "meaning": {
+          "english": "sales floor"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai-u(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai-u(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai-u(ru)_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "う、うる",
+    "ka_utf": "売",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=売",
+    "rad_name_search": [
+      "samuraikanmuri"
+    ],
+    "rad_order": 39,
+    "txt_books": [
+      {
+        "chapter": "11",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "4"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "6"
+      }
+    ],
+    "kname": "bai-u(ru)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.358,
+      2.43,
+      3.568,
+      4.373,
+      5.846,
+      6.65,
+      8.156425
+    ],
+    "kunyomi_ka_display": "う",
+    "dick": "1391",
+    "rad_name": "samuraikanmuri",
+    "dicn": "1067",
+    "mn_hint": "Professional 士 merchant standing 儿 with his package 冖 of wares.",
+    "rad_stroke": 3,
+    "onyomi_ja": "バイ",
+    "rad_meaning": "man, scholar, samurai",
+    "onyomi": "bai",
+    "ka_id": "ka_77",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "bai",
+      "bai"
+    ],
+    "kunyomi_search": [
+      "u",
+      "uru",
+      "u, uru"
+    ],
+    "meaning_search": [
+      "sell",
+      "sell"
+    ],
+    "onyomi_ja_search": [
+      "バイ",
+      "バイ"
+    ],
+    "kunyomi_ja_search": [
+      "う",
+      "うる",
+      "う、うる"
+    ],
+    "rad_meaning_search": [
+      "man",
+      "scholar",
+      "samurai",
+      "man, scholar, samurai"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "さむらいかんむり"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:11",
+      "cij:c11",
+      "bk",
+      "bk:12",
+      "bk:c12",
+      "aij3",
+      "aij3:11",
+      "aij3:c11",
+      "aij3:v2",
+      "aij3:v2:11",
+      "aij3:v2:c11",
+      "aij3",
+      "aij3:9",
+      "aij3:c9",
+      "aij3:v3",
+      "aij3:v3:9",
+      "aij3:v3:c9",
+      "gen",
+      "gen:10",
+      "gen:c10",
+      "ap",
+      "ap:16",
+      "ap:c16",
+      "kll",
+      "kll:8",
+      "kll:c8",
+      "mosr",
+      "mosr:4",
+      "mosr:c4",
+      "mntr",
+      "mntr:6",
+      "mntr:c6"
+    ],
+    "rad_name_file": "samuraikanmuri",
+    "kanji": {
+      "character": "売",
+      "meaning": {
+        "english": "sell"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.358,
+          2.43,
+          3.568,
+          4.373,
+          5.846,
+          6.65,
+          8.156425
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/bai-u(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai-u(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai-u(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai-u(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai-u(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai-u(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai-u(ru)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bai",
+        "katakana": "バイ"
+      },
+      "kunyomi": {
+        "romaji": "u, uru",
+        "hiragana": "う"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/bai-u(ru)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/bai-u(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/bai-u(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/samuraikanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "さむらいかんむり",
+        "romaji": "samuraikanmuri"
+      },
+      "meaning": {
+        "english": "man, scholar, samurai"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/samuraikanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/samuraikanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/samuraikanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1391",
+      "classic_nelson": "1067"
+    }
+  },
+  "jishoData": {
+    "query": "売",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "202",
+    "strokeCount": 7,
+    "meaning": "sell",
+    "kunyomi": [
+      "う.る",
+      "う.れる"
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "売春",
+        "reading": "バイシュン",
+        "meaning": "prostitution"
+      },
+      {
+        "example": "売却",
+        "reading": "バイキャク",
+        "meaning": "selling off, disposal by sale, sale"
+      },
+      {
+        "example": "乱売",
+        "reading": "ランバイ",
+        "meaning": "selling at a fire-sale price, clearance sale, dumping"
+      },
+      {
+        "example": "転売",
+        "reading": "テンバイ",
+        "meaning": "resale"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "売る",
+        "reading": "うる",
+        "meaning": "to sell, to betray, to sell out (one's friend, country, etc.), to make (oneself) known, to establish (a reputation) for oneself, to pick (a fight, quarrel, etc.), to provoke, to force on someone"
+      },
+      {
+        "example": "売るほど",
+        "reading": "うるほど",
+        "meaning": "so many (that one would want to sell some), more than enough, lots, plenty"
+      },
+      {
+        "example": "売れる",
+        "reading": "うれる",
+        "meaning": "to sell (well), to be well known, to be popular, to be famous"
+      }
+    ],
+    "radical": {
+      "symbol": "士",
+      "meaning": "scholar, bachelor"
+    },
+    "parts": [
+      "儿",
+      "冖",
+      "士"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22770_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058f2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58f2.gif",
+    "uri": "https://jisho.org/search/%E5%A3%B2%23kanji"
+  }
+}

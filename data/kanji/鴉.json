@@ -1,1 +1,68 @@
-{"id":"鴉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鴉","found":true,"strokeCount":16,"meaning":"crow, raven","kunyomi":["からす"],"onyomi":["ア"],"onyomiExamples":[{"example":"鴉髻","reading":"アケイ","meaning":"jet-black hair"},{"example":"阿片","reading":"アヘン","meaning":"opium"},{"example":"暁鴉","reading":"ギョウア","meaning":"crow cawing in the morning, crows crying in the morning"},{"example":"寒鴉","reading":"カンア","meaning":"winter crow"}],"kunyomiExamples":[{"example":"烏","reading":"からす","meaning":"crow (Corvus spp.), raven"},{"example":"烏天狗","reading":"からすてんぐ","meaning":"small, crow-billed tengu"},{"example":"焼け野の鴉","reading":"やけののからす","meaning":"blacker than black"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["杰","牙","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40201_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d09.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d09.gif","uri":"https://jisho.org/search/%E9%B4%89%23kanji"}}
+{
+  "id": "鴉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鴉",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "crow, raven",
+    "kunyomi": [
+      "からす"
+    ],
+    "onyomi": [
+      "ア"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鴉髻",
+        "reading": "アケイ",
+        "meaning": "jet-black hair"
+      },
+      {
+        "example": "阿片",
+        "reading": "アヘン",
+        "meaning": "opium"
+      },
+      {
+        "example": "暁鴉",
+        "reading": "ギョウア",
+        "meaning": "crow cawing in the morning, crows crying in the morning"
+      },
+      {
+        "example": "寒鴉",
+        "reading": "カンア",
+        "meaning": "winter crow"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【カラス】",
+        "reading": "crow (Corvus spp.), raven",
+        "meaning": ""
+      },
+      {
+        "example": "烏天狗",
+        "reading": "からすてんぐ",
+        "meaning": "small, crow-billed tengu"
+      },
+      {
+        "example": "焼け野の鴉",
+        "reading": "やけののからす",
+        "meaning": "blacker than black"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "杰",
+      "牙",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40201_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d09.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d09.gif",
+    "uri": "https://jisho.org/search/%E9%B4%89%23kanji"
+  }
+}

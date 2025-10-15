@@ -1,1 +1,37 @@
-{"id":"輊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"輊","found":true,"strokeCount":13,"meaning":"low","kunyomi":[],"onyomi":["チ"],"onyomiExamples":[{"example":"軒輊","reading":"ケンチ","meaning":"high and low, disparity"}],"kunyomiExamples":[],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["一","厶","土","至","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36618_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f0a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f0a.gif","uri":"https://jisho.org/search/%E8%BC%8A%23kanji"}}
+{
+  "id": "輊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輊",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "low",
+    "kunyomi": [],
+    "onyomi": [
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "軒輊",
+        "reading": "ケンチ",
+        "meaning": "high and low, disparity"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "一",
+      "厶",
+      "土",
+      "至",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36618_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f0a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f0a.gif",
+    "uri": "https://jisho.org/search/%E8%BC%8A%23kanji"
+  }
+}

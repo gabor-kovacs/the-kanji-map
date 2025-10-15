@@ -1,1 +1,41 @@
-{"id":"彳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"彳","found":true,"strokeCount":3,"meaning":"stop, linger, loiter, going man radical (no. 60)","kunyomi":["たたず.む"],"onyomi":["テキ"],"onyomiExamples":[{"example":"彳亍","reading":"テキチョク","meaning":"stopping in one's tracks, standing still"}],"kunyomiExamples":[{"example":"佇む","reading":"たたずむ","meaning":"to stand (still) a while, to loiter, to stop"}],"radical":{"symbol":"彳","meaning":"step"},"parts":["彳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24435_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f73.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f73.gif","uri":"https://jisho.org/search/%E5%BD%B3%23kanji"}}
+{
+  "id": "彳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彳",
+    "found": true,
+    "strokeCount": 3,
+    "meaning": "stop, linger, loiter, going man radical (no. 60)",
+    "kunyomi": [
+      "たたず.む"
+    ],
+    "onyomi": [
+      "テキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彳亍",
+        "reading": "テキチョク",
+        "meaning": "stopping in one's tracks, standing still"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "佇む",
+        "reading": "たたずむ",
+        "meaning": "to stand (still) a while, to loiter, to stop"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "step"
+    },
+    "parts": [
+      "彳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24435_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f73.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f73.gif",
+    "uri": "https://jisho.org/search/%E5%BD%B3%23kanji"
+  }
+}

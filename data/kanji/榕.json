@@ -1,1 +1,47 @@
-{"id":"榕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"榕","found":true,"strokeCount":14,"meaning":"evergreen mulberry","kunyomi":["あこう"],"onyomi":["ヨウ"],"onyomiExamples":[{"example":"榕樹","reading":"ガジュマル","meaning":"Chinese banyan (Ficus microcarpa), Malayan banyan, Indian laurel"}],"kunyomiExamples":[{"example":"赤秀","reading":"あこう","meaning":"Japanese sea fig (Ficus superba var. japonica)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ハ","个","口","宀","木","穴","谷"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27029_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06995.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6995.gif","uri":"https://jisho.org/search/%E6%A6%95%23kanji"}}
+{
+  "id": "榕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "榕",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "evergreen mulberry",
+    "kunyomi": [
+      "あこう"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "榕樹",
+        "reading": "ガジュマル",
+        "meaning": "Chinese banyan (Ficus microcarpa), Malayan banyan, Indian laurel"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "赤秀",
+        "reading": "あこう",
+        "meaning": "Japanese sea fig (Ficus superba var. japonica)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ハ",
+      "个",
+      "口",
+      "宀",
+      "木",
+      "穴",
+      "谷"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27029_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06995.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6995.gif",
+    "uri": "https://jisho.org/search/%E6%A6%95%23kanji"
+  }
+}

@@ -1,1 +1,53 @@
-{"id":"酪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"酪","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2012","strokeCount":13,"meaning":"dairy products, whey, broth, fruit juice","kunyomi":[],"onyomi":["ラク"],"onyomiExamples":[{"example":"酪","reading":"ラク","meaning":"acidic drink made from fermented milk (cow, sheep, mare; one of the five flavors in Buddhism)"},{"example":"酪農","reading":"ラクノウ","meaning":"dairy farming"},{"example":"製酪","reading":"セイラク","meaning":"dairy production (butter, cheese, etc.)"},{"example":"牛酪","reading":"ギュウラク","meaning":"butter"}],"kunyomiExamples":[],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["口","夂","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37226_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0916a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/916a.gif","uri":"https://jisho.org/search/%E9%85%AA%23kanji"}}
+{
+  "id": "酪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酪",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2012",
+    "strokeCount": 13,
+    "meaning": "dairy products, whey, broth, fruit juice",
+    "kunyomi": [],
+    "onyomi": [
+      "ラク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "酪",
+        "reading": "ラク",
+        "meaning": "acidic drink made from fermented milk (cow, sheep, mare; one of the five flavors in Buddhism)"
+      },
+      {
+        "example": "酪農",
+        "reading": "ラクノウ",
+        "meaning": "dairy farming"
+      },
+      {
+        "example": "製酪",
+        "reading": "セイラク",
+        "meaning": "dairy production (butter, cheese, etc.)"
+      },
+      {
+        "example": "牛酪",
+        "reading": "ギュウラク",
+        "meaning": "butter"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37226_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0916a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/916a.gif",
+    "uri": "https://jisho.org/search/%E9%85%AA%23kanji"
+  }
+}

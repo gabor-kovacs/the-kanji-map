@@ -1,1 +1,40 @@
-{"id":"仭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"仭","found":true,"strokeCount":5,"meaning":"fathom","kunyomi":["はか.る"],"onyomi":["ジン"],"onyomiExamples":[{"example":"仞","reading":"ジン","meaning":"ren (ancient Chinese measure of height, depth, etc.; between 1-3 meters)"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["丶","刀","化"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20205_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eed.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eed.gif","uri":"https://jisho.org/search/%E4%BB%AD%23kanji"}}
+{
+  "id": "仭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "仭",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "fathom",
+    "kunyomi": [
+      "はか.る"
+    ],
+    "onyomi": [
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "仞",
+        "reading": "ジン",
+        "meaning": "ren (ancient Chinese measure of height, depth, etc.; between 1-3 meters)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "丶",
+      "刀",
+      "化"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20205_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eed.gif",
+    "uri": "https://jisho.org/search/%E4%BB%AD%23kanji"
+  }
+}

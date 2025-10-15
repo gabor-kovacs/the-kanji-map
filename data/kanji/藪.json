@@ -1,1 +1,75 @@
-{"id":"藪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"藪","found":true,"strokeCount":18,"meaning":"thicket, bush, underbrush, grove","kunyomi":["やぶ"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"藪沢","reading":"ソウタク","meaning":"wetland with abundant vegetation, place where things are gathered"},{"example":"淵叢","reading":"エンソウ","meaning":"gathering spot, center, centre"},{"example":"談叢","reading":"ダンソウ","meaning":"a number of interesting stories, book containing a number of interesting stories"}],"kunyomiExamples":[{"example":"藪","reading":"やぶ","meaning":"thicket, bush, grove, scrub, (medical) quack"},{"example":"藪医","reading":"やぶい","meaning":"(medical) quack"},{"example":"竹やぶ","reading":"たけやぶ","meaning":"bamboo grove"},{"example":"草藪","reading":"くさやぶ","meaning":"thicket, bush, clump of bushes"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","乞","口","女","攵","艾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34282_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ea.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ea.gif","uri":"https://jisho.org/search/%E8%97%AA%23kanji"}}
+{
+  "id": "藪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藪",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "thicket, bush, underbrush, grove",
+    "kunyomi": [
+      "やぶ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "藪沢",
+        "reading": "ソウタク",
+        "meaning": "wetland with abundant vegetation, place where things are gathered"
+      },
+      {
+        "example": "淵叢",
+        "reading": "エンソウ",
+        "meaning": "gathering spot, center, centre"
+      },
+      {
+        "example": "談叢",
+        "reading": "ダンソウ",
+        "meaning": "a number of interesting stories, book containing a number of interesting stories"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "藪",
+        "reading": "やぶ",
+        "meaning": "thicket, bush, grove, scrub, (medical) quack"
+      },
+      {
+        "example": "藪医",
+        "reading": "やぶい",
+        "meaning": "(medical) quack"
+      },
+      {
+        "example": "竹やぶ",
+        "reading": "たけやぶ",
+        "meaning": "bamboo grove"
+      },
+      {
+        "example": "草薮",
+        "reading": "くさやぶ",
+        "meaning": "thicket, bush, clump of bushes"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "乞",
+      "口",
+      "女",
+      "攵",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34282_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ea.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ea.gif",
+    "uri": "https://jisho.org/search/%E8%97%AA%23kanji"
+  }
+}

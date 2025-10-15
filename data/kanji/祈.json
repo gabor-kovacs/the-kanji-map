@@ -1,1 +1,276 @@
-{"id":"祈","kanjialiveData":{"kanji":{"character":"祈","meaning":{"english":"pray"},"strokes":{"count":8,"timings":[0,0.733333,2.466667,3.666667,4.6,5.866667,6.866667,7.933333,9.133333],"images":["https://media.kanjialive.com/kanji_strokes/ino(ru)_1.svg","https://media.kanjialive.com/kanji_strokes/ino(ru)_2.svg","https://media.kanjialive.com/kanji_strokes/ino(ru)_3.svg","https://media.kanjialive.com/kanji_strokes/ino(ru)_4.svg","https://media.kanjialive.com/kanji_strokes/ino(ru)_5.svg","https://media.kanjialive.com/kanji_strokes/ino(ru)_6.svg","https://media.kanjialive.com/kanji_strokes/ino(ru)_7.svg","https://media.kanjialive.com/kanji_strokes/ino(ru)_8.svg"]},"onyomi":{"romaji":"ki","katakana":"キ"},"kunyomi":{"romaji":"ino, inoru, inori","hiragana":"いの"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ino(ru)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ino(ru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ino(ru)_00.webm"}},"radical":{"character":"⺭","strokes":4,"image":"https://media.kanjialive.com/radical_character/shimesuhen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"しめすへん","romaji":"shimesuhen"},"meaning":{"english":"altar, festival, religious service"},"animation":["https://media.kanjialive.com/rad_frames/shimesuhen0.svg","https://media.kanjialive.com/rad_frames/shimesuhen1.svg","https://media.kanjialive.com/rad_frames/shimesuhen2.svg"]},"references":{"grade":null,"kodansha":"588","classic_nelson":"3234"},"examples":[{"japanese":"祈祷（きとう）","meaning":{"english":"prayer"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ino(ru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ino(ru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ino(ru)_06_a.mp3"}},{"japanese":"祈願する（きがんする）","meaning":{"english":"pray"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ino(ru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ino(ru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ino(ru)_06_b.mp3"}},{"japanese":"祈る（いのる）","meaning":{"english":"pray, wish, hope"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ino(ru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ino(ru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ino(ru)_06_c.mp3"}},{"japanese":"祈り（いのり）","meaning":{"english":"prayer"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ino(ru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ino(ru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ino(ru)_06_d.mp3"}}]},"jishoData":{"query":"祈","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"1462","strokeCount":8,"meaning":"pray, wish","kunyomi":["いの.る"],"onyomi":["キ"],"onyomiExamples":[{"example":"祈念","reading":"キネン","meaning":"prayer"},{"example":"祈願","reading":"キガン","meaning":"prayer (for something), supplication"}],"kunyomiExamples":[{"example":"祈る","reading":"いのる","meaning":"to pray, to wish"}],"radical":{"symbol":"示","forms":["礻"],"meaning":"sign"},"parts":["斤","礼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31048_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07948.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7948.gif","uri":"https://jisho.org/search/%E7%A5%88%23kanji"}}
+{
+  "id": "祈",
+  "kanjialiveData": {
+    "_id": "54317b09791eba5146ee4c3b",
+    "_rev": "14-e6ad99fb7236286cb25c84147679dcd8",
+    "rad_name_ja": "しめすへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "ino, inoru, inori",
+    "meaning": "pray",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "祈祷（きとう）",
+        "meaning": {
+          "english": "prayer"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ino(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ino(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ino(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "祈願する（きがんする）",
+        "meaning": {
+          "english": "pray"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ino(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ino(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ino(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "祈る（いのる）",
+        "meaning": {
+          "english": "pray, wish, hope"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ino(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ino(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ino(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "祈り（いのり）",
+        "meaning": {
+          "english": "prayer"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ino(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ino(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ino(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ino(ru)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いの、いのる、いのり",
+    "ka_utf": "祈",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=祈",
+    "kname": "ino(ru)",
+    "rad_order": 121,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "shimesuhen"
+    ],
+    "rad_utf": "⺭",
+    "stroketimes": [
+      0,
+      0.733333,
+      2.466667,
+      3.666667,
+      4.6,
+      5.866667,
+      6.866667,
+      7.933333,
+      9.133333
+    ],
+    "kunyomi_ka_display": "いの",
+    "dick": "588",
+    "rad_name": "shimesuhen",
+    "dicn": "3234",
+    "mn_hint": "Praying at the altar ネ not to get axed 斤.",
+    "rad_stroke": 4,
+    "onyomi_ja": "キ",
+    "rad_meaning": "altar, festival, religious service",
+    "onyomi": "ki",
+    "ka_id": "ka_840",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "ki",
+      "ki"
+    ],
+    "kunyomi_search": [
+      "ino",
+      "inoru",
+      "inori",
+      "ino, inoru, inori"
+    ],
+    "meaning_search": [
+      "pray",
+      "pray"
+    ],
+    "onyomi_ja_search": [
+      "キ",
+      "キ"
+    ],
+    "kunyomi_ja_search": [
+      "いの",
+      "いのる",
+      "いのり",
+      "いの、いのる、いのり"
+    ],
+    "rad_meaning_search": [
+      "altar",
+      "festival",
+      "religious service",
+      "religious",
+      "service",
+      "altar, festival, religious service"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "しめすへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:20",
+      "ij:c20",
+      "jtr",
+      "jtr:6",
+      "jtr:c6"
+    ],
+    "rad_name_file": "shimesuhen",
+    "kanji": {
+      "character": "祈",
+      "meaning": {
+        "english": "pray"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.733333,
+          2.466667,
+          3.666667,
+          4.6,
+          5.866667,
+          6.866667,
+          7.933333,
+          9.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ino(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ino(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ino(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ino(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ino(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ino(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ino(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/ino(ru)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ki",
+        "katakana": "キ"
+      },
+      "kunyomi": {
+        "romaji": "ino, inoru, inori",
+        "hiragana": "いの"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ino(ru)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ino(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ino(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺭",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/shimesuhen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "しめすへん",
+        "romaji": "shimesuhen"
+      },
+      "meaning": {
+        "english": "altar, festival, religious service"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/shimesuhen0.svg",
+        "https://media.kanjialive.com/rad_frames/shimesuhen1.svg",
+        "https://media.kanjialive.com/rad_frames/shimesuhen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "588",
+      "classic_nelson": "3234"
+    }
+  },
+  "jishoData": {
+    "query": "祈",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1462",
+    "strokeCount": 8,
+    "meaning": "pray, wish",
+    "kunyomi": [
+      "いの.る"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "祈念",
+        "reading": "キネン",
+        "meaning": "prayer"
+      },
+      {
+        "example": "祈願",
+        "reading": "キガン",
+        "meaning": "prayer (for something), supplication"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "祈る",
+        "reading": "いのる",
+        "meaning": "to pray, to say a prayer, to say grace, to wish, to hope"
+      }
+    ],
+    "radical": {
+      "symbol": "示",
+      "forms": [
+        "礻"
+      ],
+      "meaning": "sign"
+    },
+    "parts": [
+      "斤",
+      "礼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31048_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07948.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7948.gif",
+    "uri": "https://jisho.org/search/%E7%A5%88%23kanji"
+  }
+}

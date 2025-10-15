@@ -1,1 +1,36 @@
-{"id":"拆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"拆","found":true,"strokeCount":8,"meaning":"to split apart, to break up, to open","kunyomi":["さく","ひらく"],"onyomi":["タク","セキ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["丶","扎","斤"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25286_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062c6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62c6.gif","uri":"https://jisho.org/search/%E6%8B%86%23kanji"}}
+{
+  "id": "拆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拆",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "to split apart, to break up, to open",
+    "kunyomi": [
+      "さく",
+      "ひらく"
+    ],
+    "onyomi": [
+      "タク",
+      "セキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "丶",
+      "扎",
+      "斤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25286_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062c6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62c6.gif",
+    "uri": "https://jisho.org/search/%E6%8B%86%23kanji"
+  }
+}

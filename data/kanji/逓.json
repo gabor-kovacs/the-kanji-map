@@ -1,1 +1,58 @@
-{"id":"逓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"逓","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1957","strokeCount":10,"meaning":"relay, in turn, sending","kunyomi":["かわ.る","たがいに"],"onyomi":["テイ"],"onyomiExamples":[{"example":"逓信","reading":"テイシン","meaning":"communications (e.g. post, telegraph)"},{"example":"逓減","reading":"テイゲン","meaning":"gradual decrease, gradual diminution"},{"example":"駅逓","reading":"エキテイ","meaning":"delivery of packages, postal service"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["二","厂","巾","込","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36883_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09013.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9013.gif","uri":"https://jisho.org/search/%E9%80%93%23kanji"}}
+{
+  "id": "逓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逓",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1957",
+    "strokeCount": 10,
+    "meaning": "relay, in turn, sending",
+    "kunyomi": [
+      "かわ.る",
+      "たがいに"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "逓信",
+        "reading": "テイシン",
+        "meaning": "communications (e.g. post, telegraph), Ministry of Communications and Transportation (dissolved in 1949)"
+      },
+      {
+        "example": "逓減",
+        "reading": "テイゲン",
+        "meaning": "gradual decrease, gradual diminution"
+      },
+      {
+        "example": "駅逓",
+        "reading": "エキテイ",
+        "meaning": "delivery of packages, postal service"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "二",
+      "厂",
+      "巾",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36883_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09013.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9013.gif",
+    "uri": "https://jisho.org/search/%E9%80%93%23kanji"
+  }
+}

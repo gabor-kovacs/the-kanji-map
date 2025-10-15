@@ -1,1 +1,99 @@
-{"id":"艶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"艶","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2207","strokeCount":19,"meaning":"glossy, luster, glaze, polish, charm, colorful, captivating","kunyomi":["つや","なま.めかしい","あで.やか","つや.めく","なま.めく"],"onyomi":["エン"],"onyomiExamples":[{"example":"艶","reading":"エン","meaning":"charming, fascinating, voluptuous"},{"example":"演歌","reading":"エンカ","meaning":"enka, traditional-style Japanese popular ballad, troubadour"},{"example":"妖艶","reading":"ヨウエン","meaning":"fascinating, voluptuous, bewitching, captivating"},{"example":"凄艶","reading":"セイエン","meaning":"weirdly beautiful"}],"kunyomiExamples":[{"example":"艶","reading":"つや","meaning":"gloss, luster, lustre, shine, sheen, polish, mellowness (of a voice), youthfulness (e.g. of skin), interest, appeal, charm, color, colour, feeling, romance, love, sexiness"},{"example":"艶々","reading":"つやつや","meaning":"glossy, bright, slick"},{"example":"艶々","reading":"つやつや","meaning":"glossy, bright, slick"},{"example":"艶かしい","reading":"なまめかしい","meaning":"charming, captivating, bewitching, seductive, coquettish"},{"example":"艶やか","reading":"あでやか","meaning":"glamorous, charming, beguiling, bewitching, beautiful, fascinatingly elegant"},{"example":"艶めく","reading":"つやめく","meaning":"(for an object) to be shiny, to be glossy, (for a woman) to be alluring, to look sexy"},{"example":"艶めく","reading":"なまめく","meaning":"to brim over with feminine charm, to look captivating (of a woman), to be sexy, to be seductive, to be enticing, to look young and fresh, to be elegant, to look refined, to have a calm and composed appearance"}],"radical":{"symbol":"色","meaning":"colour, prettiness"},"parts":["勹","口","并","日","色","豆","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33398_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08276.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8276.gif","uri":"https://jisho.org/search/%E8%89%B6%23kanji"}}
+{
+  "id": "艶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艶",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2207",
+    "strokeCount": 19,
+    "meaning": "glossy, luster, glaze, polish, charm, colorful, captivating",
+    "kunyomi": [
+      "つや",
+      "なま.めかしい",
+      "あで.やか",
+      "つや.めく",
+      "なま.めく"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艶",
+        "reading": "エン",
+        "meaning": "charming, fascinating, voluptuous"
+      },
+      {
+        "example": "演歌",
+        "reading": "エンカ",
+        "meaning": "enka, traditional-style Japanese popular ballad, troubadour"
+      },
+      {
+        "example": "妖艶",
+        "reading": "ヨウエン",
+        "meaning": "fascinating, voluptuous, bewitching, captivating"
+      },
+      {
+        "example": "凄艶",
+        "reading": "セイエン",
+        "meaning": "weirdly beautiful"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "艶",
+        "reading": "つや",
+        "meaning": "gloss, luster, lustre, shine, sheen, polish, mellowness (of a voice), youthfulness (e.g. of skin), interest, appeal, charm, color, colour, feeling, romance, love, sexiness"
+      },
+      {
+        "example": "艶々",
+        "reading": "つやつや",
+        "meaning": "glossy, bright, slick"
+      },
+      {
+        "example": "艶々",
+        "reading": "つやつや",
+        "meaning": "glossy, bright, slick"
+      },
+      {
+        "example": "艶かしい",
+        "reading": "なまめかしい",
+        "meaning": "charming, captivating, bewitching, seductive, coquettish"
+      },
+      {
+        "example": "艶やか",
+        "reading": "あでやか",
+        "meaning": "glamorous, charming, fascinatingly elegant, lovely, gorgeous, beguiling, bewitching"
+      },
+      {
+        "example": "艶めく",
+        "reading": "つやめく",
+        "meaning": "(for an object) to be shiny, to be glossy, (for a woman) to be alluring, to look sexy"
+      },
+      {
+        "example": "艶めく",
+        "reading": "なまめく",
+        "meaning": "to brim over with feminine charm, to look captivating (of a woman), to be sexy, to be seductive, to be enticing, to look young and fresh, to be elegant, to look refined, to have a calm and composed appearance"
+      }
+    ],
+    "radical": {
+      "symbol": "色",
+      "meaning": "colour, prettiness"
+    },
+    "parts": [
+      "勹",
+      "口",
+      "并",
+      "日",
+      "色",
+      "豆",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33398_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08276.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8276.gif",
+    "uri": "https://jisho.org/search/%E8%89%B6%23kanji"
+  }
+}

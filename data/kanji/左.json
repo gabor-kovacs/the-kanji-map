@@ -1,1 +1,343 @@
-{"id":"左","kanjialiveData":{"kanji":{"character":"左","meaning":{"english":"left"},"strokes":{"count":5,"timings":[0.992,1.667,2.733,4,5.066,5.6],"images":["https://media.kanjialive.com/kanji_strokes/hidari_1.svg","https://media.kanjialive.com/kanji_strokes/hidari_2.svg","https://media.kanjialive.com/kanji_strokes/hidari_3.svg","https://media.kanjialive.com/kanji_strokes/hidari_4.svg","https://media.kanjialive.com/kanji_strokes/hidari_5.svg"]},"onyomi":{"romaji":"sa","katakana":"サ"},"kunyomi":{"romaji":"hidari","hiragana":"ひだり"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/hidari_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/hidari_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/hidari_00.webm"}},"radical":{"character":"⼯","strokes":3,"image":"https://media.kanjialive.com/radical_character/takumi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"たくみ","romaji":"takumi"},"meaning":{"english":"work, carpenter, skill"},"animation":["https://media.kanjialive.com/rad_frames/takumi0.svg","https://media.kanjialive.com/rad_frames/takumi1.svg","https://media.kanjialive.com/rad_frames/takumi2.svg"]},"references":{"grade":1,"kodansha":"1887","classic_nelson":"1455"},"examples":[{"japanese":"左右する（さゆうする）","meaning":{"english":"influence, control, command"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hidari_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hidari_06_a.mp3"}},{"japanese":"左派（さは）","meaning":{"english":"(political) left wing"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hidari_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hidari_06_b.mp3"}},{"japanese":"左（ひだり）","meaning":{"english":"left"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hidari_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hidari_06_c.mp3"}},{"japanese":"左側（ひだりがわ）","meaning":{"english":"left side"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hidari_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hidari_06_d.mp3"}},{"japanese":"左向き（ひだりむき）","meaning":{"english":"left facing"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hidari_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hidari_06_e.mp3"}}]},"jishoData":{"query":"左","found":true,"taughtIn":"grade 1","jlptLevel":"N5","newspaperFrequencyRank":"630","strokeCount":5,"meaning":"left","kunyomi":["ひだり"],"onyomi":["サ","シャ"],"onyomiExamples":[{"example":"左","reading":"サ","meaning":"left (esp. in vertical Japanese writing), the following"},{"example":"左右","reading":"サユウ","meaning":"left and right, right and left, (asserting) control, influence, domination, one's attendants, people accompanying one, (serving at someone's) side, equivocation"},{"example":"極左","reading":"キョクサ","meaning":"extreme left, ultraleft"},{"example":"最左","reading":"サイサ","meaning":"left-most"},{"example":"左官","reading":"サカン","meaning":"plasterer"}],"kunyomiExamples":[{"example":"左","reading":"ひだり","meaning":"left, left hand side"},{"example":"左腕","reading":"さわん","meaning":"left arm, left-handed (baseball pitcher)"},{"example":"向かって左","reading":"むかってひだり","meaning":"on the left as one faces (it)"},{"example":"同左","reading":"どうひだり","meaning":"same as on the left, (in vertical writing) same as below"}],"radical":{"symbol":"工","meaning":"work"},"parts":["ノ","一","工"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24038_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de6.gif","uri":"https://jisho.org/search/%E5%B7%A6%23kanji"}}
+{
+  "id": "左",
+  "kanjialiveData": {
+    "_id": "54317ae1791eba5146ee493c",
+    "_rev": "9-229c8e3ae4428626e8ce47f65ae3a9f9",
+    "rad_name_ja": "たくみ",
+    "grade": 1,
+    "hint_group": 2,
+    "kunyomi": "hidari",
+    "meaning": "left",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "左右する（さゆうする）",
+        "meaning": {
+          "english": "influence, control, command"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hidari_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hidari_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "左派（さは）",
+        "meaning": {
+          "english": "(political) left wing"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hidari_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hidari_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "左（ひだり）",
+        "meaning": {
+          "english": "left"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hidari_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hidari_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "左側（ひだりがわ）",
+        "meaning": {
+          "english": "left side"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hidari_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hidari_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "左向き（ひだりむき）",
+        "meaning": {
+          "english": "left facing"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hidari_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hidari_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ひだり",
+    "ka_utf": "左",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=左",
+    "rad_name_search": [
+      "takumi"
+    ],
+    "rad_order": 57,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "hidari",
+    "rad_utf": "⼯",
+    "stroketimes": [
+      0.992,
+      1.667,
+      2.733,
+      4,
+      5.066,
+      5.6
+    ],
+    "kunyomi_ka_display": "ひだり",
+    "dick": "1887",
+    "rad_name": "takumi",
+    "dicn": "1455",
+    "mn_hint": "Hand [20] holding the ruler 工.",
+    "rad_stroke": 3,
+    "onyomi_ja": "サ",
+    "rad_meaning": "work, carpenter, skill",
+    "onyomi": "sa",
+    "ka_id": "ka_15",
+    "onyomi_search": [
+      "sa",
+      "sa"
+    ],
+    "kunyomi_search": [
+      "hidari",
+      "hidari"
+    ],
+    "meaning_search": [
+      "left",
+      "left"
+    ],
+    "onyomi_ja_search": [
+      "サ",
+      "サ"
+    ],
+    "kunyomi_ja_search": [
+      "ひだり",
+      "ひだり"
+    ],
+    "rad_meaning_search": [
+      "work",
+      "carpenter",
+      "skill",
+      "work, carpenter, skill"
+    ],
+    "rad_name_ja_search": [
+      "たくみ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:7",
+      "cij:c7",
+      "bk",
+      "bk:18",
+      "bk:c18",
+      "aij3",
+      "aij3:13",
+      "aij3:c13",
+      "aij3:v2",
+      "aij3:v2:13",
+      "aij3:v2:c13",
+      "gen",
+      "gen:6",
+      "gen:c6",
+      "ap",
+      "ap:6",
+      "ap:c6",
+      "kll",
+      "kll:3",
+      "kll:c3"
+    ],
+    "rad_name_file": "takumi",
+    "kanji": {
+      "character": "左",
+      "meaning": {
+        "english": "left"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0.992,
+          1.667,
+          2.733,
+          4,
+          5.066,
+          5.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hidari_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hidari_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/hidari_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/hidari_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/hidari_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sa",
+        "katakana": "サ"
+      },
+      "kunyomi": {
+        "romaji": "hidari",
+        "hiragana": "ひだり"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hidari_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hidari_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hidari_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼯",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/takumi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "たくみ",
+        "romaji": "takumi"
+      },
+      "meaning": {
+        "english": "work, carpenter, skill"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/takumi0.svg",
+        "https://media.kanjialive.com/rad_frames/takumi1.svg",
+        "https://media.kanjialive.com/rad_frames/takumi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1887",
+      "classic_nelson": "1455"
+    }
+  },
+  "jishoData": {
+    "query": "左",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "630",
+    "strokeCount": 5,
+    "meaning": "left",
+    "kunyomi": [
+      "ひだり"
+    ],
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "左",
+        "reading": "サ",
+        "meaning": "left (esp. in vertical Japanese writing), the following"
+      },
+      {
+        "example": "左記",
+        "reading": "サキ",
+        "meaning": "undermentioned (statement), the following, at left"
+      },
+      {
+        "example": "極左",
+        "reading": "キョクサ",
+        "meaning": "extreme left, ultraleft"
+      },
+      {
+        "example": "最左",
+        "reading": "サイサ",
+        "meaning": "left-most"
+      },
+      {
+        "example": "左官",
+        "reading": "サカン",
+        "meaning": "plasterer"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "左",
+        "reading": "ひだり",
+        "meaning": "left, left-hand side, left hand, the left (wing), leftist, fondness for alcohol, drinker"
+      },
+      {
+        "example": "左腕",
+        "reading": "さわん",
+        "meaning": "left arm, left-handed (baseball pitcher)"
+      },
+      {
+        "example": "向かって左",
+        "reading": "むかってひだり",
+        "meaning": "on the left as one faces (it)"
+      },
+      {
+        "example": "同左",
+        "reading": "どうひだり",
+        "meaning": "same as on the left, (in vertical writing) same as below"
+      }
+    ],
+    "radical": {
+      "symbol": "工",
+      "meaning": "work"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "工"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24038_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de6.gif",
+    "uri": "https://jisho.org/search/%E5%B7%A6%23kanji"
+  }
+}

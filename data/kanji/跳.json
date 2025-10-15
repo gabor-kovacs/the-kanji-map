@@ -1,1 +1,68 @@
-{"id":"跳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"跳","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1716","strokeCount":13,"meaning":"hop, leap up, spring, jerk, prance, buck, splash, sputter, snap","kunyomi":["は.ねる","と.ぶ","-と.び"],"onyomi":["チョウ"],"onyomiExamples":[{"example":"跳躍","reading":"チョウヤク","meaning":"jump, leap, skip, bound"},{"example":"跳馬","reading":"チョウバ","meaning":"long horse (for vaulting)"},{"example":"反跳","reading":"ハンチョウ","meaning":"(physical) recoil"}],"kunyomiExamples":[{"example":"跳ねる","reading":"はねる","meaning":"to jump, to leap, to prance, to spring up, to bound, to hop, to break up, to close, to come to an end, to hit (e.g. to have a car hit something or someone)"},{"example":"飛ぶ","reading":"とぶ","meaning":"to fly, to soar, to jump, to leap, to spring, to bound, to hop, to spatter, to scatter, to splash, to fly (e.g. of sparks), to hurry, to rush, to flee, to run off, to escape, to disappear, to vanish, to fade, to thin out, to break off, to come off, to fall off, to blow (of a fuse), to be sent out (of an order), to fly (of false rumours, catcalls, etc.), to come flying (of a punch, kick, etc.), to be missing (of a page, stitch, etc.), to skip, to jump (e.g. of a conversation)"}],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["儿","冫","口","止","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36339_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08df3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8df3.gif","uri":"https://jisho.org/search/%E8%B7%B3%23kanji"}}
+{
+  "id": "跳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "跳",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1716",
+    "strokeCount": 13,
+    "meaning": "hop, leap up, spring, jerk, prance, buck, splash, sputter, snap",
+    "kunyomi": [
+      "は.ねる",
+      "と.ぶ",
+      "-と.び"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "跳躍",
+        "reading": "チョウヤク",
+        "meaning": "jump, leap, skip, bound"
+      },
+      {
+        "example": "跳馬",
+        "reading": "チョウバ",
+        "meaning": "long horse (for vaulting)"
+      },
+      {
+        "example": "反跳",
+        "reading": "ハンチョウ",
+        "meaning": "(physical) recoil"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "跳ねる",
+        "reading": "はねる",
+        "meaning": "to jump, to leap, to prance, to spring up, to bound, to hop, to break up, to close, to come to an end, to hit (e.g. to have a car hit something or someone)"
+      },
+      {
+        "example": "飛ぶ",
+        "reading": "とぶ",
+        "meaning": "to fly, to soar, to jump, to leap, to spring, to bound, to hop, to spatter, to scatter, to splash, to fly (e.g. of sparks), to hurry, to rush, to flee, to run off, to escape, to disappear, to vanish, to fade, to thin out, to break off, to come off, to fall off, to blow (of a fuse), to be sent out (of an order), to fly (of false rumours, catcalls, etc.), to come flying (of a punch, kick, etc.), to be missing (of a page, stitch, etc.), to skip, to jump (e.g. of a conversation)"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "儿",
+      "冫",
+      "口",
+      "止",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36339_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08df3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8df3.gif",
+    "uri": "https://jisho.org/search/%E8%B7%B3%23kanji"
+  }
+}

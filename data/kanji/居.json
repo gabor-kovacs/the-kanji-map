@@ -1,1 +1,391 @@
-{"id":"居","kanjialiveData":{"kanji":{"character":"居","meaning":{"english":"reside, exist"},"strokes":{"count":8,"timings":[0,2.066667,3.933333,5.533333,7.2,8.466667,9.2,11.133333,14],"images":["https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_1.svg","https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_2.svg","https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_3.svg","https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_4.svg","https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_5.svg","https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_6.svg","https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_7.svg","https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_8.svg"]},"onyomi":{"romaji":"kyo","katakana":"キョ"},"kunyomi":{"romaji":"i, iru, o, oru","hiragana":"い、お"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kyo-i(ru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kyo-i(ru)_00.webm"}},"radical":{"character":"⼫","strokes":3,"image":"https://media.kanjialive.com/radical_character/shikabane.svg","position":{"hiragana":"たれ","romaji":"tare","icon":"https://media.kanjialive.com/rad_positions/tare.svg"},"name":{"hiragana":"しかばね","romaji":"shikabane"},"meaning":{"english":"corpse, awning"},"animation":["https://media.kanjialive.com/rad_frames/shikabane0.svg","https://media.kanjialive.com/rad_frames/shikabane1.svg","https://media.kanjialive.com/rad_frames/shikabane2.svg"]},"references":{"grade":5,"kodansha":"1959","classic_nelson":"1387"},"examples":[{"japanese":"居住地（きょじゅうち）","meaning":{"english":"residence, address"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_a.mp3"}},{"japanese":"住居（じゅうきょ）","meaning":{"english":"house, residence"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_b.mp3"}},{"japanese":"皇居（こうきょ）","meaning":{"english":"Imperial Palace"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_c.mp3"}},{"japanese":"入居する（にゅうきょする）","meaning":{"english":"move in"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_d.mp3"}},{"japanese":"転居する（てんきょする）","meaning":{"english":"move, change residence"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_e.mp3"}},{"japanese":"同居する（どうきょする）","meaning":{"english":"live together"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_f.mp3"}},{"japanese":"別居する（べっきょする）","meaning":{"english":"separate (from spouse)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_g.mp3"}},{"japanese":"居る（いる）","meaning":{"english":"be, exist"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_h.mp3"}},{"japanese":"居間（いま）","meaning":{"english":"living room"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_i.mp3"}},{"japanese":"居眠り（いねむり）","meaning":{"english":"nap"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_j.mp3"}},{"japanese":"居留守（いるす）","meaning":{"english":"pretend to be out"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_k.mp3"}},{"japanese":"居る（おる）","meaning":{"english":"be, exist [hum.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_l.mp3"}}]},"jishoData":{"query":"居","found":true,"taughtIn":"grade 5","jlptLevel":"N3","newspaperFrequencyRank":"836","strokeCount":8,"meaning":"reside, to be, exist, live with","kunyomi":["い.る","-い","お.る"],"onyomi":["キョ","コ"],"onyomiExamples":[{"example":"居","reading":"キョ","meaning":"residence"},{"example":"居室","reading":"キョシツ","meaning":"living room"},{"example":"入居","reading":"ニュウキョ","meaning":"moving into (house)"},{"example":"住居","reading":"ジュウキョ","meaning":"dwelling, house, residence, address"},{"example":"居士","reading":"コジ","meaning":"grhapati (layman; sometimes used as a posthumous suffix), private-sector scholar"}],"kunyomiExamples":[{"example":"居る","reading":"いる","meaning":"to be (of animate objects), to exist, to stay, to be ...-ing, to have been ...-ing"},{"example":"居留守","reading":"いるす","meaning":"pretending to be out"},{"example":"居る","reading":"おる","meaning":"to be (animate), to be, to exist, to be ..ing, to (have the audacity to) do"}],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["十","口","尸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23621_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c45.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c45.gif","uri":"https://jisho.org/search/%E5%B1%85%23kanji"}}
+{
+  "id": "居",
+  "kanjialiveData": {
+    "_id": "54317b04791eba5146ee4bdc",
+    "_rev": "9-f33972ff3db802340074e1fce1e32aba",
+    "rad_name_ja": "しかばね",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "i, iru, o, oru",
+    "meaning": "reside, exist",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "居住地（きょじゅうち）",
+        "meaning": {
+          "english": "residence, address"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "住居（じゅうきょ）",
+        "meaning": {
+          "english": "house, residence"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "皇居（こうきょ）",
+        "meaning": {
+          "english": "Imperial Palace"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "入居する（にゅうきょする）",
+        "meaning": {
+          "english": "move in"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "転居する（てんきょする）",
+        "meaning": {
+          "english": "move, change residence"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "同居する（どうきょする）",
+        "meaning": {
+          "english": "live together"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "別居する（べっきょする）",
+        "meaning": {
+          "english": "separate (from spouse)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "居る（いる）",
+        "meaning": {
+          "english": "be, exist"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "居間（いま）",
+        "meaning": {
+          "english": "living room"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "居眠り（いねむり）",
+        "meaning": {
+          "english": "nap"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "居留守（いるす）",
+        "meaning": {
+          "english": "pretend to be out"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "居る（おる）",
+        "meaning": {
+          "english": "be, exist [hum.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-i(ru)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyo-i(ru)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyo-i(ru)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyo-i(ru)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "い、いる、お、おる",
+    "ka_utf": "居",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=居",
+    "rad_name_search": [
+      "shikabane"
+    ],
+    "rad_order": 53,
+    "txt_books": [
+      {
+        "chapter": "16",
+        "txt_bk": "txtIntermJpn"
+      }
+    ],
+    "kname": "kyo-i(ru)",
+    "rad_utf": "⼫",
+    "stroketimes": [
+      0,
+      2.066667,
+      3.933333,
+      5.533333,
+      7.2,
+      8.466667,
+      9.2,
+      11.133333,
+      14
+    ],
+    "kunyomi_ka_display": "い、お",
+    "dick": "1959",
+    "rad_name": "shikabane",
+    "dicn": "1387",
+    "mn_hint": "Many 十 people 口 residing/existing under a roof 尸.",
+    "rad_stroke": 3,
+    "onyomi_ja": "キョ",
+    "rad_meaning": "corpse, awning",
+    "onyomi": "kyo",
+    "ka_id": "ka_755",
+    "rad_position": "tare",
+    "rad_position_ja": "たれ",
+    "rad_position_search": [
+      "tare",
+      "tare"
+    ],
+    "onyomi_search": [
+      "kyo",
+      "kyo"
+    ],
+    "kunyomi_search": [
+      "i",
+      "iru",
+      "o",
+      "oru",
+      "i, iru, o, oru"
+    ],
+    "meaning_search": [
+      "reside",
+      "exist",
+      "reside, exist"
+    ],
+    "onyomi_ja_search": [
+      "キョ",
+      "キョ"
+    ],
+    "kunyomi_ja_search": [
+      "い",
+      "いる",
+      "お",
+      "おる",
+      "い、いる、お、おる"
+    ],
+    "rad_meaning_search": [
+      "corpse",
+      "awning",
+      "corpse, awning"
+    ],
+    "rad_position_ja_search": [
+      "たれ",
+      "たれ"
+    ],
+    "rad_name_ja_search": [
+      "しかばね"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:16",
+      "ij:c16"
+    ],
+    "rad_name_file": "shikabane",
+    "kanji": {
+      "character": "居",
+      "meaning": {
+        "english": "reside, exist"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          2.066667,
+          3.933333,
+          5.533333,
+          7.2,
+          8.466667,
+          9.2,
+          11.133333,
+          14
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kyo",
+        "katakana": "キョ"
+      },
+      "kunyomi": {
+        "romaji": "i, iru, o, oru",
+        "hiragana": "い、お"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kyo-i(ru)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kyo-i(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kyo-i(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼫",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/shikabane.svg",
+      "position": {
+        "hiragana": "たれ",
+        "romaji": "tare",
+        "icon": "https://media.kanjialive.com/rad_positions/tare.svg"
+      },
+      "name": {
+        "hiragana": "しかばね",
+        "romaji": "shikabane"
+      },
+      "meaning": {
+        "english": "corpse, awning"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/shikabane0.svg",
+        "https://media.kanjialive.com/rad_frames/shikabane1.svg",
+        "https://media.kanjialive.com/rad_frames/shikabane2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1959",
+      "classic_nelson": "1387"
+    }
+  },
+  "jishoData": {
+    "query": "居",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "836",
+    "strokeCount": 8,
+    "meaning": "reside, to be, exist, live with",
+    "kunyomi": [
+      "い.る",
+      "-い",
+      "お.る"
+    ],
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "居",
+        "reading": "キョ",
+        "meaning": "residence"
+      },
+      {
+        "example": "居室",
+        "reading": "キョシツ",
+        "meaning": "living room"
+      },
+      {
+        "example": "入居",
+        "reading": "ニュウキョ",
+        "meaning": "moving in (to a house, apartment, etc.), taking up residence"
+      },
+      {
+        "example": "住居",
+        "reading": "ジュウキョ",
+        "meaning": "dwelling, house, residence, address"
+      },
+      {
+        "example": "居士",
+        "reading": "コジ",
+        "meaning": "grhapati (layman; sometimes used as a posthumous suffix), private-sector scholar"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "居る",
+        "reading": "いる",
+        "meaning": "to be (of animate objects), to exist, to stay, to be ...-ing, to have been ...-ing"
+      },
+      {
+        "example": "居留守",
+        "reading": "いるす",
+        "meaning": "pretending to be out"
+      },
+      {
+        "example": "居る",
+        "reading": "おる",
+        "meaning": "to be (animate), to be, to exist, to be ...-ing, to (have the audacity to) do"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23621_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c45.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c45.gif",
+    "uri": "https://jisho.org/search/%E5%B1%85%23kanji"
+  }
+}

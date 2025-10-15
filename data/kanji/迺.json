@@ -1,1 +1,45 @@
-{"id":"迺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"迺","found":true,"strokeCount":10,"meaning":"in other words, thou, you, possessive particle","kunyomi":["の","すなわ.ち","なんじ"],"onyomi":["ナイ","ダイ","アイ"],"onyomiExamples":[{"example":"乃公","reading":"ダイコウ","meaning":"I, me"},{"example":"乃公","reading":"ダイコウ","meaning":"I, me"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["西","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36858_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ffa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ffa.gif","uri":"https://jisho.org/search/%E8%BF%BA%23kanji"}}
+{
+  "id": "迺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "迺",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "in other words, thou, you, possessive particle",
+    "kunyomi": [
+      "の",
+      "すなわ.ち",
+      "なんじ"
+    ],
+    "onyomi": [
+      "ナイ",
+      "ダイ",
+      "アイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "乃公",
+        "reading": "ダイコウ",
+        "meaning": "I, me"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "西",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36858_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ffa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ffa.gif",
+    "uri": "https://jisho.org/search/%E8%BF%BA%23kanji"
+  }
+}

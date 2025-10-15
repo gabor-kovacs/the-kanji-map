@@ -1,1 +1,61 @@
-{"id":"彩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"彩","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1251","strokeCount":11,"meaning":"coloring, paint, makeup","kunyomi":["いろど.る"],"onyomi":["サイ"],"onyomiExamples":[{"example":"彩色","reading":"サイシキ","meaning":"colouring, coloring, colouration, coloration, painting"},{"example":"彩雲","reading":"サイウン","meaning":"iridescent clouds, glowing clouds"},{"example":"油彩","reading":"ユサイ","meaning":"oil painting"},{"example":"光彩","reading":"コウサイ","meaning":"brilliance, splendour, splendor, lustre, luster"}],"kunyomiExamples":[{"example":"彩る","reading":"いろどる","meaning":"to colour, to color, to paint, to apply make-up, to decorate, to garnish, to adorn, to add flair"}],"radical":{"symbol":"彡","meaning":"bristle, beard"},"parts":["彡","木","爪"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24425_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f69.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f69.gif","uri":"https://jisho.org/search/%E5%BD%A9%23kanji"}}
+{
+  "id": "彩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彩",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1251",
+    "strokeCount": 11,
+    "meaning": "coloring, paint, makeup",
+    "kunyomi": [
+      "いろど.る"
+    ],
+    "onyomi": [
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彩色",
+        "reading": "サイシキ",
+        "meaning": "colouring, coloring, colouration, coloration, painting"
+      },
+      {
+        "example": "彩雲",
+        "reading": "サイウン",
+        "meaning": "iridescent clouds, glowing clouds"
+      },
+      {
+        "example": "油彩",
+        "reading": "ユサイ",
+        "meaning": "oil painting"
+      },
+      {
+        "example": "光彩",
+        "reading": "コウサイ",
+        "meaning": "brilliance, splendour, splendor, lustre, luster"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "彩る",
+        "reading": "いろどる",
+        "meaning": "to colour, to color, to paint, to apply make-up, to decorate, to garnish, to adorn, to add flair"
+      }
+    ],
+    "radical": {
+      "symbol": "彡",
+      "meaning": "bristle, beard"
+    },
+    "parts": [
+      "彡",
+      "木",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24425_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f69.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f69.gif",
+    "uri": "https://jisho.org/search/%E5%BD%A9%23kanji"
+  }
+}

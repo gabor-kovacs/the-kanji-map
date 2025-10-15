@@ -1,1 +1,48 @@
-{"id":"榜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"榜","found":true,"strokeCount":14,"meaning":"rudder, oar, name plate","kunyomi":["かじ","たてふだ","ふだ"],"onyomi":["ボウ","ホウ"],"onyomiExamples":[{"example":"標榜","reading":"ヒョウボウ","meaning":"standing for, advocating, championing, professing (to be)"},{"example":"虎榜","reading":"コボウ","meaning":"card indicating a pass in the higher Chinese civil service examinations"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["亠","冖","并","方","木","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27036_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0699c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/699c.gif","uri":"https://jisho.org/search/%E6%A6%9C%23kanji"}}
+{
+  "id": "榜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "榜",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "rudder, oar, name plate",
+    "kunyomi": [
+      "かじ",
+      "たてふだ",
+      "ふだ"
+    ],
+    "onyomi": [
+      "ボウ",
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "標榜",
+        "reading": "ヒョウボウ",
+        "meaning": "standing for, advocating, championing, professing (to be)"
+      },
+      {
+        "example": "虎榜",
+        "reading": "コボウ",
+        "meaning": "card indicating a pass in the higher Chinese civil service examinations"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "并",
+      "方",
+      "木",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27036_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0699c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/699c.gif",
+    "uri": "https://jisho.org/search/%E6%A6%9C%23kanji"
+  }
+}

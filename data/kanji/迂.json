@@ -1,1 +1,46 @@
-{"id":"迂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"迂","found":true,"strokeCount":6,"meaning":"roundabout way","kunyomi":[],"onyomi":["ウ"],"onyomiExamples":[{"example":"迂遠","reading":"ウエン","meaning":"roundabout, indirect, circuitous, impractical, useless, ignorant (of the world)"},{"example":"迂回","reading":"ウカイ","meaning":"detour, circumvention, turning movement"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["亅","二","干","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36802_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fc2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fc2.gif","uri":"https://jisho.org/search/%E8%BF%82%23kanji"}}
+{
+  "id": "迂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "迂",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "roundabout way",
+    "kunyomi": [],
+    "onyomi": [
+      "ウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "迂遠",
+        "reading": "ウエン",
+        "meaning": "roundabout, indirect, circuitous, impractical, useless, ignorant (of the world)"
+      },
+      {
+        "example": "迂回",
+        "reading": "ウカイ",
+        "meaning": "detour, circumvention, turning movement"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "亅",
+      "二",
+      "干",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36802_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fc2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fc2.gif",
+    "uri": "https://jisho.org/search/%E8%BF%82%23kanji"
+  }
+}

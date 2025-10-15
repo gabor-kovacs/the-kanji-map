@@ -1,1 +1,59 @@
-{"id":"鴻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鴻","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2111","strokeCount":17,"meaning":"large bird, wild goose, large, great, powerful, prosperous","kunyomi":["おおとり","ひしくい","おおがり"],"onyomi":["コウ","ゴウ"],"onyomiExamples":[{"example":"洪恩","reading":"コウオン","meaning":"great debt of gratitude, great obligation"},{"example":"鴻雁","reading":"コウガン","meaning":"wild geese, large geese and small geese"}],"kunyomiExamples":[{"example":"大鳥","reading":"おおとり","meaning":"large bird, peng (in Chinese mythology, giant bird said to transform from a fish), fenghuang (Chinese phoenix)"},{"example":"鴻","reading":"ひしくい","meaning":"bean goose (Anser fabalis)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["工","杰","汁","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40251_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d3b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d3b.gif","uri":"https://jisho.org/search/%E9%B4%BB%23kanji"}}
+{
+  "id": "鴻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鴻",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2111",
+    "strokeCount": 17,
+    "meaning": "large bird, wild goose, large, great, powerful, prosperous",
+    "kunyomi": [
+      "おおとり",
+      "ひしくい",
+      "おおがり"
+    ],
+    "onyomi": [
+      "コウ",
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "洪恩",
+        "reading": "コウオン",
+        "meaning": "great debt of gratitude, great obligation"
+      },
+      {
+        "example": "鴻雁",
+        "reading": "コウガン",
+        "meaning": "wild geese, large geese and small geese"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "大鳥",
+        "reading": "おおとり",
+        "meaning": "large bird, peng (giant bird said to transform from a fish), fenghuang (Chinese phoenix)"
+      },
+      {
+        "example": "鴻",
+        "reading": "ひしくい",
+        "meaning": "bean goose (Anser fabalis)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "工",
+      "杰",
+      "汁",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40251_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d3b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d3b.gif",
+    "uri": "https://jisho.org/search/%E9%B4%BB%23kanji"
+  }
+}

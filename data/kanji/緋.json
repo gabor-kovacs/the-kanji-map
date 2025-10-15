@@ -1,1 +1,80 @@
-{"id":"緋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"緋","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2443","strokeCount":14,"meaning":"scarlet, cardinal","kunyomi":["あけ","あか"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"朱","reading":"アケ","meaning":"scarlet, red"},{"example":"緋色","reading":"ヒイロ","meaning":"brilliant red, scarlet"},{"example":"猩々緋","reading":"ショウジョウヒ","meaning":"scarlet"},{"example":"深緋","reading":"フカヒ","meaning":"deep scarlet"}],"kunyomiExamples":[{"example":"朱","reading":"あけ","meaning":"scarlet, red"},{"example":"浅緋","reading":"あさあけ","meaning":"pale scarlet"},{"example":"薄緋","reading":"うすあけ","meaning":"pale scarlet"},{"example":"赤","reading":"あか","meaning":"red, crimson, scarlet, red-containing colour (e.g. brown, pink, orange), Red (i.e. communist), red light (traffic), red ink (i.e. in finance or proof-reading), (in) the red, complete, total, perfect, obvious, copper, red 5-point card"},{"example":"赤い","reading":"あかい","meaning":"red, crimson, scarlet, vermilion, vermillion, Red, communist, beautiful"}],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["小","幺","糸","非"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32203_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dcb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dcb.gif","uri":"https://jisho.org/search/%E7%B7%8B%23kanji"}}
+{
+  "id": "緋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "緋",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2443",
+    "strokeCount": 14,
+    "meaning": "scarlet, cardinal",
+    "kunyomi": [
+      "あけ",
+      "あか"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "緋",
+        "reading": "ヒ",
+        "meaning": "scarlet, crimson, cardinal red"
+      },
+      {
+        "example": "緋色",
+        "reading": "ヒイロ",
+        "meaning": "scarlet, cardinal red"
+      },
+      {
+        "example": "猩々緋",
+        "reading": "ショウジョウヒ",
+        "meaning": "scarlet"
+      },
+      {
+        "example": "深緋",
+        "reading": "フカヒ",
+        "meaning": "deep scarlet"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "浅緋",
+        "reading": "あさあけ",
+        "meaning": "pale scarlet"
+      },
+      {
+        "example": "薄緋",
+        "reading": "うすあけ",
+        "meaning": "pale scarlet"
+      },
+      {
+        "example": "赤",
+        "reading": "あか",
+        "meaning": "red, crimson, scarlet, red-containing colour (e.g. brown, pink, orange), Red (i.e. communist), red light (traffic), red ink (i.e. in finance or proof-reading), (in) the red, complete, total, perfect, obvious, copper, red 5-point card"
+      },
+      {
+        "example": "赤い",
+        "reading": "あかい",
+        "meaning": "red, crimson, scarlet, vermilion, Red, communist"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "糸",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32203_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dcb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dcb.gif",
+    "uri": "https://jisho.org/search/%E7%B7%8B%23kanji"
+  }
+}

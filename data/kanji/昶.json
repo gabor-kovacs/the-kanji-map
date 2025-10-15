@@ -1,1 +1,29 @@
-{"id":"昶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"昶","found":true,"strokeCount":9,"meaning":"long day, clear","kunyomi":[],"onyomi":["チョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["丶","日","水"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26166_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06636.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6636.gif","uri":"https://jisho.org/search/%E6%98%B6%23kanji"}}
+{
+  "id": "昶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "昶",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "long day, clear",
+    "kunyomi": [],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "丶",
+      "日",
+      "水"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26166_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06636.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6636.gif",
+    "uri": "https://jisho.org/search/%E6%98%B6%23kanji"
+  }
+}

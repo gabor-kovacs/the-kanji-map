@@ -1,1 +1,53 @@
-{"id":"剔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"剔","found":true,"strokeCount":10,"meaning":"cutting","kunyomi":["えぐ.る","そ.る"],"onyomi":["テキ","テイ"],"onyomiExamples":[{"example":"剔","reading":"テキ","meaning":"cutting"},{"example":"摘出","reading":"テキシュツ","meaning":"picking out, taking out, (surgical) removal, exposure"}],"kunyomiExamples":[{"example":"抉る","reading":"えぐる","meaning":"to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["刈","勿","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21076_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05254.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5254.gif","uri":"https://jisho.org/search/%E5%89%94%23kanji"}}
+{
+  "id": "剔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "剔",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "cutting",
+    "kunyomi": [
+      "えぐ.る",
+      "そ.る"
+    ],
+    "onyomi": [
+      "テキ",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剔",
+        "reading": "テキ",
+        "meaning": "cutting"
+      },
+      {
+        "example": "摘出",
+        "reading": "テキシュツ",
+        "meaning": "picking out, taking out, (surgical) removal, exposure"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "抉る",
+        "reading": "えぐる",
+        "meaning": "to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "刈",
+      "勿",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21076_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05254.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5254.gif",
+    "uri": "https://jisho.org/search/%E5%89%94%23kanji"
+  }
+}

@@ -1,1 +1,53 @@
-{"id":"藜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"藜","found":true,"strokeCount":18,"meaning":"goosefoot, wild spinach","kunyomi":["あかざ"],"onyomi":["レイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"藜","reading":"あかざ","meaning":"white gooseweed (Chenopodium album), fat hen, lamb's-quarters, pigweed"},{"example":"藜海老","reading":"あかざえび","meaning":"Japanese lobster (Metanephrops japonicus)"},{"example":"浜藜","reading":"はまあかざ","meaning":"patent saltbush (Atriplex subcordata), sea purslane"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["个","勹","水","禾","艾","黍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34268_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085dc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85dc.gif","uri":"https://jisho.org/search/%E8%97%9C%23kanji"}}
+{
+  "id": "藜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藜",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "goosefoot, wild spinach",
+    "kunyomi": [
+      "あかざ"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "藜",
+        "reading": "あかざ",
+        "meaning": "white gooseweed (Chenopodium album), fat hen, lamb's-quarters, pigweed"
+      },
+      {
+        "example": "藜海老",
+        "reading": "あかざえび",
+        "meaning": "Japanese lobster (Metanephrops japonicus)"
+      },
+      {
+        "example": "浜藜",
+        "reading": "はまあかざ",
+        "meaning": "patent saltbush (Atriplex subcordata), sea purslane"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "个",
+      "勹",
+      "水",
+      "禾",
+      "艾",
+      "黍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34268_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85dc.gif",
+    "uri": "https://jisho.org/search/%E8%97%9C%23kanji"
+  }
+}

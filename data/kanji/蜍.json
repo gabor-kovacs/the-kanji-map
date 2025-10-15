@@ -1,1 +1,32 @@
-{"id":"蜍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蜍","found":true,"strokeCount":13,"meaning":"toad","kunyomi":[],"onyomi":["ショ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["一","个","亅","二","小","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34573_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0870d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/870d.gif","uri":"https://jisho.org/search/%E8%9C%8D%23kanji"}}
+{
+  "id": "蜍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜍",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "toad",
+    "kunyomi": [],
+    "onyomi": [
+      "ショ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "一",
+      "个",
+      "亅",
+      "二",
+      "小",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34573_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0870d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/870d.gif",
+    "uri": "https://jisho.org/search/%E8%9C%8D%23kanji"
+  }
+}

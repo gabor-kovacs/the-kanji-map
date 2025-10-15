@@ -1,1 +1,39 @@
-{"id":"廩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廩","found":true,"strokeCount":16,"meaning":"rice storehouse","kunyomi":["くら"],"onyomi":["リン"],"onyomiExamples":[{"example":"倉廩","reading":"ソウリン","meaning":"rice granary"}],"kunyomiExamples":[],"radical":{"symbol":"广","meaning":"house on cliff"},"parts":["亠","口","囗","广","禾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24297_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ee9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ee9.gif","uri":"https://jisho.org/search/%E5%BB%A9%23kanji"}}
+{
+  "id": "廩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廩",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "rice storehouse",
+    "kunyomi": [
+      "くら"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "倉廩",
+        "reading": "ソウリン",
+        "meaning": "rice granary"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "广",
+      "meaning": "house on cliff"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "囗",
+      "广",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24297_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ee9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ee9.gif",
+    "uri": "https://jisho.org/search/%E5%BB%A9%23kanji"
+  }
+}

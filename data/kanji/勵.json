@@ -1,1 +1,33 @@
-{"id":"勵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"勵","found":true,"strokeCount":16,"meaning":"strive, encourage","kunyomi":["はげ.む","はげ.ます"],"onyomi":["レイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"力","meaning":"power, force"},"parts":["力","厂","田","禹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21237_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052f5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52f5.gif","uri":"https://jisho.org/search/%E5%8B%B5%23kanji"}}
+{
+  "id": "勵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "勵",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "strive, encourage",
+    "kunyomi": [
+      "はげ.む",
+      "はげ.ます"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "力",
+      "厂",
+      "田",
+      "禹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21237_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052f5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52f5.gif",
+    "uri": "https://jisho.org/search/%E5%8B%B5%23kanji"
+  }
+}

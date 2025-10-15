@@ -1,1 +1,41 @@
-{"id":"葯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"葯","found":true,"strokeCount":12,"meaning":"pollen pod at tip of stamen, type of tall grass","kunyomi":[],"onyomi":["ヤク"],"onyomiExamples":[{"example":"葯","reading":"ヤク","meaning":"anther"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["丶","勹","小","幺","糸","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33903_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0846f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/846f.gif","uri":"https://jisho.org/search/%E8%91%AF%23kanji"}}
+{
+  "id": "葯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "葯",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "pollen pod at tip of stamen, type of tall grass",
+    "kunyomi": [],
+    "onyomi": [
+      "ヤク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "葯",
+        "reading": "ヤク",
+        "meaning": "anther"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "丶",
+      "勹",
+      "小",
+      "幺",
+      "糸",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33903_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0846f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/846f.gif",
+    "uri": "https://jisho.org/search/%E8%91%AF%23kanji"
+  }
+}

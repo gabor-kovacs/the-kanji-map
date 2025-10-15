@@ -1,1 +1,45 @@
-{"id":"尸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"尸","found":true,"strokeCount":3,"meaning":"corpse, remains, flag radical (no. 44)","kunyomi":["かたしろ"],"onyomi":["シ"],"onyomiExamples":[{"example":"屍","reading":"シカバネ","meaning":"corpse, kanji \"corpse\" radical"},{"example":"尸位","reading":"シイ","meaning":"neglecting the duties of an office while taking pay"},{"example":"三尸","reading":"サンシ","meaning":"the three worms (in Taoism), worms that inhabit the human gut and, on the eve of the 57th day of the sexagenary cycle, ascend to heaven during one's sleep to report on one's wrongdoings"}],"kunyomiExamples":[],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["尸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23608_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c38.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c38.gif","uri":"https://jisho.org/search/%E5%B0%B8%23kanji"}}
+{
+  "id": "尸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尸",
+    "found": true,
+    "strokeCount": 3,
+    "meaning": "corpse, remains, flag radical (no. 44)",
+    "kunyomi": [
+      "かたしろ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "屍",
+        "reading": "シカバネ",
+        "meaning": "corpse, kanji \"corpse\" radical"
+      },
+      {
+        "example": "尸位",
+        "reading": "シイ",
+        "meaning": "neglecting the duties of an office while taking pay"
+      },
+      {
+        "example": "三尸",
+        "reading": "サンシ",
+        "meaning": "the three worms (in Taoism), worms that inhabit the human gut and, on the eve of the 57th day of the sexagenary cycle, ascend to heaven during one's sleep to report on one's wrongdoings"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "尸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23608_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c38.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c38.gif",
+    "uri": "https://jisho.org/search/%E5%B0%B8%23kanji"
+  }
+}

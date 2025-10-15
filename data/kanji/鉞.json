@@ -1,1 +1,46 @@
-{"id":"鉞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鉞","found":true,"strokeCount":13,"meaning":"battleaxe","kunyomi":["まさかり"],"onyomi":["エツ"],"onyomiExamples":[{"example":"斧鉞","reading":"フエツ","meaning":"axe"}],"kunyomiExamples":[{"example":"鉞","reading":"まさかり","meaning":"broadaxe, battle axe"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["戈","金","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37470_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0925e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/925e.gif","uri":"https://jisho.org/search/%E9%89%9E%23kanji"}}
+{
+  "id": "鉞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鉞",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "battleaxe",
+    "kunyomi": [
+      "まさかり"
+    ],
+    "onyomi": [
+      "エツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斧鉞",
+        "reading": "フエツ",
+        "meaning": "axe"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鉞",
+        "reading": "まさかり",
+        "meaning": "broadaxe, battle axe"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "戈",
+      "金",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37470_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0925e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/925e.gif",
+    "uri": "https://jisho.org/search/%E9%89%9E%23kanji"
+  }
+}

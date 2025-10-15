@@ -1,1 +1,57 @@
-{"id":"逐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"逐","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2230","strokeCount":10,"meaning":"pursue, drive away, chase, accomplish, attain, commit","kunyomi":[],"onyomi":["チク"],"onyomiExamples":[{"example":"逐次","reading":"チクジ","meaning":"successively, one after another, sequentially, one by one"},{"example":"逐一","reading":"チクイチ","meaning":"one by one, in detail, minutely"},{"example":"放逐","reading":"ホウチク","meaning":"expulsion, ousting, ejection, dismissal, banishment"},{"example":"角逐","reading":"カクチク","meaning":"competition, rivalry, vying (with)"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["豕","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36880_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09010.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9010.gif","uri":"https://jisho.org/search/%E9%80%90%23kanji"}}
+{
+  "id": "逐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逐",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2230",
+    "strokeCount": 10,
+    "meaning": "pursue, drive away, chase, accomplish, attain, commit",
+    "kunyomi": [],
+    "onyomi": [
+      "チク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "逐次",
+        "reading": "チクジ",
+        "meaning": "successively, one after another, sequentially, one by one"
+      },
+      {
+        "example": "逐一",
+        "reading": "チクイチ",
+        "meaning": "one by one, in detail, minutely"
+      },
+      {
+        "example": "放逐",
+        "reading": "ホウチク",
+        "meaning": "expulsion, ousting, ejection, dismissal, banishment"
+      },
+      {
+        "example": "角逐",
+        "reading": "カクチク",
+        "meaning": "competition, rivalry, vying (with)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "豕",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36880_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09010.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9010.gif",
+    "uri": "https://jisho.org/search/%E9%80%90%23kanji"
+  }
+}

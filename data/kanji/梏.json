@@ -1,1 +1,50 @@
-{"id":"梏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梏","found":true,"strokeCount":11,"meaning":"manacles","kunyomi":["てかせ"],"onyomi":["コク","カク"],"onyomiExamples":[{"example":"梏桎","reading":"コクシツ","meaning":"fetters, bonds"},{"example":"桎梏","reading":"シッコク","meaning":"bonds, fetters"}],"kunyomiExamples":[{"example":"手かせ","reading":"てかせ","meaning":"handcuffs"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ノ","口","土","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26767_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0688f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/688f.gif","uri":"https://jisho.org/search/%E6%A2%8F%23kanji"}}
+{
+  "id": "梏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梏",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "manacles",
+    "kunyomi": [
+      "てかせ"
+    ],
+    "onyomi": [
+      "コク",
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梏桎",
+        "reading": "コクシツ",
+        "meaning": "fetters, bonds"
+      },
+      {
+        "example": "桎梏",
+        "reading": "シッコク",
+        "meaning": "bonds, fetters"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "手かせ",
+        "reading": "てかせ",
+        "meaning": "handcuffs"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "土",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26767_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0688f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/688f.gif",
+    "uri": "https://jisho.org/search/%E6%A2%8F%23kanji"
+  }
+}

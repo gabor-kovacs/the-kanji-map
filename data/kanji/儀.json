@@ -1,1 +1,61 @@
-{"id":"儀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"儀","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"739","strokeCount":15,"meaning":"ceremony, rule, affair, case, a matter","kunyomi":[],"onyomi":["ギ"],"onyomiExamples":[{"example":"儀","reading":"ギ","meaning":"ceremony, matter, affair, with regard to, as for, as concerns"},{"example":"儀式","reading":"ギシキ","meaning":"ceremony, rite, ritual, service"},{"example":"奥義","reading":"オウギ","meaning":"secret techniques (of an art or skill), inner mysteries, essence, quintessence, heart"},{"example":"祭儀","reading":"サイギ","meaning":"rites, ritual"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["一","亅","化","并","戈","手","王","羊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20736_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05100.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5100.gif","uri":"https://jisho.org/search/%E5%84%80%23kanji"}}
+{
+  "id": "儀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "儀",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "739",
+    "strokeCount": 15,
+    "meaning": "ceremony, rule, affair, case, a matter",
+    "kunyomi": [],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "儀",
+        "reading": "ギ",
+        "meaning": "ceremony, matter, affair, case, with regard to, as for, as concerns"
+      },
+      {
+        "example": "儀式",
+        "reading": "ギシキ",
+        "meaning": "ceremony, rite, ritual, service"
+      },
+      {
+        "example": "奥義",
+        "reading": "オウギ",
+        "meaning": "secret techniques (of an art or skill), inner mysteries, essence, quintessence, heart"
+      },
+      {
+        "example": "祭儀",
+        "reading": "サイギ",
+        "meaning": "rites, ritual"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "化",
+      "并",
+      "戈",
+      "手",
+      "王",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20736_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05100.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5100.gif",
+    "uri": "https://jisho.org/search/%E5%84%80%23kanji"
+  }
+}

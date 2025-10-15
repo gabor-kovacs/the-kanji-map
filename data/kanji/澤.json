@@ -1,1 +1,49 @@
-{"id":"澤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"澤","found":true,"newspaperFrequencyRank":"2374","strokeCount":16,"meaning":"swamp","kunyomi":["さわ","うるお.い","うるお.す","つや"],"onyomi":["タク"],"onyomiExamples":[{"example":"白沢","reading":"ハクタク","meaning":"bai ze (mythical Chinese animal able to understand human speech, having the body of a lion and eight eyes)"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["亠","十","土","汁","立","買","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28580_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fa4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fa4.gif","uri":"https://jisho.org/search/%E6%BE%A4%23kanji"}}
+{
+  "id": "澤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "澤",
+    "found": true,
+    "newspaperFrequencyRank": "2374",
+    "strokeCount": 16,
+    "meaning": "swamp",
+    "kunyomi": [
+      "さわ",
+      "うるお.い",
+      "うるお.す",
+      "つや"
+    ],
+    "onyomi": [
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "白沢",
+        "reading": "ハクタク",
+        "meaning": "bai ze (mythical Chinese animal able to understand human speech, having the body of a lion and eight eyes)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "土",
+      "汁",
+      "立",
+      "買",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28580_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fa4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fa4.gif",
+    "uri": "https://jisho.org/search/%E6%BE%A4%23kanji"
+  }
+}

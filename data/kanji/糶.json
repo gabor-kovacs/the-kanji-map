@@ -1,1 +1,51 @@
-{"id":"糶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"糶","found":true,"strokeCount":25,"meaning":"auction","kunyomi":["せり","うりよね"],"onyomi":["チョウ"],"onyomiExamples":[{"example":"糶糴","reading":"チョウテキ","meaning":"buying and selling of grain (e.g. rice)"}],"kunyomiExamples":[{"example":"競り","reading":"せり","meaning":"competing, competition, auction"},{"example":"競り市","reading":"せりいち","meaning":"auction market"}],"radical":{"symbol":"米","meaning":"rice"},"parts":["ヨ","山","米","隹","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31990_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07cf6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7cf6.gif","uri":"https://jisho.org/search/%E7%B3%B6%23kanji"}}
+{
+  "id": "糶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "糶",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "auction",
+    "kunyomi": [
+      "せり",
+      "うりよね"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "糶糴",
+        "reading": "チョウテキ",
+        "meaning": "buying and selling of grain (e.g. rice)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "競り",
+        "reading": "せり",
+        "meaning": "competing, competition, auction"
+      },
+      {
+        "example": "競り市",
+        "reading": "せりいち",
+        "meaning": "auction market"
+      }
+    ],
+    "radical": {
+      "symbol": "米",
+      "meaning": "rice"
+    },
+    "parts": [
+      "ヨ",
+      "山",
+      "米",
+      "隹",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31990_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07cf6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7cf6.gif",
+    "uri": "https://jisho.org/search/%E7%B3%B6%23kanji"
+  }
+}

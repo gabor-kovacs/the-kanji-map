@@ -1,1 +1,67 @@
-{"id":"苛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"苛","found":true,"taughtIn":"junior high","strokeCount":8,"meaning":"torment, scold, chastise","kunyomi":["いじ.める","さいな.む","いらだ.つ","からい","こまかい"],"onyomi":["カ"],"onyomiExamples":[{"example":"過酷","reading":"カコク","meaning":"severe, harsh, hard, cruel, rigorous"},{"example":"苛虐","reading":"カギャク","meaning":"cruel treatment"}],"kunyomiExamples":[{"example":"苛める","reading":"いじめる","meaning":"to ill-treat, to bully, to torment, to pick on, to tease, to be cruel to, to persecute, to be tough on (e.g. one's body), to treat harshly"},{"example":"苛む","reading":"さいなむ","meaning":"to torment, to torture, to afflict, to harrow"},{"example":"苛立つ","reading":"いらだつ","meaning":"to be irritated, to get annoyed, to lose one's patience"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","亅","口","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33499_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082db.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82db.gif","uri":"https://jisho.org/search/%E8%8B%9B%23kanji"}}
+{
+  "id": "苛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苛",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 8,
+    "meaning": "torment, scold, chastise",
+    "kunyomi": [
+      "いじ.める",
+      "さいな.む",
+      "いらだ.つ",
+      "からい",
+      "こまかい"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "過酷",
+        "reading": "カコク",
+        "meaning": "severe, harsh, hard, cruel, rigorous"
+      },
+      {
+        "example": "苛虐",
+        "reading": "カギャク",
+        "meaning": "cruel treatment"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "苛める",
+        "reading": "いじめる",
+        "meaning": "to ill-treat, to bully, to torment, to pick on, to tease, to be cruel to, to persecute, to be tough on (e.g. one's body), to treat harshly"
+      },
+      {
+        "example": "苛む",
+        "reading": "さいなむ",
+        "meaning": "to torment, to torture, to afflict, to harrow"
+      },
+      {
+        "example": "苛立つ",
+        "reading": "いらだつ",
+        "meaning": "to be irritated, to get annoyed, to lose one's patience"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33499_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82db.gif",
+    "uri": "https://jisho.org/search/%E8%8B%9B%23kanji"
+  }
+}

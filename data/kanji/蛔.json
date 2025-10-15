@@ -1,1 +1,45 @@
-{"id":"蛔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蛔","found":true,"strokeCount":12,"meaning":"intestinal worms","kunyomi":["かいちゅう","はらのむし"],"onyomi":["カイ","ユウ"],"onyomiExamples":[{"example":"回虫","reading":"カイチュウ","meaning":"roundworm (Ascaris lumbricoides), mawworm, intestinal worm"}],"kunyomiExamples":[{"example":"回虫","reading":"かいちゅう","meaning":"roundworm (Ascaris lumbricoides), mawworm, intestinal worm"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["口","囗","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34516_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086d4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86d4.gif","uri":"https://jisho.org/search/%E8%9B%94%23kanji"}}
+{
+  "id": "蛔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛔",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "intestinal worms",
+    "kunyomi": [
+      "かいちゅう",
+      "はらのむし"
+    ],
+    "onyomi": [
+      "カイ",
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "回虫",
+        "reading": "カイチュウ",
+        "meaning": "roundworm (Ascaris lumbricoides), mawworm, intestinal worm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "回虫",
+        "reading": "かいちゅう",
+        "meaning": "roundworm (Ascaris lumbricoides), mawworm, intestinal worm"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "口",
+      "囗",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34516_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086d4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86d4.gif",
+    "uri": "https://jisho.org/search/%E8%9B%94%23kanji"
+  }
+}

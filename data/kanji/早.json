@@ -1,1 +1,418 @@
-{"id":"早","kanjialiveData":{"kanji":{"character":"早","meaning":{"english":"early, quick"},"strokes":{"count":6,"timings":[1.127,1.933,3.133,4.2,5.266,6.266,7.333333],"images":["https://media.kanjialive.com/kanji_strokes/sou-haya(i)_1.svg","https://media.kanjialive.com/kanji_strokes/sou-haya(i)_2.svg","https://media.kanjialive.com/kanji_strokes/sou-haya(i)_3.svg","https://media.kanjialive.com/kanji_strokes/sou-haya(i)_4.svg","https://media.kanjialive.com/kanji_strokes/sou-haya(i)_5.svg","https://media.kanjialive.com/kanji_strokes/sou-haya(i)_6.svg"]},"onyomi":{"romaji":"sou","katakana":"ソウ"},"kunyomi":{"romaji":"haya, hayai, hayamaru, hayameru, hayaku","hiragana":"はや"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/sou-haya(i)_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/sou-haya(i)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/sou-haya(i)_00.webm"}},"radical":{"character":"⽇","strokes":4,"image":"https://media.kanjialive.com/radical_character/hi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"ひ","romaji":"hi"},"meaning":{"english":"sun, day, time"},"animation":["https://media.kanjialive.com/rad_frames/hi0.svg","https://media.kanjialive.com/rad_frames/hi1.svg","https://media.kanjialive.com/rad_frames/hi2.svg"]},"references":{"grade":1,"kodansha":"1549","classic_nelson":"2100"},"examples":[{"japanese":"早朝（そうちょう）","meaning":{"english":"early morning"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_a.mp3"}},{"japanese":"早急な（そうきゅうな）","meaning":{"english":"urgent"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_b.mp3"}},{"japanese":"早い（はやい）","meaning":{"english":"early"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_c.mp3"}},{"japanese":"早起きする（はやおきする）","meaning":{"english":"wake up early"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_d.mp3"}},{"japanese":"早まる（はやまる）","meaning":{"english":"be rash [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_e.mp3"}},{"japanese":"早める（はやめる）","meaning":{"english":"hasten [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_f.mp3"}},{"japanese":"*早速（さっそく）","meaning":{"english":"immediately"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_g.mp3"}}]},"jishoData":{"query":"早","found":true,"taughtIn":"grade 1","jlptLevel":"N4","newspaperFrequencyRank":"402","strokeCount":6,"meaning":"early, fast","kunyomi":["はや.い","はや","はや-","はや.まる","はや.める","さ-"],"onyomi":["ソウ","サッ"],"onyomiExamples":[{"example":"早急","reading":"ソウキュウ","meaning":"immediate, prompt, quick, rapid, urgent, pressing"},{"example":"早期","reading":"ソウキ","meaning":"early stage"},{"example":"時期早々","reading":"ジキソウソウ","meaning":"premature"},{"example":"尚早","reading":"ショウソウ","meaning":"prematurity"},{"example":"早急","reading":"ソウキュウ","meaning":"immediate, prompt, quick, rapid, urgent, pressing"},{"example":"早速","reading":"サッソク","meaning":"at once, immediately, without delay, promptly"}],"kunyomiExamples":[{"example":"早い","reading":"はやい","meaning":"fast, quick, rapid, swift, speedy, brisk, prompt, early, soon, earlier than usual, premature, too soon, too early, easy, simple, quick, fast, as soon as ..., the moment ..., the instant ..."},{"example":"早いこと","reading":"はやいこと","meaning":"quickly"},{"example":"早","reading":"はや","meaning":"already, now, by this time, quick, early, fast, rapid"},{"example":"甲矢","reading":"はや","meaning":"arrow with feathers that curve to the left (the first of two arrows to be fired)"},{"example":"早々","reading":"はやはや","meaning":"quickly"},{"example":"なる早","reading":"なるはや","meaning":"as soon as possible, ASAP"},{"example":"早まる","reading":"はやまる","meaning":"to be brought forward (e.g. by three hours), to be moved up, to be advanced, to be hasty, to be rash, to quicken, to speed up, to gather speed"},{"example":"早める","reading":"はやめる","meaning":"to bring forward (e.g. by 3 hours), to advance, to hasten (e.g. one's death), to expedite, to precipitate, to quicken (e.g. one's step), to speed up, to accelerate"}],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["十","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26089_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e9.gif","uri":"https://jisho.org/search/%E6%97%A9%23kanji"}}
+{
+  "id": "早",
+  "kanjialiveData": {
+    "_id": "54317afe791eba5146ee4b67",
+    "_rev": "9-1e0a966ecaea9fd9e3d4d8d38c60a74d",
+    "rad_name_ja": "ひ",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "haya, hayai, hayamaru, hayameru, hayaku",
+    "meaning": "early, quick",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "早朝（そうちょう）",
+        "meaning": {
+          "english": "early morning"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "早急な（そうきゅうな）",
+        "meaning": {
+          "english": "urgent"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "早い（はやい）",
+        "meaning": {
+          "english": "early"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "早起きする（はやおきする）",
+        "meaning": {
+          "english": "wake up early"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "早まる（はやまる）",
+        "meaning": {
+          "english": "be rash [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "早める（はやめる）",
+        "meaning": {
+          "english": "hasten [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "*早速（さっそく）",
+        "meaning": {
+          "english": "immediately"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-haya(i)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-haya(i)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-haya(i)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-haya(i)_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "はや、はやい、はやまる、はやめる、はやく",
+    "ka_utf": "早",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=早",
+    "rad_name_search": [
+      "hi"
+    ],
+    "rad_order": 92,
+    "txt_books": [
+      {
+        "chapter": "10",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "10"
+      }
+    ],
+    "kname": "sou-haya(i)",
+    "rad_utf": "⽇",
+    "stroketimes": [
+      1.127,
+      1.933,
+      3.133,
+      4.2,
+      5.266,
+      6.266,
+      7.333333
+    ],
+    "kunyomi_ka_display": "はや",
+    "dick": "1549",
+    "rad_name": "hi",
+    "dicn": "2100",
+    "mn_hint": "Rising very 十 <span class='note'>(orig. \"many\")</span> early with the sun 日.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ソウ",
+    "rad_meaning": "sun, day, time",
+    "onyomi": "sou",
+    "ka_id": "ka_65",
+    "onyomi_search": [
+      "sou",
+      "sou"
+    ],
+    "kunyomi_search": [
+      "haya",
+      "hayai",
+      "hayamaru",
+      "hayameru",
+      "hayaku",
+      "haya, hayai, hayamaru, hayameru, hayaku"
+    ],
+    "meaning_search": [
+      "early",
+      "quick",
+      "early, quick"
+    ],
+    "onyomi_ja_search": [
+      "ソウ",
+      "ソウ"
+    ],
+    "kunyomi_ja_search": [
+      "はや",
+      "はやい",
+      "はやまる",
+      "はやめる",
+      "はやく",
+      "はや、はやい、はやまる、はやめる、はやく"
+    ],
+    "rad_meaning_search": [
+      "sun",
+      "day",
+      "time",
+      "sun, day, time"
+    ],
+    "rad_name_ja_search": [
+      "ひ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:10",
+      "cij:c10",
+      "bk",
+      "bk:16",
+      "bk:c16",
+      "aij3",
+      "aij3:15",
+      "aij3:c15",
+      "aij3:v2",
+      "aij3:v2:15",
+      "aij3:v2:c15",
+      "gen",
+      "gen:12",
+      "gen:c12",
+      "ap",
+      "ap:12",
+      "ap:c12",
+      "kll",
+      "kll:6",
+      "kll:c6",
+      "aij4",
+      "aij4:10",
+      "aij4:c10",
+      "aij4:v1",
+      "aij4:v1:10",
+      "aij4:v1:c10"
+    ],
+    "rad_name_file": "hi",
+    "kanji": {
+      "character": "早",
+      "meaning": {
+        "english": "early, quick"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          1.127,
+          1.933,
+          3.133,
+          4.2,
+          5.266,
+          6.266,
+          7.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sou-haya(i)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-haya(i)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-haya(i)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-haya(i)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-haya(i)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-haya(i)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sou",
+        "katakana": "ソウ"
+      },
+      "kunyomi": {
+        "romaji": "haya, hayai, hayamaru, hayameru, hayaku",
+        "hiragana": "はや"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sou-haya(i)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sou-haya(i)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sou-haya(i)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽇",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/hi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ひ",
+        "romaji": "hi"
+      },
+      "meaning": {
+        "english": "sun, day, time"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hi0.svg",
+        "https://media.kanjialive.com/rad_frames/hi1.svg",
+        "https://media.kanjialive.com/rad_frames/hi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1549",
+      "classic_nelson": "2100"
+    }
+  },
+  "jishoData": {
+    "query": "早",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "402",
+    "strokeCount": 6,
+    "meaning": "early, fast",
+    "kunyomi": [
+      "はや.い",
+      "はや",
+      "はや-",
+      "はや.まる",
+      "はや.める",
+      "さ-"
+    ],
+    "onyomi": [
+      "ソウ",
+      "サッ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "早急",
+        "reading": "ソウキュウ",
+        "meaning": "immediate, prompt, quick, rapid, urgent, pressing"
+      },
+      {
+        "example": "早期",
+        "reading": "ソウキ",
+        "meaning": "early stage"
+      },
+      {
+        "example": "時期早々",
+        "reading": "ジキソウソウ",
+        "meaning": "premature"
+      },
+      {
+        "example": "尚早",
+        "reading": "ショウソウ",
+        "meaning": "prematurity"
+      },
+      {
+        "example": "早急",
+        "reading": "ソウキュウ",
+        "meaning": "immediate, prompt, quick, rapid, urgent, pressing"
+      },
+      {
+        "example": "早速",
+        "reading": "サッソク",
+        "meaning": "at once, immediately, without delay, promptly"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "早い",
+        "reading": "はやい",
+        "meaning": "fast, quick, rapid, swift, speedy, brisk, prompt, early, soon, earlier than usual, premature, too soon, too early, easy, simple, quick, fast, as soon as ..., the moment ..., the instant ..."
+      },
+      {
+        "example": "早いこと",
+        "reading": "はやいこと",
+        "meaning": "quickly"
+      },
+      {
+        "example": "早",
+        "reading": "はや",
+        "meaning": "already, now, by this time, quick, early, fast, rapid"
+      },
+      {
+        "example": "甲矢",
+        "reading": "はや",
+        "meaning": "arrow with feathers that curve to the left (the first of two arrows to be fired)"
+      },
+      {
+        "example": "千早",
+        "reading": "ちはや",
+        "meaning": "thin, white ceremonial haori worn by miko"
+      },
+      {
+        "example": "早々",
+        "reading": "はやはや",
+        "meaning": "quickly"
+      },
+      {
+        "example": "早まる",
+        "reading": "はやまる",
+        "meaning": "to be brought forward (e.g. by three hours), to be moved up, to be advanced, to be hasty, to be rash, to quicken, to speed up, to gather speed"
+      },
+      {
+        "example": "早める",
+        "reading": "はやめる",
+        "meaning": "to bring forward (e.g. by 3 hours), to advance, to hasten (e.g. one's death), to expedite, to precipitate, to quicken (e.g. one's step), to speed up, to accelerate"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "十",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26089_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e9.gif",
+    "uri": "https://jisho.org/search/%E6%97%A9%23kanji"
+  }
+}

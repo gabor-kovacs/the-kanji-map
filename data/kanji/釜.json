@@ -1,1 +1,73 @@
-{"id":"釜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"釜","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"1761","strokeCount":10,"meaning":"kettle, cauldron, iron pot","kunyomi":["かま"],"onyomi":["フ"],"onyomiExamples":[{"example":"釜山","reading":"プサン","meaning":"Busan (South Korea), Pusan"},{"example":"釜中の魚","reading":"フチュウノウオ","meaning":"fish in a pot about to be boiled, person who is blissfully unaware of deadly danger"}],"kunyomiExamples":[{"example":"釜","reading":"かま","meaning":"iron pot, kettle"},{"example":"釜揚げうどん","reading":"かまあげうどん","meaning":"straight-from-the-pot udon, udon noodles pulled straight from the pot and served in the hot water used for boiling (traditionally without being soaked in cold water), eaten by dipping in sauce"},{"example":"お釜","reading":"おかま","meaning":"pot, (volcanic) crater, buttocks, effeminate gay man, male transvestite, (preoperative) transgender woman, (gay) male prostitute"},{"example":"一つ釜","reading":"ひとつかま","meaning":"one or the same pot, eating or living together"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ノ","一","丶","干","并","父","王","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37340_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091dc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91dc.gif","uri":"https://jisho.org/search/%E9%87%9C%23kanji"}}
+{
+  "id": "釜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "釜",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "1761",
+    "strokeCount": 10,
+    "meaning": "kettle, cauldron, iron pot",
+    "kunyomi": [
+      "かま"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "釜山",
+        "reading": "プサン",
+        "meaning": "Busan (South Korea), Pusan"
+      },
+      {
+        "example": "釜中の魚",
+        "reading": "フチュウノウオ",
+        "meaning": "fish in a pot about to be boiled, person who is blissfully unaware of deadly danger"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "釜",
+        "reading": "かま",
+        "meaning": "iron pot, kettle"
+      },
+      {
+        "example": "釜揚げうどん",
+        "reading": "かまあげうどん",
+        "meaning": "straight-from-the-pot udon, udon noodles pulled straight from the pot and served in the hot water used for boiling (traditionally without being soaked in cold water), eaten by dipping in sauce"
+      },
+      {
+        "example": "お釜",
+        "reading": "おかま",
+        "meaning": "pot, (volcanic) crater, buttocks, effeminate gay man, male transvestite, (preoperative) transgender woman, (gay) male prostitute"
+      },
+      {
+        "example": "一つ釜",
+        "reading": "ひとつかま",
+        "meaning": "one or the same pot, eating or living together"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "丶",
+      "干",
+      "并",
+      "父",
+      "王",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37340_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91dc.gif",
+    "uri": "https://jisho.org/search/%E9%87%9C%23kanji"
+  }
+}

@@ -1,1 +1,307 @@
-{"id":"届","kanjialiveData":{"kanji":{"character":"届","meaning":{"english":"deliver, reach, report,notify"},"strokes":{"count":8,"timings":[0,1.333333,2.466667,3.733333,4.933333,6.6,7.866667,9.066667,12.733333],"images":["https://media.kanjialive.com/kanji_strokes/todo(ku)_1.svg","https://media.kanjialive.com/kanji_strokes/todo(ku)_2.svg","https://media.kanjialive.com/kanji_strokes/todo(ku)_3.svg","https://media.kanjialive.com/kanji_strokes/todo(ku)_4.svg","https://media.kanjialive.com/kanji_strokes/todo(ku)_5.svg","https://media.kanjialive.com/kanji_strokes/todo(ku)_6.svg","https://media.kanjialive.com/kanji_strokes/todo(ku)_7.svg","https://media.kanjialive.com/kanji_strokes/todo(ku)_8.svg"]},"onyomi":{"romaji":"n/a","katakana":""},"kunyomi":{"romaji":"todo, todoku, todokeru","hiragana":"とど"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/todo(ku)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/todo(ku)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/todo(ku)_00.webm"}},"radical":{"character":"⼫","strokes":3,"image":"https://media.kanjialive.com/radical_character/shikabane.svg","position":{"hiragana":"たれ","romaji":"tare","icon":"https://media.kanjialive.com/rad_positions/tare.svg"},"name":{"hiragana":"しかばね","romaji":"shikabane"},"meaning":{"english":"corpse, awning"},"animation":["https://media.kanjialive.com/rad_frames/shikabane0.svg","https://media.kanjialive.com/rad_frames/shikabane1.svg","https://media.kanjialive.com/rad_frames/shikabane2.svg"]},"references":{"grade":6,"kodansha":"1957","classic_nelson":"1385"},"examples":[{"japanese":"届く（とどく）","meaning":{"english":"reach, arrive [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/todo(ku)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/todo(ku)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/todo(ku)_06_a.mp3"}},{"japanese":"届ける（とどける）","meaning":{"english":"deliver, file notice [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/todo(ku)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/todo(ku)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/todo(ku)_06_b.mp3"}},{"japanese":"届け先（とどけさき）","meaning":{"english":"receiver's address"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/todo(ku)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/todo(ku)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/todo(ku)_06_c.mp3"}},{"japanese":"出生届け（しゅっせいとどけ）","meaning":{"english":"birth registration"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/todo(ku)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/todo(ku)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/todo(ku)_06_d.mp3"}},{"japanese":"欠席届け（けっせきとどけ）","meaning":{"english":"report of a school absence"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/todo(ku)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/todo(ku)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/todo(ku)_06_e.mp3"}}]},"jishoData":{"query":"届","found":true,"taughtIn":"grade 6","jlptLevel":"N2","newspaperFrequencyRank":"939","strokeCount":8,"meaning":"deliver, reach, arrive, report, notify, forward","kunyomi":["とど.ける","-とど.け","とど.く"],"onyomi":["カイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"届ける","reading":"とどける","meaning":"to deliver, to forward, to send, to report, to notify, to file notice (to the authorities), to give notice, to register"},{"example":"届く","reading":"とどく","meaning":"to reach, to touch, to get to, to carry (of sound), to be delivered, to arrive, to be attentive, to be scrupulous, to be thorough, to be realized (of a desire), to be fulfilled, to get through (to someone), to be appreciated, to make an impression"}],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["尸","日","田","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23626_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4a.gif","uri":"https://jisho.org/search/%E5%B1%8A%23kanji"}}
+{
+  "id": "届",
+  "kanjialiveData": {
+    "_id": "54317af9791eba5146ee4b10",
+    "_rev": "11-f15e3c428b8553386576efc7e14ac43f",
+    "rad_name_ja": "しかばね",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "todo, todoku, todokeru",
+    "meaning": "deliver, reach, report,notify",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "届く（とどく）",
+        "meaning": {
+          "english": "reach, arrive [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/todo(ku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/todo(ku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/todo(ku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "届ける（とどける）",
+        "meaning": {
+          "english": "deliver, file notice [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/todo(ku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/todo(ku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/todo(ku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "届け先（とどけさき）",
+        "meaning": {
+          "english": "receiver's address"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/todo(ku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/todo(ku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/todo(ku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "出生届け（しゅっせいとどけ）",
+        "meaning": {
+          "english": "birth registration"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/todo(ku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/todo(ku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/todo(ku)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "欠席届け（けっせきとどけ）",
+        "meaning": {
+          "english": "report of a school absence"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/todo(ku)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/todo(ku)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/todo(ku)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/todo(ku)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "とど、とどく、とどける",
+    "ka_utf": "届",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=届",
+    "rad_name_search": [
+      "shikabane"
+    ],
+    "rad_order": 53,
+    "txt_books": [
+      {
+        "chapter": "19",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtMajoFilm"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "3"
+      }
+    ],
+    "kname": "todo(ku)",
+    "rad_utf": "⼫",
+    "stroketimes": [
+      0,
+      1.333333,
+      2.466667,
+      3.733333,
+      4.933333,
+      6.6,
+      7.866667,
+      9.066667,
+      12.733333
+    ],
+    "kunyomi_ka_display": "とど",
+    "dick": "1957",
+    "rad_name": "shikabane",
+    "dicn": "1385",
+    "mn_hint": "Arrive at office 尸 to report one's reason 由.",
+    "rad_stroke": 3,
+    "onyomi_ja": "",
+    "rad_meaning": "corpse, awning",
+    "onyomi": "n/a",
+    "ka_id": "ka_571",
+    "rad_position": "tare",
+    "rad_position_ja": "たれ",
+    "rad_position_search": [
+      "tare",
+      "tare"
+    ],
+    "onyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "kunyomi_search": [
+      "todo",
+      "todoku",
+      "todokeru",
+      "todo, todoku, todokeru"
+    ],
+    "meaning_search": [
+      "deliver",
+      "reach",
+      "report",
+      "notify",
+      "deliver, reach, report,notify"
+    ],
+    "onyomi_ja_search": [
+      ""
+    ],
+    "kunyomi_ja_search": [
+      "とど",
+      "とどく",
+      "とどける",
+      "とど、とどく、とどける"
+    ],
+    "rad_meaning_search": [
+      "corpse",
+      "awning",
+      "corpse, awning"
+    ],
+    "rad_position_ja_search": [
+      "たれ",
+      "たれ"
+    ],
+    "rad_name_ja_search": [
+      "しかばね"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:19",
+      "ij:c19",
+      "mnt",
+      "mnt:2",
+      "mnt:c2",
+      "kll",
+      "kll:24",
+      "kll:c24",
+      "jt",
+      "jt:15",
+      "jt:c15",
+      "mosr",
+      "mosr:3",
+      "mosr:c3"
+    ],
+    "rad_name_file": "shikabane",
+    "kanji": {
+      "character": "届",
+      "meaning": {
+        "english": "deliver, reach, report,notify"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.333333,
+          2.466667,
+          3.733333,
+          4.933333,
+          6.6,
+          7.866667,
+          9.066667,
+          12.733333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/todo(ku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/todo(ku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/todo(ku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/todo(ku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/todo(ku)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/todo(ku)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/todo(ku)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/todo(ku)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "n/a",
+        "katakana": ""
+      },
+      "kunyomi": {
+        "romaji": "todo, todoku, todokeru",
+        "hiragana": "とど"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/todo(ku)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/todo(ku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/todo(ku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼫",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/shikabane.svg",
+      "position": {
+        "hiragana": "たれ",
+        "romaji": "tare",
+        "icon": "https://media.kanjialive.com/rad_positions/tare.svg"
+      },
+      "name": {
+        "hiragana": "しかばね",
+        "romaji": "shikabane"
+      },
+      "meaning": {
+        "english": "corpse, awning"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/shikabane0.svg",
+        "https://media.kanjialive.com/rad_frames/shikabane1.svg",
+        "https://media.kanjialive.com/rad_frames/shikabane2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1957",
+      "classic_nelson": "1385"
+    }
+  },
+  "jishoData": {
+    "query": "届",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "939",
+    "strokeCount": 8,
+    "meaning": "deliver, reach, arrive, report, notify, forward",
+    "kunyomi": [
+      "とど.ける",
+      "-とど.け",
+      "とど.く"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "届ける",
+        "reading": "とどける",
+        "meaning": "to deliver, to forward, to send, to report, to notify, to file notice (to the authorities), to give notice, to register"
+      },
+      {
+        "example": "届く",
+        "reading": "とどく",
+        "meaning": "to reach, to touch, to get to, to carry (of sound), to be delivered, to arrive, to be attentive, to be scrupulous, to be thorough, to be realized (of a desire), to be fulfilled, to get through (to someone), to be appreciated, to make an impression"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "尸",
+      "日",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23626_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4a.gif",
+    "uri": "https://jisho.org/search/%E5%B1%8A%23kanji"
+  }
+}

@@ -1,1 +1,70 @@
-{"id":"慧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"慧","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2168","strokeCount":15,"meaning":"wise","kunyomi":["さとい"],"onyomi":["ケイ","エ"],"onyomiExamples":[{"example":"慧眼","reading":"ケイガン","meaning":"discerning (quick) eye, keen insight"},{"example":"慧敏","reading":"ケイビン","meaning":"clever, of quick intellect"},{"example":"恵","reading":"エ","meaning":"wisdom, enlightenment, prajñā (one of the three divisions of the noble eightfold path), wisdom"},{"example":"慧眼","reading":"エゲン","meaning":"the wisdom eye"},{"example":"遅知恵","reading":"オソヂエ","meaning":"delayed mental development, cognitive delay, late-developing intelligence, hindsight, wisdom after the event"},{"example":"入れ知恵","reading":"イレヂエ","meaning":"putting an idea into someone's head, suggestion, hint"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ヨ","一","心","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24935_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06167.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6167.gif","uri":"https://jisho.org/search/%E6%85%A7%23kanji"}}
+{
+  "id": "慧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慧",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2168",
+    "strokeCount": 15,
+    "meaning": "wise",
+    "kunyomi": [
+      "さとい"
+    ],
+    "onyomi": [
+      "ケイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慧眼",
+        "reading": "ケイガン",
+        "meaning": "keen eye, quick eye, sharp eye, keen insight, keen perception"
+      },
+      {
+        "example": "慧敏",
+        "reading": "ケイビン",
+        "meaning": "clever, of quick intellect"
+      },
+      {
+        "example": "恵",
+        "reading": "エ",
+        "meaning": "wisdom, enlightenment, prajñā (one of the three divisions of the noble eightfold path), wisdom"
+      },
+      {
+        "example": "慧眼",
+        "reading": "エゲン",
+        "meaning": "the wisdom eye"
+      },
+      {
+        "example": "浅知恵",
+        "reading": "アサヂエ",
+        "meaning": "shallow thinking, superficial view, insufficient consideration"
+      },
+      {
+        "example": "遅知恵",
+        "reading": "オソヂエ",
+        "meaning": "delayed mental development, cognitive delay, late-developing intelligence, hindsight, wisdom after the event"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ヨ",
+      "一",
+      "心",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24935_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06167.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6167.gif",
+    "uri": "https://jisho.org/search/%E6%85%A7%23kanji"
+  }
+}

@@ -1,1 +1,59 @@
-{"id":"弑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"弑","found":true,"strokeCount":12,"meaning":"murder one's lord or father","kunyomi":["しい.する"],"onyomi":["シ","シイ"],"onyomiExamples":[{"example":"弑逆","reading":"シギャク","meaning":"murder of one's own lord or father"},{"example":"弑逆","reading":"シギャク","meaning":"murder of one's own lord or father"}],"kunyomiExamples":[],"radical":{"symbol":"弋","meaning":"shoot, arrow"},"parts":["工","弋","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24337_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f11.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f11.gif","uri":"https://jisho.org/search/%E5%BC%91%23kanji"}}
+{
+  "id": "弑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弑",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "murder one's lord or father",
+    "kunyomi": [
+      "しい.する"
+    ],
+    "onyomi": [
+      "シ",
+      "シイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弑逆",
+        "reading": "シギャク",
+        "meaning": "murder of one's lord or father"
+      },
+      {
+        "example": "弑する",
+        "reading": "シイスル",
+        "meaning": "to kill (one's master, king, father, etc.), to murder, to assassinate"
+      },
+      {
+        "example": "弑逆",
+        "reading": "シギャク",
+        "meaning": "murder of one's lord or father"
+      },
+      {
+        "example": "弑する",
+        "reading": "シイスル",
+        "meaning": "to kill (one's master, king, father, etc.), to murder, to assassinate"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弑する",
+        "reading": "しいする",
+        "meaning": "to kill (one's master, king, father, etc.), to murder, to assassinate"
+      }
+    ],
+    "radical": {
+      "symbol": "弋",
+      "meaning": "shoot, arrow"
+    },
+    "parts": [
+      "工",
+      "弋",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24337_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f11.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f11.gif",
+    "uri": "https://jisho.org/search/%E5%BC%91%23kanji"
+  }
+}

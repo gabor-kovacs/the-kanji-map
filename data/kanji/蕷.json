@@ -1,1 +1,50 @@
-{"id":"蕷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蕷","found":true,"strokeCount":16,"meaning":"yam","kunyomi":["いも"],"onyomi":["ヨ"],"onyomiExamples":[{"example":"山の芋","reading":"ヤマノイモ","meaning":"Japanese yam (Dioscorea japonica)"}],"kunyomiExamples":[{"example":"山の芋","reading":"やまのいも","meaning":"Japanese yam (Dioscorea japonica)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ハ","亅","目","矛","艾","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34167_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08577.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8577.gif","uri":"https://jisho.org/search/%E8%95%B7%23kanji"}}
+{
+  "id": "蕷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕷",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "yam",
+    "kunyomi": [
+      "いも"
+    ],
+    "onyomi": [
+      "ヨ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "山の芋",
+        "reading": "ヤマノイモ",
+        "meaning": "Japanese yam (Dioscorea japonica)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "山の芋",
+        "reading": "やまのいも",
+        "meaning": "Japanese yam (Dioscorea japonica)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ハ",
+      "亅",
+      "目",
+      "矛",
+      "艾",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34167_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08577.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8577.gif",
+    "uri": "https://jisho.org/search/%E8%95%B7%23kanji"
+  }
+}

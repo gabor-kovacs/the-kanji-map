@@ -1,1 +1,65 @@
-{"id":"催","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"催","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"536","strokeCount":13,"meaning":"sponsor, hold (a meeting), give (a dinner)","kunyomi":["もよう.す","もよお.す"],"onyomi":["サイ"],"onyomiExamples":[{"example":"催涙","reading":"サイルイ","meaning":"tear-inducing"},{"example":"催促","reading":"サイソク","meaning":"pressing, urging, demanding, demand"},{"example":"共催","reading":"キョウサイ","meaning":"joint sponsorship (of an event), cosponsorship, joint hosting"},{"example":"併催","reading":"ヘイサイ","meaning":"combining a pair of events, joint"}],"kunyomiExamples":[{"example":"催す","reading":"もよおす","meaning":"to hold (an event), to give (a dinner, party, etc.), to feel (sensation, emotion, call of nature, etc.), to show signs of"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","山","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20652_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ac.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ac.gif","uri":"https://jisho.org/search/%E5%82%AC%23kanji"}}
+{
+  "id": "催",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "催",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "536",
+    "strokeCount": 13,
+    "meaning": "sponsor, hold (a meeting), give (a dinner)",
+    "kunyomi": [
+      "もよう.す",
+      "もよお.す"
+    ],
+    "onyomi": [
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "催涙",
+        "reading": "サイルイ",
+        "meaning": "tear-inducing"
+      },
+      {
+        "example": "催促",
+        "reading": "サイソク",
+        "meaning": "pressing, urging, demanding, demand"
+      },
+      {
+        "example": "共催",
+        "reading": "キョウサイ",
+        "meaning": "joint sponsorship (of an event), cosponsorship, joint hosting"
+      },
+      {
+        "example": "併催",
+        "reading": "ヘイサイ",
+        "meaning": "combining a pair of events, joint"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "催す",
+        "reading": "もよおす",
+        "meaning": "to hold (an event), to give (a dinner, party, etc.), to feel (sensation, emotion, call of nature, etc.), to show signs of"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "山",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20652_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ac.gif",
+    "uri": "https://jisho.org/search/%E5%82%AC%23kanji"
+  }
+}

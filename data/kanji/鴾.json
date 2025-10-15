@@ -1,1 +1,32 @@
-{"id":"鴾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鴾","found":true,"strokeCount":17,"meaning":"crested ibis","kunyomi":["とき"],"onyomi":["ボウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["厶","杰","牛","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40254_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d3e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d3e.gif","uri":"https://jisho.org/search/%E9%B4%BE%23kanji"}}
+{
+  "id": "鴾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鴾",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "crested ibis",
+    "kunyomi": [
+      "とき"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "厶",
+      "杰",
+      "牛",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40254_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d3e.gif",
+    "uri": "https://jisho.org/search/%E9%B4%BE%23kanji"
+  }
+}

@@ -1,1 +1,70 @@
-{"id":"屍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"屍","found":true,"strokeCount":9,"meaning":"corpse","kunyomi":["しかばね"],"onyomi":["シ"],"onyomiExamples":[{"example":"屍","reading":"シカバネ","meaning":"corpse, kanji \"corpse\" radical"},{"example":"死体","reading":"シタイ","meaning":"dead body, corpse, cadaver, carcass"},{"example":"検視","reading":"ケンシ","meaning":"autopsy, inquest, investigation of death"},{"example":"死屍","reading":"シシ","meaning":"corpse"}],"kunyomiExamples":[{"example":"屍","reading":"しかばね","meaning":"corpse, kanji \"corpse\" radical"},{"example":"屍を晒す","reading":"しかばねをさらす","meaning":"to die on the battlefield"},{"example":"生ける屍","reading":"いけるしかばね","meaning":"living corpse"}],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["一","匕","夕","尸","歹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23629_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4d.gif","uri":"https://jisho.org/search/%E5%B1%8D%23kanji"}}
+{
+  "id": "屍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屍",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "corpse",
+    "kunyomi": [
+      "しかばね"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "屍",
+        "reading": "シカバネ",
+        "meaning": "corpse, kanji \"corpse\" radical"
+      },
+      {
+        "example": "死体",
+        "reading": "シタイ",
+        "meaning": "dead body, corpse, cadaver, carcass"
+      },
+      {
+        "example": "死屍",
+        "reading": "シシ",
+        "meaning": "corpse"
+      },
+      {
+        "example": "検死",
+        "reading": "ケンシ",
+        "meaning": "autopsy, post-mortem (examination), (coroner's) inquest, examination of a body to determine if a crime has been committed"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "屍",
+        "reading": "しかばね",
+        "meaning": "corpse, kanji \"corpse\" radical"
+      },
+      {
+        "example": "屍をさらす",
+        "reading": "しかばねをさらす",
+        "meaning": "to die on the battlefield"
+      },
+      {
+        "example": "生ける屍",
+        "reading": "いけるしかばね",
+        "meaning": "living corpse"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "一",
+      "匕",
+      "夕",
+      "尸",
+      "歹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23629_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4d.gif",
+    "uri": "https://jisho.org/search/%E5%B1%8D%23kanji"
+  }
+}

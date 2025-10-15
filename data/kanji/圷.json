@@ -1,1 +1,35 @@
-{"id":"圷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"圷","found":true,"strokeCount":6,"meaning":"low-lying land, (kokuji)","kunyomi":["あくつ"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["一","卜","土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22327_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05737.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5737.gif","uri":"https://jisho.org/search/%E5%9C%B7%23kanji"}}
+{
+  "id": "圷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "圷",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "low-lying land, (kokuji)",
+    "kunyomi": [
+      "あくつ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "圷ねぎ",
+        "reading": "あくつねぎ",
+        "meaning": "red variety of Welsh onion grown in Ibaraki Prefecture"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "一",
+      "卜",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22327_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05737.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5737.gif",
+    "uri": "https://jisho.org/search/%E5%9C%B7%23kanji"
+  }
+}

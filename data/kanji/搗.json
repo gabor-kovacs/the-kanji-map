@@ -1,1 +1,57 @@
-{"id":"搗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"搗","found":true,"strokeCount":13,"meaning":"pound, husk","kunyomi":["つ.く","か.つ"],"onyomi":["トウ"],"onyomiExamples":[{"example":"搗鉱機","reading":"トウコウキ","meaning":"stamp mill, stamping mill, stamp battery"},{"example":"搗精","reading":"トウセイ","meaning":"rice polishing (removing the shell of brown rice to leave white rice)"}],"kunyomiExamples":[{"example":"搗く","reading":"つく","meaning":"to hull (rice, barley, etc.), to pound (rice), to polish (rice), to stamp (ore)"},{"example":"褐色","reading":"かちいろ","meaning":"dark indigo (almost black)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["山","扎","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25623_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06417.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6417.gif","uri":"https://jisho.org/search/%E6%90%97%23kanji"}}
+{
+  "id": "搗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "搗",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "pound, husk",
+    "kunyomi": [
+      "つ.く",
+      "か.つ"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "搗鉱機",
+        "reading": "トウコウキ",
+        "meaning": "stamp mill, stamping mill, stamp battery"
+      },
+      {
+        "example": "搗精",
+        "reading": "トウセイ",
+        "meaning": "rice polishing (removing the shell of brown rice to leave white rice)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "搗く",
+        "reading": "つく",
+        "meaning": "to hull (rice, barley, etc.), to pound (rice), to polish (rice), to stamp (ore)"
+      },
+      {
+        "example": "褐色",
+        "reading": "かちいろ",
+        "meaning": "dark indigo (almost black)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "山",
+      "扎",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25623_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06417.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6417.gif",
+    "uri": "https://jisho.org/search/%E6%90%97%23kanji"
+  }
+}

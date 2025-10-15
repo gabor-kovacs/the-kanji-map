@@ -1,1 +1,38 @@
-{"id":"晰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"晰","found":true,"strokeCount":12,"meaning":"clear","kunyomi":["あきらか"],"onyomi":["シャク","セキ"],"onyomiExamples":[{"example":"明晰","reading":"メイセキ","meaning":"clear, distinct"}],"kunyomiExamples":[],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["斤","日","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26224_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06670.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6670.gif","uri":"https://jisho.org/search/%E6%99%B0%23kanji"}}
+{
+  "id": "晰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "晰",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "clear",
+    "kunyomi": [
+      "あきらか"
+    ],
+    "onyomi": [
+      "シャク",
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "明晰",
+        "reading": "メイセキ",
+        "meaning": "clear, distinct"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "斤",
+      "日",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26224_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06670.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6670.gif",
+    "uri": "https://jisho.org/search/%E6%99%B0%23kanji"
+  }
+}

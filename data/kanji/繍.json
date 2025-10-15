@@ -1,1 +1,60 @@
-{"id":"繍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"繍","found":true,"strokeCount":17,"meaning":"sew, figured cloth","kunyomi":["ぬいとり"],"onyomi":["シュウ"],"onyomiExamples":[{"example":"繍衣","reading":"シュウイ","meaning":"embroidered clothing"},{"example":"繍匠","reading":"シュウショウ","meaning":"embroiderer"},{"example":"メリヤス刺繍","reading":"メリヤスシシュウ","meaning":"embroidery on wool, Swiss darning, duplicate stitch"},{"example":"フランス刺繍","reading":"フランスシシュウ","meaning":"embroidery"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["ノ","ヨ","小","幺","水","糸","隶","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32333_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e4d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e4d.gif","uri":"https://jisho.org/search/%E7%B9%8D%23kanji"}}
+{
+  "id": "繍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "繍",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "sew, figured cloth",
+    "kunyomi": [
+      "ぬいとり"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "繍衣",
+        "reading": "シュウイ",
+        "meaning": "embroidered clothing"
+      },
+      {
+        "example": "繍匠",
+        "reading": "シュウショウ",
+        "meaning": "embroiderer"
+      },
+      {
+        "example": "メリヤス刺繍",
+        "reading": "メリヤスシシュウ",
+        "meaning": "embroidery on wool, Swiss darning, duplicate stitch"
+      },
+      {
+        "example": "フランス刺繍",
+        "reading": "フランスシシュウ",
+        "meaning": "embroidery"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "ノ",
+      "ヨ",
+      "小",
+      "幺",
+      "水",
+      "糸",
+      "隶",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32333_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e4d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e4d.gif",
+    "uri": "https://jisho.org/search/%E7%B9%8D%23kanji"
+  }
+}

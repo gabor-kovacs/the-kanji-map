@@ -1,1 +1,36 @@
-{"id":"毆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"毆","found":true,"strokeCount":15,"meaning":"beat, fight with fists, hit, to strike, brawl","kunyomi":["なぐ.る","たた.く"],"onyomi":["オウ","ク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"殳","meaning":"weapon, lance"},"parts":["几","匚","又","口","品","殳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27590_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bc6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bc6.gif","uri":"https://jisho.org/search/%E6%AF%86%23kanji"}}
+{
+  "id": "毆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "毆",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "beat, fight with fists, hit, to strike, brawl",
+    "kunyomi": [
+      "なぐ.る",
+      "たた.く"
+    ],
+    "onyomi": [
+      "オウ",
+      "ク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "殳",
+      "meaning": "weapon, lance"
+    },
+    "parts": [
+      "几",
+      "匚",
+      "又",
+      "口",
+      "品",
+      "殳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27590_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bc6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bc6.gif",
+    "uri": "https://jisho.org/search/%E6%AF%86%23kanji"
+  }
+}

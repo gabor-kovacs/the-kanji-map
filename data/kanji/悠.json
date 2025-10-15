@@ -1,1 +1,50 @@
-{"id":"悠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"悠","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1921","strokeCount":11,"meaning":"permanence, distant, long time, leisure","kunyomi":[],"onyomi":["ユウ"],"onyomiExamples":[{"example":"悠","reading":"ユウ","meaning":"quiet, calm, leisurely, composed, distant, far-off, boundless, endless, eternal"},{"example":"悠々","reading":"ユウユウ","meaning":"quiet, calm, leisurely, composed, easily, comfortably, without difficulty, distant, far-off, boundless, endless, eternal"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["乞","化","夂","心","攵","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24736_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a0.gif","uri":"https://jisho.org/search/%E6%82%A0%23kanji"}}
+{
+  "id": "悠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悠",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1921",
+    "strokeCount": 11,
+    "meaning": "permanence, distant, long time, leisure",
+    "kunyomi": [],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悠",
+        "reading": "ユウ",
+        "meaning": "quiet, calm, leisurely, composed, distant, far-off, boundless, endless, eternal"
+      },
+      {
+        "example": "悠々",
+        "reading": "ユウユウ",
+        "meaning": "quiet, calm, leisurely, composed, easily, comfortably, without difficulty, distant, far-off, boundless, endless, eternal"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "乞",
+      "化",
+      "夂",
+      "心",
+      "攵",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24736_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a0.gif",
+    "uri": "https://jisho.org/search/%E6%82%A0%23kanji"
+  }
+}

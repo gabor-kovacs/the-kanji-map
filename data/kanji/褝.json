@@ -1,1 +1,36 @@
-{"id":"褝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"褝","found":true,"strokeCount":14,"meaning":"thin kimono, undergarment","kunyomi":["ひとえ"],"onyomi":["タン","ゼン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["初","十","尚","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35101_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0891d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/891d.gif","uri":"https://jisho.org/search/%E8%A4%9D%23kanji"}}
+{
+  "id": "褝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "褝",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "thin kimono, undergarment",
+    "kunyomi": [
+      "ひとえ"
+    ],
+    "onyomi": [
+      "タン",
+      "ゼン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "初",
+      "十",
+      "尚",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35101_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0891d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/891d.gif",
+    "uri": "https://jisho.org/search/%E8%A4%9D%23kanji"
+  }
+}

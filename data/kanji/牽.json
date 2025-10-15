@@ -1,1 +1,52 @@
-{"id":"牽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"牽","found":true,"strokeCount":11,"meaning":"pull, tug, drag, lead by hand","kunyomi":["ひ.く"],"onyomi":["ケン"],"onyomiExamples":[{"example":"牽引","reading":"ケンイン","meaning":"traction, towing, hauling, pulling, drawing, driving (e.g. economic growth)"},{"example":"牽引車","reading":"ケンインシャ","meaning":"tractor, towing vehicle, driving force, leading role"}],"kunyomiExamples":[{"example":"引く","reading":"ひく","meaning":"to pull, to tug, to lead (e.g. a horse), to draw (attention, sympathy, etc.), to attract (e.g. interest), to draw back (e.g. one's hand), to draw in (one's chin, stomach, etc.), to pull in, to draw (a card, mahjong tile, etc.), to draw (a line, plan, etc.), to catch (a cold), to play (a stringed or keyboard instrument), to look up (in a dictionary, phone book, etc.), to consult, to check, to haul, to pull (vehicles), to subtract, to deduct, to recede, to ebb, to fade, to be descend from, to inherit (a characteristic), to quote, to cite, to raise (as evidence), to lay on (electricity, gas, etc.), to install (e.g. a telephone), to supply (e.g. water), to hold (e.g. a note), to apply (e.g. lipstick), to oil (e.g. a pan), to wax (e.g. a floor), to move back, to draw back, to recede, to lessen, to subside, to ebb, to go down (e.g. of swelling), to resign, to retire, to quit"}],"radical":{"symbol":"牛","forms":["牜"],"meaning":"cow"},"parts":["亠","冖","厶","牛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29309_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0727d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/727d.gif","uri":"https://jisho.org/search/%E7%89%BD%23kanji"}}
+{
+  "id": "牽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "牽",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "pull, tug, drag, lead by hand",
+    "kunyomi": [
+      "ひ.く"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "牽引",
+        "reading": "ケンイン",
+        "meaning": "traction, towing, hauling, pulling, drawing, driving (e.g. economic growth)"
+      },
+      {
+        "example": "牽引車",
+        "reading": "ケンインシャ",
+        "meaning": "tractor, towing vehicle, driving force, leading role"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "引く",
+        "reading": "ひく",
+        "meaning": "to pull, to tug, to lead (e.g. a horse), to draw (attention, sympathy, etc.), to attract (e.g. interest), to draw back (e.g. one's hand), to draw in (one's chin, stomach, etc.), to pull in, to draw (a card, mahjong tile, etc.), to draw (a line, plan, etc.), to catch (a cold), to play (a stringed or keyboard instrument), to look up (in a dictionary, phone book, etc.), to consult, to check, to haul, to pull (vehicles), to subtract, to deduct, to recede, to ebb, to fade, to be descend from, to inherit (a characteristic), to quote, to cite, to raise (as evidence), to lay on (electricity, gas, etc.), to install (e.g. a telephone), to supply (e.g. water), to hold (e.g. a note), to apply (e.g. lipstick), to oil (e.g. a pan), to wax (e.g. a floor), to move back, to draw back, to recede, to fall back, to retreat, to lessen, to subside, to ebb, to go down (e.g. of swelling), to resign, to retire, to quit, to be put off (by someone's words or behaviour), to be turned off, to recoil (in disgust, etc.), to cringe"
+      }
+    ],
+    "radical": {
+      "symbol": "牛",
+      "forms": [
+        "牜"
+      ],
+      "meaning": "cow"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "厶",
+      "牛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29309_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0727d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/727d.gif",
+    "uri": "https://jisho.org/search/%E7%89%BD%23kanji"
+  }
+}

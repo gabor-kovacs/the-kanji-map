@@ -1,1 +1,56 @@
-{"id":"佞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"佞","found":true,"strokeCount":7,"meaning":"flattery, insincerity","kunyomi":["おもね.る","よこしま"],"onyomi":["ネイ"],"onyomiExamples":[{"example":"佞","reading":"ネイ","meaning":"flattery, insincerity"},{"example":"佞悪","reading":"ネイアク","meaning":"perverseness, perverse person"},{"example":"便佞","reading":"ベンネイ","meaning":"flattery, adulation"},{"example":"阿諛便佞","reading":"アユベンネイ","meaning":"flattery, adulation, sycophancy"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["二","化","女"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20318_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f5e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f5e.gif","uri":"https://jisho.org/search/%E4%BD%9E%23kanji"}}
+{
+  "id": "佞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佞",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "flattery, insincerity",
+    "kunyomi": [
+      "おもね.る",
+      "よこしま"
+    ],
+    "onyomi": [
+      "ネイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "佞",
+        "reading": "ネイ",
+        "meaning": "flattery, insincerity"
+      },
+      {
+        "example": "佞悪",
+        "reading": "ネイアク",
+        "meaning": "perverseness, perverse person"
+      },
+      {
+        "example": "便佞",
+        "reading": "ベンネイ",
+        "meaning": "flattery, adulation"
+      },
+      {
+        "example": "阿諛便佞",
+        "reading": "アユベンネイ",
+        "meaning": "flattery, adulation, sycophancy"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "二",
+      "化",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20318_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f5e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f5e.gif",
+    "uri": "https://jisho.org/search/%E4%BD%9E%23kanji"
+  }
+}

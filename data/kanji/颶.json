@@ -1,1 +1,38 @@
-{"id":"颶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"颶","found":true,"strokeCount":17,"meaning":"storm","kunyomi":[],"onyomi":["グ","ク"],"onyomiExamples":[{"example":"颶風","reading":"グフウ","meaning":"tornado, hurricane, typhoon"}],"kunyomiExamples":[],"radical":{"symbol":"風","meaning":"wind"},"parts":["ハ","几","目","虫","風"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39094_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098b6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98b6.gif","uri":"https://jisho.org/search/%E9%A2%B6%23kanji"}}
+{
+  "id": "颶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "颶",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "storm",
+    "kunyomi": [],
+    "onyomi": [
+      "グ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "颶風",
+        "reading": "グフウ",
+        "meaning": "tornado, hurricane, typhoon"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "風",
+      "meaning": "wind"
+    },
+    "parts": [
+      "ハ",
+      "几",
+      "目",
+      "虫",
+      "風"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39094_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098b6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98b6.gif",
+    "uri": "https://jisho.org/search/%E9%A2%B6%23kanji"
+  }
+}

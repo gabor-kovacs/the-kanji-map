@@ -1,1 +1,49 @@
-{"id":"冏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冏","found":true,"strokeCount":7,"meaning":"light, clear, bright","kunyomi":["あきらか"],"onyomi":["ケイ","キョウ","ソウ"],"onyomiExamples":[{"example":"冏構え","reading":"ケイガマエ","meaning":"kanji radical 13 (\"upside-down box\")"}],"kunyomiExamples":[],"radical":{"symbol":"冂","meaning":"open country"},"parts":["儿","冂","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20879_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0518f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/518f.gif","uri":"https://jisho.org/search/%E5%86%8F%23kanji"}}
+{
+  "id": "冏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冏",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "light, clear, bright",
+    "kunyomi": [
+      "あきらか"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冏構え",
+        "reading": "ケイガマエ",
+        "meaning": "kanji radical 13 (\"upside-down box\")"
+      },
+      {
+        "example": "炯々",
+        "reading": "ケイケイ",
+        "meaning": "glaring (eyes), piercing, penetrating"
+      },
+      {
+        "example": "炯々",
+        "reading": "ケイケイ",
+        "meaning": "glaring (eyes), piercing, penetrating"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冂",
+      "meaning": "open country"
+    },
+    "parts": [
+      "儿",
+      "冂",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20879_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0518f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/518f.gif",
+    "uri": "https://jisho.org/search/%E5%86%8F%23kanji"
+  }
+}

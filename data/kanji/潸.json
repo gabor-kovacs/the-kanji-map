@@ -1,1 +1,39 @@
-{"id":"潸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"潸","found":true,"strokeCount":15,"meaning":"flowing of tears","kunyomi":[],"onyomi":["サン"],"onyomiExamples":[{"example":"潸然","reading":"サンゼン","meaning":"tearfully, shedding tears"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["月","木","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28536_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f78.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f78.gif","uri":"https://jisho.org/search/%E6%BD%B8%23kanji"}}
+{
+  "id": "潸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "潸",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "flowing of tears",
+    "kunyomi": [],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "潸然",
+        "reading": "サンゼン",
+        "meaning": "tearfully, shedding tears"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "月",
+      "木",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28536_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f78.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f78.gif",
+    "uri": "https://jisho.org/search/%E6%BD%B8%23kanji"
+  }
+}

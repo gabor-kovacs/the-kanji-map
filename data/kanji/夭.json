@@ -1,1 +1,55 @@
-{"id":"夭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"夭","found":true,"strokeCount":4,"meaning":"early death, calamity","kunyomi":["わか.い","わかじに","わざわい"],"onyomi":["ヨウ","オウ","カ"],"onyomiExamples":[{"example":"夭折","reading":"ヨウセツ","meaning":"premature death"},{"example":"夭死","reading":"ヨウシ","meaning":"premature death"},{"example":"中夭","reading":"チュウヨウ","meaning":"dying young"},{"example":"天変地夭","reading":"テンペンチヨウ","meaning":"natural disaster"}],"kunyomiExamples":[],"radical":{"symbol":"大","meaning":"big, very"},"parts":["ノ","大"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22829_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0592d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/592d.gif","uri":"https://jisho.org/search/%E5%A4%AD%23kanji"}}
+{
+  "id": "夭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "夭",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "early death, calamity",
+    "kunyomi": [
+      "わか.い",
+      "わかじに",
+      "わざわい"
+    ],
+    "onyomi": [
+      "ヨウ",
+      "オウ",
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "夭折",
+        "reading": "ヨウセツ",
+        "meaning": "premature death"
+      },
+      {
+        "example": "夭死",
+        "reading": "ヨウシ",
+        "meaning": "premature death"
+      },
+      {
+        "example": "中夭",
+        "reading": "チュウヨウ",
+        "meaning": "dying young"
+      },
+      {
+        "example": "天変地夭",
+        "reading": "テンペンチヨウ",
+        "meaning": "natural disaster"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "ノ",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22829_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0592d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/592d.gif",
+    "uri": "https://jisho.org/search/%E5%A4%AD%23kanji"
+  }
+}

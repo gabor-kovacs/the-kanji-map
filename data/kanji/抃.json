@@ -1,1 +1,40 @@
-{"id":"抃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"抃","found":true,"strokeCount":7,"meaning":"strike with hand","kunyomi":["う.つ"],"onyomi":["ベン"],"onyomiExamples":[{"example":"抃舞","reading":"ベンブ","meaning":"dancing and clapping one's hands with joy"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["亠","卜","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25219_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06283.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6283.gif","uri":"https://jisho.org/search/%E6%8A%83%23kanji"}}
+{
+  "id": "抃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "抃",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "strike with hand",
+    "kunyomi": [
+      "う.つ"
+    ],
+    "onyomi": [
+      "ベン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "抃舞",
+        "reading": "ベンブ",
+        "meaning": "dancing and clapping one's hands with joy"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "亠",
+      "卜",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25219_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06283.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6283.gif",
+    "uri": "https://jisho.org/search/%E6%8A%83%23kanji"
+  }
+}

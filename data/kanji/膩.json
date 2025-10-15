@@ -1,1 +1,56 @@
-{"id":"膩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膩","found":true,"strokeCount":16,"meaning":"smooth, oily","kunyomi":["あぶら","あぶらあか"],"onyomi":["ジ","ニ"],"onyomiExamples":[{"example":"垢膩","reading":"コウジ","meaning":"dirt and grease, filth, grime"},{"example":"垢膩","reading":"コウジ","meaning":"dirt and grease, filth, grime"}],"kunyomiExamples":[{"example":"脂","reading":"あぶら","meaning":"fat, tallow, lard, grease"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["ハ","二","弋","月","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33193_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a9.gif","uri":"https://jisho.org/search/%E8%86%A9%23kanji"}}
+{
+  "id": "膩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膩",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "smooth, oily",
+    "kunyomi": [
+      "あぶら",
+      "あぶらあか"
+    ],
+    "onyomi": [
+      "ジ",
+      "ニ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "垢膩",
+        "reading": "コウジ",
+        "meaning": "dirt and grease, filth, grime"
+      },
+      {
+        "example": "垢膩",
+        "reading": "コウジ",
+        "meaning": "dirt and grease, filth, grime"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脂",
+        "reading": "あぶら",
+        "meaning": "fat, tallow, lard, grease"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "弋",
+      "月",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33193_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a9.gif",
+    "uri": "https://jisho.org/search/%E8%86%A9%23kanji"
+  }
+}

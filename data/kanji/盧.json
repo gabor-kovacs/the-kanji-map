@@ -1,1 +1,49 @@
-{"id":"盧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"盧","found":true,"newspaperFrequencyRank":"1483","strokeCount":16,"meaning":"hut","kunyomi":[],"onyomi":["ロ"],"onyomiExamples":[{"example":"盧溝橋","reading":"ロコウキョウ","meaning":"Marco Polo Bridge (China)"},{"example":"盧溝橋事件","reading":"ロコウキョウジケン","meaning":"Marco Polo Bridge Incident (July 7, 1937)"},{"example":"葫蘆","reading":"コロ","meaning":"calabash (Lagenaria siceraria)"}],"kunyomiExamples":[],"radical":{"symbol":"皿","meaning":"dish"},"parts":["匕","卜","厂","田","皿","虍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30439_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076e7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76e7.gif","uri":"https://jisho.org/search/%E7%9B%A7%23kanji"}}
+{
+  "id": "盧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "盧",
+    "found": true,
+    "newspaperFrequencyRank": "1483",
+    "strokeCount": 16,
+    "meaning": "hut",
+    "kunyomi": [],
+    "onyomi": [
+      "ロ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "盧溝橋",
+        "reading": "ロコウキョウ",
+        "meaning": "Marco Polo Bridge (China)"
+      },
+      {
+        "example": "盧溝橋事件",
+        "reading": "ロコウキョウジケン",
+        "meaning": "Marco Polo Bridge Incident (July 7, 1937)"
+      },
+      {
+        "example": "葫蘆",
+        "reading": "コロ",
+        "meaning": "calabash (Lagenaria siceraria)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "皿",
+      "meaning": "dish"
+    },
+    "parts": [
+      "匕",
+      "卜",
+      "厂",
+      "田",
+      "皿",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30439_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076e7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76e7.gif",
+    "uri": "https://jisho.org/search/%E7%9B%A7%23kanji"
+  }
+}

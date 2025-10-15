@@ -1,1 +1,309 @@
-{"id":"怖","kanjialiveData":{"kanji":{"character":"怖","meaning":{"english":"fearful, scary"},"strokes":{"count":8,"timings":[0,1.408333,2.2,4.733333,6,7.133333,8.066667,10.2,13.333333],"images":["https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_1.svg","https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_2.svg","https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_3.svg","https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_4.svg","https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_5.svg","https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_6.svg","https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_7.svg","https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_8.svg"]},"onyomi":{"romaji":"fu","katakana":"フ"},"kunyomi":{"romaji":"kowa, kowai, kowagaru","hiragana":"こわ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/fu-kowa(i)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/fu-kowa(i)_00.webm"}},"radical":{"character":"⺖","strokes":3,"image":"https://media.kanjialive.com/radical_character/risshinben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"りっしんべん","romaji":"risshinben"},"meaning":{"english":"heart, mind, spirit"},"animation":["https://media.kanjialive.com/rad_frames/risshinben0.svg","https://media.kanjialive.com/rad_frames/risshinben1.svg","https://media.kanjialive.com/rad_frames/risshinben2.svg"]},"references":{"grade":null,"kodansha":"219","classic_nelson":"1662"},"examples":[{"japanese":"恐怖（きょうふ）","meaning":{"english":"terror"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-kowa(i)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-kowa(i)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-kowa(i)_06_a.mp3"}},{"japanese":"恐怖症（きょうふしょう）","meaning":{"english":"phobia"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-kowa(i)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-kowa(i)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-kowa(i)_06_b.mp3"}},{"japanese":"怖い（こわい）","meaning":{"english":"scary, frightening [adj.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-kowa(i)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-kowa(i)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-kowa(i)_06_c.mp3"}},{"japanese":"怖がる（こわがる）","meaning":{"english":"be afraid of, fear [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-kowa(i)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-kowa(i)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-kowa(i)_06_d.mp3"}}]},"jishoData":{"query":"怖","found":true,"taughtIn":"junior high","jlptLevel":"N3","newspaperFrequencyRank":"1325","strokeCount":8,"meaning":"dreadful, be frightened, fearful","kunyomi":["こわ.い","こわ.がる","お.じる","おそ.れる"],"onyomi":["フ","ホ"],"onyomiExamples":[{"example":"畏怖","reading":"イフ","meaning":"awe, fear, dread, fright"},{"example":"死の恐怖","reading":"シノキョウフ","meaning":"fear of death"}],"kunyomiExamples":[{"example":"怖い","reading":"こわい","meaning":"scary, frightening, eerie, dreadful"},{"example":"怖い顔","reading":"こわいかお","meaning":"grim face, angry look"},{"example":"怖がる","reading":"こわがる","meaning":"to be afraid of, to fear, to dread, to be nervous (about), to be shy (of)"},{"example":"怖じる","reading":"おじる","meaning":"to be scared"},{"example":"恐れる","reading":"おそれる","meaning":"to fear, to be afraid of"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ノ","一","巾","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24598_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06016.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6016.gif","uri":"https://jisho.org/search/%E6%80%96%23kanji"}}
+{
+  "id": "怖",
+  "kanjialiveData": {
+    "_id": "54317af9791eba5146ee4b13",
+    "_rev": "11-71c54abb6d24d52c7fd2736d347aa93b",
+    "rad_name_ja": "りっしんべん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "kowa, kowai, kowagaru",
+    "meaning": "fearful, scary",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "恐怖（きょうふ）",
+        "meaning": {
+          "english": "terror"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-kowa(i)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-kowa(i)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-kowa(i)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "恐怖症（きょうふしょう）",
+        "meaning": {
+          "english": "phobia"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-kowa(i)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-kowa(i)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-kowa(i)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "怖い（こわい）",
+        "meaning": {
+          "english": "scary, frightening [adj.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-kowa(i)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-kowa(i)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-kowa(i)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "怖がる（こわがる）",
+        "meaning": {
+          "english": "be afraid of, fear [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-kowa(i)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-kowa(i)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-kowa(i)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-kowa(i)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "こわ、こわい、こわがる",
+    "ka_utf": "怖",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=怖",
+    "kname": "fu-kowa(i)",
+    "rad_order": 79,
+    "txt_books": [
+      {
+        "chapter": "12",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtMajoFilm"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "risshinben"
+    ],
+    "rad_utf": "⺖",
+    "stroketimes": [
+      0,
+      1.408333,
+      2.2,
+      4.733333,
+      6,
+      7.133333,
+      8.066667,
+      10.2,
+      13.333333
+    ],
+    "kunyomi_ka_display": "こわ",
+    "dick": "219",
+    "rad_name": "risshinben",
+    "dicn": "1662",
+    "mn_hint": "Scary 忄 <span class='note'>(orig. \"heart\")</span> mummy wrapped in cloth 布.",
+    "rad_stroke": 3,
+    "onyomi_ja": "フ",
+    "rad_meaning": "heart, mind, spirit",
+    "onyomi": "fu",
+    "ka_id": "ka_574",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "fu",
+      "fu"
+    ],
+    "kunyomi_search": [
+      "kowa",
+      "kowai",
+      "kowagaru",
+      "kowa, kowai, kowagaru"
+    ],
+    "meaning_search": [
+      "fearful",
+      "scary",
+      "fearful, scary"
+    ],
+    "onyomi_ja_search": [
+      "フ",
+      "フ"
+    ],
+    "kunyomi_ja_search": [
+      "こわ",
+      "こわい",
+      "こわがる",
+      "こわ、こわい、こわがる"
+    ],
+    "rad_meaning_search": [
+      "heart",
+      "mind",
+      "spirit",
+      "heart, mind, spirit"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "りっしんべん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:12",
+      "ij:c12",
+      "mnt",
+      "mnt:3",
+      "mnt:c3",
+      "jtr",
+      "jtr:8",
+      "jtr:c8"
+    ],
+    "rad_name_file": "risshinben",
+    "kanji": {
+      "character": "怖",
+      "meaning": {
+        "english": "fearful, scary"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.408333,
+          2.2,
+          4.733333,
+          6,
+          7.133333,
+          8.066667,
+          10.2,
+          13.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "fu",
+        "katakana": "フ"
+      },
+      "kunyomi": {
+        "romaji": "kowa, kowai, kowagaru",
+        "hiragana": "こわ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/fu-kowa(i)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/fu-kowa(i)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/fu-kowa(i)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺖",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/risshinben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "りっしんべん",
+        "romaji": "risshinben"
+      },
+      "meaning": {
+        "english": "heart, mind, spirit"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/risshinben0.svg",
+        "https://media.kanjialive.com/rad_frames/risshinben1.svg",
+        "https://media.kanjialive.com/rad_frames/risshinben2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "219",
+      "classic_nelson": "1662"
+    }
+  },
+  "jishoData": {
+    "query": "怖",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "1325",
+    "strokeCount": 8,
+    "meaning": "dreadful, be frightened, fearful",
+    "kunyomi": [
+      "こわ.い",
+      "こわ.がる",
+      "お.じる",
+      "おそ.れる"
+    ],
+    "onyomi": [
+      "フ",
+      "ホ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "畏怖",
+        "reading": "イフ",
+        "meaning": "awe, fear, dread, fright"
+      },
+      {
+        "example": "衝撃と畏怖",
+        "reading": "ショウゲキトイフ",
+        "meaning": "shock and awe"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "怖い",
+        "reading": "こわい",
+        "meaning": "scary, frightening, eerie, dreadful"
+      },
+      {
+        "example": "怖い顔",
+        "reading": "こわいかお",
+        "meaning": "grim face, angry look"
+      },
+      {
+        "example": "怖がる",
+        "reading": "こわがる",
+        "meaning": "to be afraid (of), to fear, to be frightened (of), to be scared (of), to worry (about)"
+      },
+      {
+        "example": "怖じる",
+        "reading": "おじる",
+        "meaning": "to be scared"
+      },
+      {
+        "example": "恐れる",
+        "reading": "おそれる",
+        "meaning": "to fear, to be afraid of"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "巾",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24598_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06016.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6016.gif",
+    "uri": "https://jisho.org/search/%E6%80%96%23kanji"
+  }
+}

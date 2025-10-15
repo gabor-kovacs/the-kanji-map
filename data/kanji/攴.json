@@ -1,1 +1,30 @@
-{"id":"攴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"攴","found":true,"strokeCount":4,"meaning":"strike, hit, folding chair radical (no. 66)","kunyomi":[],"onyomi":["ホク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"攴","forms":["攵"],"meaning":"rap"},"parts":["攵"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25908_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06534.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6534.gif","uri":"https://jisho.org/search/%E6%94%B4%23kanji"}}
+{
+  "id": "攴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "攴",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "strike, hit, folding chair radical (no. 66)",
+    "kunyomi": [],
+    "onyomi": [
+      "ホク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25908_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06534.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6534.gif",
+    "uri": "https://jisho.org/search/%E6%94%B4%23kanji"
+  }
+}

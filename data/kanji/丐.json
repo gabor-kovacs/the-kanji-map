@@ -1,1 +1,38 @@
-{"id":"丐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"丐","found":true,"strokeCount":4,"meaning":"beggar, beg, give","kunyomi":["こ.う"],"onyomi":["カイ"],"onyomiExamples":[{"example":"乞丐","reading":"コツガイ","meaning":"beggar, bum"}],"kunyomiExamples":[],"radical":{"symbol":"一","meaning":"one"},"parts":["一","弓","止","疋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/19984_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e10.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e10.gif","uri":"https://jisho.org/search/%E4%B8%90%23kanji"}}
+{
+  "id": "丐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "丐",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "beggar, beg, give",
+    "kunyomi": [
+      "こ.う"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "乞丐",
+        "reading": "コツガイ",
+        "meaning": "beggar, bum"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "一",
+      "meaning": "one"
+    },
+    "parts": [
+      "一",
+      "弓",
+      "止",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/19984_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e10.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e10.gif",
+    "uri": "https://jisho.org/search/%E4%B8%90%23kanji"
+  }
+}

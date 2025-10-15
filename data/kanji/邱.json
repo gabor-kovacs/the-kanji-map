@@ -1,1 +1,40 @@
-{"id":"邱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"邱","found":true,"strokeCount":8,"meaning":"hill","kunyomi":["おか"],"onyomi":["キュウ"],"onyomiExamples":[{"example":"大邱","reading":"テグ","meaning":"Daegu (South Korea)"}],"kunyomiExamples":[],"radical":{"symbol":"邑","forms":["阝"],"meaning":"town (阝 right)"},"parts":["一","斤","邦"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37041_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090b1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90b1.gif","uri":"https://jisho.org/search/%E9%82%B1%23kanji"}}
+{
+  "id": "邱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "邱",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "hill",
+    "kunyomi": [
+      "おか"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "大邱",
+        "reading": "テグ",
+        "meaning": "Daegu (South Korea)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "邑",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "town (阝 right)"
+    },
+    "parts": [
+      "一",
+      "斤",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37041_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090b1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90b1.gif",
+    "uri": "https://jisho.org/search/%E9%82%B1%23kanji"
+  }
+}

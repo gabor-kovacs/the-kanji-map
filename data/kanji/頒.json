@@ -1,1 +1,54 @@
-{"id":"頒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"頒","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2287","strokeCount":13,"meaning":"distribute, disseminate, partition, understand","kunyomi":["わ.かつ","わ.ける"],"onyomi":["ハン"],"onyomiExamples":[{"example":"頒布","reading":"ハンプ","meaning":"distribution, circulation"},{"example":"頒価","reading":"ハンカ","meaning":"distribution price"}],"kunyomiExamples":[],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ハ","刀","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38930_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09812.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9812.gif","uri":"https://jisho.org/search/%E9%A0%92%23kanji"}}
+{
+  "id": "頒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頒",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2287",
+    "strokeCount": 13,
+    "meaning": "distribute, disseminate, partition, understand",
+    "kunyomi": [
+      "わ.かつ",
+      "わ.ける"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頒布",
+        "reading": "ハンプ",
+        "meaning": "distribution, circulation"
+      },
+      {
+        "example": "頒価",
+        "reading": "ハンカ",
+        "meaning": "distribution price"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "分ける",
+        "reading": "わける",
+        "meaning": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ハ",
+      "刀",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38930_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09812.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9812.gif",
+    "uri": "https://jisho.org/search/%E9%A0%92%23kanji"
+  }
+}

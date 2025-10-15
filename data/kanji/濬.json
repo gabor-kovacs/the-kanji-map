@@ -1,1 +1,38 @@
-{"id":"濬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"濬","found":true,"strokeCount":17,"meaning":"deep, dredge","kunyomi":["さら.う"],"onyomi":["シュン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ハ","个","冖","卜","汁","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28652_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fec.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fec.gif","uri":"https://jisho.org/search/%E6%BF%AC%23kanji"}}
+{
+  "id": "濬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "濬",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "deep, dredge",
+    "kunyomi": [
+      "さら.う"
+    ],
+    "onyomi": [
+      "シュン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ハ",
+      "个",
+      "冖",
+      "卜",
+      "汁",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28652_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fec.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fec.gif",
+    "uri": "https://jisho.org/search/%E6%BF%AC%23kanji"
+  }
+}

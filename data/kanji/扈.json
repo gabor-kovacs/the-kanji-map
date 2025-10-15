@@ -1,1 +1,54 @@
-{"id":"扈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"扈","found":true,"strokeCount":11,"meaning":"follow","kunyomi":["したが.う"],"onyomi":["コ"],"onyomiExamples":[{"example":"扈従","reading":"コショウ","meaning":"attendance"},{"example":"跋扈","reading":"バッコ","meaning":"rampancy, prevalence, domination"},{"example":"横行跋扈","reading":"オウコウバッコ","meaning":"being rampant, (evildoers) roaming at will"}],"kunyomiExamples":[],"radical":{"symbol":"戶","forms":["户","戸"],"meaning":"door, house"},"parts":["一","口","尸","巴","戸","邦"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25160_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06248.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6248.gif","uri":"https://jisho.org/search/%E6%89%88%23kanji"}}
+{
+  "id": "扈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "扈",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "follow",
+    "kunyomi": [
+      "したが.う"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "扈従",
+        "reading": "コショウ",
+        "meaning": "attendance (on one's superior), accompanying"
+      },
+      {
+        "example": "跋扈",
+        "reading": "バッコ",
+        "meaning": "rampancy, prevalence, domination"
+      },
+      {
+        "example": "横行跋扈",
+        "reading": "オウコウバッコ",
+        "meaning": "being rampant, (evildoers) roaming at will"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "戶",
+      "forms": [
+        "户",
+        "戸"
+      ],
+      "meaning": "door, house"
+    },
+    "parts": [
+      "一",
+      "口",
+      "尸",
+      "巴",
+      "戸",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25160_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06248.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6248.gif",
+    "uri": "https://jisho.org/search/%E6%89%88%23kanji"
+  }
+}

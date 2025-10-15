@@ -1,1 +1,37 @@
-{"id":"穡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"穡","found":true,"strokeCount":18,"meaning":"harvest","kunyomi":[],"onyomi":["ショク"],"onyomiExamples":[{"example":"稼穡","reading":"カショク","meaning":"planting and harvesting, farming"}],"kunyomiExamples":[],"radical":{"symbol":"禾","meaning":"grain"},"parts":["人","口","囗","土","禾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31329_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a61.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a61.gif","uri":"https://jisho.org/search/%E7%A9%A1%23kanji"}}
+{
+  "id": "穡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "穡",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "harvest",
+    "kunyomi": [],
+    "onyomi": [
+      "ショク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "稼穡",
+        "reading": "カショク",
+        "meaning": "planting and harvesting, farming"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "grain"
+    },
+    "parts": [
+      "人",
+      "口",
+      "囗",
+      "土",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31329_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a61.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a61.gif",
+    "uri": "https://jisho.org/search/%E7%A9%A1%23kanji"
+  }
+}

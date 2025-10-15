@@ -1,1 +1,59 @@
-{"id":"齲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"齲","found":true,"strokeCount":24,"meaning":"decayed tooth, cavity","kunyomi":["むしば"],"onyomi":["ク","ウ"],"onyomiExamples":[{"example":"虫歯","reading":"ムシバ","meaning":"cavity, tooth decay, decayed tooth, dental caries"},{"example":"虫歯","reading":"ムシバ","meaning":"cavity, tooth decay, decayed tooth, dental caries"},{"example":"う蝕","reading":"ウショク","meaning":"dental caries, tooth decay"}],"kunyomiExamples":[{"example":"虫歯","reading":"むしば","meaning":"cavity, tooth decay, decayed tooth, dental caries"}],"radical":{"symbol":"齒","meaning":"tooth, molar"},"parts":["ノ","冂","凵","止","歯","禹","米","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40818_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f72.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f72.gif","uri":"https://jisho.org/search/%E9%BD%B2%23kanji"}}
+{
+  "id": "齲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齲",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "decayed tooth, cavity",
+    "kunyomi": [
+      "むしば"
+    ],
+    "onyomi": [
+      "ク",
+      "ウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "う歯",
+        "reading": "ウシ",
+        "meaning": "carious tooth, decayed tooth"
+      },
+      {
+        "example": "う歯",
+        "reading": "ウシ",
+        "meaning": "carious tooth, decayed tooth"
+      },
+      {
+        "example": "う蝕",
+        "reading": "ウショク",
+        "meaning": "dental caries, tooth decay"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虫歯",
+        "reading": "むしば",
+        "meaning": "tooth decay, decayed tooth, dental cavity, dental caries"
+      }
+    ],
+    "radical": {
+      "symbol": "齒",
+      "meaning": "tooth, molar"
+    },
+    "parts": [
+      "ノ",
+      "冂",
+      "凵",
+      "止",
+      "歯",
+      "禹",
+      "米",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40818_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f72.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f72.gif",
+    "uri": "https://jisho.org/search/%E9%BD%B2%23kanji"
+  }
+}

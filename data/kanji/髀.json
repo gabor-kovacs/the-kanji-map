@@ -1,1 +1,46 @@
-{"id":"髀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"髀","found":true,"strokeCount":18,"meaning":"thigh","kunyomi":["もも"],"onyomi":["ヒ","ヘイ"],"onyomiExamples":[{"example":"髀臼","reading":"ヒキュウ","meaning":"acetabulum, cotyloid cavity"},{"example":"髀肉","reading":"ヒニク","meaning":"round meat, meat from a pig's thigh (from which ham is made)"}],"kunyomiExamples":[],"radical":{"symbol":"骨","meaning":"bone"},"parts":["冂","冖","十","月","田","骨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39616_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ac0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ac0.gif","uri":"https://jisho.org/search/%E9%AB%80%23kanji"}}
+{
+  "id": "髀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "髀",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "thigh",
+    "kunyomi": [
+      "もも"
+    ],
+    "onyomi": [
+      "ヒ",
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "髀臼",
+        "reading": "ヒキュウ",
+        "meaning": "acetabulum, cotyloid cavity"
+      },
+      {
+        "example": "髀肉",
+        "reading": "ヒニク",
+        "meaning": "round meat, meat from a pig's thigh (from which ham is made)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "骨",
+      "meaning": "bone"
+    },
+    "parts": [
+      "冂",
+      "冖",
+      "十",
+      "月",
+      "田",
+      "骨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39616_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ac0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ac0.gif",
+    "uri": "https://jisho.org/search/%E9%AB%80%23kanji"
+  }
+}

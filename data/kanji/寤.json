@@ -1,1 +1,38 @@
-{"id":"寤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"寤","found":true,"strokeCount":14,"meaning":"awake, understand","kunyomi":["さ.める"],"onyomi":["ゴ"],"onyomiExamples":[{"example":"寤寐","reading":"ゴビ","meaning":"being asleep and awake"}],"kunyomiExamples":[],"radical":{"symbol":"宀","meaning":"roof"},"parts":["五","口","宀","爿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23524_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be4.gif","uri":"https://jisho.org/search/%E5%AF%A4%23kanji"}}
+{
+  "id": "寤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寤",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "awake, understand",
+    "kunyomi": [
+      "さ.める"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寤寐",
+        "reading": "ゴビ",
+        "meaning": "being asleep and awake"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "五",
+      "口",
+      "宀",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23524_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be4.gif",
+    "uri": "https://jisho.org/search/%E5%AF%A4%23kanji"
+  }
+}

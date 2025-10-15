@@ -1,1 +1,64 @@
-{"id":"闘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"闘","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"751","strokeCount":18,"meaning":"fight, war","kunyomi":["たたか.う","あらそ.う"],"onyomi":["トウ"],"onyomiExamples":[{"example":"闘士","reading":"トウシ","meaning":"fighter (for), militant, champion (of), boxer"},{"example":"闘志","reading":"トウシ","meaning":"fighting spirit, (will to) fight"},{"example":"敢闘","reading":"カントウ","meaning":"fighting bravely"},{"example":"共闘","reading":"キョウトウ","meaning":"joint struggle, common (united) front"}],"kunyomiExamples":[{"example":"戦う","reading":"たたかう","meaning":"to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against), to compete (against), to struggle (against adversities, etc.), to fight, to contend, to resist"}],"radical":{"symbol":"門","meaning":"gate"},"parts":["口","寸","并","豆","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38360_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095d8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95d8.gif","uri":"https://jisho.org/search/%E9%97%98%23kanji"}}
+{
+  "id": "闘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "闘",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "751",
+    "strokeCount": 18,
+    "meaning": "fight, war",
+    "kunyomi": [
+      "たたか.う",
+      "あらそ.う"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "闘士",
+        "reading": "トウシ",
+        "meaning": "fighter (for), militant, champion (of), boxer"
+      },
+      {
+        "example": "闘志",
+        "reading": "トウシ",
+        "meaning": "fighting spirit, (will to) fight"
+      },
+      {
+        "example": "敢闘",
+        "reading": "カントウ",
+        "meaning": "fighting bravely"
+      },
+      {
+        "example": "共闘",
+        "reading": "キョウトウ",
+        "meaning": "joint struggle, common (united) front"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "戦う",
+        "reading": "たたかう",
+        "meaning": "to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against), to compete (against), to struggle (against adversities, etc.), to fight, to contend, to resist"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "口",
+      "寸",
+      "并",
+      "豆",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38360_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95d8.gif",
+    "uri": "https://jisho.org/search/%E9%97%98%23kanji"
+  }
+}

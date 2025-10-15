@@ -1,1 +1,52 @@
-{"id":"抛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"抛","found":true,"strokeCount":7,"meaning":"hurl","kunyomi":["なげう.つ"],"onyomi":["ホウ"],"onyomiExamples":[{"example":"放る","reading":"ホウル","meaning":"to throw, to fling, to hurl, to toss, to neglect, to abandon, to leave alone, to give up on, to leave undone, to leave unfinished"},{"example":"放棄","reading":"ホウキ","meaning":"abandonment, renunciation, resignation, abdication (responsibility, right)"}],"kunyomiExamples":[{"example":"投げ打つ","reading":"なげうつ","meaning":"to throw away, to abandon, to give up, to relinquish, to lay down (one's life)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ノ","九","力","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25243_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0629b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/629b.gif","uri":"https://jisho.org/search/%E6%8A%9B%23kanji"}}
+{
+  "id": "抛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "抛",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "hurl",
+    "kunyomi": [
+      "なげう.つ"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "放る",
+        "reading": "ホウル",
+        "meaning": "to throw, to fling, to hurl, to toss, to neglect, to abandon, to leave alone, to give up on, to leave undone, to leave unfinished"
+      },
+      {
+        "example": "放棄",
+        "reading": "ホウキ",
+        "meaning": "abandonment, renouncement, renunciation, resignation, abdication, surrender, relinquishing, waiving, giving up"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "投げ打つ",
+        "reading": "なげうつ",
+        "meaning": "to throw away, to abandon, to give up, to relinquish, to lay down (one's life)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ノ",
+      "九",
+      "力",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25243_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0629b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/629b.gif",
+    "uri": "https://jisho.org/search/%E6%8A%9B%23kanji"
+  }
+}

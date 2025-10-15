@@ -1,1 +1,245 @@
-{"id":"郊","kanjialiveData":{"kanji":{"character":"郊","meaning":{"english":"suburb, outskirts"},"strokes":{"count":9,"timings":[0,0.8,2.466667,3.066667,4.066667,5.266667,6.066667,7.533333,8.733333,10.666667],"images":["https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_1.svg","https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_2.svg","https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_3.svg","https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_4.svg","https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_5.svg","https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_6.svg","https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_7.svg","https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_8.svg","https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_9.svg"]},"onyomi":{"romaji":"kou","katakana":"コウ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kou(gaijuutaku)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kou(gaijuutaku)_00.webm"}},"radical":{"character":"⻏","strokes":3,"image":"https://media.kanjialive.com/radical_character/oozato.svg","position":{"hiragana":"つくり","romaji":"tsukuri","icon":"https://media.kanjialive.com/rad_positions/tsukuri.svg"},"name":{"hiragana":"おおざと","romaji":"oozato"},"meaning":{"english":"village, country, city"},"animation":["https://media.kanjialive.com/rad_frames/oozato0.svg","https://media.kanjialive.com/rad_frames/oozato1.svg","https://media.kanjialive.com/rad_frames/oozato2.svg"]},"references":{"grade":null,"kodansha":"864","classic_nelson":"4761"},"examples":[{"japanese":"郊外（こうがい）","meaning":{"english":"suburb, outskirts"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kou(gaijuutaku)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kou(gaijuutaku)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kou(gaijuutaku)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kou(gaijuutaku)_06_a.mp3"}},{"japanese":"近郊（きんこう）","meaning":{"english":"suburbs, outskirts, neighboring"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kou(gaijuutaku)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kou(gaijuutaku)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kou(gaijuutaku)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kou(gaijuutaku)_06_b.mp3"}}]},"jishoData":{"query":"郊","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"1304","strokeCount":9,"meaning":"outskirts, suburbs, rural area","kunyomi":[],"onyomi":["コウ"],"onyomiExamples":[{"example":"郊外","reading":"コウガイ","meaning":"suburb, residential area on the outskirt of a city, commuter belt"},{"example":"郊外化","reading":"コウガイカ","meaning":"suburbanization"},{"example":"南郊","reading":"ナンコウ","meaning":"southern suburbs"},{"example":"北郊","reading":"ホッコウ","meaning":"northern suburbs"}],"kunyomiExamples":[],"radical":{"symbol":"邑","forms":["阝"],"meaning":"town (阝 right)"},"parts":["亠","父","邦"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37066_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090ca.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90ca.gif","uri":"https://jisho.org/search/%E9%83%8A%23kanji"}}
+{
+  "id": "郊",
+  "kanjialiveData": {
+    "_id": "54317ada791eba5146ee48c5",
+    "_rev": "11-a4095f81e833104eaa6e6ad845b8787e",
+    "rad_name_ja": "おおざと",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "suburb, outskirts",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "郊外（こうがい）",
+        "meaning": {
+          "english": "suburb, outskirts"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(gaijuutaku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou(gaijuutaku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou(gaijuutaku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou(gaijuutaku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "近郊（きんこう）",
+        "meaning": {
+          "english": "suburbs, outskirts, neighboring"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(gaijuutaku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou(gaijuutaku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou(gaijuutaku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou(gaijuutaku)_06_b.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "郊",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=郊",
+    "kname": "kou(gaijuutaku)",
+    "rad_order": 73,
+    "txt_books": [
+      {
+        "chapter": "5",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "oozato"
+    ],
+    "rad_utf": "⻏",
+    "stroketimes": [
+      0,
+      0.8,
+      2.466667,
+      3.066667,
+      4.066667,
+      5.266667,
+      6.066667,
+      7.533333,
+      8.733333,
+      10.666667
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "864",
+    "rad_name": "oozato",
+    "dicn": "4761",
+    "mn_hint": "Areas associated 交 with the city 阝.",
+    "rad_stroke": 3,
+    "onyomi_ja": "コウ",
+    "rad_meaning": "village, country, city",
+    "onyomi": "kou",
+    "ka_id": "ka_1154",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "kou",
+      "kou"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "suburb",
+      "outskirts",
+      "suburb, outskirts"
+    ],
+    "onyomi_ja_search": [
+      "コウ",
+      "コウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "village",
+      "country",
+      "city",
+      "village, country, city"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "おおざと"
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:5",
+      "ik1:c5"
+    ],
+    "rad_name_file": "oozato",
+    "kanji": {
+      "character": "郊",
+      "meaning": {
+        "english": "suburb, outskirts"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          0.8,
+          2.466667,
+          3.066667,
+          4.066667,
+          5.266667,
+          6.066667,
+          7.533333,
+          8.733333,
+          10.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kou",
+        "katakana": "コウ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kou(gaijuutaku)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kou(gaijuutaku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kou(gaijuutaku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⻏",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/oozato.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "おおざと",
+        "romaji": "oozato"
+      },
+      "meaning": {
+        "english": "village, country, city"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/oozato0.svg",
+        "https://media.kanjialive.com/rad_frames/oozato1.svg",
+        "https://media.kanjialive.com/rad_frames/oozato2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "864",
+      "classic_nelson": "4761"
+    }
+  },
+  "jishoData": {
+    "query": "郊",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1304",
+    "strokeCount": 9,
+    "meaning": "outskirts, suburbs, rural area",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "郊外",
+        "reading": "コウガイ",
+        "meaning": "suburb, residential area on the outskirt of a city, commuter belt"
+      },
+      {
+        "example": "郊外化",
+        "reading": "コウガイカ",
+        "meaning": "suburbanization"
+      },
+      {
+        "example": "南郊",
+        "reading": "ナンコウ",
+        "meaning": "southern suburbs"
+      },
+      {
+        "example": "北郊",
+        "reading": "ホッコウ",
+        "meaning": "northern suburbs"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "邑",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "town (阝 right)"
+    },
+    "parts": [
+      "亠",
+      "父",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37066_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090ca.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90ca.gif",
+    "uri": "https://jisho.org/search/%E9%83%8A%23kanji"
+  }
+}

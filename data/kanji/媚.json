@@ -1,1 +1,54 @@
-{"id":"媚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"媚","found":true,"strokeCount":12,"meaning":"flatter, humor, flirt","kunyomi":["こ.びる"],"onyomi":["ビ"],"onyomiExamples":[{"example":"媚眼秋波","reading":"ビガンシュウハ","meaning":"casting a coquettish (an amorous) glance (at a man)"},{"example":"媚笑","reading":"ビショウ","meaning":"charming, enticing smile, smile meant to catch a man's attention"},{"example":"明媚","reading":"メイビ","meaning":"picturesque (scenery), unspoilt, beautiful"}],"kunyomiExamples":[{"example":"媚びる","reading":"こびる","meaning":"to flatter, to curry favor with, to curry favour with, to fawn on, to butter up to, to flirt with (woman with a man), to make eyes at (a man)"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["女","尸","目","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23194_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a9a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a9a.gif","uri":"https://jisho.org/search/%E5%AA%9A%23kanji"}}
+{
+  "id": "媚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "媚",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "flatter, humor, flirt",
+    "kunyomi": [
+      "こ.びる"
+    ],
+    "onyomi": [
+      "ビ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "媚眼秋波",
+        "reading": "ビガンシュウハ",
+        "meaning": "casting a coquettish glance (at a man)"
+      },
+      {
+        "example": "媚笑",
+        "reading": "ビショウ",
+        "meaning": "charming, enticing smile, smile meant to catch a man's attention"
+      },
+      {
+        "example": "明媚",
+        "reading": "メイビ",
+        "meaning": "picturesque (scenery), unspoilt, beautiful"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "媚びる",
+        "reading": "こびる",
+        "meaning": "to flatter, to curry favor (with), to fawn (on), to flirt (with; a man), to make eyes (at)"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "女",
+      "尸",
+      "目",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23194_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a9a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a9a.gif",
+    "uri": "https://jisho.org/search/%E5%AA%9A%23kanji"
+  }
+}

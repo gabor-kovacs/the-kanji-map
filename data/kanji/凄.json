@@ -1,1 +1,64 @@
-{"id":"凄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"凄","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2313","strokeCount":10,"meaning":"uncanny, weird, threatening, horrible","kunyomi":["さむ.い","すご.い","すさ.まじい"],"onyomi":["セイ","サイ"],"onyomiExamples":[{"example":"凄艶","reading":"セイエン","meaning":"weirdly beautiful"},{"example":"凄惨","reading":"セイサン","meaning":"ghastly, gruesome, appalling, lurid"}],"kunyomiExamples":[{"example":"凄い","reading":"すごい","meaning":"terrible, dreadful, amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific, to a great extent, vast (in numbers), awfully, very, immensely"},{"example":"凄い事になる","reading":"すごいことになる","meaning":"to go crazy (esp. of a situation or thing), to get out of hand, to end up in an extreme state"},{"example":"凄まじい","reading":"すさまじい","meaning":"terrific, fierce, terrible, tremendous, dreadful, awful, amazing, absurd, cutthroat, intense"}],"radical":{"symbol":"冫","meaning":"ice"},"parts":["ヨ","冫","十","女"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20932_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c4.gif","uri":"https://jisho.org/search/%E5%87%84%23kanji"}}
+{
+  "id": "凄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凄",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2313",
+    "strokeCount": 10,
+    "meaning": "uncanny, weird, threatening, horrible",
+    "kunyomi": [
+      "さむ.い",
+      "すご.い",
+      "すさ.まじい"
+    ],
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凄艶",
+        "reading": "セイエン",
+        "meaning": "weirdly beautiful"
+      },
+      {
+        "example": "凄惨",
+        "reading": "セイサン",
+        "meaning": "ghastly, gruesome, appalling, lurid"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "凄い",
+        "reading": "すごい",
+        "meaning": "terrible, dreadful, amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific, to a great extent, vast (in numbers), awfully, very, immensely"
+      },
+      {
+        "example": "凄い事になる",
+        "reading": "すごいことになる",
+        "meaning": "to go crazy (esp. of a situation or thing), to get out of hand, to end up in an extreme state"
+      },
+      {
+        "example": "凄まじい",
+        "reading": "すさまじい",
+        "meaning": "terrible, dreadful, awful, horrible, ghastly, tremendous, terrific, enormous, prodigious, stupendous, amazing, appalling, shocking, staggering, absurd"
+      }
+    ],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "ice"
+    },
+    "parts": [
+      "ヨ",
+      "冫",
+      "十",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20932_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c4.gif",
+    "uri": "https://jisho.org/search/%E5%87%84%23kanji"
+  }
+}

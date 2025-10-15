@@ -1,1 +1,63 @@
-{"id":"托","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"托","found":true,"strokeCount":6,"meaning":"requesting, entrusting with, pretend, hint","kunyomi":["たく.する","たの.む"],"onyomi":["タク"],"onyomiExamples":[{"example":"託す","reading":"タクス","meaning":"to entrust (someone) with, to leave (a matter) with someone, to place under someone's care, to have someone deliver (a message, parcel, etc.), to send (through someone), to leave (a message) with someone, to use (something) to express (one's feelings, opinion, etc.), to express in the form of (something), to use as a pretext"},{"example":"托鉢","reading":"タクハツ","meaning":"religious mendicancy, asking for alms, monk's begging, going with one's bowl to the meditation hall at mealtime (in a Zen temple)"},{"example":"屈託","reading":"クッタク","meaning":"worry, care, concern, ennui, boredom"},{"example":"結託","reading":"ケッタク","meaning":"conspiracy, collusion"}],"kunyomiExamples":[{"example":"託する","reading":"たくする","meaning":"to entrust (someone) with, to leave (a matter) with someone, to place under someone's care, to have someone deliver (a message, parcel, etc.), to send (through someone), to leave (a message) with someone, to use (something) to express (one's feelings, opinion, etc.), to express in the form of (something), to use as a pretext"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ノ","一","乙","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25176_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06258.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6258.gif","uri":"https://jisho.org/search/%E6%89%98%23kanji"}}
+{
+  "id": "托",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "托",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "requesting, entrusting with, pretend, hint",
+    "kunyomi": [
+      "たく.する",
+      "たの.む"
+    ],
+    "onyomi": [
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "託す",
+        "reading": "タクス",
+        "meaning": "to entrust (someone) with, to leave (a matter) with someone, to place under someone's care, to have someone deliver (a message, parcel, etc.), to send (through someone), to leave (a message) with someone, to use (something) to express (one's feelings, opinion, etc.), to express in the form of (something), to use as a pretext"
+      },
+      {
+        "example": "托鉢",
+        "reading": "タクハツ",
+        "meaning": "religious mendicancy, asking for alms, monk's begging, going with one's bowl to the meditation hall at mealtime (in a Zen temple)"
+      },
+      {
+        "example": "屈託",
+        "reading": "クッタク",
+        "meaning": "worry, care, concern, ennui, boredom"
+      },
+      {
+        "example": "結託",
+        "reading": "ケッタク",
+        "meaning": "conspiracy, collusion"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "託する",
+        "reading": "たくする",
+        "meaning": "to entrust (someone) with, to leave (a matter) with someone, to place under someone's care, to have someone deliver (a message, parcel, etc.), to send (through someone), to leave (a message) with someone, to use (something) to express (one's feelings, opinion, etc.), to express in the form of (something), to use as a pretext"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乙",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25176_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06258.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6258.gif",
+    "uri": "https://jisho.org/search/%E6%89%98%23kanji"
+  }
+}

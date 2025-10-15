@@ -1,1 +1,59 @@
-{"id":"菴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"菴","found":true,"strokeCount":11,"meaning":"hermitage","kunyomi":["いおり","いお"],"onyomi":["アン"],"onyomiExamples":[{"example":"庵","reading":"イオリ","meaning":"hermitage, retreat"},{"example":"菴羅","reading":"アンラ","meaning":"mango"}],"kunyomiExamples":[{"example":"庵","reading":"いおり","meaning":"hermitage, retreat"},{"example":"庵","reading":"いおり","meaning":"hermitage, retreat"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["乙","大","奄","日","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33780_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083f4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83f4.gif","uri":"https://jisho.org/search/%E8%8F%B4%23kanji"}}
+{
+  "id": "菴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "菴",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "hermitage",
+    "kunyomi": [
+      "いおり",
+      "いお"
+    ],
+    "onyomi": [
+      "アン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "庵",
+        "reading": "イオリ",
+        "meaning": "hermitage, retreat"
+      },
+      {
+        "example": "菴羅",
+        "reading": "アンラ",
+        "meaning": "mango"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "庵",
+        "reading": "いおり",
+        "meaning": "hermitage, retreat"
+      },
+      {
+        "example": "庵",
+        "reading": "いおり",
+        "meaning": "hermitage, retreat"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "乙",
+      "大",
+      "奄",
+      "日",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33780_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083f4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83f4.gif",
+    "uri": "https://jisho.org/search/%E8%8F%B4%23kanji"
+  }
+}

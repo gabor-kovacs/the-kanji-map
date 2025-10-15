@@ -1,1 +1,53 @@
-{"id":"埼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"埼","found":true,"taughtIn":"grade 4","newspaperFrequencyRank":"971","strokeCount":11,"meaning":"cape, spit, promontory","kunyomi":["さき","さい","みさき"],"onyomi":["キ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"崎","reading":"さき","meaning":"small peninsula, cape, promontory, headland"},{"example":"埼玉","reading":"さいたま","meaning":"Saitama (city, prefecture)"},{"example":"埼銀","reading":"さいぎん","meaning":"Saitama Bank"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["一","口","土","大","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22524_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057fc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57fc.gif","uri":"https://jisho.org/search/%E5%9F%BC%23kanji"}}
+{
+  "id": "埼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "埼",
+    "found": true,
+    "taughtIn": "grade 4",
+    "newspaperFrequencyRank": "971",
+    "strokeCount": 11,
+    "meaning": "cape, spit, promontory",
+    "kunyomi": [
+      "さき",
+      "さい",
+      "みさき"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "崎",
+        "reading": "さき",
+        "meaning": "small peninsula, cape, promontory, headland"
+      },
+      {
+        "example": "埼玉",
+        "reading": "さいたま",
+        "meaning": "Saitama (city, prefecture)"
+      },
+      {
+        "example": "埼京線",
+        "reading": "さいきょうせん",
+        "meaning": "Saikyō Line (railway line running from Tokyo to Saitama)"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "一",
+      "口",
+      "土",
+      "大",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22524_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057fc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57fc.gif",
+    "uri": "https://jisho.org/search/%E5%9F%BC%23kanji"
+  }
+}

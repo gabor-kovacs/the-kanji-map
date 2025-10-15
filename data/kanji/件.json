@@ -1,1 +1,313 @@
-{"id":"件","kanjialiveData":{"kanji":{"character":"件","meaning":{"english":"matter"},"strokes":{"count":6,"timings":[0.797,1.33,2.267,3.07,4.008,4.812,5.899441],"images":["https://media.kanjialive.com/kanji_strokes/(ji)ken_1.svg","https://media.kanjialive.com/kanji_strokes/(ji)ken_2.svg","https://media.kanjialive.com/kanji_strokes/(ji)ken_3.svg","https://media.kanjialive.com/kanji_strokes/(ji)ken_4.svg","https://media.kanjialive.com/kanji_strokes/(ji)ken_5.svg","https://media.kanjialive.com/kanji_strokes/(ji)ken_6.svg"]},"onyomi":{"romaji":"ken","katakana":"ケン"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(ji)ken_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(ji)ken_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(ji)ken_00.webm"}},"radical":{"character":"⺅","strokes":2,"image":"https://media.kanjialive.com/radical_character/ninben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"にんべん","romaji":"ninben"},"meaning":{"english":"person "},"animation":["https://media.kanjialive.com/rad_frames/ninben0.svg","https://media.kanjialive.com/rad_frames/ninben1.svg","https://media.kanjialive.com/rad_frames/ninben2.svg"]},"references":{"grade":5,"kodansha":"35","classic_nelson":"368"},"examples":[{"japanese":"件（けん）","meaning":{"english":"incident"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(ji)ken_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(ji)ken_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(ji)ken_06_a.mp3"}},{"japanese":"事件（じけん）","meaning":{"english":"incident, criminal case"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(ji)ken_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(ji)ken_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(ji)ken_06_b.mp3"}},{"japanese":"条件（じょうけん）","meaning":{"english":"condition [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(ji)ken_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(ji)ken_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(ji)ken_06_c.mp3"}},{"japanese":"用件（ようけん）","meaning":{"english":"(one's) business, concerns"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(ji)ken_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(ji)ken_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(ji)ken_06_d.mp3"}},{"japanese":"人件費（じんけんひ）","meaning":{"english":"cost of labor"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(ji)ken_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(ji)ken_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(ji)ken_06_e.mp3"}}]},"jishoData":{"query":"件","found":true,"taughtIn":"grade 5","jlptLevel":"N3","newspaperFrequencyRank":"212","strokeCount":6,"meaning":"affair, case, matter, item","kunyomi":["くだん"],"onyomi":["ケン"],"onyomiExamples":[{"example":"件","reading":"ケン","meaning":"matter, affair, case, item, subject, counter for (received) emails, text messages, voicemail messages, etc., counter for accounts (on a website, email service, etc.)"},{"example":"件数","reading":"ケンスウ","meaning":"number of events (e.g. accidents, crimes, meetings, housing starts, hits on a web page)"},{"example":"刑事事件","reading":"ケイジジケン","meaning":"criminal case"},{"example":"要件","reading":"ヨウケン","meaning":"important matter, requirement, requisite, necessary condition, sine qua non"}],"kunyomiExamples":[{"example":"件","reading":"くだん","meaning":"the aforementioned, the said, (man, incident, etc.) in question, the above-mentioned, the aforesaid, the usual"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","牛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20214_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ef6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ef6.gif","uri":"https://jisho.org/search/%E4%BB%B6%23kanji"}}
+{
+  "id": "件",
+  "kanjialiveData": {
+    "_id": "54317aee791eba5146ee4a3a",
+    "_rev": "11-f45eee0d649f400ff3e4e398712e024b",
+    "rad_name_ja": "にんべん",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "matter",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "件（けん）",
+        "meaning": {
+          "english": "incident"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)ken_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)ken_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)ken_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "事件（じけん）",
+        "meaning": {
+          "english": "incident, criminal case"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)ken_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)ken_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)ken_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "条件（じょうけん）",
+        "meaning": {
+          "english": "condition [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)ken_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)ken_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)ken_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "用件（ようけん）",
+        "meaning": {
+          "english": "(one's) business, concerns"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)ken_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)ken_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)ken_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "人件費（じんけんひ）",
+        "meaning": {
+          "english": "cost of labor"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)ken_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)ken_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)ken_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "件",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=件",
+    "rad_name_search": [
+      "ninben"
+    ],
+    "rad_order": 11,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "10"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "7"
+      }
+    ],
+    "kname": "(ji)ken",
+    "rad_utf": "⺅",
+    "stroketimes": [
+      0.797,
+      1.33,
+      2.267,
+      3.07,
+      4.008,
+      4.812,
+      5.899441
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "35",
+    "rad_name": "ninben",
+    "dicn": "368",
+    "mn_hint": "What happens to his ox 牛 matters to the farmer イ.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ケン",
+    "rad_meaning": "person ",
+    "onyomi": "ken",
+    "ka_id": "ka_379",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "ken",
+      "ken"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "matter",
+      "matter"
+    ],
+    "onyomi_ja_search": [
+      "ケン",
+      "ケン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にんべん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:9",
+      "ij:c9",
+      "mos",
+      "mos:11",
+      "mos:c11",
+      "jt",
+      "jt:14",
+      "jt:c14",
+      "mosr",
+      "mosr:10",
+      "mosr:c10",
+      "mntr",
+      "mntr:7",
+      "mntr:c7"
+    ],
+    "rad_name_file": "ninben",
+    "kanji": {
+      "character": "件",
+      "meaning": {
+        "english": "matter"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0.797,
+          1.33,
+          2.267,
+          3.07,
+          4.008,
+          4.812,
+          5.899441
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(ji)ken_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)ken_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)ken_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)ken_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)ken_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)ken_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ken",
+        "katakana": "ケン"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(ji)ken_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(ji)ken_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(ji)ken_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺅",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にんべん",
+        "romaji": "ninben"
+      },
+      "meaning": {
+        "english": "person "
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ninben0.svg",
+        "https://media.kanjialive.com/rad_frames/ninben1.svg",
+        "https://media.kanjialive.com/rad_frames/ninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "35",
+      "classic_nelson": "368"
+    }
+  },
+  "jishoData": {
+    "query": "件",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "212",
+    "strokeCount": 6,
+    "meaning": "affair, case, matter, item",
+    "kunyomi": [
+      "くだん"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "件",
+        "reading": "ケン",
+        "meaning": "matter, affair, case, item, subject, counter for (received) emails, text messages, voicemail messages, etc., counter for accounts (on a website, email service, etc.)"
+      },
+      {
+        "example": "件数",
+        "reading": "ケンスウ",
+        "meaning": "number of cases, incidents, items, messages, accounts, etc."
+      },
+      {
+        "example": "刑事事件",
+        "reading": "ケイジジケン",
+        "meaning": "criminal case"
+      },
+      {
+        "example": "要件",
+        "reading": "ヨウケン",
+        "meaning": "important matter, requirement, requisite, necessary condition, sine qua non"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "件",
+        "reading": "くだん",
+        "meaning": "the aforementioned, the said, (man, incident, etc.) in question, the above-mentioned, the aforesaid, the usual"
+      },
+      {
+        "example": "件の如し",
+        "reading": "くだんのごとし",
+        "meaning": "the above is hereby affirmed, such is the purpose of this document"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "牛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20214_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ef6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ef6.gif",
+    "uri": "https://jisho.org/search/%E4%BB%B6%23kanji"
+  }
+}

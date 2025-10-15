@@ -1,1 +1,32 @@
-{"id":"栢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"栢","found":true,"strokeCount":10,"meaning":"oak","kunyomi":["かしわ"],"onyomi":["ハク","ヒャク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","木","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26658_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06822.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6822.gif","uri":"https://jisho.org/search/%E6%A0%A2%23kanji"}}
+{
+  "id": "栢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "栢",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "oak",
+    "kunyomi": [
+      "かしわ"
+    ],
+    "onyomi": [
+      "ハク",
+      "ヒャク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "木",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26658_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06822.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6822.gif",
+    "uri": "https://jisho.org/search/%E6%A0%A2%23kanji"
+  }
+}

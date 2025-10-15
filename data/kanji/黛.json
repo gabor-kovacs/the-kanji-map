@@ -1,1 +1,57 @@
-{"id":"黛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"黛","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2254","strokeCount":16,"meaning":"blackened eyebrows","kunyomi":["まゆずみ"],"onyomi":["タイ"],"onyomiExamples":[{"example":"黛青","reading":"タイセイ","meaning":"blackish blue"},{"example":"翠黛","reading":"スイタイ","meaning":"green eyebrow pencil, green-shaded eyebrows, hazy green (distant mountains)"},{"example":"青黛","reading":"セイタイ","meaning":"blue eyebrow pencil, blue eyebrows, deep blue, dark blue"}],"kunyomiExamples":[{"example":"眉墨","reading":"まゆずみ","meaning":"eyebrow pencil, blackened eyebrows, (metaphorically) distant mountain range"}],"radical":{"symbol":"黑","meaning":"black"},"parts":["化","弋","杰","里","黒"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40667_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09edb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9edb.gif","uri":"https://jisho.org/search/%E9%BB%9B%23kanji"}}
+{
+  "id": "黛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黛",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2254",
+    "strokeCount": 16,
+    "meaning": "blackened eyebrows",
+    "kunyomi": [
+      "まゆずみ"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "黛青",
+        "reading": "タイセイ",
+        "meaning": "blackish blue"
+      },
+      {
+        "example": "翠黛",
+        "reading": "スイタイ",
+        "meaning": "green eyebrow pencil, green-shaded eyebrows, hazy green (distant mountains)"
+      },
+      {
+        "example": "青黛",
+        "reading": "セイタイ",
+        "meaning": "blue eyebrow pencil, blue eyebrows, deep blue, dark blue"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "眉墨",
+        "reading": "まゆずみ",
+        "meaning": "eyebrow pencil, blackened eyebrows, (metaphorically) distant mountain range"
+      }
+    ],
+    "radical": {
+      "symbol": "黑",
+      "meaning": "black"
+    },
+    "parts": [
+      "化",
+      "弋",
+      "杰",
+      "里",
+      "黒"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40667_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09edb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9edb.gif",
+    "uri": "https://jisho.org/search/%E9%BB%9B%23kanji"
+  }
+}

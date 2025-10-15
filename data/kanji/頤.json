@@ -1,1 +1,57 @@
-{"id":"頤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"頤","found":true,"strokeCount":15,"meaning":"chin, jaw","kunyomi":["おとがい","あご"],"onyomi":["イ"],"onyomiExamples":[{"example":"頤使","reading":"イシ","meaning":"bossing someone around, having a person under one's control"}],"kunyomiExamples":[{"example":"頤","reading":"おとがい","meaning":"(lower) jaw, chatterbox"},{"example":"顎","reading":"あご","meaning":"jaw, chin, barb (of a fishhook)"},{"example":"頤で人を使う","reading":"あごでひとをつかう","meaning":"to set someone to work in an arrogant fashion, to push someone around"}],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ハ","匚","目","臣","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38948_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09824.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9824.gif","uri":"https://jisho.org/search/%E9%A0%A4%23kanji"}}
+{
+  "id": "頤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頤",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "chin, jaw",
+    "kunyomi": [
+      "おとがい",
+      "あご"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頤使",
+        "reading": "イシ",
+        "meaning": "bossing someone around, having a person under one's control"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頤",
+        "reading": "おとがい",
+        "meaning": "(lower) jaw, chatterbox"
+      },
+      {
+        "example": "顎",
+        "reading": "あご",
+        "meaning": "jaw, chin, barb (of a fishhook)"
+      },
+      {
+        "example": "頤で人を使う",
+        "reading": "あごでひとをつかう",
+        "meaning": "to set someone to work in an arrogant fashion, to push someone around"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ハ",
+      "匚",
+      "目",
+      "臣",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38948_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09824.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9824.gif",
+    "uri": "https://jisho.org/search/%E9%A0%A4%23kanji"
+  }
+}

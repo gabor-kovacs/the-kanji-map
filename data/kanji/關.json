@@ -1,1 +1,39 @@
-{"id":"關","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"關","found":true,"strokeCount":19,"meaning":"connection, barrier, gateway, involve, concerning","kunyomi":["せき","かか.わる","からくり","かんぬき"],"onyomi":["カン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"門","meaning":"gate"},"parts":["幺","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38364_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095dc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95dc.gif","uri":"https://jisho.org/search/%E9%97%9C%23kanji"}}
+{
+  "id": "關",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "關",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "connection, barrier, gateway, involve, concerning",
+    "kunyomi": [
+      "せき",
+      "かか.わる",
+      "からくり",
+      "かんぬき"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "関東軍",
+        "reading": "カントウグン",
+        "meaning": "Kwantung Army (Japanese armed forces in Manchukuo)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "幺",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38364_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95dc.gif",
+    "uri": "https://jisho.org/search/%E9%97%9C%23kanji"
+  }
+}

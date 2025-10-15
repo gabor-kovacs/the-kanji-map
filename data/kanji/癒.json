@@ -1,1 +1,75 @@
-{"id":"癒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"癒","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1667","strokeCount":18,"meaning":"healing, cure, quench (thirst), wreak","kunyomi":["い.える","いや.す","い.やす"],"onyomi":["ユ"],"onyomiExamples":[{"example":"癒着","reading":"ユチャク","meaning":"adhesion, conglutination, collusion, collusive relationship"},{"example":"癒合","reading":"ユゴウ","meaning":"agglutination, adhesion"},{"example":"平癒","reading":"ヘイユ","meaning":"recovery, convalescence"},{"example":"自然治癒","reading":"シゼンチユ","meaning":"self-healing, spontaneous recovery"}],"kunyomiExamples":[{"example":"癒える","reading":"いえる","meaning":"to recover, to be healed"},{"example":"癒す","reading":"いやす","meaning":"to heal, to cure, to satisfy (e.g. hunger, thirst), to alleviate (e.g. sorrow, fatigue)"},{"example":"癒す","reading":"いやす","meaning":"to heal, to cure, to satisfy (e.g. hunger, thirst), to alleviate (e.g. sorrow, fatigue)"}],"radical":{"symbol":"疒","meaning":"sickness"},"parts":["个","刈","心","月","疔"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30290_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07652.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7652.gif","uri":"https://jisho.org/search/%E7%99%92%23kanji"}}
+{
+  "id": "癒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "癒",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1667",
+    "strokeCount": 18,
+    "meaning": "healing, cure, quench (thirst), wreak",
+    "kunyomi": [
+      "い.える",
+      "いや.す",
+      "い.やす"
+    ],
+    "onyomi": [
+      "ユ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "癒着",
+        "reading": "ユチャク",
+        "meaning": "adhesion, conglutination, accretion, collusion, collusive relationship, cozy relationship"
+      },
+      {
+        "example": "癒合",
+        "reading": "ユゴウ",
+        "meaning": "agglutination, conglutination, (healing by) intention, coaptation, fusion, symphysis"
+      },
+      {
+        "example": "平癒",
+        "reading": "ヘイユ",
+        "meaning": "recovery, convalescence"
+      },
+      {
+        "example": "自然治癒",
+        "reading": "シゼンチユ",
+        "meaning": "self-healing, spontaneous recovery"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "癒える",
+        "reading": "いえる",
+        "meaning": "to recover, to be healed"
+      },
+      {
+        "example": "癒す",
+        "reading": "いやす",
+        "meaning": "to heal, to cure, to satisfy (e.g. hunger, thirst), to alleviate (e.g. sorrow, fatigue)"
+      },
+      {
+        "example": "癒す",
+        "reading": "いやす",
+        "meaning": "to heal, to cure, to satisfy (e.g. hunger, thirst), to alleviate (e.g. sorrow, fatigue)"
+      }
+    ],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "sickness"
+    },
+    "parts": [
+      "个",
+      "刈",
+      "心",
+      "月",
+      "疔"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30290_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07652.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7652.gif",
+    "uri": "https://jisho.org/search/%E7%99%92%23kanji"
+  }
+}

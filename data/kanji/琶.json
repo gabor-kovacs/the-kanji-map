@@ -1,1 +1,45 @@
-{"id":"琶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"琶","found":true,"newspaperFrequencyRank":"1966","strokeCount":12,"meaning":"lute","kunyomi":[],"onyomi":["ハ","ベ","ワ"],"onyomiExamples":[{"example":"琵琶","reading":"ビワ","meaning":"biwa (Japanese lute)"},{"example":"楽琵琶","reading":"ガクビワ","meaning":"large 4-stringed biwa used in gagaku"}],"kunyomiExamples":[],"radical":{"symbol":"玉","forms":["王"],"meaning":"jade (king)"},"parts":["巴","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29750_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07436.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7436.gif","uri":"https://jisho.org/search/%E7%90%B6%23kanji"}}
+{
+  "id": "琶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "琶",
+    "found": true,
+    "newspaperFrequencyRank": "1966",
+    "strokeCount": 12,
+    "meaning": "lute",
+    "kunyomi": [],
+    "onyomi": [
+      "ハ",
+      "ベ",
+      "ワ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "琵琶",
+        "reading": "ビワ",
+        "meaning": "biwa (Japanese lute)"
+      },
+      {
+        "example": "楽琵琶",
+        "reading": "ガクビワ",
+        "meaning": "large 4-stringed biwa used in gagaku"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "玉",
+      "forms": [
+        "王"
+      ],
+      "meaning": "jade (king)"
+    },
+    "parts": [
+      "巴",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29750_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07436.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7436.gif",
+    "uri": "https://jisho.org/search/%E7%90%B6%23kanji"
+  }
+}

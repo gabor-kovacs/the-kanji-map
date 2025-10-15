@@ -1,1 +1,48 @@
-{"id":"渫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"渫","found":true,"strokeCount":12,"meaning":"dredging, cleaning out","kunyomi":["さら.う"],"onyomi":["セツ","チョウ"],"onyomiExamples":[{"example":"浚渫","reading":"シュンセツ","meaning":"dredging"}],"kunyomiExamples":[{"example":"浚う","reading":"さらう","meaning":"to sweep away, to wash away, to dredge"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["世","木","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28203_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e2b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e2b.gif","uri":"https://jisho.org/search/%E6%B8%AB%23kanji"}}
+{
+  "id": "渫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渫",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "dredging, cleaning out",
+    "kunyomi": [
+      "さら.う"
+    ],
+    "onyomi": [
+      "セツ",
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浚渫",
+        "reading": "シュンセツ",
+        "meaning": "dredging"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "浚う",
+        "reading": "さらう",
+        "meaning": "to sweep away, to wash away, to dredge"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "世",
+      "木",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28203_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e2b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e2b.gif",
+    "uri": "https://jisho.org/search/%E6%B8%AB%23kanji"
+  }
+}

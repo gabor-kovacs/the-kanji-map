@@ -2,6 +2,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { Provider as JotaiProvider } from "jotai";
 import { Noto_Sans_JP } from "next/font/google";
+import localFont from "next/font/local";
 import "../styles/globals.css";
 import { Metadata } from "next";
 
@@ -22,6 +23,13 @@ export const metadata: Metadata = {
   // themeColor: "#2b99cf",
 };
 
+const radicalsFont = localFont({
+  src: "./JapaneseRadicals-Regular.woff2",
+  variable: "--font-radicals",
+  display: "swap",
+  preload: true,
+});
+
 const notoSansJp = Noto_Sans_JP({
   weight: "variable",
   subsets: ["latin-ext"],
@@ -37,7 +45,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" suppressHydrationWarning className={notoSansJp.className}>
+    <html
+      lang="en"
+      suppressHydrationWarning
+      className={`${notoSansJp.variable} ${radicalsFont.variable}`}
+    >
       <body className="w-screen h-screen overflow-hidden bg-background text-foreground selection:bg-primary">
         <ThemeProvider
           attribute="class"

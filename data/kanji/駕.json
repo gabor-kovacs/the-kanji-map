@@ -1,1 +1,73 @@
-{"id":"駕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"駕","found":true,"strokeCount":15,"meaning":"vehicle, palanquin, litter, hitch up an animal","kunyomi":["かご","が.する","しのぐ","のる"],"onyomi":["カ","ガ"],"onyomiExamples":[{"example":"駕籠","reading":"カゴ","meaning":"palanquin, litter, bier, kago"},{"example":"駕籠かき","reading":"カゴカキ","meaning":"sedan chair bearer, palanquin bearer"},{"example":"駕","reading":"ガ","meaning":"vehicle, horse-drawn carriage"},{"example":"繋駕","reading":"ケイガ","meaning":"harnessing (a horse to a cart, esp. for a race)"},{"example":"来賀","reading":"ライガ","meaning":"your coming, coming with happy news, your presence"}],"kunyomiExamples":[{"example":"駕籠","reading":"かご","meaning":"palanquin, litter, bier, kago"},{"example":"駕籠かき","reading":"かごかき","meaning":"sedan chair bearer, palanquin bearer"}],"radical":{"symbol":"馬","meaning":"horse"},"parts":["力","口","杰","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39381_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099d5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99d5.gif","uri":"https://jisho.org/search/%E9%A7%95%23kanji"}}
+{
+  "id": "駕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駕",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "vehicle, palanquin, litter, hitch up an animal",
+    "kunyomi": [
+      "かご",
+      "が.する",
+      "しのぐ",
+      "のる"
+    ],
+    "onyomi": [
+      "カ",
+      "ガ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駕籠",
+        "reading": "カゴ",
+        "meaning": "palanquin, litter, bier, kago"
+      },
+      {
+        "example": "駕籠かき",
+        "reading": "カゴカキ",
+        "meaning": "palanquin bearer, sedan chair bearer"
+      },
+      {
+        "example": "駕",
+        "reading": "ガ",
+        "meaning": "vehicle, horse-drawn carriage"
+      },
+      {
+        "example": "繋駕",
+        "reading": "ケイガ",
+        "meaning": "harnessing (a horse to a cart, esp. for a race)"
+      },
+      {
+        "example": "来賀",
+        "reading": "ライガ",
+        "meaning": "your coming, coming with happy news, your presence"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "駕籠",
+        "reading": "かご",
+        "meaning": "palanquin, litter, bier, kago"
+      },
+      {
+        "example": "駕籠かき",
+        "reading": "かごかき",
+        "meaning": "palanquin bearer, sedan chair bearer"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "力",
+      "口",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39381_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099d5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99d5.gif",
+    "uri": "https://jisho.org/search/%E9%A7%95%23kanji"
+  }
+}

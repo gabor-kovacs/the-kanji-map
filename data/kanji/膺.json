@@ -1,1 +1,52 @@
-{"id":"膺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膺","found":true,"strokeCount":17,"meaning":"breast, strike","kunyomi":["むね"],"onyomi":["ヨウ","オウ"],"onyomiExamples":[{"example":"膺懲","reading":"ヨウチョウ","meaning":"punishment (of an enemy), chastisement"},{"example":"服膺","reading":"フクヨウ","meaning":"bearing in mind"},{"example":"拳々服膺","reading":"ケンケンフクヨウ","meaning":"firmly bear in mind, have something engraved on one's mind (heart)"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["化","广","月","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33210_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081ba.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81ba.gif","uri":"https://jisho.org/search/%E8%86%BA%23kanji"}}
+{
+  "id": "膺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膺",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "breast, strike",
+    "kunyomi": [
+      "むね"
+    ],
+    "onyomi": [
+      "ヨウ",
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膺懲",
+        "reading": "ヨウチョウ",
+        "meaning": "punishment (of an enemy), chastisement"
+      },
+      {
+        "example": "服膺",
+        "reading": "フクヨウ",
+        "meaning": "bearing in mind"
+      },
+      {
+        "example": "拳々服膺",
+        "reading": "ケンケンフクヨウ",
+        "meaning": "firmly bear in mind, have something engraved on one's mind (heart)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "化",
+      "广",
+      "月",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33210_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081ba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81ba.gif",
+    "uri": "https://jisho.org/search/%E8%86%BA%23kanji"
+  }
+}

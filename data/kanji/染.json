@@ -1,1 +1,393 @@
-{"id":"染","kanjialiveData":{"kanji":{"character":"染","meaning":{"english":"dye"},"strokes":{"count":9,"timings":[0,0.6,1.266667,2.333333,3.333333,4.733333,6.333333,7.533333,8.666667,9.933333],"images":["https://media.kanjialive.com/kanji_strokes/sen-so(meru)_1.svg","https://media.kanjialive.com/kanji_strokes/sen-so(meru)_2.svg","https://media.kanjialive.com/kanji_strokes/sen-so(meru)_3.svg","https://media.kanjialive.com/kanji_strokes/sen-so(meru)_4.svg","https://media.kanjialive.com/kanji_strokes/sen-so(meru)_5.svg","https://media.kanjialive.com/kanji_strokes/sen-so(meru)_6.svg","https://media.kanjialive.com/kanji_strokes/sen-so(meru)_7.svg","https://media.kanjialive.com/kanji_strokes/sen-so(meru)_8.svg","https://media.kanjialive.com/kanji_strokes/sen-so(meru)_9.svg"]},"onyomi":{"romaji":"sen","katakana":"セン"},"kunyomi":{"romaji":"so, shi, someru, zome, somaru, shimiru, jimiru","hiragana":"そ、し"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/sen-so(meru)_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/sen-so(meru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/sen-so(meru)_00.webm"}},"radical":{"character":"⽊","strokes":4,"image":"https://media.kanjialive.com/radical_character/ki.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"き","romaji":"ki"},"meaning":{"english":"tree, wood"},"animation":["https://media.kanjialive.com/rad_frames/ki0.svg","https://media.kanjialive.com/rad_frames/ki1.svg","https://media.kanjialive.com/rad_frames/ki2.svg"]},"references":{"grade":6,"kodansha":"1640","classic_nelson":"2240"},"examples":[{"japanese":"染色（せんしょく）","meaning":{"english":"staining, stain, dyeing"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_a.mp3"}},{"japanese":"染料（せんりょう）","meaning":{"english":"dyes"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_b.mp3"}},{"japanese":"染色体（せんしょくたい）","meaning":{"english":"chromosome"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_c.mp3"}},{"japanese":"伝染病（でんせんびょう）","meaning":{"english":"infectious disease, epidemic"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_d.mp3"}},{"japanese":"染色する（せんしょくする）","meaning":{"english":"stain, dye"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_e.mp3"}},{"japanese":"感染する（かんせんする）","meaning":{"english":"contract, be infected [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_f.mp3"}},{"japanese":"汚染する（おせんする）","meaning":{"english":"pollute, contaminate [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_g.mp3"}},{"japanese":"伝染する（でんせんする）","meaning":{"english":"contract, be infected [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_h.mp3"}},{"japanese":"染める（そめる）","meaning":{"english":"dye, color [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_i.mp3"}},{"japanese":"染まる（そまる）","meaning":{"english":"dye [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_j.mp3"}},{"japanese":"染みる（しみる）","meaning":{"english":"pierce, permeate [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_k.mp3"}},{"japanese":"染み（しみ）","meaning":{"english":"stain, spot"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_l.mp3"}}]},"jishoData":{"query":"染","found":true,"taughtIn":"grade 6","jlptLevel":"N1","newspaperFrequencyRank":"837","strokeCount":9,"meaning":"dye, color, paint, stain, print","kunyomi":["そ.める","そ.まる","し.みる","し.み"],"onyomi":["セン"],"onyomiExamples":[{"example":"染色体","reading":"センショクタイ","meaning":"chromosome"},{"example":"染色","reading":"センショク","meaning":"dyeing, staining, dyed colour (color)"},{"example":"媒染","reading":"バイセン","meaning":"color fixing, colour fixing, mordantizing"},{"example":"防染","reading":"ボウセン","meaning":"resist dyeing"}],"kunyomiExamples":[{"example":"染める","reading":"そめる","meaning":"to dye, to colour, to color"},{"example":"染まる","reading":"そまる","meaning":"to be dyed, to be tainted, to be infected, to be stained, to be steeped"},{"example":"染みる","reading":"しみる","meaning":"to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression"},{"example":"染み","reading":"しみ","meaning":"stain, spot, smudge, blot, smear, blotch, spot (on one's skin, e.g. chloasma, liver spot), blemish, discoloration, freckle"},{"example":"染みる","reading":"しみる","meaning":"to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["九","木","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26579_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067d3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67d3.gif","uri":"https://jisho.org/search/%E6%9F%93%23kanji"}}
+{
+  "id": "染",
+  "kanjialiveData": {
+    "_id": "54317ad6791eba5146ee4877",
+    "_rev": "9-876305c6fcb95e3aaf0b8d0ca883ab6c",
+    "rad_name_ja": "き",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "so, shi, someru, zome, somaru, shimiru, jimiru",
+    "meaning": "dye",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "染色（せんしょく）",
+        "meaning": {
+          "english": "staining, stain, dyeing"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "染料（せんりょう）",
+        "meaning": {
+          "english": "dyes"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "染色体（せんしょくたい）",
+        "meaning": {
+          "english": "chromosome"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "伝染病（でんせんびょう）",
+        "meaning": {
+          "english": "infectious disease, epidemic"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "染色する（せんしょくする）",
+        "meaning": {
+          "english": "stain, dye"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "感染する（かんせんする）",
+        "meaning": {
+          "english": "contract, be infected [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "汚染する（おせんする）",
+        "meaning": {
+          "english": "pollute, contaminate [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "伝染する（でんせんする）",
+        "meaning": {
+          "english": "contract, be infected [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "染める（そめる）",
+        "meaning": {
+          "english": "dye, color [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "染まる（そまる）",
+        "meaning": {
+          "english": "dye [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "染みる（しみる）",
+        "meaning": {
+          "english": "pierce, permeate [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "染み（しみ）",
+        "meaning": {
+          "english": "stain, spot"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-so(meru)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-so(meru)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-so(meru)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-so(meru)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "そ、し、そめる、ぞめ、そまる、しみる、しみ",
+    "ka_utf": "染",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=染",
+    "rad_name_search": [
+      "ki"
+    ],
+    "rad_order": 97,
+    "txt_books": [],
+    "kname": "sen-so(meru)",
+    "rad_utf": "⽊",
+    "stroketimes": [
+      0,
+      0.6,
+      1.266667,
+      2.333333,
+      3.333333,
+      4.733333,
+      6.333333,
+      7.533333,
+      8.666667,
+      9.933333
+    ],
+    "kunyomi_ka_display": "そ、し",
+    "dick": "1640",
+    "rad_name": "ki",
+    "dicn": "2240",
+    "mn_hint": "Liquid シ from several 九 plants and trees 木 used as dyes.",
+    "rad_stroke": 4,
+    "onyomi_ja": "セン",
+    "rad_meaning": "tree, wood",
+    "onyomi": "sen",
+    "ka_id": "ka_1084",
+    "onyomi_search": [
+      "sen",
+      "sen"
+    ],
+    "kunyomi_search": [
+      "so",
+      "shi",
+      "someru",
+      "zome",
+      "somaru",
+      "shimiru",
+      "jimiru",
+      "so, shi, someru, zome, somaru, shimiru, jimiru"
+    ],
+    "meaning_search": [
+      "dye",
+      "dye"
+    ],
+    "onyomi_ja_search": [
+      "セン",
+      "セン"
+    ],
+    "kunyomi_ja_search": [
+      "そ",
+      "し",
+      "そめる",
+      "ぞめ",
+      "そまる",
+      "しみる",
+      "しみ",
+      "そ、し、そめる、ぞめ、そまる、しみる、しみ"
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_name_ja_search": [
+      "き"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [],
+    "rad_name_file": "ki",
+    "kanji": {
+      "character": "染",
+      "meaning": {
+        "english": "dye"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          0.6,
+          1.266667,
+          2.333333,
+          3.333333,
+          4.733333,
+          6.333333,
+          7.533333,
+          8.666667,
+          9.933333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sen-so(meru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-so(meru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-so(meru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-so(meru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-so(meru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-so(meru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-so(meru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-so(meru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-so(meru)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sen",
+        "katakana": "セン"
+      },
+      "kunyomi": {
+        "romaji": "so, shi, someru, zome, somaru, shimiru, jimiru",
+        "hiragana": "そ、し"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sen-so(meru)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sen-so(meru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sen-so(meru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽊",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/ki.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "き",
+        "romaji": "ki"
+      },
+      "meaning": {
+        "english": "tree, wood"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ki0.svg",
+        "https://media.kanjialive.com/rad_frames/ki1.svg",
+        "https://media.kanjialive.com/rad_frames/ki2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1640",
+      "classic_nelson": "2240"
+    }
+  },
+  "jishoData": {
+    "query": "染",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "837",
+    "strokeCount": 9,
+    "meaning": "dye, color, paint, stain, print",
+    "kunyomi": [
+      "そ.める",
+      "そ.まる",
+      "し.みる",
+      "し.み"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "染色体",
+        "reading": "センショクタイ",
+        "meaning": "chromosome"
+      },
+      {
+        "example": "染色",
+        "reading": "センショク",
+        "meaning": "dyeing, staining (a sample), dyed colour (color)"
+      },
+      {
+        "example": "媒染",
+        "reading": "バイセン",
+        "meaning": "color fixing, colour fixing, mordantizing"
+      },
+      {
+        "example": "鉄媒染",
+        "reading": "テツバイセン",
+        "meaning": "iron mordanting"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "染める",
+        "reading": "そめる",
+        "meaning": "to dye, to colour, to color"
+      },
+      {
+        "example": "染まる",
+        "reading": "そまる",
+        "meaning": "to be dyed, to be tainted, to be infected, to be stained, to be steeped"
+      },
+      {
+        "example": "染みる",
+        "reading": "しみる",
+        "meaning": "to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression"
+      },
+      {
+        "example": "染み",
+        "reading": "しみ",
+        "meaning": "stain, spot, smudge, blot, smear, blotch, spot (on one's skin, e.g. chloasma, liver spot), blemish, discoloration, freckle"
+      },
+      {
+        "example": "染みる",
+        "reading": "しみる",
+        "meaning": "to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "九",
+      "木",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26579_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067d3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67d3.gif",
+    "uri": "https://jisho.org/search/%E6%9F%93%23kanji"
+  }
+}

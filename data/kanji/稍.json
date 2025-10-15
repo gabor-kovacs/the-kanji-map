@@ -1,1 +1,44 @@
-{"id":"稍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"稍","found":true,"strokeCount":12,"meaning":"slightly","kunyomi":["やや","ようやく"],"onyomi":["ソウ","ショウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"稍","reading":"やや","meaning":"a little, partially, somewhat, slightly, semi-, -ish, on the ... side, a short time, a while"},{"example":"稍あって","reading":"ややあって","meaning":"a little while later, for a little while, some time later, for some time, presently"}],"radical":{"symbol":"禾","meaning":"grain"},"parts":["尚","月","禾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31245_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a0d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a0d.gif","uri":"https://jisho.org/search/%E7%A8%8D%23kanji"}}
+{
+  "id": "稍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "稍",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "slightly",
+    "kunyomi": [
+      "やや",
+      "ようやく"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "稍",
+        "reading": "やや",
+        "meaning": "a little, partially, somewhat, slightly, semi-, -ish, on the ... side, a short time, a while"
+      },
+      {
+        "example": "稍あって",
+        "reading": "ややあって",
+        "meaning": "a little while later, for a little while, some time later, for some time, presently"
+      }
+    ],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "grain"
+    },
+    "parts": [
+      "尚",
+      "月",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31245_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a0d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a0d.gif",
+    "uri": "https://jisho.org/search/%E7%A8%8D%23kanji"
+  }
+}

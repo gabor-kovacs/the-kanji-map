@@ -1,1 +1,71 @@
-{"id":"鯱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鯱","found":true,"strokeCount":19,"meaning":"fabulous dolphin-like fish, killer whale, (kokuji)","kunyomi":["しゃちほこ","しゃち"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"鯱","reading":"しゃちほこ","meaning":"shachihoko, shachi, mythical animal with the head of a lion and the body of a fish, roof ornament in the shape of a shachihoko (believed to provide protection against fire by causing rain to fall)"},{"example":"天社蛾","reading":"しゃちほこが","meaning":"lobster moth (Stauropus fagi persimilis)"},{"example":"金の鯱","reading":"きんのしゃち","meaning":"golden shachihoko (ornament)"},{"example":"鯱","reading":"しゃち","meaning":"orca (Orcinus orca), killer whale, grampus, mythical carp with the head of a lion and the body of a fish (auspicious protectors of well-being)"},{"example":"鯱","reading":"しゃちほこ","meaning":"shachihoko, shachi, mythical animal with the head of a lion and the body of a fish, roof ornament in the shape of a shachihoko (believed to provide protection against fire by causing rain to fall)"},{"example":"金の鯱","reading":"きんのしゃち","meaning":"golden shachihoko (ornament)"},{"example":"金鯱","reading":"きんしゃち","meaning":"golden shachihoko (ornament)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["儿","匕","卜","厂","杰","田","虍","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39921_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bf1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bf1.gif","uri":"https://jisho.org/search/%E9%AF%B1%23kanji"}}
+{
+  "id": "鯱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯱",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "fabulous dolphin-like fish, killer whale, (kokuji)",
+    "kunyomi": [
+      "しゃちほこ",
+      "しゃち"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鯱",
+        "reading": "しゃちほこ",
+        "meaning": "shachihoko, shachi, mythical animal with the head of a tiger and the body of a fish, roof ornament in the shape of a shachihoko (believed to provide protection against fire by causing rain to fall)"
+      },
+      {
+        "example": "天社蛾",
+        "reading": "しゃちほこが",
+        "meaning": "lobster moth (Stauropus fagi persimilis)"
+      },
+      {
+        "example": "金の鯱",
+        "reading": "きんのしゃち",
+        "meaning": "golden shachihoko (ornament)"
+      },
+      {
+        "example": "鯱",
+        "reading": "しゃち",
+        "meaning": "orca (Orcinus orca), killer whale, grampus, shachi, mythical carp with the head of a tiger and the body of a fish, considered auspicious protectors of well-being, roof ornament in the shape of a shachi (believed to provide protection against fire by causing rain to fall)"
+      },
+      {
+        "example": "鯱",
+        "reading": "しゃちほこ",
+        "meaning": "shachihoko, shachi, mythical animal with the head of a tiger and the body of a fish, roof ornament in the shape of a shachihoko (believed to provide protection against fire by causing rain to fall)"
+      },
+      {
+        "example": "金の鯱",
+        "reading": "きんのしゃち",
+        "meaning": "golden shachihoko (ornament)"
+      },
+      {
+        "example": "金鯱",
+        "reading": "きんしゃち",
+        "meaning": "golden shachihoko (ornament)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "卜",
+      "厂",
+      "杰",
+      "田",
+      "虍",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39921_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bf1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bf1.gif",
+    "uri": "https://jisho.org/search/%E9%AF%B1%23kanji"
+  }
+}

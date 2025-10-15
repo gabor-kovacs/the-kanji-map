@@ -1,1 +1,58 @@
-{"id":"鯖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鯖","found":true,"strokeCount":19,"meaning":"mackerel","kunyomi":["さば"],"onyomi":["セイ","ショウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鯖","reading":"さば","meaning":"mackerel (esp. the chub mackerel, Scomber japonicus), server (esp. in an online game)"},{"example":"鯖落ち","reading":"サバおち","meaning":"server outage (e.g. in an online game)"},{"example":"二条鯖","reading":"にじょうさば","meaning":"double-lined mackerel (Grammatorcynus bilineatus)"},{"example":"青鯖","reading":"あおさば","meaning":"mackerel (esp. the chub mackerel, Scomber japonicus)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["二","亠","土","月","杰","田","青","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39894_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bd6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bd6.gif","uri":"https://jisho.org/search/%E9%AF%96%23kanji"}}
+{
+  "id": "鯖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯖",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "mackerel",
+    "kunyomi": [
+      "さば"
+    ],
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鯖",
+        "reading": "さば",
+        "meaning": "mackerel (esp. the chub mackerel, Scomber japonicus), server (esp. in an online game)"
+      },
+      {
+        "example": "鯖落ち",
+        "reading": "サバおち",
+        "meaning": "server outage (e.g. in an online game)"
+      },
+      {
+        "example": "二条鯖",
+        "reading": "にじょうさば",
+        "meaning": "double-lined mackerel (Grammatorcynus bilineatus)"
+      },
+      {
+        "example": "青鯖",
+        "reading": "あおさば",
+        "meaning": "mackerel (esp. the chub mackerel, Scomber japonicus)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "土",
+      "月",
+      "杰",
+      "田",
+      "青",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39894_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bd6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bd6.gif",
+    "uri": "https://jisho.org/search/%E9%AF%96%23kanji"
+  }
+}

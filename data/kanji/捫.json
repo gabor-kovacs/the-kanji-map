@@ -1,1 +1,33 @@
-{"id":"捫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"捫","found":true,"strokeCount":11,"meaning":"to stroke","kunyomi":["な.でる"],"onyomi":["モン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["扎","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25451_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0636b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/636b.gif","uri":"https://jisho.org/search/%E6%8D%AB%23kanji"}}
+{
+  "id": "捫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捫",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "to stroke",
+    "kunyomi": [
+      "な.でる"
+    ],
+    "onyomi": [
+      "モン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "扎",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25451_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0636b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/636b.gif",
+    "uri": "https://jisho.org/search/%E6%8D%AB%23kanji"
+  }
+}

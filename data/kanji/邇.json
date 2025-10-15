@@ -1,1 +1,56 @@
-{"id":"邇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"邇","found":true,"strokeCount":18,"meaning":"approach, near, close","kunyomi":["ちか.い"],"onyomi":["ジ","ニ"],"onyomiExamples":[{"example":"饒速日命","reading":"ニギハヤヒノミコト","meaning":"Nigihayahi, deity who married Nagasunehiko's younger sister and subsequently killed him when he opposed Emperor Jimmu"},{"example":"瓊瓊杵尊","reading":"ニニギノミコト","meaning":"Ninigi no Mikoto (Japanese deity; grandson of Amaterasu, great grandfather of Emperor Jimmu)"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["ハ","一","冂","爻","込","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36999_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09087.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9087.gif","uri":"https://jisho.org/search/%E9%82%87%23kanji"}}
+{
+  "id": "邇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "邇",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "approach, near, close",
+    "kunyomi": [
+      "ちか.い"
+    ],
+    "onyomi": [
+      "ジ",
+      "ニ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "饒速日命",
+        "reading": "ニギハヤヒノミコト",
+        "meaning": "Nigihayahi, deity who married Nagasunehiko's younger sister and subsequently killed him when he opposed Emperor Jimmu"
+      },
+      {
+        "example": "瓊瓊杵尊",
+        "reading": "ニニギノミコト",
+        "meaning": "Ninigi no Mikoto (Japanese deity; grandson of Amaterasu, great grandfather of Emperor Jimmu)"
+      },
+      {
+        "example": "和邇",
+        "reading": "ワニ",
+        "meaning": "Wani, wani (mythological sea monster)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "冂",
+      "爻",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36999_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09087.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9087.gif",
+    "uri": "https://jisho.org/search/%E9%82%87%23kanji"
+  }
+}

@@ -1,1 +1,43 @@
-{"id":"效","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"效","found":true,"strokeCount":10,"meaning":"result, effect, effectiveness","kunyomi":["き.く","ききめ","なら.う"],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"攴","forms":["攵"],"meaning":"rap"},"parts":["乞","亠","攵","父"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25928_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06548.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6548.gif","uri":"https://jisho.org/search/%E6%95%88%23kanji"}}
+{
+  "id": "效",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "效",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "result, effect, effectiveness",
+    "kunyomi": [
+      "き.く",
+      "ききめ",
+      "なら.う"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "薬効",
+        "reading": "ヤッコウ",
+        "meaning": "medical efficacy, effect of a medicine"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "乞",
+      "亠",
+      "攵",
+      "父"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25928_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06548.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6548.gif",
+    "uri": "https://jisho.org/search/%E6%95%88%23kanji"
+  }
+}

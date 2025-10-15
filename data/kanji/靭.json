@@ -1,1 +1,53 @@
-{"id":"靭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"靭","found":true,"strokeCount":12,"meaning":"soft, pliable, quiver","kunyomi":["うつぼ","しな.やか","ゆぎ"],"onyomi":["ジン","ニン","サ","サイ","サツ"],"onyomiExamples":[{"example":"靱性","reading":"ジンセイ","meaning":"toughness (of a material), tenacity, fracture toughness"},{"example":"じん帯","reading":"ジンタイ","meaning":"ligament"},{"example":"強靭","reading":"キョウジン","meaning":"tough, strong, stiff, tenacious"}],"kunyomiExamples":[],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["丶","刀","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38765_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0976d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/976d.gif","uri":"https://jisho.org/search/%E9%9D%AD%23kanji"}}
+{
+  "id": "靭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "靭",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "soft, pliable, quiver",
+    "kunyomi": [
+      "うつぼ",
+      "しな.やか",
+      "ゆぎ"
+    ],
+    "onyomi": [
+      "ジン",
+      "ニン",
+      "サ",
+      "サイ",
+      "サツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "靱性",
+        "reading": "ジンセイ",
+        "meaning": "toughness (of a material), tenacity, fracture toughness"
+      },
+      {
+        "example": "じん帯",
+        "reading": "ジンタイ",
+        "meaning": "ligament"
+      },
+      {
+        "example": "強靭",
+        "reading": "キョウジン",
+        "meaning": "tough, strong, stiff, tenacious"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "丶",
+      "刀",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38765_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0976d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/976d.gif",
+    "uri": "https://jisho.org/search/%E9%9D%AD%23kanji"
+  }
+}

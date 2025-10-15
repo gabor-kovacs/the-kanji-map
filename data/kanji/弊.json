@@ -1,1 +1,58 @@
-{"id":"弊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"弊","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1750","strokeCount":15,"meaning":"abuse, evil, vice, breakage","kunyomi":[],"onyomi":["ヘイ"],"onyomiExamples":[{"example":"弊","reading":"ヘイ","meaning":"bad habit, harm, my, our"},{"example":"弊害","reading":"ヘイガイ","meaning":"harmful effect, harmful influence, evil practice, abuse, malady"},{"example":"疲弊","reading":"ヒヘイ","meaning":"exhaustion, fatigue, impoverishment, (financial) exhaustion, ruin"},{"example":"病弊","reading":"ビョウヘイ","meaning":"evil influence, ill effect"}],"kunyomiExamples":[],"radical":{"symbol":"廾","meaning":"two hands, twenty"},"parts":["乞","冂","尚","巾","并","廾","攵","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24330_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f0a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f0a.gif","uri":"https://jisho.org/search/%E5%BC%8A%23kanji"}}
+{
+  "id": "弊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弊",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1750",
+    "strokeCount": 15,
+    "meaning": "abuse, evil, vice, breakage",
+    "kunyomi": [],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弊",
+        "reading": "ヘイ",
+        "meaning": "bad habit, harm, my, our"
+      },
+      {
+        "example": "弊害",
+        "reading": "ヘイガイ",
+        "meaning": "harmful effect, harmful influence, evil practice, abuse, malady"
+      },
+      {
+        "example": "疲弊",
+        "reading": "ヒヘイ",
+        "meaning": "exhaustion, fatigue, impoverishment, (financial) exhaustion, ruin"
+      },
+      {
+        "example": "病弊",
+        "reading": "ビョウヘイ",
+        "meaning": "evil influence, ill effect"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "廾",
+      "meaning": "two hands, twenty"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "尚",
+      "巾",
+      "并",
+      "廾",
+      "攵",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24330_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f0a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f0a.gif",
+    "uri": "https://jisho.org/search/%E5%BC%8A%23kanji"
+  }
+}

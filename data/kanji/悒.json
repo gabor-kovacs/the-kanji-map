@@ -1,1 +1,52 @@
-{"id":"悒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"悒","found":true,"strokeCount":10,"meaning":"be depressed","kunyomi":["ふさ.ぐ","うれ.える"],"onyomi":["ユウ"],"onyomiExamples":[{"example":"憂鬱","reading":"ユウウツ","meaning":"depression, melancholy, dejection, gloom, despondency"},{"example":"悒々","reading":"ユウユウ","meaning":"sad, melancholy"},{"example":"悒々","reading":"ユウユウ","meaning":"sad, melancholy"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["口","巴","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24722_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06092.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6092.gif","uri":"https://jisho.org/search/%E6%82%92%23kanji"}}
+{
+  "id": "悒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悒",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "be depressed",
+    "kunyomi": [
+      "ふさ.ぐ",
+      "うれ.える"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憂鬱",
+        "reading": "ユウウツ",
+        "meaning": "depression, melancholy, dejection, gloom, despondency"
+      },
+      {
+        "example": "悒々",
+        "reading": "ユウユウ",
+        "meaning": "sad, melancholy"
+      },
+      {
+        "example": "悒々",
+        "reading": "ユウユウ",
+        "meaning": "sad, melancholy"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "口",
+      "巴",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24722_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06092.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6092.gif",
+    "uri": "https://jisho.org/search/%E6%82%92%23kanji"
+  }
+}

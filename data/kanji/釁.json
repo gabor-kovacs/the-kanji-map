@@ -1,1 +1,52 @@
-{"id":"釁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"釁","found":true,"strokeCount":25,"meaning":"smear with blood","kunyomi":["ちぬ.る","すき","ひま"],"onyomi":["キン"],"onyomiExamples":[{"example":"釁端","reading":"キンタン","meaning":"opening of hostilities"},{"example":"瑕瑾","reading":"カキン","meaning":"scratch, chip, nick, flaw, fault, defect, shame, disgrace"}],"kunyomiExamples":[{"example":"血塗る","reading":"ちぬる","meaning":"to smear with blood, to kill"}],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["ハ","冂","刀","臼","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37313_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091c1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91c1.gif","uri":"https://jisho.org/search/%E9%87%81%23kanji"}}
+{
+  "id": "釁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "釁",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "smear with blood",
+    "kunyomi": [
+      "ちぬ.る",
+      "すき",
+      "ひま"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "釁端",
+        "reading": "キンタン",
+        "meaning": "opening of hostilities"
+      },
+      {
+        "example": "瑕瑾",
+        "reading": "カキン",
+        "meaning": "scratch, chip, nick, flaw, fault, defect, shame, disgrace"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "血塗る",
+        "reading": "ちぬる",
+        "meaning": "to smear with blood, to kill"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "ハ",
+      "冂",
+      "刀",
+      "臼",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37313_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91c1.gif",
+    "uri": "https://jisho.org/search/%E9%87%81%23kanji"
+  }
+}

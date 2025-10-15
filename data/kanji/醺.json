@@ -1,1 +1,43 @@
-{"id":"醺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"醺","found":true,"strokeCount":21,"meaning":"hunger","kunyomi":["よう"],"onyomi":["クン"],"onyomiExamples":[{"example":"醺然","reading":"クンゼン","meaning":"appearing drunk and cheerful"},{"example":"微醺","reading":"ビクン","meaning":"slight intoxication"}],"kunyomiExamples":[],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["ノ","杰","酉","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37306_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091ba.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91ba.gif","uri":"https://jisho.org/search/%E9%86%BA%23kanji"}}
+{
+  "id": "醺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醺",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "hunger",
+    "kunyomi": [
+      "よう"
+    ],
+    "onyomi": [
+      "クン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醺然",
+        "reading": "クンゼン",
+        "meaning": "appearing drunk and cheerful"
+      },
+      {
+        "example": "微醺",
+        "reading": "ビクン",
+        "meaning": "slight intoxication, being tipsy, mellowness"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "ノ",
+      "杰",
+      "酉",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37306_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091ba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91ba.gif",
+    "uri": "https://jisho.org/search/%E9%86%BA%23kanji"
+  }
+}

@@ -1,1 +1,89 @@
-{"id":"惨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"惨","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1463","strokeCount":11,"meaning":"wretched, disaster, cruelty, harsh","kunyomi":["みじ.め","いた.む","むご.い"],"onyomi":["サン","ザン"],"onyomiExamples":[{"example":"惨","reading":"サン","meaning":"appalling"},{"example":"惨事","reading":"サンジ","meaning":"disaster, tragedy, tragic incident, horrible accident"},{"example":"凄惨","reading":"セイサン","meaning":"ghastly, gruesome, appalling, lurid"},{"example":"陰惨","reading":"インサン","meaning":"sadness and gloom"},{"example":"残虐","reading":"ザンギャク","meaning":"cruel, brutal, savage, barbarous"},{"example":"残酷","reading":"ザンコク","meaning":"cruel, brutal, ruthless, merciless, inhuman"},{"example":"冷酷無惨","reading":"レイコクムザン","meaning":"cruel and heartless, merciless, implacable, cold-blooded"}],"kunyomiExamples":[{"example":"惨め","reading":"みじめ","meaning":"miserable, wretched, unhappy, sad, pitiable"},{"example":"惨い","reading":"むごい","meaning":"cruel, merciless, pitiless, brutal, atrocious, inhuman, tragic, horrible, terrible, dreadful, miserable, ugly, horrifying"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["一","厶","彡","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24808_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060e8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60e8.gif","uri":"https://jisho.org/search/%E6%83%A8%23kanji"}}
+{
+  "id": "惨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "惨",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1463",
+    "strokeCount": 11,
+    "meaning": "wretched, disaster, cruelty, harsh",
+    "kunyomi": [
+      "みじ.め",
+      "いた.む",
+      "むご.い"
+    ],
+    "onyomi": [
+      "サン",
+      "ザン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "惨",
+        "reading": "サン",
+        "meaning": "appalling"
+      },
+      {
+        "example": "惨事",
+        "reading": "サンジ",
+        "meaning": "disaster, tragedy, tragic incident, horrible accident"
+      },
+      {
+        "example": "凄惨",
+        "reading": "セイサン",
+        "meaning": "ghastly, gruesome, appalling, lurid"
+      },
+      {
+        "example": "陰惨",
+        "reading": "インサン",
+        "meaning": "sadness and gloom"
+      },
+      {
+        "example": "残虐",
+        "reading": "ザンギャク",
+        "meaning": "cruel, brutal, savage, barbarous"
+      },
+      {
+        "example": "残酷",
+        "reading": "ザンコク",
+        "meaning": "cruel, brutal, ruthless, merciless, inhuman"
+      },
+      {
+        "example": "冷酷無惨",
+        "reading": "レイコクムザン",
+        "meaning": "cruel and heartless, merciless, implacable, cold-blooded"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "惨め",
+        "reading": "みじめ",
+        "meaning": "miserable, wretched, unhappy, sad, pitiable"
+      },
+      {
+        "example": "惨い",
+        "reading": "むごい",
+        "meaning": "cruel, merciless, pitiless, brutal, atrocious, inhuman, tragic, horrible, terrible, dreadful, miserable, ugly, horrifying"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "一",
+      "厶",
+      "彡",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24808_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060e8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60e8.gif",
+    "uri": "https://jisho.org/search/%E6%83%A8%23kanji"
+  }
+}

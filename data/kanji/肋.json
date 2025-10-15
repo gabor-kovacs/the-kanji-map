@@ -1,1 +1,60 @@
-{"id":"肋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"肋","found":true,"strokeCount":6,"meaning":"rib","kunyomi":["あばら"],"onyomi":["ロク"],"onyomiExamples":[{"example":"肋凹","reading":"ロクオウ","meaning":"costal fovea"},{"example":"肋材","reading":"ロクザイ","meaning":"lumber (for the ribs of a ship)"},{"example":"中肋","reading":"チュウロク","meaning":"midrib, rachis"}],"kunyomiExamples":[{"example":"肋","reading":"あばら","meaning":"rib, rib cage"},{"example":"肋骨","reading":"あばらぼね","meaning":"rib, frame (of a ship)"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["力","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32907_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0808b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/808b.gif","uri":"https://jisho.org/search/%E8%82%8B%23kanji"}}
+{
+  "id": "肋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肋",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "rib",
+    "kunyomi": [
+      "あばら"
+    ],
+    "onyomi": [
+      "ロク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肋凹",
+        "reading": "ロクオウ",
+        "meaning": "costal fovea"
+      },
+      {
+        "example": "肋材",
+        "reading": "ロクザイ",
+        "meaning": "lumber (for the ribs of a ship)"
+      },
+      {
+        "example": "中肋",
+        "reading": "チュウロク",
+        "meaning": "midrib, rachis"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "肋",
+        "reading": "あばら",
+        "meaning": "rib, rib cage"
+      },
+      {
+        "example": "あばら筋",
+        "reading": "あばらきん",
+        "meaning": "stirrup (in reinforced concrete construction)"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "力",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32907_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0808b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/808b.gif",
+    "uri": "https://jisho.org/search/%E8%82%8B%23kanji"
+  }
+}

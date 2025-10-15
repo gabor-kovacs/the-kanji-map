@@ -1,1 +1,44 @@
-{"id":"塹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"塹","found":true,"strokeCount":14,"meaning":"moat, ditch","kunyomi":["ほり","あな"],"onyomi":["ザン","セン"],"onyomiExamples":[{"example":"塹壕","reading":"ザンゴウ","meaning":"trench, dugout"},{"example":"塹壕戦","reading":"ザンゴウセン","meaning":"trench warfare"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","斤","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22649_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05879.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5879.gif","uri":"https://jisho.org/search/%E5%A1%B9%23kanji"}}
+{
+  "id": "塹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "塹",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "moat, ditch",
+    "kunyomi": [
+      "ほり",
+      "あな"
+    ],
+    "onyomi": [
+      "ザン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "塹壕",
+        "reading": "ザンゴウ",
+        "meaning": "trench, dugout"
+      },
+      {
+        "example": "塹壕戦",
+        "reading": "ザンゴウセン",
+        "meaning": "trench warfare"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "斤",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22649_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05879.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5879.gif",
+    "uri": "https://jisho.org/search/%E5%A1%B9%23kanji"
+  }
+}

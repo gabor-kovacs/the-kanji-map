@@ -1,1 +1,61 @@
-{"id":"渠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"渠","found":true,"strokeCount":12,"meaning":"ditch, canal, lock","kunyomi":["かれ","なんぞ","なに","みぞ","いずくんぞ"],"onyomi":["キョ"],"onyomiExamples":[{"example":"巨魁","reading":"キョカイ","meaning":"ringleader, chief"},{"example":"渠河","reading":"キョガ","meaning":"waterway, canal, river"},{"example":"開渠","reading":"カイキョ","meaning":"open ditch, open channel, open conduit, open culvert"},{"example":"明渠","reading":"メイキョ","meaning":"open ditch"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["匚","巨","木","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28192_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e20.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e20.gif","uri":"https://jisho.org/search/%E6%B8%A0%23kanji"}}
+{
+  "id": "渠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渠",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "ditch, canal, lock",
+    "kunyomi": [
+      "かれ",
+      "なんぞ",
+      "なに",
+      "みぞ",
+      "いずくんぞ"
+    ],
+    "onyomi": [
+      "キョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巨魁",
+        "reading": "キョカイ",
+        "meaning": "ringleader, chief"
+      },
+      {
+        "example": "渠河",
+        "reading": "キョガ",
+        "meaning": "waterway, canal, river"
+      },
+      {
+        "example": "開渠",
+        "reading": "カイキョ",
+        "meaning": "open ditch, open channel, open conduit, open culvert"
+      },
+      {
+        "example": "明渠",
+        "reading": "メイキョ",
+        "meaning": "open ditch"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "匚",
+      "巨",
+      "木",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28192_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e20.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e20.gif",
+    "uri": "https://jisho.org/search/%E6%B8%A0%23kanji"
+  }
+}

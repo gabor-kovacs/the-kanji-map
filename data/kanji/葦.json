@@ -1,1 +1,77 @@
-{"id":"葦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"葦","found":true,"newspaperFrequencyRank":"2343","strokeCount":13,"meaning":"reed, bullrush","kunyomi":["あし","よし","しお.れる","しな.びる","しぼ.む","な.える"],"onyomi":["イ"],"onyomiExamples":[{"example":"一葦","reading":"イチイ","meaning":"one reed, small boat, one person"}],"kunyomiExamples":[{"example":"葦","reading":"あし","meaning":"common reed (Phragmites australis)"},{"example":"海驢","reading":"あしか","meaning":"eared seal (esp. the California sea lion, Zalophus californianus), sea lion"},{"example":"間葦","reading":"あいあし","meaning":"Phacelurus latifolius (species of perennial grass)"},{"example":"青葦","reading":"あおあし","meaning":"lush waterside reeds"},{"example":"葦","reading":"あし","meaning":"common reed (Phragmites australis)"},{"example":"葦鴨","reading":"よしがも","meaning":"falcated teal"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["口","艾","韋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33894_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08466.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8466.gif","uri":"https://jisho.org/search/%E8%91%A6%23kanji"}}
+{
+  "id": "葦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "葦",
+    "found": true,
+    "newspaperFrequencyRank": "2343",
+    "strokeCount": 13,
+    "meaning": "reed, bullrush",
+    "kunyomi": [
+      "あし",
+      "よし",
+      "しお.れる",
+      "しな.びる",
+      "しぼ.む",
+      "な.える"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "一葦",
+        "reading": "イチイ",
+        "meaning": "one reed, small boat, one person"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "葦",
+        "reading": "あし",
+        "meaning": "common reed (Phragmites australis)"
+      },
+      {
+        "example": "海驢",
+        "reading": "あしか",
+        "meaning": "eared seal (esp. the California sea lion, Zalophus californianus), sea lion"
+      },
+      {
+        "example": "間葦",
+        "reading": "あいあし",
+        "meaning": "Phacelurus latifolius (species of perennial grass)"
+      },
+      {
+        "example": "青葦",
+        "reading": "あおあし",
+        "meaning": "lush waterside reeds"
+      },
+      {
+        "example": "葦",
+        "reading": "あし",
+        "meaning": "common reed (Phragmites australis)"
+      },
+      {
+        "example": "葦鴨",
+        "reading": "よしがも",
+        "meaning": "falcated teal"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "口",
+      "艾",
+      "韋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33894_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08466.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8466.gif",
+    "uri": "https://jisho.org/search/%E8%91%A6%23kanji"
+  }
+}

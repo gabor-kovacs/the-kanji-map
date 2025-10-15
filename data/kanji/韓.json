@@ -1,1 +1,67 @@
-{"id":"韓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"韓","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"445","strokeCount":18,"meaning":"Korea","kunyomi":["から","いげた"],"onyomi":["カン"],"onyomiExamples":[{"example":"漢方薬","reading":"カンポウヤク","meaning":"Chinese herbal medicine"},{"example":"韓国","reading":"カンコク","meaning":"South Korea, Republic of Korea, Korean Empire (1897-1910)"},{"example":"日韓","reading":"ニッカン","meaning":"Japan and South Korea, Japanese-Korean"},{"example":"在韓","reading":"ザイカン","meaning":"resident in South Korea, situated in South Korea"}],"kunyomiExamples":[{"example":"唐","reading":"から","meaning":"China (sometimes also used in ref. to Korea or other foreign countries)"},{"example":"唐国","reading":"からくに","meaning":"China, Korea"}],"radical":{"symbol":"韋","meaning":"tanned leather"},"parts":["十","口","日","韋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38867_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097d3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97d3.gif","uri":"https://jisho.org/search/%E9%9F%93%23kanji"}}
+{
+  "id": "韓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "韓",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "445",
+    "strokeCount": 18,
+    "meaning": "Korea",
+    "kunyomi": [
+      "から",
+      "いげた"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "韓",
+        "reading": "カン",
+        "meaning": "Republic of Korea, South Korea, Han (ancient Chinese state)"
+      },
+      {
+        "example": "韓国",
+        "reading": "カンコク",
+        "meaning": "South Korea, Republic of Korea, Korean Empire (1897-1910)"
+      },
+      {
+        "example": "日韓",
+        "reading": "ニッカン",
+        "meaning": "Japan and South Korea, Japanese-Korean"
+      },
+      {
+        "example": "在韓",
+        "reading": "ザイカン",
+        "meaning": "resident in South Korea, situated in South Korea"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "唐",
+        "reading": "から",
+        "meaning": "China (sometimes also used in ref. to Korea or other foreign countries)"
+      },
+      {
+        "example": "唐国",
+        "reading": "からくに",
+        "meaning": "China, Korea"
+      }
+    ],
+    "radical": {
+      "symbol": "韋",
+      "meaning": "tanned leather"
+    },
+    "parts": [
+      "十",
+      "口",
+      "日",
+      "韋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38867_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097d3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97d3.gif",
+    "uri": "https://jisho.org/search/%E9%9F%93%23kanji"
+  }
+}

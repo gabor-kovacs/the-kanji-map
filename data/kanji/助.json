@@ -1,1 +1,441 @@
-{"id":"助","kanjialiveData":{"kanji":{"character":"助","meaning":{"english":"help, rescue, assistance"},"strokes":{"count":7,"timings":[0.805,1.701,3.242,3.844,4.514,5.586,7.66,8.375],"images":["https://media.kanjialive.com/kanji_strokes/tasu(keru)_1.svg","https://media.kanjialive.com/kanji_strokes/tasu(keru)_2.svg","https://media.kanjialive.com/kanji_strokes/tasu(keru)_3.svg","https://media.kanjialive.com/kanji_strokes/tasu(keru)_4.svg","https://media.kanjialive.com/kanji_strokes/tasu(keru)_5.svg","https://media.kanjialive.com/kanji_strokes/tasu(keru)_6.svg","https://media.kanjialive.com/kanji_strokes/tasu(keru)_7.svg"]},"onyomi":{"romaji":"jo","katakana":"ジョ"},"kunyomi":{"romaji":"tasu, tasukeru, tasukaru, suke","hiragana":"たす、すけ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/tasu(keru)_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/tasu(keru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/tasu(keru)_00.webm"}},"radical":{"character":"⼒","strokes":2,"image":"https://media.kanjialive.com/radical_character/chikara.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"ちから","romaji":"chikara"},"meaning":{"english":"power"},"animation":["https://media.kanjialive.com/rad_frames/chikara0.svg","https://media.kanjialive.com/rad_frames/chikara1.svg","https://media.kanjialive.com/rad_frames/chikara2.svg"]},"references":{"grade":3,"kodansha":"764","classic_nelson":"719"},"examples":[{"japanese":"助詞（じょし）","meaning":{"english":"(grammar) particle"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_a.mp3"}},{"japanese":"助手（じょしゅ）","meaning":{"english":"assistant"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_b.mp3"}},{"japanese":"助教授（じょきょうじゅ）","meaning":{"english":"assistant professor"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_c.mp3"}},{"japanese":"助監督（じょかんとく）","meaning":{"english":"assistant director"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_d.mp3"}},{"japanese":"助言する（じょげんする）","meaning":{"english":"advise"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_e.mp3"}},{"japanese":"援助する（えんじょする）","meaning":{"english":"aid, support"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_f.mp3"}},{"japanese":"救助する（きゅうじょする）","meaning":{"english":"rescue [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_g.mp3"}},{"japanese":"助ける（たすける）","meaning":{"english":"help, save [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_h.mp3"}},{"japanese":"手助け（てだすけ）","meaning":{"english":"help [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_i.mp3"}},{"japanese":"助かる（たすかる）","meaning":{"english":"be saved, survive [v.i.], helpful [adj.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_j.mp3"}},{"japanese":"助っ人（すけっと）","meaning":{"english":"helper"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_k.mp3"}}]},"jishoData":{"query":"助","found":true,"taughtIn":"grade 3","jlptLevel":"N3","newspaperFrequencyRank":"397","strokeCount":7,"meaning":"help, rescue, assist","kunyomi":["たす.ける","たす.かる","す.ける","すけ"],"onyomi":["ジョ"],"onyomiExamples":[{"example":"助","reading":"ジョ","meaning":"help, rescue, assistant"},{"example":"助演","reading":"ジョエン","meaning":"supporting performance, playing a supporting role"},{"example":"互助","reading":"ゴジョ","meaning":"mutual aid, cooperation, benefit"},{"example":"介助","reading":"カイジョ","meaning":"help, assistance, aid"}],"kunyomiExamples":[{"example":"助ける","reading":"たすける","meaning":"to save, to rescue, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"},{"example":"助かる","reading":"たすかる","meaning":"to be saved, to be rescued, to survive, to escape harm, to be spared damage, to be helped, to be saved trouble"},{"example":"助","reading":"すけ","meaning":"assistance, help, helper, babe, chick, broad"},{"example":"助手","reading":"じょしゅ","meaning":"assistant, helper, assistant (to a professor)"},{"example":"福助","reading":"ふくすけ","meaning":"large-headed dwarf statue, bringer of good luck"},{"example":"デコ助","reading":"デコすけ","meaning":"big forehead, fivehead, asshole"}],"radical":{"symbol":"力","meaning":"power, force"},"parts":["力","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21161_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052a9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52a9.gif","uri":"https://jisho.org/search/%E5%8A%A9%23kanji"}}
+{
+  "id": "助",
+  "kanjialiveData": {
+    "_id": "54317af3791eba5146ee4a9a",
+    "_rev": "12-7ba039d212d4da3e87c5a15c6282775e",
+    "rad_name_ja": "ちから",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "tasu, tasukeru, tasukaru, suke",
+    "meaning": "help, rescue, assistance",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "助詞（じょし）",
+        "meaning": {
+          "english": "(grammar) particle"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "助手（じょしゅ）",
+        "meaning": {
+          "english": "assistant"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "助教授（じょきょうじゅ）",
+        "meaning": {
+          "english": "assistant professor"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "助監督（じょかんとく）",
+        "meaning": {
+          "english": "assistant director"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "助言する（じょげんする）",
+        "meaning": {
+          "english": "advise"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "援助する（えんじょする）",
+        "meaning": {
+          "english": "aid, support"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "救助する（きゅうじょする）",
+        "meaning": {
+          "english": "rescue [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "助ける（たすける）",
+        "meaning": {
+          "english": "help, save [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "手助け（てだすけ）",
+        "meaning": {
+          "english": "help [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "助かる（たすかる）",
+        "meaning": {
+          "english": "be saved, survive [v.i.], helpful [adj.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "助っ人（すけっと）",
+        "meaning": {
+          "english": "helper"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tasu(keru)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tasu(keru)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tasu(keru)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "たす、たすける、たすかる、すけ",
+    "ka_utf": "助",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=助",
+    "kname": "tasu(keru)",
+    "rad_order": 24,
+    "txt_books": [
+      {
+        "chapter": "5",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtMajoFilm"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "23",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "23",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "10"
+      }
+    ],
+    "rad_name_search": [
+      "chikara"
+    ],
+    "rad_utf": "⼒",
+    "stroketimes": [
+      0.805,
+      1.701,
+      3.242,
+      3.844,
+      4.514,
+      5.586,
+      7.66,
+      8.375
+    ],
+    "kunyomi_ka_display": "たす、すけ",
+    "dick": "764",
+    "rad_name": "chikara",
+    "dicn": "719",
+    "mn_hint": "The altar 且 gives strength 力 to those who seek help.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ジョ",
+    "rad_meaning": "power",
+    "onyomi": "jo",
+    "ka_id": "ka_465",
+    "onyomi_search": [
+      "jo",
+      "jo"
+    ],
+    "kunyomi_search": [
+      "tasu",
+      "tasukeru",
+      "tasukaru",
+      "suke",
+      "tasu, tasukeru, tasukaru, suke"
+    ],
+    "meaning_search": [
+      "help",
+      "rescue",
+      "assistance",
+      "help, rescue, assistance"
+    ],
+    "onyomi_ja_search": [
+      "ジョ",
+      "ジョ"
+    ],
+    "kunyomi_ja_search": [
+      "たす",
+      "たすける",
+      "たすかる",
+      "すけ",
+      "たす、たすける、たすかる、すけ"
+    ],
+    "rad_meaning_search": [
+      "power",
+      "power"
+    ],
+    "rad_name_ja_search": [
+      "ちから"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:5",
+      "ij:c5",
+      "mnt",
+      "mnt:2",
+      "mnt:c2",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v4",
+      "aij3:v4:7",
+      "aij3:v4:c7",
+      "ik1",
+      "ik1:3",
+      "ik1:c3",
+      "jt",
+      "jt:3",
+      "jt:c3",
+      "mosr",
+      "mosr:10",
+      "mosr:c10"
+    ],
+    "rad_name_file": "chikara",
+    "kanji": {
+      "character": "助",
+      "meaning": {
+        "english": "help, rescue, assistance"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0.805,
+          1.701,
+          3.242,
+          3.844,
+          4.514,
+          5.586,
+          7.66,
+          8.375
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tasu(keru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tasu(keru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tasu(keru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/tasu(keru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/tasu(keru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/tasu(keru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/tasu(keru)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "jo",
+        "katakana": "ジョ"
+      },
+      "kunyomi": {
+        "romaji": "tasu, tasukeru, tasukaru, suke",
+        "hiragana": "たす、すけ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tasu(keru)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tasu(keru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tasu(keru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼒",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/chikara.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ちから",
+        "romaji": "chikara"
+      },
+      "meaning": {
+        "english": "power"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/chikara0.svg",
+        "https://media.kanjialive.com/rad_frames/chikara1.svg",
+        "https://media.kanjialive.com/rad_frames/chikara2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "764",
+      "classic_nelson": "719"
+    }
+  },
+  "jishoData": {
+    "query": "助",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "397",
+    "strokeCount": 7,
+    "meaning": "help, rescue, assist",
+    "kunyomi": [
+      "たす.ける",
+      "たす.かる",
+      "す.ける",
+      "すけ"
+    ],
+    "onyomi": [
+      "ジョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "助",
+        "reading": "ジョ",
+        "meaning": "help, rescue, assistant"
+      },
+      {
+        "example": "助演",
+        "reading": "ジョエン",
+        "meaning": "supporting performance, playing a supporting role"
+      },
+      {
+        "example": "互助",
+        "reading": "ゴジョ",
+        "meaning": "mutual aid, cooperation, benefit"
+      },
+      {
+        "example": "介助",
+        "reading": "カイジョ",
+        "meaning": "help, assistance, aid"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "助ける",
+        "reading": "たすける",
+        "meaning": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"
+      },
+      {
+        "example": "助かる",
+        "reading": "たすかる",
+        "meaning": "to be saved, to be rescued, to survive, to escape harm, to be spared damage, to be helped, to be saved trouble"
+      },
+      {
+        "example": "助",
+        "reading": "すけ",
+        "meaning": "assistance, help, helper, babe, chick, broad"
+      },
+      {
+        "example": "助っ人",
+        "reading": "すけっと",
+        "meaning": "helper, supporter, second, backer, foreign player (hired to strengthen a team)"
+      },
+      {
+        "example": "福助",
+        "reading": "ふくすけ",
+        "meaning": "large-headed dwarf statue, bringer of good luck"
+      },
+      {
+        "example": "デコ助",
+        "reading": "デコすけ",
+        "meaning": "big forehead, fivehead, asshole"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "力",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21161_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052a9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52a9.gif",
+    "uri": "https://jisho.org/search/%E5%8A%A9%23kanji"
+  }
+}

@@ -1,1 +1,40 @@
-{"id":"靼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"靼","found":true,"strokeCount":14,"meaning":"tanned leather, smooth leather","kunyomi":["なめ.す","なめしがわ"],"onyomi":["タン","タチ","タツ"],"onyomiExamples":[{"example":"韃靼","reading":"ダッタン","meaning":"Tartary (various tribes that historically inhabited the area north of China)"}],"kunyomiExamples":[],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["一","日","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38780_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0977c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/977c.gif","uri":"https://jisho.org/search/%E9%9D%BC%23kanji"}}
+{
+  "id": "靼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "靼",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "tanned leather, smooth leather",
+    "kunyomi": [
+      "なめ.す",
+      "なめしがわ"
+    ],
+    "onyomi": [
+      "タン",
+      "タチ",
+      "タツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "韃靼",
+        "reading": "ダッタン",
+        "meaning": "Tartary (various tribes that historically inhabited the area north of China)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "一",
+      "日",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38780_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0977c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/977c.gif",
+    "uri": "https://jisho.org/search/%E9%9D%BC%23kanji"
+  }
+}

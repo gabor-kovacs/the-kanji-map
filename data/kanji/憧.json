@@ -1,1 +1,57 @@
-{"id":"憧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"憧","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2259","strokeCount":15,"meaning":"yearn after, long for, aspire to, admire, adore","kunyomi":["あこが.れる"],"onyomi":["ショウ","トウ","ドウ"],"onyomiExamples":[{"example":"憧憬","reading":"ドウケイ","meaning":"longing, yearning, aspiration, adoration"},{"example":"憧憬","reading":"ドウケイ","meaning":"longing, yearning, aspiration, adoration"}],"kunyomiExamples":[{"example":"憧れる","reading":"あこがれる","meaning":"to long for, to yearn after, to admire, to be attracted by"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["忙","立","里"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24999_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061a7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61a7.gif","uri":"https://jisho.org/search/%E6%86%A7%23kanji"}}
+{
+  "id": "憧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憧",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2259",
+    "strokeCount": 15,
+    "meaning": "yearn after, long for, aspire to, admire, adore",
+    "kunyomi": [
+      "あこが.れる"
+    ],
+    "onyomi": [
+      "ショウ",
+      "トウ",
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憧憬",
+        "reading": "ドウケイ",
+        "meaning": "longing, yearning, aspiration, adoration"
+      },
+      {
+        "example": "憧憬",
+        "reading": "ドウケイ",
+        "meaning": "longing, yearning, aspiration, adoration"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "憧れる",
+        "reading": "あこがれる",
+        "meaning": "to long for, to yearn for, to hanker after, to be attracted by, to be drawn to, to aspire to, to admire, to adore"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "忙",
+      "立",
+      "里"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24999_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061a7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61a7.gif",
+    "uri": "https://jisho.org/search/%E6%86%A7%23kanji"
+  }
+}

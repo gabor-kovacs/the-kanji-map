@@ -1,1 +1,42 @@
-{"id":"馥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"馥","found":true,"strokeCount":18,"meaning":"perfume","kunyomi":["か","かお.る"],"onyomi":["クク","ヒョク","フク"],"onyomiExamples":[{"example":"馥郁","reading":"フクイク","meaning":"fragrant, sweet-smelling"}],"kunyomiExamples":[],"radical":{"symbol":"香","meaning":"fragrance"},"parts":["乞","夂","日","禾","香"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39333_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099a5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99a5.gif","uri":"https://jisho.org/search/%E9%A6%A5%23kanji"}}
+{
+  "id": "馥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "馥",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "perfume",
+    "kunyomi": [
+      "か",
+      "かお.る"
+    ],
+    "onyomi": [
+      "クク",
+      "ヒョク",
+      "フク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "馥郁",
+        "reading": "フクイク",
+        "meaning": "fragrant, sweet-smelling"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "香",
+      "meaning": "fragrance"
+    },
+    "parts": [
+      "乞",
+      "夂",
+      "日",
+      "禾",
+      "香"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39333_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099a5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99a5.gif",
+    "uri": "https://jisho.org/search/%E9%A6%A5%23kanji"
+  }
+}

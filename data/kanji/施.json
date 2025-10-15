@@ -1,1 +1,74 @@
-{"id":"施","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"施","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"323","strokeCount":9,"meaning":"give, bestow, perform, alms","kunyomi":["ほどこ.す"],"onyomi":["シ","セ"],"onyomiExamples":[{"example":"施工","reading":"セコウ","meaning":"construction, constructing, carrying out, work, formation, workmanship, execution"},{"example":"施行","reading":"シコウ","meaning":"putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution"},{"example":"施行","reading":"シコウ","meaning":"putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution"},{"example":"施工","reading":"セコウ","meaning":"construction, constructing, carrying out, work, formation, workmanship, execution"},{"example":"布施","reading":"フセ","meaning":"alms-giving, charity, offerings (usu. money) to a priest (for reading sutras, etc.)"},{"example":"仕着せ","reading":"シキセ","meaning":"servant's clothes provided by an employer, livery"}],"kunyomiExamples":[{"example":"施す","reading":"ほどこす","meaning":"to give (time, money, goods), to donate, to do, to perform, to conduct, to apply (processing, makeup, etc.), to add (e.g. ornamentation, annotation), to sow, to seed, to scatter (e.g. fertilizer), to sprinkle, to spread far and wide"}],"radical":{"symbol":"方","meaning":"square"},"parts":["ノ","一","乞","也","方"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26045_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065bd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65bd.gif","uri":"https://jisho.org/search/%E6%96%BD%23kanji"}}
+{
+  "id": "施",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "施",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "323",
+    "strokeCount": 9,
+    "meaning": "give, bestow, perform, alms",
+    "kunyomi": [
+      "ほどこ.す"
+    ],
+    "onyomi": [
+      "シ",
+      "セ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "施工",
+        "reading": "セコウ",
+        "meaning": "construction, constructing, carrying out, work, formation, workmanship, execution"
+      },
+      {
+        "example": "施行",
+        "reading": "シコウ",
+        "meaning": "putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution"
+      },
+      {
+        "example": "施行",
+        "reading": "シコウ",
+        "meaning": "putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution"
+      },
+      {
+        "example": "施工",
+        "reading": "セコウ",
+        "meaning": "construction, constructing, carrying out, work, formation, workmanship, execution"
+      },
+      {
+        "example": "布施",
+        "reading": "フセ",
+        "meaning": "alms-giving, charity, offerings (usu. money) to a priest (for reading sutras, etc.)"
+      },
+      {
+        "example": "仕着せ",
+        "reading": "シキセ",
+        "meaning": "servant's clothes provided by an employer, livery"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "施す",
+        "reading": "ほどこす",
+        "meaning": "to give (time, money, goods), to donate, to do, to perform, to conduct, to apply (processing, makeup, etc.), to add (e.g. ornamentation, annotation), to sow, to seed, to scatter (e.g. fertilizer), to sprinkle, to spread far and wide"
+      }
+    ],
+    "radical": {
+      "symbol": "方",
+      "meaning": "square"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "也",
+      "方"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26045_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065bd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65bd.gif",
+    "uri": "https://jisho.org/search/%E6%96%BD%23kanji"
+  }
+}

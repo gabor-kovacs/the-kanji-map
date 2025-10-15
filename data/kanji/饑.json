@@ -1,1 +1,53 @@
-{"id":"饑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"饑","found":true,"strokeCount":21,"meaning":"hunger, thirst","kunyomi":["う.える"],"onyomi":["キ"],"onyomiExamples":[{"example":"飢餓","reading":"キガ","meaning":"starvation, famine, hunger"},{"example":"飢饉","reading":"キキン","meaning":"famine, crop failure, chronic shortage (e.g. of water)"}],"kunyomiExamples":[{"example":"飢える","reading":"うえる","meaning":"to starve, to be famished, to be hungry, to be starved of (e.g. love), to be thirsty for (e.g. knowledge), to be hungry for"}],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":["ノ","丶","幺","戈","食"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39249_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09951.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9951.gif","uri":"https://jisho.org/search/%E9%A5%91%23kanji"}}
+{
+  "id": "饑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "饑",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "hunger, thirst",
+    "kunyomi": [
+      "う.える"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "飢餓",
+        "reading": "キガ",
+        "meaning": "starvation, famine, hunger"
+      },
+      {
+        "example": "飢饉",
+        "reading": "キキン",
+        "meaning": "famine, crop failure, chronic shortage (e.g. of water)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "飢える",
+        "reading": "うえる",
+        "meaning": "to starve, to be famished, to be hungry, to be starved of (e.g. love), to be thirsty for (e.g. knowledge), to be hungry for"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "幺",
+      "戈",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39249_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09951.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9951.gif",
+    "uri": "https://jisho.org/search/%E9%A5%91%23kanji"
+  }
+}

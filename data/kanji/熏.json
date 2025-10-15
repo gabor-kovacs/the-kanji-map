@@ -1,1 +1,52 @@
-{"id":"熏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"熏","found":true,"strokeCount":14,"meaning":"smoke, fog, vapor, cure","kunyomi":["くす.べる","ふす.べる","いぶ.す","いぶ.る","くす.ぶる","くゆ.らす"],"onyomi":["クン"],"onyomiExamples":[{"example":"燻蒸","reading":"クンジョウ","meaning":"fumigation, smoking (out)"},{"example":"熏蒸剤","reading":"クンジョウザイ","meaning":"fumigant"}],"kunyomiExamples":[],"radical":{"symbol":"火","forms":["灬"],"meaning":"fire"},"parts":["ノ","日","杰","田","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29071_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0718f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/718f.gif","uri":"https://jisho.org/search/%E7%86%8F%23kanji"}}
+{
+  "id": "熏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "熏",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "smoke, fog, vapor, cure",
+    "kunyomi": [
+      "くす.べる",
+      "ふす.べる",
+      "いぶ.す",
+      "いぶ.る",
+      "くす.ぶる",
+      "くゆ.らす"
+    ],
+    "onyomi": [
+      "クン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "燻蒸",
+        "reading": "クンジョウ",
+        "meaning": "fumigation, smoking (out)"
+      },
+      {
+        "example": "熏蒸剤",
+        "reading": "クンジョウザイ",
+        "meaning": "fumigant"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "fire"
+    },
+    "parts": [
+      "ノ",
+      "日",
+      "杰",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29071_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0718f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/718f.gif",
+    "uri": "https://jisho.org/search/%E7%86%8F%23kanji"
+  }
+}

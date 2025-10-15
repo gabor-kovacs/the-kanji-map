@@ -1,1 +1,44 @@
-{"id":"澎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"澎","found":true,"strokeCount":15,"meaning":"turbulent water","kunyomi":[],"onyomi":["ホウ","ヒョウ"],"onyomiExamples":[{"example":"澎湃","reading":"ホウハイ","meaning":"as the sound of surging water, vigorous, surging, welling"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["十","口","土","并","彡","汁","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28558_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f8e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f8e.gif","uri":"https://jisho.org/search/%E6%BE%8E%23kanji"}}
+{
+  "id": "澎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "澎",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "turbulent water",
+    "kunyomi": [],
+    "onyomi": [
+      "ホウ",
+      "ヒョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "澎湃",
+        "reading": "ホウハイ",
+        "meaning": "as the sound of surging water, vigorous, surging, welling"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "十",
+      "口",
+      "土",
+      "并",
+      "彡",
+      "汁",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28558_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f8e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f8e.gif",
+    "uri": "https://jisho.org/search/%E6%BE%8E%23kanji"
+  }
+}

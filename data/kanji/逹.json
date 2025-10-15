@@ -1,1 +1,45 @@
-{"id":"逹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"逹","found":true,"strokeCount":12,"meaning":"arrive at, reach, intelligent","kunyomi":["-たち"],"onyomi":["タツ","ダ"],"onyomiExamples":[{"example":"厳達","reading":"ゲンタツ","meaning":"strict order"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["亠","十","立","辛","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36921_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09039.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9039.gif","uri":"https://jisho.org/search/%E9%80%B9%23kanji"}}
+{
+  "id": "逹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逹",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "arrive at, reach, intelligent",
+    "kunyomi": [
+      "-たち"
+    ],
+    "onyomi": [
+      "タツ",
+      "ダ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "厳達",
+        "reading": "ゲンタツ",
+        "meaning": "strict order"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "立",
+      "辛",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36921_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09039.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9039.gif",
+    "uri": "https://jisho.org/search/%E9%80%B9%23kanji"
+  }
+}

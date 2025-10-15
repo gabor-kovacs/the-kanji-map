@@ -1,1 +1,68 @@
-{"id":"國","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"國","found":true,"strokeCount":11,"meaning":"country","kunyomi":["くに"],"onyomi":["コク"],"onyomiExamples":[{"example":"国章","reading":"コクショウ","meaning":"national emblem, (national) coat of arms"}],"kunyomiExamples":[{"example":"国","reading":"くに","meaning":"country, state, region, national government, central government, home (i.e. hometown, home country), province (of Japan), land, earth"},{"example":"御国","reading":"みくに","meaning":"country, Japan"}],"radical":{"symbol":"囗","meaning":"enclosure"},"parts":["口","囗","戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22283_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0570b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/570b.gif","uri":"https://jisho.org/search/%E5%9C%8B%23kanji"}}
+{
+  "id": "國",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "國",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "country",
+    "kunyomi": [
+      "くに"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "国際",
+        "reading": "コクサイ",
+        "meaning": "international, diplomatic intercourse"
+      },
+      {
+        "example": "国語",
+        "reading": "コクゴ",
+        "meaning": "national language, Japanese language (esp. as a school subject in Japan), one's native language, mother tongue, native Japanese words (as opposed to loanwords and Chinese-derived words)"
+      },
+      {
+        "example": "大韓民国",
+        "reading": "ダイカンミンコク",
+        "meaning": "Republic of Korea, South Korea"
+      },
+      {
+        "example": "連合王国",
+        "reading": "レンゴウオウコク",
+        "meaning": "United Kingdom"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "国",
+        "reading": "くに",
+        "meaning": "country, state, region, national government, central government, home (i.e. hometown, home country), province (of Japan), land, earth"
+      },
+      {
+        "example": "堅州国",
+        "reading": "かたすくに",
+        "meaning": "underworld, netherworld"
+      },
+      {
+        "example": "根の堅州国",
+        "reading": "ねのかたすくに",
+        "meaning": "underworld, netherworld"
+      }
+    ],
+    "radical": {
+      "symbol": "囗",
+      "meaning": "enclosure"
+    },
+    "parts": [
+      "口",
+      "囗",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22283_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0570b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/570b.gif",
+    "uri": "https://jisho.org/search/%E5%9C%8B%23kanji"
+  }
+}

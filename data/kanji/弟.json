@@ -1,1 +1,366 @@
-{"id":"弟","kanjialiveData":{"kanji":{"character":"弟","meaning":{"english":"younger brother"},"strokes":{"count":7,"timings":[1.148,1.733,2.666,4.132,4.933,7.666,8.666,9.266667],"images":["https://media.kanjialive.com/kanji_strokes/otouto_1.svg","https://media.kanjialive.com/kanji_strokes/otouto_2.svg","https://media.kanjialive.com/kanji_strokes/otouto_3.svg","https://media.kanjialive.com/kanji_strokes/otouto_4.svg","https://media.kanjialive.com/kanji_strokes/otouto_5.svg","https://media.kanjialive.com/kanji_strokes/otouto_6.svg","https://media.kanjialive.com/kanji_strokes/otouto_7.svg"]},"onyomi":{"romaji":"tei, dai, de","katakana":"テイ、ダイ、デ"},"kunyomi":{"romaji":"otouto","hiragana":"おとうと"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/otouto_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/otouto_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/otouto_00.webm"}},"radical":{"character":"⼸","strokes":3,"image":"https://media.kanjialive.com/radical_character/yumi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"ゆみ","romaji":"yumi"},"meaning":{"english":"bow（in archery）"},"animation":["https://media.kanjialive.com/rad_frames/yumi0.svg","https://media.kanjialive.com/rad_frames/yumi1.svg","https://media.kanjialive.com/rad_frames/yumi2.svg"]},"references":{"grade":2,"kodansha":"1291","classic_nelson":"584"},"examples":[{"japanese":"師弟（してい）","meaning":{"english":"teacher and student"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/otouto_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/otouto_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/otouto_06_a.mp3"}},{"japanese":"義弟（ぎてい）","meaning":{"english":"younger brother-in-law"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/otouto_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/otouto_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/otouto_06_b.mp3"}},{"japanese":"兄弟（きょうだい）","meaning":{"english":"siblings"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/otouto_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/otouto_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/otouto_06_c.mp3"}},{"japanese":"弟子（でし）","meaning":{"english":"disciple"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/otouto_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/otouto_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/otouto_06_d.mp3"}},{"japanese":"弟（おとうと）","meaning":{"english":"one's own younger brother"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/otouto_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/otouto_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/otouto_06_e.mp3"}}]},"jishoData":{"query":"弟","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"1161","strokeCount":7,"meaning":"younger brother, faithful service to elders","kunyomi":["おとうと"],"onyomi":["テイ","ダイ","デ"],"onyomiExamples":[{"example":"弟","reading":"オトウト","meaning":"younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice"},{"example":"弟子","reading":"デシ","meaning":"pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper"},{"example":"実弟","reading":"ジッテイ","meaning":"biological younger brother"},{"example":"子弟","reading":"シテイ","meaning":"children, sons, children and younger brothers, young people"},{"example":"親兄弟","reading":"オヤキョウダイ","meaning":"parents and siblings, one's relatives"},{"example":"姉弟","reading":"シテイ","meaning":"older sister and younger brother"},{"example":"弟子","reading":"デシ","meaning":"pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper"},{"example":"弟子入り","reading":"デシイリ","meaning":"becoming a pupil (of), becoming an apprentice"}],"kunyomiExamples":[{"example":"弟","reading":"おとうと","meaning":"younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice"},{"example":"弟君","reading":"おとうとぎみ","meaning":"younger brother"}],"radical":{"symbol":"弓","meaning":"bow"},"parts":["ノ","并","弓","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24351_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f1f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f1f.gif","uri":"https://jisho.org/search/%E5%BC%9F%23kanji"}}
+{
+  "id": "弟",
+  "kanjialiveData": {
+    "_id": "54317af3791eba5146ee4a9f",
+    "_rev": "10-f3ba7bf18e587e1a3168d86bca1964be",
+    "rad_name_ja": "ゆみ",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "otouto",
+    "meaning": "younger brother",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "師弟（してい）",
+        "meaning": {
+          "english": "teacher and student"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/otouto_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/otouto_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/otouto_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "義弟（ぎてい）",
+        "meaning": {
+          "english": "younger brother-in-law"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/otouto_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/otouto_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/otouto_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "兄弟（きょうだい）",
+        "meaning": {
+          "english": "siblings"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/otouto_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/otouto_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/otouto_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "弟子（でし）",
+        "meaning": {
+          "english": "disciple"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/otouto_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/otouto_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/otouto_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "弟（おとうと）",
+        "meaning": {
+          "english": "one's own younger brother"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otouto_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/otouto_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/otouto_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/otouto_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "おとうと",
+    "ka_utf": "弟",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=弟",
+    "kname": "otouto",
+    "rad_order": 67,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "rad_name_search": [
+      "yumi"
+    ],
+    "rad_utf": "⼸",
+    "stroketimes": [
+      1.148,
+      1.733,
+      2.666,
+      4.132,
+      4.933,
+      7.666,
+      8.666,
+      9.266667
+    ],
+    "kunyomi_ka_display": "おとうと",
+    "dick": "1291",
+    "rad_name": "yumi",
+    "dicn": "584",
+    "mn_hint": "Younger brother seeks self affirmation丷by holding ノ bow 弓 and arrow |.",
+    "rad_stroke": 3,
+    "onyomi_ja": "テイ、ダイ、デ",
+    "rad_meaning": "bow（in archery）",
+    "onyomi": "tei, dai, de",
+    "ka_id": "ka_47",
+    "onyomi_search": [
+      "tei",
+      "dai",
+      "de",
+      "tei, dai, de"
+    ],
+    "kunyomi_search": [
+      "otouto",
+      "otouto"
+    ],
+    "meaning_search": [
+      "younger brother",
+      "younger",
+      "brother",
+      "younger brother"
+    ],
+    "onyomi_ja_search": [
+      "テイ",
+      "ダイ",
+      "デ",
+      "テイ、ダイ、デ"
+    ],
+    "kunyomi_ja_search": [
+      "おとうと",
+      "おとうと"
+    ],
+    "rad_meaning_search": [
+      "bow（in archery）",
+      "bow（in",
+      "archery）",
+      "bow（in archery）"
+    ],
+    "rad_name_ja_search": [
+      "ゆみ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:9",
+      "cij:c9",
+      "bk",
+      "bk:15",
+      "bk:c15",
+      "aij3",
+      "aij3:1",
+      "aij3:c1",
+      "aij3:v3",
+      "aij3:v3:1",
+      "aij3:v3:c1",
+      "gen",
+      "gen:21",
+      "gen:c21",
+      "ap",
+      "ap:15",
+      "ap:c15",
+      "kll",
+      "kll:13",
+      "kll:c13"
+    ],
+    "rad_name_file": "yumi",
+    "kanji": {
+      "character": "弟",
+      "meaning": {
+        "english": "younger brother"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          1.148,
+          1.733,
+          2.666,
+          4.132,
+          4.933,
+          7.666,
+          8.666,
+          9.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/otouto_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/otouto_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/otouto_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/otouto_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/otouto_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/otouto_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/otouto_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "tei, dai, de",
+        "katakana": "テイ、ダイ、デ"
+      },
+      "kunyomi": {
+        "romaji": "otouto",
+        "hiragana": "おとうと"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/otouto_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/otouto_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/otouto_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼸",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/yumi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ゆみ",
+        "romaji": "yumi"
+      },
+      "meaning": {
+        "english": "bow（in archery）"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/yumi0.svg",
+        "https://media.kanjialive.com/rad_frames/yumi1.svg",
+        "https://media.kanjialive.com/rad_frames/yumi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1291",
+      "classic_nelson": "584"
+    }
+  },
+  "jishoData": {
+    "query": "弟",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "1161",
+    "strokeCount": 7,
+    "meaning": "younger brother, faithful service to elders",
+    "kunyomi": [
+      "おとうと"
+    ],
+    "onyomi": [
+      "テイ",
+      "ダイ",
+      "デ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弟",
+        "reading": "オトウト",
+        "meaning": "younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice"
+      },
+      {
+        "example": "弟子",
+        "reading": "デシ",
+        "meaning": "pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper"
+      },
+      {
+        "example": "実弟",
+        "reading": "ジッテイ",
+        "meaning": "biological younger brother"
+      },
+      {
+        "example": "子弟",
+        "reading": "シテイ",
+        "meaning": "children, sons, children and younger brothers, young people"
+      },
+      {
+        "example": "親兄弟",
+        "reading": "オヤキョウダイ",
+        "meaning": "parents and siblings, one's relatives"
+      },
+      {
+        "example": "姉弟",
+        "reading": "シテイ",
+        "meaning": "older sister and younger brother"
+      },
+      {
+        "example": "弟子",
+        "reading": "デシ",
+        "meaning": "pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper"
+      },
+      {
+        "example": "弟子入り",
+        "reading": "デシイリ",
+        "meaning": "becoming a pupil (of), becoming an apprentice"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弟",
+        "reading": "おとうと",
+        "meaning": "younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice"
+      },
+      {
+        "example": "弟君",
+        "reading": "おとうとぎみ",
+        "meaning": "younger brother"
+      }
+    ],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "bow"
+    },
+    "parts": [
+      "ノ",
+      "并",
+      "弓",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24351_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f1f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f1f.gif",
+    "uri": "https://jisho.org/search/%E5%BC%9F%23kanji"
+  }
+}

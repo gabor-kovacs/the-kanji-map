@@ -1,1 +1,406 @@
-{"id":"送","kanjialiveData":{"kanji":{"character":"送","meaning":{"english":"send"},"strokes":{"count":9,"timings":[0.377,0.961,1.966,2.903,3.841,4.645,5.648,6.653,8.26,9.184358],"images":["https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_1.svg","https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_2.svg","https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_3.svg","https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_4.svg","https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_5.svg","https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_6.svg","https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_7.svg","https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_8.svg","https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_9.svg"]},"onyomi":{"romaji":"sou","katakana":"ソウ"},"kunyomi":{"romaji":"oku, okuru","hiragana":"おく"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/sou-oku(ru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/sou-oku(ru)_00.webm"}},"radical":{"character":"⻌","strokes":3,"image":"https://media.kanjialive.com/radical_character/shinnyou.svg","position":{"hiragana":"にょう","romaji":"nyou","icon":"https://media.kanjialive.com/rad_positions/nyou.svg"},"name":{"hiragana":"しんにょう","romaji":"shinnyou"},"meaning":{"english":"road, walk, to advance"},"animation":["https://media.kanjialive.com/rad_frames/shinnyou0.svg","https://media.kanjialive.com/rad_frames/shinnyou1.svg","https://media.kanjialive.com/rad_frames/shinnyou2.svg"]},"references":{"grade":3,"kodansha":"1968","classic_nelson":"4638"},"examples":[{"japanese":"発送する（はっそうする）","meaning":{"english":"ship [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_a.mp3"}},{"japanese":"返送する（へんそうする）","meaning":{"english":"send back"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_b.mp3"}},{"japanese":"郵送する（ゆうそうする）","meaning":{"english":"mail [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_c.mp3"}},{"japanese":"放送する（ほうそうする）","meaning":{"english":"broadcast [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_d.mp3"}},{"japanese":"送金する（そうきんする）","meaning":{"english":"send money"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_e.mp3"}},{"japanese":"送料（そうりょう）","meaning":{"english":"shipping fee"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_f.mp3"}},{"japanese":"送別会（そうべつかい）","meaning":{"english":"farewell party"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_g.mp3"}},{"japanese":"送る（おくる）","meaning":{"english":"send, spend time"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_h.mp3"}},{"japanese":"送り仮名（おくりがな）","meaning":{"english":"conjugational ending in kana"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_i.mp3"}}]},"jishoData":{"query":"送","found":true,"taughtIn":"grade 3","jlptLevel":"N4","newspaperFrequencyRank":"311","strokeCount":9,"meaning":"escort, send","kunyomi":["おく.る"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"送球","reading":"ソウキュウ","meaning":"throwing a ball, handball"},{"example":"送還","reading":"ソウカン","meaning":"sending home, repatriation, deportation"},{"example":"葬送","reading":"ソウソウ","meaning":"funeral, burial rites, attendance at a funeral"},{"example":"移送","reading":"イソウ","meaning":"transfer, transport, transportation"}],"kunyomiExamples":[{"example":"送る","reading":"おくる","meaning":"to send (a thing), to dispatch, to despatch, to transmit, to take or escort (a person somewhere), to see off (a person), to bid farewell (to the departed), to bury, to spend (time), to live one's life, to pass (down the line), to affix okurigana"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["一","二","大","并","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36865_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09001.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9001.gif","uri":"https://jisho.org/search/%E9%80%81%23kanji"}}
+{
+  "id": "送",
+  "kanjialiveData": {
+    "_id": "54317af0791eba5146ee4a63",
+    "_rev": "9-13e7b1910ecc53b6b32c82a5277fe1fd",
+    "rad_name_ja": "しんにょう",
+    "grade": 3,
+    "hint_group": 6,
+    "kunyomi": "oku, okuru",
+    "meaning": "send",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "発送する（はっそうする）",
+        "meaning": {
+          "english": "ship [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "返送する（へんそうする）",
+        "meaning": {
+          "english": "send back"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "郵送する（ゆうそうする）",
+        "meaning": {
+          "english": "mail [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "放送する（ほうそうする）",
+        "meaning": {
+          "english": "broadcast [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "送金する（そうきんする）",
+        "meaning": {
+          "english": "send money"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "送料（そうりょう）",
+        "meaning": {
+          "english": "shipping fee"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "送別会（そうべつかい）",
+        "meaning": {
+          "english": "farewell party"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "送る（おくる）",
+        "meaning": {
+          "english": "send, spend time"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "送り仮名（おくりがな）",
+        "meaning": {
+          "english": "conjugational ending in kana"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-oku(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-oku(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-oku(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-oku(ru)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "おく、おくる",
+    "ka_utf": "送",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=送",
+    "rad_name_search": [
+      "shinnyou"
+    ],
+    "rad_order": 72,
+    "txt_books": [
+      {
+        "chapter": "2",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "sou-oku(ru)",
+    "rad_utf": "⻌",
+    "stroketimes": [
+      0.377,
+      0.961,
+      1.966,
+      2.903,
+      3.841,
+      4.645,
+      5.648,
+      6.653,
+      8.26,
+      9.184358
+    ],
+    "kunyomi_ka_display": "おく",
+    "dick": "1968",
+    "rad_name": "shinnyou",
+    "dicn": "4638",
+    "mn_hint": "Things are sent on the road [10] no matter what barriers [33] stand in the way.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ソウ",
+    "rad_meaning": "road, walk, to advance",
+    "onyomi": "sou",
+    "ka_id": "ka_415",
+    "rad_position": "nyou",
+    "rad_position_ja": "にょう",
+    "rad_position_search": [
+      "nyou",
+      "nyou"
+    ],
+    "onyomi_search": [
+      "sou",
+      "sou"
+    ],
+    "kunyomi_search": [
+      "oku",
+      "okuru",
+      "oku, okuru"
+    ],
+    "meaning_search": [
+      "send",
+      "send"
+    ],
+    "onyomi_ja_search": [
+      "ソウ",
+      "ソウ"
+    ],
+    "kunyomi_ja_search": [
+      "おく",
+      "おくる",
+      "おく、おくる"
+    ],
+    "rad_meaning_search": [
+      "road",
+      "walk",
+      "to advance",
+      "to",
+      "advance",
+      "road, walk, to advance"
+    ],
+    "rad_position_ja_search": [
+      "にょう",
+      "にょう"
+    ],
+    "rad_name_ja_search": [
+      "しんにょう"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:2",
+      "ij:c2",
+      "mos",
+      "mos:12",
+      "mos:c12",
+      "bk",
+      "bk:24",
+      "bk:c24",
+      "aij3",
+      "aij3:3",
+      "aij3:c3",
+      "aij3:v4",
+      "aij3:v4:3",
+      "aij3:v4:c3",
+      "gen",
+      "gen:21",
+      "gen:c21",
+      "ap",
+      "ap:12",
+      "ap:c12",
+      "kll",
+      "kll:16",
+      "kll:c16"
+    ],
+    "rad_name_file": "shinnyou",
+    "kanji": {
+      "character": "送",
+      "meaning": {
+        "english": "send"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0.377,
+          0.961,
+          1.966,
+          2.903,
+          3.841,
+          4.645,
+          5.648,
+          6.653,
+          8.26,
+          9.184358
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sou",
+        "katakana": "ソウ"
+      },
+      "kunyomi": {
+        "romaji": "oku, okuru",
+        "hiragana": "おく"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sou-oku(ru)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sou-oku(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sou-oku(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⻌",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/shinnyou.svg",
+      "position": {
+        "hiragana": "にょう",
+        "romaji": "nyou",
+        "icon": "https://media.kanjialive.com/rad_positions/nyou.svg"
+      },
+      "name": {
+        "hiragana": "しんにょう",
+        "romaji": "shinnyou"
+      },
+      "meaning": {
+        "english": "road, walk, to advance"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
+        "https://media.kanjialive.com/rad_frames/shinnyou1.svg",
+        "https://media.kanjialive.com/rad_frames/shinnyou2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "1968",
+      "classic_nelson": "4638"
+    }
+  },
+  "jishoData": {
+    "query": "送",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "311",
+    "strokeCount": 9,
+    "meaning": "escort, send",
+    "kunyomi": [
+      "おく.る"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "送球",
+        "reading": "ソウキュウ",
+        "meaning": "throw, pass (in basketball, etc.), handball"
+      },
+      {
+        "example": "送還",
+        "reading": "ソウカン",
+        "meaning": "sending home, repatriation, deportation"
+      },
+      {
+        "example": "葬送",
+        "reading": "ソウソウ",
+        "meaning": "attending a funeral procession, seeing off the deceased, burial of someone's remains, observing a burial"
+      },
+      {
+        "example": "移送",
+        "reading": "イソウ",
+        "meaning": "transfer, transport, transportation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "送る",
+        "reading": "おくる",
+        "meaning": "to send, to dispatch, to forward, to transmit, to ship, to remit, to see (someone) off, to escort, to accompany, to take, to bid farewell to (the departed), to say goodbye to, to bury, to spend (time), to pass, to lead (a life), to live, to pass (on, along), to advance (a runner), to affix (okurigana)"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "一",
+      "二",
+      "大",
+      "并",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36865_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09001.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9001.gif",
+    "uri": "https://jisho.org/search/%E9%80%81%23kanji"
+  }
+}

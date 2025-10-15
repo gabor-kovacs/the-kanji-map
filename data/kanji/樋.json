@@ -1,1 +1,65 @@
-{"id":"樋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"樋","found":true,"newspaperFrequencyRank":"1814","strokeCount":14,"meaning":"water pipe, gutter, downspout, conduit","kunyomi":["ひ","とい"],"onyomi":["トウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"樋","reading":"とい","meaning":"trough, gutter, water pipe, flume, chute, coulisse (of a sword blade)"},{"example":"樋川","reading":"ひがわ","meaning":"(water) spring"},{"example":"木樋","reading":"もくひ","meaning":"wooden water pipe, wooden flume"},{"example":"筧","reading":"かけひ","meaning":"open water pipe, conduit"},{"example":"樋","reading":"とい","meaning":"trough, gutter, water pipe, flume, chute, coulisse (of a sword blade)"},{"example":"鎖樋","reading":"くさりとい","meaning":"rain chain (hanging from a gutter and functioning as downspout, often made of ornamental cups)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["マ","木","用","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27147_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a0b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a0b.gif","uri":"https://jisho.org/search/%E6%A8%8B%23kanji"}}
+{
+  "id": "樋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樋",
+    "found": true,
+    "newspaperFrequencyRank": "1814",
+    "strokeCount": 14,
+    "meaning": "water pipe, gutter, downspout, conduit",
+    "kunyomi": [
+      "ひ",
+      "とい"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "樋",
+        "reading": "とい",
+        "meaning": "trough, gutter, water pipe, flume, chute, coulisse (of a sword blade)"
+      },
+      {
+        "example": "樋川",
+        "reading": "ひがわ",
+        "meaning": "(water) spring"
+      },
+      {
+        "example": "木樋",
+        "reading": "もくひ",
+        "meaning": "wooden water pipe, wooden flume"
+      },
+      {
+        "example": "筧",
+        "reading": "かけひ",
+        "meaning": "open water pipe, conduit"
+      },
+      {
+        "example": "樋",
+        "reading": "とい",
+        "meaning": "trough, gutter, water pipe, flume, chute, coulisse (of a sword blade)"
+      },
+      {
+        "example": "鎖樋",
+        "reading": "くさりとい",
+        "meaning": "rain chain (hanging from a gutter and functioning as downspout, often made of ornamental cups)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "マ",
+      "木",
+      "用",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27147_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a0b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a0b.gif",
+    "uri": "https://jisho.org/search/%E6%A8%8B%23kanji"
+  }
+}

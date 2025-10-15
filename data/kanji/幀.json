@@ -1,1 +1,39 @@
-{"id":"幀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"幀","found":true,"strokeCount":12,"meaning":"making books or scrolls","kunyomi":[],"onyomi":["テイ","チョウ","トウ"],"onyomiExamples":[{"example":"装丁","reading":"ソウテイ","meaning":"binding (of a book), design (of a book cover)"}],"kunyomiExamples":[],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["ハ","卜","巾","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24128_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e40.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e40.gif","uri":"https://jisho.org/search/%E5%B9%80%23kanji"}}
+{
+  "id": "幀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幀",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "making books or scrolls",
+    "kunyomi": [],
+    "onyomi": [
+      "テイ",
+      "チョウ",
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "装丁",
+        "reading": "ソウテイ",
+        "meaning": "binding (of a book), design (of a book cover)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "ハ",
+      "卜",
+      "巾",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24128_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e40.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e40.gif",
+    "uri": "https://jisho.org/search/%E5%B9%80%23kanji"
+  }
+}

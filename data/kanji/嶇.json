@@ -1,1 +1,38 @@
-{"id":"嶇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嶇","found":true,"strokeCount":14,"meaning":"steep","kunyomi":["けわ.しい"],"onyomi":["ク"],"onyomiExamples":[{"example":"崎嶇","reading":"キク","meaning":"steep (mountain), precipitous, hard (life), difficult, troubled"}],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["匚","口","品","山"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23943_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d87.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d87.gif","uri":"https://jisho.org/search/%E5%B6%87%23kanji"}}
+{
+  "id": "嶇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嶇",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "steep",
+    "kunyomi": [
+      "けわ.しい"
+    ],
+    "onyomi": [
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "崎嶇",
+        "reading": "キク",
+        "meaning": "steep (mountain), precipitous, hard (life), difficult, troubled"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "匚",
+      "口",
+      "品",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23943_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d87.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d87.gif",
+    "uri": "https://jisho.org/search/%E5%B6%87%23kanji"
+  }
+}

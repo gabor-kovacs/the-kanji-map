@@ -1,1 +1,45 @@
-{"id":"糒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"糒","found":true,"strokeCount":16,"meaning":"dried boiled rice","kunyomi":["ほしい","ほしい.い"],"onyomi":["ビ","ハイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"糒","reading":"ほしい","meaning":"dried boiled rice used mainly as provisions of samurai troops and travelers (travellers)"},{"example":"糒","reading":"ほしい","meaning":"dried boiled rice used mainly as provisions of samurai troops and travelers (travellers)"}],"radical":{"symbol":"米","meaning":"rice"},"parts":["厂","用","米","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31954_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07cd2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7cd2.gif","uri":"https://jisho.org/search/%E7%B3%92%23kanji"}}
+{
+  "id": "糒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "糒",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "dried boiled rice",
+    "kunyomi": [
+      "ほしい",
+      "ほしい.い"
+    ],
+    "onyomi": [
+      "ビ",
+      "ハイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "糒",
+        "reading": "ほしい",
+        "meaning": "dried boiled rice used mainly as provisions of samurai troops and travelers (travellers)"
+      },
+      {
+        "example": "糒",
+        "reading": "ほしい",
+        "meaning": "dried boiled rice used mainly as provisions of samurai troops and travelers (travellers)"
+      }
+    ],
+    "radical": {
+      "symbol": "米",
+      "meaning": "rice"
+    },
+    "parts": [
+      "厂",
+      "用",
+      "米",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31954_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07cd2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7cd2.gif",
+    "uri": "https://jisho.org/search/%E7%B3%92%23kanji"
+  }
+}

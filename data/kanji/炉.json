@@ -1,1 +1,59 @@
-{"id":"炉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"炉","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1359","strokeCount":8,"meaning":"hearth, furnace, kiln, reactor","kunyomi":["いろり"],"onyomi":["ロ"],"onyomiExamples":[{"example":"炉","reading":"ロ","meaning":"hearth, fireplace, furnace, kiln"},{"example":"炉心","reading":"ロシン","meaning":"nuclear reactor core"},{"example":"原子炉","reading":"ゲンシロ","meaning":"atomic reactor, nuclear reactor"},{"example":"高炉","reading":"コウロ","meaning":"blast furnace"}],"kunyomiExamples":[],"radical":{"symbol":"火","forms":["灬"],"meaning":"fire"},"parts":["一","尸","戸","火"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28809_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07089.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7089.gif","uri":"https://jisho.org/search/%E7%82%89%23kanji"}}
+{
+  "id": "炉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "炉",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1359",
+    "strokeCount": 8,
+    "meaning": "hearth, furnace, kiln, reactor",
+    "kunyomi": [
+      "いろり"
+    ],
+    "onyomi": [
+      "ロ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "炉",
+        "reading": "ロ",
+        "meaning": "hearth, fireplace, furnace, kiln, young girl, childlike young woman"
+      },
+      {
+        "example": "炉心",
+        "reading": "ロシン",
+        "meaning": "nuclear reactor core"
+      },
+      {
+        "example": "原子炉",
+        "reading": "ゲンシロ",
+        "meaning": "atomic reactor, nuclear reactor"
+      },
+      {
+        "example": "高炉",
+        "reading": "コウロ",
+        "meaning": "blast furnace"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "fire"
+    },
+    "parts": [
+      "一",
+      "尸",
+      "戸",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28809_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07089.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7089.gif",
+    "uri": "https://jisho.org/search/%E7%82%89%23kanji"
+  }
+}

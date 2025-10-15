@@ -1,1 +1,351 @@
-{"id":"多","kanjialiveData":{"kanji":{"character":"多","meaning":{"english":"many"},"strokes":{"count":6,"timings":[0,1.533,2.799,3.533,4.467,5.666,6.8],"images":["https://media.kanjialive.com/kanji_strokes/ta-oo(i)_1.svg","https://media.kanjialive.com/kanji_strokes/ta-oo(i)_2.svg","https://media.kanjialive.com/kanji_strokes/ta-oo(i)_3.svg","https://media.kanjialive.com/kanji_strokes/ta-oo(i)_4.svg","https://media.kanjialive.com/kanji_strokes/ta-oo(i)_5.svg","https://media.kanjialive.com/kanji_strokes/ta-oo(i)_6.svg"]},"onyomi":{"romaji":"ta","katakana":"タ"},"kunyomi":{"romaji":"oo, ooi, ooku","hiragana":"おお"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ta-oo(i)_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ta-oo(i)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ta-oo(i)_00.webm"}},"radical":{"character":"⼣","strokes":3,"image":"https://media.kanjialive.com/radical_character/yuube.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"ゆうべ","romaji":"yuube"},"meaning":{"english":"evening"},"animation":["https://media.kanjialive.com/rad_frames/yuube0.svg","https://media.kanjialive.com/rad_frames/yuube1.svg","https://media.kanjialive.com/rad_frames/yuube2.svg"]},"references":{"grade":2,"kodansha":"1372","classic_nelson":"1169"},"examples":[{"japanese":"多分（たぶん）","meaning":{"english":"perhaps"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_a.mp3"}},{"japanese":"多量（たりょう）","meaning":{"english":"large quantity"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_b.mp3"}},{"japanese":"多少（たしょう）","meaning":{"english":"more or less"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_c.mp3"}},{"japanese":"多目的（たもくてき）","meaning":{"english":"multipurpose"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_d.mp3"}},{"japanese":"多い（おおい）","meaning":{"english":"many"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_e.mp3"}},{"japanese":"多めに（おおめに）","meaning":{"english":"generously"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_f.mp3"}}]},"jishoData":{"query":"多","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"139","strokeCount":6,"meaning":"many, frequent, much","kunyomi":["おお.い","まさ.に","まさ.る"],"onyomi":["タ"],"onyomiExamples":[{"example":"多","reading":"タ","meaning":"multi-"},{"example":"多角","reading":"タカク","meaning":"many-sided, versatile, polygonal, diversified"},{"example":"過多","reading":"カタ","meaning":"excess, surplus, superabundance"},{"example":"最多","reading":"サイタ","meaning":"most (numerous), largest (number of)"}],"kunyomiExamples":[{"example":"多い","reading":"おおい","meaning":"many, numerous, a lot, large amount of, large quantity of, a lot, much, frequent, common"}],"radical":{"symbol":"夕","meaning":"evening, sunset"},"parts":["夕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22810_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0591a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/591a.gif","uri":"https://jisho.org/search/%E5%A4%9A%23kanji"}}
+{
+  "id": "多",
+  "kanjialiveData": {
+    "_id": "54317ae1791eba5146ee4944",
+    "_rev": "9-5e863cf5943aa4808e55b17fe8327fa3",
+    "rad_name_ja": "ゆうべ",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "oo, ooi, ooku",
+    "meaning": "many",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "多分（たぶん）",
+        "meaning": {
+          "english": "perhaps"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "多量（たりょう）",
+        "meaning": {
+          "english": "large quantity"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "多少（たしょう）",
+        "meaning": {
+          "english": "more or less"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "多目的（たもくてき）",
+        "meaning": {
+          "english": "multipurpose"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "多い（おおい）",
+        "meaning": {
+          "english": "many"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "多めに（おおめに）",
+        "meaning": {
+          "english": "generously"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta-oo(i)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ta-oo(i)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ta-oo(i)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ta-oo(i)_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "おお、おおい、おおく",
+    "ka_utf": "多",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=多",
+    "rad_name_search": [
+      "yuube"
+    ],
+    "rad_order": 42,
+    "txt_books": [
+      {
+        "chapter": "16",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "9"
+      }
+    ],
+    "kname": "ta-oo(i)",
+    "rad_utf": "⼣",
+    "stroketimes": [
+      0,
+      1.533,
+      2.799,
+      3.533,
+      4.467,
+      5.666,
+      6.8
+    ],
+    "kunyomi_ka_display": "おお",
+    "dick": "1372",
+    "rad_name": "yuube",
+    "dicn": "1169",
+    "mn_hint": "Evening タ upon evening タ: many.",
+    "rad_stroke": 3,
+    "onyomi_ja": "タ",
+    "rad_meaning": "evening",
+    "onyomi": "ta",
+    "ka_id": "ka_157",
+    "onyomi_search": [
+      "ta",
+      "ta"
+    ],
+    "kunyomi_search": [
+      "oo",
+      "ooi",
+      "ooku",
+      "oo, ooi, ooku"
+    ],
+    "meaning_search": [
+      "many",
+      "many"
+    ],
+    "onyomi_ja_search": [
+      "タ",
+      "タ"
+    ],
+    "kunyomi_ja_search": [
+      "おお",
+      "おおい",
+      "おおく",
+      "おお、おおい、おおく"
+    ],
+    "rad_meaning_search": [
+      "evening",
+      "evening"
+    ],
+    "rad_name_ja_search": [
+      "ゆうべ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:16",
+      "cij:c16",
+      "bk",
+      "bk:8",
+      "bk:c8",
+      "aij3",
+      "aij3:14",
+      "aij3:c14",
+      "aij3:v2",
+      "aij3:v2:14",
+      "aij3:v2:c14",
+      "gen",
+      "gen:19",
+      "gen:c19",
+      "ap",
+      "ap:13",
+      "ap:c13",
+      "kll",
+      "kll:6",
+      "kll:c6",
+      "cijr",
+      "cijr:9",
+      "cijr:c9"
+    ],
+    "rad_name_file": "yuube",
+    "kanji": {
+      "character": "多",
+      "meaning": {
+        "english": "many"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          1.533,
+          2.799,
+          3.533,
+          4.467,
+          5.666,
+          6.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ta-oo(i)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ta-oo(i)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ta-oo(i)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ta-oo(i)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ta-oo(i)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ta-oo(i)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ta",
+        "katakana": "タ"
+      },
+      "kunyomi": {
+        "romaji": "oo, ooi, ooku",
+        "hiragana": "おお"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ta-oo(i)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ta-oo(i)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ta-oo(i)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼣",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/yuube.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ゆうべ",
+        "romaji": "yuube"
+      },
+      "meaning": {
+        "english": "evening"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/yuube0.svg",
+        "https://media.kanjialive.com/rad_frames/yuube1.svg",
+        "https://media.kanjialive.com/rad_frames/yuube2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1372",
+      "classic_nelson": "1169"
+    }
+  },
+  "jishoData": {
+    "query": "多",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "139",
+    "strokeCount": 6,
+    "meaning": "many, frequent, much",
+    "kunyomi": [
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
+    ],
+    "onyomi": [
+      "タ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "多",
+        "reading": "タ",
+        "meaning": "multi-"
+      },
+      {
+        "example": "多角",
+        "reading": "タカク",
+        "meaning": "many-sided, versatile, polygonal, diversified"
+      },
+      {
+        "example": "過多",
+        "reading": "カタ",
+        "meaning": "excess, surplus, superabundance"
+      },
+      {
+        "example": "最多",
+        "reading": "サイタ",
+        "meaning": "most (numerous), largest (number of)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "多い",
+        "reading": "おおい",
+        "meaning": "many, numerous, a lot, large amount of, large quantity of, a lot, much, frequent, common"
+      },
+      {
+        "example": "大いに",
+        "reading": "おおいに",
+        "meaning": "very, very much, greatly, considerably, highly, exceedingly, a great deal, a lot, to one's heart's content"
+      }
+    ],
+    "radical": {
+      "symbol": "夕",
+      "meaning": "evening, sunset"
+    },
+    "parts": [
+      "夕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22810_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0591a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/591a.gif",
+    "uri": "https://jisho.org/search/%E5%A4%9A%23kanji"
+  }
+}

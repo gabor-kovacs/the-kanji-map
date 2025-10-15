@@ -1,1 +1,41 @@
-{"id":"軼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"軼","found":true,"strokeCount":12,"meaning":"pass along","kunyomi":["すぎ.る"],"onyomi":["イツ","テツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["ノ","二","人","土","大","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36604_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08efc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8efc.gif","uri":"https://jisho.org/search/%E8%BB%BC%23kanji"}}
+{
+  "id": "軼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "軼",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "pass along",
+    "kunyomi": [
+      "すぎ.る"
+    ],
+    "onyomi": [
+      "イツ",
+      "テツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "逸事",
+        "reading": "イツジ",
+        "meaning": "anecdote, unknown fact"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "人",
+      "土",
+      "大",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36604_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08efc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8efc.gif",
+    "uri": "https://jisho.org/search/%E8%BB%BC%23kanji"
+  }
+}

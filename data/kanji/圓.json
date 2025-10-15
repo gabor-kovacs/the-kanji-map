@@ -1,1 +1,48 @@
-{"id":"圓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"圓","found":true,"strokeCount":13,"meaning":"yen, circle, round","kunyomi":["まる.い","まる","まど","まど.か","まろ.やか"],"onyomi":["エン"],"onyomiExamples":[{"example":"円","reading":"エン","meaning":"yen (Japanese monetary unit), circle"},{"example":"湯円","reading":"タンエン","meaning":"tangyuan, tang yuan, Chinese dumplings made from glutinous rice flour"}],"kunyomiExamples":[],"radical":{"symbol":"囗","meaning":"enclosure"},"parts":["ハ","口","囗","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22291_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05713.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5713.gif","uri":"https://jisho.org/search/%E5%9C%93%23kanji"}}
+{
+  "id": "圓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "圓",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "yen, circle, round",
+    "kunyomi": [
+      "まる.い",
+      "まる",
+      "まど",
+      "まど.か",
+      "まろ.やか"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "円",
+        "reading": "エン",
+        "meaning": "yen (Japanese monetary unit), circle"
+      },
+      {
+        "example": "湯円",
+        "reading": "タンエン",
+        "meaning": "tangyuan, tang yuan, Chinese dumplings made from glutinous rice flour"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "囗",
+      "meaning": "enclosure"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "囗",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22291_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05713.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5713.gif",
+    "uri": "https://jisho.org/search/%E5%9C%93%23kanji"
+  }
+}

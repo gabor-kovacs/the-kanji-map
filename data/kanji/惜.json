@@ -1,1 +1,78 @@
-{"id":"惜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"惜","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1641","strokeCount":11,"meaning":"pity, be sparing of, frugal, stingy, regret","kunyomi":["お.しい","お.しむ"],"onyomi":["セキ"],"onyomiExamples":[{"example":"惜敗","reading":"セキハイ","meaning":"regrettable defeat, defeat by a narrow margin"},{"example":"惜春","reading":"セキシュン","meaning":"lamenting the passing of spring, lamenting the passing of one's youth"},{"example":"痛惜","reading":"ツウセキ","meaning":"deep regret"},{"example":"哀惜","reading":"アイセキ","meaning":"grief, sorrow"}],"kunyomiExamples":[{"example":"惜しい","reading":"おしい","meaning":"regrettable, disappointing, unfortunate, precious, dear, valuable, too good for, deserving better, almost (but not quite), close (but no cigar)"},{"example":"惜しむ","reading":"おしむ","meaning":"to be frugal, to be sparing, to value, to hold dear, to regret (e.g. a loss), to feel sorry (for), to be unwilling, to be reluctant"},{"example":"惜しむべき","reading":"おしむべき","meaning":"lamentable, regrettable"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["一","二","忙","日","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24796_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060dc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60dc.gif","uri":"https://jisho.org/search/%E6%83%9C%23kanji"}}
+{
+  "id": "惜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "惜",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1641",
+    "strokeCount": 11,
+    "meaning": "pity, be sparing of, frugal, stingy, regret",
+    "kunyomi": [
+      "お.しい",
+      "お.しむ"
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "惜敗",
+        "reading": "セキハイ",
+        "meaning": "regrettable defeat, defeat by a narrow margin"
+      },
+      {
+        "example": "惜春",
+        "reading": "セキシュン",
+        "meaning": "lamenting the passing of spring, lamenting the passing of one's youth"
+      },
+      {
+        "example": "痛惜",
+        "reading": "ツウセキ",
+        "meaning": "deep regret"
+      },
+      {
+        "example": "哀惜",
+        "reading": "アイセキ",
+        "meaning": "grief, sorrow"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "惜しい",
+        "reading": "おしい",
+        "meaning": "regrettable, disappointing, unfortunate, precious, dear, valuable, too good for, deserving better, almost (but not quite), close (but no cigar)"
+      },
+      {
+        "example": "惜しむ",
+        "reading": "おしむ",
+        "meaning": "to spare, to grudge, to be sparing (with), to be frugal, to be stingy, to regret, to lament, to be reluctant (to do), to be unwilling, to value, to prize, to hold dear, to love, to cherish"
+      },
+      {
+        "example": "惜しむべき",
+        "reading": "おしむべき",
+        "meaning": "lamentable, regrettable"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "一",
+      "二",
+      "忙",
+      "日",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24796_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60dc.gif",
+    "uri": "https://jisho.org/search/%E6%83%9C%23kanji"
+  }
+}

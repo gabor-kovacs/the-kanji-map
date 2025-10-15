@@ -1,1 +1,349 @@
-{"id":"林","kanjialiveData":{"kanji":{"character":"林","meaning":{"english":"woods, forest"},"strokes":{"count":8,"timings":[0,1.133333,2.733333,3.733333,4.6,5.733333,7.333333,8.666667,9.4],"images":["https://media.kanjialive.com/kanji_strokes/hayashi_1.svg","https://media.kanjialive.com/kanji_strokes/hayashi_2.svg","https://media.kanjialive.com/kanji_strokes/hayashi_3.svg","https://media.kanjialive.com/kanji_strokes/hayashi_4.svg","https://media.kanjialive.com/kanji_strokes/hayashi_5.svg","https://media.kanjialive.com/kanji_strokes/hayashi_6.svg","https://media.kanjialive.com/kanji_strokes/hayashi_7.svg","https://media.kanjialive.com/kanji_strokes/hayashi_8.svg"]},"onyomi":{"romaji":"rin","katakana":"リン"},"kunyomi":{"romaji":"hayashi","hiragana":"はやし"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/hayashi_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/hayashi_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/hayashi_00.webm"}},"radical":{"character":"","strokes":4,"image":"https://media.kanjialive.com/radical_character/kihen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"きへん","romaji":"kihen"},"meaning":{"english":"tree, wood"},"animation":["https://media.kanjialive.com/rad_frames/kihen0.svg","https://media.kanjialive.com/rad_frames/kihen1.svg","https://media.kanjialive.com/rad_frames/kihen2.svg"]},"references":{"grade":1,"kodansha":"577","classic_nelson":"2210"},"examples":[{"japanese":"林業（りんぎょう）","meaning":{"english":"forestry"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_a.mp3"}},{"japanese":"森林（しんりん）","meaning":{"english":"forest, woods"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_b.mp3"}},{"japanese":"山林（さんりん）","meaning":{"english":"mountain forest"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_c.mp3"}},{"japanese":"原始林（げんしりん）","meaning":{"english":"primeval forest, virgin forest"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_d.mp3"}},{"japanese":"林（はやし）","meaning":{"english":"woods, forest"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_e.mp3"}},{"japanese":"松林（まつばやし）","meaning":{"english":"pine forest"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_f.mp3"}},{"japanese":"雑木林（ぞうきばやし）","meaning":{"english":"grove of mixed trees, copse"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_g.mp3"}}]},"jishoData":{"query":"林","found":true,"taughtIn":"grade 1","jlptLevel":"N2","newspaperFrequencyRank":"656","strokeCount":8,"meaning":"grove, forest","kunyomi":["はやし"],"onyomi":["リン"],"onyomiExamples":[{"example":"林道","reading":"リンドウ","meaning":"path through forest, woodland path, logging road"},{"example":"林業","reading":"リンギョウ","meaning":"forestry"},{"example":"雑木林","reading":"ゾウキバヤシ","meaning":"grove of miscellaneous trees, copse, coppice, thicket"},{"example":"農林","reading":"ノウリン","meaning":"agriculture and forestry"}],"kunyomiExamples":[{"example":"林","reading":"はやし","meaning":"wood, woods, forest, grove, copse, thicket, bunch (of something), cluster, line, collection"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26519_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06797.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6797.gif","uri":"https://jisho.org/search/%E6%9E%97%23kanji"}}
+{
+  "id": "林",
+  "kanjialiveData": {
+    "_id": "54317b0a791eba5146ee4c4c",
+    "_rev": "11-60e089c0c60a235c4c6933c6629cd537",
+    "rad_name_ja": "きへん",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "hayashi",
+    "meaning": "woods, forest",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "林業（りんぎょう）",
+        "meaning": {
+          "english": "forestry"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "森林（しんりん）",
+        "meaning": {
+          "english": "forest, woods"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "山林（さんりん）",
+        "meaning": {
+          "english": "mountain forest"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "原始林（げんしりん）",
+        "meaning": {
+          "english": "primeval forest, virgin forest"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "林（はやし）",
+        "meaning": {
+          "english": "woods, forest"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "松林（まつばやし）",
+        "meaning": {
+          "english": "pine forest"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "雑木林（ぞうきばやし）",
+        "meaning": {
+          "english": "grove of mixed trees, copse"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hayashi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hayashi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hayashi_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "はやし",
+    "ka_utf": "林",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=林",
+    "rad_name_search": [
+      "kihen"
+    ],
+    "rad_order": 98,
+    "txt_books": [
+      {
+        "chapter": "5",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "hayashi",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.133333,
+      2.733333,
+      3.733333,
+      4.6,
+      5.733333,
+      7.333333,
+      8.666667,
+      9.4
+    ],
+    "kunyomi_ka_display": "はやし",
+    "dick": "577",
+    "rad_name": "kihen",
+    "dicn": "2210",
+    "mn_hint": "Trees 木 together.",
+    "rad_stroke": 4,
+    "onyomi_ja": "リン",
+    "rad_meaning": "tree, wood",
+    "onyomi": "rin",
+    "ka_id": "ka_856",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "rin",
+      "rin"
+    ],
+    "kunyomi_search": [
+      "hayashi",
+      "hayashi"
+    ],
+    "meaning_search": [
+      "woods",
+      "forest",
+      "woods, forest"
+    ],
+    "onyomi_ja_search": [
+      "リン",
+      "リン"
+    ],
+    "kunyomi_ja_search": [
+      "はやし",
+      "はやし"
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "きへん"
+    ],
+    "textbook_search": [
+      "bk",
+      "bk:5",
+      "bk:c5",
+      "aij3",
+      "aij3:4",
+      "aij3:c4",
+      "aij3:v3",
+      "aij3:v3:4",
+      "aij3:v3:c4",
+      "ap",
+      "ap:20",
+      "ap:c20",
+      "kll",
+      "kll:10",
+      "kll:c10",
+      "jt",
+      "jt:15",
+      "jt:c15"
+    ],
+    "rad_name_file": "kihen",
+    "kanji": {
+      "character": "林",
+      "meaning": {
+        "english": "woods, forest"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.133333,
+          2.733333,
+          3.733333,
+          4.6,
+          5.733333,
+          7.333333,
+          8.666667,
+          9.4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hayashi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hayashi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/hayashi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/hayashi_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/hayashi_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/hayashi_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/hayashi_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/hayashi_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "rin",
+        "katakana": "リン"
+      },
+      "kunyomi": {
+        "romaji": "hayashi",
+        "hiragana": "はやし"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hayashi_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hayashi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hayashi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "きへん",
+        "romaji": "kihen"
+      },
+      "meaning": {
+        "english": "tree, wood"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kihen0.svg",
+        "https://media.kanjialive.com/rad_frames/kihen1.svg",
+        "https://media.kanjialive.com/rad_frames/kihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "577",
+      "classic_nelson": "2210"
+    }
+  },
+  "jishoData": {
+    "query": "林",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "656",
+    "strokeCount": 8,
+    "meaning": "grove, forest",
+    "kunyomi": [
+      "はやし"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "林道",
+        "reading": "リンドウ",
+        "meaning": "path through forest, woodland path, logging road"
+      },
+      {
+        "example": "林業",
+        "reading": "リンギョウ",
+        "meaning": "forestry"
+      },
+      {
+        "example": "雑木林",
+        "reading": "ゾウキバヤシ",
+        "meaning": "grove of miscellaneous trees, copse, coppice, thicket"
+      },
+      {
+        "example": "農林",
+        "reading": "ノウリン",
+        "meaning": "agriculture and forestry"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "林",
+        "reading": "はやし",
+        "meaning": "wood, woods, forest, grove, copse, thicket, bunch (of something), cluster, line, collection"
+      },
+      {
+        "example": "林原美術館",
+        "reading": "はやしばらびじゅつかん",
+        "meaning": "Hayashibara Museum of Art"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26519_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06797.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6797.gif",
+    "uri": "https://jisho.org/search/%E6%9E%97%23kanji"
+  }
+}

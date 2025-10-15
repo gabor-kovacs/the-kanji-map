@@ -1,1 +1,52 @@
-{"id":"艱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"艱","found":true,"strokeCount":17,"meaning":"difficult, trying, be distressed, parent's funeral ceremony, mourning, perilous","kunyomi":["なや.む","かた.い","なや.み"],"onyomi":["カン","ケン"],"onyomiExamples":[{"example":"艱苦","reading":"カンク","meaning":"privation suffering"},{"example":"艱難","reading":"カンナン","meaning":"hardships, privations, difficulties"},{"example":"時艱","reading":"ジカン","meaning":"problems that affect a period of time, hardships peculiar to an age, hard problems of the times"}],"kunyomiExamples":[],"radical":{"symbol":"艮","meaning":"stopping"},"parts":["二","人","大","艮","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33393_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08271.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8271.gif","uri":"https://jisho.org/search/%E8%89%B1%23kanji"}}
+{
+  "id": "艱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艱",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "difficult, trying, be distressed, parent's funeral ceremony, mourning, perilous",
+    "kunyomi": [
+      "なや.む",
+      "かた.い",
+      "なや.み"
+    ],
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艱苦",
+        "reading": "カンク",
+        "meaning": "privation suffering"
+      },
+      {
+        "example": "艱難",
+        "reading": "カンナン",
+        "meaning": "hardships, privations, difficulties"
+      },
+      {
+        "example": "時艱",
+        "reading": "ジカン",
+        "meaning": "problems that affect a period of time, hardships peculiar to an age, hard problems of the times"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艮",
+      "meaning": "stopping"
+    },
+    "parts": [
+      "二",
+      "人",
+      "大",
+      "艮",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33393_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08271.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8271.gif",
+    "uri": "https://jisho.org/search/%E8%89%B1%23kanji"
+  }
+}

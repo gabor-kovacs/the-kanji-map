@@ -1,1 +1,29 @@
-{"id":"厂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"厂","found":true,"strokeCount":2,"meaning":"wild goose, trailing cliff radical (no. 27)","kunyomi":["かりがね"],"onyomi":["カン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"厂","meaning":"cliff"},"parts":["厂"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21378_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05382.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5382.gif","uri":"https://jisho.org/search/%E5%8E%82%23kanji"}}
+{
+  "id": "厂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "厂",
+    "found": true,
+    "strokeCount": 2,
+    "meaning": "wild goose, trailing cliff radical (no. 27)",
+    "kunyomi": [
+      "かりがね"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "厂",
+      "meaning": "cliff"
+    },
+    "parts": [
+      "厂"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21378_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05382.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5382.gif",
+    "uri": "https://jisho.org/search/%E5%8E%82%23kanji"
+  }
+}

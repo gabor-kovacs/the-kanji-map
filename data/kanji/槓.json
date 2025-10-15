@@ -1,1 +1,39 @@
-{"id":"槓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"槓","found":true,"strokeCount":14,"meaning":"lever","kunyomi":["てこ"],"onyomi":["コウ"],"onyomiExamples":[{"example":"槓杆","reading":"コウカン","meaning":"lever"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["ハ","工","木","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27091_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069d3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69d3.gif","uri":"https://jisho.org/search/%E6%A7%93%23kanji"}}
+{
+  "id": "槓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槓",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "lever",
+    "kunyomi": [
+      "てこ"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "槓杆",
+        "reading": "コウカン",
+        "meaning": "lever"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ハ",
+      "工",
+      "木",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27091_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069d3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69d3.gif",
+    "uri": "https://jisho.org/search/%E6%A7%93%23kanji"
+  }
+}

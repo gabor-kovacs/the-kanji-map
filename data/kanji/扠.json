@@ -1,1 +1,57 @@
-{"id":"扠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"扠","found":true,"strokeCount":6,"meaning":"well, now","kunyomi":["さて","さ.す"],"onyomi":["サ"],"onyomiExamples":[{"example":"偖","reading":"サテ","meaning":"well, now, then"},{"example":"さて置き","reading":"サテオキ","meaning":"setting aside, leaving to one side"}],"kunyomiExamples":[{"example":"偖","reading":"さて","meaning":"well, now, then"},{"example":"さて置き","reading":"さておき","meaning":"setting aside, leaving to one side"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["丶","又","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25184_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06260.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6260.gif","uri":"https://jisho.org/search/%E6%89%A0%23kanji"}}
+{
+  "id": "扠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "扠",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "well, now",
+    "kunyomi": [
+      "さて",
+      "さ.す"
+    ],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "偖",
+        "reading": "サテ",
+        "meaning": "well, now, then"
+      },
+      {
+        "example": "さて置き",
+        "reading": "サテオキ",
+        "meaning": "setting aside, leaving to one side"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "偖",
+        "reading": "さて",
+        "meaning": "well, now, then"
+      },
+      {
+        "example": "さて置き",
+        "reading": "さておき",
+        "meaning": "setting aside, leaving to one side"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "丶",
+      "又",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25184_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06260.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6260.gif",
+    "uri": "https://jisho.org/search/%E6%89%A0%23kanji"
+  }
+}

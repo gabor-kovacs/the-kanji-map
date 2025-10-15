@@ -1,1 +1,40 @@
-{"id":"鹽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鹽","found":true,"strokeCount":25,"meaning":"salt","kunyomi":["しお"],"onyomi":["エン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"塩花","reading":"しおばな","meaning":"purifying salt, pile of salt placed by the door of a shop or restaurant, whitecap"}],"radical":{"symbol":"鹵","meaning":"salt"},"parts":["乞","十","囗","皿","臣","鹵"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40573_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e7d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e7d.gif","uri":"https://jisho.org/search/%E9%B9%BD%23kanji"}}
+{
+  "id": "鹽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鹽",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "salt",
+    "kunyomi": [
+      "しお"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "塩花",
+        "reading": "しおばな",
+        "meaning": "purifying salt, pile of salt placed by the door of a shop or restaurant, whitecap"
+      }
+    ],
+    "radical": {
+      "symbol": "鹵",
+      "meaning": "salt"
+    },
+    "parts": [
+      "乞",
+      "十",
+      "囗",
+      "皿",
+      "臣",
+      "鹵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40573_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e7d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e7d.gif",
+    "uri": "https://jisho.org/search/%E9%B9%BD%23kanji"
+  }
+}

@@ -1,1 +1,46 @@
-{"id":"銜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"銜","found":true,"strokeCount":14,"meaning":"horse's bit","kunyomi":["くつわ","くわ.える"],"onyomi":["カン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"轡","reading":"くつわ","meaning":"bit (mouthpiece)"},{"example":"咥える","reading":"くわえる","meaning":"to hold in one's mouth, to bring with, to take along"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["彳","行","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37532_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0929c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/929c.gif","uri":"https://jisho.org/search/%E9%8A%9C%23kanji"}}
+{
+  "id": "銜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "銜",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "horse's bit",
+    "kunyomi": [
+      "くつわ",
+      "くわ.える"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "轡",
+        "reading": "くつわ",
+        "meaning": "bit (mouthpiece)"
+      },
+      {
+        "example": "咥える",
+        "reading": "くわえる",
+        "meaning": "to hold in one's mouth, to bring with, to take along"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "彳",
+      "行",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37532_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0929c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/929c.gif",
+    "uri": "https://jisho.org/search/%E9%8A%9C%23kanji"
+  }
+}

@@ -1,1 +1,40 @@
-{"id":"鞫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鞫","found":true,"strokeCount":18,"meaning":"investigate a crime","kunyomi":[],"onyomi":["キク"],"onyomiExamples":[{"example":"鞠問","reading":"キクモン","meaning":"examination, interrogation, questioning"},{"example":"推鞠","reading":"スイキク","meaning":"investigating (e.g. a criminal)"}],"kunyomiExamples":[],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["勹","言","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38827_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097ab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97ab.gif","uri":"https://jisho.org/search/%E9%9E%AB%23kanji"}}
+{
+  "id": "鞫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞫",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "investigate a crime",
+    "kunyomi": [],
+    "onyomi": [
+      "キク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鞠問",
+        "reading": "キクモン",
+        "meaning": "questioning (someone) about a crime, interrogation"
+      },
+      {
+        "example": "推鞠",
+        "reading": "スイキク",
+        "meaning": "investigating (e.g. a criminal)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "勹",
+      "言",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38827_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97ab.gif",
+    "uri": "https://jisho.org/search/%E9%9E%AB%23kanji"
+  }
+}

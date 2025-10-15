@@ -1,1 +1,96 @@
-{"id":"剝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"剝","found":true,"taughtIn":"junior high","strokeCount":10,"meaning":"come off, peel, fade, discolor","kunyomi":["へ.ぐ","へず.る","む.く","む.ける","は.がれる","は.ぐ","は.げる","は.がす"],"onyomi":["ハク","ホク"],"onyomiExamples":[{"example":"剥奪","reading":"ハクダツ","meaning":"stripping (of rights, office, etc.), deprivation, forfeit, revocation, divestiture"},{"example":"剥脱","reading":"ハクダツ","meaning":"coming off, peeling off"},{"example":"落剥","reading":"ラクハク","meaning":"peeling off, coming off"}],"kunyomiExamples":[{"example":"剥ぐ","reading":"はぐ","meaning":"to tear off, to peel off, to rip off, to strip off, to skin, to flay, to bark, to strip of (clothes, rank, etc.), to deprive of, to divest of"},{"example":"剥く","reading":"むく","meaning":"to peel, to skin, to pare, to hull, to strip, to bare (teeth, fangs), to open wide (eyes)"},{"example":"剥れる","reading":"むくれる","meaning":"to become angry or sullen, to take offense, to be miffed, to come unstuck from, to peel off, to come off, to be taken off"},{"example":"剥ける","reading":"むける","meaning":"to peel off, to come off, to be taken off"},{"example":"剥がれる","reading":"はがれる","meaning":"to come unstuck from, to peel off, to come off"},{"example":"剥ぐ","reading":"はぐ","meaning":"to tear off, to peel off, to rip off, to strip off, to skin, to flay, to bark, to strip of (clothes, rank, etc.), to deprive of, to divest of"},{"example":"剥げる","reading":"はげる","meaning":"to peel off, to come off, to flake off, to be worn off, to fade, to discolor, to discolour"},{"example":"剥がす","reading":"はがす","meaning":"to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21085_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0525d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/525d.gif","uri":"https://jisho.org/search/%E5%89%9D%23kanji"}}
+{
+  "id": "剝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "剝",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 10,
+    "meaning": "come off, peel, fade, discolor",
+    "kunyomi": [
+      "へ.ぐ",
+      "へず.る",
+      "む.く",
+      "む.ける",
+      "は.がれる",
+      "は.ぐ",
+      "は.げる",
+      "は.がす"
+    ],
+    "onyomi": [
+      "ハク",
+      "ホク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剥奪",
+        "reading": "ハクダツ",
+        "meaning": "stripping (of rights, rank, etc.), deprivation, forfeit, revocation, divestiture"
+      },
+      {
+        "example": "剥脱",
+        "reading": "ハクダツ",
+        "meaning": "coming off, peeling off"
+      },
+      {
+        "example": "落剥",
+        "reading": "ラクハク",
+        "meaning": "peeling off, coming off"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "剥ぐ",
+        "reading": "はぐ",
+        "meaning": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to bark, to strip of (clothes, rank, etc.), to deprive of, to divest of"
+      },
+      {
+        "example": "剥く",
+        "reading": "むく",
+        "meaning": "to peel, to skin, to pare, to hull, to strip, to bare (teeth, fangs), to open wide (eyes)"
+      },
+      {
+        "example": "剥れる",
+        "reading": "むくれる",
+        "meaning": "to become sullen, to sulk, to get angry, to take offense, to be miffed, to be upset, to peel (off), to come off"
+      },
+      {
+        "example": "剥ける",
+        "reading": "むける",
+        "meaning": "to peel off, to come off, to be taken off"
+      },
+      {
+        "example": "剥がれる",
+        "reading": "はがれる",
+        "meaning": "to come unstuck from, to peel off, to come off"
+      },
+      {
+        "example": "剥ぐ",
+        "reading": "はぐ",
+        "meaning": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to bark, to strip of (clothes, rank, etc.), to deprive of, to divest of"
+      },
+      {
+        "example": "剥げる",
+        "reading": "はげる",
+        "meaning": "to peel off, to come off, to flake off, to be worn off, to fade, to discolor, to discolour"
+      },
+      {
+        "example": "剥がす",
+        "reading": "はがす",
+        "meaning": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21085_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0525d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/525d.gif",
+    "uri": "https://jisho.org/search/%E5%89%9D%23kanji"
+  }
+}

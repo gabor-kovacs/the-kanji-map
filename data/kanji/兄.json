@@ -1,1 +1,341 @@
-{"id":"兄","kanjialiveData":{"kanji":{"character":"兄","meaning":{"english":"older brother"},"strokes":{"count":5,"timings":[0.865,1.6,3.066,3.866,4.933,6.4],"images":["https://media.kanjialive.com/kanji_strokes/ani_1.svg","https://media.kanjialive.com/kanji_strokes/ani_2.svg","https://media.kanjialive.com/kanji_strokes/ani_3.svg","https://media.kanjialive.com/kanji_strokes/ani_4.svg","https://media.kanjialive.com/kanji_strokes/ani_5.svg"]},"onyomi":{"romaji":"kei, kyou","katakana":"ケイ、キョウ"},"kunyomi":{"romaji":"ani","hiragana":"あに"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ani_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ani_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ani_00.webm"}},"radical":{"character":"⼉","strokes":2,"image":"https://media.kanjialive.com/radical_character/hitoashi.svg","position":{"hiragana":"あし","romaji":"ashi","icon":"https://media.kanjialive.com/rad_positions/ashi.svg"},"name":{"hiragana":"ひとあし","romaji":"hitoashi"},"meaning":{"english":"human legs"},"animation":["https://media.kanjialive.com/rad_frames/hitoashi0.svg","https://media.kanjialive.com/rad_frames/hitoashi1.svg","https://media.kanjialive.com/rad_frames/hitoashi2.svg"]},"references":{"grade":2,"kodansha":"1362","classic_nelson":"875"},"examples":[{"japanese":"父兄（ふけい）","meaning":{"english":"guardians"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ani_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ani_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ani_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ani_06_a.mp3"}},{"japanese":"兄弟（きょうだい）","meaning":{"english":"siblings"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ani_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ani_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ani_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ani_06_b.mp3"}},{"japanese":"兄（あに）","meaning":{"english":"one's own older brother"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ani_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ani_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ani_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ani_06_c.mp3"}},{"japanese":"*お兄さん（おにいさん）","meaning":{"english":"older brother [hon.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ani_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ani_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ani_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ani_06_d.mp3"}}]},"jishoData":{"query":"兄","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"1219","strokeCount":5,"meaning":"elder brother, big brother","kunyomi":["あに"],"onyomi":["ケイ","キョウ"],"onyomiExamples":[{"example":"兄","reading":"ケイ","meaning":"you, Mr, Mister, older brother, elder brother"},{"example":"兄弟","reading":"キョウダイ","meaning":"siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend"},{"example":"実兄","reading":"ジッケイ","meaning":"biological older brother"},{"example":"父兄","reading":"フケイ","meaning":"guardians, parents, father and older brother"},{"example":"兄弟","reading":"キョウダイ","meaning":"siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend"},{"example":"兄姉","reading":"ケイシ","meaning":"brother and sister"}],"kunyomiExamples":[{"example":"兄","reading":"あに","meaning":"older brother, elder brother"},{"example":"兄貴","reading":"あにき","meaning":"elder brother, one's senior, older man, man older than oneself"},{"example":"中の兄","reading":"なかのあに","meaning":"middle brother"},{"example":"義理の兄","reading":"ぎりのあに","meaning":"one's brother-in-law, stepbrother (elder)"}],"radical":{"symbol":"儿","meaning":"legs"},"parts":["儿","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20804_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05144.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5144.gif","uri":"https://jisho.org/search/%E5%85%84%23kanji"}}
+{
+  "id": "兄",
+  "kanjialiveData": {
+    "_id": "54317af2791eba5146ee4a94",
+    "_rev": "10-f384f38f61d528db1e7d0128cbf4975f",
+    "rad_name_ja": "ひとあし",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "ani",
+    "meaning": "older brother",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "父兄（ふけい）",
+        "meaning": {
+          "english": "guardians"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ani_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ani_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ani_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ani_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "兄弟（きょうだい）",
+        "meaning": {
+          "english": "siblings"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ani_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ani_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ani_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ani_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "兄（あに）",
+        "meaning": {
+          "english": "one's own older brother"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ani_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ani_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ani_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ani_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "*お兄さん（おにいさん）",
+        "meaning": {
+          "english": "older brother [hon.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ani_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ani_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ani_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ani_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あに",
+    "ka_utf": "兄",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=兄",
+    "kname": "ani",
+    "rad_order": 13,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "rad_name_search": [
+      "hitoashi"
+    ],
+    "rad_utf": "⼉",
+    "stroketimes": [
+      0.865,
+      1.6,
+      3.066,
+      3.866,
+      4.933,
+      6.4
+    ],
+    "kunyomi_ka_display": "あに",
+    "dick": "1362",
+    "rad_name": "hitoashi",
+    "dicn": "875",
+    "mn_hint": "The high ranking one 儿 among the children who uses his mouth 口 to command.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ケイ、キョウ",
+    "rad_meaning": "human legs",
+    "onyomi": "kei, kyou",
+    "ka_id": "ka_46",
+    "rad_position": "ashi",
+    "rad_position_ja": "あし",
+    "rad_position_search": [
+      "ashi",
+      "ashi"
+    ],
+    "onyomi_search": [
+      "kei",
+      "kyou",
+      "kei, kyou"
+    ],
+    "kunyomi_search": [
+      "ani",
+      "ani"
+    ],
+    "meaning_search": [
+      "older brother",
+      "older",
+      "brother",
+      "older brother"
+    ],
+    "onyomi_ja_search": [
+      "ケイ",
+      "キョウ",
+      "ケイ、キョウ"
+    ],
+    "kunyomi_ja_search": [
+      "あに",
+      "あに"
+    ],
+    "rad_meaning_search": [
+      "human legs",
+      "human",
+      "legs",
+      "human legs"
+    ],
+    "rad_position_ja_search": [
+      "あし",
+      "あし"
+    ],
+    "rad_name_ja_search": [
+      "ひとあし"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:9",
+      "cij:c9",
+      "bk",
+      "bk:15",
+      "bk:c15",
+      "aij3",
+      "aij3:1",
+      "aij3:c1",
+      "aij3:v3",
+      "aij3:v3:1",
+      "aij3:v3:c1",
+      "gen",
+      "gen:19",
+      "gen:c19",
+      "ap",
+      "ap:5",
+      "ap:c5",
+      "kll",
+      "kll:13",
+      "kll:c13"
+    ],
+    "rad_name_file": "hitoashi",
+    "kanji": {
+      "character": "兄",
+      "meaning": {
+        "english": "older brother"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0.865,
+          1.6,
+          3.066,
+          3.866,
+          4.933,
+          6.4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ani_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ani_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ani_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ani_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ani_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kei, kyou",
+        "katakana": "ケイ、キョウ"
+      },
+      "kunyomi": {
+        "romaji": "ani",
+        "hiragana": "あに"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ani_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ani_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ani_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼉",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/hitoashi.svg",
+      "position": {
+        "hiragana": "あし",
+        "romaji": "ashi",
+        "icon": "https://media.kanjialive.com/rad_positions/ashi.svg"
+      },
+      "name": {
+        "hiragana": "ひとあし",
+        "romaji": "hitoashi"
+      },
+      "meaning": {
+        "english": "human legs"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
+        "https://media.kanjialive.com/rad_frames/hitoashi1.svg",
+        "https://media.kanjialive.com/rad_frames/hitoashi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1362",
+      "classic_nelson": "875"
+    }
+  },
+  "jishoData": {
+    "query": "兄",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "1219",
+    "strokeCount": 5,
+    "meaning": "elder brother, big brother",
+    "kunyomi": [
+      "あに"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "兄",
+        "reading": "ケイ",
+        "meaning": "you, Mr, Mister, older brother, elder brother"
+      },
+      {
+        "example": "兄弟",
+        "reading": "キョウダイ",
+        "meaning": "siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend"
+      },
+      {
+        "example": "実兄",
+        "reading": "ジッケイ",
+        "meaning": "biological older brother"
+      },
+      {
+        "example": "父兄",
+        "reading": "フケイ",
+        "meaning": "guardians, parents, father and older brother"
+      },
+      {
+        "example": "兄弟",
+        "reading": "キョウダイ",
+        "meaning": "siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend"
+      },
+      {
+        "example": "兄姉",
+        "reading": "ケイシ",
+        "meaning": "older brother and older sister"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "兄",
+        "reading": "あに",
+        "meaning": "older brother, elder brother, brother-in-law (spouse's older brother or older sister's husband)"
+      },
+      {
+        "example": "兄貴",
+        "reading": "あにき",
+        "meaning": "elder brother, one's senior, older man, man older than oneself"
+      },
+      {
+        "example": "中の兄",
+        "reading": "なかのあに",
+        "meaning": "middle brother"
+      },
+      {
+        "example": "義理の兄",
+        "reading": "ぎりのあに",
+        "meaning": "one's brother-in-law, stepbrother (elder)"
+      }
+    ],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "legs"
+    },
+    "parts": [
+      "儿",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20804_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05144.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5144.gif",
+    "uri": "https://jisho.org/search/%E5%85%84%23kanji"
+  }
+}

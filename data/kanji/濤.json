@@ -1,1 +1,59 @@
-{"id":"濤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"濤","found":true,"strokeCount":17,"meaning":"waves, billows","kunyomi":["なみ"],"onyomi":["トウ"],"onyomiExamples":[{"example":"滔々","reading":"トウトウ","meaning":"torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"},{"example":"怒涛","reading":"ドトウ","meaning":"surging waves, raging billows, turbulent, tempestuous, tumultuous, chaotic"},{"example":"滔々","reading":"トウトウ","meaning":"torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"}],"kunyomiExamples":[{"example":"波","reading":"なみ","meaning":"wave, ups and downs"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["口","士","寸","工","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28644_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fe4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fe4.gif","uri":"https://jisho.org/search/%E6%BF%A4%23kanji"}}
+{
+  "id": "濤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "濤",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "waves, billows",
+    "kunyomi": [
+      "なみ"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "滔々",
+        "reading": "トウトウ",
+        "meaning": "torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"
+      },
+      {
+        "example": "怒涛",
+        "reading": "ドトウ",
+        "meaning": "surging waves, raging billows, turbulent, tempestuous, tumultuous, chaotic"
+      },
+      {
+        "example": "滔々",
+        "reading": "トウトウ",
+        "meaning": "torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "波",
+        "reading": "なみ",
+        "meaning": "wave, ups and downs"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "口",
+      "士",
+      "寸",
+      "工",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28644_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fe4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fe4.gif",
+    "uri": "https://jisho.org/search/%E6%BF%A4%23kanji"
+  }
+}

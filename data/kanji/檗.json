@@ -1,1 +1,36 @@
-{"id":"檗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"檗","found":true,"strokeCount":17,"meaning":"Amur or Chinese cork tree","kunyomi":["きはだ","きわだ"],"onyomi":["ハク","ビャク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["十","口","尸","木","立","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27287_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a97.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a97.gif","uri":"https://jisho.org/search/%E6%AA%97%23kanji"}}
+{
+  "id": "檗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "檗",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "Amur or Chinese cork tree",
+    "kunyomi": [
+      "きはだ",
+      "きわだ"
+    ],
+    "onyomi": [
+      "ハク",
+      "ビャク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "木",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27287_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a97.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a97.gif",
+    "uri": "https://jisho.org/search/%E6%AA%97%23kanji"
+  }
+}

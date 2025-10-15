@@ -1,1 +1,49 @@
-{"id":"胄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"胄","found":true,"strokeCount":9,"meaning":"lineage, bloodline","kunyomi":["かぶと","ちすじ","よつぎ"],"onyomi":["チュウ"],"onyomiExamples":[{"example":"甲冑","reading":"カッチュウ","meaning":"armor and helmet (armour)"}],"kunyomiExamples":[{"example":"兜","reading":"かぶと","meaning":"helmet (of a warrior), headpiece"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["日","月","田","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32964_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080c4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80c4.gif","uri":"https://jisho.org/search/%E8%83%84%23kanji"}}
+{
+  "id": "胄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胄",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "lineage, bloodline",
+    "kunyomi": [
+      "かぶと",
+      "ちすじ",
+      "よつぎ"
+    ],
+    "onyomi": [
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "甲冑",
+        "reading": "カッチュウ",
+        "meaning": "armor and helmet"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "兜",
+        "reading": "かぶと",
+        "meaning": "helmet (of a warrior), headpiece"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "日",
+      "月",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32964_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80c4.gif",
+    "uri": "https://jisho.org/search/%E8%83%84%23kanji"
+  }
+}

@@ -1,1 +1,38 @@
-{"id":"吮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"吮","found":true,"strokeCount":7,"meaning":"suck","kunyomi":["す.う"],"onyomi":["セン","シュン"],"onyomiExamples":[{"example":"吮癰舐痔","reading":"センヨウシジ","meaning":"currying favour (favor), brown-nosing, bootlicking, sucking pus from carbuncles and licking hemorrhoids (haemorrhoids)"}],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["儿","厶","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21550_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0542e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/542e.gif","uri":"https://jisho.org/search/%E5%90%AE%23kanji"}}
+{
+  "id": "吮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吮",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "suck",
+    "kunyomi": [
+      "す.う"
+    ],
+    "onyomi": [
+      "セン",
+      "シュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "吮癰舐痔",
+        "reading": "センヨウシジ",
+        "meaning": "currying favour (favor), brown-nosing, bootlicking, sucking pus from carbuncles and licking hemorrhoids (haemorrhoids)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "儿",
+      "厶",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21550_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0542e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/542e.gif",
+    "uri": "https://jisho.org/search/%E5%90%AE%23kanji"
+  }
+}

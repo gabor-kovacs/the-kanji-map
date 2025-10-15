@@ -1,1 +1,52 @@
-{"id":"荵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"荵","found":true,"strokeCount":10,"meaning":"hare's foot fern","kunyomi":["しのぶ"],"onyomi":["ニン","ジン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"忍","reading":"しのぶ","meaning":"squirrel's foot fern (Davallia mariesii), Lepisorus thunbergianus (species of fern), color of clothing layers under one's overcoat (light green on blue), shinobu-wake (Edo-period women's hairstyle), clothing patterned using squirrel's foot fern"},{"example":"軒忍","reading":"のきしのぶ","meaning":"weeping fern (Lepisorus thunbergianus)"},{"example":"立忍","reading":"たちしのぶ","meaning":"Japanese claw fern (Onychium japonicum), carrot fern"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["丶","刀","心","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33653_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08375.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8375.gif","uri":"https://jisho.org/search/%E8%8D%B5%23kanji"}}
+{
+  "id": "荵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "荵",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "hare's foot fern",
+    "kunyomi": [
+      "しのぶ"
+    ],
+    "onyomi": [
+      "ニン",
+      "ジン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "忍",
+        "reading": "しのぶ",
+        "meaning": "squirrel's foot fern (Davallia mariesii), Lepisorus thunbergianus (species of fern), color of clothing layers under one's overcoat (light green on blue), shinobu-wake (Edo-period women's hairstyle), clothing patterned using squirrel's foot fern"
+      },
+      {
+        "example": "軒忍",
+        "reading": "のきしのぶ",
+        "meaning": "weeping fern (Lepisorus thunbergianus)"
+      },
+      {
+        "example": "立忍",
+        "reading": "たちしのぶ",
+        "meaning": "Japanese claw fern (Onychium japonicum), carrot fern"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "丶",
+      "刀",
+      "心",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33653_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08375.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8375.gif",
+    "uri": "https://jisho.org/search/%E8%8D%B5%23kanji"
+  }
+}

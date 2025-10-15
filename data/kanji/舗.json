@@ -1,1 +1,59 @@
-{"id":"舗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"舗","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1412","strokeCount":15,"meaning":"shop, store, pave","kunyomi":[],"onyomi":["ホ"],"onyomiExamples":[{"example":"舗","reading":"ホ","meaning":"shop, store, counter for foldable things such as maps, etc."},{"example":"舗装","reading":"ホソウ","meaning":"paving (a road), surfacing (with asphalt, concrete, etc.), pavement"},{"example":"老舗","reading":"シニセ","meaning":"long-established shop, shop of long standing, old shop"},{"example":"名舗","reading":"メイホ","meaning":"quality shop, famous store"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["个","丶","十","口","土","用"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33303_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08217.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8217.gif","uri":"https://jisho.org/search/%E8%88%97%23kanji"}}
+{
+  "id": "舗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "舗",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1412",
+    "strokeCount": 15,
+    "meaning": "shop, store, pave",
+    "kunyomi": [],
+    "onyomi": [
+      "ホ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舗",
+        "reading": "ホ",
+        "meaning": "shop, store, counter for foldable things such as maps, etc."
+      },
+      {
+        "example": "舗装",
+        "reading": "ホソウ",
+        "meaning": "paving (a road), surfacing (with asphalt, concrete, etc.), pavement"
+      },
+      {
+        "example": "名舗",
+        "reading": "メイホ",
+        "meaning": "quality shop, famous store"
+      },
+      {
+        "example": "商舗",
+        "reading": "ショウホ",
+        "meaning": "shop, store"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "个",
+      "丶",
+      "十",
+      "口",
+      "土",
+      "用"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33303_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08217.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8217.gif",
+    "uri": "https://jisho.org/search/%E8%88%97%23kanji"
+  }
+}

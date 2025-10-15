@@ -1,1 +1,40 @@
-{"id":"麈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"麈","found":true,"strokeCount":16,"meaning":"moose, priest's horsehair flapper, elk","kunyomi":["おおじか"],"onyomi":["シュ","ス"],"onyomiExamples":[{"example":"麈尾","reading":"シュビ","meaning":"priest's flapper made from the tail of a large deer, long stick with the tail of a large deer attached"}],"kunyomiExamples":[],"radical":{"symbol":"鹿","meaning":"deer"},"parts":["丶","广","比","王","鹿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40584_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e88.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e88.gif","uri":"https://jisho.org/search/%E9%BA%88%23kanji"}}
+{
+  "id": "麈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麈",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "moose, priest's horsehair flapper, elk",
+    "kunyomi": [
+      "おおじか"
+    ],
+    "onyomi": [
+      "シュ",
+      "ス"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麈尾",
+        "reading": "シュビ",
+        "meaning": "priest's flapper made from the tail of a large deer, long stick with the tail of a large deer attached"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鹿",
+      "meaning": "deer"
+    },
+    "parts": [
+      "丶",
+      "广",
+      "比",
+      "王",
+      "鹿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40584_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e88.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e88.gif",
+    "uri": "https://jisho.org/search/%E9%BA%88%23kanji"
+  }
+}

@@ -1,1 +1,43 @@
-{"id":"霾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霾","found":true,"strokeCount":22,"meaning":"wind-blown dust falling like rain","kunyomi":["つちふる"],"onyomi":["バイ"],"onyomiExamples":[{"example":"霾","reading":"バイ","meaning":"loess, yellow sand, bai, dust from the Yellow River region (China)"}],"kunyomiExamples":[{"example":"霾る","reading":"つちふる","meaning":"to rain dust, to have a dust storm"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["豸","里","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38718_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0973e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/973e.gif","uri":"https://jisho.org/search/%E9%9C%BE%23kanji"}}
+{
+  "id": "霾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霾",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "wind-blown dust falling like rain",
+    "kunyomi": [
+      "つちふる"
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霾",
+        "reading": "バイ",
+        "meaning": "loess, yellow sand, bai, dust from the Yellow River region (China)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "霾る",
+        "reading": "つちふる",
+        "meaning": "to rain dust, to have a dust storm"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "豸",
+      "里",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38718_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0973e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/973e.gif",
+    "uri": "https://jisho.org/search/%E9%9C%BE%23kanji"
+  }
+}

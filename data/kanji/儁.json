@@ -1,1 +1,44 @@
-{"id":"儁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"儁","found":true,"strokeCount":14,"meaning":"excellence, talented person","kunyomi":["すぐ.れる"],"onyomi":["シュン"],"onyomiExamples":[{"example":"俊","reading":"シュン","meaning":"excellence, genius"},{"example":"俊才","reading":"シュンサイ","meaning":"prodigy, talented person, person of exceptional talent, genius"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20737_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05101.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5101.gif","uri":"https://jisho.org/search/%E5%84%81%23kanji"}}
+{
+  "id": "儁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "儁",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "excellence, talented person",
+    "kunyomi": [
+      "すぐ.れる"
+    ],
+    "onyomi": [
+      "シュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "俊",
+        "reading": "シュン",
+        "meaning": "excellence, genius"
+      },
+      {
+        "example": "俊才",
+        "reading": "シュンサイ",
+        "meaning": "prodigy, talented person, person of exceptional talent, genius"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20737_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05101.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5101.gif",
+    "uri": "https://jisho.org/search/%E5%84%81%23kanji"
+  }
+}

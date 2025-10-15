@@ -1,1 +1,38 @@
-{"id":"櫺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"櫺","found":true,"strokeCount":21,"meaning":"latticework","kunyomi":["れんじ"],"onyomi":["レイ","リョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"連子","reading":"れんじ","meaning":"latticework"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["口","木","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27386_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06afa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6afa.gif","uri":"https://jisho.org/search/%E6%AB%BA%23kanji"}}
+{
+  "id": "櫺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "櫺",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "latticework",
+    "kunyomi": [
+      "れんじ"
+    ],
+    "onyomi": [
+      "レイ",
+      "リョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "連子",
+        "reading": "れんじ",
+        "meaning": "latticework"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "口",
+      "木",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27386_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06afa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6afa.gif",
+    "uri": "https://jisho.org/search/%E6%AB%BA%23kanji"
+  }
+}

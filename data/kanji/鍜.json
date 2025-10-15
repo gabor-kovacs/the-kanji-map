@@ -1,1 +1,32 @@
-{"id":"鍜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鍜","found":true,"strokeCount":17,"meaning":"armour neck plates","kunyomi":[],"onyomi":["カ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["又","金","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37724_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0935c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/935c.gif","uri":"https://jisho.org/search/%E9%8D%9C%23kanji"}}
+{
+  "id": "鍜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鍜",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "armour neck plates",
+    "kunyomi": [],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "又",
+      "金",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37724_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0935c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/935c.gif",
+    "uri": "https://jisho.org/search/%E9%8D%9C%23kanji"
+  }
+}

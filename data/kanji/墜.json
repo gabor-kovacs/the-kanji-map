@@ -1,1 +1,63 @@
-{"id":"墜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"墜","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1466","strokeCount":15,"meaning":"crash, fall (down)","kunyomi":["お.ちる","お.つ"],"onyomi":["ツイ"],"onyomiExamples":[{"example":"墜落","reading":"ツイラク","meaning":"fall, crash (e.g. aircraft)"},{"example":"墜死","reading":"ツイシ","meaning":"falling to one's death"},{"example":"人気失墜","reading":"ニンキシッツイ","meaning":"decline in public favor, fall in popularity"}],"kunyomiExamples":[{"example":"落ちる","reading":"おちる","meaning":"to fall down, to drop, to fall (e.g. rain), to sink (e.g. sun or moon), to fall onto (e.g. light or one's gaze), to be used in a certain place (e.g. money), to be omitted, to be missing, to decrease, to sink, to fail (e.g. exam or class), to lose (contest, election, etc.), to crash, to degenerate, to degrade, to fall behind, to become indecent (of a conversation), to be ruined, to go under, to fade, to come out (e.g. a stain), to come off (e.g. makeup), to be removed (e.g. illness, possessing spirit, name on a list), to fall (into someone's hands), to become someone's possession, to fall (into a trap), to fall (for a trick), to give in, to give up, to confess, to flee, to fall, to be defeated, to surrender, to come to (in the end), to end in, to fall (in love, asleep, etc.), to swoon (judo), to consent, to understand, to go down (of a website, server, etc.), to crash, to log out (of an online game, chat room, etc.), to drop out, to leave, to go offline, to die, to move to the depths"},{"example":"落つ","reading":"おつ","meaning":"to fall down, to drop, to fall (e.g. rain), to sink (e.g. sun or moon), to fall onto (e.g. light or one's gaze), to be omitted, to be missing, to crash, to degenerate, to degrade, to fall behind, to be removed (e.g. illness, possessing spirit, name on a list), to fall (into someone's hands), to become someone's possession, to fall, to be defeated, to surrender"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","并","豕","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22684_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0589c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/589c.gif","uri":"https://jisho.org/search/%E5%A2%9C%23kanji"}}
+{
+  "id": "墜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "墜",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1466",
+    "strokeCount": 15,
+    "meaning": "crash, fall (down)",
+    "kunyomi": [
+      "お.ちる",
+      "お.つ"
+    ],
+    "onyomi": [
+      "ツイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "墜落",
+        "reading": "ツイラク",
+        "meaning": "fall, crash (of an aircraft)"
+      },
+      {
+        "example": "墜死",
+        "reading": "ツイシ",
+        "meaning": "falling to one's death"
+      },
+      {
+        "example": "人気失墜",
+        "reading": "ニンキシッツイ",
+        "meaning": "decline in public favor, fall in popularity"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "落ちる",
+        "reading": "おちる",
+        "meaning": "to fall, to drop, to come down, to crash, to collapse, to cave in, to give way, to set (of the sun or moon), to sink, to dip, to go down, to decrease (of popularity, quality, speed, sales, etc.), to fall, to drop, to go down, to decline, to deteriorate, to abate (of wind), to be inferior (to), to be not as good (as), to fall short (of), to come off (of dirt, paint, makeup, etc.), to come out (of a stain), to fade (of colour), to be removed (of an illness, possessing spirit, etc.), to disappear (of excess fat), to become thinner, to become leaner, to be left out, to be omitted, to be missing, to fail (an exam), to lose (a contest, election, etc.), to be unsuccessful, to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low), to be ruined, to go under, to fall (into hell), to fall (in love, asleep, etc.), to fall (into someone's hands), to be accepted (of a bid), to be won (of a tender), to be honoured (of a bill), to fall into (a trap), to fall for (a trick), to give in, to confess, to own up, to come to (a conclusion, topic, etc.), to arrive at (in the end), to leave (a city, castle, etc.), to (be defeated and) flee, to sink in, to be accepted (in one's heart), to fall (to the enemy), to be defeated, to come in (of money), to fall (upon; of light, a shadow, one's gaze, etc.), to pass out (in judo), to fall unconscious, to go down (of a website, server, etc.), to crash, to log out (of an online game, chat room, etc.), to drop out, to leave, to go offline, to move to deeper water (of a fish in cold weather), to die (of an animal)"
+      },
+      {
+        "example": "落つ",
+        "reading": "おつ",
+        "meaning": "to fall, to drop"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "并",
+      "豕",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22684_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0589c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/589c.gif",
+    "uri": "https://jisho.org/search/%E5%A2%9C%23kanji"
+  }
+}

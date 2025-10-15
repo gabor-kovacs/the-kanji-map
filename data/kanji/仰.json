@@ -1,1 +1,107 @@
-{"id":"仰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"仰","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1573","strokeCount":6,"meaning":"face-up, look up, depend, seek, respect, revere, drink, take","kunyomi":["あお.ぐ","おお.せ","お.っしゃる","おっしゃ.る"],"onyomi":["ギョウ","コウ"],"onyomiExamples":[{"example":"仰天","reading":"ギョウテン","meaning":"being amazed, being horrified, being taken aback"},{"example":"仰角","reading":"ギョウカク","meaning":"angle of elevation"},{"example":"大仰","reading":"オオギョウ","meaning":"exaggerated, overblown, pretentious"},{"example":"景仰","reading":"ケイコウ","meaning":"adoration, admiration, reverence"},{"example":"景仰","reading":"ケイコウ","meaning":"adoration, admiration, reverence"},{"example":"欽仰","reading":"キンギョウ","meaning":"reverence, adoration, veneration"}],"kunyomiExamples":[{"example":"仰ぐ","reading":"あおぐ","meaning":"to look up (at), to look up to, to respect, to revere, to ask for (e.g. guidance), to seek, to turn to (someone) for, to depend on, to rely on, to gulp down, to quaff, to drink"},{"example":"仰せ","reading":"おおせ","meaning":"order (from one's superior), command, what you say, (someone's) words"},{"example":"仰せ言","reading":"おおせごと","meaning":"statement, order"},{"example":"仰る","reading":"おっしゃる","meaning":"to say, to speak, to tell, to talk"},{"example":"おっしゃる通り","reading":"おっしゃるとおり","meaning":"I agree with you, it is as (someone) says"},{"example":"仰る","reading":"おっしゃる","meaning":"to say, to speak, to tell, to talk"},{"example":"おっしゃる通り","reading":"おっしゃるとおり","meaning":"I agree with you, it is as (someone) says"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","卩"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20208_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ef0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ef0.gif","uri":"https://jisho.org/search/%E4%BB%B0%23kanji"}}
+{
+  "id": "仰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "仰",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1573",
+    "strokeCount": 6,
+    "meaning": "face-up, look up, depend, seek, respect, revere, drink, take",
+    "kunyomi": [
+      "あお.ぐ",
+      "おお.せ",
+      "お.っしゃる",
+      "おっしゃ.る"
+    ],
+    "onyomi": [
+      "ギョウ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "仰天",
+        "reading": "ギョウテン",
+        "meaning": "being amazed, being horrified, being taken aback"
+      },
+      {
+        "example": "仰角",
+        "reading": "ギョウカク",
+        "meaning": "angle of elevation"
+      },
+      {
+        "example": "大仰",
+        "reading": "オオギョウ",
+        "meaning": "exaggerated, overblown, overdone"
+      },
+      {
+        "example": "景仰",
+        "reading": "ケイコウ",
+        "meaning": "adoration, admiration, reverence"
+      },
+      {
+        "example": "景仰",
+        "reading": "ケイコウ",
+        "meaning": "adoration, admiration, reverence"
+      },
+      {
+        "example": "欽仰",
+        "reading": "キンギョウ",
+        "meaning": "reverence, adoration, veneration"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "仰ぐ",
+        "reading": "あおぐ",
+        "meaning": "to look up (at), to look up to, to respect, to revere, to ask for (e.g. guidance), to seek, to turn to (someone) for, to depend on, to rely on, to gulp down, to quaff, to drink"
+      },
+      {
+        "example": "仰せ",
+        "reading": "おおせ",
+        "meaning": "order (from one's superior), command, what you say, (someone's) words"
+      },
+      {
+        "example": "仰せ言",
+        "reading": "おおせごと",
+        "meaning": "statement, order"
+      },
+      {
+        "example": "仰る",
+        "reading": "おっしゃる",
+        "meaning": "to say, to speak, to tell, to be called"
+      },
+      {
+        "example": "おっしゃる通り",
+        "reading": "おっしゃるとおり",
+        "meaning": "as you (they, etc.) say, as you suggest, I absolutely agree"
+      },
+      {
+        "example": "仰る",
+        "reading": "おっしゃる",
+        "meaning": "to say, to speak, to tell, to be called"
+      },
+      {
+        "example": "おっしゃる通り",
+        "reading": "おっしゃるとおり",
+        "meaning": "as you (they, etc.) say, as you suggest, I absolutely agree"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "卩"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20208_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ef0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ef0.gif",
+    "uri": "https://jisho.org/search/%E4%BB%B0%23kanji"
+  }
+}

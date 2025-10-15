@@ -1,1 +1,53 @@
-{"id":"坑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"坑","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2040","strokeCount":7,"meaning":"pit, hole","kunyomi":[],"onyomi":["コウ"],"onyomiExamples":[{"example":"坑","reading":"コウ","meaning":"pit (esp. of a mine)"},{"example":"坑口","reading":"コウコウ","meaning":"pithead, minehead"},{"example":"廃坑","reading":"ハイコウ","meaning":"closure of a mine, abandoned mine, disused mine"},{"example":"開坑","reading":"カイコウ","meaning":"opening of mine"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["亠","几","土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22353_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05751.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5751.gif","uri":"https://jisho.org/search/%E5%9D%91%23kanji"}}
+{
+  "id": "坑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "坑",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2040",
+    "strokeCount": 7,
+    "meaning": "pit, hole",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "坑",
+        "reading": "コウ",
+        "meaning": "pit (esp. of a mine)"
+      },
+      {
+        "example": "坑口",
+        "reading": "コウコウ",
+        "meaning": "pithead, minehead"
+      },
+      {
+        "example": "廃坑",
+        "reading": "ハイコウ",
+        "meaning": "closure of a mine, abandoned mine, disused mine"
+      },
+      {
+        "example": "開坑",
+        "reading": "カイコウ",
+        "meaning": "opening of mine"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "亠",
+      "几",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22353_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05751.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5751.gif",
+    "uri": "https://jisho.org/search/%E5%9D%91%23kanji"
+  }
+}

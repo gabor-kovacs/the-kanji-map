@@ -1,1 +1,31 @@
-{"id":"劬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"劬","found":true,"strokeCount":7,"meaning":"become tired, work busily","kunyomi":["つか.れる"],"onyomi":["ク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"力","meaning":"power, force"},"parts":["力","勹","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21164_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052ac.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52ac.gif","uri":"https://jisho.org/search/%E5%8A%AC%23kanji"}}
+{
+  "id": "劬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "劬",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "become tired, work busily",
+    "kunyomi": [
+      "つか.れる"
+    ],
+    "onyomi": [
+      "ク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "力",
+      "勹",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21164_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52ac.gif",
+    "uri": "https://jisho.org/search/%E5%8A%AC%23kanji"
+  }
+}

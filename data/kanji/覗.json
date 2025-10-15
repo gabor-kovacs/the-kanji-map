@@ -1,1 +1,44 @@
-{"id":"覗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"覗","found":true,"strokeCount":12,"meaning":"peep, peek, come in sight","kunyomi":["のぞ.く","うかが.う"],"onyomi":["シ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"覗く","reading":"のぞく","meaning":"to peek (through a keyhole, gap, etc.), to look down into (a ravine, etc.), to peek into (a shop, bookstore, etc.), to sneak a look at, to take a quick look at, to peep (through a telescope, microscope, etc.), to stick out (a scarf from a collar, etc.), to peek through (sky through a forest canopy, etc.), to examine (an expression), to study (a face), to face"},{"example":"窺う","reading":"うかがう","meaning":"to peep (through), to peek, to examine (esp. covertly), to await (one's chance), to guess, to infer, to gather, to surmise"}],"radical":{"symbol":"見","meaning":"see"},"parts":["一","亅","口","見"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35223_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08997.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8997.gif","uri":"https://jisho.org/search/%E8%A6%97%23kanji"}}
+{
+  "id": "覗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覗",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "peep, peek, come in sight",
+    "kunyomi": [
+      "のぞ.く",
+      "うかが.う"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "覗く",
+        "reading": "のぞく",
+        "meaning": "to peek (through a keyhole, gap, etc.), to look down into (a ravine, etc.), to peek into (a shop, bookstore, etc.), to sneak a look at, to take a quick look at, to peep (through a telescope, microscope, etc.), to stick out (a scarf from a collar, etc.), to peek through (sky through a forest canopy, etc.), to examine (an expression), to study (a face), to face"
+      },
+      {
+        "example": "窺う",
+        "reading": "うかがう",
+        "meaning": "to peep (through), to peek, to examine (esp. covertly), to await (one's chance), to guess, to infer, to gather, to surmise"
+      }
+    ],
+    "radical": {
+      "symbol": "見",
+      "meaning": "see"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35223_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08997.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8997.gif",
+    "uri": "https://jisho.org/search/%E8%A6%97%23kanji"
+  }
+}

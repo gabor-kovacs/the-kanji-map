@@ -1,1 +1,61 @@
-{"id":"括","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"括","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1026","strokeCount":9,"meaning":"fasten, tie up, arrest, constrict","kunyomi":["くく.る"],"onyomi":["カツ"],"onyomiExamples":[{"example":"括約筋","reading":"カツヤクキン","meaning":"sphincter, sphincter muscle, constrictor"},{"example":"総括","reading":"ソウカツ","meaning":"summarization, summary, generalization, review (by labour or political movements of past activities, results, etc.)"},{"example":"概括","reading":"ガイカツ","meaning":"summary, generalization, generalisation"}],"kunyomiExamples":[{"example":"括る","reading":"くくる","meaning":"to tie up, to tie together, to bind, to bundle, to fasten, to hang (oneself), to summarize, to put (it all) together, to consolidate, to estimate, to expect, to tie-dye, to detain, to check, to restrain"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ノ","十","口","扎","舌"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25324_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ec.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ec.gif","uri":"https://jisho.org/search/%E6%8B%AC%23kanji"}}
+{
+  "id": "括",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "括",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1026",
+    "strokeCount": 9,
+    "meaning": "fasten, tie up, arrest, constrict",
+    "kunyomi": [
+      "くく.る"
+    ],
+    "onyomi": [
+      "カツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "括約筋",
+        "reading": "カツヤクキン",
+        "meaning": "sphincter (muscle), constrictor"
+      },
+      {
+        "example": "総括",
+        "reading": "ソウカツ",
+        "meaning": "summarization, summary, generalization, review (by labour or political movements of past activities, results, etc.)"
+      },
+      {
+        "example": "概括",
+        "reading": "ガイカツ",
+        "meaning": "summary, generalization, generalisation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "括る",
+        "reading": "くくる",
+        "meaning": "to tie up, to tie together, to bind, to bundle, to fasten, to hang (oneself), to summarize, to put (it all) together, to consolidate, to estimate, to expect, to tie-dye, to detain, to check, to restrain"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ノ",
+      "十",
+      "口",
+      "扎",
+      "舌"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25324_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ec.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ec.gif",
+    "uri": "https://jisho.org/search/%E6%8B%AC%23kanji"
+  }
+}

@@ -1,1 +1,40 @@
-{"id":"芫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"芫","found":true,"strokeCount":7,"meaning":"type of vetch","kunyomi":[],"onyomi":["ゲン","ガン"],"onyomiExamples":[{"example":"芫菁","reading":"ゲンセイ","meaning":"blister beetle, cantharides"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["二","儿","元","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33451_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082ab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82ab.gif","uri":"https://jisho.org/search/%E8%8A%AB%23kanji"}}
+{
+  "id": "芫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "芫",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "type of vetch",
+    "kunyomi": [],
+    "onyomi": [
+      "ゲン",
+      "ガン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芫菁",
+        "reading": "ゲンセイ",
+        "meaning": "blister beetle, cantharides"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "二",
+      "儿",
+      "元",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33451_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82ab.gif",
+    "uri": "https://jisho.org/search/%E8%8A%AB%23kanji"
+  }
+}

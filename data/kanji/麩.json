@@ -1,1 +1,61 @@
-{"id":"麩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"麩","found":true,"strokeCount":15,"meaning":"light wheat-gluten bread","kunyomi":["ふすま"],"onyomi":["フ"],"onyomiExamples":[{"example":"麩","reading":"フ","meaning":"wheat gluten (usu. steamed or baked)"},{"example":"麬","reading":"フスマ","meaning":"wheat bran"},{"example":"生麩","reading":"ナマフ","meaning":"nama-fu, wheat gluten mixed with rice flour and steamed in large blocks"},{"example":"正麩","reading":"ショウフ","meaning":"wheat starch"}],"kunyomiExamples":[{"example":"麬","reading":"ふすま","meaning":"wheat bran"}],"radical":{"symbol":"麥","meaning":"wheat"},"parts":["二","人","十","夂","大"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40617_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ea9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ea9.gif","uri":"https://jisho.org/search/%E9%BA%A9%23kanji"}}
+{
+  "id": "麩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麩",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "light wheat-gluten bread",
+    "kunyomi": [
+      "ふすま"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麩",
+        "reading": "フ",
+        "meaning": "wheat gluten (usu. steamed or baked)"
+      },
+      {
+        "example": "麬",
+        "reading": "フスマ",
+        "meaning": "wheat bran"
+      },
+      {
+        "example": "生麩",
+        "reading": "ナマフ",
+        "meaning": "nama-fu, wheat gluten mixed with rice flour and steamed in large blocks"
+      },
+      {
+        "example": "正麩",
+        "reading": "ショウフ",
+        "meaning": "wheat starch"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "麬",
+        "reading": "ふすま",
+        "meaning": "wheat bran"
+      }
+    ],
+    "radical": {
+      "symbol": "麥",
+      "meaning": "wheat"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "人",
+      "十",
+      "夂",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40617_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ea9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ea9.gif",
+    "uri": "https://jisho.org/search/%E9%BA%A9%23kanji"
+  }
+}

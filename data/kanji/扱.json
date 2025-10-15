@@ -1,1 +1,61 @@
-{"id":"扱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"扱","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1057","strokeCount":6,"meaning":"handle, entertain, thresh, strip","kunyomi":["あつか.い","あつか.う","あつか.る","こ.く"],"onyomi":["ソウ","キュウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"扱い","reading":"あつかい","meaning":"treatment, service, dealing (with), handling, management, handling (of a machine, tool, etc.), operation, use, treating as, treating like"},{"example":"扱い方","reading":"あつかいかた","meaning":"how to manage (e.g. case), how to handle (e.g. machine), way with (e.g. children, animal)"},{"example":"扱う","reading":"あつかう","meaning":"to deal with (a person), to treat, to handle, to take care of, to entertain, to deal with (a problem), to handle, to manage, to operate (e.g. a machine), to handle, to work, to deal in, to sell, to cover (a topic), to treat, to discuss, to take up, to treat A as B, to mediate (an argument), to be too much for one, to find unmanageable, to gossip"},{"example":"扱く","reading":"こく","meaning":"to thresh, to strip"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["及","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25201_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06271.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6271.gif","uri":"https://jisho.org/search/%E6%89%B1%23kanji"}}
+{
+  "id": "扱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "扱",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1057",
+    "strokeCount": 6,
+    "meaning": "handle, entertain, thresh, strip",
+    "kunyomi": [
+      "あつか.い",
+      "あつか.う",
+      "あつか.る",
+      "こ.く"
+    ],
+    "onyomi": [
+      "ソウ",
+      "キュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "扱い",
+        "reading": "あつかい",
+        "meaning": "treatment, service, dealing (with), handling, management, handling (of a machine, tool, etc.), operation, use, treating as, treating like"
+      },
+      {
+        "example": "扱い方",
+        "reading": "あつかいかた",
+        "meaning": "how to manage (e.g. case), how to handle (e.g. machine), way with (e.g. children, animal)"
+      },
+      {
+        "example": "扱う",
+        "reading": "あつかう",
+        "meaning": "to deal with (a person), to treat, to handle, to take care of, to entertain, to deal with (a problem), to handle, to manage, to operate (e.g. a machine), to handle, to work, to deal in, to sell, to cover (a topic), to treat, to discuss, to take up, to treat A as B, to mediate (an argument), to be too much for one, to find unmanageable, to gossip"
+      },
+      {
+        "example": "扱く",
+        "reading": "こく",
+        "meaning": "to thresh, to strip"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "及",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25201_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06271.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6271.gif",
+    "uri": "https://jisho.org/search/%E6%89%B1%23kanji"
+  }
+}

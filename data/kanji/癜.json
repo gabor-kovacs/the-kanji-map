@@ -1,1 +1,52 @@
-{"id":"癜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"癜","found":true,"strokeCount":18,"meaning":"leucoderma, piebald skin","kunyomi":["なまず"],"onyomi":["デン","テン"],"onyomiExamples":[{"example":"癜風","reading":"デンプウ","meaning":"chromophytosis, tinea versicolor"}],"kunyomiExamples":[{"example":"癜","reading":"なまず","meaning":"tinea versicolor"},{"example":"白癜","reading":"しろなまず","meaning":"vitiligo, leucoderma, leukoderma"}],"radical":{"symbol":"疒","meaning":"sickness"},"parts":["ハ","几","又","尸","殳","疔"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30300_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0765c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/765c.gif","uri":"https://jisho.org/search/%E7%99%9C%23kanji"}}
+{
+  "id": "癜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "癜",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "leucoderma, piebald skin",
+    "kunyomi": [
+      "なまず"
+    ],
+    "onyomi": [
+      "デン",
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "癜風",
+        "reading": "デンプウ",
+        "meaning": "chromophytosis, tinea versicolor"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "癜",
+        "reading": "なまず",
+        "meaning": "tinea versicolor"
+      },
+      {
+        "example": "白癜",
+        "reading": "しろなまず",
+        "meaning": "vitiligo, leucoderma, leukoderma"
+      }
+    ],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "sickness"
+    },
+    "parts": [
+      "ハ",
+      "几",
+      "又",
+      "尸",
+      "殳",
+      "疔"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30300_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0765c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/765c.gif",
+    "uri": "https://jisho.org/search/%E7%99%9C%23kanji"
+  }
+}

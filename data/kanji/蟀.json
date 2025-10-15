@@ -1,1 +1,32 @@
-{"id":"蟀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蟀","found":true,"strokeCount":17,"meaning":"cricket, grasshopper","kunyomi":[],"onyomi":["シュツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["亠","冫","十","幺","玄","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34752_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c0.gif","uri":"https://jisho.org/search/%E8%9F%80%23kanji"}}
+{
+  "id": "蟀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟀",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "cricket, grasshopper",
+    "kunyomi": [],
+    "onyomi": [
+      "シュツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "亠",
+      "冫",
+      "十",
+      "幺",
+      "玄",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34752_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c0.gif",
+    "uri": "https://jisho.org/search/%E8%9F%80%23kanji"
+  }
+}

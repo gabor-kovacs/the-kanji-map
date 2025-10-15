@@ -1,1 +1,326 @@
-{"id":"将","kanjialiveData":{"kanji":{"character":"将","meaning":{"english":"general, officer"},"strokes":{"count":10,"timings":[0.454,1.298,2.302,3.306,4.444,5.248,6.052,6.855,8.06,9.533,10.122905],"images":["https://media.kanjialive.com/kanji_strokes/shou(gun)_1.svg","https://media.kanjialive.com/kanji_strokes/shou(gun)_2.svg","https://media.kanjialive.com/kanji_strokes/shou(gun)_3.svg","https://media.kanjialive.com/kanji_strokes/shou(gun)_4.svg","https://media.kanjialive.com/kanji_strokes/shou(gun)_5.svg","https://media.kanjialive.com/kanji_strokes/shou(gun)_6.svg","https://media.kanjialive.com/kanji_strokes/shou(gun)_7.svg","https://media.kanjialive.com/kanji_strokes/shou(gun)_8.svg","https://media.kanjialive.com/kanji_strokes/shou(gun)_9.svg","https://media.kanjialive.com/kanji_strokes/shou(gun)_10.svg"]},"onyomi":{"romaji":"shou","katakana":"ショウ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/shou(gun)_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/shou(gun)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/shou(gun)_00.webm"}},"radical":{"character":"⼨","strokes":3,"image":"https://media.kanjialive.com/radical_character/sun.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"すん","romaji":"sun"},"meaning":{"english":"inch, (2.25 cm)"},"animation":["https://media.kanjialive.com/rad_frames/sun0.svg","https://media.kanjialive.com/rad_frames/sun1.svg","https://media.kanjialive.com/rad_frames/sun2.svg"]},"references":{"grade":6,"kodansha":"336","classic_nelson":"2840"},"examples":[{"japanese":"将来（しょうらい）","meaning":{"english":"future, prospects"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shou(gun)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shou(gun)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shou(gun)_06_a.mp3"}},{"japanese":"将軍（しょうぐん）","meaning":{"english":"general, shogun"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shou(gun)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shou(gun)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shou(gun)_06_b.mp3"}},{"japanese":"大将（たいしょう）","meaning":{"english":"general, admiral"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shou(gun)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shou(gun)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shou(gun)_06_c.mp3"}},{"japanese":"王将（おうしょう）","meaning":{"english":"king (shogi game)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shou(gun)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shou(gun)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shou(gun)_06_d.mp3"}}]},"jishoData":{"query":"将","found":true,"taughtIn":"grade 6","jlptLevel":"N2","newspaperFrequencyRank":"634","strokeCount":10,"meaning":"leader, commander, general, admiral, or, and again, soon, from now on, just about","kunyomi":["まさ.に","はた","まさ","ひきい.る","もって"],"onyomi":["ショウ","ソウ"],"onyomiExamples":[{"example":"将","reading":"ショウ","meaning":"commander, general, leader"},{"example":"将棋","reading":"ショウギ","meaning":"shogi, Japanese chess"},{"example":"少将","reading":"ショウショウ","meaning":"major general, rear admiral, air commodore"},{"example":"王将","reading":"オウショウ","meaning":"king (of the senior player)"}],"kunyomiExamples":[{"example":"正に","reading":"まさに","meaning":"exactly, surely, certainly, just, right then, just then, at that moment, just (about to), on the verge (of doing or happening), duly, naturally"},{"example":"将","reading":"はた","meaning":"or, otherwise, furthermore, also, perhaps, by some chance, possibly, that being said, be that as it may, however, but, not to mention, needless to say, as expected, sure enough, really, at all"},{"example":"将又","reading":"はたまた","meaning":"or"},{"example":"正に","reading":"まさに","meaning":"exactly, surely, certainly, just, right then, just then, at that moment, just (about to), on the verge (of doing or happening), duly, naturally"}],"radical":{"symbol":"寸","meaning":"thumb, inch"},"parts":["寸","爪","爿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23558_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c06.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c06.gif","uri":"https://jisho.org/search/%E5%B0%86%23kanji"}}
+{
+  "id": "将",
+  "kanjialiveData": {
+    "_id": "54317aef791eba5146ee4a4d",
+    "_rev": "12-9ff613c19c9f0914d05e253abf2b51b5",
+    "rad_name_ja": "すん",
+    "grade": 6,
+    "hint_group": 6,
+    "kunyomi": "n/a",
+    "meaning": "general, officer",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "将来（しょうらい）",
+        "meaning": {
+          "english": "future, prospects"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou(gun)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou(gun)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou(gun)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "将軍（しょうぐん）",
+        "meaning": {
+          "english": "general, shogun"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou(gun)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou(gun)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou(gun)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "大将（たいしょう）",
+        "meaning": {
+          "english": "general, admiral"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou(gun)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou(gun)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou(gun)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "王将（おうしょう）",
+        "meaning": {
+          "english": "king (shogi game)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(gun)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou(gun)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou(gun)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou(gun)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "将",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=将",
+    "rad_name_search": [
+      "sun"
+    ],
+    "rad_order": 49,
+    "txt_books": [
+      {
+        "chapter": "2",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "27",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "jtr"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "shou(gun)",
+    "rad_utf": "⼨",
+    "stroketimes": [
+      0.454,
+      1.298,
+      2.302,
+      3.306,
+      4.444,
+      5.248,
+      6.052,
+      6.855,
+      8.06,
+      9.533,
+      10.122905
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "336",
+    "rad_name": "sun",
+    "dicn": "2840",
+    "mn_hint": "Leading an army to war, holding [12] the law 寸 at his side [17].",
+    "rad_stroke": 3,
+    "onyomi_ja": "ショウ",
+    "rad_meaning": "inch, (2.25 cm)",
+    "onyomi": "shou",
+    "ka_id": "ka_396",
+    "onyomi_search": [
+      "shou",
+      "shou"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "general",
+      "officer",
+      "general, officer"
+    ],
+    "onyomi_ja_search": [
+      "ショウ",
+      "ショウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "inch",
+      "(2.25 cm)",
+      "(2.25",
+      "cm)",
+      "inch, (2.25 cm)"
+    ],
+    "rad_name_ja_search": [
+      "すん"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:2",
+      "ij:c2",
+      "kll",
+      "kll:27",
+      "kll:c27",
+      "jtr",
+      "jtr:3",
+      "jtr:c3",
+      "jt",
+      "jt:10",
+      "jt:c10"
+    ],
+    "rad_name_file": "sun",
+    "kanji": {
+      "character": "将",
+      "meaning": {
+        "english": "general, officer"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0.454,
+          1.298,
+          2.302,
+          3.306,
+          4.444,
+          5.248,
+          6.052,
+          6.855,
+          8.06,
+          9.533,
+          10.122905
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/shou(gun)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(gun)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(gun)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(gun)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(gun)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(gun)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(gun)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(gun)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(gun)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(gun)_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shou",
+        "katakana": "ショウ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/shou(gun)_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shou(gun)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/shou(gun)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼨",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/sun.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "すん",
+        "romaji": "sun"
+      },
+      "meaning": {
+        "english": "inch, (2.25 cm)"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sun0.svg",
+        "https://media.kanjialive.com/rad_frames/sun1.svg",
+        "https://media.kanjialive.com/rad_frames/sun2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "336",
+      "classic_nelson": "2840"
+    }
+  },
+  "jishoData": {
+    "query": "将",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "634",
+    "strokeCount": 10,
+    "meaning": "leader, commander, general, admiral, or, and again, soon, from now on, just about",
+    "kunyomi": [
+      "まさ.に",
+      "はた",
+      "まさ",
+      "ひきい.る",
+      "もって"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "将",
+        "reading": "ショウ",
+        "meaning": "commander, general, leader"
+      },
+      {
+        "example": "将棋",
+        "reading": "ショウギ",
+        "meaning": "shogi, Japanese chess"
+      },
+      {
+        "example": "少将",
+        "reading": "ショウショウ",
+        "meaning": "major general, rear admiral, air commodore"
+      },
+      {
+        "example": "王将",
+        "reading": "オウショウ",
+        "meaning": "king (of the senior player), Ōshō (one of the eight major titles in professional shogi)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "将に",
+        "reading": "まさに",
+        "meaning": "just (about to), on the point of, on the verge of, on the brink of"
+      },
+      {
+        "example": "将",
+        "reading": "はた",
+        "meaning": "or, otherwise, furthermore, also, perhaps, by some chance, possibly, that being said, be that as it may, however, but, not to mention, needless to say, as expected, sure enough, really, at all"
+      },
+      {
+        "example": "将又",
+        "reading": "はたまた",
+        "meaning": "or"
+      },
+      {
+        "example": "将門記",
+        "reading": "しょうもんき",
+        "meaning": "Shōmonki (chronicle of the Taira-no-Masakado Rebellion, ca 940CE)"
+      },
+      {
+        "example": "将に",
+        "reading": "まさに",
+        "meaning": "just (about to), on the point of, on the verge of, on the brink of"
+      }
+    ],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "thumb, inch"
+    },
+    "parts": [
+      "寸",
+      "爪",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23558_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c06.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c06.gif",
+    "uri": "https://jisho.org/search/%E5%B0%86%23kanji"
+  }
+}

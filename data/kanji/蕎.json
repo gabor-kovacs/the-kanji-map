@@ -1,1 +1,47 @@
-{"id":"蕎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蕎","found":true,"strokeCount":15,"meaning":"buckwheat","kunyomi":["そば"],"onyomi":["キョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蕎麦","reading":"そば","meaning":"buckwheat (Fagopyrum esculentum), soba, Japanese buckwheat noodles, Chinese-style noodles"},{"example":"蕎麦屋","reading":"そばや","meaning":"soba restaurant"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ノ","冂","口","大","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34126_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0854e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/854e.gif","uri":"https://jisho.org/search/%E8%95%8E%23kanji"}}
+{
+  "id": "蕎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕎",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "buckwheat",
+    "kunyomi": [
+      "そば"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蕎麦",
+        "reading": "そば",
+        "meaning": "buckwheat (Fagopyrum esculentum), soba, Japanese buckwheat noodles, Chinese-style wheat noodles"
+      },
+      {
+        "example": "蕎麦屋",
+        "reading": "そばや",
+        "meaning": "soba restaurant"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ノ",
+      "冂",
+      "口",
+      "大",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34126_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0854e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/854e.gif",
+    "uri": "https://jisho.org/search/%E8%95%8E%23kanji"
+  }
+}

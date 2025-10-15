@@ -1,1 +1,53 @@
-{"id":"拈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"拈","found":true,"strokeCount":8,"meaning":"twirl, twist, twiddle, wring","kunyomi":["ひね.る"],"onyomi":["ネン","セン","デン"],"onyomiExamples":[{"example":"拈華微笑","reading":"ネンゲミショウ","meaning":"heart-to-heart communication, thought transference, holding a flower and subtly smiling"},{"example":"捻出","reading":"ネンシュツ","meaning":"managing (to raise funds, find time, etc.), contriving, scraping together (money), working out (a plan, solution, etc.), thinking out, devising, contriving"}],"kunyomiExamples":[{"example":"捻る","reading":"ひねる","meaning":"to twist, to wrench, to turn (a switch on or off, etc.), to wring (a neck), to puzzle over, to defeat easily"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["卜","口","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25288_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062c8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62c8.gif","uri":"https://jisho.org/search/%E6%8B%88%23kanji"}}
+{
+  "id": "拈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拈",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "twirl, twist, twiddle, wring",
+    "kunyomi": [
+      "ひね.る"
+    ],
+    "onyomi": [
+      "ネン",
+      "セン",
+      "デン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拈華微笑",
+        "reading": "ネンゲミショウ",
+        "meaning": "heart-to-heart communication, thought transference, holding a flower and subtly smiling"
+      },
+      {
+        "example": "捻出",
+        "reading": "ネンシュツ",
+        "meaning": "managing (to raise funds, find time, etc.), contriving, scraping together (money), working out (a plan, solution, etc.), thinking out, devising, contriving"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捻る",
+        "reading": "ひねる",
+        "meaning": "to twist, to wrench, to turn (a tap, switch, etc.), to twist (a body part), to bend, to sprain, to strangle (to death), to wring (an animal's neck), to defeat easily, to beat, to make (a problem, design, etc.) intricate, to make peculiar, to make complicated, to manage to compose (a haiku, song, etc.), to wrap (a monetary gift) in paper"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "卜",
+      "口",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25288_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062c8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62c8.gif",
+    "uri": "https://jisho.org/search/%E6%8B%88%23kanji"
+  }
+}

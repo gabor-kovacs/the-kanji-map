@@ -1,1 +1,82 @@
-{"id":"晦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"晦","found":true,"strokeCount":10,"meaning":"dark, disappear","kunyomi":["つごもり","くら.い","みそか","くら.む"],"onyomi":["カイ"],"onyomiExamples":[{"example":"三十日","reading":"ミソカ","meaning":"last day of the month"},{"example":"晦朔","reading":"カイサク","meaning":"last and first days of the month"},{"example":"韜晦","reading":"トウカイ","meaning":"hidden (talents, etc.), self-concealment, self-effacement"},{"example":"自己韜晦","reading":"ジコトウカイ","meaning":"concealing one's talents, position, status, intentions, etc."}],"kunyomiExamples":[{"example":"三十日","reading":"みそか","meaning":"last day of the month"},{"example":"大晦","reading":"おおつごもり","meaning":"the last day of the year, New Year's Eve"},{"example":"三十日","reading":"みそか","meaning":"last day of the month"},{"example":"三十日蕎麦","reading":"みそかそば","meaning":"soba eaten at the end of the month (esp. at the end of the year)"},{"example":"眩む","reading":"くらむ","meaning":"to be dazzled by, to be dizzied by, to be disoriented by, to be lost in (greed, lust, etc.), to become dark"}],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["乞","日","毋","母"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26214_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06666.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6666.gif","uri":"https://jisho.org/search/%E6%99%A6%23kanji"}}
+{
+  "id": "晦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "晦",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "dark, disappear",
+    "kunyomi": [
+      "つごもり",
+      "くら.い",
+      "みそか",
+      "くら.む"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "三十日",
+        "reading": "ミソカ",
+        "meaning": "last day of the month"
+      },
+      {
+        "example": "晦朔",
+        "reading": "カイサク",
+        "meaning": "last and first days of the month"
+      },
+      {
+        "example": "韜晦",
+        "reading": "トウカイ",
+        "meaning": "concealing one's talents, status, intentions, etc., maintaining a strict incognito, self-effacement"
+      },
+      {
+        "example": "自己韜晦",
+        "reading": "ジコトウカイ",
+        "meaning": "concealing one's talents, position, status, intentions, etc."
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "三十日",
+        "reading": "みそか",
+        "meaning": "last day of the month"
+      },
+      {
+        "example": "大晦",
+        "reading": "おおつごもり",
+        "meaning": "the last day of the year, New Year's Eve"
+      },
+      {
+        "example": "三十日",
+        "reading": "みそか",
+        "meaning": "last day of the month"
+      },
+      {
+        "example": "三十日蕎麦",
+        "reading": "みそかそば",
+        "meaning": "soba eaten at the end of the month (esp. at the end of the year)"
+      },
+      {
+        "example": "眩む",
+        "reading": "くらむ",
+        "meaning": "to be dazzled by, to be dizzied by, to be disoriented by, to be lost in (greed, lust, etc.), to become dark"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "乞",
+      "日",
+      "毋",
+      "母"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26214_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06666.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6666.gif",
+    "uri": "https://jisho.org/search/%E6%99%A6%23kanji"
+  }
+}

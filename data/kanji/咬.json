@@ -1,1 +1,49 @@
-{"id":"咬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"咬","found":true,"strokeCount":9,"meaning":"bite, gnaw, chew, gear with, dash against","kunyomi":["か.む"],"onyomi":["コウ","ヨウ"],"onyomiExamples":[{"example":"咬筋","reading":"コウキン","meaning":"masseter muscle"},{"example":"咬痙","reading":"コウケイ","meaning":"lockjaw, trismus"}],"kunyomiExamples":[{"example":"噛む","reading":"かむ","meaning":"to bite, to chew, to gnaw, to masticate, to fumble one's words (esp. during a play, broadcast, etc.), to falter with one's words, to stutter, to stammer, to crash against (e.g. of waves), to break onto (shore), to engage (of cogs, zippers, etc.), to mesh, to fit together, to be involved in, to convince, to persuade"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["亠","口","父"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21676_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054ac.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54ac.gif","uri":"https://jisho.org/search/%E5%92%AC%23kanji"}}
+{
+  "id": "咬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "咬",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "bite, gnaw, chew, gear with, dash against",
+    "kunyomi": [
+      "か.む"
+    ],
+    "onyomi": [
+      "コウ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "咬筋",
+        "reading": "コウキン",
+        "meaning": "masseter muscle"
+      },
+      {
+        "example": "咬痙",
+        "reading": "コウケイ",
+        "meaning": "lockjaw, trismus"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "噛む",
+        "reading": "かむ",
+        "meaning": "to bite, to chew, to gnaw, to masticate, to fumble one's words (esp. during a play, broadcast, etc.), to falter with one's words, to stutter, to stammer, to crash against (e.g. of waves), to break onto (shore), to engage (of cogs, zippers, etc.), to mesh, to fit together, to be involved in, to convince, to persuade"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "父"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21676_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54ac.gif",
+    "uri": "https://jisho.org/search/%E5%92%AC%23kanji"
+  }
+}

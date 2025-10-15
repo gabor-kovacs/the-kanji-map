@@ -1,1 +1,52 @@
-{"id":"謫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"謫","found":true,"strokeCount":18,"meaning":"crime","kunyomi":["せ.める","とが.める"],"onyomi":["タク","チャク"],"onyomiExamples":[{"example":"謫所","reading":"タクショ","meaning":"exile for crime"},{"example":"流謫","reading":"リュウタク","meaning":"exile, deportation, banishment"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["亠","冂","十","口","并","滴","立","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35627_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b2b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b2b.gif","uri":"https://jisho.org/search/%E8%AC%AB%23kanji"}}
+{
+  "id": "謫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謫",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "crime",
+    "kunyomi": [
+      "せ.める",
+      "とが.める"
+    ],
+    "onyomi": [
+      "タク",
+      "チャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謫所",
+        "reading": "タクショ",
+        "meaning": "exile for crime"
+      },
+      {
+        "example": "流謫",
+        "reading": "リュウタク",
+        "meaning": "exile, deportation, banishment"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "亠",
+      "冂",
+      "十",
+      "口",
+      "并",
+      "滴",
+      "立",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35627_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b2b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b2b.gif",
+    "uri": "https://jisho.org/search/%E8%AC%AB%23kanji"
+  }
+}

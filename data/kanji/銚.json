@@ -1,1 +1,47 @@
-{"id":"銚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"銚","found":true,"newspaperFrequencyRank":"2102","strokeCount":14,"meaning":"sake bottle","kunyomi":["なべ"],"onyomi":["チョウ","ヨウ"],"onyomiExamples":[{"example":"銚子","reading":"チョウシ","meaning":"(sake) decanter"}],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["儿","冫","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37530_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0929a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/929a.gif","uri":"https://jisho.org/search/%E9%8A%9A%23kanji"}}
+{
+  "id": "銚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "銚",
+    "found": true,
+    "newspaperFrequencyRank": "2102",
+    "strokeCount": 14,
+    "meaning": "sake bottle",
+    "kunyomi": [
+      "なべ"
+    ],
+    "onyomi": [
+      "チョウ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "銚子",
+        "reading": "チョウシ",
+        "meaning": "(sake) decanter"
+      },
+      {
+        "example": "銚子電鉄",
+        "reading": "チョウシデンテツ",
+        "meaning": "Chōshi Dentetsu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "儿",
+      "冫",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37530_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0929a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/929a.gif",
+    "uri": "https://jisho.org/search/%E9%8A%9A%23kanji"
+  }
+}

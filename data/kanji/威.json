@@ -1,1 +1,89 @@
-{"id":"威","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"威","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1103","strokeCount":9,"meaning":"intimidate, dignity, majesty, menace, threaten","kunyomi":["おど.す","おど.し","おど.かす"],"onyomi":["イ"],"onyomiExamples":[{"example":"威","reading":"イ","meaning":"power, authority, might, influence, dignity, majesty"},{"example":"威嚇","reading":"イカク","meaning":"threat, intimidation, menace"},{"example":"球威","reading":"キュウイ","meaning":"(pitcher's) stuff"},{"example":"国威","reading":"コクイ","meaning":"national prestige"}],"kunyomiExamples":[{"example":"脅す","reading":"おどす","meaning":"to threaten, to menace, to frighten (into doing)"},{"example":"縅","reading":"おどし","meaning":"leather strap binding the plates of traditional Japanese armor (armour)"},{"example":"脅し","reading":"おどし","meaning":"threat, bird-scaring device (scarecrow, gun, etc.)"},{"example":"脅かす","reading":"おどかす","meaning":"to threaten, to menace, to intimidate, to startle, to frighten, to scare"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["ノ","厂","女","戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23041_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a01.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a01.gif","uri":"https://jisho.org/search/%E5%A8%81%23kanji"}}
+{
+  "id": "威",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "威",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1103",
+    "strokeCount": 9,
+    "meaning": "intimidate, dignity, majesty, menace, threaten",
+    "kunyomi": [
+      "おど.す",
+      "おど.し",
+      "おど.かす"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "威",
+        "reading": "イ",
+        "meaning": "power, authority, might, influence, dignity, majesty"
+      },
+      {
+        "example": "威嚇",
+        "reading": "イカク",
+        "meaning": "threat, intimidation, menace"
+      },
+      {
+        "example": "球威",
+        "reading": "キュウイ",
+        "meaning": "(pitcher's) stuff"
+      },
+      {
+        "example": "国威",
+        "reading": "コクイ",
+        "meaning": "national prestige"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脅す",
+        "reading": "おどす",
+        "meaning": "to threaten, to menace, to frighten (into doing)"
+      },
+      {
+        "example": "縅",
+        "reading": "おどし",
+        "meaning": "leather strap binding the plates of traditional Japanese armor (armour)"
+      },
+      {
+        "example": "脅し",
+        "reading": "おどし",
+        "meaning": "threat, bird-scaring device (scarecrow, gun, etc.)"
+      },
+      {
+        "example": "糸威",
+        "reading": "いとおどし",
+        "meaning": "binding of plates with colored laces (in traditional suits of armor)"
+      },
+      {
+        "example": "白糸威",
+        "reading": "しろいとおどし",
+        "meaning": "binding of plates with white laces (in traditional suits of armor)"
+      },
+      {
+        "example": "脅かす",
+        "reading": "おどかす",
+        "meaning": "to threaten, to menace, to intimidate, to startle, to frighten, to scare"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "ノ",
+      "厂",
+      "女",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23041_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a01.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a01.gif",
+    "uri": "https://jisho.org/search/%E5%A8%81%23kanji"
+  }
+}

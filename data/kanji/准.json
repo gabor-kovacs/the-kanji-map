@@ -1,1 +1,47 @@
-{"id":"准","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"准","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1441","strokeCount":10,"meaning":"quasi-, semi-, associate","kunyomi":[],"onyomi":["ジュン"],"onyomiExamples":[{"example":"準","reading":"ジュン","meaning":"semi-, quasi-, associate"},{"example":"準じる","reading":"ジュンジル","meaning":"to follow, to conform, to apply to"},{"example":"批准","reading":"ヒジュン","meaning":"ratification"}],"kunyomiExamples":[],"radical":{"symbol":"冫","meaning":"ice"},"parts":["冫","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20934_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c6.gif","uri":"https://jisho.org/search/%E5%87%86%23kanji"}}
+{
+  "id": "准",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "准",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1441",
+    "strokeCount": 10,
+    "meaning": "quasi-, semi-, associate",
+    "kunyomi": [],
+    "onyomi": [
+      "ジュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "準ずる",
+        "reading": "ジュンズル",
+        "meaning": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as"
+      },
+      {
+        "example": "準じる",
+        "reading": "ジュンジル",
+        "meaning": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as"
+      },
+      {
+        "example": "批准",
+        "reading": "ヒジュン",
+        "meaning": "ratification"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "ice"
+    },
+    "parts": [
+      "冫",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20934_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c6.gif",
+    "uri": "https://jisho.org/search/%E5%87%86%23kanji"
+  }
+}

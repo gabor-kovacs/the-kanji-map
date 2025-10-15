@@ -1,1 +1,56 @@
-{"id":"浪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"浪","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1508","strokeCount":10,"meaning":"wandering, waves, billows, reckless, unrestrained","kunyomi":[],"onyomi":["ロウ"],"onyomiExamples":[{"example":"浪","reading":"ロウ","meaning":"person who has spent X years after graduating high school attempting to get admitted to (a specific) university"},{"example":"浪人","reading":"ロウニン","meaning":"ronin, masterless samurai, high school graduate waiting for another chance to enter university after having failed the yearly entrance examination, person out of work, jobless person, wanderer, drifter"},{"example":"放浪","reading":"ホウロウ","meaning":"wandering, roaming, drifting"},{"example":"１浪","reading":"イチロウ","meaning":"failing college entrance exams and retaking them a year later"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["汁","艮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28010_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d6a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d6a.gif","uri":"https://jisho.org/search/%E6%B5%AA%23kanji"}}
+{
+  "id": "浪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "浪",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1508",
+    "strokeCount": 10,
+    "meaning": "wandering, waves, billows, reckless, unrestrained",
+    "kunyomi": [],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浪",
+        "reading": "ロウ",
+        "meaning": "person who has spent X years after graduating high school attempting to get admitted to (a specific) university"
+      },
+      {
+        "example": "浪人",
+        "reading": "ロウニン",
+        "meaning": "ronin, masterless samurai, high school graduate waiting for another chance to enter university after having failed the yearly entrance examination, person out of work, jobless person, wanderer, drifter"
+      },
+      {
+        "example": "放浪",
+        "reading": "ホウロウ",
+        "meaning": "wandering, roaming, drifting"
+      },
+      {
+        "example": "１浪",
+        "reading": "イチロウ",
+        "meaning": "failing college entrance exams and retaking them a year later"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "汁",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28010_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d6a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d6a.gif",
+    "uri": "https://jisho.org/search/%E6%B5%AA%23kanji"
+  }
+}

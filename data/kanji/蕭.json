@@ -1,1 +1,59 @@
-{"id":"蕭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蕭","found":true,"strokeCount":16,"meaning":"a weed, mugwort, lonely, silent, calm","kunyomi":["よもぎ"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"蕭索","reading":"ショウサク","meaning":"lonely"},{"example":"蕭々","reading":"ショウショウ","meaning":"dreary, dismal, lonely, doleful, plaintive, mournful"},{"example":"蕭々","reading":"ショウショウ","meaning":"dreary, dismal, lonely, doleful, plaintive, mournful"}],"kunyomiExamples":[{"example":"蓬","reading":"よもぎ","meaning":"Japanese mugwort (Artemisia princeps), mugwort (any plant of genus Artemisia), wormwood, sagebrush"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ノ","ヨ","米","聿","艾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34157_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0856d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/856d.gif","uri":"https://jisho.org/search/%E8%95%AD%23kanji"}}
+{
+  "id": "蕭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕭",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "a weed, mugwort, lonely, silent, calm",
+    "kunyomi": [
+      "よもぎ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "瀟洒",
+        "reading": "ショウシャ",
+        "meaning": "stylish, smart, elegant, chic, refined, trim, neat"
+      },
+      {
+        "example": "蕭索",
+        "reading": "ショウサク",
+        "meaning": "lonely"
+      },
+      {
+        "example": "蕭々",
+        "reading": "ショウショウ",
+        "meaning": "dreary, dismal, lonely, doleful, plaintive, mournful"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蓬",
+        "reading": "よもぎ",
+        "meaning": "Japanese mugwort (Artemisia princeps), mugwort (any plant of genus Artemisia), wormwood, sagebrush"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ノ",
+      "ヨ",
+      "米",
+      "聿",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34157_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0856d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/856d.gif",
+    "uri": "https://jisho.org/search/%E8%95%AD%23kanji"
+  }
+}

@@ -1,1 +1,50 @@
-{"id":"濟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"濟","found":true,"strokeCount":17,"meaning":"to help, aid, relieve, to ferry, cross","kunyomi":["す.む","す.ます","すく.う","な.す","わた.す","わた.る"],"onyomi":["サイ","セイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"済む","reading":"すむ","meaning":"to finish, to end, to be completed, to merely result in something less severe than expected, to feel at ease, to feel unease or guilt for troubling someone, to be sorry"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["亠","刀","廾","氏","汁","齊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28639_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fdf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fdf.gif","uri":"https://jisho.org/search/%E6%BF%9F%23kanji"}}
+{
+  "id": "濟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "濟",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "to help, aid, relieve, to ferry, cross",
+    "kunyomi": [
+      "す.む",
+      "す.ます",
+      "すく.う",
+      "な.す",
+      "わた.す",
+      "わた.る"
+    ],
+    "onyomi": [
+      "サイ",
+      "セイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "済む",
+        "reading": "すむ",
+        "meaning": "to finish, to end, to be completed, to merely result in something less severe than expected, to feel at ease, to feel unease or guilt for troubling someone, to be sorry"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "亠",
+      "刀",
+      "廾",
+      "氏",
+      "汁",
+      "齊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28639_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fdf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fdf.gif",
+    "uri": "https://jisho.org/search/%E6%BF%9F%23kanji"
+  }
+}

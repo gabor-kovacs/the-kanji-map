@@ -1,1 +1,46 @@
-{"id":"攬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"攬","found":true,"strokeCount":25,"meaning":"hold (in hand)","kunyomi":["と.る"],"onyomi":["ラン"],"onyomiExamples":[{"example":"総攬","reading":"ソウラン","meaning":"control, superintendence"},{"example":"収覧","reading":"シュウラン","meaning":"grasping, winning over"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["乞","扎","臣","見"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25900_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0652c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/652c.gif","uri":"https://jisho.org/search/%E6%94%AC%23kanji"}}
+{
+  "id": "攬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "攬",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "hold (in hand)",
+    "kunyomi": [
+      "と.る"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "総攬",
+        "reading": "ソウラン",
+        "meaning": "control, superintendence"
+      },
+      {
+        "example": "収覧",
+        "reading": "シュウラン",
+        "meaning": "grasping, winning over"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "乞",
+      "扎",
+      "臣",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25900_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0652c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/652c.gif",
+    "uri": "https://jisho.org/search/%E6%94%AC%23kanji"
+  }
+}

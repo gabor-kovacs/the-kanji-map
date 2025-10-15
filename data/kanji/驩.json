@@ -1,1 +1,40 @@
-{"id":"驩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"驩","found":true,"strokeCount":27,"meaning":"greetings, be happy, celebrate","kunyomi":["よろこ.ぶ"],"onyomi":["カン"],"onyomiExamples":[{"example":"交歓","reading":"コウカン","meaning":"exchange of courtesies (cordialities), fraternization, fraternisation"}],"kunyomiExamples":[],"radical":{"symbol":"馬","meaning":"horse"},"parts":["十","口","杰","艾","隹","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39529_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a69.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a69.gif","uri":"https://jisho.org/search/%E9%A9%A9%23kanji"}}
+{
+  "id": "驩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "驩",
+    "found": true,
+    "strokeCount": 27,
+    "meaning": "greetings, be happy, celebrate",
+    "kunyomi": [
+      "よろこ.ぶ"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "交歓",
+        "reading": "コウカン",
+        "meaning": "exchange of courtesies (cordialities), fraternization, fraternisation"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "十",
+      "口",
+      "杰",
+      "艾",
+      "隹",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39529_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a69.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a69.gif",
+    "uri": "https://jisho.org/search/%E9%A9%A9%23kanji"
+  }
+}

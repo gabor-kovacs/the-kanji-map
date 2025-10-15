@@ -1,1 +1,56 @@
-{"id":"蹠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蹠","found":true,"strokeCount":18,"meaning":"sole of foot","kunyomi":["あしうら","あしのうら"],"onyomi":["セキ"],"onyomiExamples":[{"example":"対蹠","reading":"タイショ","meaning":"antipodal, diametrical opposition"},{"example":"足蹠","reading":"ソクセキ","meaning":"sole (of the foot)"}],"kunyomiExamples":[{"example":"足裏","reading":"あしうら","meaning":"sole of the foot"}],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["一","凵","口","广","杰","止","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36448_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e60.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e60.gif","uri":"https://jisho.org/search/%E8%B9%A0%23kanji"}}
+{
+  "id": "蹠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蹠",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "sole of foot",
+    "kunyomi": [
+      "あしうら",
+      "あしのうら"
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "対蹠",
+        "reading": "タイショ",
+        "meaning": "antipodal, diametrical opposition"
+      },
+      {
+        "example": "足蹠",
+        "reading": "ソクセキ",
+        "meaning": "sole (of the foot)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "足裏",
+        "reading": "あしうら",
+        "meaning": "sole of the foot"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "一",
+      "凵",
+      "口",
+      "广",
+      "杰",
+      "止",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36448_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e60.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e60.gif",
+    "uri": "https://jisho.org/search/%E8%B9%A0%23kanji"
+  }
+}

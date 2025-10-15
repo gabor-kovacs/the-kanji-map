@@ -1,1 +1,74 @@
-{"id":"惘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"惘","found":true,"strokeCount":11,"meaning":"unclear, be astonished","kunyomi":["あき.れる"],"onyomi":["ボウ","モウ"],"onyomiExamples":[{"example":"呆然","reading":"ボウゼン","meaning":"dumbfounded, overcome with surprise, in blank amazement, in a daze"},{"example":"惘惘","reading":"モウモウ","meaning":"flat, listless (through despair)"},{"example":"惘惘","reading":"モウモウ","meaning":"flat, listless (through despair)"},{"example":"呆然","reading":"ボウゼン","meaning":"dumbfounded, overcome with surprise, in blank amazement, in a daze"},{"example":"惘惘","reading":"モウモウ","meaning":"flat, listless (through despair)"},{"example":"惘惘","reading":"モウモウ","meaning":"flat, listless (through despair)"}],"kunyomiExamples":[{"example":"呆れる","reading":"あきれる","meaning":"to be amazed, to be shocked, to be astonished, to be astounded, to be disgusted, to be exasperated, to be fed up"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["冂","工","并","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24792_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060d8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60d8.gif","uri":"https://jisho.org/search/%E6%83%98%23kanji"}}
+{
+  "id": "惘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "惘",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "unclear, be astonished",
+    "kunyomi": [
+      "あき.れる"
+    ],
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呆然",
+        "reading": "ボウゼン",
+        "meaning": "dumbfounded, overcome with surprise, in blank amazement, in a daze"
+      },
+      {
+        "example": "惘惘",
+        "reading": "モウモウ",
+        "meaning": "flat, listless (through despair)"
+      },
+      {
+        "example": "惘惘",
+        "reading": "モウモウ",
+        "meaning": "flat, listless (through despair)"
+      },
+      {
+        "example": "呆然",
+        "reading": "ボウゼン",
+        "meaning": "dumbfounded, overcome with surprise, in blank amazement, in a daze"
+      },
+      {
+        "example": "惘惘",
+        "reading": "モウモウ",
+        "meaning": "flat, listless (through despair)"
+      },
+      {
+        "example": "惘惘",
+        "reading": "モウモウ",
+        "meaning": "flat, listless (through despair)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "呆れる",
+        "reading": "あきれる",
+        "meaning": "to be amazed, to be shocked, to be astonished, to be astounded, to be disgusted, to be exasperated, to be fed up"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "冂",
+      "工",
+      "并",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24792_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60d8.gif",
+    "uri": "https://jisho.org/search/%E6%83%98%23kanji"
+  }
+}

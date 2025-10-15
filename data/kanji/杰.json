@@ -1,1 +1,31 @@
-{"id":"杰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"杰","found":true,"strokeCount":8,"meaning":"hero, heroic, outstanding","kunyomi":["すぐ.れる"],"onyomi":["ケツ","ゲチ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["木","杰"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26480_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06770.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6770.gif","uri":"https://jisho.org/search/%E6%9D%B0%23kanji"}}
+{
+  "id": "杰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杰",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "hero, heroic, outstanding",
+    "kunyomi": [
+      "すぐ.れる"
+    ],
+    "onyomi": [
+      "ケツ",
+      "ゲチ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "木",
+      "杰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26480_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06770.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6770.gif",
+    "uri": "https://jisho.org/search/%E6%9D%B0%23kanji"
+  }
+}

@@ -1,1 +1,41 @@
-{"id":"穰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"穰","found":true,"strokeCount":22,"meaning":"abundance","kunyomi":["わら","ゆたか"],"onyomi":["ジョウ"],"onyomiExamples":[{"example":"豊饒","reading":"ホウジョウ","meaning":"fertile, productive, fruitful"},{"example":"豊穣","reading":"ホウジョウ","meaning":"abundant (grain) crop, good harvest"}],"kunyomiExamples":[],"radical":{"symbol":"禾","meaning":"grain"},"parts":["一","亠","口","禾","衣","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31344_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a70.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a70.gif","uri":"https://jisho.org/search/%E7%A9%B0%23kanji"}}
+{
+  "id": "穰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "穰",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "abundance",
+    "kunyomi": [
+      "わら",
+      "ゆたか"
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "豊穣",
+        "reading": "ホウジョウ",
+        "meaning": "abundant (grain) crop, good harvest"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "grain"
+    },
+    "parts": [
+      "一",
+      "亠",
+      "口",
+      "禾",
+      "衣",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31344_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a70.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a70.gif",
+    "uri": "https://jisho.org/search/%E7%A9%B0%23kanji"
+  }
+}

@@ -1,1 +1,53 @@
-{"id":"蚋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蚋","found":true,"strokeCount":10,"meaning":"gnat, sand fly","kunyomi":["ぶゆ","ぶよ","ぶと","か"],"onyomi":["ゼイ","ネイ","ゼツ","ネチ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蚋","reading":"ぶゆ","meaning":"black fly (any insect of family Simuliidae), gnat"},{"example":"蚋","reading":"ぶゆ","meaning":"black fly (any insect of family Simuliidae), gnat"},{"example":"蚋","reading":"ぶゆ","meaning":"black fly (any insect of family Simuliidae), gnat"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["人","冂","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34443_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0868b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/868b.gif","uri":"https://jisho.org/search/%E8%9A%8B%23kanji"}}
+{
+  "id": "蚋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蚋",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "gnat, sand fly",
+    "kunyomi": [
+      "ぶゆ",
+      "ぶよ",
+      "ぶと",
+      "か"
+    ],
+    "onyomi": [
+      "ゼイ",
+      "ネイ",
+      "ゼツ",
+      "ネチ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蚋",
+        "reading": "ぶゆ",
+        "meaning": "black fly (any insect of family Simuliidae), gnat"
+      },
+      {
+        "example": "蚋",
+        "reading": "ぶゆ",
+        "meaning": "black fly (any insect of family Simuliidae), gnat"
+      },
+      {
+        "example": "蚋",
+        "reading": "ぶゆ",
+        "meaning": "black fly (any insect of family Simuliidae), gnat"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "人",
+      "冂",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34443_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0868b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/868b.gif",
+    "uri": "https://jisho.org/search/%E8%9A%8B%23kanji"
+  }
+}

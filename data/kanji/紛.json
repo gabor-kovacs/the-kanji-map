@@ -1,1 +1,80 @@
-{"id":"紛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"紛","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"994","strokeCount":10,"meaning":"distract, be mistaken for, go astray, divert","kunyomi":["まぎ.れる","-まぎ.れ","まぎ.らす","まぎ.らわす","まぎ.らわしい"],"onyomi":["フン"],"onyomiExamples":[{"example":"紛争","reading":"フンソウ","meaning":"dispute, conflict, trouble, strife"},{"example":"紛糾","reading":"フンキュウ","meaning":"complication, confusion, disorder"},{"example":"人工授粉","reading":"ジンコウジュフン","meaning":"artificial pollination, hand pollination, mechanical pollination"}],"kunyomiExamples":[{"example":"紛れる","reading":"まぎれる","meaning":"to disappear into, to be lost in, to slip into, to get mixed in among, to do something under the cover of (confusion, etc.), to be almost indistinguishable, to be confusingly similar, to be diverted from (negative emotions, etc.), to forget about, to be distracted by, to be too absorbed in"},{"example":"紛らす","reading":"まぎらす","meaning":"to divert (e.g. one's mind), to distract, to relieve (e.g. boredom), to conceal (e.g. one's sorrow with a smile), to shift (the conversation)"},{"example":"紛らわす","reading":"まぎらわす","meaning":"to divert, to distract"},{"example":"紛らわしい","reading":"まぎらわしい","meaning":"easily mixed up (e.g. similar words), easily mistaken, confusingly similar, misleading, equivocal, ambiguous"}],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["ハ","刀","小","幺","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32027_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d1b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d1b.gif","uri":"https://jisho.org/search/%E7%B4%9B%23kanji"}}
+{
+  "id": "紛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "紛",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "994",
+    "strokeCount": 10,
+    "meaning": "distract, be mistaken for, go astray, divert",
+    "kunyomi": [
+      "まぎ.れる",
+      "-まぎ.れ",
+      "まぎ.らす",
+      "まぎ.らわす",
+      "まぎ.らわしい"
+    ],
+    "onyomi": [
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "紛争",
+        "reading": "フンソウ",
+        "meaning": "dispute, conflict, trouble, unrest, strife"
+      },
+      {
+        "example": "紛糾",
+        "reading": "フンキュウ",
+        "meaning": "complication, confusion, disorder, chaos, dispute, conflict, trouble, quarrel"
+      },
+      {
+        "example": "人工授粉",
+        "reading": "ジンコウジュフン",
+        "meaning": "artificial pollination, hand pollination, mechanical pollination"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "紛れる",
+        "reading": "まぎれる",
+        "meaning": "to disappear into, to be lost in, to slip into, to get mixed in among, to do something under the cover of (confusion, etc.), to be almost indistinguishable, to be confusingly similar, to be diverted from (negative emotions, etc.), to forget about, to be distracted by, to be too absorbed in"
+      },
+      {
+        "example": "紛らす",
+        "reading": "まぎらす",
+        "meaning": "to divert (e.g. one's mind), to distract, to relieve (boredom, sorrow, etc.), to drown (one's sorrows), to beguile (the time), to conceal (e.g. one's grief with a smile), to hide, to shift (the conversation), to change (the subject)"
+      },
+      {
+        "example": "紛らわす",
+        "reading": "まぎらわす",
+        "meaning": "to divert (e.g. one's mind), to distract, to relieve (boredom, sorrow, etc.), to drown (one's sorrows), to beguile (the time), to conceal (e.g. one's grief with a smile), to hide, to shift (the conversation), to change (the subject)"
+      },
+      {
+        "example": "紛らわしい",
+        "reading": "まぎらわしい",
+        "meaning": "easily mixed up (e.g. similar words), easily mistaken, confusing, misleading, equivocal, ambiguous"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "ハ",
+      "刀",
+      "小",
+      "幺",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32027_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d1b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d1b.gif",
+    "uri": "https://jisho.org/search/%E7%B4%9B%23kanji"
+  }
+}

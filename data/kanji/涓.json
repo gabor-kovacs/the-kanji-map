@@ -1,1 +1,39 @@
-{"id":"涓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"涓","found":true,"strokeCount":10,"meaning":"drop, pure","kunyomi":[],"onyomi":["ケン"],"onyomiExamples":[{"example":"涓滴岩を穿つ","reading":"ケンテキイワヲウガツ","meaning":"slow but steady wins the race, constant effort will result in success, constant dripping wears away a stone"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["口","月","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28051_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d93.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d93.gif","uri":"https://jisho.org/search/%E6%B6%93%23kanji"}}
+{
+  "id": "涓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "涓",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "drop, pure",
+    "kunyomi": [],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "涓滴岩を穿つ",
+        "reading": "ケンテキイワヲウガツ",
+        "meaning": "slow but steady wins the race, constant effort will result in success, constant dripping wears away a stone"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "口",
+      "月",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28051_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d93.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d93.gif",
+    "uri": "https://jisho.org/search/%E6%B6%93%23kanji"
+  }
+}

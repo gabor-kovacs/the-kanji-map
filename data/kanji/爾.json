@@ -1,1 +1,97 @@
-{"id":"爾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"爾","found":true,"jlptLevel":"N1","strokeCount":14,"meaning":"you, thou, second person","kunyomi":["なんじ","しかり","その","のみ","おれ","しか"],"onyomi":["ジ","ニ"],"onyomiExamples":[{"example":"自今","reading":"ジコン","meaning":"from now on, hereafter"},{"example":"爾後","reading":"ジゴ","meaning":"thereafter"},{"example":"卒爾","reading":"ソツジ","meaning":"abrupt, sudden"},{"example":"徒爾","reading":"トジ","meaning":"uselessness"}],"kunyomiExamples":[{"example":"汝","reading":"なんじ","meaning":"thou, you"},{"example":"然り","reading":"しかり","meaning":"yes, yea, aye, affirmative, to be so"},{"example":"爾","reading":"おれ","meaning":"you"},{"example":"爾ら","reading":"おれら","meaning":"you (plural), you all"},{"example":"然","reading":"しか","meaning":"like that, as such, yeah, uh-huh"},{"example":"然り","reading":"しかり","meaning":"yes, yea, aye, affirmative, to be so"}],"radical":{"symbol":"爻","meaning":"mix, twine, cross"},"parts":["ハ","一","冂","爻","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29246_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0723e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/723e.gif","uri":"https://jisho.org/search/%E7%88%BE%23kanji"}}
+{
+  "id": "爾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "爾",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 14,
+    "meaning": "you, thou, second person",
+    "kunyomi": [
+      "なんじ",
+      "しかり",
+      "その",
+      "のみ",
+      "おれ",
+      "しか"
+    ],
+    "onyomi": [
+      "ジ",
+      "ニ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "自今",
+        "reading": "ジコン",
+        "meaning": "from now on, hereafter"
+      },
+      {
+        "example": "爾後",
+        "reading": "ジゴ",
+        "meaning": "thereafter"
+      },
+      {
+        "example": "卒爾",
+        "reading": "ソツジ",
+        "meaning": "abrupt, sudden"
+      },
+      {
+        "example": "徒爾",
+        "reading": "トジ",
+        "meaning": "uselessness"
+      },
+      {
+        "example": "爾前",
+        "reading": "ニゼン",
+        "meaning": "period before the Lotus Sutra was preached, prior, before, previous, something unripe or of inferior grade"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "汝",
+        "reading": "なんじ",
+        "meaning": "thou, you"
+      },
+      {
+        "example": "然り",
+        "reading": "しかり",
+        "meaning": "yes, yea, aye, affirmative, to be so"
+      },
+      {
+        "example": "爾",
+        "reading": "おれ",
+        "meaning": "you"
+      },
+      {
+        "example": "爾ら",
+        "reading": "おれら",
+        "meaning": "you (plural), you all"
+      },
+      {
+        "example": "然",
+        "reading": "しか",
+        "meaning": "like that, as such, yeah, uh-huh"
+      },
+      {
+        "example": "然り",
+        "reading": "しかり",
+        "meaning": "yes, yea, aye, affirmative, to be so"
+      }
+    ],
+    "radical": {
+      "symbol": "爻",
+      "meaning": "mix, twine, cross"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "冂",
+      "爻",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29246_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0723e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/723e.gif",
+    "uri": "https://jisho.org/search/%E7%88%BE%23kanji"
+  }
+}

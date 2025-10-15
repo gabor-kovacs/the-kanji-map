@@ -1,1 +1,64 @@
-{"id":"勅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"勅","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2157","strokeCount":9,"meaning":"imperial order","kunyomi":["いまし.める","みことのり"],"onyomi":["チョク"],"onyomiExamples":[{"example":"詔","reading":"ミコトノリ","meaning":"imperial decree, imperial edict"},{"example":"勅意","reading":"チョクイ","meaning":"meaning or gist of a decree"},{"example":"違勅","reading":"イチョク","meaning":"disobeying the emperor's order"},{"example":"回勅","reading":"カイチョク","meaning":"encyclical"}],"kunyomiExamples":[{"example":"詔","reading":"みことのり","meaning":"imperial decree, imperial edict"}],"radical":{"symbol":"力","meaning":"power, force"},"parts":["一","力","口","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21189_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052c5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52c5.gif","uri":"https://jisho.org/search/%E5%8B%85%23kanji"}}
+{
+  "id": "勅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "勅",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2157",
+    "strokeCount": 9,
+    "meaning": "imperial order",
+    "kunyomi": [
+      "いまし.める",
+      "みことのり"
+    ],
+    "onyomi": [
+      "チョク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "詔",
+        "reading": "ミコトノリ",
+        "meaning": "imperial decree, imperial edict"
+      },
+      {
+        "example": "勅意",
+        "reading": "チョクイ",
+        "meaning": "meaning or gist of a decree"
+      },
+      {
+        "example": "違勅",
+        "reading": "イチョク",
+        "meaning": "disobeying the emperor's order"
+      },
+      {
+        "example": "回勅",
+        "reading": "カイチョク",
+        "meaning": "encyclical"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "詔",
+        "reading": "みことのり",
+        "meaning": "imperial decree, imperial edict"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "一",
+      "力",
+      "口",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21189_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52c5.gif",
+    "uri": "https://jisho.org/search/%E5%8B%85%23kanji"
+  }
+}

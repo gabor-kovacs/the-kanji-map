@@ -1,1 +1,48 @@
-{"id":"闥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"闥","found":true,"strokeCount":21,"meaning":"gate","kunyomi":[],"onyomi":["タツ","タチ"],"onyomiExamples":[{"example":"闥","reading":"タツ","meaning":"side gate (of the imperial court), imperial court, gate, door"},{"example":"紫闥","reading":"シタツ","meaning":"gate of the imperial palace, imperial court, imperial palace"}],"kunyomiExamples":[],"radical":{"symbol":"門","meaning":"gate"},"parts":["二","亠","十","土","王","立","羊","辛","込","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38373_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095e5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95e5.gif","uri":"https://jisho.org/search/%E9%97%A5%23kanji"}}
+{
+  "id": "闥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "闥",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "gate",
+    "kunyomi": [],
+    "onyomi": [
+      "タツ",
+      "タチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "闥",
+        "reading": "タツ",
+        "meaning": "side gate (of the imperial court), imperial court, gate, door"
+      },
+      {
+        "example": "紫闥",
+        "reading": "シタツ",
+        "meaning": "gate of the imperial palace, imperial court, imperial palace"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "十",
+      "土",
+      "王",
+      "立",
+      "羊",
+      "辛",
+      "込",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38373_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095e5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95e5.gif",
+    "uri": "https://jisho.org/search/%E9%97%A5%23kanji"
+  }
+}

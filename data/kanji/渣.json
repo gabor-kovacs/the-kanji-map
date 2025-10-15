@@ -1,1 +1,44 @@
-{"id":"渣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"渣","found":true,"strokeCount":12,"meaning":"dregs","kunyomi":[],"onyomi":["サ"],"onyomiExamples":[{"example":"残渣","reading":"ザンサ","meaning":"dregs, sediment, residue"},{"example":"沈渣","reading":"チンサ","meaning":"sediment, hypostatis, sludge"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["木","汁","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28195_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e23.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e23.gif","uri":"https://jisho.org/search/%E6%B8%A3%23kanji"}}
+{
+  "id": "渣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渣",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "dregs",
+    "kunyomi": [],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "残渣",
+        "reading": "ザンサ",
+        "meaning": "dregs, sediment, residue"
+      },
+      {
+        "example": "沈渣",
+        "reading": "チンサ",
+        "meaning": "sediment, hypostatis, sludge"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "木",
+      "汁",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28195_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e23.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e23.gif",
+    "uri": "https://jisho.org/search/%E6%B8%A3%23kanji"
+  }
+}

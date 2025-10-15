@@ -1,1 +1,37 @@
-{"id":"裼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"裼","found":true,"strokeCount":13,"meaning":"to bare the shoulder","kunyomi":["はだぬ.ぐ"],"onyomi":["セキ","テイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["ノ","初","勹","勿","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35068_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088fc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88fc.gif","uri":"https://jisho.org/search/%E8%A3%BC%23kanji"}}
+{
+  "id": "裼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裼",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "to bare the shoulder",
+    "kunyomi": [
+      "はだぬ.ぐ"
+    ],
+    "onyomi": [
+      "セキ",
+      "テイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "ノ",
+      "初",
+      "勹",
+      "勿",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35068_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088fc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88fc.gif",
+    "uri": "https://jisho.org/search/%E8%A3%BC%23kanji"
+  }
+}

@@ -37,7 +37,7 @@ export default async function KanjiPage({
   return (
     <div className="size-full ">
       <Header className="w-full" />
-      {kanjiInfo && graphData && strokeAnimation && (
+      {kanjiInfo && (
         <KanjiPageContent
           kanjiInfo={kanjiInfo}
           graphData={graphData}

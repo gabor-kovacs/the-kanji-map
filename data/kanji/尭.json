@@ -1,1 +1,45 @@
-{"id":"尭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"尭","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2136","strokeCount":8,"meaning":"high, far","kunyomi":["たか.い"],"onyomi":["ギョウ"],"onyomiExamples":[{"example":"尭尭","reading":"ギョウギョウ","meaning":"high (as of a mountain)"},{"example":"尭尭","reading":"ギョウギョウ","meaning":"high (as of a mountain)"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["一","儿","十","廾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23597_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c2d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c2d.gif","uri":"https://jisho.org/search/%E5%B0%AD%23kanji"}}
+{
+  "id": "尭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尭",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2136",
+    "strokeCount": 8,
+    "meaning": "high, far",
+    "kunyomi": [
+      "たか.い"
+    ],
+    "onyomi": [
+      "ギョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尭尭",
+        "reading": "ギョウギョウ",
+        "meaning": "high (as of a mountain)"
+      },
+      {
+        "example": "尭尭",
+        "reading": "ギョウギョウ",
+        "meaning": "high (as of a mountain)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "十",
+      "廾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23597_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c2d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c2d.gif",
+    "uri": "https://jisho.org/search/%E5%B0%AD%23kanji"
+  }
+}

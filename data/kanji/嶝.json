@@ -1,1 +1,33 @@
-{"id":"嶝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嶝","found":true,"strokeCount":15,"meaning":"hill, uphill path","kunyomi":["さかみち"],"onyomi":["トウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["口","山","并","癶","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23965_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d9d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d9d.gif","uri":"https://jisho.org/search/%E5%B6%9D%23kanji"}}
+{
+  "id": "嶝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嶝",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "hill, uphill path",
+    "kunyomi": [
+      "さかみち"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "口",
+      "山",
+      "并",
+      "癶",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23965_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d9d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d9d.gif",
+    "uri": "https://jisho.org/search/%E5%B6%9D%23kanji"
+  }
+}

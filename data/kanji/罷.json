@@ -1,1 +1,59 @@
-{"id":"罷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"罷","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2104","strokeCount":15,"meaning":"quit, stop, leave, withdraw, go","kunyomi":["まか.り-","や.める"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"罷免","reading":"ヒメン","meaning":"dismissal (from a position), discharge"},{"example":"罷官","reading":"ヒカン","meaning":"removal from office"}],"kunyomiExamples":[{"example":"辞める","reading":"やめる","meaning":"to resign, to retire, to quit, to leave (one's job, etc.)"}],"radical":{"symbol":"网","forms":["罒","⺲","罓","⺳"],"meaning":"net"},"parts":["匕","厶","月","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32631_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f77.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f77.gif","uri":"https://jisho.org/search/%E7%BD%B7%23kanji"}}
+{
+  "id": "罷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "罷",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2104",
+    "strokeCount": 15,
+    "meaning": "quit, stop, leave, withdraw, go",
+    "kunyomi": [
+      "まか.り-",
+      "や.める"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "罷免",
+        "reading": "ヒメン",
+        "meaning": "dismissal (from a position), discharge"
+      },
+      {
+        "example": "罷官",
+        "reading": "ヒカン",
+        "meaning": "removal from office"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "辞める",
+        "reading": "やめる",
+        "meaning": "to resign, to retire, to quit, to leave (one's job, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "网",
+      "forms": [
+        "罒",
+        "⺲",
+        "罓",
+        "⺳"
+      ],
+      "meaning": "net"
+    },
+    "parts": [
+      "匕",
+      "厶",
+      "月",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32631_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f77.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f77.gif",
+    "uri": "https://jisho.org/search/%E7%BD%B7%23kanji"
+  }
+}

@@ -1,1 +1,79 @@
-{"id":"裸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"裸","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1796","strokeCount":13,"meaning":"naked, nude, uncovered, partially clothed","kunyomi":["はだか"],"onyomi":["ラ"],"onyomiExamples":[{"example":"裸体","reading":"ラタイ","meaning":"naked body, nudity"},{"example":"裸眼","reading":"ラガン","meaning":"bare eyes (i.e. without glasses, contact lenses, etc.), uncorrected vision, unaided vision"},{"example":"全裸","reading":"ゼンラ","meaning":"stark naked, nude"},{"example":"赤裸","reading":"セキラ","meaning":"stark naked, nude, bare, unvarnished (e.g. truth), plain (e.g. fact), frank, candid, outspoken"}],"kunyomiExamples":[{"example":"裸","reading":"はだか","meaning":"nakedness, nudity, bareness, nakedness, baldness, being uncovered, being penniless, concealing nothing, openness"},{"example":"裸一貫","reading":"はだかいっかん","meaning":"having nothing except one's body, having empty pockets, being penniless"},{"example":"丸裸","reading":"まるはだか","meaning":"being stark-naked, having no possessions, losing all one's belongings"},{"example":"赤裸","reading":"あかはだか","meaning":"stark naked, nude, bare, stripped of all belongings, penniless, naked barley (Hordeum vulgare var. nudum)"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["初","木","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35064_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088f8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88f8.gif","uri":"https://jisho.org/search/%E8%A3%B8%23kanji"}}
+{
+  "id": "裸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裸",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1796",
+    "strokeCount": 13,
+    "meaning": "naked, nude, uncovered, partially clothed",
+    "kunyomi": [
+      "はだか"
+    ],
+    "onyomi": [
+      "ラ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "裸体",
+        "reading": "ラタイ",
+        "meaning": "naked body, nudity"
+      },
+      {
+        "example": "裸眼",
+        "reading": "ラガン",
+        "meaning": "bare eyes (i.e. without glasses, contact lenses, etc.), uncorrected vision, unaided vision"
+      },
+      {
+        "example": "全裸",
+        "reading": "ゼンラ",
+        "meaning": "stark naked, completely naked, nude"
+      },
+      {
+        "example": "赤裸",
+        "reading": "セキラ",
+        "meaning": "stark naked, nude, bare, unvarnished (e.g. truth), plain (e.g. fact), frank, candid, outspoken"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "裸",
+        "reading": "はだか",
+        "meaning": "nakedness, nudity, bareness, nakedness, baldness, being uncovered, being penniless, concealing nothing, openness"
+      },
+      {
+        "example": "裸一貫",
+        "reading": "はだかいっかん",
+        "meaning": "having nothing except one's body, having empty pockets, being penniless"
+      },
+      {
+        "example": "丸裸",
+        "reading": "まるはだか",
+        "meaning": "being stark-naked, having no possessions, losing all one's belongings"
+      },
+      {
+        "example": "赤裸",
+        "reading": "あかはだか",
+        "meaning": "stark naked, nude, bare, stripped of all belongings, penniless, naked barley (Hordeum vulgare var. nudum)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "初",
+      "木",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35064_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088f8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88f8.gif",
+    "uri": "https://jisho.org/search/%E8%A3%B8%23kanji"
+  }
+}

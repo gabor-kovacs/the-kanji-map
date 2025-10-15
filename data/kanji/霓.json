@@ -1,1 +1,43 @@
-{"id":"霓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霓","found":true,"strokeCount":16,"meaning":"rainbow","kunyomi":["にじ"],"onyomi":["ゲイ"],"onyomiExamples":[{"example":"虹霓","reading":"コウゲイ","meaning":"rainbow"}],"kunyomiExamples":[{"example":"虹","reading":"にじ","meaning":"rainbow"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["儿","臼","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38675_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09713.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9713.gif","uri":"https://jisho.org/search/%E9%9C%93%23kanji"}}
+{
+  "id": "霓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霓",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "rainbow",
+    "kunyomi": [
+      "にじ"
+    ],
+    "onyomi": [
+      "ゲイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虹霓",
+        "reading": "コウゲイ",
+        "meaning": "rainbow"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虹",
+        "reading": "にじ",
+        "meaning": "rainbow"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "儿",
+      "臼",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38675_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09713.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9713.gif",
+    "uri": "https://jisho.org/search/%E9%9C%93%23kanji"
+  }
+}

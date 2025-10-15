@@ -1,1 +1,33 @@
-{"id":"扛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"扛","found":true,"strokeCount":6,"meaning":"raise","kunyomi":["あ.げる"],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["工","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25179_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0625b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/625b.gif","uri":"https://jisho.org/search/%E6%89%9B%23kanji"}}
+{
+  "id": "扛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "扛",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "raise",
+    "kunyomi": [
+      "あ.げる"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "工",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25179_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0625b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/625b.gif",
+    "uri": "https://jisho.org/search/%E6%89%9B%23kanji"
+  }
+}

@@ -1,1 +1,69 @@
-{"id":"蘭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蘭","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1886","strokeCount":19,"meaning":"orchid, Holland","kunyomi":[],"onyomi":["ラン","ラ"],"onyomiExamples":[{"example":"蘭","reading":"ラン","meaning":"orchid, Netherlands, Holland"},{"example":"蘭学","reading":"ランガク","meaning":"rangaku, study of Western knowledge through the Dutch language during the Edo period"},{"example":"第希蘭","reading":"テヘラン","meaning":"Tehran (Iran)"},{"example":"伊蘭","reading":"イラン","meaning":"castor oil plant (Ricinus communis)"},{"example":"蘭","reading":"ラン","meaning":"orchid, Netherlands, Holland"},{"example":"蘭","reading":"ラニ","meaning":"thoroughwort (species of boneset, Eupatorium fortunei)"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","日","木","艾","門","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34349_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0862d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/862d.gif","uri":"https://jisho.org/search/%E8%98%AD%23kanji"}}
+{
+  "id": "蘭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蘭",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1886",
+    "strokeCount": 19,
+    "meaning": "orchid, Holland",
+    "kunyomi": [],
+    "onyomi": [
+      "ラン",
+      "ラ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蘭",
+        "reading": "ラン",
+        "meaning": "orchid, Netherlands, Holland"
+      },
+      {
+        "example": "蘭学",
+        "reading": "ランガク",
+        "meaning": "rangaku, study of Western knowledge through the Dutch language during the Edo period"
+      },
+      {
+        "example": "第希蘭",
+        "reading": "テヘラン",
+        "meaning": "Tehran (Iran)"
+      },
+      {
+        "example": "伊蘭",
+        "reading": "イラン",
+        "meaning": "Iran"
+      },
+      {
+        "example": "蘭",
+        "reading": "ラン",
+        "meaning": "orchid, Netherlands, Holland"
+      },
+      {
+        "example": "蘭",
+        "reading": "ラニ",
+        "meaning": "thoroughwort (species of boneset, Eupatorium fortunei)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "日",
+      "木",
+      "艾",
+      "門",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34349_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0862d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/862d.gif",
+    "uri": "https://jisho.org/search/%E8%98%AD%23kanji"
+  }
+}

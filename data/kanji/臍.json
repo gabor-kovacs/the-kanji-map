@@ -1,1 +1,95 @@
-{"id":"臍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"臍","found":true,"strokeCount":18,"meaning":"navel","kunyomi":["へそ","ほぞ"],"onyomi":["セイ","サイ"],"onyomiExamples":[{"example":"臍下","reading":"セイカ","meaning":"lower abdomen"},{"example":"臍下丹田","reading":"セイカタンデン","meaning":"pit of the stomach"},{"example":"噬臍","reading":"ゼイセイ","meaning":"bitter regret"},{"example":"膃肭臍","reading":"オットセイ","meaning":"fur seal (esp. the northern fur seal, Callorhinus ursinus), Alaskan fur seal"},{"example":"臍帯","reading":"サイタイ","meaning":"umbilical cord"},{"example":"臍帯血","reading":"サイタイケツ","meaning":"umbilical cord blood"}],"kunyomiExamples":[{"example":"臍","reading":"へそ","meaning":"navel, belly button, protrusion or depression in the middle of an object, center, centre, most important part, main point"},{"example":"臍猪","reading":"へそいのしし","meaning":"peccary"},{"example":"お臍","reading":"おへそ","meaning":"navel, belly button"},{"example":"臍","reading":"へそ","meaning":"navel, belly button, protrusion or depression in the middle of an object, center, centre, most important part, main point"},{"example":"臍を固める","reading":"ほぞをかためる","meaning":"to make up one's mind (to do something), to resolve firmly (to do something)"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["刀","廾","月","氏","齊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33229_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081cd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81cd.gif","uri":"https://jisho.org/search/%E8%87%8D%23kanji"}}
+{
+  "id": "臍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臍",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "navel",
+    "kunyomi": [
+      "へそ",
+      "ほぞ"
+    ],
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "臍下",
+        "reading": "セイカ",
+        "meaning": "lower abdomen"
+      },
+      {
+        "example": "臍下丹田",
+        "reading": "セイカタンデン",
+        "meaning": "pit of the stomach"
+      },
+      {
+        "example": "噬臍",
+        "reading": "ゼイセイ",
+        "meaning": "bitter regret"
+      },
+      {
+        "example": "膃肭臍",
+        "reading": "オットセイ",
+        "meaning": "fur seal (esp. the northern fur seal, Callorhinus ursinus), Alaskan fur seal"
+      },
+      {
+        "example": "臍帯",
+        "reading": "サイタイ",
+        "meaning": "umbilical cord"
+      },
+      {
+        "example": "臍帯下垂",
+        "reading": "サイタイカスイ",
+        "meaning": "umbilical cord prolapse"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "臍",
+        "reading": "へそ",
+        "meaning": "navel, belly button, protrusion or depression in the middle of an object, center, centre, most important part, main point"
+      },
+      {
+        "example": "臍猪",
+        "reading": "へそいのしし",
+        "meaning": "peccary"
+      },
+      {
+        "example": "お臍",
+        "reading": "おへそ",
+        "meaning": "navel, belly button"
+      },
+      {
+        "example": "臍",
+        "reading": "へそ",
+        "meaning": "navel, belly button, protrusion or depression in the middle of an object, center, centre, most important part, main point"
+      },
+      {
+        "example": "臍を固める",
+        "reading": "ほぞをかためる",
+        "meaning": "to make up one's mind (to do something), to resolve firmly (to do something)"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "刀",
+      "廾",
+      "月",
+      "氏",
+      "齊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33229_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081cd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81cd.gif",
+    "uri": "https://jisho.org/search/%E8%87%8D%23kanji"
+  }
+}

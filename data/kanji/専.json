@@ -1,1 +1,312 @@
-{"id":"専","kanjialiveData":{"kanji":{"character":"専","meaning":{"english":"exclusive"},"strokes":{"count":9,"timings":[0,1.266667,2.466667,4.066667,5.266667,6.733333,9,10.6,12,13.666667],"images":["https://media.kanjialive.com/kanji_strokes/moppa(ra)_1.svg","https://media.kanjialive.com/kanji_strokes/moppa(ra)_2.svg","https://media.kanjialive.com/kanji_strokes/moppa(ra)_3.svg","https://media.kanjialive.com/kanji_strokes/moppa(ra)_4.svg","https://media.kanjialive.com/kanji_strokes/moppa(ra)_5.svg","https://media.kanjialive.com/kanji_strokes/moppa(ra)_6.svg","https://media.kanjialive.com/kanji_strokes/moppa(ra)_7.svg","https://media.kanjialive.com/kanji_strokes/moppa(ra)_8.svg","https://media.kanjialive.com/kanji_strokes/moppa(ra)_9.svg"]},"onyomi":{"romaji":"sen","katakana":"セン"},"kunyomi":{"romaji":"moppara, moppa","hiragana":"もっぱ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/moppa(ra)_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/moppa(ra)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/moppa(ra)_00.webm"}},"radical":{"character":"⼨","strokes":3,"image":"https://media.kanjialive.com/radical_character/sun.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"すん","romaji":"sun"},"meaning":{"english":"inch, (2.25 cm)"},"animation":["https://media.kanjialive.com/rad_frames/sun0.svg","https://media.kanjialive.com/rad_frames/sun1.svg","https://media.kanjialive.com/rad_frames/sun2.svg"]},"references":{"grade":6,"kodansha":"1690","classic_nelson":"1350"},"examples":[{"japanese":"専門（せんもん）","meaning":{"english":"speciality"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/moppa(ra)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/moppa(ra)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/moppa(ra)_06_a.mp3"}},{"japanese":"専攻（せんこう）","meaning":{"english":"major (at university)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/moppa(ra)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/moppa(ra)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/moppa(ra)_06_b.mp3"}},{"japanese":"専念する（せんねんする）","meaning":{"english":"devote oneself to [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/moppa(ra)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/moppa(ra)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/moppa(ra)_06_c.mp3"}},{"japanese":"専ら（もっぱら）","meaning":{"english":"wholly, mostly"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/moppa(ra)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/moppa(ra)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/moppa(ra)_06_d.mp3"}}]},"jishoData":{"query":"専","found":true,"taughtIn":"grade 6","jlptLevel":"N2","newspaperFrequencyRank":"506","strokeCount":9,"meaning":"specialty, exclusive, mainly, solely","kunyomi":["もっぱ.ら"],"onyomi":["セン"],"onyomiExamples":[{"example":"専","reading":"セン","meaning":"having a fetish for ..., specializing in ..., majoring in ..., first, foremost, number one priority, doing as one pleases, acting selfishly, fired brick"},{"example":"専業","reading":"センギョウ","meaning":"special occupation, principal occupation, specialty, monopoly"},{"example":"住専","reading":"ジュウセン","meaning":"housing-loan corporation"},{"example":"高専","reading":"コウセン","meaning":"technical college, higher schools and colleges"}],"kunyomiExamples":[{"example":"専ら","reading":"もっぱら","meaning":"wholly, solely, entirely, exclusively, devotedly, fixedly, principally, mostly, chiefly, mainly"},{"example":"専らにする","reading":"もっぱらにする","meaning":"devote oneself to, to do as one pleases, to act selfishly"}],"radical":{"symbol":"寸","meaning":"thumb, inch"},"parts":["十","寸","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23554_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c02.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c02.gif","uri":"https://jisho.org/search/%E5%B0%82%23kanji"}}
+{
+  "id": "専",
+  "kanjialiveData": {
+    "_id": "54317af4791eba5146ee4ab8",
+    "_rev": "11-3595a0ee8e48151e66791dc1cb286ddf",
+    "rad_name_ja": "すん",
+    "grade": 6,
+    "hint_group": 4,
+    "kunyomi": "moppara, moppa",
+    "meaning": "exclusive",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "専門（せんもん）",
+        "meaning": {
+          "english": "speciality"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/moppa(ra)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/moppa(ra)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/moppa(ra)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "専攻（せんこう）",
+        "meaning": {
+          "english": "major (at university)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/moppa(ra)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/moppa(ra)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/moppa(ra)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "専念する（せんねんする）",
+        "meaning": {
+          "english": "devote oneself to [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/moppa(ra)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/moppa(ra)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/moppa(ra)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "専ら（もっぱら）",
+        "meaning": {
+          "english": "wholly, mostly"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moppa(ra)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/moppa(ra)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/moppa(ra)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/moppa(ra)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "もっぱら、もっぱ",
+    "ka_utf": "専",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=専",
+    "rad_name_search": [
+      "sun"
+    ],
+    "rad_order": 49,
+    "txt_books": [
+      {
+        "chapter": "6",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "6"
+      }
+    ],
+    "kname": "moppa(ra)",
+    "rad_utf": "⼨",
+    "stroketimes": [
+      0,
+      1.266667,
+      2.466667,
+      4.066667,
+      5.266667,
+      6.733333,
+      9,
+      10.6,
+      12,
+      13.666667
+    ],
+    "kunyomi_ka_display": "もっぱ",
+    "dick": "1690",
+    "rad_name": "sun",
+    "dicn": "1350",
+    "mn_hint": "Farmer who knows the special rules 寸 for producing oil [90] from plants.",
+    "rad_stroke": 3,
+    "onyomi_ja": "セン",
+    "rad_meaning": "inch, (2.25 cm)",
+    "onyomi": "sen",
+    "ka_id": "ka_492",
+    "onyomi_search": [
+      "sen",
+      "sen"
+    ],
+    "kunyomi_search": [
+      "moppara",
+      "moppa",
+      "moppara, moppa"
+    ],
+    "meaning_search": [
+      "exclusive",
+      "exclusive"
+    ],
+    "onyomi_ja_search": [
+      "セン",
+      "セン"
+    ],
+    "kunyomi_ja_search": [
+      "もっぱら",
+      "もっぱ",
+      "もっぱら、もっぱ"
+    ],
+    "rad_meaning_search": [
+      "inch",
+      "(2.25 cm)",
+      "(2.25",
+      "cm)",
+      "inch, (2.25 cm)"
+    ],
+    "rad_name_ja_search": [
+      "すん"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:6",
+      "ij:c6",
+      "ap",
+      "ap:12",
+      "ap:c12",
+      "ik1",
+      "ik1:7",
+      "ik1:c7",
+      "jtr",
+      "jtr:1",
+      "jtr:c1",
+      "cijr",
+      "cijr:6",
+      "cijr:c6"
+    ],
+    "rad_name_file": "sun",
+    "kanji": {
+      "character": "専",
+      "meaning": {
+        "english": "exclusive"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1.266667,
+          2.466667,
+          4.066667,
+          5.266667,
+          6.733333,
+          9,
+          10.6,
+          12,
+          13.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/moppa(ra)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/moppa(ra)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/moppa(ra)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/moppa(ra)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/moppa(ra)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/moppa(ra)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/moppa(ra)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/moppa(ra)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/moppa(ra)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sen",
+        "katakana": "セン"
+      },
+      "kunyomi": {
+        "romaji": "moppara, moppa",
+        "hiragana": "もっぱ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/moppa(ra)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/moppa(ra)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/moppa(ra)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼨",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/sun.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "すん",
+        "romaji": "sun"
+      },
+      "meaning": {
+        "english": "inch, (2.25 cm)"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sun0.svg",
+        "https://media.kanjialive.com/rad_frames/sun1.svg",
+        "https://media.kanjialive.com/rad_frames/sun2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1690",
+      "classic_nelson": "1350"
+    }
+  },
+  "jishoData": {
+    "query": "専",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "506",
+    "strokeCount": 9,
+    "meaning": "specialty, exclusive, mainly, solely",
+    "kunyomi": [
+      "もっぱ.ら"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "専",
+        "reading": "セン",
+        "meaning": "exclusively doing ..., person who exclusively does ..., fetish for ..., someone with a fetish for ..., first, most important thing, number one priority"
+      },
+      {
+        "example": "専業",
+        "reading": "センギョウ",
+        "meaning": "special occupation, principal occupation, specialty, monopoly"
+      },
+      {
+        "example": "住専",
+        "reading": "ジュウセン",
+        "meaning": "housing-loan corporation"
+      },
+      {
+        "example": "高専",
+        "reading": "コウセン",
+        "meaning": "technical college, higher schools and colleges"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "専ら",
+        "reading": "もっぱら",
+        "meaning": "wholly, solely, entirely, exclusively, devotedly, fixedly, principally, mostly, chiefly, mainly"
+      },
+      {
+        "example": "専らにする",
+        "reading": "もっぱらにする",
+        "meaning": "devote oneself to, to do as one pleases, to act selfishly"
+      }
+    ],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "thumb, inch"
+    },
+    "parts": [
+      "十",
+      "寸",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23554_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c02.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c02.gif",
+    "uri": "https://jisho.org/search/%E5%B0%82%23kanji"
+  }
+}

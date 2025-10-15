@@ -1,1 +1,43 @@
-{"id":"綮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"綮","found":true,"strokeCount":14,"meaning":"emblem on banner","kunyomi":[],"onyomi":["ケイ"],"onyomiExamples":[{"example":"肯綮","reading":"コウケイ","meaning":"the essential point"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["一","乞","小","尸","幺","戸","攵","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32174_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dae.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dae.gif","uri":"https://jisho.org/search/%E7%B6%AE%23kanji"}}
+{
+  "id": "綮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "綮",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "emblem on banner",
+    "kunyomi": [],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肯綮",
+        "reading": "コウケイ",
+        "meaning": "the essential point"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "一",
+      "乞",
+      "小",
+      "尸",
+      "幺",
+      "戸",
+      "攵",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32174_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dae.gif",
+    "uri": "https://jisho.org/search/%E7%B6%AE%23kanji"
+  }
+}

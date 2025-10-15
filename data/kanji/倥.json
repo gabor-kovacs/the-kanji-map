@@ -1,1 +1,42 @@
-{"id":"倥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"倥","found":true,"strokeCount":10,"meaning":"boorish, urgent","kunyomi":["ぬか.る"],"onyomi":["コウ"],"onyomiExamples":[{"example":"倥偬","reading":"コウソウ","meaning":"hurrying"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["儿","化","宀","工","穴"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20517_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05025.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5025.gif","uri":"https://jisho.org/search/%E5%80%A5%23kanji"}}
+{
+  "id": "倥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "倥",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "boorish, urgent",
+    "kunyomi": [
+      "ぬか.る"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "倥偬",
+        "reading": "コウソウ",
+        "meaning": "hurrying"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "儿",
+      "化",
+      "宀",
+      "工",
+      "穴"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20517_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05025.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5025.gif",
+    "uri": "https://jisho.org/search/%E5%80%A5%23kanji"
+  }
+}

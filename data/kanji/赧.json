@@ -1,1 +1,55 @@
-{"id":"赧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"赧","found":true,"strokeCount":12,"meaning":"get red","kunyomi":["あから.める"],"onyomi":["タン"],"onyomiExamples":[{"example":"赧顔","reading":"タンガン","meaning":"blushing (with shyness), flushed face"},{"example":"赧然","reading":"タンゼン","meaning":"blushing, getting red in the face"},{"example":"愧赧","reading":"キタン","meaning":"blushing with embarrassment"}],"kunyomiExamples":[{"example":"赤らめる","reading":"あからめる","meaning":"to blush, to redden"}],"radical":{"symbol":"赤","meaning":"red, naked"},"parts":["又","口","土","赤","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36199_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d67.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d67.gif","uri":"https://jisho.org/search/%E8%B5%A7%23kanji"}}
+{
+  "id": "赧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "赧",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "get red",
+    "kunyomi": [
+      "あから.める"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "赧顔",
+        "reading": "タンガン",
+        "meaning": "blushing (with shyness), flushed face"
+      },
+      {
+        "example": "赧然",
+        "reading": "タンゼン",
+        "meaning": "blushing, getting red in the face"
+      },
+      {
+        "example": "愧赧",
+        "reading": "キタン",
+        "meaning": "blushing with embarrassment"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "赤らめる",
+        "reading": "あからめる",
+        "meaning": "to blush, to redden"
+      }
+    ],
+    "radical": {
+      "symbol": "赤",
+      "meaning": "red, naked"
+    },
+    "parts": [
+      "又",
+      "口",
+      "土",
+      "赤",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36199_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d67.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d67.gif",
+    "uri": "https://jisho.org/search/%E8%B5%A7%23kanji"
+  }
+}

@@ -1,1 +1,305 @@
-{"id":"疲","kanjialiveData":{"kanji":{"character":"疲","meaning":{"english":"tired"},"strokes":{"count":10,"timings":[0,2.066,3.333,4.066,4.666,5.266,6.333,7.599,8.533,9.8,10.6],"images":["https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_1.svg","https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_2.svg","https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_3.svg","https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_4.svg","https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_5.svg","https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_6.svg","https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_7.svg","https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_8.svg","https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_9.svg","https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_10.svg"]},"onyomi":{"romaji":"hi","katakana":"ヒ"},"kunyomi":{"romaji":"tsuka, tsukareru, tsukare","hiragana":"つか"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/hi-tsuka(reru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/hi-tsuka(reru)_00.webm"}},"radical":{"character":"⽧","strokes":5,"image":"https://media.kanjialive.com/radical_character/yamaidare.svg","position":{"hiragana":"たれ","romaji":"tare","icon":"https://media.kanjialive.com/rad_positions/tare.svg"},"name":{"hiragana":"やまいだれ","romaji":"yamaidare"},"meaning":{"english":"sickness"},"animation":["https://media.kanjialive.com/rad_frames/yamaidare0.svg","https://media.kanjialive.com/rad_frames/yamaidare1.svg","https://media.kanjialive.com/rad_frames/yamaidare2.svg"]},"references":{"grade":null,"kodansha":"2060","classic_nelson":"3040"},"examples":[{"japanese":"疲労する（ひろうする）","meaning":{"english":"be exhausted"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hi-tsuka(reru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hi-tsuka(reru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hi-tsuka(reru)_06_a.mp3"}},{"japanese":"疲れる（つかれる）","meaning":{"english":"get tired"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hi-tsuka(reru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hi-tsuka(reru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hi-tsuka(reru)_06_b.mp3"}},{"japanese":"気疲れする（きづかれする）","meaning":{"english":"get mentally tired"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hi-tsuka(reru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hi-tsuka(reru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hi-tsuka(reru)_06_c.mp3"}},{"japanese":"疲れ果てる（つかれはてる）","meaning":{"english":"get tired out"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hi-tsuka(reru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hi-tsuka(reru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hi-tsuka(reru)_06_d.mp3"}}]},"jishoData":{"query":"疲","found":true,"taughtIn":"junior high","jlptLevel":"N3","newspaperFrequencyRank":"1263","strokeCount":10,"meaning":"exhausted, tire, weary","kunyomi":["つか.れる","-づか.れ","つか.らす"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"疲労","reading":"ヒロウ","meaning":"fatigue, weariness, exhaustion, tiredness"},{"example":"疲弊","reading":"ヒヘイ","meaning":"exhaustion, fatigue, impoverishment, (financial) exhaustion, ruin"}],"kunyomiExamples":[{"example":"疲れる","reading":"つかれる","meaning":"to get tired, to tire, to get fatigued, to become exhausted, to grow weary, to become worn out (of a well-used object), to starve"},{"example":"疲らす","reading":"つからす","meaning":"to tire, to weary, to exhaust, to fatigue"}],"radical":{"symbol":"疒","meaning":"sickness"},"parts":["又","疔","皮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30130_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075b2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75b2.gif","uri":"https://jisho.org/search/%E7%96%B2%23kanji"}}
+{
+  "id": "疲",
+  "kanjialiveData": {
+    "_id": "54317ae3791eba5146ee495e",
+    "_rev": "10-c17e8c3715b62f686147ad4715736b72",
+    "rad_name_ja": "やまいだれ",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "tsuka, tsukareru, tsukare",
+    "meaning": "tired",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "疲労する（ひろうする）",
+        "meaning": {
+          "english": "be exhausted"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-tsuka(reru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-tsuka(reru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-tsuka(reru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "疲れる（つかれる）",
+        "meaning": {
+          "english": "get tired"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-tsuka(reru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-tsuka(reru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-tsuka(reru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "気疲れする（きづかれする）",
+        "meaning": {
+          "english": "get mentally tired"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-tsuka(reru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-tsuka(reru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-tsuka(reru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "疲れ果てる（つかれはてる）",
+        "meaning": {
+          "english": "get tired out"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-tsuka(reru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-tsuka(reru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-tsuka(reru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-tsuka(reru)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "つか、つかれる、つかれ",
+    "ka_utf": "疲",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=疲",
+    "rad_name_search": [
+      "yamaidare"
+    ],
+    "rad_order": 131,
+    "txt_books": [
+      {
+        "chapter": "18",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "26",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "hi-tsuka(reru)",
+    "rad_utf": "⽧",
+    "stroketimes": [
+      0,
+      2.066,
+      3.333,
+      4.066,
+      4.666,
+      5.266,
+      6.333,
+      7.599,
+      8.533,
+      9.8,
+      10.6
+    ],
+    "kunyomi_ka_display": "つか",
+    "dick": "2060",
+    "rad_name": "yamaidare",
+    "dicn": "3040",
+    "mn_hint": "It hangs all over you like sick 疒 skin 皮.",
+    "rad_stroke": 5,
+    "onyomi_ja": "ヒ",
+    "rad_meaning": "sickness",
+    "onyomi": "hi",
+    "ka_id": "ka_180",
+    "rad_position": "tare",
+    "rad_position_ja": "たれ",
+    "rad_position_search": [
+      "tare",
+      "tare"
+    ],
+    "onyomi_search": [
+      "hi",
+      "hi"
+    ],
+    "kunyomi_search": [
+      "tsuka",
+      "tsukareru",
+      "tsukare",
+      "tsuka, tsukareru, tsukare"
+    ],
+    "meaning_search": [
+      "tired",
+      "tired"
+    ],
+    "onyomi_ja_search": [
+      "ヒ",
+      "ヒ"
+    ],
+    "kunyomi_ja_search": [
+      "つか",
+      "つかれる",
+      "つかれ",
+      "つか、つかれる、つかれ"
+    ],
+    "rad_meaning_search": [
+      "sickness",
+      "sickness"
+    ],
+    "rad_position_ja_search": [
+      "たれ",
+      "たれ"
+    ],
+    "rad_name_ja_search": [
+      "やまいだれ"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:18",
+      "cij:c18",
+      "ij",
+      "ij:7",
+      "ij:c7",
+      "bk",
+      "bk:13",
+      "bk:c13",
+      "kll",
+      "kll:26",
+      "kll:c26"
+    ],
+    "rad_name_file": "yamaidare",
+    "kanji": {
+      "character": "疲",
+      "meaning": {
+        "english": "tired"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          2.066,
+          3.333,
+          4.066,
+          4.666,
+          5.266,
+          6.333,
+          7.599,
+          8.533,
+          9.8,
+          10.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "hi",
+        "katakana": "ヒ"
+      },
+      "kunyomi": {
+        "romaji": "tsuka, tsukareru, tsukare",
+        "hiragana": "つか"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hi-tsuka(reru)_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hi-tsuka(reru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hi-tsuka(reru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽧",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/yamaidare.svg",
+      "position": {
+        "hiragana": "たれ",
+        "romaji": "tare",
+        "icon": "https://media.kanjialive.com/rad_positions/tare.svg"
+      },
+      "name": {
+        "hiragana": "やまいだれ",
+        "romaji": "yamaidare"
+      },
+      "meaning": {
+        "english": "sickness"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/yamaidare0.svg",
+        "https://media.kanjialive.com/rad_frames/yamaidare1.svg",
+        "https://media.kanjialive.com/rad_frames/yamaidare2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "2060",
+      "classic_nelson": "3040"
+    }
+  },
+  "jishoData": {
+    "query": "疲",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "1263",
+    "strokeCount": 10,
+    "meaning": "exhausted, tire, weary",
+    "kunyomi": [
+      "つか.れる",
+      "-づか.れ",
+      "つか.らす"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "疲労",
+        "reading": "ヒロウ",
+        "meaning": "fatigue, weariness, exhaustion, tiredness, fatigue (of metal, etc.)"
+      },
+      {
+        "example": "疲弊",
+        "reading": "ヒヘイ",
+        "meaning": "exhaustion, fatigue, impoverishment, (financial) exhaustion, ruin"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "疲れる",
+        "reading": "つかれる",
+        "meaning": "to get tired, to tire, to get fatigued, to become exhausted, to grow weary, to become worn out (of a well-used object), to starve"
+      },
+      {
+        "example": "疲らす",
+        "reading": "つからす",
+        "meaning": "to tire, to weary, to exhaust, to fatigue"
+      }
+    ],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "sickness"
+    },
+    "parts": [
+      "又",
+      "疔",
+      "皮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30130_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075b2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75b2.gif",
+    "uri": "https://jisho.org/search/%E7%96%B2%23kanji"
+  }
+}

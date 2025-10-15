@@ -1,1 +1,32 @@
-{"id":"峽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"峽","found":true,"strokeCount":10,"meaning":"gorge, strait, ravine, isthmus","kunyomi":["はざま"],"onyomi":["キョウ","コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["人","大","山"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23805_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cfd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cfd.gif","uri":"https://jisho.org/search/%E5%B3%BD%23kanji"}}
+{
+  "id": "峽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "峽",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "gorge, strait, ravine, isthmus",
+    "kunyomi": [
+      "はざま"
+    ],
+    "onyomi": [
+      "キョウ",
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "人",
+      "大",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23805_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cfd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cfd.gif",
+    "uri": "https://jisho.org/search/%E5%B3%BD%23kanji"
+  }
+}

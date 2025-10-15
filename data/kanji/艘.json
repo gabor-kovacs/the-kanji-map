@@ -1,1 +1,45 @@
-{"id":"艘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"艘","found":true,"strokeCount":16,"meaning":"counter for small boats","kunyomi":["ふね"],"onyomi":["ショウ","シュウ","ソウ"],"onyomiExamples":[{"example":"艘","reading":"ソウ","meaning":"counter for (small) boats"},{"example":"一艘","reading":"イッソウ","meaning":"one boat, one ship"}],"kunyomiExamples":[],"radical":{"symbol":"舟","meaning":"boat"},"parts":["又","支","日","舟"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33368_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08258.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8258.gif","uri":"https://jisho.org/search/%E8%89%98%23kanji"}}
+{
+  "id": "艘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艘",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "counter for small boats",
+    "kunyomi": [
+      "ふね"
+    ],
+    "onyomi": [
+      "ショウ",
+      "シュウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艘",
+        "reading": "ソウ",
+        "meaning": "counter for (small) boats"
+      },
+      {
+        "example": "一艘",
+        "reading": "イッソウ",
+        "meaning": "one boat, one ship"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "舟",
+      "meaning": "boat"
+    },
+    "parts": [
+      "又",
+      "支",
+      "日",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33368_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08258.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8258.gif",
+    "uri": "https://jisho.org/search/%E8%89%98%23kanji"
+  }
+}

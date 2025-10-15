@@ -1,1 +1,75 @@
-{"id":"鎧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鎧","found":true,"strokeCount":18,"meaning":"put on armor, arm oneself","kunyomi":["よろ.う","よろい"],"onyomi":["カイ","ガイ"],"onyomiExamples":[{"example":"鎧球","reading":"ガイキュウ","meaning":"American football"},{"example":"鎧袖一触","reading":"ガイシュウイッショク","meaning":"(beating someone) hands down, with a single blow"}],"kunyomiExamples":[{"example":"鎧う","reading":"よろう","meaning":"to put on armour (armor), to wear armour, to arm oneself, to wear, to cover"},{"example":"鎧","reading":"よろい","meaning":"armor, armour"},{"example":"鎧板","reading":"よろいいた","meaning":"louver slat, louvre slat"},{"example":"大鎧","reading":"おおよろい","meaning":"box-shaped heavy armour, esp. used on horseback, ō-yoroi"},{"example":"馬鎧","reading":"うまよろい","meaning":"horse armor, horse armour"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["口","山","并","豆","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37799_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093a7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93a7.gif","uri":"https://jisho.org/search/%E9%8E%A7%23kanji"}}
+{
+  "id": "鎧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鎧",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "put on armor, arm oneself",
+    "kunyomi": [
+      "よろ.う",
+      "よろい"
+    ],
+    "onyomi": [
+      "カイ",
+      "ガイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鎧球",
+        "reading": "ガイキュウ",
+        "meaning": "American football"
+      },
+      {
+        "example": "鎧袖一触",
+        "reading": "ガイシュウイッショク",
+        "meaning": "(beating someone) hands down, with a single blow"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鎧う",
+        "reading": "よろう",
+        "meaning": "to put on armour (armor), to wear armour, to arm oneself, to wear, to cover"
+      },
+      {
+        "example": "鎧",
+        "reading": "よろい",
+        "meaning": "armor, armour"
+      },
+      {
+        "example": "鎧板",
+        "reading": "よろいいた",
+        "meaning": "louver slat, louvre slat"
+      },
+      {
+        "example": "大鎧",
+        "reading": "おおよろい",
+        "meaning": "box-shaped heavy armour, esp. used on horseback, ō-yoroi"
+      },
+      {
+        "example": "馬鎧",
+        "reading": "うまよろい",
+        "meaning": "horse armor, horse armour"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "口",
+      "山",
+      "并",
+      "豆",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37799_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093a7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93a7.gif",
+    "uri": "https://jisho.org/search/%E9%8E%A7%23kanji"
+  }
+}

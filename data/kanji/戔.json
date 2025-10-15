@@ -1,1 +1,28 @@
-{"id":"戔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"戔","found":true,"strokeCount":8,"meaning":"damage, remain, slight","kunyomi":[],"onyomi":["セン","サン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"戈","meaning":"spear, halberd"},"parts":["戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25108_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06214.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6214.gif","uri":"https://jisho.org/search/%E6%88%94%23kanji"}}
+{
+  "id": "戔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戔",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "damage, remain, slight",
+    "kunyomi": [],
+    "onyomi": [
+      "セン",
+      "サン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "spear, halberd"
+    },
+    "parts": [
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25108_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06214.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6214.gif",
+    "uri": "https://jisho.org/search/%E6%88%94%23kanji"
+  }
+}

@@ -1,1 +1,48 @@
-{"id":"粃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"粃","found":true,"strokeCount":10,"meaning":"empty grain husk","kunyomi":["しな","しいな"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"粃糠","reading":"ヒコウ","meaning":"bran, husks, furfur, branny scale"},{"example":"粃糠疹","reading":"ヒコウシン","meaning":"pityriasis"}],"kunyomiExamples":[{"example":"粃","reading":"しいな","meaning":"empty grain husk, immature ear (e.g. wheat), hollow object, unripe fruit"}],"radical":{"symbol":"米","meaning":"rice"},"parts":["比","米"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31875_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c83.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c83.gif","uri":"https://jisho.org/search/%E7%B2%83%23kanji"}}
+{
+  "id": "粃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "粃",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "empty grain husk",
+    "kunyomi": [
+      "しな",
+      "しいな"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "粃糠",
+        "reading": "ヒコウ",
+        "meaning": "bran, husks, furfur, branny scale"
+      },
+      {
+        "example": "粃糠疹",
+        "reading": "ヒコウシン",
+        "meaning": "pityriasis"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "粃",
+        "reading": "しいな",
+        "meaning": "empty grain husk, immature ear (e.g. wheat), hollow object, unripe fruit"
+      }
+    ],
+    "radical": {
+      "symbol": "米",
+      "meaning": "rice"
+    },
+    "parts": [
+      "比",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31875_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c83.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c83.gif",
+    "uri": "https://jisho.org/search/%E7%B2%83%23kanji"
+  }
+}

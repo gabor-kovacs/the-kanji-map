@@ -1,1 +1,64 @@
-{"id":"卍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"卍","found":true,"strokeCount":6,"meaning":"swastika, gammadion, fylfot","kunyomi":["まんじ"],"onyomi":["バン","マン"],"onyomiExamples":[{"example":"卍","reading":"マンジ","meaning":"swastika (esp. counterclockwise form as a Buddhist symbol), fylfot, gammadion, swastika-shaped family crest, wow, yeah, ugh, yuck, awesome, really, let's go"},{"example":"卍固め","reading":"マンジガタメ","meaning":"octopus hold (wrestling), grapevine stretch"}],"kunyomiExamples":[{"example":"卍","reading":"まんじ","meaning":"swastika (esp. counterclockwise form as a Buddhist symbol), fylfot, gammadion, swastika-shaped family crest, wow, yeah, ugh, yuck, awesome, really, let's go"},{"example":"卍固め","reading":"まんじがため","meaning":"octopus hold (wrestling), grapevine stretch"},{"example":"右万字","reading":"みぎまんじ","meaning":"right-facing swastika, clockwise swastika"},{"example":"逆卍","reading":"ぎゃくまんじ","meaning":"right-facing swastika, clockwise swastika"}],"radical":{"symbol":"十","meaning":"ten, complete"},"parts":["一","十","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21325_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0534d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/534d.gif","uri":"https://jisho.org/search/%E5%8D%8D%23kanji"}}
+{
+  "id": "卍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卍",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "swastika, gammadion, fylfot",
+    "kunyomi": [
+      "まんじ"
+    ],
+    "onyomi": [
+      "バン",
+      "マン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "卍",
+        "reading": "マンジ",
+        "meaning": "swastika (esp. counterclockwise form as a Buddhist symbol), fylfot, gammadion, swastika-shaped family crest, wow, yeah, ugh, yuck, awesome, really, let's go"
+      },
+      {
+        "example": "卍固め",
+        "reading": "マンジガタメ",
+        "meaning": "octopus hold"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "卍",
+        "reading": "まんじ",
+        "meaning": "swastika (esp. counterclockwise form as a Buddhist symbol), fylfot, gammadion, swastika-shaped family crest, wow, yeah, ugh, yuck, awesome, really, let's go"
+      },
+      {
+        "example": "卍固め",
+        "reading": "まんじがため",
+        "meaning": "octopus hold"
+      },
+      {
+        "example": "右万字",
+        "reading": "みぎまんじ",
+        "meaning": "right-facing swastika, clockwise swastika"
+      },
+      {
+        "example": "逆卍",
+        "reading": "ぎゃくまんじ",
+        "meaning": "right-facing swastika, clockwise swastika"
+      }
+    ],
+    "radical": {
+      "symbol": "十",
+      "meaning": "ten, complete"
+    },
+    "parts": [
+      "一",
+      "十",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21325_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0534d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/534d.gif",
+    "uri": "https://jisho.org/search/%E5%8D%8D%23kanji"
+  }
+}

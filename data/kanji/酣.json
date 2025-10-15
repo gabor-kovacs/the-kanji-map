@@ -1,1 +1,52 @@
-{"id":"酣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"酣","found":true,"strokeCount":12,"meaning":"height of, thick of, full swing","kunyomi":["たけなわ"],"onyomi":["カン"],"onyomiExamples":[{"example":"酣戦","reading":"カンセン","meaning":"height of battle"}],"kunyomiExamples":[{"example":"闌","reading":"たけなわ","meaning":"height (of summer, party, etc.), (in) full swing"},{"example":"宴もたけなわ","reading":"えんもたけなわ","meaning":"party in full swing, party at its peak"},{"example":"春たけなわ","reading":"はるたけなわ","meaning":"spring is in full swing, height of spring (esp. in April), peak of spring"}],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["甘","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37219_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09163.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9163.gif","uri":"https://jisho.org/search/%E9%85%A3%23kanji"}}
+{
+  "id": "酣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酣",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "height of, thick of, full swing",
+    "kunyomi": [
+      "たけなわ"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "酣戦",
+        "reading": "カンセン",
+        "meaning": "height of battle"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "酣",
+        "reading": "たけなわ",
+        "meaning": "height (of summer, party, etc.), (in) full swing"
+      },
+      {
+        "example": "宴もたけなわ",
+        "reading": "えんもたけなわ",
+        "meaning": "party in full swing, party at its peak"
+      },
+      {
+        "example": "春たけなわ",
+        "reading": "はるたけなわ",
+        "meaning": "spring is in full swing, height of spring (esp. in April), peak of spring"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "甘",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37219_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09163.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9163.gif",
+    "uri": "https://jisho.org/search/%E9%85%A3%23kanji"
+  }
+}

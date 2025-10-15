@@ -1,1 +1,33 @@
-{"id":"醉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"醉","found":true,"strokeCount":15,"meaning":"get drunk, feel sick, poisoned, elated, spellbound","kunyomi":["よ.う","よ.い"],"onyomi":["スイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["亠","人","十","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37257_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09189.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9189.gif","uri":"https://jisho.org/search/%E9%86%89%23kanji"}}
+{
+  "id": "醉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醉",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "get drunk, feel sick, poisoned, elated, spellbound",
+    "kunyomi": [
+      "よ.う",
+      "よ.い"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "亠",
+      "人",
+      "十",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37257_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09189.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9189.gif",
+    "uri": "https://jisho.org/search/%E9%86%89%23kanji"
+  }
+}

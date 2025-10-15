@@ -1,1 +1,267 @@
-{"id":"勧","kanjialiveData":{"kanji":{"character":"勧","meaning":{"english":"urge, recommend, offer"},"strokes":{"count":13,"timings":[0.633,1.306,2.243,3.115,3.985,4.789,5.525,6.193,6.863,7.467,8.403,9.341,11.35,12.06],"images":["https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_1.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_2.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_3.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_4.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_5.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_6.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_7.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_8.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_9.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_10.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_11.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_12.svg","https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_13.svg"]},"onyomi":{"romaji":"kan","katakana":"カン"},"kunyomi":{"romaji":"susu, susumeru","hiragana":"すす"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_13.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kan-susu(meru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kan-susu(meru)_00.webm"}},"radical":{"character":"⼒","strokes":2,"image":"https://media.kanjialive.com/radical_character/chikara.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"ちから","romaji":"chikara"},"meaning":{"english":"power"},"animation":["https://media.kanjialive.com/rad_frames/chikara0.svg","https://media.kanjialive.com/rad_frames/chikara1.svg","https://media.kanjialive.com/rad_frames/chikara2.svg"]},"references":{"grade":null,"kodansha":"1202","classic_nelson":"736"},"examples":[{"japanese":"勧告する（かんこくする）","meaning":{"english":"advise"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-susu(meru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-susu(meru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-susu(meru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-susu(meru)_06_a.mp3"}},{"japanese":"勧誘する（かんゆうする）","meaning":{"english":"solicit, recruit"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-susu(meru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-susu(meru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-susu(meru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-susu(meru)_06_b.mp3"}},{"japanese":"勧める（すすめる）","meaning":{"english":"recommend"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-susu(meru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-susu(meru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-susu(meru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-susu(meru)_06_c.mp3"}}]},"jishoData":{"query":"勧","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1068","strokeCount":13,"meaning":"persuade, recommend, advise, encourage, offer","kunyomi":["すす.める"],"onyomi":["カン","ケン"],"onyomiExamples":[{"example":"勧奨","reading":"カンショウ","meaning":"encouragement, stimulation"},{"example":"勧告","reading":"カンコク","meaning":"advice, counsel, remonstrance, recommendation"}],"kunyomiExamples":[{"example":"勧める","reading":"すすめる","meaning":"to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"}],"radical":{"symbol":"力","meaning":"power, force"},"parts":["ノ","乞","力","矢","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21223_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052e7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52e7.gif","uri":"https://jisho.org/search/%E5%8B%A7%23kanji"}}
+{
+  "id": "勧",
+  "kanjialiveData": {
+    "_id": "54317af1791eba5146ee4a71",
+    "_rev": "10-171e921fa6b8f6ccaf25b8ad48be3950",
+    "rad_name_ja": "ちから",
+    "grade": null,
+    "hint_group": 3,
+    "kunyomi": "susu, susumeru",
+    "meaning": "urge, recommend, offer",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "勧告する（かんこくする）",
+        "meaning": {
+          "english": "advise"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-susu(meru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-susu(meru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-susu(meru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-susu(meru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "勧誘する（かんゆうする）",
+        "meaning": {
+          "english": "solicit, recruit"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-susu(meru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-susu(meru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-susu(meru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-susu(meru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "勧める（すすめる）",
+        "meaning": {
+          "english": "recommend"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-susu(meru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-susu(meru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-susu(meru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-susu(meru)_06_c.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "すす、すすめる",
+    "ka_utf": "勧",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=勧",
+    "rad_name_search": [
+      "chikara"
+    ],
+    "rad_order": 24,
+    "txt_books": [
+      {
+        "chapter": "3",
+        "txt_bk": "txtIntermJpn"
+      }
+    ],
+    "kname": "kan-susu(meru)",
+    "rad_utf": "⼒",
+    "stroketimes": [
+      0.633,
+      1.306,
+      2.243,
+      3.115,
+      3.985,
+      4.789,
+      5.525,
+      6.193,
+      6.863,
+      7.467,
+      8.403,
+      9.341,
+      11.35,
+      12.06
+    ],
+    "kunyomi_ka_display": "すす",
+    "dick": "1202",
+    "rad_name": "chikara",
+    "dicn": "736",
+    "mn_hint": "Two birds [82] singing with all of their strength 力, urging you to enjoy life.",
+    "rad_stroke": 2,
+    "onyomi_ja": "カン",
+    "rad_meaning": "power",
+    "onyomi": "kan",
+    "ka_id": "ka_428",
+    "onyomi_search": [
+      "kan",
+      "kan"
+    ],
+    "kunyomi_search": [
+      "susu",
+      "susumeru",
+      "susu, susumeru"
+    ],
+    "meaning_search": [
+      "urge",
+      "recommend",
+      "offer",
+      "urge, recommend, offer"
+    ],
+    "onyomi_ja_search": [
+      "カン",
+      "カン"
+    ],
+    "kunyomi_ja_search": [
+      "すす",
+      "すすめる",
+      "すす、すすめる"
+    ],
+    "rad_meaning_search": [
+      "power",
+      "power"
+    ],
+    "rad_name_ja_search": [
+      "ちから"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:3",
+      "ij:c3"
+    ],
+    "rad_name_file": "chikara",
+    "kanji": {
+      "character": "勧",
+      "meaning": {
+        "english": "urge, recommend, offer"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0.633,
+          1.306,
+          2.243,
+          3.115,
+          3.985,
+          4.789,
+          5.525,
+          6.193,
+          6.863,
+          7.467,
+          8.403,
+          9.341,
+          11.35,
+          12.06
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kan",
+        "katakana": "カン"
+      },
+      "kunyomi": {
+        "romaji": "susu, susumeru",
+        "hiragana": "すす"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kan-susu(meru)_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kan-susu(meru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kan-susu(meru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼒",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/chikara.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ちから",
+        "romaji": "chikara"
+      },
+      "meaning": {
+        "english": "power"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/chikara0.svg",
+        "https://media.kanjialive.com/rad_frames/chikara1.svg",
+        "https://media.kanjialive.com/rad_frames/chikara2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1202",
+      "classic_nelson": "736"
+    }
+  },
+  "jishoData": {
+    "query": "勧",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1068",
+    "strokeCount": 13,
+    "meaning": "persuade, recommend, advise, encourage, offer",
+    "kunyomi": [
+      "すす.める"
+    ],
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "勧奨",
+        "reading": "カンショウ",
+        "meaning": "encouragement, stimulation"
+      },
+      {
+        "example": "勧告",
+        "reading": "カンコク",
+        "meaning": "advice, counsel, remonstrance, recommendation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "勧める",
+        "reading": "すすめる",
+        "meaning": "to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "力",
+      "矢",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21223_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052e7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52e7.gif",
+    "uri": "https://jisho.org/search/%E5%8B%A7%23kanji"
+  }
+}

@@ -1,1 +1,40 @@
-{"id":"專","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"專","found":true,"strokeCount":11,"meaning":"specialty, exclusive, mainly, solely","kunyomi":["もっぱ.ら"],"onyomi":["セン"],"onyomiExamples":[{"example":"専門","reading":"センモン","meaning":"speciality, specialty, subject of study, expert, area of expertise"}],"kunyomiExamples":[],"radical":{"symbol":"寸","meaning":"thumb, inch"},"parts":["一","十","厶","寸","田","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23560_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c08.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c08.gif","uri":"https://jisho.org/search/%E5%B0%88%23kanji"}}
+{
+  "id": "專",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "專",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "specialty, exclusive, mainly, solely",
+    "kunyomi": [
+      "もっぱ.ら"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "専門",
+        "reading": "センモン",
+        "meaning": "speciality, specialty, special subject of study, area of expertise, (one's) field, (one's) major, sole interest, single focus, concentrating exclusively on, doing exclusively, sticking to"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "thumb, inch"
+    },
+    "parts": [
+      "一",
+      "十",
+      "厶",
+      "寸",
+      "田",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23560_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c08.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c08.gif",
+    "uri": "https://jisho.org/search/%E5%B0%88%23kanji"
+  }
+}

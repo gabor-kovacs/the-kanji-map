@@ -1,1 +1,31 @@
-{"id":"顳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"顳","found":true,"strokeCount":27,"meaning":"temple (of head)","kunyomi":[],"onyomi":["ショウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ハ","目","耳","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39027_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09873.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9873.gif","uri":"https://jisho.org/search/%E9%A1%B3%23kanji"}}
+{
+  "id": "顳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "顳",
+    "found": true,
+    "strokeCount": 27,
+    "meaning": "temple (of head)",
+    "kunyomi": [],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ハ",
+      "目",
+      "耳",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39027_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09873.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9873.gif",
+    "uri": "https://jisho.org/search/%E9%A1%B3%23kanji"
+  }
+}

@@ -1,1 +1,53 @@
-{"id":"楮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"楮","found":true,"strokeCount":13,"meaning":"paper mulberry","kunyomi":["こうぞ"],"onyomi":["チョ"],"onyomiExamples":[{"example":"楮紙","reading":"コウゾガミ","meaning":"kozo (paper), kōzogami, Japanese tissue made from the bark fibre of a paper mulberry tree"}],"kunyomiExamples":[{"example":"楮","reading":"こうぞ","meaning":"hybrid mulberry tree used to make Japanese paper (Broussonetia kazinoki x papyrifera)"},{"example":"楮紙","reading":"こうぞがみ","meaning":"kozo (paper), kōzogami, Japanese tissue made from the bark fibre of a paper mulberry tree"},{"example":"姫楮","reading":"ひめこうぞ","meaning":"Broussonetia kazinoki (species of mulberry)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["日","木","老"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26990_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0696e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/696e.gif","uri":"https://jisho.org/search/%E6%A5%AE%23kanji"}}
+{
+  "id": "楮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楮",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "paper mulberry",
+    "kunyomi": [
+      "こうぞ"
+    ],
+    "onyomi": [
+      "チョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "楮紙",
+        "reading": "コウゾガミ",
+        "meaning": "kozo (paper), kōzogami, Japanese tissue made from the bark fibre of a paper mulberry tree"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "楮",
+        "reading": "こうぞ",
+        "meaning": "kozo (Broussonetia kazinoki x papyrifera), Japanese paper mulberry tree"
+      },
+      {
+        "example": "楮紙",
+        "reading": "こうぞがみ",
+        "meaning": "kozo (paper), kōzogami, Japanese tissue made from the bark fibre of a paper mulberry tree"
+      },
+      {
+        "example": "姫楮",
+        "reading": "ひめこうぞ",
+        "meaning": "Broussonetia kazinoki (species of mulberry)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "日",
+      "木",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26990_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0696e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/696e.gif",
+    "uri": "https://jisho.org/search/%E6%A5%AE%23kanji"
+  }
+}

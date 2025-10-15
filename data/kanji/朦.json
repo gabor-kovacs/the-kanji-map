@@ -1,1 +1,49 @@
-{"id":"朦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"朦","found":true,"strokeCount":17,"meaning":"dim, obscure","kunyomi":["おぼろ"],"onyomi":["モウ","ボウ"],"onyomiExamples":[{"example":"濛気","reading":"モウキ","meaning":"dense fog, dense mist, feeling depressed"},{"example":"濛々","reading":"モウモウ","meaning":"dense (e.g. fog, dust, etc.), thick, vague (as in being unable to think clearly), dim"},{"example":"砂塵濛々","reading":"サジンモウモウ","meaning":"big clouds of dust, haze of dust"}],"kunyomiExamples":[],"radical":{"symbol":"月","meaning":"moon, month"},"parts":["冖","月","艾","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26406_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06726.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6726.gif","uri":"https://jisho.org/search/%E6%9C%A6%23kanji"}}
+{
+  "id": "朦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朦",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "dim, obscure",
+    "kunyomi": [
+      "おぼろ"
+    ],
+    "onyomi": [
+      "モウ",
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "濛気",
+        "reading": "モウキ",
+        "meaning": "dense fog, dense mist, feeling depressed"
+      },
+      {
+        "example": "濛々",
+        "reading": "モウモウ",
+        "meaning": "dense (e.g. fog, dust, etc.), thick, vague (as in being unable to think clearly), dim"
+      },
+      {
+        "example": "砂塵濛々",
+        "reading": "サジンモウモウ",
+        "meaning": "big clouds of dust, haze of dust"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "月",
+      "meaning": "moon, month"
+    },
+    "parts": [
+      "冖",
+      "月",
+      "艾",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26406_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06726.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6726.gif",
+    "uri": "https://jisho.org/search/%E6%9C%A6%23kanji"
+  }
+}

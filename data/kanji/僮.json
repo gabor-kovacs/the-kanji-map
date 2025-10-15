@@ -1,1 +1,42 @@
-{"id":"僮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"僮","found":true,"strokeCount":14,"meaning":"child, servant, foolishness","kunyomi":["しもべ","わらべ"],"onyomi":["トウ","ドウ"],"onyomiExamples":[{"example":"童僕","reading":"ドウボク","meaning":"young male servant, page"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","立","里"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20718_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ee.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ee.gif","uri":"https://jisho.org/search/%E5%83%AE%23kanji"}}
+{
+  "id": "僮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "僮",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "child, servant, foolishness",
+    "kunyomi": [
+      "しもべ",
+      "わらべ"
+    ],
+    "onyomi": [
+      "トウ",
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "童僕",
+        "reading": "ドウボク",
+        "meaning": "young male servant, page"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "立",
+      "里"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20718_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ee.gif",
+    "uri": "https://jisho.org/search/%E5%83%AE%23kanji"
+  }
+}

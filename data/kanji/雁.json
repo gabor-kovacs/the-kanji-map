@@ -1,1 +1,75 @@
-{"id":"雁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"雁","found":true,"newspaperFrequencyRank":"2192","strokeCount":12,"meaning":"wild goose","kunyomi":["かり","かりがね"],"onyomi":["ガン"],"onyomiExamples":[{"example":"雁","reading":"ガン","meaning":"wild goose, glans, head of a penis"},{"example":"雁下","reading":"ガンカ","meaning":"area below the pectoral muscle"},{"example":"ハワイ雁","reading":"ハワイガン","meaning":"Hawaiian goose (Branta sandvicensis), nene"},{"example":"鴻雁","reading":"コウガン","meaning":"wild geese, large geese and small geese"}],"kunyomiExamples":[{"example":"雁","reading":"がん","meaning":"wild goose, glans, head of a penis"},{"example":"雁が音","reading":"かりがね","meaning":"call of a wild goose, wild goose (esp. a lesser white-fronted goose, Anser erythropus), tea made from twigs of high-quality tea plants (esp. gyokuro), high-grade kukicha (esp. from gyokuro)"},{"example":"雁が音","reading":"かりがね","meaning":"call of a wild goose, wild goose (esp. a lesser white-fronted goose, Anser erythropus), tea made from twigs of high-quality tea plants (esp. gyokuro), high-grade kukicha (esp. from gyokuro)"},{"example":"雁金草","reading":"かりがねそう","meaning":"blue spirea (Caryopteris divaricata), blue mist shrub"}],"radical":{"symbol":"隹","meaning":"small bird"},"parts":["化","厂","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38593_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c1.gif","uri":"https://jisho.org/search/%E9%9B%81%23kanji"}}
+{
+  "id": "雁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雁",
+    "found": true,
+    "newspaperFrequencyRank": "2192",
+    "strokeCount": 12,
+    "meaning": "wild goose",
+    "kunyomi": [
+      "かり",
+      "かりがね"
+    ],
+    "onyomi": [
+      "ガン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雁",
+        "reading": "ガン",
+        "meaning": "wild goose"
+      },
+      {
+        "example": "雁",
+        "reading": "ガン",
+        "meaning": "Gan, The Wild Geese (1913 novel by Mori Ōgai)"
+      },
+      {
+        "example": "ハワイ雁",
+        "reading": "ハワイガン",
+        "meaning": "Hawaiian goose (Branta sandvicensis), nene"
+      },
+      {
+        "example": "鴻雁",
+        "reading": "コウガン",
+        "meaning": "wild geese, large geese and small geese"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "雁",
+        "reading": "かり",
+        "meaning": "wild goose, glans, head of a penis"
+      },
+      {
+        "example": "雁が音",
+        "reading": "かりがね",
+        "meaning": "call of a wild goose, wild goose (esp. a lesser white-fronted goose, Anser erythropus), tea made from twigs of high-quality tea plants (esp. gyokuro), high-grade kukicha (esp. from gyokuro)"
+      },
+      {
+        "example": "雁が音",
+        "reading": "かりがね",
+        "meaning": "call of a wild goose, wild goose (esp. a lesser white-fronted goose, Anser erythropus), tea made from twigs of high-quality tea plants (esp. gyokuro), high-grade kukicha (esp. from gyokuro)"
+      },
+      {
+        "example": "雁金草",
+        "reading": "かりがねそう",
+        "meaning": "blue spirea (Caryopteris divaricata), blue mist shrub"
+      }
+    ],
+    "radical": {
+      "symbol": "隹",
+      "meaning": "small bird"
+    },
+    "parts": [
+      "化",
+      "厂",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38593_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c1.gif",
+    "uri": "https://jisho.org/search/%E9%9B%81%23kanji"
+  }
+}

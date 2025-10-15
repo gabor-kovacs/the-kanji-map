@@ -1,1 +1,312 @@
-{"id":"妹","kanjialiveData":{"kanji":{"character":"妹","meaning":{"english":"younger sister"},"strokes":{"count":8,"timings":[0.878,2.199,3.133,4.133,5.066,6.133,7.133,7.733,8.333333],"images":["https://media.kanjialive.com/kanji_strokes/imouto_1.svg","https://media.kanjialive.com/kanji_strokes/imouto_2.svg","https://media.kanjialive.com/kanji_strokes/imouto_3.svg","https://media.kanjialive.com/kanji_strokes/imouto_4.svg","https://media.kanjialive.com/kanji_strokes/imouto_5.svg","https://media.kanjialive.com/kanji_strokes/imouto_6.svg","https://media.kanjialive.com/kanji_strokes/imouto_7.svg","https://media.kanjialive.com/kanji_strokes/imouto_8.svg"]},"onyomi":{"romaji":"mai","katakana":"マイ"},"kunyomi":{"romaji":"imouto","hiragana":"いもうと"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/imouto_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/imouto_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/imouto_00.webm"}},"radical":{"character":"","strokes":3,"image":"https://media.kanjialive.com/radical_character/onnahen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"おんなへん","romaji":"onnahen"},"meaning":{"english":"woman"},"animation":["https://media.kanjialive.com/rad_frames/onnahen0.svg","https://media.kanjialive.com/rad_frames/onnahen1.svg","https://media.kanjialive.com/rad_frames/onnahen2.svg"]},"references":{"grade":2,"kodansha":"208","classic_nelson":"1204"},"examples":[{"japanese":"姉妹（しまい）","meaning":{"english":"sisters"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/imouto_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/imouto_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/imouto_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/imouto_06_a.mp3"}},{"japanese":"姉妹校（しまいこう）","meaning":{"english":"sister school"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/imouto_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/imouto_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/imouto_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/imouto_06_b.mp3"}},{"japanese":"妹（いもうと）","meaning":{"english":"one's own younger sister"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/imouto_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/imouto_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/imouto_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/imouto_06_c.mp3"}}]},"jishoData":{"query":"妹","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"1446","strokeCount":8,"meaning":"younger sister","kunyomi":["いもうと"],"onyomi":["マイ"],"onyomiExamples":[{"example":"妹君","reading":"イモウトギミ","meaning":"(younger) sister"},{"example":"義妹","reading":"ギマイ","meaning":"sister-in-law (spouse's younger sister or younger brother's wife), younger stepsister, younger adopted sister, non-blood-related younger sister"},{"example":"弟妹","reading":"テイマイ","meaning":"younger brother and sister"}],"kunyomiExamples":[{"example":"妹","reading":"いもうと","meaning":"younger sister"},{"example":"妹君","reading":"いもうとぎみ","meaning":"(younger) sister"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["ハ","二","亠","女","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22969_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059b9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59b9.gif","uri":"https://jisho.org/search/%E5%A6%B9%23kanji"}}
+{
+  "id": "妹",
+  "kanjialiveData": {
+    "_id": "54317af4791eba5146ee4ab5",
+    "_rev": "9-2576cad5c6714f52acd1a111238c2935",
+    "rad_name_ja": "おんなへん",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "imouto",
+    "meaning": "younger sister",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "姉妹（しまい）",
+        "meaning": {
+          "english": "sisters"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/imouto_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/imouto_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/imouto_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/imouto_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "姉妹校（しまいこう）",
+        "meaning": {
+          "english": "sister school"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/imouto_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/imouto_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/imouto_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/imouto_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "妹（いもうと）",
+        "meaning": {
+          "english": "one's own younger sister"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/imouto_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/imouto_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/imouto_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/imouto_06_c.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いもうと",
+    "ka_utf": "妹",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=妹",
+    "rad_name_search": [
+      "onnahen"
+    ],
+    "rad_order": 45,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "imouto",
+    "rad_utf": "",
+    "stroketimes": [
+      0.878,
+      2.199,
+      3.133,
+      4.133,
+      5.066,
+      6.133,
+      7.133,
+      7.733,
+      8.333333
+    ],
+    "kunyomi_ka_display": "いもうと",
+    "dick": "208",
+    "rad_name": "onnahen",
+    "dicn": "1204",
+    "mn_hint": "Not yet 未 a woman 女.",
+    "rad_stroke": 3,
+    "onyomi_ja": "マイ",
+    "rad_meaning": "woman",
+    "onyomi": "mai",
+    "ka_id": "ka_49",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "mai",
+      "mai"
+    ],
+    "kunyomi_search": [
+      "imouto",
+      "imouto"
+    ],
+    "meaning_search": [
+      "younger sister",
+      "younger",
+      "sister",
+      "younger sister"
+    ],
+    "onyomi_ja_search": [
+      "マイ",
+      "マイ"
+    ],
+    "kunyomi_ja_search": [
+      "いもうと",
+      "いもうと"
+    ],
+    "rad_meaning_search": [
+      "woman",
+      "woman"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "おんなへん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:9",
+      "cij:c9",
+      "bk",
+      "bk:15",
+      "bk:c15",
+      "aij3",
+      "aij3:1",
+      "aij3:c1",
+      "aij3:v3",
+      "aij3:v3:1",
+      "aij3:v3:c1",
+      "gen",
+      "gen:21",
+      "gen:c21",
+      "ap",
+      "ap:19",
+      "ap:c19",
+      "kll",
+      "kll:13",
+      "kll:c13"
+    ],
+    "rad_name_file": "onnahen",
+    "kanji": {
+      "character": "妹",
+      "meaning": {
+        "english": "younger sister"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0.878,
+          2.199,
+          3.133,
+          4.133,
+          5.066,
+          6.133,
+          7.133,
+          7.733,
+          8.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/imouto_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/imouto_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/imouto_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/imouto_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/imouto_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/imouto_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/imouto_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/imouto_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "mai",
+        "katakana": "マイ"
+      },
+      "kunyomi": {
+        "romaji": "imouto",
+        "hiragana": "いもうと"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/imouto_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/imouto_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/imouto_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/onnahen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "おんなへん",
+        "romaji": "onnahen"
+      },
+      "meaning": {
+        "english": "woman"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/onnahen0.svg",
+        "https://media.kanjialive.com/rad_frames/onnahen1.svg",
+        "https://media.kanjialive.com/rad_frames/onnahen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "208",
+      "classic_nelson": "1204"
+    }
+  },
+  "jishoData": {
+    "query": "妹",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "1446",
+    "strokeCount": 8,
+    "meaning": "younger sister",
+    "kunyomi": [
+      "いもうと"
+    ],
+    "onyomi": [
+      "マイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "妹君",
+        "reading": "イモウトギミ",
+        "meaning": "(younger) sister"
+      },
+      {
+        "example": "義妹",
+        "reading": "ギマイ",
+        "meaning": "sister-in-law (spouse's younger sister or younger brother's wife), younger stepsister, younger adopted sister, non-blood-related younger sister"
+      },
+      {
+        "example": "弟妹",
+        "reading": "テイマイ",
+        "meaning": "younger brother and sister"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "妹",
+        "reading": "いもうと",
+        "meaning": "younger sister"
+      },
+      {
+        "example": "妹君",
+        "reading": "いもうとぎみ",
+        "meaning": "(younger) sister"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "亠",
+      "女",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22969_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059b9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59b9.gif",
+    "uri": "https://jisho.org/search/%E5%A6%B9%23kanji"
+  }
+}

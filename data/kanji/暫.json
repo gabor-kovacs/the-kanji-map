@@ -1,1 +1,56 @@
-{"id":"暫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"暫","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1112","strokeCount":15,"meaning":"temporarily, a while, moment, long time","kunyomi":["しばら.く"],"onyomi":["ザン"],"onyomiExamples":[{"example":"暫定","reading":"ザンテイ","meaning":"provisional, temporary, tentative"},{"example":"暫且","reading":"ザンショ","meaning":"short while"}],"kunyomiExamples":[{"example":"暫く","reading":"しばらく","meaning":"for a moment, for a minute, for a while, for some time, for the time being, for now, it's been a long time, long time no see"},{"example":"暫くして","reading":"しばらくして","meaning":"after a short time, presently"}],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["斤","日","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26283_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066ab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66ab.gif","uri":"https://jisho.org/search/%E6%9A%AB%23kanji"}}
+{
+  "id": "暫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "暫",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1112",
+    "strokeCount": 15,
+    "meaning": "temporarily, a while, moment, long time",
+    "kunyomi": [
+      "しばら.く"
+    ],
+    "onyomi": [
+      "ザン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "暫定",
+        "reading": "ザンテイ",
+        "meaning": "provisional, temporary, tentative"
+      },
+      {
+        "example": "暫且",
+        "reading": "ザンショ",
+        "meaning": "short while"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "暫く",
+        "reading": "しばらく",
+        "meaning": "for a moment, for a minute, for a while, for some time, for the time being, for now, it's been a long time, long time no see"
+      },
+      {
+        "example": "暫くして",
+        "reading": "しばらくして",
+        "meaning": "after a short time, presently"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "斤",
+      "日",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26283_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66ab.gif",
+    "uri": "https://jisho.org/search/%E6%9A%AB%23kanji"
+  }
+}

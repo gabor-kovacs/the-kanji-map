@@ -1,1 +1,52 @@
-{"id":"葺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"葺","found":true,"strokeCount":12,"meaning":"thatch, cover, shingle, tile","kunyomi":["あし","ふ.く","ふき"],"onyomi":["シュウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"葺く","reading":"ふく","meaning":"to roof (a house with some material), to thatch, to shingle, to tile"},{"example":"葺き板","reading":"ふきいた","meaning":"shingles"},{"example":"葺き替え","reading":"ふきかえ","meaning":"reroofing, rethatching"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["口","耳","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33914_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0847a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/847a.gif","uri":"https://jisho.org/search/%E8%91%BA%23kanji"}}
+{
+  "id": "葺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "葺",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "thatch, cover, shingle, tile",
+    "kunyomi": [
+      "あし",
+      "ふ.く",
+      "ふき"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "葺く",
+        "reading": "ふく",
+        "meaning": "to roof (a house with some material), to thatch, to shingle, to tile"
+      },
+      {
+        "example": "葺石",
+        "reading": "ふきいし",
+        "meaning": "round boulders covering the slopes of a burial mound (Kofun period)"
+      },
+      {
+        "example": "葺き板",
+        "reading": "ふきいた",
+        "meaning": "shingles"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "口",
+      "耳",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33914_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0847a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/847a.gif",
+    "uri": "https://jisho.org/search/%E8%91%BA%23kanji"
+  }
+}

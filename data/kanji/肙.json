@@ -1,1 +1,26 @@
-{"id":"肙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"肙","found":true,"strokeCount":10,"meaning":"a small worm, to twist, to surround, empty","kunyomi":[],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32921_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08099.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8099.gif","uri":"https://jisho.org/search/%E8%82%99%23kanji"}}
+{
+  "id": "肙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肙",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "a small worm, to twist, to surround, empty",
+    "kunyomi": [],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32921_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08099.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8099.gif",
+    "uri": "https://jisho.org/search/%E8%82%99%23kanji"
+  }
+}

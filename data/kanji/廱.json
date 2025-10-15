@@ -1,1 +1,33 @@
-{"id":"廱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廱","found":true,"strokeCount":21,"meaning":"mild, congenial, block, obstruct","kunyomi":["やわらぐ"],"onyomi":["ヨウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"广","meaning":"house on cliff"},"parts":["口","巛","巴","广","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24305_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ef1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ef1.gif","uri":"https://jisho.org/search/%E5%BB%B1%23kanji"}}
+{
+  "id": "廱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廱",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "mild, congenial, block, obstruct",
+    "kunyomi": [
+      "やわらぐ"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "广",
+      "meaning": "house on cliff"
+    },
+    "parts": [
+      "口",
+      "巛",
+      "巴",
+      "广",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24305_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ef1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ef1.gif",
+    "uri": "https://jisho.org/search/%E5%BB%B1%23kanji"
+  }
+}

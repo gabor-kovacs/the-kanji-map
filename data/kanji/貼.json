@@ -1,1 +1,64 @@
-{"id":"貼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"貼","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2444","strokeCount":12,"meaning":"stick, paste, apply","kunyomi":["は.る","つ.く"],"onyomi":["テン","チョウ"],"onyomiExamples":[{"example":"貼付","reading":"チョウフ","meaning":"pasting, sticking, attaching, affixing, appending"},{"example":"貼","reading":"チョウ","meaning":"counter for doses of medicine, etc."},{"example":"貼付","reading":"チョウフ","meaning":"pasting, sticking, attaching, affixing, appending"}],"kunyomiExamples":[{"example":"張る","reading":"はる","meaning":"to stick, to paste, to affix, to stretch, to spread, to strain, to tighten, to put up (tent), to form (e.g. ice on a pond), to fill, to swell, to stick out, to put, to slap, to post (a link, etc. online), to be expensive, to keep a watch on, to be on the lookout, to become one tile away from completion, to span, to generate"}],"radical":{"symbol":"貝","meaning":"shell"},"parts":["ハ","卜","口","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36028_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cbc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cbc.gif","uri":"https://jisho.org/search/%E8%B2%BC%23kanji"}}
+{
+  "id": "貼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "貼",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2444",
+    "strokeCount": 12,
+    "meaning": "stick, paste, apply",
+    "kunyomi": [
+      "は.る",
+      "つ.く"
+    ],
+    "onyomi": [
+      "テン",
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "貼付",
+        "reading": "チョウフ",
+        "meaning": "pasting, sticking, attaching, affixing, appending"
+      },
+      {
+        "example": "貼合",
+        "reading": "テンゴウ",
+        "meaning": "pasting together (of paper)"
+      },
+      {
+        "example": "貼",
+        "reading": "チョウ",
+        "meaning": "counter for doses of medicine, etc."
+      },
+      {
+        "example": "貼付",
+        "reading": "チョウフ",
+        "meaning": "pasting, sticking, attaching, affixing, appending"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "張る",
+        "reading": "はる",
+        "meaning": "to stick, to paste, to affix, to stretch, to spread, to strain, to tighten, to put up (e.g. a tent), to form (e.g. ice on a pond), to fill, to swell, to stick out, to push out, to post (a link, etc. online), to be expensive, to keep a watch on, to be on the lookout, to slap, to become one tile away from completion, to span, to generate"
+      }
+    ],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "shell"
+    },
+    "parts": [
+      "ハ",
+      "卜",
+      "口",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36028_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cbc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cbc.gif",
+    "uri": "https://jisho.org/search/%E8%B2%BC%23kanji"
+  }
+}

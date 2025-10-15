@@ -1,1 +1,63 @@
-{"id":"爽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"爽","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2333","strokeCount":11,"meaning":"refreshing, bracing, resonant, sweet, clear","kunyomi":["あき.らか","さわ.やか","たがう"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"爽快","reading":"ソウカイ","meaning":"refreshing, exhilarating, invigorating, bracing"},{"example":"爽秋","reading":"ソウシュウ","meaning":"refreshing and pleasant autumn"},{"example":"昧爽","reading":"マイソウ","meaning":"dawn"},{"example":"豪爽","reading":"ゴウソウ","meaning":"fine disposition"}],"kunyomiExamples":[{"example":"爽やか","reading":"さわやか","meaning":"fresh, refreshing, invigorating, clear (e.g. voice), fluent, eloquent"}],"radical":{"symbol":"爻","meaning":"mix, twine, cross"},"parts":["一","亠","人"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29245_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0723d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/723d.gif","uri":"https://jisho.org/search/%E7%88%BD%23kanji"}}
+{
+  "id": "爽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "爽",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2333",
+    "strokeCount": 11,
+    "meaning": "refreshing, bracing, resonant, sweet, clear",
+    "kunyomi": [
+      "あき.らか",
+      "さわ.やか",
+      "たがう"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "爽快",
+        "reading": "ソウカイ",
+        "meaning": "refreshing, exhilarating, invigorating, bracing"
+      },
+      {
+        "example": "爽快感",
+        "reading": "ソウカイカン",
+        "meaning": "refreshing feeling, feeling of exhilaration"
+      },
+      {
+        "example": "昧爽",
+        "reading": "マイソウ",
+        "meaning": "dawn"
+      },
+      {
+        "example": "豪爽",
+        "reading": "ゴウソウ",
+        "meaning": "fine disposition"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "爽やか",
+        "reading": "さわやか",
+        "meaning": "fresh, refreshing, invigorating, pleasant, delightful, clear (voice), fluent (speech), eloquent"
+      }
+    ],
+    "radical": {
+      "symbol": "爻",
+      "meaning": "mix, twine, cross"
+    },
+    "parts": [
+      "一",
+      "亠",
+      "人"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29245_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0723d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/723d.gif",
+    "uri": "https://jisho.org/search/%E7%88%BD%23kanji"
+  }
+}

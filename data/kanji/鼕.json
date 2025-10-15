@@ -1,1 +1,48 @@
-{"id":"鼕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鼕","found":true,"strokeCount":18,"meaning":"beating of drums","kunyomi":[],"onyomi":["トウ"],"onyomiExamples":[{"example":"鼕々","reading":"トウトウ","meaning":"sound of bells or drums reverberating, sound of water or waves resounding"},{"example":"鼕々","reading":"トウトウ","meaning":"sound of bells or drums reverberating, sound of water or waves resounding"}],"kunyomiExamples":[],"radical":{"symbol":"鼓","meaning":"drum"},"parts":["ハ","丶","冫","十","又","口","士","夂","支","豆","鼓"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40725_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f15.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f15.gif","uri":"https://jisho.org/search/%E9%BC%95%23kanji"}}
+{
+  "id": "鼕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鼕",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "beating of drums",
+    "kunyomi": [],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鼕々",
+        "reading": "トウトウ",
+        "meaning": "beating (of drums), rushing (water), crashing (of waves)"
+      },
+      {
+        "example": "鼕々",
+        "reading": "トウトウ",
+        "meaning": "beating (of drums), rushing (water), crashing (of waves)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鼓",
+      "meaning": "drum"
+    },
+    "parts": [
+      "ハ",
+      "丶",
+      "冫",
+      "十",
+      "又",
+      "口",
+      "士",
+      "夂",
+      "支",
+      "豆",
+      "鼓"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40725_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f15.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f15.gif",
+    "uri": "https://jisho.org/search/%E9%BC%95%23kanji"
+  }
+}

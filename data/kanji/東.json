@@ -1,1 +1,383 @@
-{"id":"東","kanjialiveData":{"kanji":{"character":"東","meaning":{"english":"east"},"strokes":{"count":8,"timings":[0,1.002,2.007,3.347,4.152,5.091,6.765,7.837],"images":["https://media.kanjialive.com/kanji_strokes/higashi_1.svg","https://media.kanjialive.com/kanji_strokes/higashi_2.svg","https://media.kanjialive.com/kanji_strokes/higashi_3.svg","https://media.kanjialive.com/kanji_strokes/higashi_4.svg","https://media.kanjialive.com/kanji_strokes/higashi_5.svg","https://media.kanjialive.com/kanji_strokes/higashi_6.svg","https://media.kanjialive.com/kanji_strokes/higashi_7.svg","https://media.kanjialive.com/kanji_strokes/higashi_8.svg"]},"onyomi":{"romaji":"tou","katakana":"トウ"},"kunyomi":{"romaji":"higashi","hiragana":"ひがし"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/higashi_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/higashi_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/higashi_00.webm"}},"radical":{"character":"⽊","strokes":4,"image":"https://media.kanjialive.com/radical_character/ki.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"き","romaji":"ki"},"meaning":{"english":"tree, wood"},"animation":["https://media.kanjialive.com/rad_frames/ki0.svg","https://media.kanjialive.com/rad_frames/ki1.svg","https://media.kanjialive.com/rad_frames/ki2.svg"]},"references":{"grade":2,"kodansha":"2221","classic_nelson":"213"},"examples":[{"japanese":"東京（とうきょう）","meaning":{"english":"Tokyo"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_a.mp3"}},{"japanese":"東部（とうぶ）","meaning":{"english":"eastern part"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_b.mp3"}},{"japanese":"東北（とうほく）","meaning":{"english":"Touhoku"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_c.mp3"}},{"japanese":"東洋（とうよう）","meaning":{"english":"East Asia"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_d.mp3"}},{"japanese":"東西南北（とうざいなんぼく）","meaning":{"english":"east, west, south and north"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_e.mp3"}},{"japanese":"関東（かんとう）","meaning":{"english":"Kantou"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_f.mp3"}},{"japanese":"中東（ちゅうとう）","meaning":{"english":"Middle East"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_g.mp3"}},{"japanese":"東（ひがし）","meaning":{"english":"east"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_h.mp3"}}]},"jishoData":{"query":"東","found":true,"taughtIn":"grade 2","jlptLevel":"N5","newspaperFrequencyRank":"37","strokeCount":8,"meaning":"east","kunyomi":["ひがし"],"onyomi":["トウ"],"onyomiExamples":[{"example":"東欧","reading":"トウオウ","meaning":"Eastern Europe"},{"example":"東亜","reading":"トウア","meaning":"East Asia, the Orient"},{"example":"北北東","reading":"ホクホクトウ","meaning":"north-northeast, north-north-east"},{"example":"東北東","reading":"トウホクトウ","meaning":"east-northeast, ENE"}],"kunyomiExamples":[{"example":"東","reading":"ひがし","meaning":"east"},{"example":"東方","reading":"とうほう","meaning":"eastern direction, the Orient, eastern fighter in a match (e.g. sumo wrestling)"},{"example":"犬が西向きゃ尾は東","reading":"いぬがにしむきゃおはひがし","meaning":"that goes without saying, water is wet, when a dog turns west, its tail turns east"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","日","木","田","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26481_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06771.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6771.gif","uri":"https://jisho.org/search/%E6%9D%B1%23kanji"}}
+{
+  "id": "東",
+  "kanjialiveData": {
+    "_id": "54317b08791eba5146ee4c24",
+    "_rev": "10-2154af8b1328f24e7edc80fab675107d",
+    "rad_name_ja": "き",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "higashi",
+    "meaning": "east",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "東京（とうきょう）",
+        "meaning": {
+          "english": "Tokyo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "東部（とうぶ）",
+        "meaning": {
+          "english": "eastern part"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "東北（とうほく）",
+        "meaning": {
+          "english": "Touhoku"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "東洋（とうよう）",
+        "meaning": {
+          "english": "East Asia"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "東西南北（とうざいなんぼく）",
+        "meaning": {
+          "english": "east, west, south and north"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "関東（かんとう）",
+        "meaning": {
+          "english": "Kantou"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "中東（ちゅうとう）",
+        "meaning": {
+          "english": "Middle East"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "東（ひがし）",
+        "meaning": {
+          "english": "east"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/higashi_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/higashi_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ひがし",
+    "ka_utf": "東",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=東",
+    "rad_name_search": [
+      "ki"
+    ],
+    "rad_order": 97,
+    "txt_books": [
+      {
+        "chapter": "12",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "12"
+      }
+    ],
+    "kname": "higashi",
+    "rad_utf": "⽊",
+    "stroketimes": [
+      0,
+      1.002,
+      2.007,
+      3.347,
+      4.152,
+      5.091,
+      6.765,
+      7.837
+    ],
+    "kunyomi_ka_display": "ひがし",
+    "dick": "2221",
+    "rad_name": "ki",
+    "dicn": "213",
+    "mn_hint": "Sun 日 rising behind the trees 木 from the east.",
+    "rad_stroke": 4,
+    "onyomi_ja": "トウ",
+    "rad_meaning": "tree, wood",
+    "onyomi": "tou",
+    "ka_id": "ka_82",
+    "onyomi_search": [
+      "tou",
+      "tou"
+    ],
+    "kunyomi_search": [
+      "higashi",
+      "higashi"
+    ],
+    "meaning_search": [
+      "east",
+      "east"
+    ],
+    "onyomi_ja_search": [
+      "トウ",
+      "トウ"
+    ],
+    "kunyomi_ja_search": [
+      "ひがし",
+      "ひがし"
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_name_ja_search": [
+      "き"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:12",
+      "cij:c12",
+      "bk",
+      "bk:18",
+      "bk:c18",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v3",
+      "aij3:v3:7",
+      "aij3:v3:c7",
+      "gen",
+      "gen:6",
+      "gen:c6",
+      "ap",
+      "ap:15",
+      "ap:c15",
+      "kll",
+      "kll:3",
+      "kll:c3",
+      "cijr",
+      "cijr:12",
+      "cijr:c12"
+    ],
+    "rad_name_file": "ki",
+    "kanji": {
+      "character": "東",
+      "meaning": {
+        "english": "east"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.002,
+          2.007,
+          3.347,
+          4.152,
+          5.091,
+          6.765,
+          7.837
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/higashi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/higashi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/higashi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/higashi_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/higashi_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/higashi_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/higashi_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/higashi_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "tou",
+        "katakana": "トウ"
+      },
+      "kunyomi": {
+        "romaji": "higashi",
+        "hiragana": "ひがし"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/higashi_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/higashi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/higashi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽊",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/ki.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "き",
+        "romaji": "ki"
+      },
+      "meaning": {
+        "english": "tree, wood"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ki0.svg",
+        "https://media.kanjialive.com/rad_frames/ki1.svg",
+        "https://media.kanjialive.com/rad_frames/ki2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "2221",
+      "classic_nelson": "213"
+    }
+  },
+  "jishoData": {
+    "query": "東",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "37",
+    "strokeCount": 8,
+    "meaning": "east",
+    "kunyomi": [
+      "ひがし"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "東欧",
+        "reading": "トウオウ",
+        "meaning": "Eastern Europe"
+      },
+      {
+        "example": "東亜",
+        "reading": "トウア",
+        "meaning": "East Asia, the Orient"
+      },
+      {
+        "example": "北北東",
+        "reading": "ホクホクトウ",
+        "meaning": "north-northeast, north-north-east"
+      },
+      {
+        "example": "東北東",
+        "reading": "トウホクトウ",
+        "meaning": "east-northeast, ENE"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "東",
+        "reading": "ひがし",
+        "meaning": "east"
+      },
+      {
+        "example": "東方",
+        "reading": "とうほう",
+        "meaning": "eastern direction, the Orient, eastern fighter in a match (e.g. sumo wrestling)"
+      },
+      {
+        "example": "犬が西向きゃ尾は東",
+        "reading": "いぬがにしむきゃおはひがし",
+        "meaning": "that goes without saying, water is wet, when a dog turns west, its tail turns east"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "日",
+      "木",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26481_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06771.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6771.gif",
+    "uri": "https://jisho.org/search/%E6%9D%B1%23kanji"
+  }
+}

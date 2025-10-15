@@ -1,1 +1,65 @@
-{"id":"菫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"菫","found":true,"jlptLevel":"N1","strokeCount":11,"meaning":"the violet","kunyomi":["すみれ"],"onyomi":["キン"],"onyomiExamples":[{"example":"菫青石","reading":"キンセイセキ","meaning":"cordierite"}],"kunyomiExamples":[{"example":"菫","reading":"すみれ","meaning":"violet (any flower of genus Viola, esp. the Fuji dawn, Viola mandshurica)"},{"example":"すみれ色","reading":"すみれいろ","meaning":"violet (colour)"},{"example":"匂菫","reading":"においすみれ","meaning":"sweet violet (Viola odorata)"},{"example":"アフリカ菫","reading":"アフリカすみれ","meaning":"African violet"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","二","口","土","艾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33771_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083eb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83eb.gif","uri":"https://jisho.org/search/%E8%8F%AB%23kanji"}}
+{
+  "id": "菫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "菫",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 11,
+    "meaning": "the violet",
+    "kunyomi": [
+      "すみれ"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "菫青石",
+        "reading": "キンセイセキ",
+        "meaning": "cordierite"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "菫",
+        "reading": "すみれ",
+        "meaning": "violet (any flower of genus Viola, esp. the Fuji dawn, Viola mandshurica)"
+      },
+      {
+        "example": "すみれ色",
+        "reading": "すみれいろ",
+        "meaning": "violet (colour)"
+      },
+      {
+        "example": "匂菫",
+        "reading": "においすみれ",
+        "meaning": "sweet violet (Viola odorata)"
+      },
+      {
+        "example": "アフリカ菫",
+        "reading": "アフリカすみれ",
+        "meaning": "African violet"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "二",
+      "口",
+      "土",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33771_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083eb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83eb.gif",
+    "uri": "https://jisho.org/search/%E8%8F%AB%23kanji"
+  }
+}

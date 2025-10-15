@@ -1,1 +1,79 @@
-{"id":"弄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"弄","found":true,"taughtIn":"junior high","strokeCount":7,"meaning":"play with, tamper, trifle with","kunyomi":["いじく.る","ろう.する","いじ.る","ひねく.る","たわむ.れる","もてあそ.ぶ"],"onyomi":["ロウ","ル"],"onyomiExamples":[{"example":"弄火","reading":"ロウカ","meaning":"playing with fire"},{"example":"弄花","reading":"ロウカ","meaning":"gambling with hanafuda"},{"example":"嘲弄","reading":"チョウロウ","meaning":"scorn, mockery, ridicule"},{"example":"戯弄","reading":"ギロウ","meaning":"teasing, toying with someone's emotions"}],"kunyomiExamples":[{"example":"弄くる","reading":"いじくる","meaning":"to finger, to tamper (with)"},{"example":"弄する","reading":"ろうする","meaning":"to play with, to joke, to use (esp. trick, sophistry, etc.), to deride, to scoff at, to make fun of"},{"example":"弄る","reading":"いじる","meaning":"to finger, to touch, to play with, to fiddle with, to toy with, to make changes to, to tinker with, to tamper with, to dabble in, to do as a hobby, to play around with, to grope, to feel around (in one's pocket, bag, etc.)"},{"example":"弄ぶ","reading":"もてあそぶ","meaning":"to play with (a toy, one's hair, etc.), to fiddle with, to toy with (one's emotions, etc.), to trifle with, to do with something as one pleases, to appreciate"}],"radical":{"symbol":"廾","meaning":"two hands, twenty"},"parts":["廾","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24324_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f04.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f04.gif","uri":"https://jisho.org/search/%E5%BC%84%23kanji"}}
+{
+  "id": "弄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弄",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 7,
+    "meaning": "play with, tamper, trifle with",
+    "kunyomi": [
+      "いじく.る",
+      "ろう.する",
+      "いじ.る",
+      "ひねく.る",
+      "たわむ.れる",
+      "もてあそ.ぶ"
+    ],
+    "onyomi": [
+      "ロウ",
+      "ル"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弄火",
+        "reading": "ロウカ",
+        "meaning": "playing with fire"
+      },
+      {
+        "example": "弄花",
+        "reading": "ロウカ",
+        "meaning": "gambling with hanafuda"
+      },
+      {
+        "example": "嘲弄",
+        "reading": "チョウロウ",
+        "meaning": "scorn, mockery, ridicule"
+      },
+      {
+        "example": "戯弄",
+        "reading": "ギロウ",
+        "meaning": "teasing, toying with someone's emotions"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弄くる",
+        "reading": "いじくる",
+        "meaning": "to finger, to tamper (with)"
+      },
+      {
+        "example": "弄する",
+        "reading": "ろうする",
+        "meaning": "to play with, to joke, to use (esp. trick, sophistry, etc.), to deride, to scoff at, to make fun of"
+      },
+      {
+        "example": "弄る",
+        "reading": "いじる",
+        "meaning": "to finger, to touch, to play with, to fiddle with, to toy with, to make changes to, to tinker with, to tamper with, to dabble in, to do as a hobby, to play around with, to tease, to make fun of, to grope, to feel around (in one's pocket, bag, etc.)"
+      },
+      {
+        "example": "弄ぶ",
+        "reading": "もてあそぶ",
+        "meaning": "to play with (a toy, one's hair, etc.), to fiddle with, to toy with (one's emotions, etc.), to trifle with, to do with something as one pleases, to appreciate"
+      }
+    ],
+    "radical": {
+      "symbol": "廾",
+      "meaning": "two hands, twenty"
+    },
+    "parts": [
+      "廾",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24324_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f04.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f04.gif",
+    "uri": "https://jisho.org/search/%E5%BC%84%23kanji"
+  }
+}

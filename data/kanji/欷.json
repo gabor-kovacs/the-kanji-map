@@ -1,1 +1,43 @@
-{"id":"欷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"欷","found":true,"strokeCount":11,"meaning":"cry","kunyomi":["なげく"],"onyomi":["キ"],"onyomiExamples":[{"example":"欷歔","reading":"キキョ","meaning":"sobbing, weeping"},{"example":"歔欷","reading":"キョキ","meaning":"sobbing, weeping"}],"kunyomiExamples":[],"radical":{"symbol":"欠","meaning":"lack, yawn"},"parts":["ノ","一","巾","欠"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27447_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b37.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b37.gif","uri":"https://jisho.org/search/%E6%AC%B7%23kanji"}}
+{
+  "id": "欷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "欷",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "cry",
+    "kunyomi": [
+      "なげく"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "欷歔",
+        "reading": "キキョ",
+        "meaning": "sobbing, weeping"
+      },
+      {
+        "example": "歔欷",
+        "reading": "キョキ",
+        "meaning": "sobbing, weeping"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "欠",
+      "meaning": "lack, yawn"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "巾",
+      "欠"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27447_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b37.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b37.gif",
+    "uri": "https://jisho.org/search/%E6%AC%B7%23kanji"
+  }
+}

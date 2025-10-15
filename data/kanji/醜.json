@@ -1,1 +1,80 @@
-{"id":"醜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"醜","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2074","strokeCount":17,"meaning":"ugly, unclean, shame, bad looking","kunyomi":["みにく.い","しこ"],"onyomi":["シュウ"],"onyomiExamples":[{"example":"醜","reading":"シュウ","meaning":"ugliness, shame, disgrace"},{"example":"醜女","reading":"シュウジョ","meaning":"homely woman, plain-looking woman, female demon"},{"example":"老醜","reading":"ロウシュウ","meaning":"ugliness of old age"},{"example":"美醜","reading":"ビシュウ","meaning":"beauty or ugliness, personal appearance, looks"}],"kunyomiExamples":[{"example":"醜い","reading":"みにくい","meaning":"ugly, unattractive, bad-looking, unsightly, unseemly, disgraceful, shameful, dishonorable"},{"example":"醜いアヒルの子","reading":"みにくいアヒルのこ","meaning":"ugly duckling"},{"example":"醜","reading":"しこ","meaning":"ugly, repulsive, detestable, contemptible, unworthy, insignificant, humble, strong and frightening thing"},{"example":"醜女","reading":"しゅうじょ","meaning":"homely woman, plain-looking woman, female demon"}],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["儿","匕","厶","田","酉","鬼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37276_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0919c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/919c.gif","uri":"https://jisho.org/search/%E9%86%9C%23kanji"}}
+{
+  "id": "醜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醜",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2074",
+    "strokeCount": 17,
+    "meaning": "ugly, unclean, shame, bad looking",
+    "kunyomi": [
+      "みにく.い",
+      "しこ"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醜",
+        "reading": "シュウ",
+        "meaning": "ugliness, shame, disgrace"
+      },
+      {
+        "example": "醜女",
+        "reading": "シュウジョ",
+        "meaning": "ugly woman, unattractive woman, female demon"
+      },
+      {
+        "example": "老醜",
+        "reading": "ロウシュウ",
+        "meaning": "ugliness of old age"
+      },
+      {
+        "example": "美醜",
+        "reading": "ビシュウ",
+        "meaning": "beauty or ugliness, personal appearance, looks"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "醜い",
+        "reading": "みにくい",
+        "meaning": "ugly, unattractive, bad-looking, unsightly, unseemly, disgraceful, shameful, dishonorable"
+      },
+      {
+        "example": "みにくいアヒルの子",
+        "reading": "みにくいあひるのこ",
+        "meaning": "ugly duckling"
+      },
+      {
+        "example": "醜",
+        "reading": "しこ",
+        "meaning": "ugly, repulsive, detestable, contemptible, unworthy, insignificant, humble, strong and frightening thing"
+      },
+      {
+        "example": "醜女",
+        "reading": "しゅうじょ",
+        "meaning": "ugly woman, unattractive woman, female demon"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "田",
+      "酉",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37276_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0919c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/919c.gif",
+    "uri": "https://jisho.org/search/%E9%86%9C%23kanji"
+  }
+}

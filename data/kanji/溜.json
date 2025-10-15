@@ -1,1 +1,109 @@
-{"id":"溜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"溜","found":true,"newspaperFrequencyRank":"2451","strokeCount":13,"meaning":"collect, gather, be in arrears","kunyomi":["た.まる","たま.る","た.める","したた.る","たまり","ため"],"onyomi":["リュウ"],"onyomiExamples":[{"example":"溜飲","reading":"リュウイン","meaning":"acid reflux, bile reflux, pyrosis, stomach acid (when it enters the esophagus), heartburn, indigestion, water brash, gloating, gratification, satisfaction"},{"example":"溜飲が下がる","reading":"リュウインガサガル","meaning":"to feel relieved, to feel satisfied"},{"example":"溝溜","reading":"コウリュウ","meaning":"drain and pool for collecting sewage, etc."},{"example":"貯留","reading":"チョリュウ","meaning":"accumulation, retention, collection, sequestration (as in carbon dioxide sequestration), storage (usually a liquid, e.g. rainwater, or behind a dam.)"}],"kunyomiExamples":[{"example":"溜まる","reading":"たまる","meaning":"to collect, to gather, to save, to accumulate, to pile up"},{"example":"溜まる","reading":"たまる","meaning":"to collect, to gather, to save, to accumulate, to pile up"},{"example":"溜める","reading":"ためる","meaning":"to amass, to accumulate, to store, to leave unpaid"},{"example":"溜まり","reading":"たまり","meaning":"pile, pool, collection, gathering spot, waiting place for a wrestler beside the ring, liquid runoff from miso preparation, tamari, variety of rich soy sauce (used for sashimi, etc.)"},{"example":"溜まり醤油","reading":"たまりじょうゆ","meaning":"tamari soy sauce, variety of rich soy sauce (used for sashimi, etc.)"},{"example":"溜め","reading":"ため","meaning":"cesspool, sink, manure sink"},{"example":"ため息","reading":"ためいき","meaning":"sigh"},{"example":"ゴミ溜め","reading":"ゴミため","meaning":"garbage dump, scrap heap, rubbish dump, dump, dumpsite"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["刀","厶","汁","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28316_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e9c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e9c.gif","uri":"https://jisho.org/search/%E6%BA%9C%23kanji"}}
+{
+  "id": "溜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溜",
+    "found": true,
+    "newspaperFrequencyRank": "2451",
+    "strokeCount": 13,
+    "meaning": "collect, gather, be in arrears",
+    "kunyomi": [
+      "た.まる",
+      "たま.る",
+      "た.める",
+      "したた.る",
+      "たまり",
+      "ため"
+    ],
+    "onyomi": [
+      "リュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "溜飲",
+        "reading": "リュウイン",
+        "meaning": "acid reflux, bile reflux, pyrosis, stomach acid (when it enters the esophagus), heartburn, indigestion, water brash, gloating, gratification, satisfaction"
+      },
+      {
+        "example": "溜飲が下がる",
+        "reading": "リュウインガサガル",
+        "meaning": "to feel relieved, to feel satisfied"
+      },
+      {
+        "example": "溝溜",
+        "reading": "コウリュウ",
+        "meaning": "drain and pool for collecting sewage, etc."
+      },
+      {
+        "example": "貯留",
+        "reading": "チョリュウ",
+        "meaning": "accumulation (e.g. of water), retention, storage, collection, sequestration (e.g. of carbon dioxide)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "溜まる",
+        "reading": "たまる",
+        "meaning": "to collect, to gather, to save, to accumulate, to pile up"
+      },
+      {
+        "example": "溜まる",
+        "reading": "たまる",
+        "meaning": "to collect, to gather, to save, to accumulate, to pile up"
+      },
+      {
+        "example": "溜める",
+        "reading": "ためる",
+        "meaning": "to amass, to accumulate, to store, to leave unpaid"
+      },
+      {
+        "example": "溜まり",
+        "reading": "たまり",
+        "meaning": "pile, pool, collection, gathering spot, waiting place for a wrestler beside the ring, liquid runoff from miso preparation, tamari, variety of rich soy sauce (used for sashimi, etc.)"
+      },
+      {
+        "example": "たまり醤油",
+        "reading": "たまりじょうゆ",
+        "meaning": "tamari soy sauce, variety of rich soy sauce (used for sashimi, etc.)"
+      },
+      {
+        "example": "船だまり",
+        "reading": "ふなだまり",
+        "meaning": "moorage (esp. for small boats), anchorage"
+      },
+      {
+        "example": "溜め",
+        "reading": "ため",
+        "meaning": "cesspool, sink, manure sink"
+      },
+      {
+        "example": "ため息",
+        "reading": "ためいき",
+        "meaning": "sigh"
+      },
+      {
+        "example": "ゴミ溜め",
+        "reading": "ゴミため",
+        "meaning": "garbage dump, scrap heap, rubbish dump, dump, dumpsite"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "刀",
+      "厶",
+      "汁",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28316_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e9c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e9c.gif",
+    "uri": "https://jisho.org/search/%E6%BA%9C%23kanji"
+  }
+}

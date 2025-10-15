@@ -1,1 +1,60 @@
-{"id":"坤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"坤","found":true,"strokeCount":8,"meaning":"divination sign, land, earth","kunyomi":["つち","ひつじさる"],"onyomi":["コン"],"onyomiExamples":[{"example":"坤","reading":"コン","meaning":"kun (one of the trigrams of the I Ching: earth, southwest)"},{"example":"乾坤","reading":"ケンコン","meaning":"heaven and earth, universe"},{"example":"別乾坤","reading":"ベッケンコン","meaning":"otherworld, another world"}],"kunyomiExamples":[{"example":"未申","reading":"ひつじさる","meaning":"southwest"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","日","田","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22372_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05764.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5764.gif","uri":"https://jisho.org/search/%E5%9D%A4%23kanji"}}
+{
+  "id": "坤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "坤",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "divination sign, land, earth",
+    "kunyomi": [
+      "つち",
+      "ひつじさる"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "坤",
+        "reading": "コン",
+        "meaning": "kun (one of the trigrams of the I Ching: earth, southwest)"
+      },
+      {
+        "example": "坤道",
+        "reading": "コンドウ",
+        "meaning": "the ways of the earth, the principle of the earth, the ways of women, the path women should follow"
+      },
+      {
+        "example": "乾坤",
+        "reading": "ケンコン",
+        "meaning": "heaven and earth, universe"
+      },
+      {
+        "example": "別乾坤",
+        "reading": "ベッケンコン",
+        "meaning": "otherworld, another world"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "未申",
+        "reading": "ひつじさる",
+        "meaning": "southwest"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "日",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22372_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05764.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5764.gif",
+    "uri": "https://jisho.org/search/%E5%9D%A4%23kanji"
+  }
+}

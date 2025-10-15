@@ -1,1 +1,392 @@
-{"id":"命","kanjialiveData":{"kanji":{"character":"命","meaning":{"english":"order, life"},"strokes":{"count":8,"timings":[0,1.466667,3.2,4.066667,5.4,7,8,10.4,13.733333],"images":["https://media.kanjialive.com/kanji_strokes/inochi_1.svg","https://media.kanjialive.com/kanji_strokes/inochi_2.svg","https://media.kanjialive.com/kanji_strokes/inochi_3.svg","https://media.kanjialive.com/kanji_strokes/inochi_4.svg","https://media.kanjialive.com/kanji_strokes/inochi_5.svg","https://media.kanjialive.com/kanji_strokes/inochi_6.svg","https://media.kanjialive.com/kanji_strokes/inochi_7.svg","https://media.kanjialive.com/kanji_strokes/inochi_8.svg"]},"onyomi":{"romaji":"mei, myou","katakana":"メイ、ミョウ"},"kunyomi":{"romaji":"inochi","hiragana":"いのち"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/inochi_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/inochi_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/inochi_00.webm"}},"radical":{"character":"⼝","strokes":3,"image":"https://media.kanjialive.com/radical_character/kuchi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"くち","romaji":"kuchi"},"meaning":{"english":"mouth"},"animation":["https://media.kanjialive.com/rad_frames/kuchi0.svg","https://media.kanjialive.com/rad_frames/kuchi1.svg","https://media.kanjialive.com/rad_frames/kuchi2.svg"]},"references":{"grade":3,"kodansha":"1303","classic_nelson":"430"},"examples":[{"japanese":"使命（しめい）","meaning":{"english":"mission"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_a.mp3"}},{"japanese":"運命（うんめい）","meaning":{"english":"fate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_b.mp3"}},{"japanese":"生命（せいめい）","meaning":{"english":"life"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_c.mp3"}},{"japanese":"革命（かくめい）","meaning":{"english":"revolution"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_d.mp3"}},{"japanese":"任命する（にんめいする）","meaning":{"english":"appoint"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_e.mp3"}},{"japanese":"命令する（めいれいする）","meaning":{"english":"order, command [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_f.mp3"}},{"japanese":"命中する（めいちゅうする）","meaning":{"english":"hit a target"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_g.mp3"}},{"japanese":"命じる（めいじる）","meaning":{"english":"order, command [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_h.mp3"}},{"japanese":"寿命（じゅみょう）","meaning":{"english":"life expectancy"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_i.mp3"}},{"japanese":"命（いのち）","meaning":{"english":"life"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_j.mp3"}}]},"jishoData":{"query":"命","found":true,"taughtIn":"grade 3","jlptLevel":"N3","newspaperFrequencyRank":"465","strokeCount":8,"meaning":"fate, command, decree, destiny, life, appoint","kunyomi":["いのち"],"onyomi":["メイ","ミョウ"],"onyomiExamples":[{"example":"命","reading":"メイ","meaning":"order, command, decree, life, destiny, fate"},{"example":"命運","reading":"メイウン","meaning":"fate, destiny"},{"example":"延命","reading":"エンメイ","meaning":"keeping alive longer, prolonging life, life extension, life-support"},{"example":"十月革命","reading":"ジュウガツカクメイ","meaning":"October Revolution"},{"example":"命婦","reading":"ミョウブ","meaning":"title for high-ranking court ladies"},{"example":"延命","reading":"エンメイ","meaning":"keeping alive longer, prolonging life, life extension, life-support"},{"example":"安心立命","reading":"アンシンリツメイ","meaning":"spiritual peace and enlightenment, keeping an unperturbed mind through faith"}],"kunyomiExamples":[{"example":"命","reading":"いのち","meaning":"life, life force, lifetime, lifespan, most important thing, foundation, core, paired tattoos of the \"life\" kanji on the upper arms of a man and woman (indicating unwavering love), fate, destiny, karma"},{"example":"命からがら","reading":"いのちからがら","meaning":"for dear life, barely escaping alive"},{"example":"貴い命","reading":"たっといいのち","meaning":"precious life"},{"example":"露の命","reading":"つゆのいのち","meaning":"life as evanescent as the dew"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["一","个","卩","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21629_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0547d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/547d.gif","uri":"https://jisho.org/search/%E5%91%BD%23kanji"}}
+{
+  "id": "命",
+  "kanjialiveData": {
+    "_id": "54317af7791eba5146ee4ae5",
+    "_rev": "12-d8fc3064dbf9cb2c57a47076643e1c02",
+    "rad_name_ja": "くち",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "inochi",
+    "meaning": "order, life",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "使命（しめい）",
+        "meaning": {
+          "english": "mission"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "運命（うんめい）",
+        "meaning": {
+          "english": "fate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "生命（せいめい）",
+        "meaning": {
+          "english": "life"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "革命（かくめい）",
+        "meaning": {
+          "english": "revolution"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "任命する（にんめいする）",
+        "meaning": {
+          "english": "appoint"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "命令する（めいれいする）",
+        "meaning": {
+          "english": "order, command [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "命中する（めいちゅうする）",
+        "meaning": {
+          "english": "hit a target"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "命じる（めいじる）",
+        "meaning": {
+          "english": "order, command [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "寿命（じゅみょう）",
+        "meaning": {
+          "english": "life expectancy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "命（いのち）",
+        "meaning": {
+          "english": "life"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inochi_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inochi_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inochi_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inochi_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いのち",
+    "ka_utf": "命",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=命",
+    "kname": "inochi",
+    "rad_order": 34,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "13"
+      }
+    ],
+    "rad_name_search": [
+      "kuchi"
+    ],
+    "rad_utf": "⼝",
+    "stroketimes": [
+      0,
+      1.466667,
+      3.2,
+      4.066667,
+      5.4,
+      7,
+      8,
+      10.4,
+      13.733333
+    ],
+    "kunyomi_ka_display": "いのち",
+    "dick": "1303",
+    "rad_name": "kuchi",
+    "dicn": "430",
+    "mn_hint": "Mouth 口 issuing orders 令, ruling over life and death.",
+    "rad_stroke": 3,
+    "onyomi_ja": "メイ、ミョウ",
+    "rad_meaning": "mouth",
+    "onyomi": "mei, myou",
+    "ka_id": "ka_532",
+    "onyomi_search": [
+      "mei",
+      "myou",
+      "mei, myou"
+    ],
+    "kunyomi_search": [
+      "inochi",
+      "inochi"
+    ],
+    "meaning_search": [
+      "order",
+      "life",
+      "order, life"
+    ],
+    "onyomi_ja_search": [
+      "メイ",
+      "ミョウ",
+      "メイ、ミョウ"
+    ],
+    "kunyomi_ja_search": [
+      "いのち",
+      "いのち"
+    ],
+    "rad_meaning_search": [
+      "mouth",
+      "mouth"
+    ],
+    "rad_name_ja_search": [
+      "くち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:8",
+      "ij:c8",
+      "jt",
+      "jt:7",
+      "jt:c7",
+      "mosr",
+      "mosr:13",
+      "mosr:c13"
+    ],
+    "rad_name_file": "kuchi",
+    "kanji": {
+      "character": "命",
+      "meaning": {
+        "english": "order, life"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.466667,
+          3.2,
+          4.066667,
+          5.4,
+          7,
+          8,
+          10.4,
+          13.733333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/inochi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/inochi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/inochi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/inochi_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/inochi_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/inochi_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/inochi_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/inochi_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "mei, myou",
+        "katakana": "メイ、ミョウ"
+      },
+      "kunyomi": {
+        "romaji": "inochi",
+        "hiragana": "いのち"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/inochi_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/inochi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/inochi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼝",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kuchi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "くち",
+        "romaji": "kuchi"
+      },
+      "meaning": {
+        "english": "mouth"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kuchi0.svg",
+        "https://media.kanjialive.com/rad_frames/kuchi1.svg",
+        "https://media.kanjialive.com/rad_frames/kuchi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "1303",
+      "classic_nelson": "430"
+    }
+  },
+  "jishoData": {
+    "query": "命",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "465",
+    "strokeCount": 8,
+    "meaning": "fate, command, decree, destiny, life, appoint",
+    "kunyomi": [
+      "いのち"
+    ],
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "命",
+        "reading": "メイ",
+        "meaning": "order, command, decree, life, destiny, fate"
+      },
+      {
+        "example": "命運",
+        "reading": "メイウン",
+        "meaning": "fate, destiny"
+      },
+      {
+        "example": "延命",
+        "reading": "エンメイ",
+        "meaning": "keeping alive longer, prolonging life, life extension, life-support"
+      },
+      {
+        "example": "十月革命",
+        "reading": "ジュウガツカクメイ",
+        "meaning": "October Revolution"
+      },
+      {
+        "example": "命婦",
+        "reading": "ミョウブ",
+        "meaning": "title for high-ranking court ladies"
+      },
+      {
+        "example": "延命",
+        "reading": "エンメイ",
+        "meaning": "keeping alive longer, prolonging life, life extension, life-support"
+      },
+      {
+        "example": "安心立命",
+        "reading": "アンシンリツメイ",
+        "meaning": "spiritual peace and enlightenment, keeping an unperturbed mind through faith"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "命",
+        "reading": "いのち",
+        "meaning": "life, life force, lifetime, lifespan, most important thing, foundation, core, paired tattoos of the \"life\" kanji on the upper arms of a man and woman (indicating unwavering love), fate, destiny, karma"
+      },
+      {
+        "example": "命からがら",
+        "reading": "いのちからがら",
+        "meaning": "for dear life, barely escaping alive"
+      },
+      {
+        "example": "貴い命",
+        "reading": "たっといいのち",
+        "meaning": "precious life"
+      },
+      {
+        "example": "露の命",
+        "reading": "つゆのいのち",
+        "meaning": "life as evanescent as the dew"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "一",
+      "个",
+      "卩",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21629_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0547d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/547d.gif",
+    "uri": "https://jisho.org/search/%E5%91%BD%23kanji"
+  }
+}

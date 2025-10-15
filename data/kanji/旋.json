@@ -1,1 +1,56 @@
-{"id":"旋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"旋","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1801","strokeCount":11,"meaning":"rotation, go around","kunyomi":["め.ぐる","いばり"],"onyomi":["セン"],"onyomiExamples":[{"example":"旋律","reading":"センリツ","meaning":"melody, tune"},{"example":"旋風","reading":"センプウ","meaning":"whirlwind, sensation, commotion, hullabaloo"},{"example":"螺旋","reading":"ラセン","meaning":"spiral, helix, screw"},{"example":"回旋","reading":"カイセン","meaning":"rotation, revolution, convolution"}],"kunyomiExamples":[],"radical":{"symbol":"方","meaning":"square"},"parts":["乞","方","疋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26059_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065cb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65cb.gif","uri":"https://jisho.org/search/%E6%97%8B%23kanji"}}
+{
+  "id": "旋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "旋",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1801",
+    "strokeCount": 11,
+    "meaning": "rotation, go around",
+    "kunyomi": [
+      "め.ぐる",
+      "いばり"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "旋律",
+        "reading": "センリツ",
+        "meaning": "melody, tune"
+      },
+      {
+        "example": "旋風",
+        "reading": "センプウ",
+        "meaning": "whirlwind, sensation, commotion, hullabaloo"
+      },
+      {
+        "example": "螺旋",
+        "reading": "ラセン",
+        "meaning": "spiral, helix, screw"
+      },
+      {
+        "example": "回旋",
+        "reading": "カイセン",
+        "meaning": "rotation, revolution, convolution"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "方",
+      "meaning": "square"
+    },
+    "parts": [
+      "乞",
+      "方",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26059_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065cb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65cb.gif",
+    "uri": "https://jisho.org/search/%E6%97%8B%23kanji"
+  }
+}

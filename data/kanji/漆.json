@@ -1,1 +1,81 @@
-{"id":"漆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"漆","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1971","strokeCount":14,"meaning":"lacquer, varnish, seven","kunyomi":["うるし"],"onyomi":["シツ"],"onyomiExamples":[{"example":"漆芸","reading":"シツゲイ","meaning":"(Japanese) lacquer art"},{"example":"膠漆","reading":"コウシツ","meaning":"glue and lacquer, great intimacy"},{"example":"仮漆","reading":"カシツ","meaning":"varnish"}],"kunyomiExamples":[{"example":"漆","reading":"うるし","meaning":"East-Asian lacquer, japan, Chinese lacquer tree (Toxicodendron vernicifluum, formerly Rhus verniciflua)"},{"example":"漆塗り","reading":"うるしぬり","meaning":"lacquering, lacquer ware"},{"example":"生漆","reading":"きうるし","meaning":"unrefined sap of the lacquer tree"},{"example":"透漆","reading":"すきうるし","meaning":"clear lacquer"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["个","木","水","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28422_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f06.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f06.gif","uri":"https://jisho.org/search/%E6%BC%86%23kanji"}}
+{
+  "id": "漆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漆",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1971",
+    "strokeCount": 14,
+    "meaning": "lacquer, varnish, seven",
+    "kunyomi": [
+      "うるし"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "漆芸",
+        "reading": "シツゲイ",
+        "meaning": "(Japanese) lacquer art"
+      },
+      {
+        "example": "漆樹",
+        "reading": "シツジュ",
+        "meaning": "Chinese lacquer tree (Toxicodendron vernicifluum)"
+      },
+      {
+        "example": "膠漆",
+        "reading": "コウシツ",
+        "meaning": "glue and lacquer, great intimacy"
+      },
+      {
+        "example": "仮漆",
+        "reading": "カシツ",
+        "meaning": "varnish"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漆",
+        "reading": "うるし",
+        "meaning": "East Asian lacquer, japan, Chinese lacquer tree (Toxicodendron vernicifluum, formerly Rhus verniciflua)"
+      },
+      {
+        "example": "漆樹",
+        "reading": "しつじゅ",
+        "meaning": "Chinese lacquer tree (Toxicodendron vernicifluum)"
+      },
+      {
+        "example": "生漆",
+        "reading": "きうるし",
+        "meaning": "unrefined sap of the lacquer tree"
+      },
+      {
+        "example": "透漆",
+        "reading": "すきうるし",
+        "meaning": "clear lacquer"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "个",
+      "木",
+      "水",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28422_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f06.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f06.gif",
+    "uri": "https://jisho.org/search/%E6%BC%86%23kanji"
+  }
+}

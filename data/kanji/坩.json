@@ -1,1 +1,36 @@
-{"id":"坩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"坩","found":true,"strokeCount":8,"meaning":"jar, pot","kunyomi":["つぼ"],"onyomi":["カン"],"onyomiExamples":[{"example":"坩堝","reading":"ルツボ","meaning":"crucible, melting pot, melting pot (of cultures, ideas, etc.), state of ecstasy, state of fevered excitement"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","甘"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22377_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05769.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5769.gif","uri":"https://jisho.org/search/%E5%9D%A9%23kanji"}}
+{
+  "id": "坩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "坩",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "jar, pot",
+    "kunyomi": [
+      "つぼ"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "坩堝",
+        "reading": "ルツボ",
+        "meaning": "crucible, melting pot, melting pot (of cultures, ideas, etc.), state of ecstasy, state of fevered excitement"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22377_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05769.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5769.gif",
+    "uri": "https://jisho.org/search/%E5%9D%A9%23kanji"
+  }
+}

@@ -1,1 +1,45 @@
-{"id":"迯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"迯","found":true,"strokeCount":9,"meaning":"escape, flee, abscond, dodge","kunyomi":["に.げる","に.がす","のが.す","のが.れる"],"onyomi":["トウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"逃げる","reading":"にげる","meaning":"to escape, to run away"},{"example":"逃がす","reading":"にがす","meaning":"to set free, to let go, to release, to miss (e.g. a chance), to lose, to let get away, to fail to catch"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["卜","夕","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36847_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fef.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fef.gif","uri":"https://jisho.org/search/%E8%BF%AF%23kanji"}}
+{
+  "id": "迯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "迯",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "escape, flee, abscond, dodge",
+    "kunyomi": [
+      "に.げる",
+      "に.がす",
+      "のが.す",
+      "のが.れる"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "逃げる",
+        "reading": "にげる",
+        "meaning": "to run away, to flee, to get away (e.g. from danger), to escape, to break out, to leave (e.g. one's spouse), to avoid (a question, responsibility, etc.), to evade, to dodge, to shirk, to back away, to win without being overtaken, to hold off the other contenders (until the finish), to keep the lead (and win), to escape (of heat, a gas, etc.), to leak out (e.g. of a scent), to be lost (e.g. of flavor), to fail to hold an ideal posture"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "卜",
+      "夕",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36847_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fef.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fef.gif",
+    "uri": "https://jisho.org/search/%E8%BF%AF%23kanji"
+  }
+}

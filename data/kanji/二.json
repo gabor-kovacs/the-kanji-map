@@ -1,1 +1,380 @@
-{"id":"二","kanjialiveData":{"kanji":{"character":"二","meaning":{"english":"two"},"strokes":{"count":2,"timings":[0.94,1.733,2.933333],"images":["https://media.kanjialive.com/kanji_strokes/2_1.svg","https://media.kanjialive.com/kanji_strokes/2_2.svg"]},"onyomi":{"romaji":"ni","katakana":"ニ"},"kunyomi":{"romaji":"futa, futatsu, futari","hiragana":"ふた"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/2_2.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/2_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/2_00.webm"}},"radical":{"character":"⼆","strokes":2,"image":"https://media.kanjialive.com/radical_character/ni.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"に","romaji":"ni"},"meaning":{"english":"two"},"animation":["https://media.kanjialive.com/rad_frames/ni0.svg","https://media.kanjialive.com/rad_frames/ni1.svg","https://media.kanjialive.com/rad_frames/ni2.svg"]},"references":{"grade":1,"kodansha":"1224","classic_nelson":"273"},"examples":[{"japanese":"二時間（にじかん）","meaning":{"english":"two hours"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/2_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/2_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/2_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/2_06_a.mp3"}},{"japanese":"二月（にがつ）","meaning":{"english":"February"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/2_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/2_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/2_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/2_06_b.mp3"}},{"japanese":"二枚目（にまいめ）","meaning":{"english":"second (flat object)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/2_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/2_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/2_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/2_06_c.mp3"}},{"japanese":"二つ（ふたつ）","meaning":{"english":"two (pieces)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/2_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/2_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/2_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/2_06_d.mp3"}},{"japanese":"二人（ふたり）","meaning":{"english":"two people"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/2_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/2_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/2_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/2_06_e.mp3"}}]},"jishoData":{"query":"二","found":true,"taughtIn":"grade 1","jlptLevel":"N5","newspaperFrequencyRank":"9","strokeCount":2,"meaning":"two, two radical (no. 7)","kunyomi":["ふた","ふた.つ","ふたたび"],"onyomi":["ニ","ジ"],"onyomiExamples":[{"example":"二","reading":"ニ","meaning":"two, 2"},{"example":"二院","reading":"ニイン","meaning":"the two houses of legislature"},{"example":"一二","reading":"イチニ","meaning":"the first and second, a few"},{"example":"十二","reading":"ジュウニ","meaning":"twelve, 12, queen (playing card)"},{"example":"次男","reading":"ジナン","meaning":"second son"},{"example":"二黒","reading":"ジコク","meaning":"second of nine traditional astrological signs (corresponding to Saturn and southwest)"},{"example":"不二","reading":"フジ","meaning":"being two sides of the same coin, being the same (while appearing different), Very sincerely yours, peerless, unparalleled, unparallelled"},{"example":"唯一不二","reading":"ユイイツフジ","meaning":"one and only, unique"}],"kunyomiExamples":[{"example":"二","reading":"に","meaning":"two, 2"},{"example":"二重","reading":"にじゅう","meaning":"double, two-fold, two layers, duplex, diplo-, dipl-, double-edged eyelid, double eyelid, creased eyelid"},{"example":"二つ","reading":"ふたつ","meaning":"two"},{"example":"二つ目","reading":"ふたつめ","meaning":"one after next, second"},{"example":"再び","reading":"ふたたび","meaning":"again, once more, a second time"}],"radical":{"symbol":"二","meaning":"two"},"parts":["二"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20108_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e8c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e8c.gif","uri":"https://jisho.org/search/%E4%BA%8C%23kanji"}}
+{
+  "id": "二",
+  "kanjialiveData": {
+    "_id": "54317ae4791eba5146ee4973",
+    "_rev": "9-9d220686a4f00542ff597df902dc6a4b",
+    "rad_name_ja": "に",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "futa, futatsu, futari",
+    "meaning": "two",
+    "kstroke": 2,
+    "examples": [
+      {
+        "japanese": "二時間（にじかん）",
+        "meaning": {
+          "english": "two hours"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/2_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/2_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/2_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "二月（にがつ）",
+        "meaning": {
+          "english": "February"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/2_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/2_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/2_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "二枚目（にまいめ）",
+        "meaning": {
+          "english": "second (flat object)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/2_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/2_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/2_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "二つ（ふたつ）",
+        "meaning": {
+          "english": "two (pieces)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/2_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/2_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/2_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "二人（ふたり）",
+        "meaning": {
+          "english": "two people"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/2_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/2_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/2_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ふた、ふたつ、ふたり",
+    "ka_utf": "二",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=二",
+    "rad_name_search": [
+      "ni"
+    ],
+    "rad_order": 8,
+    "txt_books": [
+      {
+        "chapter": "6",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtAd1"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "2"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "30"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "3"
+      }
+    ],
+    "kname": "2",
+    "rad_utf": "⼆",
+    "stroketimes": [
+      0.94,
+      1.733,
+      2.933333
+    ],
+    "kunyomi_ka_display": "ふた",
+    "dick": "1224",
+    "rad_name": "ni",
+    "dicn": "273",
+    "mn_hint": "Two lines.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ニ",
+    "rad_meaning": "two",
+    "onyomi": "ni",
+    "ka_id": "ka_2",
+    "onyomi_search": [
+      "ni",
+      "ni"
+    ],
+    "kunyomi_search": [
+      "futa",
+      "futatsu",
+      "futari",
+      "futa, futatsu, futari"
+    ],
+    "meaning_search": [
+      "two",
+      "two"
+    ],
+    "onyomi_ja_search": [
+      "ニ",
+      "ニ"
+    ],
+    "kunyomi_ja_search": [
+      "ふた",
+      "ふたつ",
+      "ふたり",
+      "ふた、ふたつ、ふたり"
+    ],
+    "rad_meaning_search": [
+      "two",
+      "two"
+    ],
+    "rad_name_ja_search": [
+      "に"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:6",
+      "cij:c6",
+      "bk",
+      "bk:3",
+      "bk:c3",
+      "aij3",
+      "aij3:13",
+      "aij3:c13",
+      "aij3:v1",
+      "aij3:v1:13",
+      "aij3:v1:c13",
+      "gen",
+      "gen:3",
+      "gen:c3",
+      "ap",
+      "ap:16",
+      "ap:c16",
+      "kll",
+      "kll:1",
+      "kll:c1",
+      "mosr",
+      "mosr:2",
+      "mosr:c2",
+      "cijr",
+      "cijr:30",
+      "cijr:c30",
+      "aij4",
+      "aij4:3",
+      "aij4:c3",
+      "aij4:v1",
+      "aij4:v1:3",
+      "aij4:v1:c3"
+    ],
+    "rad_name_file": "ni",
+    "kanji": {
+      "character": "二",
+      "meaning": {
+        "english": "two"
+      },
+      "strokes": {
+        "count": 2,
+        "timings": [
+          0.94,
+          1.733,
+          2.933333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/2_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/2_2.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ni",
+        "katakana": "ニ"
+      },
+      "kunyomi": {
+        "romaji": "futa, futatsu, futari",
+        "hiragana": "ふた"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/2_2.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/2_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/2_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼆",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ni.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "に",
+        "romaji": "ni"
+      },
+      "meaning": {
+        "english": "two"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ni0.svg",
+        "https://media.kanjialive.com/rad_frames/ni1.svg",
+        "https://media.kanjialive.com/rad_frames/ni2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1224",
+      "classic_nelson": "273"
+    }
+  },
+  "jishoData": {
+    "query": "二",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "9",
+    "strokeCount": 2,
+    "meaning": "two, two radical (no. 7)",
+    "kunyomi": [
+      "ふた",
+      "ふた.つ",
+      "ふたたび"
+    ],
+    "onyomi": [
+      "ニ",
+      "ジ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "二",
+        "reading": "ニ",
+        "meaning": "two, 2"
+      },
+      {
+        "example": "二院",
+        "reading": "ニイン",
+        "meaning": "the two houses of legislature"
+      },
+      {
+        "example": "一二",
+        "reading": "イチニ",
+        "meaning": "the first and second, a few"
+      },
+      {
+        "example": "十二",
+        "reading": "ジュウニ",
+        "meaning": "twelve, 12, queen"
+      },
+      {
+        "example": "次男",
+        "reading": "ジナン",
+        "meaning": "second son"
+      },
+      {
+        "example": "二黒",
+        "reading": "ジコク",
+        "meaning": "second of nine traditional astrological signs (corresponding to Saturn and southwest)"
+      },
+      {
+        "example": "不二",
+        "reading": "フジ",
+        "meaning": "being two sides of the same coin, being the same (while appearing different), Very sincerely yours, peerless, unparalleled, unparallelled"
+      },
+      {
+        "example": "唯一不二",
+        "reading": "ユイイツフジ",
+        "meaning": "one and only, unique"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "二",
+        "reading": "に",
+        "meaning": "two, 2"
+      },
+      {
+        "example": "二重",
+        "reading": "にじゅう",
+        "meaning": "double, two-fold, two layers, duplex, diplo-, dipl-, double-edged eyelid, double eyelid, creased eyelid"
+      },
+      {
+        "example": "二つ",
+        "reading": "ふたつ",
+        "meaning": "two"
+      },
+      {
+        "example": "二つ目",
+        "reading": "ふたつめ",
+        "meaning": "second (in a series)"
+      },
+      {
+        "example": "再び",
+        "reading": "ふたたび",
+        "meaning": "again, once more, a second time"
+      }
+    ],
+    "radical": {
+      "symbol": "二",
+      "meaning": "two"
+    },
+    "parts": [
+      "二"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20108_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e8c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e8c.gif",
+    "uri": "https://jisho.org/search/%E4%BA%8C%23kanji"
+  }
+}

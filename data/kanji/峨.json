@@ -1,1 +1,49 @@
-{"id":"峨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"峨","found":true,"newspaperFrequencyRank":"2234","strokeCount":10,"meaning":"high mountain","kunyomi":["けわ.しい"],"onyomi":["ガ"],"onyomiExamples":[{"example":"峨峨","reading":"ガガ","meaning":"rugged (e.g. mountains)"},{"example":"峨峨","reading":"ガガ","meaning":"rugged (e.g. mountains)"},{"example":"巍峨","reading":"ギガ","meaning":"towering, soaring, lofty"}],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["亅","山","戈","手"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23784_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ce8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ce8.gif","uri":"https://jisho.org/search/%E5%B3%A8%23kanji"}}
+{
+  "id": "峨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "峨",
+    "found": true,
+    "newspaperFrequencyRank": "2234",
+    "strokeCount": 10,
+    "meaning": "high mountain",
+    "kunyomi": [
+      "けわ.しい"
+    ],
+    "onyomi": [
+      "ガ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "峨々",
+        "reading": "ガガ",
+        "meaning": "rugged (mountains), craggy, jagged"
+      },
+      {
+        "example": "峨々",
+        "reading": "ガガ",
+        "meaning": "rugged (mountains), craggy, jagged"
+      },
+      {
+        "example": "巍峨",
+        "reading": "ギガ",
+        "meaning": "towering, soaring, lofty"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "亅",
+      "山",
+      "戈",
+      "手"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23784_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ce8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ce8.gif",
+    "uri": "https://jisho.org/search/%E5%B3%A8%23kanji"
+  }
+}

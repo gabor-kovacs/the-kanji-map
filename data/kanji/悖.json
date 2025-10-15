@@ -1,1 +1,59 @@
-{"id":"悖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"悖","found":true,"strokeCount":10,"meaning":"be contrary","kunyomi":["もと.る"],"onyomi":["ハイ","ボツ"],"onyomiExamples":[{"example":"背徳","reading":"ハイトク","meaning":"corruption, immorality, lapse from virtue, fall from virtue"},{"example":"背反","reading":"ハイハン","meaning":"revolting, rebellion, going against, contradiction, antinomy"},{"example":"狂悖","reading":"キョウハイ","meaning":"conduct that is immoral and lacking in common sense"}],"kunyomiExamples":[{"example":"悖る","reading":"もとる","meaning":"to go against, to act contrary to, to run counter to, to deviate from"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["冖","十","子","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24726_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06096.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6096.gif","uri":"https://jisho.org/search/%E6%82%96%23kanji"}}
+{
+  "id": "悖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悖",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "be contrary",
+    "kunyomi": [
+      "もと.る"
+    ],
+    "onyomi": [
+      "ハイ",
+      "ボツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "背徳",
+        "reading": "ハイトク",
+        "meaning": "corruption, immorality, lapse from virtue, fall from virtue"
+      },
+      {
+        "example": "背反",
+        "reading": "ハイハン",
+        "meaning": "revolting, rebellion, going against, contradiction, antinomy"
+      },
+      {
+        "example": "狂悖",
+        "reading": "キョウハイ",
+        "meaning": "immoral and thoughtless behaviour, outrageous misconduct"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "悖る",
+        "reading": "もとる",
+        "meaning": "to go against, to act contrary to, to run counter to, to deviate from"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "冖",
+      "十",
+      "子",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24726_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06096.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6096.gif",
+    "uri": "https://jisho.org/search/%E6%82%96%23kanji"
+  }
+}

@@ -1,1 +1,45 @@
-{"id":"霑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霑","found":true,"strokeCount":16,"meaning":"moisten, water, soak","kunyomi":["うるお.う","うるお.い"],"onyomi":["テン"],"onyomiExamples":[{"example":"均てん","reading":"キンテン","meaning":"dividing (profits, etc.) equally, gaining equally"}],"kunyomiExamples":[{"example":"潤う","reading":"うるおう","meaning":"to be moist, to be damp, to get wet, to be watered, to profit by, to receive benefits, to receive favors (favours), to become rich, to become at ease financially"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["卜","口","汁","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38673_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09711.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9711.gif","uri":"https://jisho.org/search/%E9%9C%91%23kanji"}}
+{
+  "id": "霑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霑",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "moisten, water, soak",
+    "kunyomi": [
+      "うるお.う",
+      "うるお.い"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "均てん",
+        "reading": "キンテン",
+        "meaning": "dividing (profits, etc.) equally, gaining equally"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "潤う",
+        "reading": "うるおう",
+        "meaning": "to become moist, to be moistened, to become damp, to get wet, to profit (from), to benefit, to become prosperous, to flourish, to be made rich, to be refreshed (of one's mind), to be enriched (of one's heart)"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "卜",
+      "口",
+      "汁",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38673_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09711.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9711.gif",
+    "uri": "https://jisho.org/search/%E9%9C%91%23kanji"
+  }
+}

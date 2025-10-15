@@ -1,1 +1,47 @@
-{"id":"裟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"裟","found":true,"jlptLevel":"N1","strokeCount":13,"meaning":"Buddhist surplice","kunyomi":[],"onyomi":["サ","シャ"],"onyomiExamples":[{"example":"袈裟","reading":"ケサ","meaning":"kasaya, monk's stole, wearing an article of clothing in the same manner as a kasaya (i.e. draped over one shoulder)"},{"example":"輪袈裟","reading":"ワゲサ","meaning":"loop-shaped monk's stole"}],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["ノ","亠","小","汁","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35039_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088df.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88df.gif","uri":"https://jisho.org/search/%E8%A3%9F%23kanji"}}
+{
+  "id": "裟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裟",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 13,
+    "meaning": "Buddhist surplice",
+    "kunyomi": [],
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "袈裟",
+        "reading": "ケサ",
+        "meaning": "kasaya, monk's stole, wearing an article of clothing in the same manner as a kasaya (i.e. draped over one shoulder)"
+      },
+      {
+        "example": "結袈裟",
+        "reading": "ユイゲサ",
+        "meaning": "three-strand harness or sash decorated with pom-poms (worn by Shugendō practitioners)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "ノ",
+      "亠",
+      "小",
+      "汁",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35039_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88df.gif",
+    "uri": "https://jisho.org/search/%E8%A3%9F%23kanji"
+  }
+}

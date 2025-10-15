@@ -1,1 +1,285 @@
-{"id":"肺","kanjialiveData":{"kanji":{"character":"肺","meaning":{"english":"lung"},"strokes":{"count":9,"timings":[0,1.666667,3.8,4.866667,5.733333,7.266667,8.6,10.333333,12.333333,14.6],"images":["https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_1.svg","https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_2.svg","https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_3.svg","https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_4.svg","https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_5.svg","https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_6.svg","https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_7.svg","https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_8.svg","https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_9.svg"]},"onyomi":{"romaji":"hai","katakana":"ハイ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/hai(katsuryou)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/hai(katsuryou)_00.webm"}},"radical":{"character":"","strokes":4,"image":"https://media.kanjialive.com/radical_character/nikuzuki.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"にくづき","romaji":"nikuzuki"},"meaning":{"english":"meat, flesh"},"animation":["https://media.kanjialive.com/rad_frames/nikuzuki0.svg","https://media.kanjialive.com/rad_frames/nikuzuki1.svg","https://media.kanjialive.com/rad_frames/nikuzuki2.svg"]},"references":{"grade":6,"kodansha":"619","classic_nelson":"3752"},"examples":[{"japanese":"肺（はい）","meaning":{"english":"lung"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(katsuryou)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(katsuryou)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(katsuryou)_06_a.mp3"}},{"japanese":"肺臓（はいぞう）","meaning":{"english":"lungs"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(katsuryou)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(katsuryou)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(katsuryou)_06_b.mp3"}},{"japanese":"肺癌（はいがん）","meaning":{"english":"lung cancer"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(katsuryou)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(katsuryou)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(katsuryou)_06_c.mp3"}},{"japanese":"肺炎（はいえん）","meaning":{"english":"pneumonia"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(katsuryou)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(katsuryou)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(katsuryou)_06_d.mp3"}},{"japanese":"肺活量（はいかつりょう）","meaning":{"english":"lung capacity"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hai(katsuryou)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hai(katsuryou)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hai(katsuryou)_06_e.mp3"}}]},"jishoData":{"query":"肺","found":true,"taughtIn":"grade 6","jlptLevel":"N1","newspaperFrequencyRank":"1387","strokeCount":9,"meaning":"lungs","kunyomi":[],"onyomi":["ハイ"],"onyomiExamples":[{"example":"肺","reading":"ハイ","meaning":"lung"},{"example":"肺炎","reading":"ハイエン","meaning":"pneumonia"},{"example":"珪肺","reading":"ケイハイ","meaning":"silicosis"},{"example":"人工肺","reading":"ジンコウハイ","meaning":"artificial lung"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["亠","巾","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32954_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080ba.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80ba.gif","uri":"https://jisho.org/search/%E8%82%BA%23kanji"}}
+{
+  "id": "肺",
+  "kanjialiveData": {
+    "_id": "54317ad7791eba5146ee488e",
+    "_rev": "9-f2b42aa84dffa1bed2322d6ccf043b4d",
+    "rad_name_ja": "にくづき",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "lung",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "肺（はい）",
+        "meaning": {
+          "english": "lung"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(katsuryou)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(katsuryou)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(katsuryou)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "肺臓（はいぞう）",
+        "meaning": {
+          "english": "lungs"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(katsuryou)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(katsuryou)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(katsuryou)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "肺癌（はいがん）",
+        "meaning": {
+          "english": "lung cancer"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(katsuryou)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(katsuryou)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(katsuryou)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "肺炎（はいえん）",
+        "meaning": {
+          "english": "pneumonia"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(katsuryou)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(katsuryou)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(katsuryou)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "肺活量（はいかつりょう）",
+        "meaning": {
+          "english": "lung capacity"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(katsuryou)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hai(katsuryou)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hai(katsuryou)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hai(katsuryou)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "肺",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=肺",
+    "rad_name_search": [
+      "nikuzuki"
+    ],
+    "rad_order": 96,
+    "txt_books": [
+      {
+        "chapter": "22",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "31"
+      }
+    ],
+    "kname": "hai(katsuryou)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.666667,
+      3.8,
+      4.866667,
+      5.733333,
+      7.266667,
+      8.6,
+      10.333333,
+      12.333333,
+      14.6
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "619",
+    "rad_name": "nikuzuki",
+    "dicn": "3752",
+    "mn_hint": "Parts of the body 月 for exchanging air like a market 市.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ハイ",
+    "rad_meaning": "meat, flesh",
+    "onyomi": "hai",
+    "ka_id": "ka_1104",
+    "onyomi_search": [
+      "hai",
+      "hai"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "lung",
+      "lung"
+    ],
+    "onyomi_ja_search": [
+      "ハイ",
+      "ハイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "meat",
+      "flesh",
+      "meat, flesh"
+    ],
+    "rad_name_ja_search": [
+      "にくづき"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cijr",
+      "cijr:31",
+      "cijr:c31"
+    ],
+    "rad_name_file": "nikuzuki",
+    "kanji": {
+      "character": "肺",
+      "meaning": {
+        "english": "lung"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1.666667,
+          3.8,
+          4.866667,
+          5.733333,
+          7.266667,
+          8.6,
+          10.333333,
+          12.333333,
+          14.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "hai",
+        "katakana": "ハイ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hai(katsuryou)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hai(katsuryou)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hai(katsuryou)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/nikuzuki.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "にくづき",
+        "romaji": "nikuzuki"
+      },
+      "meaning": {
+        "english": "meat, flesh"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
+        "https://media.kanjialive.com/rad_frames/nikuzuki1.svg",
+        "https://media.kanjialive.com/rad_frames/nikuzuki2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "619",
+      "classic_nelson": "3752"
+    }
+  },
+  "jishoData": {
+    "query": "肺",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1387",
+    "strokeCount": 9,
+    "meaning": "lungs",
+    "kunyomi": [],
+    "onyomi": [
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肺",
+        "reading": "ハイ",
+        "meaning": "lung"
+      },
+      {
+        "example": "肺炎",
+        "reading": "ハイエン",
+        "meaning": "pneumonia"
+      },
+      {
+        "example": "珪肺",
+        "reading": "ケイハイ",
+        "meaning": "silicosis"
+      },
+      {
+        "example": "人工肺",
+        "reading": "ジンコウハイ",
+        "meaning": "artificial lung"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "亠",
+      "巾",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32954_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080ba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80ba.gif",
+    "uri": "https://jisho.org/search/%E8%82%BA%23kanji"
+  }
+}

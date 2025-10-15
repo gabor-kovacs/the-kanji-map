@@ -1,1 +1,62 @@
-{"id":"腓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"腓","found":true,"strokeCount":12,"meaning":"calf (of leg)","kunyomi":["ふくらはぎ","こむら","こぶら"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"腓骨","reading":"ヒコツ","meaning":"fibula, fibular, peroneal"},{"example":"腓骨欠損","reading":"ヒコツケッソン","meaning":"fibular hemimelia, fibula agenesis"}],"kunyomiExamples":[{"example":"腓","reading":"こむら","meaning":"calf (of the leg)"},{"example":"こむら返り","reading":"こむらがえり","meaning":"cramp in the leg"},{"example":"腓","reading":"こむら","meaning":"calf (of the leg)"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["月","非"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33107_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08153.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8153.gif","uri":"https://jisho.org/search/%E8%85%93%23kanji"}}
+{
+  "id": "腓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腓",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "calf (of leg)",
+    "kunyomi": [
+      "ふくらはぎ",
+      "こむら",
+      "こぶら"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腓骨",
+        "reading": "ヒコツ",
+        "meaning": "fibula, fibular, peroneal"
+      },
+      {
+        "example": "腓骨欠損",
+        "reading": "ヒコツケッソン",
+        "meaning": "fibular hemimelia, fibula agenesis"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "腓",
+        "reading": "こむら",
+        "meaning": "calf (of the leg)"
+      },
+      {
+        "example": "こむら返り",
+        "reading": "こむらがえり",
+        "meaning": "cramp in the leg"
+      },
+      {
+        "example": "腓",
+        "reading": "こむら",
+        "meaning": "calf (of the leg)"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "月",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33107_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08153.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8153.gif",
+    "uri": "https://jisho.org/search/%E8%85%93%23kanji"
+  }
+}

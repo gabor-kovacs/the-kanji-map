@@ -1,1 +1,64 @@
-{"id":"釈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"釈","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1097","strokeCount":11,"meaning":"explanation","kunyomi":["とく","す.てる","ゆる.す"],"onyomi":["シャク","セキ"],"onyomiExamples":[{"example":"釈明","reading":"シャクメイ","meaning":"explanation, vindication"},{"example":"釈放","reading":"シャクホウ","meaning":"release, liberation, acquittal"},{"example":"保釈","reading":"ホシャク","meaning":"bail, releasing on bail"},{"example":"講釈","reading":"コウシャク","meaning":"explanation (of a text, phrase, etc.), lecture, exposition, explanation (in a pompous fashion), (long-winded) lecture, storytelling"},{"example":"釈然","reading":"シャクゼン","meaning":"fully satisfied (with an explanation, apology, etc.), happy, cleared of doubt"}],"kunyomiExamples":[],"radical":{"symbol":"釆","meaning":"divide, distinguish, choose"},"parts":["丶","尸","米","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37320_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091c8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91c8.gif","uri":"https://jisho.org/search/%E9%87%88%23kanji"}}
+{
+  "id": "釈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "釈",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1097",
+    "strokeCount": 11,
+    "meaning": "explanation",
+    "kunyomi": [
+      "とく",
+      "す.てる",
+      "ゆる.す"
+    ],
+    "onyomi": [
+      "シャク",
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "釈明",
+        "reading": "シャクメイ",
+        "meaning": "explanation, vindication"
+      },
+      {
+        "example": "釈放",
+        "reading": "シャクホウ",
+        "meaning": "release, liberation, acquittal"
+      },
+      {
+        "example": "保釈",
+        "reading": "ホシャク",
+        "meaning": "bail, releasing on bail"
+      },
+      {
+        "example": "講釈",
+        "reading": "コウシャク",
+        "meaning": "explanation (of a text, phrase, etc.), lecture, exposition, explanation (in a pompous fashion), (long-winded) lecture, storytelling"
+      },
+      {
+        "example": "釈然",
+        "reading": "シャクゼン",
+        "meaning": "fully satisfied (with an explanation, apology, etc.), happy, cleared of doubt"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "釆",
+      "meaning": "divide, distinguish, choose"
+    },
+    "parts": [
+      "丶",
+      "尸",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37320_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091c8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91c8.gif",
+    "uri": "https://jisho.org/search/%E9%87%88%23kanji"
+  }
+}

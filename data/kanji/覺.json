@@ -1,1 +1,46 @@
-{"id":"覺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"覺","found":true,"strokeCount":20,"meaning":"memorize","kunyomi":["おぼ.える","さ.ます","さ.める","さと.る"],"onyomi":["カク"],"onyomiExamples":[{"example":"覚束ない","reading":"オボツカナイ","meaning":"uncertain, doubtful, unpromising, unreliable, unsteady, insecure, shaky, faltering, unclear, vague, hazy, indistinct"},{"example":"覚路","reading":"カクロ","meaning":"path to enlightenment"}],"kunyomiExamples":[],"radical":{"symbol":"見","meaning":"see"},"parts":["冖","爻","臼","見"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35258_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089ba.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89ba.gif","uri":"https://jisho.org/search/%E8%A6%BA%23kanji"}}
+{
+  "id": "覺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覺",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "memorize",
+    "kunyomi": [
+      "おぼ.える",
+      "さ.ます",
+      "さ.める",
+      "さと.る"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "覚束ない",
+        "reading": "オボツカナイ",
+        "meaning": "uncertain, doubtful, unpromising, unreliable, unsteady, insecure, shaky, faltering, unclear, vague, hazy, indistinct"
+      },
+      {
+        "example": "覚路",
+        "reading": "カクロ",
+        "meaning": "path to enlightenment"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "見",
+      "meaning": "see"
+    },
+    "parts": [
+      "冖",
+      "爻",
+      "臼",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35258_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089ba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89ba.gif",
+    "uri": "https://jisho.org/search/%E8%A6%BA%23kanji"
+  }
+}

@@ -1,1 +1,318 @@
-{"id":"漢","kanjialiveData":{"kanji":{"character":"漢","meaning":{"english":"Chinese, fellow"},"strokes":{"count":13,"timings":[0,2.236,3.039,3.911,5.317,6.054,6.927,7.527,8.868,9.673,10.612,11.616,12.553,13.320896],"images":["https://media.kanjialive.com/kanji_strokes/kan(ji)_1.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_2.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_3.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_4.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_5.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_6.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_7.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_8.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_9.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_10.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_11.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_12.svg","https://media.kanjialive.com/kanji_strokes/kan(ji)_13.svg"]},"onyomi":{"romaji":"kan","katakana":"カン"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kan(ji)_13.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kan(ji)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kan(ji)_00.webm"}},"radical":{"character":"⺡","strokes":3,"image":"https://media.kanjialive.com/radical_character/sanzui.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"さんずい","romaji":"sanzui"},"meaning":{"english":"water"},"animation":["https://media.kanjialive.com/rad_frames/sanzui0.svg","https://media.kanjialive.com/rad_frames/sanzui1.svg","https://media.kanjialive.com/rad_frames/sanzui2.svg"]},"references":{"grade":3,"kodansha":"471","classic_nelson":"2662"},"examples":[{"japanese":"漢字（かんじ）","meaning":{"english":"Chinese characters"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan(ji)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan(ji)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan(ji)_06_a.mp3"}},{"japanese":"漢語（かんご）","meaning":{"english":"Sino-Japanese word"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan(ji)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan(ji)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan(ji)_06_b.mp3"}},{"japanese":"漢和辞典（かんわじてん）","meaning":{"english":"character dictionary"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan(ji)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan(ji)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan(ji)_06_c.mp3"}},{"japanese":"熱血漢（ねっけつかん）","meaning":{"english":"hot-blooded person"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan(ji)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan(ji)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan(ji)_06_d.mp3"}}]},"jishoData":{"query":"漢","found":true,"taughtIn":"grade 3","jlptLevel":"N4","newspaperFrequencyRank":"1487","strokeCount":13,"meaning":"Sino-, China","kunyomi":[],"onyomi":["カン"],"onyomiExamples":[{"example":"漢","reading":"カン","meaning":"China, Han dynasty (of China; 202 BCE-220 CE), Han (majority Chinese ethnic group), man"},{"example":"漢字","reading":"カンジ","meaning":"kanji, Chinese character"},{"example":"分からず屋","reading":"ワカラズヤ","meaning":"obstinate person, blockhead"},{"example":"門外漢","reading":"モンガイカン","meaning":"outsider, layman, amateur"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","二","口","大","汁","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28450_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f22.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f22.gif","uri":"https://jisho.org/search/%E6%BC%A2%23kanji"}}
+{
+  "id": "漢",
+  "kanjialiveData": {
+    "_id": "54317b0d791eba5146ee4c88",
+    "_rev": "9-edfe68e5b1660c60b4298e9d1ccd0f66",
+    "rad_name_ja": "さんずい",
+    "grade": 3,
+    "hint_group": 2,
+    "kunyomi": "n/a",
+    "meaning": "Chinese, fellow",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "漢字（かんじ）",
+        "meaning": {
+          "english": "Chinese characters"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan(ji)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan(ji)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan(ji)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "漢語（かんご）",
+        "meaning": {
+          "english": "Sino-Japanese word"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan(ji)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan(ji)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan(ji)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "漢和辞典（かんわじてん）",
+        "meaning": {
+          "english": "character dictionary"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan(ji)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan(ji)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan(ji)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "熱血漢（ねっけつかん）",
+        "meaning": {
+          "english": "hot-blooded person"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan(ji)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan(ji)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan(ji)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan(ji)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "漢",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=漢",
+    "rad_name_search": [
+      "sanzui"
+    ],
+    "rad_order": 76,
+    "txt_books": [
+      {
+        "chapter": "12",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "kan(ji)",
+    "rad_utf": "⺡",
+    "stroketimes": [
+      0,
+      2.236,
+      3.039,
+      3.911,
+      5.317,
+      6.054,
+      6.927,
+      7.527,
+      8.868,
+      9.673,
+      10.612,
+      11.616,
+      12.553,
+      13.320896
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "471",
+    "rad_name": "sanzui",
+    "dicn": "2662",
+    "mn_hint": "Between the rivers シ, country where influential people 夫 eat lots of platters [46] of vegetables [8].",
+    "rad_stroke": 3,
+    "onyomi_ja": "カン",
+    "rad_meaning": "water",
+    "onyomi": "kan",
+    "ka_id": "ka_91",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kan",
+      "kan"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "Chinese",
+      "fellow",
+      "Chinese, fellow"
+    ],
+    "onyomi_ja_search": [
+      "カン",
+      "カン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "water",
+      "water"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "さんずい"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:12",
+      "cij:c12",
+      "aij3",
+      "aij3:1",
+      "aij3:c1",
+      "aij3:v3",
+      "aij3:v3:1",
+      "aij3:v3:c1",
+      "gen",
+      "gen:19",
+      "gen:c19",
+      "ap",
+      "ap:3",
+      "ap:c3",
+      "kll",
+      "kll:14",
+      "kll:c14"
+    ],
+    "rad_name_file": "sanzui",
+    "kanji": {
+      "character": "漢",
+      "meaning": {
+        "english": "Chinese, fellow"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0,
+          2.236,
+          3.039,
+          3.911,
+          5.317,
+          6.054,
+          6.927,
+          7.527,
+          8.868,
+          9.673,
+          10.612,
+          11.616,
+          12.553,
+          13.320896
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan(ji)_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kan",
+        "katakana": "カン"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kan(ji)_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kan(ji)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kan(ji)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺡",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/sanzui.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "さんずい",
+        "romaji": "sanzui"
+      },
+      "meaning": {
+        "english": "water"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sanzui0.svg",
+        "https://media.kanjialive.com/rad_frames/sanzui1.svg",
+        "https://media.kanjialive.com/rad_frames/sanzui2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "471",
+      "classic_nelson": "2662"
+    }
+  },
+  "jishoData": {
+    "query": "漢",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "1487",
+    "strokeCount": 13,
+    "meaning": "Sino-, China",
+    "kunyomi": [],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "漢",
+        "reading": "カン",
+        "meaning": "China, Han dynasty (of China; 202 BCE-220 CE), Han (majority Chinese ethnic group), man"
+      },
+      {
+        "example": "漢字",
+        "reading": "カンジ",
+        "meaning": "kanji, Chinese character"
+      },
+      {
+        "example": "巨漢",
+        "reading": "キョカン",
+        "meaning": "giant"
+      },
+      {
+        "example": "門外漢",
+        "reading": "モンガイカン",
+        "meaning": "outsider, layman, amateur"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "二",
+      "口",
+      "大",
+      "汁",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28450_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f22.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f22.gif",
+    "uri": "https://jisho.org/search/%E6%BC%A2%23kanji"
+  }
+}

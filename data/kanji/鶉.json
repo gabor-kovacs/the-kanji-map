@@ -1,1 +1,55 @@
-{"id":"鶉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鶉","found":true,"strokeCount":19,"meaning":"quail","kunyomi":["うずら"],"onyomi":["ジュン","シュン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鶉","reading":"うずら","meaning":"quail, Japanese quail (Coturnix japonica)"},{"example":"鶉水鶏","reading":"うずらくいな","meaning":"corn crake, corncrake, land rail (Crex crex)"},{"example":"ヨーロッパ鶉","reading":"ヨーロッパうずら","meaning":"common quail (Coturnix coturnix)"},{"example":"三斑鶉","reading":"みふうずら","meaning":"barred button quail (Turnix suscitator)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["亠","口","子","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40329_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d89.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d89.gif","uri":"https://jisho.org/search/%E9%B6%89%23kanji"}}
+{
+  "id": "鶉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鶉",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "quail",
+    "kunyomi": [
+      "うずら"
+    ],
+    "onyomi": [
+      "ジュン",
+      "シュン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鶉",
+        "reading": "うずら",
+        "meaning": "quail, Japanese quail (Coturnix japonica)"
+      },
+      {
+        "example": "鶉水鶏",
+        "reading": "うずらくいな",
+        "meaning": "corn crake, corncrake, land rail (Crex crex)"
+      },
+      {
+        "example": "ヨーロッパ鶉",
+        "reading": "ヨーロッパうずら",
+        "meaning": "common quail (Coturnix coturnix)"
+      },
+      {
+        "example": "三斑鶉",
+        "reading": "みふうずら",
+        "meaning": "barred button quail (Turnix suscitator)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "子",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40329_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d89.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d89.gif",
+    "uri": "https://jisho.org/search/%E9%B6%89%23kanji"
+  }
+}

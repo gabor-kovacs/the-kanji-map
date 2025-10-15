@@ -1,1 +1,60 @@
-{"id":"囚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"囚","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2107","strokeCount":5,"meaning":"captured, criminal, arrest, catch","kunyomi":["とら.われる"],"onyomi":["シュウ"],"onyomiExamples":[{"example":"囚","reading":"シュウ","meaning":"imprisonment, captive, prisoner"},{"example":"囚人","reading":"シュウジン","meaning":"prisoner, convict"},{"example":"確定死刑囚","reading":"カクテイシケイシュウ","meaning":"criminal condemned to death, convict on death row"},{"example":"罪囚","reading":"ザイシュウ","meaning":"prisoner, convict"}],"kunyomiExamples":[{"example":"捕らわれる","reading":"とらわれる","meaning":"to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"}],"radical":{"symbol":"囗","meaning":"enclosure"},"parts":["人","囗"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22234_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056da.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56da.gif","uri":"https://jisho.org/search/%E5%9B%9A%23kanji"}}
+{
+  "id": "囚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "囚",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2107",
+    "strokeCount": 5,
+    "meaning": "captured, criminal, arrest, catch",
+    "kunyomi": [
+      "とら.われる"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "囚",
+        "reading": "シュウ",
+        "meaning": "imprisonment, captive, prisoner"
+      },
+      {
+        "example": "囚人",
+        "reading": "シュウジン",
+        "meaning": "prisoner, convict"
+      },
+      {
+        "example": "確定死刑囚",
+        "reading": "カクテイシケイシュウ",
+        "meaning": "criminal condemned to death, convict on death row"
+      },
+      {
+        "example": "罪囚",
+        "reading": "ザイシュウ",
+        "meaning": "prisoner, convict"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "囚われる",
+        "reading": "とらわれる",
+        "meaning": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+      }
+    ],
+    "radical": {
+      "symbol": "囗",
+      "meaning": "enclosure"
+    },
+    "parts": [
+      "人",
+      "囗"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22234_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056da.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56da.gif",
+    "uri": "https://jisho.org/search/%E5%9B%9A%23kanji"
+  }
+}

@@ -1,1 +1,38 @@
-{"id":"敕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"敕","found":true,"strokeCount":11,"meaning":"an imperial order or decree","kunyomi":["いまし.める","みことのり"],"onyomi":["チョク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"攴","forms":["攵"],"meaning":"rap"},"parts":["ハ","乞","口","攵","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25941_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06555.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6555.gif","uri":"https://jisho.org/search/%E6%95%95%23kanji"}}
+{
+  "id": "敕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "敕",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "an imperial order or decree",
+    "kunyomi": [
+      "いまし.める",
+      "みことのり"
+    ],
+    "onyomi": [
+      "チョク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "ハ",
+      "乞",
+      "口",
+      "攵",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25941_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06555.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6555.gif",
+    "uri": "https://jisho.org/search/%E6%95%95%23kanji"
+  }
+}

@@ -1,1 +1,60 @@
-{"id":"呑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"呑","found":true,"newspaperFrequencyRank":"2362","strokeCount":7,"meaning":"drink","kunyomi":["の.む"],"onyomi":["トン","ドン"],"onyomiExamples":[{"example":"呑酸","reading":"ドンサン","meaning":"acid reflux, heart-burn"},{"example":"呑舟","reading":"ドンシュウ","meaning":"swallowing a boat whole"},{"example":"併呑","reading":"ヘイドン","meaning":"annexation, merger, swallowing up"},{"example":"清濁併呑","reading":"セイダクヘイドン","meaning":"being so broad-minded as to accept all sorts of things, both good and evil, being broad-minded enough to be tolerant of people of all shades"}],"kunyomiExamples":[{"example":"飲む","reading":"のむ","meaning":"to drink, to gulp, to swallow, to take (medicine), to smoke (tobacco), to engulf, to overwhelm, to keep down, to suppress, to accept (e.g. demand, condition), to make light of, to conceal"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["ノ","口","大"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21585_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05451.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5451.gif","uri":"https://jisho.org/search/%E5%91%91%23kanji"}}
+{
+  "id": "呑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呑",
+    "found": true,
+    "newspaperFrequencyRank": "2362",
+    "strokeCount": 7,
+    "meaning": "drink",
+    "kunyomi": [
+      "の.む"
+    ],
+    "onyomi": [
+      "トン",
+      "ドン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呑酸",
+        "reading": "ドンサン",
+        "meaning": "acid reflux, heart-burn"
+      },
+      {
+        "example": "呑舟",
+        "reading": "ドンシュウ",
+        "meaning": "swallowing a boat whole"
+      },
+      {
+        "example": "併呑",
+        "reading": "ヘイドン",
+        "meaning": "annexation, absorption, merger, swallowing up"
+      },
+      {
+        "example": "清濁併呑",
+        "reading": "セイダクヘイドン",
+        "meaning": "being so broad-minded as to accept all sorts of things, both good and evil, being broad-minded enough to be tolerant of people of all shades"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "飲む",
+        "reading": "のむ",
+        "meaning": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21585_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05451.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5451.gif",
+    "uri": "https://jisho.org/search/%E5%91%91%23kanji"
+  }
+}

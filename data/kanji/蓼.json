@@ -1,1 +1,71 @@
-{"id":"蓼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蓼","found":true,"newspaperFrequencyRank":"2447","strokeCount":14,"meaning":"luxurious grass, a smartweed","kunyomi":["たで"],"onyomi":["シン","リク","リョウ"],"onyomiExamples":[{"example":"仙蓼","reading":"センリョウ","meaning":"Chloranthus glaber"},{"example":"木天蓼","reading":"マタタビ","meaning":"silver vine (Actinidia polygama), cat powder"}],"kunyomiExamples":[{"example":"蓼","reading":"たで","meaning":"knotweed (Polygonaceae), jointweed, smartweed, water pepper (Persicaria hydropiper)"},{"example":"蓼藍","reading":"たであい","meaning":"dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)"},{"example":"藍蓼","reading":"あいたで","meaning":"dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)"},{"example":"柳蓼","reading":"やなぎたで","meaning":"water pepper (Persicaria hydropiper)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["个","冫","彡","羽","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34044_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084fc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84fc.gif","uri":"https://jisho.org/search/%E8%93%BC%23kanji"}}
+{
+  "id": "蓼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓼",
+    "found": true,
+    "newspaperFrequencyRank": "2447",
+    "strokeCount": 14,
+    "meaning": "luxurious grass, a smartweed",
+    "kunyomi": [
+      "たで"
+    ],
+    "onyomi": [
+      "シン",
+      "リク",
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "千両",
+        "reading": "センリョウ",
+        "meaning": "glabrous sarcandra herb (Sarcandra glabra), very large sum (of money), very high value, 1000 ryō"
+      },
+      {
+        "example": "木天蓼",
+        "reading": "マタタビ",
+        "meaning": "silver vine (Actinidia polygama), cat powder"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蓼",
+        "reading": "たで",
+        "meaning": "knotweed (Polygonaceae), jointweed, smartweed, water pepper (Persicaria hydropiper)"
+      },
+      {
+        "example": "蓼藍",
+        "reading": "たであい",
+        "meaning": "dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)"
+      },
+      {
+        "example": "藍蓼",
+        "reading": "あいたで",
+        "meaning": "dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)"
+      },
+      {
+        "example": "柳蓼",
+        "reading": "やなぎたで",
+        "meaning": "water pepper (Persicaria hydropiper)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "个",
+      "冫",
+      "彡",
+      "羽",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34044_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084fc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84fc.gif",
+    "uri": "https://jisho.org/search/%E8%93%BC%23kanji"
+  }
+}

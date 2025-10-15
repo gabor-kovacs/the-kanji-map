@@ -1,1 +1,40 @@
-{"id":"茵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"茵","found":true,"strokeCount":9,"meaning":"cushion, mattress","kunyomi":["しとね"],"onyomi":["イン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"茵","reading":"しとね","meaning":"cushion, pillow, mattress"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["囗","大","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33589_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08335.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8335.gif","uri":"https://jisho.org/search/%E8%8C%B5%23kanji"}}
+{
+  "id": "茵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "茵",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "cushion, mattress",
+    "kunyomi": [
+      "しとね"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "褥",
+        "reading": "しとね",
+        "meaning": "cushion, pillow, mattress"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "囗",
+      "大",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33589_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08335.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8335.gif",
+    "uri": "https://jisho.org/search/%E8%8C%B5%23kanji"
+  }
+}

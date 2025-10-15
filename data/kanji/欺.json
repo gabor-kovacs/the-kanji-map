@@ -1,1 +1,61 @@
-{"id":"欺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"欺","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1541","strokeCount":12,"meaning":"deceit, cheat, delude","kunyomi":["あざむ.く"],"onyomi":["ギ"],"onyomiExamples":[{"example":"欺瞞","reading":"ギマン","meaning":"deception, deceit"},{"example":"欺詐","reading":"ギサ","meaning":"fraud, fraudulence, dupery, hoax"},{"example":"ナイジェリア詐欺","reading":"ナイジェリアサギ","meaning":"Nigerian fraud, 419 fraud"},{"example":"架空請求詐欺","reading":"カクウセイキュウサギ","meaning":"fraud based on demanding payment for false claims or non-existent bills"}],"kunyomiExamples":[{"example":"欺く","reading":"あざむく","meaning":"to deceive, to delude, to trick, to fool, to be as ... as ... (e.g. \"as bright as day\", \"as beautiful as a rose\")"}],"radical":{"symbol":"欠","meaning":"lack, yawn"},"parts":["ハ","欠","甘"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27450_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b3a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b3a.gif","uri":"https://jisho.org/search/%E6%AC%BA%23kanji"}}
+{
+  "id": "欺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "欺",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1541",
+    "strokeCount": 12,
+    "meaning": "deceit, cheat, delude",
+    "kunyomi": [
+      "あざむ.く"
+    ],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "欺瞞",
+        "reading": "ギマン",
+        "meaning": "deception, deceit"
+      },
+      {
+        "example": "欺詐",
+        "reading": "ギサ",
+        "meaning": "fraud, fraudulence, dupery, hoax"
+      },
+      {
+        "example": "ナイジェリア詐欺",
+        "reading": "ナイジェリアサギ",
+        "meaning": "Nigerian fraud, 419 fraud"
+      },
+      {
+        "example": "架空請求詐欺",
+        "reading": "カクウセイキュウサギ",
+        "meaning": "fraud based on demanding payment for false claims or non-existent bills"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "欺く",
+        "reading": "あざむく",
+        "meaning": "to deceive, to delude, to trick, to fool, to be as ... as ... (e.g. \"as bright as day\", \"as beautiful as a rose\")"
+      }
+    ],
+    "radical": {
+      "symbol": "欠",
+      "meaning": "lack, yawn"
+    },
+    "parts": [
+      "ハ",
+      "欠",
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27450_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b3a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b3a.gif",
+    "uri": "https://jisho.org/search/%E6%AC%BA%23kanji"
+  }
+}

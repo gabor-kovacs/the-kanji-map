@@ -1,1 +1,76 @@
-{"id":"誉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"誉","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1064","strokeCount":13,"meaning":"reputation, praise, honor, glory","kunyomi":["ほま.れ","ほ.める"],"onyomi":["ヨ"],"onyomiExamples":[{"example":"誉望","reading":"ヨボウ","meaning":"honor, honour"},{"example":"声誉","reading":"セイヨ","meaning":"reputation, fame, credit, honor and distinction, honour and distinction"},{"example":"毀誉","reading":"キヨ","meaning":"praise and censure, approval and disapproval, approbation and condemnation"}],"kunyomiExamples":[{"example":"誉れ","reading":"ほまれ","meaning":"honour, honor"},{"example":"誉れ高い","reading":"ほまれたかい","meaning":"renowned, famous"},{"example":"褒める","reading":"ほめる","meaning":"to praise, to commend, to compliment, to speak well of, to speak highly of"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["一","尚","并","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35465_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a89.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a89.gif","uri":"https://jisho.org/search/%E8%AA%89%23kanji"}}
+{
+  "id": "誉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "誉",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1064",
+    "strokeCount": 13,
+    "meaning": "reputation, praise, honor, glory",
+    "kunyomi": [
+      "ほま.れ",
+      "ほ.める"
+    ],
+    "onyomi": [
+      "ヨ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "誉望",
+        "reading": "ヨボウ",
+        "meaning": "honor, honour"
+      },
+      {
+        "example": "声誉",
+        "reading": "セイヨ",
+        "meaning": "reputation, fame, credit, honor and distinction, honour and distinction"
+      },
+      {
+        "example": "毀誉",
+        "reading": "キヨ",
+        "meaning": "praise and censure, approval and disapproval, approbation and condemnation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "誉れ",
+        "reading": "ほまれ",
+        "meaning": "honour, honor"
+      },
+      {
+        "example": "誉れ高い",
+        "reading": "ほまれたかい",
+        "meaning": "renowned, famous"
+      },
+      {
+        "example": "出藍の誉れ",
+        "reading": "しゅつらんのほまれ",
+        "meaning": "surpassing one's master"
+      },
+      {
+        "example": "褒める",
+        "reading": "ほめる",
+        "meaning": "to praise, to commend, to compliment, to speak well of, to speak highly of"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "一",
+      "尚",
+      "并",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35465_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a89.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a89.gif",
+    "uri": "https://jisho.org/search/%E8%AA%89%23kanji"
+  }
+}

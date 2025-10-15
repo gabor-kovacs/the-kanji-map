@@ -1,1 +1,65 @@
-{"id":"陵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"陵","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1746","strokeCount":11,"meaning":"mausoleum, imperial tomb, mound, hill","kunyomi":["みささぎ"],"onyomi":["リョウ"],"onyomiExamples":[{"example":"陵","reading":"ミササギ","meaning":"imperial mausoleum, Emperor's tomb, big hill"},{"example":"陵墓","reading":"リョウボ","meaning":"imperial tomb, imperial mausoleum"},{"example":"帝陵","reading":"テイリョウ","meaning":"imperial mausoleum"},{"example":"皇陵","reading":"コウリョウ","meaning":"imperial mausoleum"}],"kunyomiExamples":[{"example":"陵","reading":"みささぎ","meaning":"imperial mausoleum, Emperor's tomb, big hill"}],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["儿","土","夂","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38517_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09675.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9675.gif","uri":"https://jisho.org/search/%E9%99%B5%23kanji"}}
+{
+  "id": "陵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陵",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1746",
+    "strokeCount": 11,
+    "meaning": "mausoleum, imperial tomb, mound, hill",
+    "kunyomi": [
+      "みささぎ"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陵",
+        "reading": "ミササギ",
+        "meaning": "imperial mausoleum, Emperor's tomb, big hill"
+      },
+      {
+        "example": "陵墓",
+        "reading": "リョウボ",
+        "meaning": "imperial tomb, imperial mausoleum"
+      },
+      {
+        "example": "帝陵",
+        "reading": "テイリョウ",
+        "meaning": "imperial mausoleum"
+      },
+      {
+        "example": "皇陵",
+        "reading": "コウリョウ",
+        "meaning": "imperial mausoleum"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "陵",
+        "reading": "みささぎ",
+        "meaning": "imperial mausoleum, Emperor's tomb, big hill"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "夂",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38517_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09675.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9675.gif",
+    "uri": "https://jisho.org/search/%E9%99%B5%23kanji"
+  }
+}

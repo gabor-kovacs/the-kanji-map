@@ -1,1 +1,82 @@
-{"id":"被","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"被","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"431","strokeCount":10,"meaning":"incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving","kunyomi":["こうむ.る","おお.う","かぶ.る","かぶ.せる"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"被","reading":"ヒ","meaning":"indicates the target of an activity, -ee (e.g. employee, examinee, trustee)"},{"example":"被害","reading":"ヒガイ","meaning":"(suffering) damage, injury, harm"},{"example":"外被","reading":"ガイヒ","meaning":"(protective) coat, casing, housing, jacket"},{"example":"花被","reading":"カヒ","meaning":"perianth, floral envelope"}],"kunyomiExamples":[{"example":"被る","reading":"こうむる","meaning":"to suffer, to receive (kindness, rebuke, support), to sustain (damage)"},{"example":"覆う","reading":"おおう","meaning":"to cover, to hide, to conceal, to wrap, to disguise"},{"example":"被る","reading":"かぶる","meaning":"to put on (one's head), to wear, to have on, to pull over (one's head), to crown (oneself), to be covered with (dust, snow, etc.), to pour (water, etc.) on oneself, to dash on oneself, to ship water, to bear (e.g. someone's debts, faults, etc.), to take (blame), to assume (responsibility), to shoulder (burden), to overlap (e.g. sound or color), to be similar, to be redundant, to be fogged (due to overexposure, etc.), to close, to come to an end, to get a full house, to sell out, to blunder, to bungle, to fail, to be deceived"},{"example":"被せる","reading":"かぶせる","meaning":"to cover (with something), to put on (e.g. on someone else's head), to plate something (with a metal), to pour or dash a liquid (on something), to charge (a person with a guilt)"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["初","又","皮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34987_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088ab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88ab.gif","uri":"https://jisho.org/search/%E8%A2%AB%23kanji"}}
+{
+  "id": "被",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "被",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "431",
+    "strokeCount": 10,
+    "meaning": "incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving",
+    "kunyomi": [
+      "こうむ.る",
+      "おお.う",
+      "かぶ.る",
+      "かぶ.せる"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "被",
+        "reading": "ヒ",
+        "meaning": "indicates the target of an activity, -ee (e.g. employee, examinee, trustee)"
+      },
+      {
+        "example": "被害",
+        "reading": "ヒガイ",
+        "meaning": "(suffering) damage, injury, harm"
+      },
+      {
+        "example": "外被",
+        "reading": "ガイヒ",
+        "meaning": "(protective) coat, casing, housing, jacket"
+      },
+      {
+        "example": "花被",
+        "reading": "カヒ",
+        "meaning": "perianth, floral envelope"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "被る",
+        "reading": "こうむる",
+        "meaning": "to suffer, to receive (kindness, rebuke, support), to sustain (damage)"
+      },
+      {
+        "example": "覆う",
+        "reading": "おおう",
+        "meaning": "to cover, to hide, to conceal, to wrap, to disguise"
+      },
+      {
+        "example": "被る",
+        "reading": "かぶる",
+        "meaning": "to put on (one's head), to wear, to have on, to pull over (one's head), to crown (oneself), to be covered with (dust, snow, etc.), to pour (water, etc.) on oneself, to dash on oneself, to ship water, to bear (e.g. someone's debts, faults, etc.), to take (blame), to assume (responsibility), to shoulder (burden), to overlap (e.g. sound or color), to be similar, to be redundant, to be fogged (due to overexposure, etc.), to close, to come to an end, to get a full house, to sell out, to blunder, to bungle, to fail, to be deceived"
+      },
+      {
+        "example": "被せる",
+        "reading": "かぶせる",
+        "meaning": "to cover (with something), to put on (e.g. someone's head), to pour liquid (on something), to dash liquid (over something), to plate (something) with metal, to cover (with a dental crown), to add (e.g. music to a video), to include (into something), to speak (over someone else), to put the blame (on someone), to place the responsibility (on someone)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "初",
+      "又",
+      "皮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34987_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88ab.gif",
+    "uri": "https://jisho.org/search/%E8%A2%AB%23kanji"
+  }
+}

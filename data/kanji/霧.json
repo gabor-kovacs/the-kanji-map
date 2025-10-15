@@ -1,1 +1,84 @@
-{"id":"霧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霧","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1747","strokeCount":19,"meaning":"fog, mist","kunyomi":["きり"],"onyomi":["ム","ボウ","ブ"],"onyomiExamples":[{"example":"霧化","reading":"ムカ","meaning":"atomization"},{"example":"霧虹","reading":"キリニジ","meaning":"fog bow, fogbow, mistbow, white rainbow"},{"example":"夕霧","reading":"ユウギリ","meaning":"evening mist"},{"example":"海霧","reading":"カイム","meaning":"sea fog"},{"example":"蓮霧","reading":"レンブ","meaning":"wax apple (Syzygium samarangense), Java apple"}],"kunyomiExamples":[{"example":"霧","reading":"きり","meaning":"fog, mist, spray"},{"example":"霧雨","reading":"きりさめ","meaning":"drizzle, light rain"},{"example":"黒い霧","reading":"くろいきり","meaning":"thick fog (of suspicion), black veil of secrecy, covered-up crime, unethical act, etc."}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["力","攵","矛","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38695_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09727.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9727.gif","uri":"https://jisho.org/search/%E9%9C%A7%23kanji"}}
+{
+  "id": "霧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霧",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1747",
+    "strokeCount": 19,
+    "meaning": "fog, mist",
+    "kunyomi": [
+      "きり"
+    ],
+    "onyomi": [
+      "ム",
+      "ボウ",
+      "ブ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霧化",
+        "reading": "ムカ",
+        "meaning": "atomization"
+      },
+      {
+        "example": "霧虹",
+        "reading": "キリニジ",
+        "meaning": "fog bow, fogbow, mistbow, white rainbow"
+      },
+      {
+        "example": "夕霧",
+        "reading": "ユウギリ",
+        "meaning": "evening mist"
+      },
+      {
+        "example": "海霧",
+        "reading": "カイム",
+        "meaning": "sea fog"
+      },
+      {
+        "example": "蓮霧",
+        "reading": "レンブ",
+        "meaning": "wax apple (Syzygium samarangense), Java apple"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "霧",
+        "reading": "きり",
+        "meaning": "fog, mist, spray"
+      },
+      {
+        "example": "霧雨",
+        "reading": "きりさめ",
+        "meaning": "drizzle, light rain"
+      },
+      {
+        "example": "黒い霧",
+        "reading": "くろいきり",
+        "meaning": "thick fog (of suspicion), black veil of secrecy, covered-up crime, unethical act, etc."
+      },
+      {
+        "example": "雲霧",
+        "reading": "うんむ",
+        "meaning": "clouds and fog"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "力",
+      "攵",
+      "矛",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38695_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09727.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9727.gif",
+    "uri": "https://jisho.org/search/%E9%9C%A7%23kanji"
+  }
+}

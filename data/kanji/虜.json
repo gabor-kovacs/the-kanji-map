@@ -1,1 +1,66 @@
-{"id":"虜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"虜","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1678","strokeCount":13,"meaning":"captive, barbarian, low epithet for the enemy","kunyomi":["とりこ","とりく"],"onyomi":["リョ","ロ"],"onyomiExamples":[{"example":"虜","reading":"リョ","meaning":"captive, prisoner, foreigner, barbarian, slave"},{"example":"虜囚","reading":"リョシュウ","meaning":"captive, prisoner"},{"example":"胡虜","reading":"コリョ","meaning":"northern barbarian tribes surrounding ancient China, foreigner, barbarian tribe"},{"example":"墨黠虜","reading":"ボクカツリョ","meaning":"late Edo-period pejorative for Americans"}],"kunyomiExamples":[{"example":"虜","reading":"とりこ","meaning":"captive, prisoner, victim (of love, etc.), slave (to one's lust, etc.)"}],"radical":{"symbol":"虍","meaning":"tiger stripes"},"parts":["力","匕","卜","厂","田","虍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34396_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865c.gif","uri":"https://jisho.org/search/%E8%99%9C%23kanji"}}
+{
+  "id": "虜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虜",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1678",
+    "strokeCount": 13,
+    "meaning": "captive, barbarian, low epithet for the enemy",
+    "kunyomi": [
+      "とりこ",
+      "とりく"
+    ],
+    "onyomi": [
+      "リョ",
+      "ロ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虜",
+        "reading": "リョ",
+        "meaning": "captive, prisoner, foreigner, barbarian, slave"
+      },
+      {
+        "example": "虜囚",
+        "reading": "リョシュウ",
+        "meaning": "captive, prisoner (of war)"
+      },
+      {
+        "example": "胡虜",
+        "reading": "コリョ",
+        "meaning": "northern barbarian tribes surrounding ancient China, foreigner, barbarian tribe"
+      },
+      {
+        "example": "俘虜",
+        "reading": "フリョ",
+        "meaning": "prisoner of war, captive"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虜",
+        "reading": "とりこ",
+        "meaning": "captive, prisoner, victim (of love, etc.), slave (to one's lust, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "tiger stripes"
+    },
+    "parts": [
+      "力",
+      "匕",
+      "卜",
+      "厂",
+      "田",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34396_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865c.gif",
+    "uri": "https://jisho.org/search/%E8%99%9C%23kanji"
+  }
+}

@@ -1,1 +1,48 @@
-{"id":"薨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"薨","found":true,"strokeCount":16,"meaning":"die","kunyomi":["こう.じる","みまか.る"],"onyomi":["コウ"],"onyomiExamples":[{"example":"薨","reading":"コウ","meaning":"death (of a nobleman, etc.)"},{"example":"薨去","reading":"コウキョ","meaning":"death (of a nobleman, Imperial family member, etc.), demise"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["冖","匕","夕","艾","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34216_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085a8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85a8.gif","uri":"https://jisho.org/search/%E8%96%A8%23kanji"}}
+{
+  "id": "薨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薨",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "die",
+    "kunyomi": [
+      "こう.じる",
+      "みまか.る"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "薨",
+        "reading": "コウ",
+        "meaning": "death (of a nobleman, etc.)"
+      },
+      {
+        "example": "薨去",
+        "reading": "コウキョ",
+        "meaning": "death (of a nobleman, Imperial family member, etc.), demise"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "冖",
+      "匕",
+      "夕",
+      "艾",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34216_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85a8.gif",
+    "uri": "https://jisho.org/search/%E8%96%A8%23kanji"
+  }
+}

@@ -1,1 +1,78 @@
-{"id":"霰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霰","found":true,"strokeCount":20,"meaning":"hail, hailstones, small cubes","kunyomi":["あられ"],"onyomi":["セン","サン"],"onyomiExamples":[{"example":"霰粒腫","reading":"サンリュウシュ","meaning":"chalazion (sebaceous cyst of the eyelid), tarsal cyst"},{"example":"散弾","reading":"サンダン","meaning":"shot, buckshot"},{"example":"散弾銃","reading":"サンダンジュウ","meaning":"shotgun"},{"example":"春霰","reading":"シュンサン","meaning":"spring hail"}],"kunyomiExamples":[{"example":"霰","reading":"あられ","meaning":"hail (esp. hailballs under 5 mm), graupel, dicing, small cubes, roasted mochi pieces (usu. flavoured with soy sauce, etc.)"},{"example":"霰石","reading":"あられいし","meaning":"aragonite"},{"example":"雪あられ","reading":"ゆきあられ","meaning":"soft hail, snow pellets"},{"example":"雛あられ","reading":"ひなあられ","meaning":"sweetened rice-flour cakes for offering at the Dolls' Festival"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["一","乞","二","攵","月","雨","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38704_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09730.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9730.gif","uri":"https://jisho.org/search/%E9%9C%B0%23kanji"}}
+{
+  "id": "霰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霰",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "hail, hailstones, small cubes",
+    "kunyomi": [
+      "あられ"
+    ],
+    "onyomi": [
+      "セン",
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霰粒腫",
+        "reading": "サンリュウシュ",
+        "meaning": "chalazion, meibomian cyst"
+      },
+      {
+        "example": "散弾",
+        "reading": "サンダン",
+        "meaning": "shot, buckshot"
+      },
+      {
+        "example": "散弾銃",
+        "reading": "サンダンジュウ",
+        "meaning": "shotgun"
+      },
+      {
+        "example": "春霰",
+        "reading": "シュンサン",
+        "meaning": "spring hail"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "霰",
+        "reading": "あられ",
+        "meaning": "hail (esp. hailballs under 5 mm), graupel, dicing, small cubes, roasted mochi pieces (usu. flavoured with soy sauce, etc.)"
+      },
+      {
+        "example": "霰石",
+        "reading": "あられいし",
+        "meaning": "aragonite"
+      },
+      {
+        "example": "雪あられ",
+        "reading": "ゆきあられ",
+        "meaning": "soft hail, snow pellets"
+      },
+      {
+        "example": "雛あられ",
+        "reading": "ひなあられ",
+        "meaning": "sweetened rice-flour cakes for offering at the Dolls' Festival"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "一",
+      "乞",
+      "二",
+      "攵",
+      "月",
+      "雨",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38704_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09730.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9730.gif",
+    "uri": "https://jisho.org/search/%E9%9C%B0%23kanji"
+  }
+}

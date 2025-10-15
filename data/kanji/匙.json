@@ -1,1 +1,63 @@
-{"id":"匙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"匙","found":true,"strokeCount":11,"meaning":"spoon","kunyomi":["さじ"],"onyomi":["シ"],"onyomiExamples":[{"example":"匙","reading":"サジ","meaning":"spoon"},{"example":"円匙","reading":"エンピ","meaning":"small shovel"}],"kunyomiExamples":[{"example":"匙","reading":"さじ","meaning":"spoon"},{"example":"さじ加減","reading":"さじかげん","meaning":"measured amount (esp. of medicine), dosing, quantity, prescription, manner of seasoning, making adjustments based on experience, doing something by feel, skill, knack"},{"example":"小さじ","reading":"こさじ","meaning":"teaspoon"},{"example":"大さじ","reading":"おおさじ","meaning":"tablespoon"}],"radical":{"symbol":"匕","meaning":"spoon"},"parts":["匕","日","疋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21273_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05319.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5319.gif","uri":"https://jisho.org/search/%E5%8C%99%23kanji"}}
+{
+  "id": "匙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匙",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "spoon",
+    "kunyomi": [
+      "さじ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匙",
+        "reading": "サジ",
+        "meaning": "spoon"
+      },
+      {
+        "example": "円匙",
+        "reading": "エンピ",
+        "meaning": "small shovel"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "匙",
+        "reading": "さじ",
+        "meaning": "spoon"
+      },
+      {
+        "example": "さじ加減",
+        "reading": "さじかげん",
+        "meaning": "measured amount (esp. of medicine), dosing, quantity, prescription, manner of seasoning, making adjustments based on experience, doing something by feel, skill, knack"
+      },
+      {
+        "example": "小さじ",
+        "reading": "こさじ",
+        "meaning": "teaspoon"
+      },
+      {
+        "example": "大さじ",
+        "reading": "おおさじ",
+        "meaning": "tablespoon"
+      }
+    ],
+    "radical": {
+      "symbol": "匕",
+      "meaning": "spoon"
+    },
+    "parts": [
+      "匕",
+      "日",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21273_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05319.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5319.gif",
+    "uri": "https://jisho.org/search/%E5%8C%99%23kanji"
+  }
+}

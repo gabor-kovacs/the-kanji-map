@@ -1,1 +1,30 @@
-{"id":"椌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"椌","found":true,"strokeCount":12,"meaning":"type of ancient musical instrument, unadorned tool","kunyomi":[],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["儿","工","木","穴"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26892_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0690c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/690c.gif","uri":"https://jisho.org/search/%E6%A4%8C%23kanji"}}
+{
+  "id": "椌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椌",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "type of ancient musical instrument, unadorned tool",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "儿",
+      "工",
+      "木",
+      "穴"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26892_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0690c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/690c.gif",
+    "uri": "https://jisho.org/search/%E6%A4%8C%23kanji"
+  }
+}

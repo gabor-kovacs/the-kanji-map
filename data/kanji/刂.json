@@ -1,1 +1,28 @@
-{"id":"刂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"刂","found":true,"strokeCount":2,"meaning":"knife, standing sword radical (no. 18)","kunyomi":[],"onyomi":["トウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20994_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05202.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5202.gif","uri":"https://jisho.org/search/%E5%88%82%23kanji"}}
+{
+  "id": "刂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "刂",
+    "found": true,
+    "strokeCount": 2,
+    "meaning": "knife, standing sword radical (no. 18)",
+    "kunyomi": [],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20994_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05202.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5202.gif",
+    "uri": "https://jisho.org/search/%E5%88%82%23kanji"
+  }
+}

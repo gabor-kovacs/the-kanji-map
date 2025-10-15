@@ -1,1 +1,86 @@
-{"id":"戯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"戯","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1880","strokeCount":15,"meaning":"frolic, play, sport","kunyomi":["たわむ.れる","ざ.れる","じゃ.れる"],"onyomi":["ギ","ゲ"],"onyomiExamples":[{"example":"冗談","reading":"ジョウダン","meaning":"joke, jest, funny story"},{"example":"戯曲","reading":"ギキョク","meaning":"drama, play, Chinese opera"},{"example":"遊戯","reading":"ユウギ","meaning":"game, play, sports"},{"example":"性戯","reading":"セイギ","meaning":"sex act, sexual play"},{"example":"冗談","reading":"ジョウダン","meaning":"joke, jest, funny story"},{"example":"戯作","reading":"ゲサク","meaning":"cheap literature, writing for amusement, light literature popular in the late Edo period"}],"kunyomiExamples":[{"example":"戯れる","reading":"たわむれる","meaning":"to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke, to flirt with"},{"example":"戯れる","reading":"たわむれる","meaning":"to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke, to flirt with"},{"example":"戯れる","reading":"たわむれる","meaning":"to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke, to flirt with"}],"radical":{"symbol":"戈","meaning":"spear, halberd"},"parts":["匕","卜","厂","戈","虍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25135_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0622f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/622f.gif","uri":"https://jisho.org/search/%E6%88%AF%23kanji"}}
+{
+  "id": "戯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戯",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1880",
+    "strokeCount": 15,
+    "meaning": "frolic, play, sport",
+    "kunyomi": [
+      "たわむ.れる",
+      "ざ.れる",
+      "じゃ.れる"
+    ],
+    "onyomi": [
+      "ギ",
+      "ゲ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戯曲",
+        "reading": "ギキョク",
+        "meaning": "drama, play, Chinese opera"
+      },
+      {
+        "example": "戯画",
+        "reading": "ギガ",
+        "meaning": "caricature, cartoon, comics"
+      },
+      {
+        "example": "遊戯",
+        "reading": "ユウギ",
+        "meaning": "play, playing, game, play and dance (at a kindergarten or elementary school)"
+      },
+      {
+        "example": "性戯",
+        "reading": "セイギ",
+        "meaning": "sex act, sexual play"
+      },
+      {
+        "example": "戯作",
+        "reading": "ゲサク",
+        "meaning": "cheap literature, writing for amusement, light literature popular in the late Edo period"
+      },
+      {
+        "example": "戯作三昧",
+        "reading": "ゲサクザンマイ",
+        "meaning": "being absorbed in writing popular novels (cheap fiction), being absorbed in writing something to amuse oneself"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "戯れる",
+        "reading": "たわむれる",
+        "meaning": "to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke, to flirt with, to have elegance, to have refinement"
+      },
+      {
+        "example": "戯れる",
+        "reading": "たわむれる",
+        "meaning": "to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke, to flirt with, to have elegance, to have refinement"
+      },
+      {
+        "example": "戯れる",
+        "reading": "じゃれる",
+        "meaning": "to play around (of a cat, dog, etc.), to frisk, to gambol, to frolic"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "spear, halberd"
+    },
+    "parts": [
+      "匕",
+      "卜",
+      "厂",
+      "戈",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25135_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0622f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/622f.gif",
+    "uri": "https://jisho.org/search/%E6%88%AF%23kanji"
+  }
+}

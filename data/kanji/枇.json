@@ -1,1 +1,40 @@
-{"id":"枇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"枇","found":true,"strokeCount":8,"meaning":"loquat, spoon","kunyomi":[],"onyomi":["ビ","ヒ"],"onyomiExamples":[{"example":"枇杷","reading":"ビワ","meaning":"loquat (Eriobotrya japonica), Japanese medlar"},{"example":"びわ酒","reading":"ビワシュ","meaning":"loquat wine"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["木","比"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26503_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06787.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6787.gif","uri":"https://jisho.org/search/%E6%9E%87%23kanji"}}
+{
+  "id": "枇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "枇",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "loquat, spoon",
+    "kunyomi": [],
+    "onyomi": [
+      "ビ",
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "枇杷",
+        "reading": "ビワ",
+        "meaning": "loquat (Eriobotrya japonica), Japanese medlar"
+      },
+      {
+        "example": "びわ酒",
+        "reading": "ビワシュ",
+        "meaning": "loquat wine"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "木",
+      "比"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26503_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06787.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6787.gif",
+    "uri": "https://jisho.org/search/%E6%9E%87%23kanji"
+  }
+}

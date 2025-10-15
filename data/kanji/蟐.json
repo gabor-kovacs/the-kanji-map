@@ -1,1 +1,33 @@
-{"id":"蟐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蟐","found":true,"strokeCount":17,"meaning":"toad, mantis, (phantom kanji), (kokuji)","kunyomi":["もみ"],"onyomi":["ジョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["冖","口","尚","巾","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34768_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087d0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87d0.gif","uri":"https://jisho.org/search/%E8%9F%90%23kanji"}}
+{
+  "id": "蟐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟐",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "toad, mantis, (ghost kanji), (kokuji)",
+    "kunyomi": [
+      "もみ"
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "冖",
+      "口",
+      "尚",
+      "巾",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34768_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087d0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87d0.gif",
+    "uri": "https://jisho.org/search/%E8%9F%90%23kanji"
+  }
+}

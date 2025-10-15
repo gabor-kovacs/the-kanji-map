@@ -1,1 +1,59 @@
-{"id":"詔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"詔","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2239","strokeCount":12,"meaning":"imperial edict","kunyomi":["みことのり"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"詔","reading":"ミコトノリ","meaning":"imperial decree, imperial edict"},{"example":"詔書","reading":"ショウショ","meaning":"imperial edict, decree"},{"example":"大詔","reading":"タイショウ","meaning":"imperial rescript"}],"kunyomiExamples":[{"example":"詔","reading":"みことのり","meaning":"imperial decree, imperial edict"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["刀","口","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35412_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a54.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a54.gif","uri":"https://jisho.org/search/%E8%A9%94%23kanji"}}
+{
+  "id": "詔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "詔",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2239",
+    "strokeCount": 12,
+    "meaning": "imperial edict",
+    "kunyomi": [
+      "みことのり"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "詔",
+        "reading": "ミコトノリ",
+        "meaning": "imperial decree, imperial edict"
+      },
+      {
+        "example": "詔書",
+        "reading": "ショウショ",
+        "meaning": "imperial edict, decree"
+      },
+      {
+        "example": "大詔",
+        "reading": "タイショウ",
+        "meaning": "imperial rescript"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "詔",
+        "reading": "みことのり",
+        "meaning": "imperial decree, imperial edict"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "刀",
+      "口",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35412_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a54.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a54.gif",
+    "uri": "https://jisho.org/search/%E8%A9%94%23kanji"
+  }
+}

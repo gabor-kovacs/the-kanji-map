@@ -1,1 +1,55 @@
-{"id":"扮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"扮","found":true,"strokeCount":7,"meaning":"impersonate, dress up, disguise, thin shingles","kunyomi":["ふん.する","やつ.す","よそお.う"],"onyomi":["フン","ハン","ヘン"],"onyomiExamples":[{"example":"粉飾","reading":"フンショク","meaning":"embellishment (e.g. of a story), ornamentation, decoration, putting on makeup"},{"example":"扮する","reading":"フンスル","meaning":"to dress up as, to disguise oneself as, to play the role of"}],"kunyomiExamples":[{"example":"扮する","reading":"ふんする","meaning":"to dress up as, to disguise oneself as, to play the role of"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ハ","刀","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25198_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0626e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/626e.gif","uri":"https://jisho.org/search/%E6%89%AE%23kanji"}}
+{
+  "id": "扮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "扮",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "impersonate, dress up, disguise, thin shingles",
+    "kunyomi": [
+      "ふん.する",
+      "やつ.す",
+      "よそお.う"
+    ],
+    "onyomi": [
+      "フン",
+      "ハン",
+      "ヘン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "粉飾",
+        "reading": "フンショク",
+        "meaning": "embellishment (e.g. of a story), ornamentation, decoration, putting on makeup"
+      },
+      {
+        "example": "扮する",
+        "reading": "フンスル",
+        "meaning": "to dress up as, to disguise oneself as, to play the role of"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "扮する",
+        "reading": "ふんする",
+        "meaning": "to dress up as, to disguise oneself as, to play the role of"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ハ",
+      "刀",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25198_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0626e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/626e.gif",
+    "uri": "https://jisho.org/search/%E6%89%AE%23kanji"
+  }
+}

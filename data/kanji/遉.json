@@ -1,1 +1,45 @@
-{"id":"遉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遉","found":true,"strokeCount":13,"meaning":"as might be expected","kunyomi":["うかが.う","さすが"],"onyomi":["テイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"流石","reading":"さすが","meaning":"as one would expect, just as you'd expect (from), just like (someone), still, all the same, after all, even ... (e.g. \"even a genius\")"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["ハ","卜","目","貝","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36937_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09049.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9049.gif","uri":"https://jisho.org/search/%E9%81%89%23kanji"}}
+{
+  "id": "遉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遉",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "as might be expected",
+    "kunyomi": [
+      "うかが.う",
+      "さすが"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "流石",
+        "reading": "さすが",
+        "meaning": "as one would expect, just as you'd expect (from), just like (someone), still, all the same, after all, even ... (e.g. \"even a genius\")"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "ハ",
+      "卜",
+      "目",
+      "貝",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36937_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09049.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9049.gif",
+    "uri": "https://jisho.org/search/%E9%81%89%23kanji"
+  }
+}

@@ -1,1 +1,60 @@
-{"id":"湛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"湛","found":true,"newspaperFrequencyRank":"2183","strokeCount":12,"meaning":"fill, wear (a smile), clear, pure, dense, deep","kunyomi":["しず.む","たた.える"],"onyomi":["タン","チン","ジン","セン"],"onyomiExamples":[{"example":"湛水","reading":"タンスイ","meaning":"flooding, filling, inundation, submerging, clogging"},{"example":"湛然","reading":"タンゼン","meaning":"still and full of water, quiet and unmoving"}],"kunyomiExamples":[{"example":"湛える","reading":"たたえる","meaning":"to fill (with), to be filled with, to express (an emotion), to project (sadness, joy, etc.), to wear (e.g. a smile)"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","儿","匚","汁","甘","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28251_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e5b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e5b.gif","uri":"https://jisho.org/search/%E6%B9%9B%23kanji"}}
+{
+  "id": "湛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "湛",
+    "found": true,
+    "newspaperFrequencyRank": "2183",
+    "strokeCount": 12,
+    "meaning": "fill, wear (a smile), clear, pure, dense, deep",
+    "kunyomi": [
+      "しず.む",
+      "たた.える"
+    ],
+    "onyomi": [
+      "タン",
+      "チン",
+      "ジン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "湛水",
+        "reading": "タンスイ",
+        "meaning": "flooding, filling, inundation, submerging, clogging"
+      },
+      {
+        "example": "湛然",
+        "reading": "タンゼン",
+        "meaning": "still and full of water, quiet and unmoving"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "湛える",
+        "reading": "たたえる",
+        "meaning": "to fill (with), to be filled with, to express (an emotion), to project (sadness, joy, etc.), to wear (e.g. a smile)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "匚",
+      "汁",
+      "甘",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28251_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e5b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e5b.gif",
+    "uri": "https://jisho.org/search/%E6%B9%9B%23kanji"
+  }
+}

@@ -1,1 +1,311 @@
-{"id":"枯","kanjialiveData":{"kanji":{"character":"枯","meaning":{"english":"wither, blight"},"strokes":{"count":9,"timings":[0,1.133333,3.2,4.266667,4.933333,6.6,8.466667,9.4,10.6,12],"images":["https://media.kanjialive.com/kanji_strokes/ka(reha)_1.svg","https://media.kanjialive.com/kanji_strokes/ka(reha)_2.svg","https://media.kanjialive.com/kanji_strokes/ka(reha)_3.svg","https://media.kanjialive.com/kanji_strokes/ka(reha)_4.svg","https://media.kanjialive.com/kanji_strokes/ka(reha)_5.svg","https://media.kanjialive.com/kanji_strokes/ka(reha)_6.svg","https://media.kanjialive.com/kanji_strokes/ka(reha)_7.svg","https://media.kanjialive.com/kanji_strokes/ka(reha)_8.svg","https://media.kanjialive.com/kanji_strokes/ka(reha)_9.svg"]},"onyomi":{"romaji":"ko","katakana":"コ"},"kunyomi":{"romaji":"ka, kareru, karasu","hiragana":"か"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ka(reha)_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ka(reha)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ka(reha)_00.webm"}},"radical":{"character":"","strokes":4,"image":"https://media.kanjialive.com/radical_character/kihen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"きへん","romaji":"kihen"},"meaning":{"english":"tree, wood"},"animation":["https://media.kanjialive.com/rad_frames/kihen0.svg","https://media.kanjialive.com/rad_frames/kihen1.svg","https://media.kanjialive.com/rad_frames/kihen2.svg"]},"references":{"grade":null,"kodansha":"605","classic_nelson":"2238"},"examples":[{"japanese":"栄枯盛衰（えいこせいすい）","meaning":{"english":"ups and downs, vicissitudes"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_a.mp3"}},{"japanese":"枯渇する（こかつする）","meaning":{"english":"dry up, become exhausted"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_b.mp3"}},{"japanese":"枯らす（からす）","meaning":{"english":"let wither, blast [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_c.mp3"}},{"japanese":"木枯らし（こがらし）","meaning":{"english":"cold wintry wind"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_d.mp3"}},{"japanese":"枯れる（かれる）","meaning":{"english":"whither, be blasted [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_e.mp3"}},{"japanese":"枯れ葉（かれは）","meaning":{"english":"dead leaf, withered lead"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_f.mp3"}},{"japanese":"枯れ木（かれき）","meaning":{"english":"dead tree, withered tree"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_g.mp3"}}]},"jishoData":{"query":"枯","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"1749","strokeCount":9,"meaning":"wither, die, dry up, be seasoned","kunyomi":["か.れる","か.らす"],"onyomi":["コ"],"onyomiExamples":[{"example":"枯れ木","reading":"カレキ","meaning":"dead tree, withered tree, leafless tree, bare tree"},{"example":"枯死","reading":"コシ","meaning":"withering, dying"},{"example":"栄枯","reading":"エイコ","meaning":"vicissitudes, ups and downs"},{"example":"蒼古","reading":"ソウコ","meaning":"old-fashioned and tasteful"}],"kunyomiExamples":[{"example":"枯れる","reading":"かれる","meaning":"to wither (of a plant), to be blasted, to die, to mature (of one's personality, abilities, etc.)"},{"example":"枯らす","reading":"からす","meaning":"to let dry, to kill (vegetation), to season (lumber)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["十","口","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26543_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067af.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67af.gif","uri":"https://jisho.org/search/%E6%9E%AF%23kanji"}}
+{
+  "id": "枯",
+  "kanjialiveData": {
+    "_id": "54317ada791eba5146ee48bf",
+    "_rev": "10-70d3f9b1bf9625fca0b61dd2f150e76a",
+    "rad_name_ja": "きへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "ka, kareru, karasu",
+    "meaning": "wither, blight",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "栄枯盛衰（えいこせいすい）",
+        "meaning": {
+          "english": "ups and downs, vicissitudes"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "枯渇する（こかつする）",
+        "meaning": {
+          "english": "dry up, become exhausted"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "枯らす（からす）",
+        "meaning": {
+          "english": "let wither, blast [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "木枯らし（こがらし）",
+        "meaning": {
+          "english": "cold wintry wind"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "枯れる（かれる）",
+        "meaning": {
+          "english": "whither, be blasted [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "枯れ葉（かれは）",
+        "meaning": {
+          "english": "dead leaf, withered lead"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "枯れ木（かれき）",
+        "meaning": {
+          "english": "dead tree, withered tree"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(reha)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka(reha)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka(reha)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka(reha)_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "か、かれる、からす",
+    "ka_utf": "枯",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=枯",
+    "rad_name_search": [
+      "kihen"
+    ],
+    "rad_order": 98,
+    "txt_books": [],
+    "kname": "ka(reha)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.133333,
+      3.2,
+      4.266667,
+      4.933333,
+      6.6,
+      8.466667,
+      9.4,
+      10.6,
+      12
+    ],
+    "kunyomi_ka_display": "か",
+    "dick": "605",
+    "rad_name": "kihen",
+    "dicn": "2238",
+    "mn_hint": "Old 古 tree 木.",
+    "rad_stroke": 4,
+    "onyomi_ja": "コ",
+    "rad_meaning": "tree, wood",
+    "onyomi": "ko",
+    "ka_id": "ka_1149",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "ko",
+      "ko"
+    ],
+    "kunyomi_search": [
+      "ka",
+      "kareru",
+      "karasu",
+      "ka, kareru, karasu"
+    ],
+    "meaning_search": [
+      "wither",
+      "blight",
+      "wither, blight"
+    ],
+    "onyomi_ja_search": [
+      "コ",
+      "コ"
+    ],
+    "kunyomi_ja_search": [
+      "か",
+      "かれる",
+      "からす",
+      "か、かれる、からす"
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "きへん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "kihen",
+    "kanji": {
+      "character": "枯",
+      "meaning": {
+        "english": "wither, blight"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1.133333,
+          3.2,
+          4.266667,
+          4.933333,
+          6.6,
+          8.466667,
+          9.4,
+          10.6,
+          12
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ka(reha)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka(reha)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka(reha)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka(reha)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka(reha)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka(reha)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka(reha)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka(reha)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka(reha)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ko",
+        "katakana": "コ"
+      },
+      "kunyomi": {
+        "romaji": "ka, kareru, karasu",
+        "hiragana": "か"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ka(reha)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ka(reha)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ka(reha)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "きへん",
+        "romaji": "kihen"
+      },
+      "meaning": {
+        "english": "tree, wood"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kihen0.svg",
+        "https://media.kanjialive.com/rad_frames/kihen1.svg",
+        "https://media.kanjialive.com/rad_frames/kihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "605",
+      "classic_nelson": "2238"
+    }
+  },
+  "jishoData": {
+    "query": "枯",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1749",
+    "strokeCount": 9,
+    "meaning": "wither, die, dry up, be seasoned",
+    "kunyomi": [
+      "か.れる",
+      "か.らす"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "枯れ木",
+        "reading": "カレキ",
+        "meaning": "dead tree, withered tree, leafless tree, bare tree"
+      },
+      {
+        "example": "枯死",
+        "reading": "コシ",
+        "meaning": "withering, dying"
+      },
+      {
+        "example": "栄枯",
+        "reading": "エイコ",
+        "meaning": "vicissitudes, ups and downs"
+      },
+      {
+        "example": "蒼古",
+        "reading": "ソウコ",
+        "meaning": "old-fashioned and tasteful"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "枯れる",
+        "reading": "かれる",
+        "meaning": "to wither (of a plant), to be blasted, to die, to mature (of one's personality, abilities, etc.)"
+      },
+      {
+        "example": "枯らす",
+        "reading": "からす",
+        "meaning": "to let dry, to kill (vegetation), to season (lumber)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "十",
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26543_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067af.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67af.gif",
+    "uri": "https://jisho.org/search/%E6%9E%AF%23kanji"
+  }
+}

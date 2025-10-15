@@ -1,1 +1,36 @@
-{"id":"恆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"恆","found":true,"strokeCount":9,"meaning":"constant, regular, persistent","kunyomi":["つね.に"],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["一","彑","忙","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24646_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06046.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6046.gif","uri":"https://jisho.org/search/%E6%81%86%23kanji"}}
+{
+  "id": "恆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恆",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "constant, regular, persistent",
+    "kunyomi": [
+      "つね.に"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "一",
+      "彑",
+      "忙",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24646_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06046.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6046.gif",
+    "uri": "https://jisho.org/search/%E6%81%86%23kanji"
+  }
+}

@@ -1,1 +1,23 @@
-{"id":"关","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"关","found":true,"strokeCount":6,"meaning":"frontier pass, close, relation","kunyomi":[],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"八","meaning":"eight"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20851_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05173.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5173.gif","uri":"https://jisho.org/search/%E5%85%B3%23kanji"}}
+{
+  "id": "关",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "关",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "frontier pass, close, relation",
+    "kunyomi": [],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "八",
+      "meaning": "eight"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20851_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05173.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5173.gif",
+    "uri": "https://jisho.org/search/%E5%85%B3%23kanji"
+  }
+}

@@ -1,1 +1,31 @@
-{"id":"垳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"垳","found":true,"strokeCount":9,"meaning":"cliff, used in proper names, (kokuji)","kunyomi":["がけ","いげ","いけ"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","彳","行"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22451_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057b3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57b3.gif","uri":"https://jisho.org/search/%E5%9E%B3%23kanji"}}
+{
+  "id": "垳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "垳",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "cliff, used in proper names, (kokuji)",
+    "kunyomi": [
+      "がけ",
+      "いげ",
+      "いけ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "彳",
+      "行"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22451_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057b3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57b3.gif",
+    "uri": "https://jisho.org/search/%E5%9E%B3%23kanji"
+  }
+}

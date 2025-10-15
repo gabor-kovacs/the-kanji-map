@@ -1,1 +1,74 @@
-{"id":"鋏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鋏","found":true,"strokeCount":15,"meaning":"scissors","kunyomi":["はさみ","はさ.む","つるぎ"],"onyomi":["キョウ"],"onyomiExamples":[{"example":"鋏角","reading":"キョウカク","meaning":"chelicera, mouthparts of chelicerates (including arachnids)"},{"example":"鋏角亜門","reading":"キョウカクアモン","meaning":"Chelicerata, suborder comprising arachnids, sea spiders, and horseshoe crabs"},{"example":"入鋏","reading":"ニュウキョウ","meaning":"(ticket) punching"}],"kunyomiExamples":[{"example":"鋏","reading":"はさみ","meaning":"scissors, shears, clippers, hole punch"},{"example":"鋏虫","reading":"はさみむし","meaning":"earwig"},{"example":"改札鋏","reading":"かいさつはさみ","meaning":"ticket punch"},{"example":"剪む","reading":"はさむ","meaning":"to clip, to snip"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["个","人","大","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37583_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092cf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92cf.gif","uri":"https://jisho.org/search/%E9%8B%8F%23kanji"}}
+{
+  "id": "鋏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鋏",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "scissors",
+    "kunyomi": [
+      "はさみ",
+      "はさ.む",
+      "つるぎ"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鋏角",
+        "reading": "キョウカク",
+        "meaning": "chelicera, mouthparts of chelicerates (including arachnids)"
+      },
+      {
+        "example": "鋏角亜門",
+        "reading": "キョウカクアモン",
+        "meaning": "Chelicerata, suborder comprising arachnids, sea spiders, and horseshoe crabs"
+      },
+      {
+        "example": "入鋏",
+        "reading": "ニュウキョウ",
+        "meaning": "(ticket) punching"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鋏",
+        "reading": "はさみ",
+        "meaning": "scissors, shears, clippers, hole punch"
+      },
+      {
+        "example": "鋏虫",
+        "reading": "はさみむし",
+        "meaning": "earwig"
+      },
+      {
+        "example": "改札鋏",
+        "reading": "かいさつはさみ",
+        "meaning": "ticket punch"
+      },
+      {
+        "example": "鋏む",
+        "reading": "はさむ",
+        "meaning": "to clip, to snip"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "个",
+      "人",
+      "大",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37583_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092cf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92cf.gif",
+    "uri": "https://jisho.org/search/%E9%8B%8F%23kanji"
+  }
+}

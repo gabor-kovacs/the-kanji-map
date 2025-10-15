@@ -1,1 +1,47 @@
-{"id":"婬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"婬","found":true,"strokeCount":11,"meaning":"lewdness, licentiousness","kunyomi":["みだれ-","ひた.す","ほしいまま","みだ.ら","みだ.れる"],"onyomi":["イン"],"onyomiExamples":[{"example":"淫","reading":"イン","meaning":"licentiousness"},{"example":"淫女","reading":"インジョ","meaning":"lascivious woman, lewd woman, prostitute"}],"kunyomiExamples":[],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["ノ","士","女","爪"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23148_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a6c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a6c.gif","uri":"https://jisho.org/search/%E5%A9%AC%23kanji"}}
+{
+  "id": "婬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "婬",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "lewdness, licentiousness",
+    "kunyomi": [
+      "みだれ-",
+      "ひた.す",
+      "ほしいまま",
+      "みだ.ら",
+      "みだ.れる"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淫",
+        "reading": "イン",
+        "meaning": "licentiousness"
+      },
+      {
+        "example": "淫女",
+        "reading": "インジョ",
+        "meaning": "lascivious woman, lewd woman, prostitute"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "ノ",
+      "士",
+      "女",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23148_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a6c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a6c.gif",
+    "uri": "https://jisho.org/search/%E5%A9%AC%23kanji"
+  }
+}

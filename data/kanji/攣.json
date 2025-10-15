@@ -1,1 +1,59 @@
-{"id":"攣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"攣","found":true,"strokeCount":23,"meaning":"crooked, bent","kunyomi":["つ.る","ひ.く"],"onyomi":["レン"],"onyomiExamples":[{"example":"攣縮","reading":"レンシュク","meaning":"spasm"},{"example":"胃痙攣","reading":"イケイレン","meaning":"gastrospasm, stomach spasm, stomach cramps"},{"example":"膣痙攣","reading":"チツケイレン","meaning":"vaginismus, vaginal spasm"}],"kunyomiExamples":[{"example":"攣る","reading":"つる","meaning":"to cramp, to be cramped, to contract"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["小","幺","手","糸","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25891_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06523.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6523.gif","uri":"https://jisho.org/search/%E6%94%A3%23kanji"}}
+{
+  "id": "攣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "攣",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "crooked, bent",
+    "kunyomi": [
+      "つ.る",
+      "ひ.く"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "攣縮",
+        "reading": "レンシュク",
+        "meaning": "spasm"
+      },
+      {
+        "example": "胃痙攣",
+        "reading": "イケイレン",
+        "meaning": "gastrospasm, stomach spasm, stomach cramps"
+      },
+      {
+        "example": "膣痙攣",
+        "reading": "チツケイレン",
+        "meaning": "vaginismus, vaginal spasm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "攣る",
+        "reading": "つる",
+        "meaning": "to cramp, to be cramped, to get a cramp (in)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "手",
+      "糸",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25891_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06523.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6523.gif",
+    "uri": "https://jisho.org/search/%E6%94%A3%23kanji"
+  }
+}

@@ -1,1 +1,46 @@
-{"id":"屬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"屬","found":true,"strokeCount":21,"meaning":"genus, subordinate official, belong, affiliated","kunyomi":["さかん","つく","やから"],"onyomi":["ゾク","ショク"],"onyomiExamples":[{"example":"ヨモギ属","reading":"ヨモギゾク","meaning":"Artemisia (genus of plants containing mugworts, wormwoods, etc.)"},{"example":"卑属","reading":"ヒゾク","meaning":"lineal descendants"}],"kunyomiExamples":[],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["勹","尸","虫","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23660_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c6c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c6c.gif","uri":"https://jisho.org/search/%E5%B1%AC%23kanji"}}
+{
+  "id": "屬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屬",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "genus, subordinate official, belong, affiliated",
+    "kunyomi": [
+      "さかん",
+      "つく",
+      "やから"
+    ],
+    "onyomi": [
+      "ゾク",
+      "ショク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "ヨモギ属",
+        "reading": "ヨモギゾク",
+        "meaning": "Artemisia (genus of plants containing mugworts, wormwoods, etc.)"
+      },
+      {
+        "example": "卑属",
+        "reading": "ヒゾク",
+        "meaning": "lineal descendants"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "勹",
+      "尸",
+      "虫",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23660_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c6c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c6c.gif",
+    "uri": "https://jisho.org/search/%E5%B1%AC%23kanji"
+  }
+}

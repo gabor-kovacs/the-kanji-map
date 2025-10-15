@@ -1,1 +1,38 @@
-{"id":"廂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廂","found":true,"strokeCount":12,"meaning":"eaves, canopy, vizor, hallways","kunyomi":["ひさし"],"onyomi":["ショウ","ソウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"庇","reading":"ひさし","meaning":"awning (over window, doorway), eaves (of roof), narrow aisle surrounding the core of a temple building, visor (of a cap), brim, peak, classic Japanese women's low pompadour hairstyle"}],"radical":{"symbol":"广","meaning":"house on cliff"},"parts":["广","木","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24258_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ec2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ec2.gif","uri":"https://jisho.org/search/%E5%BB%82%23kanji"}}
+{
+  "id": "廂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廂",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "eaves, canopy, vizor, hallways",
+    "kunyomi": [
+      "ひさし"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "庇",
+        "reading": "ひさし",
+        "meaning": "awning (over a window, doorway, etc.), eaves (of a roof), narrow aisle surrounding the core of a temple building, visor (of a cap), brim, peak, classic Japanese women's low pompadour hairstyle"
+      }
+    ],
+    "radical": {
+      "symbol": "广",
+      "meaning": "house on cliff"
+    },
+    "parts": [
+      "广",
+      "木",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24258_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ec2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ec2.gif",
+    "uri": "https://jisho.org/search/%E5%BB%82%23kanji"
+  }
+}

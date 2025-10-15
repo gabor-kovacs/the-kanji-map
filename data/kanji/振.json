@@ -1,1 +1,82 @@
-{"id":"振","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"振","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"614","strokeCount":10,"meaning":"shake, wave, wag, swing","kunyomi":["ふ.る","ふ.れる","ふ.るう"],"onyomi":["シン"],"onyomiExamples":[{"example":"振り子","reading":"フリコ","meaning":"pendulum"},{"example":"振興","reading":"シンコウ","meaning":"promotion, encouragement"},{"example":"奪三振","reading":"ダツサンシン","meaning":"striking a batter out"},{"example":"不振","reading":"フシン","meaning":"dullness, slump, stagnation, inactivity, depression"}],"kunyomiExamples":[{"example":"振る","reading":"ふる","meaning":"to wave, to shake, to swing, to sprinkle, to throw (dice), to cast (actor), to allocate (work), to turn down (someone), to reject, to jilt, to dump, to abandon, to give up, to ruin, to add kana indicating a reading of a word, to slightly change headings, to change directions, to extract by broiling, to prepare an infusion of, to decoct, to carry with great vigor (e.g. a portable shrine), to bring up a topic, to lead to a topic, to replace, to substitute, to set up a joke for someone else"},{"example":"振る舞い","reading":"ふるまい","meaning":"behavior, behaviour, conduct, entertainment, treat, feast, banquet"},{"example":"振れる","reading":"ふれる","meaning":"to swing, to shake, to wave, to veer, to deflect, to lean towards"},{"example":"振るう","reading":"ふるう","meaning":"to swing, to wield (physically), to exert, to exercise (e.g. power, ability), to exhibit, to display, to wield (metaphorically), to flourish, to prosper, to thrive"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["厂","扎","衣","辰"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25391_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0632f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/632f.gif","uri":"https://jisho.org/search/%E6%8C%AF%23kanji"}}
+{
+  "id": "振",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "振",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "614",
+    "strokeCount": 10,
+    "meaning": "shake, wave, wag, swing",
+    "kunyomi": [
+      "ふ.る",
+      "ふ.れる",
+      "ふ.るう"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "振り子",
+        "reading": "フリコ",
+        "meaning": "pendulum"
+      },
+      {
+        "example": "振興",
+        "reading": "シンコウ",
+        "meaning": "promotion, encouragement"
+      },
+      {
+        "example": "奪三振",
+        "reading": "ダツサンシン",
+        "meaning": "striking a batter out"
+      },
+      {
+        "example": "不振",
+        "reading": "フシン",
+        "meaning": "dullness, slump, stagnation, inactivity, depression"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "振る",
+        "reading": "ふる",
+        "meaning": "to wave, to shake, to swing, to sprinkle, to throw (dice), to cast (actor), to allocate (work), to turn down (someone), to reject, to jilt, to dump, to abandon, to give up, to ruin, to add kana indicating a reading of a word, to slightly change headings, to change directions, to extract by broiling, to prepare an infusion of, to decoct, to carry with great vigor (e.g. a portable shrine), to bring up a topic, to lead to a topic, to replace, to substitute, to set up a joke for someone else"
+      },
+      {
+        "example": "振る舞い",
+        "reading": "ふるまい",
+        "meaning": "behavior, behaviour, conduct, entertainment, treat, feast, banquet"
+      },
+      {
+        "example": "振れる",
+        "reading": "ふれる",
+        "meaning": "to swing, to shake, to wave, to veer, to deflect, to lean towards"
+      },
+      {
+        "example": "振るう",
+        "reading": "ふるう",
+        "meaning": "to swing, to wield (physically), to exert, to exercise (e.g. power, ability), to exhibit, to display, to wield (metaphorically), to flourish, to prosper, to thrive"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "厂",
+      "扎",
+      "衣",
+      "辰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25391_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0632f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/632f.gif",
+    "uri": "https://jisho.org/search/%E6%8C%AF%23kanji"
+  }
+}

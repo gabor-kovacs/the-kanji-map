@@ -1,1 +1,58 @@
-{"id":"刑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"刑","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"864","strokeCount":6,"meaning":"punish, penalty, sentence, punishment","kunyomi":[],"onyomi":["ケイ"],"onyomiExamples":[{"example":"刑","reading":"ケイ","meaning":"penalty, sentence, punishment"},{"example":"刑事","reading":"ケイジ","meaning":"(police) detective, criminal matter"},{"example":"量刑","reading":"リョウケイ","meaning":"judge's sentence, assessment of a case"},{"example":"求刑","reading":"キュウケイ","meaning":"recommended sentence, prosecution's demand for punishment"}],"kunyomiExamples":[],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["ノ","一","二","刈","廾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21009_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05211.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5211.gif","uri":"https://jisho.org/search/%E5%88%91%23kanji"}}
+{
+  "id": "刑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "刑",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "864",
+    "strokeCount": 6,
+    "meaning": "punish, penalty, sentence, punishment",
+    "kunyomi": [],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "刑",
+        "reading": "ケイ",
+        "meaning": "penalty, sentence, punishment"
+      },
+      {
+        "example": "刑事",
+        "reading": "ケイジ",
+        "meaning": "(police) detective, criminal matter"
+      },
+      {
+        "example": "量刑",
+        "reading": "リョウケイ",
+        "meaning": "judge's sentence, assessment of a case"
+      },
+      {
+        "example": "求刑",
+        "reading": "キュウケイ",
+        "meaning": "recommended sentence, prosecution's demand for punishment"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "刈",
+      "廾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21009_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05211.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5211.gif",
+    "uri": "https://jisho.org/search/%E5%88%91%23kanji"
+  }
+}

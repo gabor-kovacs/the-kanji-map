@@ -1,1 +1,70 @@
-{"id":"芒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"芒","found":true,"strokeCount":6,"meaning":"pampas grass, beard (grain)","kunyomi":["すすき","のぎ","のげ"],"onyomi":["ボウ","コウ","モウ"],"onyomiExamples":[{"example":"芒種","reading":"ボウシュ","meaning":"\"grain in ear\" solar term (approx. June 6, when awns begin to grow on grains)"},{"example":"芒硝","reading":"ボウショウ","meaning":"sal mirabilis, mirabilite, sodium sulfate decahydrate, sodium sulphate decahydrate"},{"example":"光芒","reading":"コウボウ","meaning":"beam of light"},{"example":"五芒","reading":"ゴボウ","meaning":"pentagram"}],"kunyomiExamples":[{"example":"薄","reading":"すすき","meaning":"Japanese pampas grass (Miscanthus sinensis), maiden silvergrass, zebra grass"},{"example":"芒","reading":"のぎ","meaning":"arista, awn, (grain) beard"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["亠","亡","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33426_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08292.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8292.gif","uri":"https://jisho.org/search/%E8%8A%92%23kanji"}}
+{
+  "id": "芒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "芒",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "pampas grass, beard (grain)",
+    "kunyomi": [
+      "すすき",
+      "のぎ",
+      "のげ"
+    ],
+    "onyomi": [
+      "ボウ",
+      "コウ",
+      "モウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芒種",
+        "reading": "ボウシュ",
+        "meaning": "\"grain in ear\" solar term (approx. June 6, when awns begin to grow on grains)"
+      },
+      {
+        "example": "芒硝",
+        "reading": "ボウショウ",
+        "meaning": "sal mirabilis, mirabilite, sodium sulfate decahydrate, sodium sulphate decahydrate"
+      },
+      {
+        "example": "光芒",
+        "reading": "コウボウ",
+        "meaning": "beam of light"
+      },
+      {
+        "example": "五芒",
+        "reading": "ゴボウ",
+        "meaning": "pentagram"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【ススキ】",
+        "reading": "Chinese silvergrass (Miscanthus sinensis), maiden grass, susuki grass",
+        "meaning": ""
+      },
+      {
+        "example": "芒",
+        "reading": "のぎ",
+        "meaning": "arista, awn, (grain) beard"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "亠",
+      "亡",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33426_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08292.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8292.gif",
+    "uri": "https://jisho.org/search/%E8%8A%92%23kanji"
+  }
+}

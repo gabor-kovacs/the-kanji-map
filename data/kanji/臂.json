@@ -1,1 +1,49 @@
-{"id":"臂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"臂","found":true,"strokeCount":17,"meaning":"elbow","kunyomi":["ひじ"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"肘","reading":"ヒジ","meaning":"elbow"}],"kunyomiExamples":[{"example":"肘","reading":"ひじ","meaning":"elbow"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["十","口","尸","月","立","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33218_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081c2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81c2.gif","uri":"https://jisho.org/search/%E8%87%82%23kanji"}}
+{
+  "id": "臂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臂",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "elbow",
+    "kunyomi": [
+      "ひじ"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肘",
+        "reading": "ヒジ",
+        "meaning": "elbow"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "肘",
+        "reading": "ひじ",
+        "meaning": "elbow"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "月",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33218_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081c2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81c2.gif",
+    "uri": "https://jisho.org/search/%E8%87%82%23kanji"
+  }
+}

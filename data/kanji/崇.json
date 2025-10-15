@@ -1,1 +1,58 @@
-{"id":"崇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"崇","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1970","strokeCount":11,"meaning":"adore, respect, revere, worship","kunyomi":["あが.める"],"onyomi":["スウ"],"onyomiExamples":[{"example":"崇拝","reading":"スウハイ","meaning":"worship, adoration, admiration, cult"},{"example":"崇高","reading":"スウコウ","meaning":"lofty, sublime, noble, the sublime (aesthetics)"},{"example":"尊崇","reading":"ソンスウ","meaning":"reverence, veneration"}],"kunyomiExamples":[{"example":"崇める","reading":"あがめる","meaning":"to revere, to respect, to worship"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["二","宀","小","山","示"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23815_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d07.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d07.gif","uri":"https://jisho.org/search/%E5%B4%87%23kanji"}}
+{
+  "id": "崇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "崇",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1970",
+    "strokeCount": 11,
+    "meaning": "adore, respect, revere, worship",
+    "kunyomi": [
+      "あが.める"
+    ],
+    "onyomi": [
+      "スウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "崇拝",
+        "reading": "スウハイ",
+        "meaning": "worship, adoration, admiration, cult"
+      },
+      {
+        "example": "崇高",
+        "reading": "スウコウ",
+        "meaning": "lofty, sublime, noble, the sublime (aesthetics)"
+      },
+      {
+        "example": "尊崇",
+        "reading": "ソンスウ",
+        "meaning": "reverence, veneration"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "崇める",
+        "reading": "あがめる",
+        "meaning": "to revere, to respect, to worship"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "二",
+      "宀",
+      "小",
+      "山",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23815_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d07.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d07.gif",
+    "uri": "https://jisho.org/search/%E5%B4%87%23kanji"
+  }
+}

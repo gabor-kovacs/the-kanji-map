@@ -1,1 +1,58 @@
-{"id":"煌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"煌","found":true,"strokeCount":13,"meaning":"glitter, gleam, twinkle","kunyomi":["きらめ.く","きら.めく","かがや.く"],"onyomi":["コウ"],"onyomiExamples":[{"example":"煌々","reading":"コウコウ","meaning":"brilliant, bright, dazzling"},{"example":"敦厚","reading":"トンコウ","meaning":"sincerity and kindheartedness, honesty and simplicity"}],"kunyomiExamples":[{"example":"煌めく","reading":"きらめく","meaning":"to glitter, to glisten, to sparkle, to twinkle, to glare, to gleam"},{"example":"煌めく","reading":"きらめく","meaning":"to glitter, to glisten, to sparkle, to twinkle, to glare, to gleam"},{"example":"輝く","reading":"かがやく","meaning":"to shine, to glitter, to sparkle"}],"radical":{"symbol":"火","forms":["灬"],"meaning":"fire"},"parts":["火","王","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29004_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0714c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/714c.gif","uri":"https://jisho.org/search/%E7%85%8C%23kanji"}}
+{
+  "id": "煌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "煌",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "glitter, gleam, twinkle",
+    "kunyomi": [
+      "きらめ.く",
+      "きら.めく",
+      "かがや.く"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "煌々",
+        "reading": "コウコウ",
+        "meaning": "brilliant, bright, dazzling"
+      },
+      {
+        "example": "敦厚",
+        "reading": "トンコウ",
+        "meaning": "sincerity and kindheartedness, honesty and simplicity"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "煌めく",
+        "reading": "きらめく",
+        "meaning": "to glitter, to sparkle, to twinkle, to glisten, to gleam, to glint"
+      },
+      {
+        "example": "煌めく",
+        "reading": "きらめく",
+        "meaning": "to glitter, to sparkle, to twinkle, to glisten, to gleam, to glint"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "fire"
+    },
+    "parts": [
+      "火",
+      "王",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29004_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0714c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/714c.gif",
+    "uri": "https://jisho.org/search/%E7%85%8C%23kanji"
+  }
+}

@@ -1,1 +1,35 @@
-{"id":"旛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"旛","found":true,"newspaperFrequencyRank":"2236","strokeCount":18,"meaning":"flag","kunyomi":["はた"],"onyomi":["ヘン","ハン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"方","meaning":"square"},"parts":["乞","方","田","米","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26075_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065db.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65db.gif","uri":"https://jisho.org/search/%E6%97%9B%23kanji"}}
+{
+  "id": "旛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "旛",
+    "found": true,
+    "newspaperFrequencyRank": "2236",
+    "strokeCount": 18,
+    "meaning": "flag",
+    "kunyomi": [
+      "はた"
+    ],
+    "onyomi": [
+      "ヘン",
+      "ハン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "方",
+      "meaning": "square"
+    },
+    "parts": [
+      "乞",
+      "方",
+      "田",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26075_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65db.gif",
+    "uri": "https://jisho.org/search/%E6%97%9B%23kanji"
+  }
+}

@@ -1,1 +1,52 @@
-{"id":"匪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"匪","found":true,"strokeCount":10,"meaning":"negation, wicked person","kunyomi":["あら.ず","かたみ"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"匪躬","reading":"ヒキュウ","meaning":"self-sacrificing service"},{"example":"匪石之心","reading":"ヒセキノココロ","meaning":"steadfastness, firmness in one's conviction, having a heart that does not change as easily as a stone rolls about"},{"example":"兵匪","reading":"ヘイヒ","meaning":"bandits"},{"example":"討匪","reading":"トウヒ","meaning":"suppression of bandits"}],"kunyomiExamples":[],"radical":{"symbol":"匚","meaning":"box"},"parts":["匚","非"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21290_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0532a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/532a.gif","uri":"https://jisho.org/search/%E5%8C%AA%23kanji"}}
+{
+  "id": "匪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匪",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "negation, wicked person",
+    "kunyomi": [
+      "あら.ず",
+      "かたみ"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匪躬",
+        "reading": "ヒキュウ",
+        "meaning": "self-sacrificing service"
+      },
+      {
+        "example": "匪石之心",
+        "reading": "ヒセキノココロ",
+        "meaning": "steadfastness, firmness in one's conviction, having a heart that does not change as easily as a stone rolls about"
+      },
+      {
+        "example": "兵匪",
+        "reading": "ヘイヒ",
+        "meaning": "bandits"
+      },
+      {
+        "example": "討匪",
+        "reading": "トウヒ",
+        "meaning": "suppression of bandits"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "匚",
+      "meaning": "box"
+    },
+    "parts": [
+      "匚",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21290_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0532a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/532a.gif",
+    "uri": "https://jisho.org/search/%E5%8C%AA%23kanji"
+  }
+}

@@ -1,1 +1,73 @@
-{"id":"汀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"汀","found":true,"strokeCount":5,"meaning":"water's edge, shore, bank","kunyomi":["みぎわ","なぎさ"],"onyomi":["テイ"],"onyomiExamples":[{"example":"汀渚","reading":"テイショ","meaning":"sand bar, waters edge"},{"example":"汀線","reading":"テイセン","meaning":"shoreline, beach line"},{"example":"長汀","reading":"チョウテイ","meaning":"long shore"},{"example":"池汀","reading":"チテイ","meaning":"shore of a pond, pond bank"}],"kunyomiExamples":[{"example":"汀","reading":"みぎわ","meaning":"water's edge, shore, waterside"},{"example":"汀線","reading":"ていせん","meaning":"shoreline, beach line"},{"example":"渚","reading":"なぎさ","meaning":"water's edge, beach, shore"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","亅","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27712_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c40.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c40.gif","uri":"https://jisho.org/search/%E6%B1%80%23kanji"}}
+{
+  "id": "汀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "汀",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "water's edge, shore, bank",
+    "kunyomi": [
+      "みぎわ",
+      "なぎさ"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "汀渚",
+        "reading": "テイショ",
+        "meaning": "sand bar, waters edge"
+      },
+      {
+        "example": "汀線",
+        "reading": "テイセン",
+        "meaning": "shoreline, beach line"
+      },
+      {
+        "example": "長汀",
+        "reading": "チョウテイ",
+        "meaning": "long shore"
+      },
+      {
+        "example": "池汀",
+        "reading": "チテイ",
+        "meaning": "shore of a pond, pond bank"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "汀",
+        "reading": "みぎわ",
+        "meaning": "water's edge, shore, waterside"
+      },
+      {
+        "example": "汀線",
+        "reading": "ていせん",
+        "meaning": "shoreline, beach line"
+      },
+      {
+        "example": "渚",
+        "reading": "なぎさ",
+        "meaning": "water's edge, beach, shore"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27712_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c40.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c40.gif",
+    "uri": "https://jisho.org/search/%E6%B1%80%23kanji"
+  }
+}

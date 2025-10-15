@@ -1,1 +1,38 @@
-{"id":"鞋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鞋","found":true,"strokeCount":15,"meaning":"straw sandals","kunyomi":["わらじ","くつ"],"onyomi":["アイ","カイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"靴","reading":"くつ","meaning":"shoe, shoes, boots, footwear, footgear"}],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["土","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38795_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0978b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/978b.gif","uri":"https://jisho.org/search/%E9%9E%8B%23kanji"}}
+{
+  "id": "鞋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞋",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "straw sandals",
+    "kunyomi": [
+      "わらじ",
+      "くつ"
+    ],
+    "onyomi": [
+      "アイ",
+      "カイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "靴",
+        "reading": "くつ",
+        "meaning": "shoe, shoes, boots, footwear, footgear"
+      }
+    ],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "土",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38795_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0978b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/978b.gif",
+    "uri": "https://jisho.org/search/%E9%9E%8B%23kanji"
+  }
+}

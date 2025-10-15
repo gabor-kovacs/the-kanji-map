@@ -1,1 +1,46 @@
-{"id":"韋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"韋","found":true,"strokeCount":10,"meaning":"tanned leather radical (no. 178)","kunyomi":["そむ.く"],"onyomi":["イ"],"onyomiExamples":[{"example":"吠陀","reading":"ヴェーダ","meaning":"Veda"},{"example":"韋陀天","reading":"イダテン","meaning":"Wei-To (temple guardian sometimes confused with Vajrapani)"}],"kunyomiExamples":[],"radical":{"symbol":"韋","meaning":"tanned leather"},"parts":["口","韋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38859_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097cb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97cb.gif","uri":"https://jisho.org/search/%E9%9F%8B%23kanji"}}
+{
+  "id": "韋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "韋",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "tanned leather radical (no. 178)",
+    "kunyomi": [
+      "そむ.く"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "吠陀",
+        "reading": "ヴェーダ",
+        "meaning": "Veda"
+      },
+      {
+        "example": "韋陀天",
+        "reading": "イダテン",
+        "meaning": "Wei-To (temple guardian sometimes confused with Vajrapani)"
+      },
+      {
+        "example": "室韋",
+        "reading": "シツイ",
+        "meaning": "Shiwei (Mongolic tribe)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "韋",
+      "meaning": "tanned leather"
+    },
+    "parts": [
+      "口",
+      "韋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38859_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097cb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97cb.gif",
+    "uri": "https://jisho.org/search/%E9%9F%8B%23kanji"
+  }
+}

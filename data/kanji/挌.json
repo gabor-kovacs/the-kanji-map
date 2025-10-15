@@ -1,1 +1,45 @@
-{"id":"挌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"挌","found":true,"strokeCount":9,"meaning":"strike, hit, fight","kunyomi":["う.つ"],"onyomi":["カク"],"onyomiExamples":[{"example":"格闘","reading":"カクトウ","meaning":"(hand-to-hand) fight, grapple, scuffle, tussle, struggling (with a problem, task, etc.), grappling, wrestling, getting to grips (with)"},{"example":"格技","reading":"カクギ","meaning":"one-on-one fighting sport (without weapons), combat sport, martial art"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["口","夂","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25356_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0630c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/630c.gif","uri":"https://jisho.org/search/%E6%8C%8C%23kanji"}}
+{
+  "id": "挌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挌",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "strike, hit, fight",
+    "kunyomi": [
+      "う.つ"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "格闘",
+        "reading": "カクトウ",
+        "meaning": "(hand-to-hand) fight, grapple, scuffle, tussle, struggling (with a problem, task, etc.), grappling, wrestling, getting to grips (with)"
+      },
+      {
+        "example": "格技",
+        "reading": "カクギ",
+        "meaning": "one-on-one fighting sport (without weapons), combat sport, martial art"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25356_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0630c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/630c.gif",
+    "uri": "https://jisho.org/search/%E6%8C%8C%23kanji"
+  }
+}

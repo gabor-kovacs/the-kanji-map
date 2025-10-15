@@ -1,1 +1,61 @@
-{"id":"蔑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蔑","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2483","strokeCount":14,"meaning":"ignore, despise, neglect, ridicule","kunyomi":["ないがしろ","なみ.する","くらい","さげす.む"],"onyomi":["ベツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蔑ろ","reading":"ないがしろ","meaning":"(a) slight, disrespect, making light (of), neglect"},{"example":"蔑ろにする","reading":"ないがしろにする","meaning":"to make light of, to ignore, to slight"},{"example":"蔑する","reading":"なみする","meaning":"to set at naught, to ignore, to disregard"},{"example":"蔑む","reading":"さげすむ","meaning":"to scorn, to despise, to hold in contempt, to look down on, to disdain"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ノ","戈","艾","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34065_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08511.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8511.gif","uri":"https://jisho.org/search/%E8%94%91%23kanji"}}
+{
+  "id": "蔑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔑",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2483",
+    "strokeCount": 14,
+    "meaning": "ignore, despise, neglect, ridicule",
+    "kunyomi": [
+      "ないがしろ",
+      "なみ.する",
+      "くらい",
+      "さげす.む"
+    ],
+    "onyomi": [
+      "ベツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蔑ろ",
+        "reading": "ないがしろ",
+        "meaning": "(a) slight, disrespect, making light (of), neglect"
+      },
+      {
+        "example": "蔑ろにする",
+        "reading": "ないがしろにする",
+        "meaning": "to make light of, to ignore, to slight"
+      },
+      {
+        "example": "蔑する",
+        "reading": "なみする",
+        "meaning": "to set at naught, to ignore, to disregard"
+      },
+      {
+        "example": "蔑む",
+        "reading": "さげすむ",
+        "meaning": "to scorn, to despise, to hold in contempt, to look down on, to disdain"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ノ",
+      "戈",
+      "艾",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34065_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08511.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8511.gif",
+    "uri": "https://jisho.org/search/%E8%94%91%23kanji"
+  }
+}

@@ -1,1 +1,318 @@
-{"id":"永","kanjialiveData":{"kanji":{"character":"永","meaning":{"english":"eternal, long, forever"},"strokes":{"count":5,"timings":[0,0.733333,5,7.133333,8.6,10.666667],"images":["https://media.kanjialive.com/kanji_strokes/ei(kyuu)_1.svg","https://media.kanjialive.com/kanji_strokes/ei(kyuu)_2.svg","https://media.kanjialive.com/kanji_strokes/ei(kyuu)_3.svg","https://media.kanjialive.com/kanji_strokes/ei(kyuu)_4.svg","https://media.kanjialive.com/kanji_strokes/ei(kyuu)_5.svg"]},"onyomi":{"romaji":"ei","katakana":"エイ"},"kunyomi":{"romaji":"naga, nagai","hiragana":"なが"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ei(kyuu)_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ei(kyuu)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ei(kyuu)_00.webm"}},"radical":{"character":"⽔","strokes":4,"image":"https://media.kanjialive.com/radical_character/mizu.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"みず","romaji":"mizu"},"meaning":{"english":"water"},"animation":["https://media.kanjialive.com/rad_frames/mizu0.svg","https://media.kanjialive.com/rad_frames/mizu1.svg","https://media.kanjialive.com/rad_frames/mizu2.svg"]},"references":{"grade":5,"kodansha":"1230","classic_nelson":"130"},"examples":[{"japanese":"永遠（えいえん）","meaning":{"english":"eternity, permanence"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_a.mp3"}},{"japanese":"永久（えいきゅう）","meaning":{"english":"eternity, permanence"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_b.mp3"}},{"japanese":"永眠する（えいみんする）","meaning":{"english":"sleep eternally, pass away"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_c.mp3"}},{"japanese":"永住する（えいじゅうする）","meaning":{"english":"reside permanently"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_d.mp3"}},{"japanese":"永続する（えいぞくする）","meaning":{"english":"continue for a long time"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_e.mp3"}},{"japanese":"永い（ながい）","meaning":{"english":"long, lengthy"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_f.mp3"}},{"japanese":"永年（ながねん）","meaning":{"english":"long time, many years"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_g.mp3"}},{"japanese":"末永く（すえながく）","meaning":{"english":"forever"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_h.mp3"}}]},"jishoData":{"query":"永","found":true,"taughtIn":"grade 5","jlptLevel":"N2","newspaperFrequencyRank":"846","strokeCount":5,"meaning":"eternity, long, lengthy","kunyomi":["なが.い"],"onyomi":["エイ"],"onyomiExamples":[{"example":"永久","reading":"エイキュウ","meaning":"eternity, permanence, perpetuity, Eikyū era (1113.7.13-1118.4.3)"},{"example":"永遠","reading":"エイエン","meaning":"eternity, perpetuity, permanence, immortality"},{"example":"永々","reading":"エイエイ","meaning":"forever"},{"example":"大永","reading":"タイエイ","meaning":"Taiei era (1521.8.23-1528.8.20)"}],"kunyomiExamples":[{"example":"長い","reading":"ながい","meaning":"long (distance, length), long (time), protracted, prolonged"},{"example":"長いこと","reading":"ながいこと","meaning":"for a long time"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["丶","水"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27704_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c38.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c38.gif","uri":"https://jisho.org/search/%E6%B0%B8%23kanji"}}
+{
+  "id": "永",
+  "kanjialiveData": {
+    "_id": "54317b11791eba5146ee4cc6",
+    "_rev": "10-2868524dcf7077e9cc09a2c0d01b4571",
+    "rad_name_ja": "みず",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "naga, nagai",
+    "meaning": "eternal, long, forever",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "永遠（えいえん）",
+        "meaning": {
+          "english": "eternity, permanence"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "永久（えいきゅう）",
+        "meaning": {
+          "english": "eternity, permanence"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "永眠する（えいみんする）",
+        "meaning": {
+          "english": "sleep eternally, pass away"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "永住する（えいじゅうする）",
+        "meaning": {
+          "english": "reside permanently"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "永続する（えいぞくする）",
+        "meaning": {
+          "english": "continue for a long time"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "永い（ながい）",
+        "meaning": {
+          "english": "long, lengthy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "永年（ながねん）",
+        "meaning": {
+          "english": "long time, many years"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "末永く（すえながく）",
+        "meaning": {
+          "english": "forever"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(kyuu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ei(kyuu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ei(kyuu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ei(kyuu)_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "なが、ながい",
+    "ka_utf": "永",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=永",
+    "kname": "ei(kyuu)",
+    "rad_order": 109,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "mizu"
+    ],
+    "rad_utf": "⽔",
+    "stroketimes": [
+      0,
+      0.733333,
+      5,
+      7.133333,
+      8.6,
+      10.666667
+    ],
+    "kunyomi_ka_display": "なが",
+    "dick": "1230",
+    "rad_name": "mizu",
+    "dicn": "130",
+    "mn_hint": "Water 水 flowing 丶 forever 一.",
+    "rad_stroke": 4,
+    "onyomi_ja": "エイ",
+    "rad_meaning": "water",
+    "onyomi": "ei",
+    "ka_id": "ka_966",
+    "onyomi_search": [
+      "ei",
+      "ei"
+    ],
+    "kunyomi_search": [
+      "naga",
+      "nagai",
+      "naga, nagai"
+    ],
+    "meaning_search": [
+      "eternal",
+      "long",
+      "forever",
+      "eternal, long, forever"
+    ],
+    "onyomi_ja_search": [
+      "エイ",
+      "エイ"
+    ],
+    "kunyomi_ja_search": [
+      "なが",
+      "ながい",
+      "なが、ながい"
+    ],
+    "rad_meaning_search": [
+      "water",
+      "water"
+    ],
+    "rad_name_ja_search": [
+      "みず"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:7",
+      "ik1:c7"
+    ],
+    "rad_name_file": "mizu",
+    "kanji": {
+      "character": "永",
+      "meaning": {
+        "english": "eternal, long, forever"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          0.733333,
+          5,
+          7.133333,
+          8.6,
+          10.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ei(kyuu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ei(kyuu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ei(kyuu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ei(kyuu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ei(kyuu)_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ei",
+        "katakana": "エイ"
+      },
+      "kunyomi": {
+        "romaji": "naga, nagai",
+        "hiragana": "なが"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ei(kyuu)_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ei(kyuu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ei(kyuu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽔",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/mizu.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "みず",
+        "romaji": "mizu"
+      },
+      "meaning": {
+        "english": "water"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/mizu0.svg",
+        "https://media.kanjialive.com/rad_frames/mizu1.svg",
+        "https://media.kanjialive.com/rad_frames/mizu2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1230",
+      "classic_nelson": "130"
+    }
+  },
+  "jishoData": {
+    "query": "永",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "846",
+    "strokeCount": 5,
+    "meaning": "eternity, long, lengthy",
+    "kunyomi": [
+      "なが.い"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "永久",
+        "reading": "エイキュウ",
+        "meaning": "eternity, permanence, perpetuity, Eikyū era (1113.7.13-1118.4.3)"
+      },
+      {
+        "example": "永遠",
+        "reading": "エイエン",
+        "meaning": "eternity, perpetuity, permanence, immortality"
+      },
+      {
+        "example": "永々",
+        "reading": "エイエイ",
+        "meaning": "forever"
+      },
+      {
+        "example": "大永",
+        "reading": "タイエイ",
+        "meaning": "Taiei era (1521.8.23-1528.8.20)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "長い",
+        "reading": "ながい",
+        "meaning": "long (distance, length), long (time), protracted, prolonged"
+      },
+      {
+        "example": "長いこと",
+        "reading": "ながいこと",
+        "meaning": "for a long time"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "丶",
+      "水"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27704_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c38.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c38.gif",
+    "uri": "https://jisho.org/search/%E6%B0%B8%23kanji"
+  }
+}

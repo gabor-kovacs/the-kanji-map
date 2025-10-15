@@ -1,1 +1,74 @@
-{"id":"錬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"錬","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2221","strokeCount":16,"meaning":"tempering, refine, drill, train, polish","kunyomi":["ね.る"],"onyomi":["レン"],"onyomiExamples":[{"example":"錬金術師","reading":"レンキンジュツシ","meaning":"alchemist"},{"example":"錬金術","reading":"レンキンジュツ","meaning":"alchemy, way of making money, moneymaker, money-spinner"},{"example":"修練","reading":"シュウレン","meaning":"training, drill, practice, practising, discipline"},{"example":"精錬","reading":"セイレン","meaning":"refining, refinement, smelting, training"}],"kunyomiExamples":[{"example":"錬る","reading":"ねる","meaning":"to temper (steel)"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ハ","一","并","日","木","田","金","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37676_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0932c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/932c.gif","uri":"https://jisho.org/search/%E9%8C%AC%23kanji"}}
+{
+  "id": "錬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "錬",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2221",
+    "strokeCount": 16,
+    "meaning": "tempering, refine, drill, train, polish",
+    "kunyomi": [
+      "ね.る"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "錬金術師",
+        "reading": "レンキンジュツシ",
+        "meaning": "alchemist"
+      },
+      {
+        "example": "錬金術",
+        "reading": "レンキンジュツ",
+        "meaning": "alchemy, way of making money, moneymaker, money-spinner"
+      },
+      {
+        "example": "修練",
+        "reading": "シュウレン",
+        "meaning": "training, drill, practice, practising, discipline"
+      },
+      {
+        "example": "精錬",
+        "reading": "セイレン",
+        "meaning": "refining, refinement, smelting, training"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "練る",
+        "reading": "ねる",
+        "meaning": "to knead, to thicken into a paste (stirring over a flame), to polish (a plan, etc.), to refine, to elaborate, to work out, to train, to drill, to exercise, to gloss (silk), to soften, to degum, to tan (leather), to temper (steel), to walk in procession, to parade, to march"
+      },
+      {
+        "example": "錬る",
+        "reading": "ねる",
+        "meaning": "to temper (steel)"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "并",
+      "日",
+      "木",
+      "田",
+      "金",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37676_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0932c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/932c.gif",
+    "uri": "https://jisho.org/search/%E9%8C%AC%23kanji"
+  }
+}

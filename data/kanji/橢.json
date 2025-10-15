@@ -1,1 +1,38 @@
-{"id":"橢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"橢","found":true,"strokeCount":16,"meaning":"ellipse","kunyomi":[],"onyomi":["ダ"],"onyomiExamples":[{"example":"楕円","reading":"ダエン","meaning":"ellipse"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["ノ","一","工","月","木","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27234_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a62.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a62.gif","uri":"https://jisho.org/search/%E6%A9%A2%23kanji"}}
+{
+  "id": "橢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "橢",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "ellipse",
+    "kunyomi": [],
+    "onyomi": [
+      "ダ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "楕円",
+        "reading": "ダエン",
+        "meaning": "ellipse, oval"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "工",
+      "月",
+      "木",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27234_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a62.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a62.gif",
+    "uri": "https://jisho.org/search/%E6%A9%A2%23kanji"
+  }
+}

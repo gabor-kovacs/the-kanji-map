@@ -1,1 +1,57 @@
-{"id":"鬢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鬢","found":true,"strokeCount":24,"meaning":"sideburns","kunyomi":[],"onyomi":["ビン","ヒン"],"onyomiExamples":[{"example":"鬢","reading":"ビン","meaning":"sidelocks, hair at the temples"},{"example":"鬢切り","reading":"ビンキリ","meaning":"binkiri, Edo-period hairstyle with a lock of hair running down from the temples and hanging over the ears"},{"example":"双鬢","reading":"ソウビン","meaning":"side locks"},{"example":"両鬢","reading":"リョウビン","meaning":"sideburns, hair at the sides of the head"}],"kunyomiExamples":[],"radical":{"symbol":"髟","meaning":"long hair"},"parts":["ノ","ハ","宀","小","彡","目","貝","長","髟"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39714_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b22.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b22.gif","uri":"https://jisho.org/search/%E9%AC%A2%23kanji"}}
+{
+  "id": "鬢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鬢",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "sideburns",
+    "kunyomi": [],
+    "onyomi": [
+      "ビン",
+      "ヒン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鬢",
+        "reading": "ビン",
+        "meaning": "sidelocks, hair at the temples"
+      },
+      {
+        "example": "鬢切り",
+        "reading": "ビンキリ",
+        "meaning": "binkiri, Edo-period hairstyle with a lock of hair running down from the temples and hanging over the ears"
+      },
+      {
+        "example": "双鬢",
+        "reading": "ソウビン",
+        "meaning": "side locks"
+      },
+      {
+        "example": "両鬢",
+        "reading": "リョウビン",
+        "meaning": "sideburns, hair at the sides of the head"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "long hair"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "宀",
+      "小",
+      "彡",
+      "目",
+      "貝",
+      "長",
+      "髟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39714_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b22.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b22.gif",
+    "uri": "https://jisho.org/search/%E9%AC%A2%23kanji"
+  }
+}

@@ -1,1 +1,80 @@
-{"id":"鉛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鉛","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1710","strokeCount":13,"meaning":"lead","kunyomi":["なまり"],"onyomi":["エン"],"onyomiExamples":[{"example":"鉛筆","reading":"エンピツ","meaning":"pencil"},{"example":"鉛管","reading":"エンカン","meaning":"lead pipe"},{"example":"黒鉛","reading":"コクエン","meaning":"graphite"},{"example":"硫化亜鉛","reading":"リュウカアエン","meaning":"zinc sulfide (ZnS) (sulphide)"}],"kunyomiExamples":[{"example":"鉛","reading":"なまり","meaning":"lead (Pb)"},{"example":"鉛色","reading":"なまりいろ","meaning":"lead colour, lead color"},{"example":"アジ化鉛","reading":"アジかなまり","meaning":"lead azide"},{"example":"一酸化鉛","reading":"いっさんかなまり","meaning":"lead monoxide, lead(II) oxide"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ハ","口","并","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37467_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0925b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/925b.gif","uri":"https://jisho.org/search/%E9%89%9B%23kanji"}}
+{
+  "id": "鉛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鉛",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1710",
+    "strokeCount": 13,
+    "meaning": "lead",
+    "kunyomi": [
+      "なまり"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鉛筆",
+        "reading": "エンピツ",
+        "meaning": "pencil"
+      },
+      {
+        "example": "鉛管",
+        "reading": "エンカン",
+        "meaning": "lead pipe"
+      },
+      {
+        "example": "黒鉛",
+        "reading": "コクエン",
+        "meaning": "graphite"
+      },
+      {
+        "example": "硫化亜鉛",
+        "reading": "リュウカアエン",
+        "meaning": "zinc sulfide (ZnS) (sulphide)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鉛",
+        "reading": "なまり",
+        "meaning": "lead (Pb)"
+      },
+      {
+        "example": "鉛色",
+        "reading": "なまりいろ",
+        "meaning": "lead colour, lead color"
+      },
+      {
+        "example": "アジ化鉛",
+        "reading": "アジかなまり",
+        "meaning": "lead azide"
+      },
+      {
+        "example": "一酸化鉛",
+        "reading": "いっさんかなまり",
+        "meaning": "lead monoxide, lead(II) oxide"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "并",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37467_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0925b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/925b.gif",
+    "uri": "https://jisho.org/search/%E9%89%9B%23kanji"
+  }
+}

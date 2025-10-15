@@ -1,1 +1,42 @@
-{"id":"飮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"飮","found":true,"strokeCount":13,"meaning":"drink","kunyomi":["の.む"],"onyomi":["イン","オン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"飲む","reading":"のむ","meaning":"to drink, to gulp, to swallow, to take (medicine), to smoke (tobacco), to engulf, to overwhelm, to keep down, to suppress, to accept (e.g. demand, condition), to make light of, to conceal"}],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":["个","欠","食","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39150_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098ee.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98ee.gif","uri":"https://jisho.org/search/%E9%A3%AE%23kanji"}}
+{
+  "id": "飮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "飮",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "drink",
+    "kunyomi": [
+      "の.む"
+    ],
+    "onyomi": [
+      "イン",
+      "オン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "飲む",
+        "reading": "のむ",
+        "meaning": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [
+      "个",
+      "欠",
+      "食",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39150_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098ee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98ee.gif",
+    "uri": "https://jisho.org/search/%E9%A3%AE%23kanji"
+  }
+}

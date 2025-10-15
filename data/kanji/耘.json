@@ -1,1 +1,41 @@
-{"id":"耘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"耘","found":true,"strokeCount":10,"meaning":"weed","kunyomi":["くさぎ.る"],"onyomi":["ウン"],"onyomiExamples":[{"example":"耕耘","reading":"コウウン","meaning":"plowing and weeding, farming, cultivation, tillage"}],"kunyomiExamples":[],"radical":{"symbol":"耒","meaning":"plow"},"parts":["ノ","ハ","二","厶","木","耒","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32792_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08018.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8018.gif","uri":"https://jisho.org/search/%E8%80%98%23kanji"}}
+{
+  "id": "耘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "耘",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "weed",
+    "kunyomi": [
+      "くさぎ.る"
+    ],
+    "onyomi": [
+      "ウン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "耕耘",
+        "reading": "コウウン",
+        "meaning": "plowing and weeding, farming, cultivation, tillage"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "耒",
+      "meaning": "plow"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "二",
+      "厶",
+      "木",
+      "耒",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32792_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08018.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8018.gif",
+    "uri": "https://jisho.org/search/%E8%80%98%23kanji"
+  }
+}

@@ -1,1 +1,374 @@
-{"id":"陸","kanjialiveData":{"kanji":{"character":"陸","meaning":{"english":"land"},"strokes":{"count":11,"timings":[0,1.533333,2.733333,4.2,5.933333,6.933333,8.333333,9,10.866667,12.066667,13.133333,15.533333],"images":["https://media.kanjialive.com/kanji_strokes/riku_1.svg","https://media.kanjialive.com/kanji_strokes/riku_2.svg","https://media.kanjialive.com/kanji_strokes/riku_3.svg","https://media.kanjialive.com/kanji_strokes/riku_4.svg","https://media.kanjialive.com/kanji_strokes/riku_5.svg","https://media.kanjialive.com/kanji_strokes/riku_6.svg","https://media.kanjialive.com/kanji_strokes/riku_7.svg","https://media.kanjialive.com/kanji_strokes/riku_8.svg","https://media.kanjialive.com/kanji_strokes/riku_9.svg","https://media.kanjialive.com/kanji_strokes/riku_10.svg","https://media.kanjialive.com/kanji_strokes/riku_11.svg"]},"onyomi":{"romaji":"riku","katakana":"リク"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/riku_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/riku_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/riku_00.webm"}},"radical":{"character":"⻖","strokes":3,"image":"https://media.kanjialive.com/radical_character/kozatohen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"こざとへん","romaji":"kozatohen"},"meaning":{"english":"hill, mound"},"animation":["https://media.kanjialive.com/rad_frames/kozatohen0.svg","https://media.kanjialive.com/rad_frames/kozatohen1.svg","https://media.kanjialive.com/rad_frames/kozatohen2.svg"]},"references":{"grade":4,"kodansha":"399","classic_nelson":"5005"},"examples":[{"japanese":"陸（りく）","meaning":{"english":"land, shore"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/riku_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/riku_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_a.mp3"}},{"japanese":"陸地（りくち）","meaning":{"english":"land"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/riku_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/riku_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_b.mp3"}},{"japanese":"陸上（りくじょう）","meaning":{"english":"land, ground, shore"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/riku_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/riku_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_c.mp3"}},{"japanese":"陸橋（りっきょう）","meaning":{"english":"overland bridge, overpass"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/riku_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/riku_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_d.mp3"}},{"japanese":"陸軍（りくぐん）","meaning":{"english":"army"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/riku_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/riku_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_e.mp3"}},{"japanese":"陸路（りくろ）","meaning":{"english":"overland route, land route"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/riku_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/riku_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_f.mp3"}},{"japanese":"大陸（たいりく）","meaning":{"english":"continent"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/riku_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/riku_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_g.mp3"}},{"japanese":"着陸する（ちゃくりくする）","meaning":{"english":"land, touch down"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/riku_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/riku_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_h.mp3"}},{"japanese":"上陸する（じょうりくする）","meaning":{"english":"land, go ashore"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/riku_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/riku_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_i.mp3"}}]},"jishoData":{"query":"陸","found":true,"taughtIn":"grade 4","jlptLevel":"N2","newspaperFrequencyRank":"736","strokeCount":11,"meaning":"land, six","kunyomi":["おか"],"onyomi":["リク","ロク"],"onyomiExamples":[{"example":"陸","reading":"リク","meaning":"land, shore"},{"example":"陸軍大佐","reading":"リクグンタイサ","meaning":"army colonel"},{"example":"北陸","reading":"ホクリク","meaning":"Hokuriku region (of Honshu; incl. Niigata, Toyama, Ishikawa and Fukui prefectures)"},{"example":"内陸","reading":"ナイリク","meaning":"inland"},{"example":"六","reading":"ロク","meaning":"six, 6"},{"example":"碌","reading":"ロク","meaning":"satisfactory, decent, good, proper, worthy"},{"example":"碌々","reading":"ロクロク","meaning":"(not) well, (not) properly, (not) enough, (not) sufficiently"},{"example":"双六","reading":"スゴロク","meaning":"race game (board game played with dice in which the object is to reach the end of a track), ban-sugoroku, sugoroku, traditional Japanese board game similar to backgammon"}],"kunyomiExamples":[{"example":"陸","reading":"りく","meaning":"land, shore"},{"example":"丘","reading":"おか","meaning":"hill, height, knoll, rising ground, bonus points awarded to the winner at the end of a game"}],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["儿","土","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38520_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09678.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9678.gif","uri":"https://jisho.org/search/%E9%99%B8%23kanji"}}
+{
+  "id": "陸",
+  "kanjialiveData": {
+    "_id": "54317b00791eba5146ee4b99",
+    "_rev": "9-0ed593f02cfdf6bc8e357921def9440b",
+    "rad_name_ja": "こざとへん",
+    "grade": 4,
+    "hint_group": 5,
+    "kunyomi": "n/a",
+    "meaning": "land",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "陸（りく）",
+        "meaning": {
+          "english": "land, shore"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/riku_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "陸地（りくち）",
+        "meaning": {
+          "english": "land"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/riku_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "陸上（りくじょう）",
+        "meaning": {
+          "english": "land, ground, shore"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/riku_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "陸橋（りっきょう）",
+        "meaning": {
+          "english": "overland bridge, overpass"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/riku_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "陸軍（りくぐん）",
+        "meaning": {
+          "english": "army"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/riku_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "陸路（りくろ）",
+        "meaning": {
+          "english": "overland route, land route"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/riku_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "大陸（たいりく）",
+        "meaning": {
+          "english": "continent"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/riku_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "着陸する（ちゃくりくする）",
+        "meaning": {
+          "english": "land, touch down"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/riku_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "上陸する（じょうりくする）",
+        "meaning": {
+          "english": "land, go ashore"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/riku_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/riku_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/riku_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/riku_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "陸",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=陸",
+    "rad_name_search": [
+      "kozatohen"
+    ],
+    "rad_order": 74,
+    "txt_books": [
+      {
+        "chapter": "14",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "30",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "riku",
+    "rad_utf": "⻖",
+    "stroketimes": [
+      0,
+      1.533333,
+      2.733333,
+      4.2,
+      5.933333,
+      6.933333,
+      8.333333,
+      9,
+      10.866667,
+      12.066667,
+      13.133333,
+      15.533333
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "399",
+    "rad_name": "kozatohen",
+    "dicn": "5005",
+    "mn_hint": "Slopes 阝 and accumulated [107] <span class='note'>(many 八 soil 土,土)</span> earth.",
+    "rad_stroke": 3,
+    "onyomi_ja": "リク",
+    "rad_meaning": "hill, mound",
+    "onyomi": "riku",
+    "ka_id": "ka_695",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "riku",
+      "riku"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "land",
+      "land"
+    ],
+    "onyomi_ja_search": [
+      "リク",
+      "リク"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "hill",
+      "mound",
+      "hill, mound"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "こざとへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:14",
+      "ij:c14",
+      "kll",
+      "kll:30",
+      "kll:c30"
+    ],
+    "rad_name_file": "kozatohen",
+    "kanji": {
+      "character": "陸",
+      "meaning": {
+        "english": "land"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1.533333,
+          2.733333,
+          4.2,
+          5.933333,
+          6.933333,
+          8.333333,
+          9,
+          10.866667,
+          12.066667,
+          13.133333,
+          15.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/riku_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/riku_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/riku_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/riku_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/riku_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/riku_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/riku_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/riku_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/riku_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/riku_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/riku_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "riku",
+        "katakana": "リク"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/riku_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/riku_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/riku_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⻖",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kozatohen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "こざとへん",
+        "romaji": "kozatohen"
+      },
+      "meaning": {
+        "english": "hill, mound"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
+        "https://media.kanjialive.com/rad_frames/kozatohen1.svg",
+        "https://media.kanjialive.com/rad_frames/kozatohen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "399",
+      "classic_nelson": "5005"
+    }
+  },
+  "jishoData": {
+    "query": "陸",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "736",
+    "strokeCount": 11,
+    "meaning": "land, six",
+    "kunyomi": [
+      "おか"
+    ],
+    "onyomi": [
+      "リク",
+      "ロク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陸",
+        "reading": "リク",
+        "meaning": "land, shore"
+      },
+      {
+        "example": "陸海",
+        "reading": "リクカイ",
+        "meaning": "land and sea, army and navy"
+      },
+      {
+        "example": "北陸",
+        "reading": "ホクリク",
+        "meaning": "Hokuriku region (of Honshu; incl. Niigata, Toyama, Ishikawa and Fukui prefectures)"
+      },
+      {
+        "example": "内陸",
+        "reading": "ナイリク",
+        "meaning": "inland"
+      },
+      {
+        "example": "六",
+        "reading": "ロク",
+        "meaning": "six, 6"
+      },
+      {
+        "example": "碌",
+        "reading": "ロク",
+        "meaning": "satisfactory, decent, good, proper, worthy"
+      },
+      {
+        "example": "碌々",
+        "reading": "ロクロク",
+        "meaning": "(not) well, (not) properly, (not) enough, (not) sufficiently"
+      },
+      {
+        "example": "双六",
+        "reading": "スゴロク",
+        "meaning": "race game (board game played with dice in which the object is to reach the end of a track), ban-sugoroku, sugoroku, traditional Japanese board game similar to backgammon"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "陸",
+        "reading": "りく",
+        "meaning": "land, shore"
+      },
+      {
+        "example": "丘",
+        "reading": "おか",
+        "meaning": "hill, height, knoll, rising ground, bonus points awarded to the winner at the end of a game"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38520_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09678.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9678.gif",
+    "uri": "https://jisho.org/search/%E9%99%B8%23kanji"
+  }
+}

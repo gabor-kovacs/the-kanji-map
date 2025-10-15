@@ -1,1 +1,31 @@
-{"id":"嶢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嶢","found":true,"strokeCount":15,"meaning":"high, towering","kunyomi":["けわ.しい"],"onyomi":["ギョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["儿","土","山"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23970_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05da2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5da2.gif","uri":"https://jisho.org/search/%E5%B6%A2%23kanji"}}
+{
+  "id": "嶢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嶢",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "high, towering",
+    "kunyomi": [
+      "けわ.しい"
+    ],
+    "onyomi": [
+      "ギョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23970_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05da2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5da2.gif",
+    "uri": "https://jisho.org/search/%E5%B6%A2%23kanji"
+  }
+}

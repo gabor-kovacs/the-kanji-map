@@ -1,1 +1,60 @@
-{"id":"縷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"縷","found":true,"strokeCount":17,"meaning":"thread","kunyomi":["いと"],"onyomi":["ル","ロウ"],"onyomiExamples":[{"example":"縷言","reading":"ルゲン","meaning":"detailed explanation"},{"example":"縷述","reading":"ルジュツ","meaning":"detailed explanation"},{"example":"一縷","reading":"イチル","meaning":"slightest connection, slender connection, sliver (e.g. of hope), one thread"},{"example":"縷々","reading":"ルル","meaning":"in detail, minutely, at great length, unceasing, continuous, unbroken"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["一","口","女","小","幺","糸","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32311_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e37.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e37.gif","uri":"https://jisho.org/search/%E7%B8%B7%23kanji"}}
+{
+  "id": "縷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "縷",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "thread",
+    "kunyomi": [
+      "いと"
+    ],
+    "onyomi": [
+      "ル",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "縷言",
+        "reading": "ルゲン",
+        "meaning": "detailed explanation"
+      },
+      {
+        "example": "縷述",
+        "reading": "ルジュツ",
+        "meaning": "detailed explanation"
+      },
+      {
+        "example": "一縷",
+        "reading": "イチル",
+        "meaning": "slightest connection, slender connection, sliver (e.g. of hope), one thread"
+      },
+      {
+        "example": "縷々",
+        "reading": "ルル",
+        "meaning": "in detail, minutely, at great length, unceasing, continuous, unbroken"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "一",
+      "口",
+      "女",
+      "小",
+      "幺",
+      "糸",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32311_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e37.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e37.gif",
+    "uri": "https://jisho.org/search/%E7%B8%B7%23kanji"
+  }
+}

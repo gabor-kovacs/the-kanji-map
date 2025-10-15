@@ -1,1 +1,55 @@
-{"id":"滾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"滾","found":true,"strokeCount":14,"meaning":"flow, boil","kunyomi":["たぎ.る","たぎ.らかす"],"onyomi":["コン"],"onyomiExamples":[{"example":"滾々","reading":"コンコン","meaning":"copious (flowing)"},{"example":"滾々","reading":"コンコン","meaning":"copious (flowing)"}],"kunyomiExamples":[{"example":"滾る","reading":"たぎる","meaning":"to boil, to seethe, to roil (e.g. waterfall, torrent), to foam, to cascade down, to well up (of emotions), to overflow (e.g. fighting spirit), to seethe (esp. blood)"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ハ","亠","口","汁","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28414_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06efe.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6efe.gif","uri":"https://jisho.org/search/%E6%BB%BE%23kanji"}}
+{
+  "id": "滾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滾",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "flow, boil",
+    "kunyomi": [
+      "たぎ.る",
+      "たぎ.らかす"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "滾々",
+        "reading": "コンコン",
+        "meaning": "(flowing) copiously"
+      },
+      {
+        "example": "滾々",
+        "reading": "コンコン",
+        "meaning": "(flowing) copiously"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "滾る",
+        "reading": "たぎる",
+        "meaning": "to boil, to seethe, to roil (e.g. waterfall, torrent), to foam, to cascade down, to well up (of emotions), to overflow (e.g. fighting spirit), to seethe (esp. blood)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "口",
+      "汁",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28414_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06efe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6efe.gif",
+    "uri": "https://jisho.org/search/%E6%BB%BE%23kanji"
+  }
+}

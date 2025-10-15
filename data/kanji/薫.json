@@ -1,1 +1,62 @@
-{"id":"薫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"薫","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1849","strokeCount":16,"meaning":"send forth fragrance, fragrant, be scented, smoke (tobacco)","kunyomi":["かお.る"],"onyomi":["クン"],"onyomiExamples":[{"example":"薫","reading":"クン","meaning":"pleasant smell, aroma, fragrance, scent, pleasant-smelling vegetation"},{"example":"燻蒸","reading":"クンジョウ","meaning":"fumigation, smoking (out)"},{"example":"余薫","reading":"ヨクン","meaning":"lingering odor, lingering odour"}],"kunyomiExamples":[{"example":"香る","reading":"かおる","meaning":"to smell sweet, to be fragrant"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ノ","一","日","杰","艾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34219_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ab.gif","uri":"https://jisho.org/search/%E8%96%AB%23kanji"}}
+{
+  "id": "薫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薫",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1849",
+    "strokeCount": 16,
+    "meaning": "send forth fragrance, fragrant, be scented, smoke (tobacco)",
+    "kunyomi": [
+      "かお.る"
+    ],
+    "onyomi": [
+      "クン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "薫",
+        "reading": "クン",
+        "meaning": "pleasant smell, aroma, fragrance, scent, pleasant-smelling vegetation"
+      },
+      {
+        "example": "燻蒸",
+        "reading": "クンジョウ",
+        "meaning": "fumigation, smoking (out)"
+      },
+      {
+        "example": "余薫",
+        "reading": "ヨクン",
+        "meaning": "lingering odor, lingering odour"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "香る",
+        "reading": "かおる",
+        "meaning": "to smell sweet, to be fragrant"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "日",
+      "杰",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34219_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ab.gif",
+    "uri": "https://jisho.org/search/%E8%96%AB%23kanji"
+  }
+}

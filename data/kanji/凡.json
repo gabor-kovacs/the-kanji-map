@@ -1,1 +1,88 @@
-{"id":"凡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"凡","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1730","strokeCount":3,"meaning":"commonplace, ordinary, mediocre","kunyomi":["およ.そ","おうよ.そ","すべ.て"],"onyomi":["ボン","ハン"],"onyomiExamples":[{"example":"凡","reading":"ボン","meaning":"ordinary, common, mediocre"},{"example":"凡人","reading":"ボンジン","meaning":"ordinary person, average person, mediocre person"},{"example":"超凡","reading":"チョウボン","meaning":"extraordinary"},{"example":"不凡","reading":"フボン","meaning":"uncommon, outstanding"},{"example":"凡例","reading":"ハンレイ","meaning":"explanatory notes (at the start of a book), introductory remarks, usage guide (e.g. of a dictionary), legend (on maps, drawings, etc.)"}],"kunyomiExamples":[{"example":"凡そ","reading":"およそ","meaning":"about, roughly, approximately, generally, on the whole, as a rule, completely, quite, entirely, altogether, totally, not at all (with neg. verb), outline, gist"},{"example":"全て","reading":"すべて","meaning":"everything, all, the whole, entirely, completely, wholly, all"},{"example":"すべての道はローマに通ず","reading":"すべてのみちはローマにつうず","meaning":"all roads lead to Rome"}],"radical":{"symbol":"几","meaning":"table"},"parts":["丶","几"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20961_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051e1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51e1.gif","uri":"https://jisho.org/search/%E5%87%A1%23kanji"}}
+{
+  "id": "凡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凡",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1730",
+    "strokeCount": 3,
+    "meaning": "commonplace, ordinary, mediocre",
+    "kunyomi": [
+      "およ.そ",
+      "おうよ.そ",
+      "すべ.て"
+    ],
+    "onyomi": [
+      "ボン",
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凡",
+        "reading": "ボン",
+        "meaning": "ordinary, common, mediocre"
+      },
+      {
+        "example": "凡人",
+        "reading": "ボンジン",
+        "meaning": "ordinary person, average person, mediocre person"
+      },
+      {
+        "example": "超凡",
+        "reading": "チョウボン",
+        "meaning": "extraordinary"
+      },
+      {
+        "example": "不凡",
+        "reading": "フボン",
+        "meaning": "uncommon, outstanding"
+      },
+      {
+        "example": "凡百",
+        "reading": "ボンピャク",
+        "meaning": "various, many, all kinds of"
+      },
+      {
+        "example": "凡例",
+        "reading": "ハンレイ",
+        "meaning": "explanatory notes (at the start of a book), introductory remarks, usage guide (e.g. of a dictionary), legend (on maps, drawings, etc.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "凡そ",
+        "reading": "およそ",
+        "meaning": "about, roughly, approximately, generally, on the whole, as a rule, completely, quite, entirely, altogether, totally, not at all (with neg. verb), outline, gist"
+      },
+      {
+        "example": "大凡",
+        "reading": "おおよそ",
+        "meaning": "about, roughly, approximately, generally, on the whole, as a rule, completely, quite, entirely, altogether, totally, not at all (with neg. verb), outline, gist"
+      },
+      {
+        "example": "全て",
+        "reading": "すべて",
+        "meaning": "everything, all, the whole, entirely, completely, wholly, all"
+      },
+      {
+        "example": "すべての道はローマに通ず",
+        "reading": "すべてのみちはローマにつうず",
+        "meaning": "all roads lead to Rome"
+      }
+    ],
+    "radical": {
+      "symbol": "几",
+      "meaning": "table"
+    },
+    "parts": [
+      "丶",
+      "几"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20961_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051e1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51e1.gif",
+    "uri": "https://jisho.org/search/%E5%87%A1%23kanji"
+  }
+}

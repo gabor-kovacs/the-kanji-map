@@ -1,1 +1,308 @@
-{"id":"己","kanjialiveData":{"kanji":{"character":"己","meaning":{"english":"oneself, self"},"strokes":{"count":3,"timings":[0,1.133333,2.133333,3.666667],"images":["https://media.kanjialive.com/kanji_strokes/onore_1.svg","https://media.kanjialive.com/kanji_strokes/onore_2.svg","https://media.kanjialive.com/kanji_strokes/onore_3.svg"]},"onyomi":{"romaji":"ko, ki","katakana":"コ、キ"},"kunyomi":{"romaji":"onore","hiragana":"おのれ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/onore_3.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/onore_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/onore_00.webm"}},"radical":{"character":"⼰","strokes":3,"image":"https://media.kanjialive.com/radical_character/onore.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"おのれ","romaji":"onore"},"meaning":{"english":"self"},"animation":["https://media.kanjialive.com/rad_frames/onore0.svg","https://media.kanjialive.com/rad_frames/onore1.svg","https://media.kanjialive.com/rad_frames/onore2.svg"]},"references":{"grade":6,"kodansha":"2117","classic_nelson":"1462"},"examples":[{"japanese":"自己（じこ）","meaning":{"english":"self, oneself"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/onore_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/onore_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/onore_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/onore_06_a.mp3"}},{"japanese":"利己主義（りこしゅぎ）","meaning":{"english":"egoism, selfishness"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/onore_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/onore_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/onore_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/onore_06_b.mp3"}},{"japanese":"知己（ちき）","meaning":{"english":"acquaintance, friend"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/onore_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/onore_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/onore_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/onore_06_c.mp3"}},{"japanese":"克己心（こっきしん）","meaning":{"english":"spirit of self-denial/self-control"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/onore_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/onore_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/onore_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/onore_06_d.mp3"}},{"japanese":"己（おのれ）","meaning":{"english":"oneself, you [insulting]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/onore_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/onore_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/onore_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/onore_06_e.mp3"}}]},"jishoData":{"query":"己","found":true,"taughtIn":"grade 6","jlptLevel":"N1","newspaperFrequencyRank":"1098","strokeCount":3,"meaning":"self","kunyomi":["おのれ","つちのと","な"],"onyomi":["コ","キ"],"onyomiExamples":[{"example":"非自己","reading":"ヒジコ","meaning":"nonself, not self"},{"example":"一己","reading":"イッコ","meaning":"personal, private, oneself"},{"example":"己","reading":"キ","meaning":"6th in rank, sixth sign of the Chinese calendar"},{"example":"己亥","reading":"ツチノトイ","meaning":"Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"},{"example":"克己","reading":"コッキ","meaning":"self denial, self control"},{"example":"親戚知己","reading":"シンセキチキ","meaning":"relatives and acquaintances"}],"kunyomiExamples":[{"example":"己","reading":"おのれ","meaning":"oneself (itself, etc.), I, me, you, by oneself (itself, etc.), interjection expressing anger or chagrin"},{"example":"己達せんと欲して人を達せしむ","reading":"おのれたっせんとほっしてひとをたっせしむ","meaning":"if you wish to succeed yourself, first help others to succeed"},{"example":"己","reading":"き","meaning":"6th in rank, sixth sign of the Chinese calendar"},{"example":"己亥","reading":"つちのとい","meaning":"Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"},{"example":"己","reading":"な","meaning":"I, you"},{"example":"汝等","reading":"うぬら","meaning":"ye, you, me, I, us, we"}],"radical":{"symbol":"己","forms":["巳","已","㔾"],"meaning":"oneself"},"parts":["已"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24049_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df1.gif","uri":"https://jisho.org/search/%E5%B7%B1%23kanji"}}
+{
+  "id": "己",
+  "kanjialiveData": {
+    "_id": "54317ad3791eba5146ee4852",
+    "_rev": "12-38af2056e8ac2bae6d104400ee226b81",
+    "rad_name_ja": "おのれ",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "onore",
+    "meaning": "oneself, self",
+    "kstroke": 3,
+    "examples": [
+      {
+        "japanese": "自己（じこ）",
+        "meaning": {
+          "english": "self, oneself"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onore_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/onore_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/onore_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/onore_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "利己主義（りこしゅぎ）",
+        "meaning": {
+          "english": "egoism, selfishness"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onore_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/onore_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/onore_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/onore_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "知己（ちき）",
+        "meaning": {
+          "english": "acquaintance, friend"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onore_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/onore_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/onore_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/onore_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "克己心（こっきしん）",
+        "meaning": {
+          "english": "spirit of self-denial/self-control"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onore_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/onore_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/onore_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/onore_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "己（おのれ）",
+        "meaning": {
+          "english": "oneself, you [insulting]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onore_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/onore_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/onore_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/onore_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "おのれ",
+    "ka_utf": "己",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=己",
+    "rad_name_search": [
+      "onore"
+    ],
+    "rad_order": 58,
+    "txt_books": [
+      {
+        "chapter": "11",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "kname": "onore",
+    "rad_utf": "⼰",
+    "stroketimes": [
+      0,
+      1.133333,
+      2.133333,
+      3.666667
+    ],
+    "kunyomi_ka_display": "おのれ",
+    "dick": "2117",
+    "rad_name": "onore",
+    "dicn": "1462",
+    "mn_hint": "n/a",
+    "rad_stroke": 3,
+    "onyomi_ja": "コ、キ",
+    "rad_meaning": "self",
+    "onyomi": "ko, ki",
+    "ka_id": "ka_1050",
+    "onyomi_search": [
+      "ko",
+      "ki",
+      "ko, ki"
+    ],
+    "kunyomi_search": [
+      "onore",
+      "onore"
+    ],
+    "meaning_search": [
+      "oneself",
+      "self",
+      "oneself, self"
+    ],
+    "onyomi_ja_search": [
+      "コ",
+      "キ",
+      "コ、キ"
+    ],
+    "kunyomi_ja_search": [
+      "おのれ",
+      "おのれ"
+    ],
+    "rad_meaning_search": [
+      "self",
+      "self"
+    ],
+    "rad_name_ja_search": [
+      "おのれ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:11",
+      "ik1:c11"
+    ],
+    "rad_name_file": "onore",
+    "kanji": {
+      "character": "己",
+      "meaning": {
+        "english": "oneself, self"
+      },
+      "strokes": {
+        "count": 3,
+        "timings": [
+          0,
+          1.133333,
+          2.133333,
+          3.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/onore_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/onore_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/onore_3.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ko, ki",
+        "katakana": "コ、キ"
+      },
+      "kunyomi": {
+        "romaji": "onore",
+        "hiragana": "おのれ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/onore_3.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/onore_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/onore_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼰",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/onore.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "おのれ",
+        "romaji": "onore"
+      },
+      "meaning": {
+        "english": "self"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/onore0.svg",
+        "https://media.kanjialive.com/rad_frames/onore1.svg",
+        "https://media.kanjialive.com/rad_frames/onore2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "2117",
+      "classic_nelson": "1462"
+    }
+  },
+  "jishoData": {
+    "query": "己",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1098",
+    "strokeCount": 3,
+    "meaning": "self",
+    "kunyomi": [
+      "おのれ",
+      "つちのと",
+      "な"
+    ],
+    "onyomi": [
+      "コ",
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "非自己",
+        "reading": "ヒジコ",
+        "meaning": "nonself, not self"
+      },
+      {
+        "example": "一己",
+        "reading": "イッコ",
+        "meaning": "personal, private, oneself"
+      },
+      {
+        "example": "己",
+        "reading": "キ",
+        "meaning": "6th in rank, sixth sign of the Chinese calendar"
+      },
+      {
+        "example": "己亥",
+        "reading": "ツチノトイ",
+        "meaning": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+      },
+      {
+        "example": "親戚知己",
+        "reading": "シンセキチキ",
+        "meaning": "relatives and acquaintances"
+      },
+      {
+        "example": "克己",
+        "reading": "コッキ",
+        "meaning": "self-control, self-mastery, self-restraint, self-denial"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "己",
+        "reading": "おのれ",
+        "meaning": "oneself (itself, etc.), I, me, you, by oneself (itself, etc.), interjection expressing anger or chagrin"
+      },
+      {
+        "example": "己達せんと欲して人を達せしむ",
+        "reading": "おのれたっせんとほっしてひとをたっせしむ",
+        "meaning": "if you wish to succeed yourself, first help others to succeed"
+      },
+      {
+        "example": "己",
+        "reading": "き",
+        "meaning": "6th in rank, sixth sign of the Chinese calendar"
+      },
+      {
+        "example": "己亥",
+        "reading": "つちのとい",
+        "meaning": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+      },
+      {
+        "example": "己",
+        "reading": "な",
+        "meaning": "I, you"
+      },
+      {
+        "example": "汝等",
+        "reading": "うぬら",
+        "meaning": "ye, you, me, I, us, we"
+      }
+    ],
+    "radical": {
+      "symbol": "己",
+      "forms": [
+        "巳",
+        "已",
+        "㔾"
+      ],
+      "meaning": "oneself"
+    },
+    "parts": [
+      "已"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24049_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df1.gif",
+    "uri": "https://jisho.org/search/%E5%B7%B1%23kanji"
+  }
+}

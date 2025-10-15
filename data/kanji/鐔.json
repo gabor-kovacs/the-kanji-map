@@ -1,1 +1,43 @@
-{"id":"鐔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鐔","found":true,"strokeCount":20,"meaning":"sword guard, hilt","kunyomi":["つば"],"onyomi":["タン","シン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鍔","reading":"つば","meaning":"guard on sword, polearms, etc., flange, brim, visor (e.g. of a hat)"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["十","日","曰","西","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37908_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09414.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9414.gif","uri":"https://jisho.org/search/%E9%90%94%23kanji"}}
+{
+  "id": "鐔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鐔",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "sword guard, hilt",
+    "kunyomi": [
+      "つば"
+    ],
+    "onyomi": [
+      "タン",
+      "シン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鍔",
+        "reading": "つば",
+        "meaning": "guard (on a sword), brim (of a hat), visor, peak, brim (of a pot), flange, collar"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "十",
+      "日",
+      "曰",
+      "西",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37908_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09414.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9414.gif",
+    "uri": "https://jisho.org/search/%E9%90%94%23kanji"
+  }
+}

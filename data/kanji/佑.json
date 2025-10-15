@@ -1,1 +1,70 @@
-{"id":"佑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"佑","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2250","strokeCount":7,"meaning":"help, assist","kunyomi":["たす.ける"],"onyomi":["ユウ","ウ"],"onyomiExamples":[{"example":"佑助","reading":"ユウジョ","meaning":"assistance"},{"example":"神祐","reading":"シンユウ","meaning":"heavenly protection, divine help"},{"example":"天佑","reading":"テンユウ","meaning":"divine aid, divine grace, providential help"},{"example":"神祐","reading":"シンユウ","meaning":"heavenly protection, divine help"},{"example":"天佑","reading":"テンユウ","meaning":"divine aid, divine grace, providential help"}],"kunyomiExamples":[{"example":"助ける","reading":"たすける","meaning":"to save, to rescue, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["ノ","一","化","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20305_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f51.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f51.gif","uri":"https://jisho.org/search/%E4%BD%91%23kanji"}}
+{
+  "id": "佑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佑",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2250",
+    "strokeCount": 7,
+    "meaning": "help, assist",
+    "kunyomi": [
+      "たす.ける"
+    ],
+    "onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "佑助",
+        "reading": "ユウジョ",
+        "meaning": "assistance"
+      },
+      {
+        "example": "神祐",
+        "reading": "シンユウ",
+        "meaning": "heavenly protection, divine help"
+      },
+      {
+        "example": "天佑",
+        "reading": "テンユウ",
+        "meaning": "divine aid, divine grace, providential help"
+      },
+      {
+        "example": "神祐",
+        "reading": "シンユウ",
+        "meaning": "heavenly protection, divine help"
+      },
+      {
+        "example": "天佑",
+        "reading": "テンユウ",
+        "meaning": "divine aid, divine grace, providential help"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "助ける",
+        "reading": "たすける",
+        "meaning": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "化",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20305_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f51.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f51.gif",
+    "uri": "https://jisho.org/search/%E4%BD%91%23kanji"
+  }
+}

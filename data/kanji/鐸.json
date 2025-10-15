@@ -1,1 +1,51 @@
-{"id":"鐸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鐸","found":true,"strokeCount":21,"meaning":"large hand bell","kunyomi":[],"onyomi":["タク"],"onyomiExamples":[{"example":"鐸","reading":"タク","meaning":"duo (ancient Chinese bell with a clapper and a long handle), large wind bell"},{"example":"銅鐸","reading":"ドウタク","meaning":"bell-shaped bronze vessel of Yayoi period"},{"example":"風鐸","reading":"フウタク","meaning":"bronze wind bells hanging from eaves of temple towers or halls (esp. four corners), wind bell, wind chimes"}],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["亠","十","立","買","辛","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37944_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09438.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9438.gif","uri":"https://jisho.org/search/%E9%90%B8%23kanji"}}
+{
+  "id": "鐸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鐸",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "large hand bell",
+    "kunyomi": [],
+    "onyomi": [
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鐸",
+        "reading": "タク",
+        "meaning": "duo (ancient Chinese bell with a clapper and a long handle), large wind bell"
+      },
+      {
+        "example": "銅鐸",
+        "reading": "ドウタク",
+        "meaning": "bell-shaped bronze vessel of Yayoi period"
+      },
+      {
+        "example": "風鐸",
+        "reading": "フウタク",
+        "meaning": "bronze wind bells hanging from eaves of temple towers or halls (esp. four corners), wind bell, wind chimes"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "立",
+      "買",
+      "辛",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37944_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09438.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9438.gif",
+    "uri": "https://jisho.org/search/%E9%90%B8%23kanji"
+  }
+}

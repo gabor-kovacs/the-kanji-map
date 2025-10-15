@@ -1,1 +1,69 @@
-{"id":"朱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"朱","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1788","strokeCount":6,"meaning":"vermilion, cinnabar, scarlet, red, bloody","kunyomi":["あけ"],"onyomi":["シュ"],"onyomiExamples":[{"example":"朱","reading":"シュ","meaning":"cinnabar, vermillion, red, slightly-orange red, red pigment (and ink made from same), red text (as used to correct documents)"},{"example":"朱印","reading":"シュイン","meaning":"red seal"},{"example":"堆朱","reading":"ツイシュ","meaning":"red lacquerware with patterns carved in relief"},{"example":"銀朱","reading":"ギンシュ","meaning":"vermilion, scarlet"}],"kunyomiExamples":[{"example":"朱","reading":"あけ","meaning":"scarlet, red"},{"example":"朱に染まる","reading":"あけにそまる","meaning":"to welter in blood, to be covered in blood"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ノ","ハ","二","木","牛","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26417_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06731.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6731.gif","uri":"https://jisho.org/search/%E6%9C%B1%23kanji"}}
+{
+  "id": "朱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朱",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1788",
+    "strokeCount": 6,
+    "meaning": "vermilion, cinnabar, scarlet, red, bloody",
+    "kunyomi": [
+      "あけ"
+    ],
+    "onyomi": [
+      "シュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "朱",
+        "reading": "シュ",
+        "meaning": "vermillion (colour), cinnabar, red orange, vermillion (pigment), cinnabar ink stick, correction written in red ink"
+      },
+      {
+        "example": "銖",
+        "reading": "シュ",
+        "meaning": "shu, unit of weight, 1/24th of a ryō, shu, Edo-period unit of currency, 1/16th of a ryō"
+      },
+      {
+        "example": "堆朱",
+        "reading": "ツイシュ",
+        "meaning": "red lacquerware with patterns carved in relief"
+      },
+      {
+        "example": "銀朱",
+        "reading": "ギンシュ",
+        "meaning": "vermilion (pigment)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "朱",
+        "reading": "あけ",
+        "meaning": "red, vermilion, cinnabar, scarlet"
+      },
+      {
+        "example": "朱に染まる",
+        "reading": "あけにそまる",
+        "meaning": "to welter in blood, to be covered in blood"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "二",
+      "木",
+      "牛",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26417_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06731.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6731.gif",
+    "uri": "https://jisho.org/search/%E6%9C%B1%23kanji"
+  }
+}

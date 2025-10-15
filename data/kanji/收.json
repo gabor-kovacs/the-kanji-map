@@ -1,1 +1,41 @@
-{"id":"收","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"收","found":true,"strokeCount":6,"meaning":"income","kunyomi":["おさ.める","おさ.まる"],"onyomi":["シュウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"攴","forms":["攵"],"meaning":"rap"},"parts":["乞","攵","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25910_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06536.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6536.gif","uri":"https://jisho.org/search/%E6%94%B6%23kanji"}}
+{
+  "id": "收",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "收",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "income",
+    "kunyomi": [
+      "おさ.める",
+      "おさ.まる"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "収録",
+        "reading": "シュウロク",
+        "meaning": "recording (in a book, the minutes, etc.), printing, including, recording (audio or video)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "乞",
+      "攵",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25910_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06536.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6536.gif",
+    "uri": "https://jisho.org/search/%E6%94%B6%23kanji"
+  }
+}

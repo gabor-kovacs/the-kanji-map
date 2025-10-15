@@ -1,1 +1,73 @@
-{"id":"脇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"脇","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"1806","strokeCount":10,"meaning":"armpit, the other way, another place, flank, supporting role","kunyomi":["わき","わけ"],"onyomi":["キョウ"],"onyomiExamples":[{"example":"脇侍","reading":"ワキジ","meaning":"flanking image (e.g. in a Buddha triad)"},{"example":"脇息","reading":"キョウソク","meaning":"armrest"}],"kunyomiExamples":[{"example":"脇","reading":"わき","meaning":"armpit, under one's arm, side, flank, beside, close to, near, by, aside, to the side, away, out of the way, off-track, off-topic, deuteragonist, supporting role, second verse (in a linked series of poems)"},{"example":"脇見","reading":"わきみ","meaning":"looking from the side, looking aside"},{"example":"床脇","reading":"とこわき","meaning":"section of a room next to the alcove (where shelves are often placed)"},{"example":"口脇","reading":"くちわき","meaning":"edges of the mouth"},{"example":"関脇","reading":"せきわけ","meaning":"wrestler of the third highest rank"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["力","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33031_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08107.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8107.gif","uri":"https://jisho.org/search/%E8%84%87%23kanji"}}
+{
+  "id": "脇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "脇",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "1806",
+    "strokeCount": 10,
+    "meaning": "armpit, the other way, another place, flank, supporting role",
+    "kunyomi": [
+      "わき",
+      "わけ"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "脇侍",
+        "reading": "ワキジ",
+        "meaning": "flanking image (e.g. in a Buddha triad)"
+      },
+      {
+        "example": "脇息",
+        "reading": "キョウソク",
+        "meaning": "armrest"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脇",
+        "reading": "わき",
+        "meaning": "armpit, under one's arm, side, flank, beside, close to, near, by, aside, to the side, away, out of the way, off-track, off-topic, deuteragonist, supporting role, second verse (in a linked series of poems)"
+      },
+      {
+        "example": "脇見",
+        "reading": "わきみ",
+        "meaning": "looking from the side, looking aside"
+      },
+      {
+        "example": "床脇",
+        "reading": "とこわき",
+        "meaning": "section of a room next to the alcove (where shelves are often placed)"
+      },
+      {
+        "example": "口脇",
+        "reading": "くちわき",
+        "meaning": "edges of the mouth"
+      },
+      {
+        "example": "関脇",
+        "reading": "せきわけ",
+        "meaning": "wrestler of the third highest rank"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "力",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33031_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08107.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8107.gif",
+    "uri": "https://jisho.org/search/%E8%84%87%23kanji"
+  }
+}

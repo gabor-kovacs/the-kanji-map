@@ -1,1 +1,44 @@
-{"id":"跏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"跏","found":true,"strokeCount":12,"meaning":"sitting in the lotus position","kunyomi":[],"onyomi":["カ"],"onyomiExamples":[{"example":"結跏","reading":"ケッカ","meaning":"lotus position (meditation and yoga posture), padmasana, sitting with legs crossed and feet placed on opposing thighs"},{"example":"半跏","reading":"ハンカ","meaning":"half lotus position (meditation posture), sitting with one foot placed on the opposite thigh"}],"kunyomiExamples":[],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["力","口","止","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36303_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08dcf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8dcf.gif","uri":"https://jisho.org/search/%E8%B7%8F%23kanji"}}
+{
+  "id": "跏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "跏",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "sitting in the lotus position",
+    "kunyomi": [],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "結跏",
+        "reading": "ケッカ",
+        "meaning": "lotus position (meditation and yoga posture), padmasana, sitting with legs crossed and feet placed on opposing thighs"
+      },
+      {
+        "example": "半跏",
+        "reading": "ハンカ",
+        "meaning": "half lotus position (meditation posture), sitting with one foot placed on the opposite thigh"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "力",
+      "口",
+      "止",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36303_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08dcf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8dcf.gif",
+    "uri": "https://jisho.org/search/%E8%B7%8F%23kanji"
+  }
+}

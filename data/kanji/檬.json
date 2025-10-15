@@ -1,1 +1,30 @@
-{"id":"檬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"檬","found":true,"strokeCount":17,"meaning":"lemon tree","kunyomi":[],"onyomi":["モウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["冖","木","艾","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27308_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06aac.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6aac.gif","uri":"https://jisho.org/search/%E6%AA%AC%23kanji"}}
+{
+  "id": "檬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "檬",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "lemon tree",
+    "kunyomi": [],
+    "onyomi": [
+      "モウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "冖",
+      "木",
+      "艾",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27308_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06aac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6aac.gif",
+    "uri": "https://jisho.org/search/%E6%AA%AC%23kanji"
+  }
+}

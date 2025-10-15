@@ -1,1 +1,46 @@
-{"id":"誨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"誨","found":true,"strokeCount":14,"meaning":"instruct","kunyomi":["おし.える"],"onyomi":["カイ"],"onyomiExamples":[{"example":"教誨","reading":"キョウカイ","meaning":"counselling (often of imprisoned criminals by a chaplain, etc.), giving guidance, admonishment, scolding, exhortation"},{"example":"訓誨","reading":"クンカイ","meaning":"giving guidance, explaining"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["乞","毋","母","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35496_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aa8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aa8.gif","uri":"https://jisho.org/search/%E8%AA%A8%23kanji"}}
+{
+  "id": "誨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "誨",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "instruct",
+    "kunyomi": [
+      "おし.える"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "教誨",
+        "reading": "キョウカイ",
+        "meaning": "counselling (often of imprisoned criminals by a chaplain, etc.), giving guidance, admonishment, scolding, exhortation"
+      },
+      {
+        "example": "訓誨",
+        "reading": "クンカイ",
+        "meaning": "giving guidance, explaining"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "乞",
+      "毋",
+      "母",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35496_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aa8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aa8.gif",
+    "uri": "https://jisho.org/search/%E8%AA%A8%23kanji"
+  }
+}

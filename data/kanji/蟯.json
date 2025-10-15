@@ -1,1 +1,41 @@
-{"id":"蟯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蟯","found":true,"strokeCount":18,"meaning":"intestinal worm","kunyomi":[],"onyomi":["ギョウ","ジョウ"],"onyomiExamples":[{"example":"ぎょう虫","reading":"ギョウチュウ","meaning":"pinworm (Enterobius vermicularis), threadworm"},{"example":"蟯虫症","reading":"ギョウチュウショウ","meaning":"pinworm infection, enterobiasis"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["儿","土","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34799_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087ef.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87ef.gif","uri":"https://jisho.org/search/%E8%9F%AF%23kanji"}}
+{
+  "id": "蟯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟯",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "intestinal worm",
+    "kunyomi": [],
+    "onyomi": [
+      "ギョウ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "ぎょう虫",
+        "reading": "ギョウチュウ",
+        "meaning": "pinworm (Enterobius vermicularis), threadworm"
+      },
+      {
+        "example": "蟯虫症",
+        "reading": "ギョウチュウショウ",
+        "meaning": "pinworm infection, enterobiasis"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34799_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087ef.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87ef.gif",
+    "uri": "https://jisho.org/search/%E8%9F%AF%23kanji"
+  }
+}

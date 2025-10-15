@@ -1,1 +1,54 @@
-{"id":"彎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"彎","found":true,"strokeCount":22,"meaning":"curve, stretching a bow","kunyomi":["ひ.く"],"onyomi":["ワン"],"onyomiExamples":[{"example":"湾曲","reading":"ワンキョク","meaning":"curve, bend, crook"},{"example":"彎月","reading":"ワンゲツ","meaning":"crescent"},{"example":"大弯","reading":"ダイワン","meaning":"greater curvature (of the stomach), curvatura ventriculi major"},{"example":"小弯","reading":"ショウワン","meaning":"lesser curvature (of the stomach), curvatura ventriculi minor"}],"kunyomiExamples":[],"radical":{"symbol":"弓","meaning":"bow"},"parts":["小","幺","弓","糸","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24398_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f4e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f4e.gif","uri":"https://jisho.org/search/%E5%BD%8E%23kanji"}}
+{
+  "id": "彎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彎",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "curve, stretching a bow",
+    "kunyomi": [
+      "ひ.く"
+    ],
+    "onyomi": [
+      "ワン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "湾曲",
+        "reading": "ワンキョク",
+        "meaning": "curve, bend, crook"
+      },
+      {
+        "example": "彎月",
+        "reading": "ワンゲツ",
+        "meaning": "crescent"
+      },
+      {
+        "example": "大弯",
+        "reading": "ダイワン",
+        "meaning": "greater curvature (of the stomach), curvatura ventriculi major"
+      },
+      {
+        "example": "小弯",
+        "reading": "ショウワン",
+        "meaning": "lesser curvature (of the stomach), curvatura ventriculi minor"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "bow"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "弓",
+      "糸",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24398_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f4e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f4e.gif",
+    "uri": "https://jisho.org/search/%E5%BD%8E%23kanji"
+  }
+}

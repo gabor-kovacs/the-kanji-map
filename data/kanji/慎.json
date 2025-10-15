@@ -1,1 +1,95 @@
-{"id":"慎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"慎","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"999","strokeCount":13,"meaning":"humility, be careful, discreet, prudent","kunyomi":["つつし.む","つつ.ましい","つつし","つつし.み"],"onyomi":["シン"],"onyomiExamples":[{"example":"慎重","reading":"シンチョウ","meaning":"careful, cautious, prudent, discreet, deliberate"},{"example":"慎重吟味","reading":"シンチョウギンミ","meaning":"scrutiny, careful (close) examination (investigation), careful inquiry, careful selection"},{"example":"謹慎","reading":"キンシン","meaning":"self restraint, moderating one's behaviour, penitence, discipline, confinement to one's home, house arrest"},{"example":"不謹慎","reading":"フキンシン","meaning":"indiscrete, imprudent, unscrupulous"}],"kunyomiExamples":[{"example":"慎む","reading":"つつしむ","meaning":"to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"},{"example":"慎ましい","reading":"つつましい","meaning":"modest, reserved, quiet, humble"},{"example":"慎む","reading":"つつしむ","meaning":"to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"},{"example":"慎み","reading":"つつしみ","meaning":"modesty, self-control, discretion"},{"example":"慎み","reading":"つつしみ","meaning":"modesty, self-control, discretion"},{"example":"慎み深い","reading":"つつしみぶかい","meaning":"discreet, modest, cautious"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ハ","一","十","忙","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24910_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0614e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/614e.gif","uri":"https://jisho.org/search/%E6%85%8E%23kanji"}}
+{
+  "id": "慎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慎",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "999",
+    "strokeCount": 13,
+    "meaning": "humility, be careful, discreet, prudent",
+    "kunyomi": [
+      "つつし.む",
+      "つつ.ましい",
+      "つつし",
+      "つつし.み"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慎重",
+        "reading": "シンチョウ",
+        "meaning": "careful, cautious, prudent, discreet, deliberate"
+      },
+      {
+        "example": "慎重吟味",
+        "reading": "シンチョウギンミ",
+        "meaning": "scrutiny, careful (close) examination (investigation), careful inquiry, careful selection"
+      },
+      {
+        "example": "謹慎",
+        "reading": "キンシン",
+        "meaning": "self restraint, moderating one's own behavior, penitence, discipline, confinement (esp. to one's home), house arrest, suspension (from work or school)"
+      },
+      {
+        "example": "不謹慎",
+        "reading": "フキンシン",
+        "meaning": "imprudent, indiscreet, immodest, indecent, inconsiderate, inappropriate"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慎む",
+        "reading": "つつしむ",
+        "meaning": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
+      },
+      {
+        "example": "慎ましい",
+        "reading": "つつましい",
+        "meaning": "modest, reserved, quiet, humble, frugal, simple, plain"
+      },
+      {
+        "example": "慎む",
+        "reading": "つつしむ",
+        "meaning": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
+      },
+      {
+        "example": "慎み",
+        "reading": "つつしみ",
+        "meaning": "modesty, self-control, discretion"
+      },
+      {
+        "example": "慎み",
+        "reading": "つつしみ",
+        "meaning": "modesty, self-control, discretion"
+      },
+      {
+        "example": "慎み深い",
+        "reading": "つつしみぶかい",
+        "meaning": "discreet, modest, cautious"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "十",
+      "忙",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24910_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0614e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/614e.gif",
+    "uri": "https://jisho.org/search/%E6%85%8E%23kanji"
+  }
+}

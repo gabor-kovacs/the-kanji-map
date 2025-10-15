@@ -1,1 +1,58 @@
-{"id":"迄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"迄","found":true,"strokeCount":6,"meaning":"until, up to, as far as, to the extent","kunyomi":["まで","およ.ぶ"],"onyomi":["キツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"迄","reading":"まで","meaning":"until (a time), till, to, up to, to (a place or person), as far as, to (an extent), up to, so far as, even, only, merely"},{"example":"迄に","reading":"までに","meaning":"by, not later than, before"},{"example":"一から十まで","reading":"いちからじゅうまで","meaning":"from A to Z, without exception, in every particular"},{"example":"然迄","reading":"さまで","meaning":"so much"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["乙","乞","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36804_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fc4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fc4.gif","uri":"https://jisho.org/search/%E8%BF%84%23kanji"}}
+{
+  "id": "迄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "迄",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "until, up to, as far as, to the extent",
+    "kunyomi": [
+      "まで",
+      "およ.ぶ"
+    ],
+    "onyomi": [
+      "キツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "迄",
+        "reading": "まで",
+        "meaning": "until (a time), till, to, up to, to (a place or person), as far as, to (an extent), up to, so far as, even, only, merely"
+      },
+      {
+        "example": "迄も",
+        "reading": "までも",
+        "meaning": "to (an extent), up to, so far as, even, there is no need to ..., it should hardly be necessary to ..., even if there is no need to ... (at least ...)"
+      },
+      {
+        "example": "一から十まで",
+        "reading": "いちからじゅうまで",
+        "meaning": "from A to Z, in every particular, all without exception, in everything, through and through, from one to ten"
+      },
+      {
+        "example": "然迄",
+        "reading": "さまで",
+        "meaning": "so much"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "乙",
+      "乞",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36804_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fc4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fc4.gif",
+    "uri": "https://jisho.org/search/%E8%BF%84%23kanji"
+  }
+}

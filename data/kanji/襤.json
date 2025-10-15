@@ -1,1 +1,53 @@
-{"id":"襤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"襤","found":true,"strokeCount":20,"meaning":"rags","kunyomi":["ぼろ"],"onyomi":["ラン"],"onyomiExamples":[{"example":"襤褸","reading":"ボロ","meaning":"rag, scrap, tattered clothes, fault (esp. in a pretense, pretence), defect, run-down, shabby, junky"}],"kunyomiExamples":[{"example":"襤褸","reading":"ぼろ","meaning":"rag, scrap, tattered clothes, fault (esp. in a pretense, pretence), defect, run-down, shabby, junky"},{"example":"ボロ市","reading":"ぼろいち","meaning":"flea market (esp. one held in Setagaya, Tokyo in December or January)"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["乞","二","初","皿","臣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35172_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08964.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8964.gif","uri":"https://jisho.org/search/%E8%A5%A4%23kanji"}}
+{
+  "id": "襤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "襤",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "rags",
+    "kunyomi": [
+      "ぼろ"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "襤褸",
+        "reading": "ランル",
+        "meaning": "tattered clothes, ragged clothes, rag"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "襤褸",
+        "reading": "ぼろ",
+        "meaning": "rag, old cloth, tattered clothes, ragged clothes, rags, fault (one is trying to hide), defect, weakness, worn-out, run-down, shabby, ragged, tattered"
+      },
+      {
+        "example": "襤褸い",
+        "reading": "ぼろい",
+        "meaning": "worn-out, run-down, beat-up, shabby, dilapidated"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "初",
+      "皿",
+      "臣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35172_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08964.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8964.gif",
+    "uri": "https://jisho.org/search/%E8%A5%A4%23kanji"
+  }
+}

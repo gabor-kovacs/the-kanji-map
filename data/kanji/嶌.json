@@ -1,1 +1,32 @@
-{"id":"嶌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嶌","found":true,"newspaperFrequencyRank":"1774","strokeCount":14,"meaning":"island","kunyomi":["しま"],"onyomi":["トウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["山","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23948_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d8c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d8c.gif","uri":"https://jisho.org/search/%E5%B6%8C%23kanji"}}
+{
+  "id": "嶌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嶌",
+    "found": true,
+    "newspaperFrequencyRank": "1774",
+    "strokeCount": 14,
+    "meaning": "island",
+    "kunyomi": [
+      "しま"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "山",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23948_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d8c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d8c.gif",
+    "uri": "https://jisho.org/search/%E5%B6%8C%23kanji"
+  }
+}

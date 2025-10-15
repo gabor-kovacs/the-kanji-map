@@ -1,1 +1,33 @@
-{"id":"舜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"舜","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2384","strokeCount":13,"meaning":"type of morning glory, rose of Sharon, althea","kunyomi":[],"onyomi":["シュン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"舛","meaning":"opposite"},"parts":["冖","夕","爪","牛","舛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33308_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0821c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/821c.gif","uri":"https://jisho.org/search/%E8%88%9C%23kanji"}}
+{
+  "id": "舜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "舜",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2384",
+    "strokeCount": 13,
+    "meaning": "type of morning glory, rose of Sharon, althea",
+    "kunyomi": [],
+    "onyomi": [
+      "シュン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "舛",
+      "meaning": "opposite"
+    },
+    "parts": [
+      "冖",
+      "夕",
+      "爪",
+      "牛",
+      "舛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33308_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0821c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/821c.gif",
+    "uri": "https://jisho.org/search/%E8%88%9C%23kanji"
+  }
+}

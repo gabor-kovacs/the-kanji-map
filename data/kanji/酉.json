@@ -1,1 +1,63 @@
-{"id":"酉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"酉","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2468","strokeCount":7,"meaning":"west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical (no. 164)","kunyomi":["とり"],"onyomi":["ユウ"],"onyomiExamples":[{"example":"丁酉","reading":"ヒノトトリ","meaning":"Fire Rooster (34th term of the sexagenary cycle, e.g. 1957, 2017, 2077)"},{"example":"癸酉","reading":"ミズノトトリ","meaning":"Water Rooster (10th term of the sexagenary cycle, e.g. 1933, 1993, 2053)"}],"kunyomiExamples":[{"example":"酉","reading":"とり","meaning":"the Rooster (tenth sign of the Chinese zodiac), the Cock, the Chicken, the Bird, hour of the Rooster (around 6pm, 5-7pm, or 6-8pm), west, eight month of the lunar calendar"},{"example":"酉年","reading":"とりどし","meaning":"year of the Rooster, year of the Cock"},{"example":"辛酉","reading":"かのととり","meaning":"Metal Rooster (58th term of the sexagenary cycle, e.g. 1921, 1981, 2041)"},{"example":"乙酉","reading":"きのととり","meaning":"Wood Rooster (22nd term of the sexagenary cycle, e.g. 1945, 2005, 2065)"}],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37193_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09149.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9149.gif","uri":"https://jisho.org/search/%E9%85%89%23kanji"}}
+{
+  "id": "酉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酉",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2468",
+    "strokeCount": 7,
+    "meaning": "west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical (no. 164)",
+    "kunyomi": [
+      "とり"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丁酉",
+        "reading": "ヒノトトリ",
+        "meaning": "Fire Rooster (34th term of the sexagenary cycle, e.g. 1957, 2017, 2077)"
+      },
+      {
+        "example": "癸酉",
+        "reading": "ミズノトトリ",
+        "meaning": "Water Rooster (10th term of the sexagenary cycle, e.g. 1933, 1993, 2053)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "酉",
+        "reading": "とり",
+        "meaning": "the Rooster (tenth sign of the Chinese zodiac), the Cock, the Chicken, the Bird, hour of the Rooster (around 6pm, 5-7pm, or 6-8pm), west, eight month of the lunar calendar"
+      },
+      {
+        "example": "酉年",
+        "reading": "とりどし",
+        "meaning": "year of the Rooster, year of the Cock"
+      },
+      {
+        "example": "辛酉",
+        "reading": "かのととり",
+        "meaning": "Metal Rooster (58th term of the sexagenary cycle, e.g. 1921, 1981, 2041)"
+      },
+      {
+        "example": "乙酉",
+        "reading": "きのととり",
+        "meaning": "Wood Rooster (22nd term of the sexagenary cycle, e.g. 1945, 2005, 2065)"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37193_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09149.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9149.gif",
+    "uri": "https://jisho.org/search/%E9%85%89%23kanji"
+  }
+}

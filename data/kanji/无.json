@@ -1,1 +1,37 @@
-{"id":"无","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"无","found":true,"strokeCount":4,"meaning":"nothing, not exist, crooked heaven radical (no.71)","kunyomi":["なし","ない"],"onyomi":["ブ","ム"],"onyomiExamples":[{"example":"無","reading":"ム","meaning":"nothing, naught, nought, nil, zero, un-, non-"}],"kunyomiExamples":[],"radical":{"symbol":"无","meaning":"perish"},"parts":["无"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26080_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e0.gif","uri":"https://jisho.org/search/%E6%97%A0%23kanji"}}
+{
+  "id": "无",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "无",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "nothing, not exist, crooked heaven radical (no.71)",
+    "kunyomi": [
+      "なし",
+      "ない"
+    ],
+    "onyomi": [
+      "ブ",
+      "ム"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "無",
+        "reading": "ム",
+        "meaning": "nothing, naught, nought, nil, zero, un-, non-"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "无",
+      "meaning": "perish"
+    },
+    "parts": [
+      "无"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26080_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e0.gif",
+    "uri": "https://jisho.org/search/%E6%97%A0%23kanji"
+  }
+}

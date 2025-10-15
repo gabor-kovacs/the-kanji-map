@@ -1,1 +1,32 @@
-{"id":"尅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"尅","found":true,"strokeCount":10,"meaning":"subdue, destroy, overcome","kunyomi":["かつ"],"onyomi":["コク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"寸","meaning":"thumb, inch"},"parts":["儿","十","口","寸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23557_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c05.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c05.gif","uri":"https://jisho.org/search/%E5%B0%85%23kanji"}}
+{
+  "id": "尅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尅",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "subdue, destroy, overcome",
+    "kunyomi": [
+      "かつ"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "thumb, inch"
+    },
+    "parts": [
+      "儿",
+      "十",
+      "口",
+      "寸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23557_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c05.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c05.gif",
+    "uri": "https://jisho.org/search/%E5%B0%85%23kanji"
+  }
+}

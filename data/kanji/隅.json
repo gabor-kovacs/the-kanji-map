@@ -1,1 +1,302 @@
-{"id":"隅","kanjialiveData":{"kanji":{"character":"隅","meaning":{"english":"nook, corner"},"strokes":{"count":12,"timings":[0,1.066667,2.466667,4.4,6.133333,7.733333,8.666667,9.933333,11.6,14.066667,15.933333,16.866667,18.333333],"images":["https://media.kanjialive.com/kanji_strokes/guu-sumi_1.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_2.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_3.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_4.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_5.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_6.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_7.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_8.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_9.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_10.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_11.svg","https://media.kanjialive.com/kanji_strokes/guu-sumi_12.svg"]},"onyomi":{"romaji":"guu","katakana":"グウ"},"kunyomi":{"romaji":"sumi","hiragana":"すみ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/guu-sumi_12.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/guu-sumi_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/guu-sumi_00.webm"}},"radical":{"character":"⻖","strokes":3,"image":"https://media.kanjialive.com/radical_character/kozatohen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"こざとへん","romaji":"kozatohen"},"meaning":{"english":"hill, mound"},"animation":["https://media.kanjialive.com/rad_frames/kozatohen0.svg","https://media.kanjialive.com/rad_frames/kozatohen1.svg","https://media.kanjialive.com/rad_frames/kozatohen2.svg"]},"references":{"grade":null,"kodansha":"450","classic_nelson":"5009"},"examples":[{"japanese":"一隅（いちぐう）","meaning":{"english":"corner, nook"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/guu-sumi_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/guu-sumi_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/guu-sumi_06_a.mp3"}},{"japanese":"隅（すみ）","meaning":{"english":"corner, nook"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/guu-sumi_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/guu-sumi_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/guu-sumi_06_b.mp3"}},{"japanese":"隅々（すみずみ）","meaning":{"english":"every nook and corner"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/guu-sumi_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/guu-sumi_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/guu-sumi_06_c.mp3"}},{"japanese":"片隅（かたすみ）","meaning":{"english":"corner, nook"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/guu-sumi_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/guu-sumi_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/guu-sumi_06_d.mp3"}},{"japanese":"四隅（よすみ）","meaning":{"english":"four corners"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/guu-sumi_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/guu-sumi_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/guu-sumi_06_e.mp3"}}]},"jishoData":{"query":"隅","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"1601","strokeCount":12,"meaning":"corner, nook","kunyomi":["すみ"],"onyomi":["グウ"],"onyomiExamples":[{"example":"一隅","reading":"イチグウ","meaning":"corner, nook"},{"example":"四隅","reading":"ヨスミ","meaning":"four corners, four ordinal directions"}],"kunyomiExamples":[{"example":"隅","reading":"すみ","meaning":"corner, nook, recess, downstage right (on a noh stage)"},{"example":"隅々","reading":"すみずみ","meaning":"every corner, every nook and cranny, all the ins and outs"},{"example":"四隅","reading":"よすみ","meaning":"four corners, four ordinal directions"},{"example":"一隅","reading":"いちぐう","meaning":"corner, nook"}],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["冂","厶","日","田","禹","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38533_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09685.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9685.gif","uri":"https://jisho.org/search/%E9%9A%85%23kanji"}}
+{
+  "id": "隅",
+  "kanjialiveData": {
+    "_id": "54317ada791eba5146ee48bb",
+    "_rev": "10-65fd09647d72353a8ee4d4b9fc6cecff",
+    "rad_name_ja": "こざとへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "sumi",
+    "meaning": "nook, corner",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "一隅（いちぐう）",
+        "meaning": {
+          "english": "corner, nook"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/guu-sumi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/guu-sumi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/guu-sumi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "隅（すみ）",
+        "meaning": {
+          "english": "corner, nook"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/guu-sumi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/guu-sumi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/guu-sumi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "隅々（すみずみ）",
+        "meaning": {
+          "english": "every nook and corner"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/guu-sumi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/guu-sumi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/guu-sumi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "片隅（かたすみ）",
+        "meaning": {
+          "english": "corner, nook"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/guu-sumi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/guu-sumi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/guu-sumi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "四隅（よすみ）",
+        "meaning": {
+          "english": "four corners"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/guu-sumi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/guu-sumi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/guu-sumi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/guu-sumi_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "すみ",
+    "ka_utf": "隅",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=隅",
+    "rad_name_search": [
+      "kozatohen"
+    ],
+    "rad_order": 74,
+    "txt_books": [],
+    "kname": "guu-sumi",
+    "rad_utf": "⻖",
+    "stroketimes": [
+      0,
+      1.066667,
+      2.466667,
+      4.4,
+      6.133333,
+      7.733333,
+      8.666667,
+      9.933333,
+      11.6,
+      14.066667,
+      15.933333,
+      16.866667,
+      18.333333
+    ],
+    "kunyomi_ka_display": "すみ",
+    "dick": "450",
+    "rad_name": "kozatohen",
+    "dicn": "5009",
+    "mn_hint": "Insect 虫 hidden 冂 in a sand slope 阝 or in a corner/nook in a house 冖.",
+    "rad_stroke": 3,
+    "onyomi_ja": "グウ",
+    "rad_meaning": "hill, mound",
+    "onyomi": "guu",
+    "ka_id": "ka_1145",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "guu",
+      "guu"
+    ],
+    "kunyomi_search": [
+      "sumi",
+      "sumi"
+    ],
+    "meaning_search": [
+      "nook",
+      "corner",
+      "nook, corner"
+    ],
+    "onyomi_ja_search": [
+      "グウ",
+      "グウ"
+    ],
+    "kunyomi_ja_search": [
+      "すみ",
+      "すみ"
+    ],
+    "rad_meaning_search": [
+      "hill",
+      "mound",
+      "hill, mound"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "こざとへん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "kozatohen",
+    "kanji": {
+      "character": "隅",
+      "meaning": {
+        "english": "nook, corner"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          1.066667,
+          2.466667,
+          4.4,
+          6.133333,
+          7.733333,
+          8.666667,
+          9.933333,
+          11.6,
+          14.066667,
+          15.933333,
+          16.866667,
+          18.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/guu-sumi_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "guu",
+        "katakana": "グウ"
+      },
+      "kunyomi": {
+        "romaji": "sumi",
+        "hiragana": "すみ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/guu-sumi_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/guu-sumi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/guu-sumi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⻖",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kozatohen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "こざとへん",
+        "romaji": "kozatohen"
+      },
+      "meaning": {
+        "english": "hill, mound"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
+        "https://media.kanjialive.com/rad_frames/kozatohen1.svg",
+        "https://media.kanjialive.com/rad_frames/kozatohen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "450",
+      "classic_nelson": "5009"
+    }
+  },
+  "jishoData": {
+    "query": "隅",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1601",
+    "strokeCount": 12,
+    "meaning": "corner, nook",
+    "kunyomi": [
+      "すみ"
+    ],
+    "onyomi": [
+      "グウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "隅角",
+        "reading": "グウカク",
+        "meaning": "iridocorneal angle, angulus iridocornealis, corner"
+      },
+      {
+        "example": "一隅",
+        "reading": "イチグウ",
+        "meaning": "corner, nook"
+      },
+      {
+        "example": "四隅",
+        "reading": "ヨスミ",
+        "meaning": "four corners, four ordinal directions"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "隅",
+        "reading": "すみ",
+        "meaning": "corner, nook, recess, downstage right (on a noh stage)"
+      },
+      {
+        "example": "隅々",
+        "reading": "すみずみ",
+        "meaning": "every corner, every nook and cranny, all the ins and outs"
+      },
+      {
+        "example": "四隅",
+        "reading": "よすみ",
+        "meaning": "four corners, four ordinal directions"
+      },
+      {
+        "example": "一隅",
+        "reading": "いちぐう",
+        "meaning": "corner, nook"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "冂",
+      "厶",
+      "日",
+      "田",
+      "禹",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38533_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09685.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9685.gif",
+    "uri": "https://jisho.org/search/%E9%9A%85%23kanji"
+  }
+}

@@ -1,1 +1,58 @@
-{"id":"饌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"饌","found":true,"strokeCount":21,"meaning":"food, offering","kunyomi":["そな.える"],"onyomi":["セン","サン"],"onyomiExamples":[{"example":"饌","reading":"セン","meaning":"food offering to the gods, prepared food"},{"example":"饌米","reading":"センマイ","meaning":"offering of consecrated rice"},{"example":"食饌","reading":"ショクセン","meaning":"food served on a table (esp. food served on a small Japanese table)"},{"example":"酒饌","reading":"シュセン","meaning":"food and (alcoholic) drink"}],"kunyomiExamples":[],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":["ハ","二","已","食","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39244_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0994c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/994c.gif","uri":"https://jisho.org/search/%E9%A5%8C%23kanji"}}
+{
+  "id": "饌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "饌",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "food, offering",
+    "kunyomi": [
+      "そな.える"
+    ],
+    "onyomi": [
+      "セン",
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "饌",
+        "reading": "セン",
+        "meaning": "food offering to the gods, prepared food"
+      },
+      {
+        "example": "饌米",
+        "reading": "センマイ",
+        "meaning": "offering of consecrated rice"
+      },
+      {
+        "example": "食饌",
+        "reading": "ショクセン",
+        "meaning": "food served on a table (esp. food served on a small Japanese table)"
+      },
+      {
+        "example": "酒饌",
+        "reading": "シュセン",
+        "meaning": "food and (alcoholic) drink"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "已",
+      "食",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39244_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0994c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/994c.gif",
+    "uri": "https://jisho.org/search/%E9%A5%8C%23kanji"
+  }
+}

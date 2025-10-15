@@ -1,1 +1,92 @@
-{"id":"餌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"餌","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2277","strokeCount":14,"meaning":"food, bait, prey, tempting profit","kunyomi":["え","えば","えさ","もち"],"onyomi":["ジ","ニ"],"onyomiExamples":[{"example":"採餌","reading":"サイジ","meaning":"feeding (by animals), food getting"},{"example":"好餌","reading":"コウジ","meaning":"bait, decoy, lure, easy prey, easy victim, sucker"}],"kunyomiExamples":[{"example":"餌","reading":"えさ","meaning":"(animal) feed, fodder, pet food, bait, lure, enticement"},{"example":"餌場","reading":"えさば","meaning":"feeding ground"},{"example":"撒き餌","reading":"まきえ","meaning":"scattered animal feed, ground bait"},{"example":"毒餌","reading":"どくえ","meaning":"poisonous bait"},{"example":"餌","reading":"えさ","meaning":"(animal) feed, fodder, pet food, bait, lure, enticement"},{"example":"餌場","reading":"えさば","meaning":"feeding ground"},{"example":"釣り餌","reading":"つりえ","meaning":"bait (for fishing)"},{"example":"練り餌","reading":"ねりえ","meaning":"paste bird feed, paste fishing bait"}],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":["耳","艮","食"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39180_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0990c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/990c.gif","uri":"https://jisho.org/search/%E9%A4%8C%23kanji"}}
+{
+  "id": "餌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "餌",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2277",
+    "strokeCount": 14,
+    "meaning": "food, bait, prey, tempting profit",
+    "kunyomi": [
+      "え",
+      "えば",
+      "えさ",
+      "もち"
+    ],
+    "onyomi": [
+      "ジ",
+      "ニ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "採餌",
+        "reading": "サイジ",
+        "meaning": "feeding (by animals), food getting"
+      },
+      {
+        "example": "好餌",
+        "reading": "コウジ",
+        "meaning": "bait, decoy, lure, easy prey, easy victim, sucker"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "餌",
+        "reading": "えさ",
+        "meaning": "(animal) feed, fodder, pet food, bait, lure, enticement"
+      },
+      {
+        "example": "餌場",
+        "reading": "えさば",
+        "meaning": "feeding ground"
+      },
+      {
+        "example": "撒き餌",
+        "reading": "まきえ",
+        "meaning": "scattered animal feed, ground bait"
+      },
+      {
+        "example": "毒餌",
+        "reading": "どくえ",
+        "meaning": "poisonous bait"
+      },
+      {
+        "example": "餌",
+        "reading": "えさ",
+        "meaning": "(animal) feed, fodder, pet food, bait, lure, enticement"
+      },
+      {
+        "example": "餌場",
+        "reading": "えさば",
+        "meaning": "feeding ground"
+      },
+      {
+        "example": "釣り餌",
+        "reading": "つりえ",
+        "meaning": "bait (for fishing)"
+      },
+      {
+        "example": "練り餌",
+        "reading": "ねりえ",
+        "meaning": "paste bird feed, paste fishing bait"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [
+      "耳",
+      "艮",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39180_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0990c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/990c.gif",
+    "uri": "https://jisho.org/search/%E9%A4%8C%23kanji"
+  }
+}

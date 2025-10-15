@@ -1,1 +1,59 @@
-{"id":"鷲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鷲","found":true,"newspaperFrequencyRank":"1925","strokeCount":23,"meaning":"eagle","kunyomi":["わし"],"onyomi":["シュウ","ジュ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鷲","reading":"わし","meaning":"eagle (Accipitridae family)"},{"example":"鷲座","reading":"わしざ","meaning":"Aquila (constellation), the Eagle"},{"example":"蛇食鷲","reading":"へびくいわし","meaning":"secretarybird (Sagittarius serpentarius), secretary bird"},{"example":"白頭鷲","reading":"はくとうわし","meaning":"bald eagle (Haliaeetus leucocephalus)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["丶","亠","口","小","尢","尤","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40434_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09df2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9df2.gif","uri":"https://jisho.org/search/%E9%B7%B2%23kanji"}}
+{
+  "id": "鷲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鷲",
+    "found": true,
+    "newspaperFrequencyRank": "1925",
+    "strokeCount": 23,
+    "meaning": "eagle",
+    "kunyomi": [
+      "わし"
+    ],
+    "onyomi": [
+      "シュウ",
+      "ジュ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鷲",
+        "reading": "わし",
+        "meaning": "eagle (Accipitridae family)"
+      },
+      {
+        "example": "鷲座",
+        "reading": "わしざ",
+        "meaning": "Aquila (constellation), the Eagle"
+      },
+      {
+        "example": "蛇食鷲",
+        "reading": "へびくいわし",
+        "meaning": "secretarybird (Sagittarius serpentarius), secretary bird"
+      },
+      {
+        "example": "白頭鷲",
+        "reading": "はくとうわし",
+        "meaning": "bald eagle (Haliaeetus leucocephalus)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "丶",
+      "亠",
+      "口",
+      "小",
+      "尢",
+      "尤",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40434_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09df2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9df2.gif",
+    "uri": "https://jisho.org/search/%E9%B7%B2%23kanji"
+  }
+}

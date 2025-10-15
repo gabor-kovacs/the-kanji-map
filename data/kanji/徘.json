@@ -1,1 +1,37 @@
-{"id":"徘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"徘","found":true,"newspaperFrequencyRank":"2414","strokeCount":11,"meaning":"wander","kunyomi":["さまよ.う"],"onyomi":["ハイ"],"onyomiExamples":[{"example":"徘徊","reading":"ハイカイ","meaning":"loitering, roaming, sauntering, wandering about, prowling"}],"kunyomiExamples":[],"radical":{"symbol":"彳","meaning":"step"},"parts":["彳","非"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24472_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f98.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f98.gif","uri":"https://jisho.org/search/%E5%BE%98%23kanji"}}
+{
+  "id": "徘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "徘",
+    "found": true,
+    "newspaperFrequencyRank": "2414",
+    "strokeCount": 11,
+    "meaning": "wander",
+    "kunyomi": [
+      "さまよ.う"
+    ],
+    "onyomi": [
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "徘徊",
+        "reading": "ハイカイ",
+        "meaning": "wandering (around), roaming, loitering, prowling, hanging around"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "step"
+    },
+    "parts": [
+      "彳",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24472_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f98.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f98.gif",
+    "uri": "https://jisho.org/search/%E5%BE%98%23kanji"
+  }
+}

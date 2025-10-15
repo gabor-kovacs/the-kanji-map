@@ -1,1 +1,40 @@
-{"id":"鰡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鰡","found":true,"strokeCount":21,"meaning":"type of fish, mullet","kunyomi":["ぼら"],"onyomi":["リュウ","ル"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鯔","reading":"ぼら","meaning":"striped mullet (Mugil cephalus), redlip mullet (Chelon haematocheilus)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["刀","厶","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39969_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c21.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c21.gif","uri":"https://jisho.org/search/%E9%B0%A1%23kanji"}}
+{
+  "id": "鰡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰡",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "type of fish, mullet",
+    "kunyomi": [
+      "ぼら"
+    ],
+    "onyomi": [
+      "リュウ",
+      "ル"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鯔",
+        "reading": "ぼら",
+        "meaning": "striped mullet (Mugil cephalus), flathead grey mullet, black mullet, redlip mullet (Chelon haematocheilus)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "刀",
+      "厶",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39969_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c21.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c21.gif",
+    "uri": "https://jisho.org/search/%E9%B0%A1%23kanji"
+  }
+}

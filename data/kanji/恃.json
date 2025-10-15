@@ -1,1 +1,48 @@
-{"id":"恃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"恃","found":true,"strokeCount":9,"meaning":"depend on","kunyomi":["たの.む"],"onyomi":["ジ","シ"],"onyomiExamples":[{"example":"矜持","reading":"キョウジ","meaning":"pride, dignity, self-respect"}],"kunyomiExamples":[{"example":"頼む","reading":"たのむ","meaning":"to request, to beg, to ask, to call, to order, to reserve, to entrust to, to rely on, please, please do"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["土","寸","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24643_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06043.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6043.gif","uri":"https://jisho.org/search/%E6%81%83%23kanji"}}
+{
+  "id": "恃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恃",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "depend on",
+    "kunyomi": [
+      "たの.む"
+    ],
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "矜持",
+        "reading": "キョウジ",
+        "meaning": "pride, dignity, self-respect"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頼む",
+        "reading": "たのむ",
+        "meaning": "to request, to beg, to ask, to call, to order, to reserve, to entrust to, to rely on, please, please do"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "土",
+      "寸",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24643_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06043.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6043.gif",
+    "uri": "https://jisho.org/search/%E6%81%83%23kanji"
+  }
+}

@@ -1,1 +1,67 @@
-{"id":"戎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"戎","found":true,"strokeCount":6,"meaning":"warrior, arms, barbarian, Ainu","kunyomi":["えびす","つわもの"],"onyomi":["ジュウ"],"onyomiExamples":[{"example":"戎葵","reading":"ジュウキ","meaning":"hollyhock"},{"example":"戎馬","reading":"ジュウバ","meaning":"warhorse"},{"example":"西戎","reading":"セイジュウ","meaning":"Xirong, Rong, inhabitants of the extremities of China as early as the Shang dynasty (1765-1122 BCE), barbarians to the west"},{"example":"東夷西戎","reading":"トウイセイジュウ","meaning":"barbarians to the east and to the west (from the perspective of old China)"}],"kunyomiExamples":[{"example":"夷","reading":"えびす","meaning":"peoples formerly of northern Japan with distinct language and culture (i.e. the Ainu), provincial (i.e. a person who lives far from the city), brutish, unsophisticated warrior (esp. used by Kyoto samurai to refer to samurai from eastern Japan), foreigner, barbarian"},{"example":"恵比寿","reading":"えびす","meaning":"Ebisu, god of fishing and commerce"},{"example":"十日戎","reading":"とおかえびす","meaning":"festival held on January 10 in honor of Ebisu, the god of fishing and commerce"}],"radical":{"symbol":"戈","meaning":"spear, halberd"},"parts":["戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25102_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0620e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/620e.gif","uri":"https://jisho.org/search/%E6%88%8E%23kanji"}}
+{
+  "id": "戎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戎",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "warrior, arms, barbarian, Ainu",
+    "kunyomi": [
+      "えびす",
+      "つわもの"
+    ],
+    "onyomi": [
+      "ジュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戎葵",
+        "reading": "ジュウキ",
+        "meaning": "hollyhock"
+      },
+      {
+        "example": "戎器",
+        "reading": "ジュウキ",
+        "meaning": "weapons of war, arms"
+      },
+      {
+        "example": "西戎",
+        "reading": "セイジュウ",
+        "meaning": "Xirong, Rong, inhabitants of the extremities of China as early as the Shang dynasty (1765-1122 BCE), barbarians to the west"
+      },
+      {
+        "example": "東夷西戎",
+        "reading": "トウイセイジュウ",
+        "meaning": "barbarians to the east and to the west (from the perspective of old China)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恵比寿",
+        "reading": "えびす",
+        "meaning": "Ebisu, god of fishing and commerce"
+      },
+      {
+        "example": "夷",
+        "reading": "えびす",
+        "meaning": "peoples formerly of northern Japan with distinct language and culture (i.e. the Ainu), provincial (i.e. a person who lives far from the city), brutish, unsophisticated warrior (esp. used by Kyoto samurai to refer to samurai from eastern Japan), foreigner, barbarian"
+      },
+      {
+        "example": "十日戎",
+        "reading": "とおかえびす",
+        "meaning": "Tōka Ebisu, festival held on January 10 in honor of Ebisu, the god of fishing and commerce"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "spear, halberd"
+    },
+    "parts": [
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25102_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0620e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/620e.gif",
+    "uri": "https://jisho.org/search/%E6%88%8E%23kanji"
+  }
+}

@@ -1,1 +1,60 @@
-{"id":"鵬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鵬","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1707","strokeCount":19,"meaning":"phoenix","kunyomi":["おおとり"],"onyomi":["ホウ"],"onyomiExamples":[{"example":"鵬","reading":"ホウ","meaning":"peng (in Chinese mythology, giant bird said to transform from a fish)"},{"example":"鵬程","reading":"ホウテイ","meaning":"long cruise, great distance"},{"example":"大鵬","reading":"タイホウ","meaning":"dapeng (giant bird in Chinese mythology, similar to the roc or Garuda)"},{"example":"柏鵬","reading":"ハクホウ","meaning":"era during 1960s dominated by grand champions Taiho and Kashiwado"}],"kunyomiExamples":[{"example":"大鳥","reading":"おおとり","meaning":"large bird, peng (in Chinese mythology, giant bird said to transform from a fish), fenghuang (Chinese phoenix)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["月","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40300_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d6c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d6c.gif","uri":"https://jisho.org/search/%E9%B5%AC%23kanji"}}
+{
+  "id": "鵬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鵬",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1707",
+    "strokeCount": 19,
+    "meaning": "phoenix",
+    "kunyomi": [
+      "おおとり"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鵬",
+        "reading": "ホウ",
+        "meaning": "peng (giant bird said to transform from a fish)"
+      },
+      {
+        "example": "鵬程",
+        "reading": "ホウテイ",
+        "meaning": "long cruise, great distance"
+      },
+      {
+        "example": "大鵬",
+        "reading": "タイホウ",
+        "meaning": "dapeng (giant bird in Chinese mythology, similar to the roc or Garuda)"
+      },
+      {
+        "example": "柏鵬",
+        "reading": "ハクホウ",
+        "meaning": "era during 1960s dominated by grand champions Taiho and Kashiwado"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "大鳥",
+        "reading": "おおとり",
+        "meaning": "large bird, peng (giant bird said to transform from a fish), fenghuang (Chinese phoenix)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "月",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40300_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d6c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d6c.gif",
+    "uri": "https://jisho.org/search/%E9%B5%AC%23kanji"
+  }
+}

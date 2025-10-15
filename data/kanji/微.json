@@ -1,1 +1,62 @@
-{"id":"微","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"微","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1108","strokeCount":13,"meaning":"delicate, minuteness, insignificance","kunyomi":["かす.か"],"onyomi":["ビ"],"onyomiExamples":[{"example":"微","reading":"ビ","meaning":"minuteness, one millionth"},{"example":"微細","reading":"ビサイ","meaning":"minute, micro, detailed, delicate, subtle"},{"example":"細微","reading":"サイビ","meaning":"minute, meager, meagre, mean"},{"example":"翠微","reading":"スイビ","meaning":"approx. 80% of the way up a mountainside, view of a light green mountain, mountain that appears green from afar"}],"kunyomiExamples":[{"example":"微か","reading":"かすか","meaning":"faint, dim, weak, slight, vague, indistinct, hazy, poor, wretched, meagre, meager, scanty"}],"radical":{"symbol":"彳","meaning":"step"},"parts":["乞","山","彳","攵"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24494_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fae.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fae.gif","uri":"https://jisho.org/search/%E5%BE%AE%23kanji"}}
+{
+  "id": "微",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "微",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1108",
+    "strokeCount": 13,
+    "meaning": "delicate, minuteness, insignificance",
+    "kunyomi": [
+      "かす.か"
+    ],
+    "onyomi": [
+      "ビ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "微",
+        "reading": "ビ",
+        "meaning": "minuteness, one millionth"
+      },
+      {
+        "example": "微細",
+        "reading": "ビサイ",
+        "meaning": "minute, fine, detailed, subtle"
+      },
+      {
+        "example": "細微",
+        "reading": "サイビ",
+        "meaning": "minute, meager, meagre, mean"
+      },
+      {
+        "example": "翠微",
+        "reading": "スイビ",
+        "meaning": "approx. 80% of the way up a mountainside, view of a light green mountain, mountain that appears green from afar"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "微か",
+        "reading": "かすか",
+        "meaning": "faint, dim, weak, slight, vague, indistinct, hazy, poor, wretched, meagre, meager, scanty"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "step"
+    },
+    "parts": [
+      "乞",
+      "山",
+      "彳",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24494_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fae.gif",
+    "uri": "https://jisho.org/search/%E5%BE%AE%23kanji"
+  }
+}

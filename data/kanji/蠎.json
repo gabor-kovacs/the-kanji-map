@@ -1,1 +1,46 @@
-{"id":"蠎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蠎","found":true,"strokeCount":17,"meaning":"python, boa constrictor","kunyomi":["うわばみ","おろち"],"onyomi":["ボウ","モウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蟒","reading":"うわばみ","meaning":"large snake, heavy drinking, heavy drinker"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["十","大","廾","艾","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34830_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0880e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/880e.gif","uri":"https://jisho.org/search/%E8%A0%8E%23kanji"}}
+{
+  "id": "蠎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蠎",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "python, boa constrictor",
+    "kunyomi": [
+      "うわばみ",
+      "おろち"
+    ],
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蟒",
+        "reading": "うわばみ",
+        "meaning": "large snake, heavy drinking, heavy drinker"
+      },
+      {
+        "example": "蟒草",
+        "reading": "うわばみそう",
+        "meaning": "Elatostema umbellatum var. majus (variety of plant related to the nettles)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "十",
+      "大",
+      "廾",
+      "艾",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34830_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0880e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/880e.gif",
+    "uri": "https://jisho.org/search/%E8%A0%8E%23kanji"
+  }
+}

@@ -1,1 +1,75 @@
-{"id":"拠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"拠","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"858","strokeCount":8,"meaning":"foothold, based on, follow, therefore","kunyomi":["よ.る"],"onyomi":["キョ","コ"],"onyomiExamples":[{"example":"拠点","reading":"キョテン","meaning":"position, location, base, point, site"},{"example":"拠出","reading":"キョシュツ","meaning":"donation, contribution"},{"example":"急遽","reading":"キュウキョ","meaning":"hurriedly, in a hurry, in haste, sudden"},{"example":"群雄割拠","reading":"グンユウカッキョ","meaning":"rivalry of local warlords, a number of powerful (talented, influential) persons standing by themselves in a given field"},{"example":"有罪証拠","reading":"ユウザイショウコ","meaning":"corpus delicti"},{"example":"事例証拠","reading":"ジレイショウコ","meaning":"anecdotal evidence"}],"kunyomiExamples":[{"example":"依る","reading":"よる","meaning":"to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["几","夂","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25312_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062e0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62e0.gif","uri":"https://jisho.org/search/%E6%8B%A0%23kanji"}}
+{
+  "id": "拠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拠",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "858",
+    "strokeCount": 8,
+    "meaning": "foothold, based on, follow, therefore",
+    "kunyomi": [
+      "よ.る"
+    ],
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拠点",
+        "reading": "キョテン",
+        "meaning": "base (of operations), site, location, center, foothold, stronghold, (strategic) position"
+      },
+      {
+        "example": "拠出",
+        "reading": "キョシュツ",
+        "meaning": "donation, contribution"
+      },
+      {
+        "example": "急遽",
+        "reading": "キュウキョ",
+        "meaning": "hurriedly, in a hurry, hastily, in haste, sudden, abrupt"
+      },
+      {
+        "example": "群雄割拠",
+        "reading": "グンユウカッキョ",
+        "meaning": "rivalry of local warlords, a number of powerful (talented, influential) persons standing by themselves in a given field"
+      },
+      {
+        "example": "有罪証拠",
+        "reading": "ユウザイショウコ",
+        "meaning": "corpus delicti"
+      },
+      {
+        "example": "事例証拠",
+        "reading": "ジレイショウコ",
+        "meaning": "anecdotal evidence"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "依る",
+        "reading": "よる",
+        "meaning": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "几",
+      "夂",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25312_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062e0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62e0.gif",
+    "uri": "https://jisho.org/search/%E6%8B%A0%23kanji"
+  }
+}

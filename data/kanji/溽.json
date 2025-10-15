@@ -1,1 +1,43 @@
-{"id":"溽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"溽","found":true,"strokeCount":13,"meaning":"humid","kunyomi":["むしあつ.い"],"onyomi":["ヒョク","ジョク"],"onyomiExamples":[{"example":"溽暑","reading":"ジョクショ","meaning":"sultry, muggy, steamy, sticky, hot and humid, 6th month of the lunar calendar"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["寸","汁","衣","辰"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28349_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ebd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ebd.gif","uri":"https://jisho.org/search/%E6%BA%BD%23kanji"}}
+{
+  "id": "溽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溽",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "humid",
+    "kunyomi": [
+      "むしあつ.い"
+    ],
+    "onyomi": [
+      "ヒョク",
+      "ジョク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "溽暑",
+        "reading": "ジョクショ",
+        "meaning": "sultry, muggy, steamy, sticky, hot and humid, 6th month of the lunar calendar"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "寸",
+      "汁",
+      "衣",
+      "辰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28349_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ebd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ebd.gif",
+    "uri": "https://jisho.org/search/%E6%BA%BD%23kanji"
+  }
+}

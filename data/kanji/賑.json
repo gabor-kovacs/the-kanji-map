@@ -1,1 +1,68 @@
-{"id":"賑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"賑","found":true,"strokeCount":14,"meaning":"flourish, be bustling, prosperity","kunyomi":["にぎ.わい","にぎ.やか","にぎ.わす","にぎ.わう"],"onyomi":["シン"],"onyomiExamples":[{"example":"殷賑","reading":"インシン","meaning":"prosperity"}],"kunyomiExamples":[{"example":"賑わい","reading":"にぎわい","meaning":"prosperity, bustle, activity, crowd, turnout"},{"example":"賑やか","reading":"にぎやか","meaning":"bustling, busy, crowded, lively, prosperous, thriving, lively (party, voices, etc.), loud, noisy, merry, cheerful"},{"example":"賑やかさ","reading":"にぎやかさ","meaning":"business, liveliness"},{"example":"賑わす","reading":"にぎわす","meaning":"to enliven, to liven up, to cause a stir in (e.g. the newspapers), to hit (the front page, headlines, etc.), to make prosperous"},{"example":"賑わう","reading":"にぎわう","meaning":"to be crowded with people, to be bustling with, to prosper, to flourish, to do thriving business"}],"radical":{"symbol":"貝","meaning":"shell"},"parts":["ハ","目","衣","貝","辰"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36049_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cd1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cd1.gif","uri":"https://jisho.org/search/%E8%B3%91%23kanji"}}
+{
+  "id": "賑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "賑",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "flourish, be bustling, prosperity",
+    "kunyomi": [
+      "にぎ.わい",
+      "にぎ.やか",
+      "にぎ.わす",
+      "にぎ.わう"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "殷賑",
+        "reading": "インシン",
+        "meaning": "prosperity"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "賑わい",
+        "reading": "にぎわい",
+        "meaning": "prosperity, bustle, activity, crowd, turnout"
+      },
+      {
+        "example": "賑やか",
+        "reading": "にぎやか",
+        "meaning": "bustling, busy, crowded, lively, prosperous, thriving, lively (party, voices, etc.), loud, noisy, merry, cheerful"
+      },
+      {
+        "example": "賑やかさ",
+        "reading": "にぎやかさ",
+        "meaning": "business, liveliness"
+      },
+      {
+        "example": "賑わす",
+        "reading": "にぎわす",
+        "meaning": "to enliven, to liven up, to cause a stir in (e.g. the newspapers), to hit (the front page, headlines, etc.), to make prosperous"
+      },
+      {
+        "example": "賑わう",
+        "reading": "にぎわう",
+        "meaning": "to be crowded with people, to be bustling with, to prosper, to flourish, to do thriving business"
+      }
+    ],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "shell"
+    },
+    "parts": [
+      "ハ",
+      "目",
+      "衣",
+      "貝",
+      "辰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36049_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cd1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cd1.gif",
+    "uri": "https://jisho.org/search/%E8%B3%91%23kanji"
+  }
+}

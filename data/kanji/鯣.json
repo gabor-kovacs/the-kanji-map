@@ -1,1 +1,46 @@
-{"id":"鯣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鯣","found":true,"strokeCount":19,"meaning":"cuttlefish","kunyomi":["するめ"],"onyomi":["エキ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鯣","reading":"するめ","meaning":"dried squid, dried cuttlefish, Japanese common squid (Todarodes pacificus), (thing that) grows on one over time"},{"example":"鯣烏賊","reading":"するめいか","meaning":"Japanese common squid, Pacific flying squid (Todarodes pacificus)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["ノ","勹","勿","日","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39907_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09be3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9be3.gif","uri":"https://jisho.org/search/%E9%AF%A3%23kanji"}}
+{
+  "id": "鯣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯣",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "cuttlefish",
+    "kunyomi": [
+      "するめ"
+    ],
+    "onyomi": [
+      "エキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鯣",
+        "reading": "するめ",
+        "meaning": "dried squid, dried cuttlefish, Japanese common squid (Todarodes pacificus), (thing that) grows on one over time"
+      },
+      {
+        "example": "鯣烏賊",
+        "reading": "するめいか",
+        "meaning": "Japanese common squid, Pacific flying squid (Todarodes pacificus)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "ノ",
+      "勹",
+      "勿",
+      "日",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39907_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09be3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9be3.gif",
+    "uri": "https://jisho.org/search/%E9%AF%A3%23kanji"
+  }
+}

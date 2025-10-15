@@ -1,1 +1,98 @@
-{"id":"垢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"垢","found":true,"strokeCount":9,"meaning":"dirt, grime, earwax","kunyomi":["あか","はじ"],"onyomi":["コウ","ク"],"onyomiExamples":[{"example":"垢衣","reading":"コウイ","meaning":"dirty clothes, grimy clothes"},{"example":"垢膩","reading":"コウジ","meaning":"dirt and grease, filth, grime"},{"example":"恥垢","reading":"チコウ","meaning":"smegma"},{"example":"膣垢","reading":"チツコウ","meaning":"vaginal smear"},{"example":"垢","reading":"ク","meaning":"klesha (polluting thoughts such as greed, hatred and delusion, which result in suffering)"},{"example":"垢膩","reading":"コウジ","meaning":"dirt and grease, filth, grime"},{"example":"無垢","reading":"ムク","meaning":"pure, innocent, spotless, immaculate, unspoiled, pure, unmixed, unadulterated, long kimono made from the same plain-coloured cloth"},{"example":"純粋無垢","reading":"ジュンスイムク","meaning":"pure and innocent, immaculate"}],"kunyomiExamples":[{"example":"垢","reading":"あか","meaning":"dirt, filth, grime"},{"example":"垢","reading":"アカ","meaning":"account (e.g. for an online service)"},{"example":"廃垢","reading":"はいアカ","meaning":"abandoned account (on social media, etc.), unused account, old account"},{"example":"鍵垢","reading":"かぎアカ","meaning":"private account (on social media, esp. Twitter), account that can only be viewed by approved followers"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["ノ","亅","厂","口","土","斤"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22434_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057a2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57a2.gif","uri":"https://jisho.org/search/%E5%9E%A2%23kanji"}}
+{
+  "id": "垢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "垢",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "dirt, grime, earwax",
+    "kunyomi": [
+      "あか",
+      "はじ"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "垢衣",
+        "reading": "コウイ",
+        "meaning": "dirty clothes, grimy clothes"
+      },
+      {
+        "example": "垢膩",
+        "reading": "コウジ",
+        "meaning": "dirt and grease, filth, grime"
+      },
+      {
+        "example": "恥垢",
+        "reading": "チコウ",
+        "meaning": "smegma"
+      },
+      {
+        "example": "膣垢",
+        "reading": "チツコウ",
+        "meaning": "vaginal smear"
+      },
+      {
+        "example": "垢",
+        "reading": "ク",
+        "meaning": "klesha (polluting thoughts such as greed, hatred and delusion, which result in suffering)"
+      },
+      {
+        "example": "垢膩",
+        "reading": "コウジ",
+        "meaning": "dirt and grease, filth, grime"
+      },
+      {
+        "example": "無垢",
+        "reading": "ムク",
+        "meaning": "pure, innocent, spotless, immaculate, unspoiled, pure, unmixed, unadulterated, long kimono made from the same plain-coloured cloth"
+      },
+      {
+        "example": "純粋無垢",
+        "reading": "ジュンスイムク",
+        "meaning": "pure and innocent, immaculate"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "垢",
+        "reading": "あか",
+        "meaning": "dirt, filth, grime"
+      },
+      {
+        "example": "垢",
+        "reading": "アカ",
+        "meaning": "account (e.g. for an online service)"
+      },
+      {
+        "example": "廃垢",
+        "reading": "はいアカ",
+        "meaning": "abandoned account (on social media, etc.), unused account, old account"
+      },
+      {
+        "example": "鍵垢",
+        "reading": "かぎアカ",
+        "meaning": "private account (on social media, esp. Twitter), account that can only be viewed by approved followers"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "ノ",
+      "亅",
+      "厂",
+      "口",
+      "土",
+      "斤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22434_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057a2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57a2.gif",
+    "uri": "https://jisho.org/search/%E5%9E%A2%23kanji"
+  }
+}

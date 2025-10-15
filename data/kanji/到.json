@@ -1,1 +1,325 @@
-{"id":"到","kanjialiveData":{"kanji":{"character":"到","meaning":{"english":"arrive, reach"},"strokes":{"count":8,"timings":[0,1,2.266667,2.866667,3.8,4.666667,5.6,6.6,8.533333],"images":["https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_1.svg","https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_2.svg","https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_3.svg","https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_4.svg","https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_5.svg","https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_6.svg","https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_7.svg","https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_8.svg"]},"onyomi":{"romaji":"tou","katakana":"トウ"},"kunyomi":{"romaji":"ita, itaru","hiragana":"いた"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/tou(tatsusuru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/tou(tatsusuru)_00.webm"}},"radical":{"character":"⺉","strokes":2,"image":"https://media.kanjialive.com/radical_character/rittou.svg","position":{"hiragana":"つくり","romaji":"tsukuri","icon":"https://media.kanjialive.com/rad_positions/tsukuri.svg"},"name":{"hiragana":"りっとう","romaji":"rittou"},"meaning":{"english":"knife, sword"},"animation":["https://media.kanjialive.com/rad_frames/rittou0.svg","https://media.kanjialive.com/rad_frames/rittou1.svg","https://media.kanjialive.com/rad_frames/rittou2.svg"]},"references":{"grade":null,"kodansha":"848","classic_nelson":"3846"},"examples":[{"japanese":"到底（とうてい）","meaning":{"english":"(cannot) possibly"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_a.mp3"}},{"japanese":"周到な（しゅうとうな）","meaning":{"english":"scrupulous, meticulous, careful"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_b.mp3"}},{"japanese":"到来する（とうらいする）","meaning":{"english":"arrive"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_c.mp3"}},{"japanese":"到着する（とうちゃくする）","meaning":{"english":"arrive"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_d.mp3"}},{"japanese":"到達する（とうたつする）","meaning":{"english":"reach, arrive"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_e.mp3"}},{"japanese":"殺到する（さっとうする）","meaning":{"english":"throng, flood, rush"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_f.mp3"}},{"japanese":"到る（いたる）","meaning":{"english":"reach, attain"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_g.mp3"}}]},"jishoData":{"query":"到","found":true,"taughtIn":"junior high","jlptLevel":"N3","newspaperFrequencyRank":"1032","strokeCount":8,"meaning":"arrival, proceed, reach, attain, result in","kunyomi":["いた.る"],"onyomi":["トウ"],"onyomiExamples":[{"example":"到着","reading":"トウチャク","meaning":"arrival"},{"example":"到達","reading":"トウタツ","meaning":"reaching, attaining, arrival"},{"example":"前人未到","reading":"ゼンジンミトウ","meaning":"untrodden (region, field of study, etc.), unprecedented (discovery, achievement, etc.)"},{"example":"精到","reading":"セイトウ","meaning":"meticulous"}],"kunyomiExamples":[{"example":"至る","reading":"いたる","meaning":"to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in"},{"example":"至る所","reading":"いたるところ","meaning":"everywhere, all over, throughout"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["刈","厶","土","至"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21040_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05230.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5230.gif","uri":"https://jisho.org/search/%E5%88%B0%23kanji"}}
+{
+  "id": "到",
+  "kanjialiveData": {
+    "_id": "54317b07791eba5146ee4c1f",
+    "_rev": "10-773a1e82c19f598287fc58f5d916b898",
+    "rad_name_ja": "りっとう",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "ita, itaru",
+    "meaning": "arrive, reach",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "到底（とうてい）",
+        "meaning": {
+          "english": "(cannot) possibly"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "周到な（しゅうとうな）",
+        "meaning": {
+          "english": "scrupulous, meticulous, careful"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "到来する（とうらいする）",
+        "meaning": {
+          "english": "arrive"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "到着する（とうちゃくする）",
+        "meaning": {
+          "english": "arrive"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "到達する（とうたつする）",
+        "meaning": {
+          "english": "reach, arrive"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "殺到する（さっとうする）",
+        "meaning": {
+          "english": "throng, flood, rush"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "到る（いたる）",
+        "meaning": {
+          "english": "reach, attain"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tou(tatsusuru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tou(tatsusuru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tou(tatsusuru)_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いた、いたる",
+    "ka_utf": "到",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=到",
+    "rad_name_search": [
+      "rittou"
+    ],
+    "rad_order": 23,
+    "txt_books": [
+      {
+        "chapter": "19",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "32",
+        "txt_bk": "txtBasicKanji"
+      }
+    ],
+    "kname": "tou(tatsusuru)",
+    "rad_utf": "⺉",
+    "stroketimes": [
+      0,
+      1,
+      2.266667,
+      2.866667,
+      3.8,
+      4.666667,
+      5.6,
+      6.6,
+      8.533333
+    ],
+    "kunyomi_ka_display": "いた",
+    "dick": "848",
+    "rad_name": "rittou",
+    "dicn": "3846",
+    "mn_hint": "Reaching 至 <span class='note'>(individual ム born on earth 土 arriving to heaven 一)</span> higher level of mastery of the sword 刂.",
+    "rad_stroke": 2,
+    "onyomi_ja": "トウ",
+    "rad_meaning": "knife, sword",
+    "onyomi": "tou",
+    "ka_id": "ka_815",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "tou",
+      "tou"
+    ],
+    "kunyomi_search": [
+      "ita",
+      "itaru",
+      "ita, itaru"
+    ],
+    "meaning_search": [
+      "arrive",
+      "reach",
+      "arrive, reach"
+    ],
+    "onyomi_ja_search": [
+      "トウ",
+      "トウ"
+    ],
+    "kunyomi_ja_search": [
+      "いた",
+      "いたる",
+      "いた、いたる"
+    ],
+    "rad_meaning_search": [
+      "knife",
+      "sword",
+      "knife, sword"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "りっとう"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:19",
+      "ij:c19",
+      "bk",
+      "bk:32",
+      "bk:c32"
+    ],
+    "rad_name_file": "rittou",
+    "kanji": {
+      "character": "到",
+      "meaning": {
+        "english": "arrive, reach"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1,
+          2.266667,
+          2.866667,
+          3.8,
+          4.666667,
+          5.6,
+          6.6,
+          8.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "tou",
+        "katakana": "トウ"
+      },
+      "kunyomi": {
+        "romaji": "ita, itaru",
+        "hiragana": "いた"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tou(tatsusuru)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tou(tatsusuru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tou(tatsusuru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺉",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/rittou.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "りっとう",
+        "romaji": "rittou"
+      },
+      "meaning": {
+        "english": "knife, sword"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/rittou0.svg",
+        "https://media.kanjialive.com/rad_frames/rittou1.svg",
+        "https://media.kanjialive.com/rad_frames/rittou2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "848",
+      "classic_nelson": "3846"
+    }
+  },
+  "jishoData": {
+    "query": "到",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "1032",
+    "strokeCount": 8,
+    "meaning": "arrival, proceed, reach, attain, result in",
+    "kunyomi": [
+      "いた.る"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "到着",
+        "reading": "トウチャク",
+        "meaning": "arrival"
+      },
+      {
+        "example": "到達",
+        "reading": "トウタツ",
+        "meaning": "reaching, attaining, arrival"
+      },
+      {
+        "example": "前人未到",
+        "reading": "ゼンジンミトウ",
+        "meaning": "untrodden (region, field of study, etc.), unprecedented (discovery, achievement, etc.)"
+      },
+      {
+        "example": "精到",
+        "reading": "セイトウ",
+        "meaning": "meticulous"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "至る",
+        "reading": "いたる",
+        "meaning": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in"
+      },
+      {
+        "example": "至る所",
+        "reading": "いたるところ",
+        "meaning": "everywhere, all over, throughout"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "刈",
+      "厶",
+      "土",
+      "至"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21040_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05230.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5230.gif",
+    "uri": "https://jisho.org/search/%E5%88%B0%23kanji"
+  }
+}

@@ -1,1 +1,41 @@
-{"id":"鞨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鞨","found":true,"strokeCount":18,"meaning":"leather boots, drum, tribe name","kunyomi":["かわぐつ"],"onyomi":["カツ","ガチ","セツ","ゼチ"],"onyomiExamples":[{"example":"靺鞨","reading":"マッカツ","meaning":"Mohe (one of the Tungusic-speaking tribes)"}],"kunyomiExamples":[],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["勹","匕","日","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38824_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097a8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97a8.gif","uri":"https://jisho.org/search/%E9%9E%A8%23kanji"}}
+{
+  "id": "鞨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞨",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "leather boots, drum, tribe name",
+    "kunyomi": [
+      "かわぐつ"
+    ],
+    "onyomi": [
+      "カツ",
+      "ガチ",
+      "セツ",
+      "ゼチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "靺鞨",
+        "reading": "マッカツ",
+        "meaning": "Mohe (one of the Tungusic-speaking tribes)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "勹",
+      "匕",
+      "日",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38824_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97a8.gif",
+    "uri": "https://jisho.org/search/%E9%9E%A8%23kanji"
+  }
+}

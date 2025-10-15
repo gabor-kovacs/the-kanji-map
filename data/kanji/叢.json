@@ -1,1 +1,89 @@
-{"id":"叢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"叢","found":true,"newspaperFrequencyRank":"2436","strokeCount":18,"meaning":"plexus, clump of bushes, thicket","kunyomi":["くさむら","むら.がる","むら"],"onyomi":["ソウ","ス"],"onyomiExamples":[{"example":"叢","reading":"ソウ","meaning":"plexus, rete"},{"example":"叢書","reading":"ソウショ","meaning":"series (of publications), library (set of books)"},{"example":"神経叢","reading":"シンケイソウ","meaning":"nerve plexus"},{"example":"頚神経叢","reading":"ケイシンケイソウ","meaning":"cervical plexus"}],"kunyomiExamples":[{"example":"草むら","reading":"くさむら","meaning":"the grass, grassy place (esp. with long dense grass)"},{"example":"群がる","reading":"むらがる","meaning":"to swarm, to gather"},{"example":"群","reading":"むら","meaning":"gathering"},{"example":"群がる","reading":"むらがる","meaning":"to swarm, to gather"},{"example":"竹叢","reading":"たかむら","meaning":"bamboo grove"},{"example":"杉叢","reading":"すぎむら","meaning":"thicket of cedar trees"}],"radical":{"symbol":"又","meaning":"right hand"},"parts":["又","并","王","羊","耳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21474_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e2.gif","uri":"https://jisho.org/search/%E5%8F%A2%23kanji"}}
+{
+  "id": "叢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "叢",
+    "found": true,
+    "newspaperFrequencyRank": "2436",
+    "strokeCount": 18,
+    "meaning": "plexus, clump of bushes, thicket",
+    "kunyomi": [
+      "くさむら",
+      "むら.がる",
+      "むら"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ス"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "叢",
+        "reading": "ソウ",
+        "meaning": "plexus, rete"
+      },
+      {
+        "example": "叢書",
+        "reading": "ソウショ",
+        "meaning": "series (of publications), library (set of books)"
+      },
+      {
+        "example": "神経叢",
+        "reading": "シンケイソウ",
+        "meaning": "nerve plexus"
+      },
+      {
+        "example": "頚神経叢",
+        "reading": "ケイシンケイソウ",
+        "meaning": "cervical plexus"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "草むら",
+        "reading": "くさむら",
+        "meaning": "the grass, grassy place (esp. with long dense grass)"
+      },
+      {
+        "example": "群がる",
+        "reading": "むらがる",
+        "meaning": "to swarm, to gather"
+      },
+      {
+        "example": "群",
+        "reading": "むら",
+        "meaning": "gathering"
+      },
+      {
+        "example": "群がる",
+        "reading": "むらがる",
+        "meaning": "to swarm, to gather"
+      },
+      {
+        "example": "竹叢",
+        "reading": "たかむら",
+        "meaning": "bamboo grove"
+      },
+      {
+        "example": "杉叢",
+        "reading": "すぎむら",
+        "meaning": "thicket of cedar trees"
+      }
+    ],
+    "radical": {
+      "symbol": "又",
+      "meaning": "right hand"
+    },
+    "parts": [
+      "又",
+      "并",
+      "王",
+      "羊",
+      "耳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21474_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e2.gif",
+    "uri": "https://jisho.org/search/%E5%8F%A2%23kanji"
+  }
+}

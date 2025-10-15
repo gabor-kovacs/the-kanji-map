@@ -1,1 +1,44 @@
-{"id":"菩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"菩","found":true,"newspaperFrequencyRank":"2086","strokeCount":11,"meaning":"kind of grass, sacred tree","kunyomi":[],"onyomi":["ボ"],"onyomiExamples":[{"example":"菩薩","reading":"ボサツ","meaning":"bodhisattva, one who has reached enlightenment but vows to save all beings before becoming a buddha, High Monk (title bestowed by the imperial court), title bestowed to Shinto kami in manifestation theory"},{"example":"菩提","reading":"ボダイ","meaning":"bodhi, enlightenment, happiness in the next world"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["口","立","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33769_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083e9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83e9.gif","uri":"https://jisho.org/search/%E8%8F%A9%23kanji"}}
+{
+  "id": "菩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "菩",
+    "found": true,
+    "newspaperFrequencyRank": "2086",
+    "strokeCount": 11,
+    "meaning": "kind of grass, sacred tree",
+    "kunyomi": [],
+    "onyomi": [
+      "ボ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "菩薩",
+        "reading": "ボサツ",
+        "meaning": "bodhisattva, one who has reached enlightenment but vows to save all beings before becoming a buddha, High Monk (title bestowed by the imperial court), title bestowed to Shinto kami in manifestation theory"
+      },
+      {
+        "example": "菩提",
+        "reading": "ボダイ",
+        "meaning": "bodhi, enlightenment, happiness in the next world"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "口",
+      "立",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33769_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083e9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83e9.gif",
+    "uri": "https://jisho.org/search/%E8%8F%A9%23kanji"
+  }
+}

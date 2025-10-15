@@ -1,1 +1,36 @@
-{"id":"卷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"卷","found":true,"strokeCount":8,"meaning":"volume, book, part","kunyomi":["ま.く","まき"],"onyomi":["カン","ケン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"卩","meaning":"kneel"},"parts":["ハ","二","人","卩","大","并"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21367_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05377.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5377.gif","uri":"https://jisho.org/search/%E5%8D%B7%23kanji"}}
+{
+  "id": "卷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卷",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "volume, book, part",
+    "kunyomi": [
+      "ま.く",
+      "まき"
+    ],
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "卩",
+      "meaning": "kneel"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "人",
+      "卩",
+      "大",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21367_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05377.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5377.gif",
+    "uri": "https://jisho.org/search/%E5%8D%B7%23kanji"
+  }
+}

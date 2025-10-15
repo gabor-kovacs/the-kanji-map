@@ -1,1 +1,78 @@
-{"id":"幣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"幣","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1803","strokeCount":15,"meaning":"cash, bad habit, humble prefix, gift, Shinto offerings of cloth, rope, cut paper","kunyomi":["ぬさ"],"onyomi":["ヘイ"],"onyomiExamples":[{"example":"幣","reading":"ヘイ","meaning":"staff with plaited paper streamers"},{"example":"幣串","reading":"ヘイグシ","meaning":"staff to which shide are attached to make a go-hei"},{"example":"造幣","reading":"ゾウヘイ","meaning":"coinage, mintage"},{"example":"衰幣","reading":"スイヘイ","meaning":"decline"}],"kunyomiExamples":[{"example":"幣","reading":"へい","meaning":"staff with plaited paper streamers"},{"example":"幣を奉る","reading":"ぬさをたてまつる","meaning":"to offer a wand with hemp and paper streamers to a Shinto god"},{"example":"大幣","reading":"おおぬさ","meaning":"streamers (made of linen, paper, etc.) attached to a long pole (used as a wand in grand purification ceremonies), being in great demand"},{"example":"小幣","reading":"こぬさ","meaning":"small purification wand, thinly cut hemp or paper mixed with rice (scattered as an offering to the gods)"}],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["乞","冂","巾","并","攵"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24163_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e63.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e63.gif","uri":"https://jisho.org/search/%E5%B9%A3%23kanji"}}
+{
+  "id": "幣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幣",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1803",
+    "strokeCount": 15,
+    "meaning": "cash, bad habit, humble prefix, gift, Shinto offerings of cloth, rope, cut paper",
+    "kunyomi": [
+      "ぬさ"
+    ],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "幣",
+        "reading": "ヘイ",
+        "meaning": "staff with plaited paper streamers"
+      },
+      {
+        "example": "弊害",
+        "reading": "ヘイガイ",
+        "meaning": "harmful effect, harmful influence, evil practice, abuse, malady"
+      },
+      {
+        "example": "造幣",
+        "reading": "ゾウヘイ",
+        "meaning": "coinage, mintage"
+      },
+      {
+        "example": "衰幣",
+        "reading": "スイヘイ",
+        "meaning": "decline"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "幣",
+        "reading": "へい",
+        "meaning": "staff with plaited paper streamers"
+      },
+      {
+        "example": "幣を奉る",
+        "reading": "ぬさをたてまつる",
+        "meaning": "to offer a wand with hemp and paper streamers to a Shinto god"
+      },
+      {
+        "example": "大幣",
+        "reading": "おおぬさ",
+        "meaning": "streamers (made of linen, paper, etc.) attached to a long pole (used as a wand in grand purification ceremonies), being in great demand"
+      },
+      {
+        "example": "小幣",
+        "reading": "こぬさ",
+        "meaning": "small purification wand, thinly cut hemp or paper mixed with rice (scattered as an offering to the gods)"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "巾",
+      "并",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24163_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e63.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e63.gif",
+    "uri": "https://jisho.org/search/%E5%B9%A3%23kanji"
+  }
+}

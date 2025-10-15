@@ -1,1 +1,73 @@
-{"id":"幡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"幡","found":true,"newspaperFrequencyRank":"1948","strokeCount":15,"meaning":"flag","kunyomi":["はた"],"onyomi":["マン","ハン","バン","ホン"],"onyomiExamples":[{"example":"八幡","reading":"ハチマン","meaning":"Hachiman (God of War), Hachiman shrine, certainly"},{"example":"南無八幡","reading":"ナムハチマン","meaning":"O Great God of Arms, I beseech your aid against my enemy"},{"example":"幡","reading":"バン","meaning":"pataka (banner)"},{"example":"黄幡","reading":"オウバン","meaning":"Ōban, one of the eight gods of the traditional calendar"},{"example":"幢幡","reading":"ドウバン","meaning":"hanging-banner used as ornament in Buddhist temples"}],"kunyomiExamples":[{"example":"旗","reading":"はた","meaning":"flag, pataka (banner), banner (administrative division of Inner Mongolia)"},{"example":"幢","reading":"はたほこ","meaning":"long-handled Chinese spear bearing a small flag, banner, hanging"}],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["巾","田","米","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24161_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e61.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e61.gif","uri":"https://jisho.org/search/%E5%B9%A1%23kanji"}}
+{
+  "id": "幡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幡",
+    "found": true,
+    "newspaperFrequencyRank": "1948",
+    "strokeCount": 15,
+    "meaning": "flag",
+    "kunyomi": [
+      "はた"
+    ],
+    "onyomi": [
+      "マン",
+      "ハン",
+      "バン",
+      "ホン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "八幡",
+        "reading": "ハチマン",
+        "meaning": "Hachiman (god of war), Hachiman shrine, certainly"
+      },
+      {
+        "example": "南無八幡",
+        "reading": "ナムハチマン",
+        "meaning": "O Great God of Arms, I beseech your aid against my enemy"
+      },
+      {
+        "example": "幡",
+        "reading": "バン",
+        "meaning": "pataka (banner)"
+      },
+      {
+        "example": "黄幡",
+        "reading": "オウバン",
+        "meaning": "Ōban, one of the eight gods of the traditional calendar"
+      },
+      {
+        "example": "幢幡",
+        "reading": "ドウバン",
+        "meaning": "hanging-banner used as ornament in Buddhist temples"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "旗",
+        "reading": "はた",
+        "meaning": "flag, pataka (banner), banner (administrative division of Inner Mongolia)"
+      },
+      {
+        "example": "幢",
+        "reading": "はたほこ",
+        "meaning": "long-handled Chinese spear bearing a small flag, banner, hanging"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "巾",
+      "田",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24161_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e61.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e61.gif",
+    "uri": "https://jisho.org/search/%E5%B9%A1%23kanji"
+  }
+}

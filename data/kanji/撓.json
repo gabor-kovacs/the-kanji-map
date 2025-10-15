@@ -1,1 +1,79 @@
-{"id":"撓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"撓","found":true,"strokeCount":15,"meaning":"bend, train, lithe","kunyomi":["たわ.む","しな.う","しお.る","たわ.める","みだ.す","みだ.れる"],"onyomi":["トウ","キョウ","コウ","ジョウ"],"onyomiExamples":[{"example":"撓角法","reading":"トウカクホウ","meaning":"slope deflection method"},{"example":"撓曲","reading":"トウキョク","meaning":"flexure"},{"example":"可撓","reading":"カトウ","meaning":"flexible"},{"example":"屈撓","reading":"クットウ","meaning":"bending"}],"kunyomiExamples":[{"example":"撓む","reading":"たわむ","meaning":"to bend, to warp, to lose heart"},{"example":"撓う","reading":"しなう","meaning":"to bend, to warp, to yield, to be supple (e.g. bamboo, body), to be flexible, to be pliant"},{"example":"撓める","reading":"たわめる","meaning":"to bend (a piece of wood, etc.), to bow"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["儿","土","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25747_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06493.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6493.gif","uri":"https://jisho.org/search/%E6%92%93%23kanji"}}
+{
+  "id": "撓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撓",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "bend, train, lithe",
+    "kunyomi": [
+      "たわ.む",
+      "しな.う",
+      "しお.る",
+      "たわ.める",
+      "みだ.す",
+      "みだ.れる"
+    ],
+    "onyomi": [
+      "トウ",
+      "キョウ",
+      "コウ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "撓角法",
+        "reading": "トウカクホウ",
+        "meaning": "slope deflection method"
+      },
+      {
+        "example": "撓曲",
+        "reading": "トウキョク",
+        "meaning": "flexure"
+      },
+      {
+        "example": "可撓",
+        "reading": "カトウ",
+        "meaning": "flexible"
+      },
+      {
+        "example": "屈撓",
+        "reading": "クットウ",
+        "meaning": "bending"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "撓む",
+        "reading": "たわむ",
+        "meaning": "to bend, to warp, to lose heart"
+      },
+      {
+        "example": "撓う",
+        "reading": "しなう",
+        "meaning": "to bend, to warp, to yield, to be supple (e.g. bamboo, body), to be flexible, to be pliant"
+      },
+      {
+        "example": "撓める",
+        "reading": "たわめる",
+        "meaning": "to bend (a piece of wood, etc.), to bow"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25747_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06493.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6493.gif",
+    "uri": "https://jisho.org/search/%E6%92%93%23kanji"
+  }
+}

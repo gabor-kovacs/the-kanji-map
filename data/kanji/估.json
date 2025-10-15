@@ -1,1 +1,46 @@
-{"id":"估","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"估","found":true,"strokeCount":7,"meaning":"price, business, selling","kunyomi":["あきな.う","あた.い"],"onyomi":["コ"],"onyomiExamples":[{"example":"沽券","reading":"コケン","meaning":"dignity, credit, public estimation, face, honor, reputation, deed of sale (for a land, forest or house), sale value, selling price"},{"example":"依估","reading":"イコ","meaning":"unfairness"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","十","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20272_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f30.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f30.gif","uri":"https://jisho.org/search/%E4%BC%B0%23kanji"}}
+{
+  "id": "估",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "估",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "price, business, selling",
+    "kunyomi": [
+      "あきな.う",
+      "あた.い"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "沽券",
+        "reading": "コケン",
+        "meaning": "dignity, credit, public estimation, face, honor, reputation, deed of sale (for a land, forest or house), sale value, selling price"
+      },
+      {
+        "example": "依估",
+        "reading": "イコ",
+        "meaning": "unfairness"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "十",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20272_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f30.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f30.gif",
+    "uri": "https://jisho.org/search/%E4%BC%B0%23kanji"
+  }
+}

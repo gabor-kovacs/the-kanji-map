@@ -1,1 +1,38 @@
-{"id":"裄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"裄","found":true,"strokeCount":11,"meaning":"sleeve length, (kokuji)","kunyomi":["ゆき"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"裄","reading":"ゆき","meaning":"distance from the seam in the back of a kimono to the end of the sleeve"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["初","彳","行"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35012_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088c4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88c4.gif","uri":"https://jisho.org/search/%E8%A3%84%23kanji"}}
+{
+  "id": "裄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裄",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "sleeve length, (kokuji)",
+    "kunyomi": [
+      "ゆき"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "裄",
+        "reading": "ゆき",
+        "meaning": "distance from the seam in the back of a kimono to the end of the sleeve"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "初",
+      "彳",
+      "行"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35012_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88c4.gif",
+    "uri": "https://jisho.org/search/%E8%A3%84%23kanji"
+  }
+}

@@ -1,1 +1,463 @@
-{"id":"付","kanjialiveData":{"kanji":{"character":"付","meaning":{"english":"attach, belong, apply"},"strokes":{"count":5,"timings":[0,0.8,2.4,3.533333,5.266667,6.8],"images":["https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_1.svg","https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_2.svg","https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_3.svg","https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_4.svg","https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_5.svg"]},"onyomi":{"romaji":"fu","katakana":"フ"},"kunyomi":{"romaji":"tsu, tsukeru, tsuku, tsuki, zukeru, zuku","hiragana":"つ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/fu-tsu(ku)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/fu-tsu(ku)_00.webm"}},"radical":{"character":"⺅","strokes":2,"image":"https://media.kanjialive.com/radical_character/ninben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"にんべん","romaji":"ninben"},"meaning":{"english":"person "},"animation":["https://media.kanjialive.com/rad_frames/ninben0.svg","https://media.kanjialive.com/rad_frames/ninben1.svg","https://media.kanjialive.com/rad_frames/ninben2.svg"]},"references":{"grade":4,"kodansha":"19","classic_nelson":"363"},"examples":[{"japanese":"付属品（ふぞくひん）","meaning":{"english":"accessory, fittings"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_a.mp3"}},{"japanese":"付加価値（ふかかち）","meaning":{"english":"added value"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_b.mp3"}},{"japanese":"寄付する（きふする）","meaning":{"english":"contribute, donate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_c.mp3"}},{"japanese":"添付する（てんぷする）","meaning":{"english":"append, attach"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_d.mp3"}},{"japanese":"付く（つく）","meaning":{"english":"adjoin, be attached, adhere [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_e.mp3"}},{"japanese":"気付く（きづく）","meaning":{"english":"notice, recognize"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_f.mp3"}},{"japanese":"期限付き（きげんつき）","meaning":{"english":"with a time limit, with a deadline"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_g.mp3"}},{"japanese":"付ける（つける）","meaning":{"english":"attach, add, append [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_h.mp3"}},{"japanese":"裏付ける（うらづける）","meaning":{"english":"support, endorse, substantiate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_i.mp3"}},{"japanese":"付け（つけ）","meaning":{"english":"bill, credit account"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_j.mp3"}},{"japanese":"１０日付け（とおかづけ）","meaning":{"english":"dated the 10th"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_k.mp3"}},{"japanese":"*受付（うけつけ）","meaning":{"english":"reception desk"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_l.mp3"}}]},"jishoData":{"query":"付","found":true,"taughtIn":"grade 4","jlptLevel":"N3","newspaperFrequencyRank":"322","strokeCount":5,"meaning":"adhere, attach, refer to, append","kunyomi":["つ.ける","-つ.ける","-づ.ける","つ.け","つ.け-","-つ.け","-づ.け","-づけ","つ.く","-づ.く","つ.き","-つ.き","-つき","-づ.き","-づき"],"onyomi":["フ"],"onyomiExamples":[{"example":"付近","reading":"フキン","meaning":"neighborhood, vicinity, environs, district, approaching"},{"example":"付加","reading":"フカ","meaning":"addition, annexation, appendage"},{"example":"貼付","reading":"チョウフ","meaning":"pasting, sticking, attaching, affixing, appending"},{"example":"回付","reading":"カイフ","meaning":"transmitting, referring to, passing on"}],"kunyomiExamples":[{"example":"付ける","reading":"つける","meaning":"to attach, to join, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), to allot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow, to shadow, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding), to turn on (light), to produce flowers, to produce fruit, to do intensely"},{"example":"付け","reading":"つけ","meaning":"bill, bill of sale, payment invoice, tab (for later payment), credit, contact move (in go), direct attack to an enemy stone, sound effect produced by striking with clappers a wooden board in kabuki, letter, reason, motive, pretext, one's fortune, one's luck"},{"example":"付け根","reading":"つけね","meaning":"root, joint, base, crotch"},{"example":"振り付け","reading":"ふりつけ","meaning":"choreography, dance composition, dance coaching"},{"example":"締め付け","reading":"しめつけ","meaning":"pressure, clamping, tightening, fastening"},{"example":"付く","reading":"つく","meaning":"to be attached, to be connected with, to adhere, to stick, to cling, to remain imprinted, to scar, to stain, to dye, to bear (fruit, interest, etc.), to be acquired (of a habit, ability, etc.), to increase (of strength, etc.), to take root, to accompany, to attend, to follow, to study with, to side with, to belong to, to possess, to haunt, to be lit, to catch fire, to ignite, to be turned on (of a light, appliance, etc.), to be settled, to be resolved, to be decided, to be given (of a name, price, etc.), to be sensed, to be perceived, to be lucky, to become (a state, condition, etc.)"},{"example":"付喪神","reading":"つくもがみ","meaning":"artifact spirit, in folk belief, long-lived objects (household objects, living beings, nature, etc.) become inhabited by a spirit"},{"example":"付き","reading":"つき","meaning":"furnished with, including, attached to, impression, appearance, luck, sociality, under, assistant (e.g. to a manager), soup base"},{"example":"付き合い","reading":"つきあい","meaning":"association, socializing, socialising, fellowship"},{"example":"紋付","reading":"もんつき","meaning":"clothing (e.g. kimono) decorated with one's family crest"},{"example":"原付","reading":"げんつき","meaning":"motorized two-wheeled vehicle (with a displacement of less than 50cc), scooter, moped"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","寸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20184_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ed8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ed8.gif","uri":"https://jisho.org/search/%E4%BB%98%23kanji"}}
+{
+  "id": "付",
+  "kanjialiveData": {
+    "_id": "54317b10791eba5146ee4cba",
+    "_rev": "14-50a8e66096100a956f936f3c9e78825d",
+    "rad_name_ja": "にんべん",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "tsu, tsukeru, tsuku, tsuki, zukeru, zuku",
+    "meaning": "attach, belong, apply",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "付属品（ふぞくひん）",
+        "meaning": {
+          "english": "accessory, fittings"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "付加価値（ふかかち）",
+        "meaning": {
+          "english": "added value"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "寄付する（きふする）",
+        "meaning": {
+          "english": "contribute, donate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "添付する（てんぷする）",
+        "meaning": {
+          "english": "append, attach"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "付く（つく）",
+        "meaning": {
+          "english": "adjoin, be attached, adhere [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "気付く（きづく）",
+        "meaning": {
+          "english": "notice, recognize"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "期限付き（きげんつき）",
+        "meaning": {
+          "english": "with a time limit, with a deadline"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "付ける（つける）",
+        "meaning": {
+          "english": "attach, add, append [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "裏付ける（うらづける）",
+        "meaning": {
+          "english": "support, endorse, substantiate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "付け（つけ）",
+        "meaning": {
+          "english": "bill, credit account"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "１０日付け（とおかづけ）",
+        "meaning": {
+          "english": "dated the 10th"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "*受付（うけつけ）",
+        "meaning": {
+          "english": "reception desk"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-tsu(ku)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu-tsu(ku)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu-tsu(ku)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu-tsu(ku)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "つ、つける、つく、つき、づける、づく",
+    "ka_utf": "付",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=付",
+    "kname": "fu-tsu(ku)",
+    "rad_order": 11,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jt"
+      }
+    ],
+    "rad_name_search": [
+      "ninben"
+    ],
+    "rad_utf": "⺅",
+    "stroketimes": [
+      0,
+      0.8,
+      2.4,
+      3.533333,
+      5.266667,
+      6.8
+    ],
+    "kunyomi_ka_display": "つ",
+    "dick": "19",
+    "rad_name": "ninben",
+    "dicn": "363",
+    "mn_hint": "Person イwith something attached 寸.",
+    "rad_stroke": 2,
+    "onyomi_ja": "フ",
+    "rad_meaning": "person ",
+    "onyomi": "fu",
+    "ka_id": "ka_955",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "fu",
+      "fu"
+    ],
+    "kunyomi_search": [
+      "tsu",
+      "tsukeru",
+      "tsuku",
+      "tsuki",
+      "zukeru",
+      "zuku",
+      "tsu, tsukeru, tsuku, tsuki, zukeru, zuku"
+    ],
+    "meaning_search": [
+      "attach",
+      "belong",
+      "apply",
+      "attach, belong, apply"
+    ],
+    "onyomi_ja_search": [
+      "フ",
+      "フ"
+    ],
+    "kunyomi_ja_search": [
+      "つ",
+      "つける",
+      "つく",
+      "つき",
+      "づける",
+      "づく",
+      "つ、つける、つく、つき、づける、づく"
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にんべん"
+    ],
+    "textbook_search": [
+      "ap",
+      "ap:17",
+      "ap:c17",
+      "kll",
+      "kll:21",
+      "kll:c21",
+      "ik1",
+      "ik1:11",
+      "ik1:c11",
+      "jt",
+      "jt:15",
+      "jt:c15"
+    ],
+    "rad_name_file": "ninben",
+    "kanji": {
+      "character": "付",
+      "meaning": {
+        "english": "attach, belong, apply"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          0.8,
+          2.4,
+          3.533333,
+          5.266667,
+          6.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "fu",
+        "katakana": "フ"
+      },
+      "kunyomi": {
+        "romaji": "tsu, tsukeru, tsuku, tsuki, zukeru, zuku",
+        "hiragana": "つ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/fu-tsu(ku)_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/fu-tsu(ku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/fu-tsu(ku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺅",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にんべん",
+        "romaji": "ninben"
+      },
+      "meaning": {
+        "english": "person "
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ninben0.svg",
+        "https://media.kanjialive.com/rad_frames/ninben1.svg",
+        "https://media.kanjialive.com/rad_frames/ninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "19",
+      "classic_nelson": "363"
+    }
+  },
+  "jishoData": {
+    "query": "付",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "322",
+    "strokeCount": 5,
+    "meaning": "adhere, attach, refer to, append",
+    "kunyomi": [
+      "つ.ける",
+      "-つ.ける",
+      "-づ.ける",
+      "つ.け",
+      "つ.け-",
+      "-つ.け",
+      "-づ.け",
+      "-づけ",
+      "つ.く",
+      "-づ.く",
+      "つ.き",
+      "-つ.き",
+      "-つき",
+      "-づ.き",
+      "-づき"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "付近",
+        "reading": "フキン",
+        "meaning": "neighborhood, neighbourhood, vicinity, environs, surrounding area, district"
+      },
+      {
+        "example": "付加",
+        "reading": "フカ",
+        "meaning": "addition, annexation, appendage"
+      },
+      {
+        "example": "貼付",
+        "reading": "チョウフ",
+        "meaning": "pasting, sticking, attaching, affixing, appending"
+      },
+      {
+        "example": "回付",
+        "reading": "カイフ",
+        "meaning": "transmitting, referring to, passing on"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "付ける",
+        "reading": "つける",
+        "meaning": "to attach, to join, to connect, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to put against, to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), to allot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow (someone), to shadow, to tail, to stalk, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding), to turn on (a light), to produce flowers (of a plant), to produce fruit, to do intensely, to do fiercely, to do strongly, to be used to (doing), to be accustomed to"
+      },
+      {
+        "example": "付け",
+        "reading": "つけ",
+        "meaning": "bill, bill of sale, payment invoice, tab (for later payment), credit, contact move, direct attack to an enemy stone, sound effect produced by striking a wooden board with clappers, letter, reason, motive, pretext, one's fortune, one's luck"
+      },
+      {
+        "example": "付け根",
+        "reading": "つけね",
+        "meaning": "root, joint, base, crotch"
+      },
+      {
+        "example": "振り付け",
+        "reading": "ふりつけ",
+        "meaning": "choreography, dance composition, dance coaching"
+      },
+      {
+        "example": "締め付け",
+        "reading": "しめつけ",
+        "meaning": "pressure, clamping, tightening, fastening"
+      },
+      {
+        "example": "付く",
+        "reading": "つく",
+        "meaning": "to be attached, to be connected with, to adhere, to stick, to cling, to remain imprinted, to scar, to stain, to dye, to bear (fruit, interest, etc.), to be acquired (of a habit, ability, etc.), to increase (of strength, etc.), to take root, to accompany, to attend, to follow, to study with, to side with, to belong to, to possess, to haunt, to be lit, to catch fire, to ignite, to be turned on (of a light, appliance, etc.), to be settled, to be resolved, to be decided, to be given (of a name, price, etc.), to be sensed, to be perceived, to be lucky, to become (a state, condition, etc.)"
+      },
+      {
+        "example": "付喪神",
+        "reading": "つくもがみ",
+        "meaning": "artifact spirit, in folk belief, long-lived objects (household objects, living beings, nature, etc.) become inhabited by a spirit"
+      },
+      {
+        "example": "付き",
+        "reading": "つき",
+        "meaning": "furnished with, including, attached to, impression, appearance, luck, sociality, under, assistant (e.g. to a manager), soup base"
+      },
+      {
+        "example": "付き合い",
+        "reading": "つきあい",
+        "meaning": "association, socializing, socialising, fellowship"
+      },
+      {
+        "example": "お墨付き",
+        "reading": "おすみつき",
+        "meaning": "certificate, certified document, authorization, authorisation, (the) thumbs up, seal of approval, paper with signature of the shogun or lord"
+      },
+      {
+        "example": "原付",
+        "reading": "げんつき",
+        "meaning": "motorized two-wheeled vehicle (with a displacement of less than 50cc), scooter, moped"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "寸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20184_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ed8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ed8.gif",
+    "uri": "https://jisho.org/search/%E4%BB%98%23kanji"
+  }
+}

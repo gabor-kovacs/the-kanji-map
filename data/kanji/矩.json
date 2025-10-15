@@ -1,1 +1,66 @@
-{"id":"矩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"矩","found":true,"newspaperFrequencyRank":"2380","strokeCount":10,"meaning":"ruler, carpenter's square","kunyomi":["かね","かねざし","さしがね"],"onyomi":["ク"],"onyomiExamples":[{"example":"矩","reading":"ク","meaning":"quadrature"},{"example":"矩形","reading":"クケイ","meaning":"rectangle"},{"example":"規矩","reading":"キク","meaning":"standard, criterion, rule, norm, compass and ruler"}],"kunyomiExamples":[{"example":"矩","reading":"かね","meaning":"carpenter's square, upside-down and mirrored L-shape (used in traditional shop logos combined with another character), perpendicularity, straightness, model, standard"},{"example":"矩差","reading":"かねざし","meaning":"carpenter's square"},{"example":"矩差","reading":"かねざし","meaning":"carpenter's square"}],"radical":{"symbol":"矢","meaning":"arrow"},"parts":["乞","巨","矢"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30697_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077e9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77e9.gif","uri":"https://jisho.org/search/%E7%9F%A9%23kanji"}}
+{
+  "id": "矩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "矩",
+    "found": true,
+    "newspaperFrequencyRank": "2380",
+    "strokeCount": 10,
+    "meaning": "ruler, carpenter's square",
+    "kunyomi": [
+      "かね",
+      "かねざし",
+      "さしがね"
+    ],
+    "onyomi": [
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "矩",
+        "reading": "ク",
+        "meaning": "quadrature"
+      },
+      {
+        "example": "矩形",
+        "reading": "クケイ",
+        "meaning": "rectangle"
+      },
+      {
+        "example": "規矩",
+        "reading": "キク",
+        "meaning": "standard, criterion, rule, norm, compass and ruler"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "矩",
+        "reading": "かね",
+        "meaning": "carpenter's square, upside-down and mirrored L-shape (used in traditional shop logos combined with another character), perpendicularity, straightness, model, standard"
+      },
+      {
+        "example": "矩差",
+        "reading": "かねざし",
+        "meaning": "carpenter's square"
+      },
+      {
+        "example": "矩差",
+        "reading": "かねざし",
+        "meaning": "carpenter's square"
+      }
+    ],
+    "radical": {
+      "symbol": "矢",
+      "meaning": "arrow"
+    },
+    "parts": [
+      "乞",
+      "巨",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30697_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077e9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77e9.gif",
+    "uri": "https://jisho.org/search/%E7%9F%A9%23kanji"
+  }
+}

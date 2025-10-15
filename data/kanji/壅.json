@@ -1,1 +1,32 @@
-{"id":"壅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壅","found":true,"strokeCount":16,"meaning":"plug up, shut up","kunyomi":["ふさ.ぐ"],"onyomi":["ヨウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["亠","土","幺","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22725_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058c5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58c5.gif","uri":"https://jisho.org/search/%E5%A3%85%23kanji"}}
+{
+  "id": "壅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壅",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "plug up, shut up",
+    "kunyomi": [
+      "ふさ.ぐ"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "亠",
+      "土",
+      "幺",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22725_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58c5.gif",
+    "uri": "https://jisho.org/search/%E5%A3%85%23kanji"
+  }
+}

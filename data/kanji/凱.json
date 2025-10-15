@@ -1,1 +1,48 @@
-{"id":"凱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"凱","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2293","strokeCount":12,"meaning":"victory song","kunyomi":["かちどき","やわらぐ"],"onyomi":["ガイ","カイ"],"onyomiExamples":[{"example":"凱歌","reading":"ガイカ","meaning":"victory song, victory"},{"example":"凱旋","reading":"ガイセン","meaning":"triumphant return, returning in triumph"}],"kunyomiExamples":[],"radical":{"symbol":"几","meaning":"table"},"parts":["几","口","山","并","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20977_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051f1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51f1.gif","uri":"https://jisho.org/search/%E5%87%B1%23kanji"}}
+{
+  "id": "凱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凱",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2293",
+    "strokeCount": 12,
+    "meaning": "victory song",
+    "kunyomi": [
+      "かちどき",
+      "やわらぐ"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凱歌",
+        "reading": "ガイカ",
+        "meaning": "victory song, victory"
+      },
+      {
+        "example": "凱旋",
+        "reading": "ガイセン",
+        "meaning": "triumphant return, returning in triumph"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "几",
+      "meaning": "table"
+    },
+    "parts": [
+      "几",
+      "口",
+      "山",
+      "并",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20977_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051f1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51f1.gif",
+    "uri": "https://jisho.org/search/%E5%87%B1%23kanji"
+  }
+}

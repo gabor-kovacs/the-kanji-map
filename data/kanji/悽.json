@@ -1,1 +1,46 @@
-{"id":"悽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"悽","found":true,"strokeCount":11,"meaning":"be sad, be sorrowful","kunyomi":["いたむ"],"onyomi":["セイ"],"onyomiExamples":[{"example":"凄惨","reading":"セイサン","meaning":"ghastly, gruesome, appalling, lurid"},{"example":"凄絶","reading":"セイゼツ","meaning":"extremely gruesome, lurid, violent, bloody, fierce"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ヨ","女","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24765_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060bd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60bd.gif","uri":"https://jisho.org/search/%E6%82%BD%23kanji"}}
+{
+  "id": "悽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悽",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "be sad, be sorrowful",
+    "kunyomi": [
+      "いたむ"
+    ],
+    "onyomi": [
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凄惨",
+        "reading": "セイサン",
+        "meaning": "ghastly, gruesome, appalling, lurid"
+      },
+      {
+        "example": "凄絶",
+        "reading": "セイゼツ",
+        "meaning": "extremely gruesome, lurid, violent, bloody, fierce"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ヨ",
+      "女",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24765_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060bd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60bd.gif",
+    "uri": "https://jisho.org/search/%E6%82%BD%23kanji"
+  }
+}

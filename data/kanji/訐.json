@@ -1,1 +1,39 @@
-{"id":"訐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"訐","found":true,"strokeCount":10,"meaning":"divulge, reveal","kunyomi":["あば.く"],"onyomi":["ケツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"暴く","reading":"あばく","meaning":"to disclose, to divulge, to expose, to open (a grave), to dig out"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["干","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35344_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a10.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a10.gif","uri":"https://jisho.org/search/%E8%A8%90%23kanji"}}
+{
+  "id": "訐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "訐",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "divulge, reveal",
+    "kunyomi": [
+      "あば.く"
+    ],
+    "onyomi": [
+      "ケツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "暴く",
+        "reading": "あばく",
+        "meaning": "to disclose, to divulge, to expose, to open (a grave), to dig out"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "干",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35344_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a10.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a10.gif",
+    "uri": "https://jisho.org/search/%E8%A8%90%23kanji"
+  }
+}

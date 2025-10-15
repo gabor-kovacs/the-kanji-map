@@ -1,1 +1,38 @@
-{"id":"錻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"錻","found":true,"strokeCount":16,"meaning":"tin plate, (kokuji)","kunyomi":[],"onyomi":["ブ"],"onyomiExamples":[{"example":"錻力","reading":"ブリキ","meaning":"tin plate"}],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["戈","止","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37691_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0933b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/933b.gif","uri":"https://jisho.org/search/%E9%8C%BB%23kanji"}}
+{
+  "id": "錻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "錻",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "tin plate, (kokuji)",
+    "kunyomi": [],
+    "onyomi": [
+      "ブ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "錻力",
+        "reading": "ブリキ",
+        "meaning": "tin plate"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "戈",
+      "止",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37691_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0933b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/933b.gif",
+    "uri": "https://jisho.org/search/%E9%8C%BB%23kanji"
+  }
+}

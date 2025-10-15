@@ -1,1 +1,40 @@
-{"id":"齷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"齷","found":true,"strokeCount":24,"meaning":"grating the teeth, fretful","kunyomi":[],"onyomi":["アク"],"onyomiExamples":[{"example":"齷齪","reading":"アクセク","meaning":"busily, sedulously, laboriously, feverishly, fussily, worrying (about little things)"}],"kunyomiExamples":[],"radical":{"symbol":"齒","meaning":"tooth, molar"},"parts":["凵","厶","土","尸","止","歯","米","至"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40823_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f77.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f77.gif","uri":"https://jisho.org/search/%E9%BD%B7%23kanji"}}
+{
+  "id": "齷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齷",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "grating the teeth, fretful",
+    "kunyomi": [],
+    "onyomi": [
+      "アク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "齷齪",
+        "reading": "アクセク",
+        "meaning": "busily, sedulously, laboriously, feverishly, fussily, worrying (about little things)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "齒",
+      "meaning": "tooth, molar"
+    },
+    "parts": [
+      "凵",
+      "厶",
+      "土",
+      "尸",
+      "止",
+      "歯",
+      "米",
+      "至"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40823_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f77.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f77.gif",
+    "uri": "https://jisho.org/search/%E9%BD%B7%23kanji"
+  }
+}

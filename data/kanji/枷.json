@@ -1,1 +1,69 @@
-{"id":"枷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"枷","found":true,"strokeCount":9,"meaning":"shackles, irons, handcuffs, bonds","kunyomi":["かせ","からざお"],"onyomi":["カ"],"onyomiExamples":[{"example":"枷","reading":"カセ","meaning":"shackles, fetters, irons, handcuffs, restraint, constraint, bonds (e.g. family), ties, binding relationship, binding relationships, encumbrance"},{"example":"枷蚯蚓","reading":"カセミミズ","meaning":"Epimenia verrucosa (mollusc)"},{"example":"殻竿","reading":"カラザオ","meaning":"flail (for threshing grain)"}],"kunyomiExamples":[{"example":"枷","reading":"かせ","meaning":"shackles, fetters, irons, handcuffs, restraint, constraint, bonds (e.g. family), ties, binding relationship, binding relationships, encumbrance"},{"example":"枷蚯蚓","reading":"かせみみず","meaning":"Epimenia verrucosa (mollusc)"},{"example":"足かせ","reading":"あしかせ","meaning":"fetters, shackles, hobbles, encumbrance, hindrance, burden, trap"},{"example":"手枷足枷","reading":"てかせあしかせ","meaning":"manacles, shackles, fetters"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["力","口","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26551_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067b7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67b7.gif","uri":"https://jisho.org/search/%E6%9E%B7%23kanji"}}
+{
+  "id": "枷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "枷",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "shackles, irons, handcuffs, bonds",
+    "kunyomi": [
+      "かせ",
+      "からざお"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "枷",
+        "reading": "カセ",
+        "meaning": "shackles, fetters, irons, handcuffs, restraint, constraint, bonds (e.g. family), ties, binding relationship, binding relationships, encumbrance"
+      },
+      {
+        "example": "枷蚯蚓",
+        "reading": "カセミミズ",
+        "meaning": "Epimenia verrucosa (mollusc)"
+      },
+      {
+        "example": "殻竿",
+        "reading": "カラザオ",
+        "meaning": "flail (for threshing grain)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "枷",
+        "reading": "かせ",
+        "meaning": "shackles, fetters, irons, handcuffs, restraint, constraint, bonds (e.g. family), ties, binding relationship, binding relationships, encumbrance"
+      },
+      {
+        "example": "枷蚯蚓",
+        "reading": "かせみみず",
+        "meaning": "Epimenia verrucosa (mollusc)"
+      },
+      {
+        "example": "足かせ",
+        "reading": "あしかせ",
+        "meaning": "fetters, shackles, hobbles, encumbrance, hindrance, burden, trap"
+      },
+      {
+        "example": "手枷足枷",
+        "reading": "てかせあしかせ",
+        "meaning": "manacles, shackles, fetters"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "力",
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26551_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067b7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67b7.gif",
+    "uri": "https://jisho.org/search/%E6%9E%B7%23kanji"
+  }
+}

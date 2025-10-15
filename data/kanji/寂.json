@@ -1,1 +1,116 @@
-{"id":"寂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"寂","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1599","strokeCount":11,"meaning":"loneliness, quietly, mellow, mature, death of a priest","kunyomi":["さび","さび.しい","さび.れる","さみ.しい"],"onyomi":["ジャク","セキ"],"onyomiExamples":[{"example":"寂","reading":"ジャク","meaning":"(entering into) nirvana, died, silent, tranquil"},{"example":"寂然","reading":"セキゼン","meaning":"lonely, desolate, forlornness, desolation"},{"example":"和敬清寂","reading":"ワケイセイジャク","meaning":"harmony, respect, purity and tranquility, the four most important elements of the tea ceremony"},{"example":"空寂","reading":"クウジャク","meaning":"complete emptiness (i.e. as a denial of the inherent existence of all things), nirvana (where this emptiness is realized), quiet and lonely"},{"example":"寂","reading":"ジャク","meaning":"(entering into) nirvana, died, silent, tranquil"},{"example":"寂然","reading":"セキゼン","meaning":"lonely, desolate, forlornness, desolation"},{"example":"闃寂","reading":"ゲキセキ","meaning":"silent and still, desolate"},{"example":"寂々","reading":"セキセキ","meaning":"sad, lonesome, desolate"}],"kunyomiExamples":[{"example":"寂","reading":"さび","meaning":"patina, antique look, elegant simplicity, well-trained voice"},{"example":"寂しい","reading":"さびしい","meaning":"lonely, lonesome, solitary, desolate"},{"example":"侘と寂","reading":"わびとさび","meaning":"taste for the simple and quiet, wabi and sabi"},{"example":"寂々","reading":"せきせき","meaning":"sad, lonesome, desolate"},{"example":"寂しい","reading":"さびしい","meaning":"lonely, lonesome, solitary, desolate"},{"example":"寂れる","reading":"さびれる","meaning":"to decline (in prosperity), to become deserted, to become desolate, to taper off (of a sound)"},{"example":"寂しい","reading":"さびしい","meaning":"lonely, lonesome, solitary, desolate"}],"radical":{"symbol":"宀","meaning":"roof"},"parts":["卜","又","宀","小"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23490_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc2.gif","uri":"https://jisho.org/search/%E5%AF%82%23kanji"}}
+{
+  "id": "寂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寂",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1599",
+    "strokeCount": 11,
+    "meaning": "loneliness, quietly, mellow, mature, death of a priest",
+    "kunyomi": [
+      "さび",
+      "さび.しい",
+      "さび.れる",
+      "さみ.しい"
+    ],
+    "onyomi": [
+      "ジャク",
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寂",
+        "reading": "ジャク",
+        "meaning": "(entering into) nirvana, died, silent, tranquil"
+      },
+      {
+        "example": "寂然",
+        "reading": "セキゼン",
+        "meaning": "lonely, desolate, forlornness, desolation"
+      },
+      {
+        "example": "和敬清寂",
+        "reading": "ワケイセイジャク",
+        "meaning": "harmony, respect, purity and tranquility, the four most important elements of the tea ceremony"
+      },
+      {
+        "example": "空寂",
+        "reading": "クウジャク",
+        "meaning": "complete emptiness (i.e. as a denial of the inherent existence of all things), nirvana (where this emptiness is realized), quiet and lonely"
+      },
+      {
+        "example": "寂",
+        "reading": "ジャク",
+        "meaning": "(entering into) nirvana, died, silent, tranquil"
+      },
+      {
+        "example": "寂然",
+        "reading": "セキゼン",
+        "meaning": "lonely, desolate, forlornness, desolation"
+      },
+      {
+        "example": "闃寂",
+        "reading": "ゲキセキ",
+        "meaning": "silent and still, desolate"
+      },
+      {
+        "example": "寂々",
+        "reading": "セキセキ",
+        "meaning": "sad, lonesome, desolate"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寂",
+        "reading": "さび",
+        "meaning": "patina, antique look, elegant simplicity, well-trained voice"
+      },
+      {
+        "example": "寂しい",
+        "reading": "さびしい",
+        "meaning": "lonely, lonesome, solitary, desolate"
+      },
+      {
+        "example": "侘と寂",
+        "reading": "わびとさび",
+        "meaning": "taste for the simple and quiet, wabi and sabi"
+      },
+      {
+        "example": "寂々",
+        "reading": "せきせき",
+        "meaning": "sad, lonesome, desolate"
+      },
+      {
+        "example": "寂しい",
+        "reading": "さびしい",
+        "meaning": "lonely, lonesome, solitary, desolate"
+      },
+      {
+        "example": "寂れる",
+        "reading": "さびれる",
+        "meaning": "to decline (in prosperity), to become deserted, to become desolate, to taper off (of a sound)"
+      },
+      {
+        "example": "寂しい",
+        "reading": "さびしい",
+        "meaning": "lonely, lonesome, solitary, desolate"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "卜",
+      "又",
+      "宀",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23490_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc2.gif",
+    "uri": "https://jisho.org/search/%E5%AF%82%23kanji"
+  }
+}

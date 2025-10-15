@@ -1,1 +1,40 @@
-{"id":"臧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"臧","found":true,"strokeCount":15,"meaning":"good, bribe, servant","kunyomi":["よい"],"onyomi":["ゾウ","ソウ"],"onyomiExamples":[{"example":"臧否","reading":"ゾウヒ","meaning":"the good and bad"}],"kunyomiExamples":[],"radical":{"symbol":"臣","meaning":"minster, official"},"parts":["ノ","冫","戈","疔","臣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33255_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081e7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81e7.gif","uri":"https://jisho.org/search/%E8%87%A7%23kanji"}}
+{
+  "id": "臧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臧",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "good, bribe, servant",
+    "kunyomi": [
+      "よい"
+    ],
+    "onyomi": [
+      "ゾウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "臧否",
+        "reading": "ゾウヒ",
+        "meaning": "the good and bad"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "臣",
+      "meaning": "minster, official"
+    },
+    "parts": [
+      "ノ",
+      "冫",
+      "戈",
+      "疔",
+      "臣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33255_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081e7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81e7.gif",
+    "uri": "https://jisho.org/search/%E8%87%A7%23kanji"
+  }
+}

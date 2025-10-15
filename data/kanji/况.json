@@ -1,1 +1,39 @@
-{"id":"况","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"况","found":true,"strokeCount":7,"meaning":"still more, still less","kunyomi":["まし.て","いわ.んや","おもむき"],"onyomi":["キョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"況んや","reading":"いわんや","meaning":"much more, not to mention, not to speak of, to say nothing of, let alone"}],"radical":{"symbol":"冫","meaning":"ice"},"parts":["儿","冫","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20917_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b5.gif","uri":"https://jisho.org/search/%E5%86%B5%23kanji"}}
+{
+  "id": "况",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "况",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "still more, still less",
+    "kunyomi": [
+      "まし.て",
+      "いわ.んや",
+      "おもむき"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "況んや",
+        "reading": "いわんや",
+        "meaning": "much more, not to mention, not to speak of, to say nothing of, let alone"
+      }
+    ],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "ice"
+    },
+    "parts": [
+      "儿",
+      "冫",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20917_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b5.gif",
+    "uri": "https://jisho.org/search/%E5%86%B5%23kanji"
+  }
+}

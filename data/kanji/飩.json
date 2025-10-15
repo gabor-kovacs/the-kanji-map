@@ -1,1 +1,53 @@
-{"id":"飩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"飩","found":true,"strokeCount":13,"meaning":"Japanese noodles","kunyomi":[],"onyomi":["ドン","トン"],"onyomiExamples":[{"example":"讃岐うどん","reading":"サヌキウドン","meaning":"Sanuki udon, thick udon from Kagawa prefecture"},{"example":"狸饂飩","reading":"タヌキウドン","meaning":"noodles with bits of deep-fried tempura batter"},{"example":"橘飩","reading":"キットン","meaning":"mashed sweet potatoes (incl. sweetened chestnuts or beans)"},{"example":"餛飩","reading":"コントン","meaning":"steamed manjū, steamed mochi"}],"kunyomiExamples":[],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":["屯","食"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39145_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098e9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98e9.gif","uri":"https://jisho.org/search/%E9%A3%A9%23kanji"}}
+{
+  "id": "飩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "飩",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "Japanese noodles",
+    "kunyomi": [],
+    "onyomi": [
+      "ドン",
+      "トン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "讃岐うどん",
+        "reading": "サヌキウドン",
+        "meaning": "Sanuki udon, thick udon from Kagawa prefecture"
+      },
+      {
+        "example": "焼きうどん",
+        "reading": "ヤキウドン",
+        "meaning": "fried udon"
+      },
+      {
+        "example": "橘飩",
+        "reading": "キットン",
+        "meaning": "mashed sweet potatoes (incl. sweetened chestnuts or beans)"
+      },
+      {
+        "example": "餛飩",
+        "reading": "コントン",
+        "meaning": "steamed manjū, steamed mochi"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [
+      "屯",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39145_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098e9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98e9.gif",
+    "uri": "https://jisho.org/search/%E9%A3%A9%23kanji"
+  }
+}

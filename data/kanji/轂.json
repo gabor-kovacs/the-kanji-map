@@ -1,1 +1,46 @@
-{"id":"轂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"轂","found":true,"strokeCount":17,"meaning":"hub (of wheel)","kunyomi":["こしき"],"onyomi":["コク"],"onyomiExamples":[{"example":"轂","reading":"コシキ","meaning":"hub (of a wheel), nave"}],"kunyomiExamples":[{"example":"轂","reading":"こしき","meaning":"hub (of a wheel), nave"}],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["冖","几","又","士","殳","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36674_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f42.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f42.gif","uri":"https://jisho.org/search/%E8%BD%82%23kanji"}}
+{
+  "id": "轂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "轂",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "hub (of wheel)",
+    "kunyomi": [
+      "こしき"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "轂",
+        "reading": "コシキ",
+        "meaning": "hub (of a wheel), nave"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "轂",
+        "reading": "こしき",
+        "meaning": "hub (of a wheel), nave"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "冖",
+      "几",
+      "又",
+      "士",
+      "殳",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36674_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f42.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f42.gif",
+    "uri": "https://jisho.org/search/%E8%BD%82%23kanji"
+  }
+}

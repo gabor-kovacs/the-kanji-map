@@ -1,1 +1,37 @@
-{"id":"鷓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鷓","found":true,"strokeCount":22,"meaning":"partridge","kunyomi":[],"onyomi":["シャ"],"onyomiExamples":[{"example":"鷓鴣","reading":"シャコ","meaning":"francolin (partridge-like bird of genus Francolinus), partridge (of genus Perdix)"}],"kunyomiExamples":[],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["一","凵","广","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40403_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dd3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dd3.gif","uri":"https://jisho.org/search/%E9%B7%93%23kanji"}}
+{
+  "id": "鷓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鷓",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "partridge",
+    "kunyomi": [],
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鷓鴣",
+        "reading": "シャコ",
+        "meaning": "francolin (partridge-like bird of genus Francolinus), partridge (of genus Perdix)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "一",
+      "凵",
+      "广",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40403_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dd3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dd3.gif",
+    "uri": "https://jisho.org/search/%E9%B7%93%23kanji"
+  }
+}

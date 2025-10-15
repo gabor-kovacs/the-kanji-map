@@ -1,1 +1,46 @@
-{"id":"尠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"尠","found":true,"strokeCount":13,"meaning":"at least, not a little","kunyomi":["すくな.い"],"onyomi":["セン","セウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"少ない","reading":"すくない","meaning":"few, a little, scarce, insufficient, seldom"}],"radical":{"symbol":"小","meaning":"small, insignificant"},"parts":["ノ","儿","匚","小","甘"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23584_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c20.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c20.gif","uri":"https://jisho.org/search/%E5%B0%A0%23kanji"}}
+{
+  "id": "尠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尠",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "at least, not a little",
+    "kunyomi": [
+      "すくな.い"
+    ],
+    "onyomi": [
+      "セン",
+      "セウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鮮少",
+        "reading": "センショウ",
+        "meaning": "very few, very little"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "少ない",
+        "reading": "すくない",
+        "meaning": "few, little, small (amount), low, scarce, insufficient, seldom, rare"
+      }
+    ],
+    "radical": {
+      "symbol": "小",
+      "meaning": "small, insignificant"
+    },
+    "parts": [
+      "ノ",
+      "儿",
+      "匚",
+      "小",
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23584_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c20.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c20.gif",
+    "uri": "https://jisho.org/search/%E5%B0%A0%23kanji"
+  }
+}

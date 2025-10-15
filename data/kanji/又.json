@@ -1,1 +1,55 @@
-{"id":"又","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"又","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1874","strokeCount":2,"meaning":"or again, furthermore, on the other hand","kunyomi":["また","また-","また.の-"],"onyomi":["ユウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"又","reading":"また","meaning":"again, once more, once again, another time, some other time, also, too, as well, likewise, on the other hand, while, and, in addition, besides, moreover, furthermore, or, otherwise, really, how, (what, why) on earth, indirect"},{"example":"又は","reading":"または","meaning":"or, either ... or ..."},{"example":"尚又","reading":"なおまた","meaning":"further, besides, moreover, in addition to"},{"example":"猫又","reading":"ねこまた","meaning":"mythical two-tailed monster cat"}],"radical":{"symbol":"又","meaning":"right hand"},"parts":["又"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21448_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053c8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53c8.gif","uri":"https://jisho.org/search/%E5%8F%88%23kanji"}}
+{
+  "id": "又",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "又",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1874",
+    "strokeCount": 2,
+    "meaning": "or again, furthermore, on the other hand",
+    "kunyomi": [
+      "また",
+      "また-",
+      "また.の-"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "又",
+        "reading": "また",
+        "meaning": "again, once more, once again, another time, some other time, also, too, as well, likewise, on the other hand, while, and, in addition, besides, moreover, furthermore, or, otherwise, really, how, (what, why) on earth, some time (in the future), indirect"
+      },
+      {
+        "example": "又は",
+        "reading": "または",
+        "meaning": "or, either ... or ..."
+      },
+      {
+        "example": "尚又",
+        "reading": "なおまた",
+        "meaning": "besides, moreover, furthermore, further, in addition (to that)"
+      },
+      {
+        "example": "猫又",
+        "reading": "ねこまた",
+        "meaning": "nekomata, fork-tailed cat yōkai, giant beast that inhabits the mountains"
+      }
+    ],
+    "radical": {
+      "symbol": "又",
+      "meaning": "right hand"
+    },
+    "parts": [
+      "又"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21448_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053c8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53c8.gif",
+    "uri": "https://jisho.org/search/%E5%8F%88%23kanji"
+  }
+}

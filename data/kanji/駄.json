@@ -1,1 +1,65 @@
-{"id":"駄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"駄","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1500","strokeCount":14,"meaning":"burdensome, pack horse, horse load, send by horse, trivial, worthless","kunyomi":[],"onyomi":["ダ","タ"],"onyomiExamples":[{"example":"駄","reading":"ダ","meaning":"poor, low-grade, trivial, insignificant, worthless, load, pack, horse load, packhorse"},{"example":"駄目","reading":"ダメ","meaning":"no good, not serving its purpose, useless, broken, hopeless, wasted, in vain, purposeless, cannot, must not, not allowed, neutral point (in go), intersection owned by neither player at the end of a game"},{"example":"雪駄","reading":"セッタ","meaning":"leather-soled sandals (geta)"},{"example":"足駄","reading":"アシダ","meaning":"high clogs, rain clogs"},{"example":"中下駄","reading":"チュウゲタ","meaning":"medium height geta"},{"example":"高下駄","reading":"タカゲタ","meaning":"tall wooden clogs"}],"kunyomiExamples":[],"radical":{"symbol":"馬","meaning":"horse"},"parts":["丶","大","杰","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39364_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c4.gif","uri":"https://jisho.org/search/%E9%A7%84%23kanji"}}
+{
+  "id": "駄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駄",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1500",
+    "strokeCount": 14,
+    "meaning": "burdensome, pack horse, horse load, send by horse, trivial, worthless",
+    "kunyomi": [],
+    "onyomi": [
+      "ダ",
+      "タ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駄",
+        "reading": "ダ",
+        "meaning": "poor, low-grade, trivial, insignificant, worthless, load, pack, horse load, packhorse"
+      },
+      {
+        "example": "駄目",
+        "reading": "ダメ",
+        "meaning": "no good, not serving its purpose, useless, broken, hopeless, wasted, in vain, purposeless, cannot, must not, not allowed, neutral point, intersection owned by neither player at the end of a game, no!, stop!"
+      },
+      {
+        "example": "雪駄",
+        "reading": "セッタ",
+        "meaning": "leather-soled sandals (geta)"
+      },
+      {
+        "example": "足駄",
+        "reading": "アシダ",
+        "meaning": "high clogs, rain clogs"
+      },
+      {
+        "example": "中下駄",
+        "reading": "チュウゲタ",
+        "meaning": "medium height geta"
+      },
+      {
+        "example": "高下駄",
+        "reading": "タカゲタ",
+        "meaning": "tall wooden clogs"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "丶",
+      "大",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39364_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c4.gif",
+    "uri": "https://jisho.org/search/%E9%A7%84%23kanji"
+  }
+}

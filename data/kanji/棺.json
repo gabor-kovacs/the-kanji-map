@@ -1,1 +1,54 @@
-{"id":"棺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"棺","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2161","strokeCount":12,"meaning":"coffin, casket","kunyomi":[],"onyomi":["カン"],"onyomiExamples":[{"example":"棺","reading":"カン","meaning":"coffin, casket"},{"example":"棺桶","reading":"カンオケ","meaning":"coffin, casket"},{"example":"石棺","reading":"セッカン","meaning":"sarcophagus, stone coffin"},{"example":"納棺","reading":"ノウカン","meaning":"placing of body in coffin"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["口","宀","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26874_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068fa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68fa.gif","uri":"https://jisho.org/search/%E6%A3%BA%23kanji"}}
+{
+  "id": "棺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棺",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2161",
+    "strokeCount": 12,
+    "meaning": "coffin, casket",
+    "kunyomi": [],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "棺",
+        "reading": "カン",
+        "meaning": "coffin, casket"
+      },
+      {
+        "example": "棺桶",
+        "reading": "カンオケ",
+        "meaning": "coffin, casket"
+      },
+      {
+        "example": "石棺",
+        "reading": "セッカン",
+        "meaning": "sarcophagus, stone coffin"
+      },
+      {
+        "example": "納棺",
+        "reading": "ノウカン",
+        "meaning": "placing a body in a coffin"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "口",
+      "宀",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26874_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068fa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68fa.gif",
+    "uri": "https://jisho.org/search/%E6%A3%BA%23kanji"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "俱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "俱",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "all, together, accompany",
+    "kunyomi": [
+      "ともに"
+    ],
+    "onyomi": [
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "倶楽部",
+        "reading": "クラブ",
+        "meaning": "club, fraternity, sorority, clubhouse"
+      },
+      {
+        "example": "倶利迦羅",
+        "reading": "クリカラ",
+        "meaning": "Kulika, manifestation of Acala in the form of a flame-wreathed dragon wrapped around and swallowing the tip of an upright sword"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20465_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ff1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ff1.gif",
+    "uri": "https://jisho.org/search/%E4%BF%B1%23kanji"
+  }
+}

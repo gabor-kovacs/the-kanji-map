@@ -1,1 +1,41 @@
-{"id":"卆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"卆","found":true,"strokeCount":4,"meaning":"soldier, private, die","kunyomi":["そっ.する","お.える","お.わる","ついに","にわか"],"onyomi":["ソツ","シュツ"],"onyomiExamples":[{"example":"卒寿","reading":"ソツジュ","meaning":"90th birthday"}],"kunyomiExamples":[],"radical":{"symbol":"十","meaning":"ten, complete"},"parts":["九","十"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21318_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05346.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5346.gif","uri":"https://jisho.org/search/%E5%8D%86%23kanji"}}
+{
+  "id": "卆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卆",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "soldier, private, die",
+    "kunyomi": [
+      "そっ.する",
+      "お.える",
+      "お.わる",
+      "ついに",
+      "にわか"
+    ],
+    "onyomi": [
+      "ソツ",
+      "シュツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "卒寿",
+        "reading": "ソツジュ",
+        "meaning": "90th birthday"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "十",
+      "meaning": "ten, complete"
+    },
+    "parts": [
+      "九",
+      "十"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21318_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05346.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5346.gif",
+    "uri": "https://jisho.org/search/%E5%8D%86%23kanji"
+  }
+}

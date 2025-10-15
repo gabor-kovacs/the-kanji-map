@@ -1,1 +1,56 @@
-{"id":"巾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"巾","found":true,"taughtIn":"junior high","strokeCount":3,"meaning":"towel, hanging scroll, width, cloth radical (no. 50)","kunyomi":["おお.い","ちきり","きれ"],"onyomi":["キン","フク"],"onyomiExamples":[{"example":"巾","reading":"キン","meaning":"napkin, cloth"},{"example":"巾単","reading":"キンタン","meaning":"unipotent"},{"example":"三角巾","reading":"サンカクキン","meaning":"triangular bandage, sling, triangular kerchief, bandana, bandanna"},{"example":"防災頭巾","reading":"ボウサイズキン","meaning":"disaster hood, protective hood worn during earthquakes and other disasters (e.g. to protect from falling objects)"}],"kunyomiExamples":[],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["冂","巾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24062_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dfe.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dfe.gif","uri":"https://jisho.org/search/%E5%B7%BE%23kanji"}}
+{
+  "id": "巾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巾",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 3,
+    "meaning": "towel, hanging scroll, width, cloth radical (no. 50)",
+    "kunyomi": [
+      "おお.い",
+      "ちきり",
+      "きれ"
+    ],
+    "onyomi": [
+      "キン",
+      "フク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巾",
+        "reading": "キン",
+        "meaning": "napkin, cloth"
+      },
+      {
+        "example": "巾単",
+        "reading": "キンタン",
+        "meaning": "unipotent"
+      },
+      {
+        "example": "ボロ雑巾",
+        "reading": "ボロゾウキン",
+        "meaning": "dirty worn-out rag"
+      },
+      {
+        "example": "三角巾",
+        "reading": "サンカクキン",
+        "meaning": "triangular bandage, sling, triangular kerchief, bandana, bandanna"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "冂",
+      "巾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24062_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dfe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dfe.gif",
+    "uri": "https://jisho.org/search/%E5%B7%BE%23kanji"
+  }
+}

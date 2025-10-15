@@ -1,1 +1,41 @@
-{"id":"宦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"宦","found":true,"strokeCount":10,"meaning":"official","kunyomi":["つかさ"],"onyomi":["カン"],"onyomiExamples":[{"example":"宦官","reading":"カンガン","meaning":"eunuch"},{"example":"宦者","reading":"カンジャ","meaning":"eunuch"}],"kunyomiExamples":[],"radical":{"symbol":"宀","meaning":"roof"},"parts":["宀","臣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23462_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ba6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ba6.gif","uri":"https://jisho.org/search/%E5%AE%A6%23kanji"}}
+{
+  "id": "宦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "宦",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "official",
+    "kunyomi": [
+      "つかさ"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "宦官",
+        "reading": "カンガン",
+        "meaning": "eunuch"
+      },
+      {
+        "example": "宦者",
+        "reading": "カンジャ",
+        "meaning": "eunuch"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "宀",
+      "臣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23462_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ba6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ba6.gif",
+    "uri": "https://jisho.org/search/%E5%AE%A6%23kanji"
+  }
+}

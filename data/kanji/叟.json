@@ -1,1 +1,44 @@
-{"id":"叟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"叟","found":true,"strokeCount":10,"meaning":"old person","kunyomi":["おきな"],"onyomi":["ソウ","シュウ"],"onyomiExamples":[{"example":"叟","reading":"ソウ","meaning":"old man, venerable gentleman"},{"example":"迂叟","reading":"ウソウ","meaning":"I, me, my humble self"}],"kunyomiExamples":[],"radical":{"symbol":"又","meaning":"right hand"},"parts":["十","又","支","臼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21471_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053df.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53df.gif","uri":"https://jisho.org/search/%E5%8F%9F%23kanji"}}
+{
+  "id": "叟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "叟",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "old person",
+    "kunyomi": [
+      "おきな"
+    ],
+    "onyomi": [
+      "ソウ",
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "叟",
+        "reading": "ソウ",
+        "meaning": "old man, venerable gentleman"
+      },
+      {
+        "example": "迂叟",
+        "reading": "ウソウ",
+        "meaning": "I, me, my humble self"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "又",
+      "meaning": "right hand"
+    },
+    "parts": [
+      "十",
+      "又",
+      "支",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21471_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53df.gif",
+    "uri": "https://jisho.org/search/%E5%8F%9F%23kanji"
+  }
+}

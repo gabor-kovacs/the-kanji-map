@@ -1,1 +1,47 @@
-{"id":"飄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"飄","found":true,"strokeCount":20,"meaning":"turn over, wave","kunyomi":["ひるが.える","つむじかぜ"],"onyomi":["ヒョウ"],"onyomiExamples":[{"example":"飄逸","reading":"ヒョウイツ","meaning":"easygoing, unconventional, happy-go-lucky, light"},{"example":"飄然","reading":"ヒョウゼン","meaning":"casually (come or go), aimlessly, abruptly, unexpectedly, detached (from the world), aloof"}],"kunyomiExamples":[],"radical":{"symbol":"風","meaning":"wind"},"parts":["二","几","小","示","虫","西","風"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39108_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098c4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98c4.gif","uri":"https://jisho.org/search/%E9%A3%84%23kanji"}}
+{
+  "id": "飄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "飄",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "turn over, wave",
+    "kunyomi": [
+      "ひるが.える",
+      "つむじかぜ"
+    ],
+    "onyomi": [
+      "ヒョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "飄逸",
+        "reading": "ヒョウイツ",
+        "meaning": "easygoing, unconventional, happy-go-lucky, light"
+      },
+      {
+        "example": "飄然",
+        "reading": "ヒョウゼン",
+        "meaning": "casually (come or go), aimlessly, abruptly, unexpectedly, detached (from the world), aloof"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "風",
+      "meaning": "wind"
+    },
+    "parts": [
+      "二",
+      "几",
+      "小",
+      "示",
+      "虫",
+      "西",
+      "風"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39108_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98c4.gif",
+    "uri": "https://jisho.org/search/%E9%A3%84%23kanji"
+  }
+}

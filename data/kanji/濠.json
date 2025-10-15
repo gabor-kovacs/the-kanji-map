@@ -1,1 +1,65 @@
-{"id":"濠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"濠","found":true,"strokeCount":17,"meaning":"moat, ditch, canal, Australia","kunyomi":["ほり"],"onyomi":["ゴウ","コウ"],"onyomiExamples":[{"example":"壕","reading":"ゴウ","meaning":"moat, fosse, trench, ditch, underground air-raid shelter, dugout"},{"example":"豪","reading":"ゴウ","meaning":"Australia"},{"example":"環濠","reading":"カンゴウ","meaning":"(circular) moat"},{"example":"水濠","reading":"スイゴウ","meaning":"water jump (on a racetrack, etc.), moat (around a castle, etc.)"}],"kunyomiExamples":[{"example":"堀","reading":"ほり","meaning":"moat, fosse, canal, ditch"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["亠","冖","口","汁","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28640_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fe0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fe0.gif","uri":"https://jisho.org/search/%E6%BF%A0%23kanji"}}
+{
+  "id": "濠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "濠",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "moat, ditch, canal, Australia",
+    "kunyomi": [
+      "ほり"
+    ],
+    "onyomi": [
+      "ゴウ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壕",
+        "reading": "ゴウ",
+        "meaning": "moat, fosse, trench, ditch, underground air-raid shelter, dugout"
+      },
+      {
+        "example": "豪",
+        "reading": "ゴウ",
+        "meaning": "Australia"
+      },
+      {
+        "example": "環濠",
+        "reading": "カンゴウ",
+        "meaning": "(circular) moat"
+      },
+      {
+        "example": "水濠",
+        "reading": "スイゴウ",
+        "meaning": "water jump (on a racetrack, etc.), moat (around a castle, etc.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "堀",
+        "reading": "ほり",
+        "meaning": "moat, fosse, canal, ditch"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "口",
+      "汁",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28640_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fe0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fe0.gif",
+    "uri": "https://jisho.org/search/%E6%BF%A0%23kanji"
+  }
+}

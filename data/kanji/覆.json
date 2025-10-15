@@ -1,1 +1,79 @@
-{"id":"覆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"覆","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1378","strokeCount":18,"meaning":"capsize, cover, shade, mantle, be ruined","kunyomi":["おお.う","くつがえ.す","くつがえ.る"],"onyomi":["フク"],"onyomiExamples":[{"example":"覆","reading":"フク","meaning":"concealment (of one's vices), veil, cover, overturning, toppling"},{"example":"覆面","reading":"フクメン","meaning":"mask, veil, disguise, anonymous, unmarked, incognito"},{"example":"被覆","reading":"ヒフク","meaning":"coating, covering, cover"},{"example":"傾覆","reading":"ケイフク","meaning":"turning upside down"}],"kunyomiExamples":[{"example":"覆う","reading":"おおう","meaning":"to cover, to hide, to conceal, to wrap, to disguise"},{"example":"覆す","reading":"くつがえす","meaning":"to overturn, to capsize, to upset, to overthrow (government etc.), to reverse (decision etc.), to disprove (an established theory etc.), to overrule"},{"example":"覆る","reading":"くつがえる","meaning":"to topple over, to be overturned, to capsize, to be overruled, to be reversed, to be discredited"}],"radical":{"symbol":"西","forms":["襾","覀"],"meaning":"west"},"parts":["乞","夂","彳","日","西"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35206_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08986.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8986.gif","uri":"https://jisho.org/search/%E8%A6%86%23kanji"}}
+{
+  "id": "覆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覆",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1378",
+    "strokeCount": 18,
+    "meaning": "capsize, cover, shade, mantle, be ruined",
+    "kunyomi": [
+      "おお.う",
+      "くつがえ.す",
+      "くつがえ.る"
+    ],
+    "onyomi": [
+      "フク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "覆",
+        "reading": "フク",
+        "meaning": "concealment (of one's vices), veil, cover, overturning, toppling"
+      },
+      {
+        "example": "覆面",
+        "reading": "フクメン",
+        "meaning": "mask, veil, disguise, anonymous, unmarked, incognito"
+      },
+      {
+        "example": "被覆",
+        "reading": "ヒフク",
+        "meaning": "coating, covering, cover"
+      },
+      {
+        "example": "傾覆",
+        "reading": "ケイフク",
+        "meaning": "turning upside down"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "覆う",
+        "reading": "おおう",
+        "meaning": "to cover, to hide, to conceal, to wrap, to disguise"
+      },
+      {
+        "example": "覆す",
+        "reading": "くつがえす",
+        "meaning": "to overturn, to capsize, to upset, to overthrow (government etc.), to reverse (decision etc.), to disprove (an established theory etc.), to overrule"
+      },
+      {
+        "example": "覆る",
+        "reading": "くつがえる",
+        "meaning": "to topple over, to be overturned, to capsize, to be overruled, to be reversed, to be discredited"
+      }
+    ],
+    "radical": {
+      "symbol": "西",
+      "forms": [
+        "襾",
+        "覀"
+      ],
+      "meaning": "west"
+    },
+    "parts": [
+      "乞",
+      "夂",
+      "彳",
+      "日",
+      "西"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35206_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08986.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8986.gif",
+    "uri": "https://jisho.org/search/%E8%A6%86%23kanji"
+  }
+}

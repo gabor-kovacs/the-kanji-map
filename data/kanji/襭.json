@@ -1,1 +1,39 @@
-{"id":"襭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"襭","found":true,"strokeCount":20,"meaning":"tuck into one's obi","kunyomi":["つまばさ.む","はさ.む"],"onyomi":["ケツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["ハ","初","口","土","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35181_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0896d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/896d.gif","uri":"https://jisho.org/search/%E8%A5%AD%23kanji"}}
+{
+  "id": "襭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "襭",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "tuck into one's obi",
+    "kunyomi": [
+      "つまばさ.む",
+      "はさ.む"
+    ],
+    "onyomi": [
+      "ケツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "ハ",
+      "初",
+      "口",
+      "土",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35181_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0896d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/896d.gif",
+    "uri": "https://jisho.org/search/%E8%A5%AD%23kanji"
+  }
+}

@@ -1,1 +1,481 @@
-{"id":"言","kanjialiveData":{"kanji":{"character":"言","meaning":{"english":"say, speech"},"strokes":{"count":7,"timings":[0,1.333,2.4,3.133,4,5.066,6.133,6.733333],"images":["https://media.kanjialive.com/kanji_strokes/gen-i(u)_1.svg","https://media.kanjialive.com/kanji_strokes/gen-i(u)_2.svg","https://media.kanjialive.com/kanji_strokes/gen-i(u)_3.svg","https://media.kanjialive.com/kanji_strokes/gen-i(u)_4.svg","https://media.kanjialive.com/kanji_strokes/gen-i(u)_5.svg","https://media.kanjialive.com/kanji_strokes/gen-i(u)_6.svg","https://media.kanjialive.com/kanji_strokes/gen-i(u)_7.svg"]},"onyomi":{"romaji":"gen, gon","katakana":"ゲン、ゴン"},"kunyomi":{"romaji":"i, iu, koto","hiragana":"い、こと"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/gen-i(u)_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/gen-i(u)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/gen-i(u)_00.webm"}},"radical":{"character":"⾔","strokes":7,"image":"https://media.kanjialive.com/radical_character/gen-word.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"げん","romaji":"gen"},"meaning":{"english":"words, to speak, say"},"animation":["https://media.kanjialive.com/rad_frames/gen-word0.svg","https://media.kanjialive.com/rad_frames/gen-word1.svg","https://media.kanjialive.com/rad_frames/gen-word2.svg"]},"references":{"grade":2,"kodansha":"1233","classic_nelson":"4309"},"examples":[{"japanese":"断言する（だんげんする）","meaning":{"english":"assert"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_a.mp3"}},{"japanese":"証言する（しょうげんする）","meaning":{"english":"testify"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_b.mp3"}},{"japanese":"言語学（げんごがく）","meaning":{"english":"linguistics"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_c.mp3"}},{"japanese":"方言（ほうげん）","meaning":{"english":"dialect"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_d.mp3"}},{"japanese":"伝言する（でんごんする）","meaning":{"english":"leave a message"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_e.mp3"}},{"japanese":"無言（むごん）","meaning":{"english":"silence"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_f.mp3"}},{"japanese":"言う（いう）","meaning":{"english":"say"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_g.mp3"}},{"japanese":"言葉（ことば）","meaning":{"english":"word(s), language"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_h.mp3"}},{"japanese":"一言（ひとこと）","meaning":{"english":"single word"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_i.mp3"}},{"japanese":"独り言（ひとりごと）","meaning":{"english":"soliloquy"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_j.mp3"}},{"japanese":"寝言（ねごと）","meaning":{"english":"talk in one's sleep"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_k.mp3"}}]},"jishoData":{"query":"言","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"83","strokeCount":7,"meaning":"say, word","kunyomi":["い.う","こと"],"onyomi":["ゲン","ゴン"],"onyomiExamples":[{"example":"言","reading":"ゲン","meaning":"word, remark, statement"},{"example":"言及","reading":"ゲンキュウ","meaning":"reference, allusion"},{"example":"過言","reading":"カゴン","meaning":"exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe"},{"example":"狂言","reading":"キョウゲン","meaning":"kyogen, farce presented between noh plays or during the interlude of a noh play, kabuki play, kabuki performance, make-believe, ruse, trick"},{"example":"言語","reading":"ゲンゴ","meaning":"language"},{"example":"言下","reading":"ゲンカ","meaning":"promptly"},{"example":"過言","reading":"カゴン","meaning":"exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe"},{"example":"二言","reading":"ニゴン","meaning":"double-dealing, double tongue, going back on what one has said, repeating oneself"}],"kunyomiExamples":[{"example":"言う","reading":"いう","meaning":"to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"},{"example":"言うまでもない","reading":"いうまでもない","meaning":"goes without saying, needless to say, obvious"},{"example":"言","reading":"げん","meaning":"word, remark, statement"},{"example":"言葉","reading":"ことば","meaning":"language, dialect, word, phrase, expression, term, speech, (manner of) speaking, (use of) language, words, remark, statement, comment, learning to speak, language acquisition"},{"example":"禍言","reading":"まがごと","meaning":"ominous word, ill-omened word, misfortune"},{"example":"二言","reading":"ふたこと","meaning":"two words, repetition"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35328_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a00.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a00.gif","uri":"https://jisho.org/search/%E8%A8%80%23kanji"}}
+{
+  "id": "言",
+  "kanjialiveData": {
+    "_id": "54317ae3791eba5146ee496d",
+    "_rev": "11-6d37506105ef3f54822c7ba6c1e6d180",
+    "rad_name_ja": "げん",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "i, iu, koto",
+    "meaning": "say, speech",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "断言する（だんげんする）",
+        "meaning": {
+          "english": "assert"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "証言する（しょうげんする）",
+        "meaning": {
+          "english": "testify"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "言語学（げんごがく）",
+        "meaning": {
+          "english": "linguistics"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "方言（ほうげん）",
+        "meaning": {
+          "english": "dialect"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "伝言する（でんごんする）",
+        "meaning": {
+          "english": "leave a message"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "無言（むごん）",
+        "meaning": {
+          "english": "silence"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "言う（いう）",
+        "meaning": {
+          "english": "say"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "言葉（ことば）",
+        "meaning": {
+          "english": "word(s), language"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "一言（ひとこと）",
+        "meaning": {
+          "english": "single word"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "独り言（ひとりごと）",
+        "meaning": {
+          "english": "soliloquy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "寝言（ねごと）",
+        "meaning": {
+          "english": "talk in one's sleep"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-i(u)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-i(u)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-i(u)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "い、いう、こと",
+    "ka_utf": "言",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=言",
+    "kname": "gen-i(u)",
+    "rad_order": 182,
+    "txt_books": [
+      {
+        "chapter": "19",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "20"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "24"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "12"
+      }
+    ],
+    "rad_name_search": [
+      "gen"
+    ],
+    "rad_utf": "⾔",
+    "stroketimes": [
+      0,
+      1.333,
+      2.4,
+      3.133,
+      4,
+      5.066,
+      6.133,
+      6.733333
+    ],
+    "kunyomi_ka_display": "い、こと",
+    "dick": "1233",
+    "rad_name": "gen",
+    "dicn": "4309",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 7,
+    "onyomi_ja": "ゲン、ゴン",
+    "rad_meaning": "words, to speak, say",
+    "onyomi": "gen, gon",
+    "ka_id": "ka_194",
+    "onyomi_search": [
+      "gen",
+      "gon",
+      "gen, gon"
+    ],
+    "kunyomi_search": [
+      "i",
+      "iu",
+      "koto",
+      "i, iu, koto"
+    ],
+    "meaning_search": [
+      "say",
+      "speech",
+      "say, speech"
+    ],
+    "onyomi_ja_search": [
+      "ゲン",
+      "ゴン",
+      "ゲン、ゴン"
+    ],
+    "kunyomi_ja_search": [
+      "い",
+      "いう",
+      "こと",
+      "い、いう、こと"
+    ],
+    "rad_meaning_search": [
+      "words",
+      "to speak",
+      "to",
+      "speak",
+      "say",
+      "words, to speak, say"
+    ],
+    "rad_name_ja_search": [
+      "げん"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:19",
+      "cij:c19",
+      "bk",
+      "bk:11",
+      "bk:c11",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v2",
+      "aij3:v2:7",
+      "aij3:v2:c7",
+      "gen",
+      "gen:8",
+      "gen:c8",
+      "ap",
+      "ap:5",
+      "ap:c5",
+      "kll",
+      "kll:5",
+      "kll:c5",
+      "cijr",
+      "cijr:20",
+      "cijr:c20",
+      "cijr",
+      "cijr:24",
+      "cijr:c24",
+      "aij4",
+      "aij4:12",
+      "aij4:c12",
+      "aij4:v1",
+      "aij4:v1:12",
+      "aij4:v1:c12"
+    ],
+    "rad_name_file": "gen-word",
+    "kanji": {
+      "character": "言",
+      "meaning": {
+        "english": "say, speech"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.333,
+          2.4,
+          3.133,
+          4,
+          5.066,
+          6.133,
+          6.733333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/gen-i(u)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/gen-i(u)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/gen-i(u)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/gen-i(u)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/gen-i(u)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/gen-i(u)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/gen-i(u)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "gen, gon",
+        "katakana": "ゲン、ゴン"
+      },
+      "kunyomi": {
+        "romaji": "i, iu, koto",
+        "hiragana": "い、こと"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/gen-i(u)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/gen-i(u)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/gen-i(u)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾔",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/gen-word.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "げん",
+        "romaji": "gen"
+      },
+      "meaning": {
+        "english": "words, to speak, say"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gen-word0.svg",
+        "https://media.kanjialive.com/rad_frames/gen-word1.svg",
+        "https://media.kanjialive.com/rad_frames/gen-word2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1233",
+      "classic_nelson": "4309"
+    }
+  },
+  "jishoData": {
+    "query": "言",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "83",
+    "strokeCount": 7,
+    "meaning": "say, word",
+    "kunyomi": [
+      "い.う",
+      "こと"
+    ],
+    "onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "言",
+        "reading": "ゲン",
+        "meaning": "word, remark, statement"
+      },
+      {
+        "example": "言及",
+        "reading": "ゲンキュウ",
+        "meaning": "reference, allusion"
+      },
+      {
+        "example": "過言",
+        "reading": "カゴン",
+        "meaning": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe"
+      },
+      {
+        "example": "狂言",
+        "reading": "キョウゲン",
+        "meaning": "kyogen, farce presented between noh plays or during the interlude of a noh play, kabuki play, kabuki performance, make-believe, ruse, trick"
+      },
+      {
+        "example": "言語",
+        "reading": "ゲンゴ",
+        "meaning": "language"
+      },
+      {
+        "example": "言下",
+        "reading": "ゲンカ",
+        "meaning": "promptly"
+      },
+      {
+        "example": "過言",
+        "reading": "カゴン",
+        "meaning": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe"
+      },
+      {
+        "example": "二言",
+        "reading": "ニゴン",
+        "meaning": "double-dealing, double tongue, going back on what one has said, repeating oneself"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "言う",
+        "reading": "いう",
+        "meaning": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+      },
+      {
+        "example": "言うまでもない",
+        "reading": "いうまでもない",
+        "meaning": "goes without saying, needless to say, obvious"
+      },
+      {
+        "example": "言",
+        "reading": "げん",
+        "meaning": "word, remark, statement"
+      },
+      {
+        "example": "言葉",
+        "reading": "ことば",
+        "meaning": "language, dialect, word, phrase, expression, term, speech, (manner of) speaking, (use of) language, words, remark, statement, comment, learning to speak, language acquisition"
+      },
+      {
+        "example": "禍言",
+        "reading": "まがごと",
+        "meaning": "ominous word, ill-omened word, misfortune"
+      },
+      {
+        "example": "二言",
+        "reading": "ふたこと",
+        "meaning": "two words, repetition"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35328_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a00.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a00.gif",
+    "uri": "https://jisho.org/search/%E8%A8%80%23kanji"
+  }
+}

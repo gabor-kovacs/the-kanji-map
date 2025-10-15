@@ -1,1 +1,52 @@
-{"id":"鯊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鯊","found":true,"strokeCount":18,"meaning":"goby (fish)","kunyomi":["さめ","はぜ"],"onyomi":["サ","シャ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鯊","reading":"はぜ","meaning":"goby (fish), yellowfin goby (Acanthogobius flavimanus)"},{"example":"糸引鯊","reading":"いとひきはぜ","meaning":"Myersina filifer (species of goby)"},{"example":"紬鯊","reading":"つむぎはぜ","meaning":"yellowfin toxic goby (Yongeichthys criniger), horny goby"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["ノ","小","杰","汁","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39882_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bca.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bca.gif","uri":"https://jisho.org/search/%E9%AF%8A%23kanji"}}
+{
+  "id": "鯊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯊",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "goby (fish)",
+    "kunyomi": [
+      "さめ",
+      "はぜ"
+    ],
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "【ハゼ】",
+        "reading": "goby (fish), yellowfin goby (Acanthogobius flavimanus)",
+        "meaning": ""
+      },
+      {
+        "example": "糸引鯊",
+        "reading": "いとひきはぜ",
+        "meaning": "Myersina filifer (species of goby)"
+      },
+      {
+        "example": "紬鯊",
+        "reading": "つむぎはぜ",
+        "meaning": "yellowfin toxic goby (Yongeichthys criniger), horny goby"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "杰",
+      "汁",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39882_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bca.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bca.gif",
+    "uri": "https://jisho.org/search/%E9%AF%8A%23kanji"
+  }
+}

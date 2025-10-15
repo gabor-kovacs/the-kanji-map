@@ -1,1 +1,82 @@
-{"id":"扇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"扇","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1805","strokeCount":10,"meaning":"fan, folding fan","kunyomi":["おうぎ"],"onyomi":["セン"],"onyomiExamples":[{"example":"扇子","reading":"センス","meaning":"folding fan"},{"example":"扇形","reading":"オウギガタ","meaning":"fan shape, sector"},{"example":"換気扇","reading":"カンキセン","meaning":"ventilation fan, extractor fan"},{"example":"夏炉冬扇","reading":"カロトウセン","meaning":"summer fires and winter fans, useless things"}],"kunyomiExamples":[{"example":"扇","reading":"おうぎ","meaning":"folding fan"},{"example":"扇形","reading":"おうぎがた","meaning":"fan shape, sector"},{"example":"舞扇","reading":"まいおうぎ","meaning":"dancer's fan"},{"example":"絵扇","reading":"えおうぎ","meaning":"fan painted with a picture"}],"radical":{"symbol":"戶","forms":["户","戸"],"meaning":"door, house"},"parts":["一","冫","尸","戸","羽"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25159_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06247.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6247.gif","uri":"https://jisho.org/search/%E6%89%87%23kanji"}}
+{
+  "id": "扇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "扇",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1805",
+    "strokeCount": 10,
+    "meaning": "fan, folding fan",
+    "kunyomi": [
+      "おうぎ"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "扇子",
+        "reading": "センス",
+        "meaning": "folding fan"
+      },
+      {
+        "example": "扇形",
+        "reading": "オウギガタ",
+        "meaning": "fan shape, sector"
+      },
+      {
+        "example": "換気扇",
+        "reading": "カンキセン",
+        "meaning": "ventilation fan, extractor fan"
+      },
+      {
+        "example": "夏炉冬扇",
+        "reading": "カロトウセン",
+        "meaning": "summer fires and winter fans, useless things"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "扇",
+        "reading": "おうぎ",
+        "meaning": "folding fan"
+      },
+      {
+        "example": "扇形",
+        "reading": "おうぎがた",
+        "meaning": "fan shape, sector"
+      },
+      {
+        "example": "舞扇",
+        "reading": "まいおうぎ",
+        "meaning": "dancer's fan"
+      },
+      {
+        "example": "絵扇",
+        "reading": "えおうぎ",
+        "meaning": "fan painted with a picture"
+      }
+    ],
+    "radical": {
+      "symbol": "戶",
+      "forms": [
+        "户",
+        "戸"
+      ],
+      "meaning": "door, house"
+    },
+    "parts": [
+      "一",
+      "冫",
+      "尸",
+      "戸",
+      "羽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25159_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06247.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6247.gif",
+    "uri": "https://jisho.org/search/%E6%89%87%23kanji"
+  }
+}

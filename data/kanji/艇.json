@@ -1,1 +1,53 @@
-{"id":"艇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"艇","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1433","strokeCount":13,"meaning":"rowboat, small boat","kunyomi":[],"onyomi":["テイ"],"onyomiExamples":[{"example":"艇","reading":"テイ","meaning":"boat"},{"example":"艇庫","reading":"テイコ","meaning":"boat-house"},{"example":"艦艇","reading":"カンテイ","meaning":"naval vessels, warships"},{"example":"競艇","reading":"キョウテイ","meaning":"kyōtei, boat race, hydroplane racing event and gambling sport in Japan"}],"kunyomiExamples":[],"radical":{"symbol":"舟","meaning":"boat"},"parts":["廴","王","舟"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33351_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08247.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8247.gif","uri":"https://jisho.org/search/%E8%89%87%23kanji"}}
+{
+  "id": "艇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艇",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1433",
+    "strokeCount": 13,
+    "meaning": "rowboat, small boat",
+    "kunyomi": [],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艇",
+        "reading": "テイ",
+        "meaning": "(small) boat"
+      },
+      {
+        "example": "艇庫",
+        "reading": "テイコ",
+        "meaning": "boat-house"
+      },
+      {
+        "example": "艦艇",
+        "reading": "カンテイ",
+        "meaning": "naval vessels, warships"
+      },
+      {
+        "example": "競艇",
+        "reading": "キョウテイ",
+        "meaning": "kyōtei, boat race, hydroplane racing event and gambling sport in Japan"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "舟",
+      "meaning": "boat"
+    },
+    "parts": [
+      "廴",
+      "王",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33351_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08247.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8247.gif",
+    "uri": "https://jisho.org/search/%E8%89%87%23kanji"
+  }
+}

@@ -1,1 +1,46 @@
-{"id":"慇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"慇","found":true,"strokeCount":14,"meaning":"courtesy","kunyomi":[],"onyomi":["イン"],"onyomiExamples":[{"example":"慇懃","reading":"インギン","meaning":"polite, courteous, civil, friendship, (sexual) intimacy"},{"example":"慇懃丁重","reading":"インギンテイチョウ","meaning":"polite and courteous"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["几","又","心","日","殳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24903_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06147.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6147.gif","uri":"https://jisho.org/search/%E6%85%87%23kanji"}}
+{
+  "id": "慇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慇",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "courtesy",
+    "kunyomi": [],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慇懃",
+        "reading": "インギン",
+        "meaning": "polite, courteous, civil, friendship, (sexual) intimacy"
+      },
+      {
+        "example": "慇懃丁重",
+        "reading": "インギンテイチョウ",
+        "meaning": "polite and courteous"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "几",
+      "又",
+      "心",
+      "日",
+      "殳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24903_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06147.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6147.gif",
+    "uri": "https://jisho.org/search/%E6%85%87%23kanji"
+  }
+}

@@ -1,1 +1,39 @@
-{"id":"鷯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鷯","found":true,"strokeCount":23,"meaning":"wren","kunyomi":[],"onyomi":["リョウ"],"onyomiExamples":[{"example":"鷦鷯","reading":"ミソサザイ","meaning":"winter wren (Troglodytes troglodytes)"}],"kunyomiExamples":[],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["亠","大","小","并","日","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40431_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09def.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9def.gif","uri":"https://jisho.org/search/%E9%B7%AF%23kanji"}}
+{
+  "id": "鷯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鷯",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "wren",
+    "kunyomi": [],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鷦鷯",
+        "reading": "ショウリョウ",
+        "meaning": "winter wren (Troglodytes troglodytes)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "亠",
+      "大",
+      "小",
+      "并",
+      "日",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40431_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09def.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9def.gif",
+    "uri": "https://jisho.org/search/%E9%B7%AF%23kanji"
+  }
+}

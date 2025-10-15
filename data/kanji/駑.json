@@ -1,1 +1,43 @@
-{"id":"駑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"駑","found":true,"strokeCount":15,"meaning":"slow horse, foolish fellow","kunyomi":["にぶ.い"],"onyomi":["ド"],"onyomiExamples":[{"example":"駑鈍","reading":"ドドン","meaning":"dull-witted, stupid, foolish"},{"example":"駑馬","reading":"ドバ","meaning":"hack, inferior horse, inferior person, incapable person"}],"kunyomiExamples":[],"radical":{"symbol":"馬","meaning":"horse"},"parts":["又","女","杰","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39377_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099d1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99d1.gif","uri":"https://jisho.org/search/%E9%A7%91%23kanji"}}
+{
+  "id": "駑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駑",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "slow horse, foolish fellow",
+    "kunyomi": [
+      "にぶ.い"
+    ],
+    "onyomi": [
+      "ド"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駑鈍",
+        "reading": "ドドン",
+        "meaning": "dull-witted, stupid, foolish"
+      },
+      {
+        "example": "駑馬",
+        "reading": "ドバ",
+        "meaning": "hack, inferior horse, inferior person, incapable person"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "又",
+      "女",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39377_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099d1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99d1.gif",
+    "uri": "https://jisho.org/search/%E9%A7%91%23kanji"
+  }
+}

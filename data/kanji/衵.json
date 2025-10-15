@@ -1,1 +1,44 @@
-{"id":"衵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"衵","found":true,"strokeCount":9,"meaning":"everyday clothing, underwear","kunyomi":["あこめ"],"onyomi":["ジツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"衵","reading":"あこめ","meaning":"layer of clothing worn by nobles (worn beneath the robe but over the undergarments)"},{"example":"衵扇","reading":"あこめおうぎ","meaning":"formal folding fan made of hinoki cypress (formerly used by court ladies)"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["初","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34933_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08875.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8875.gif","uri":"https://jisho.org/search/%E8%A1%B5%23kanji"}}
+{
+  "id": "衵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衵",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "everyday clothing, underwear",
+    "kunyomi": [
+      "あこめ"
+    ],
+    "onyomi": [
+      "ジツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "衵",
+        "reading": "あこめ",
+        "meaning": "layer of clothing worn by nobles (worn beneath the robe but over the undergarments)"
+      },
+      {
+        "example": "衵扇",
+        "reading": "あこめおうぎ",
+        "meaning": "formal folding fan made of hinoki cypress (formerly used by court ladies)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "初",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34933_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08875.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8875.gif",
+    "uri": "https://jisho.org/search/%E8%A1%B5%23kanji"
+  }
+}

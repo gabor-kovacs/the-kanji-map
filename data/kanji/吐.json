@@ -1,1 +1,66 @@
-{"id":"吐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"吐","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1674","strokeCount":6,"meaning":"spit, vomit, belch, confess, tell (lies)","kunyomi":["は.く","つ.く"],"onyomi":["ト"],"onyomiExamples":[{"example":"吐露","reading":"トロ","meaning":"expressing one's mind, speaking out"},{"example":"吐息","reading":"トイキ","meaning":"sigh, long breath"},{"example":"噴出性嘔吐","reading":"フンシュツセイオウト","meaning":"projectile vomiting"},{"example":"過食嘔吐","reading":"カショクオウト","meaning":"bulimia"}],"kunyomiExamples":[{"example":"吐く","reading":"はく","meaning":"to vomit, to throw up, to spit up, to emit, to send forth, to breathe out, to give (an opinion), to make (a comment), to express, to tell, to confess"},{"example":"吐く","reading":"つく","meaning":"to breathe out, to breathe, to tell (a lie), to use (foul language), to vomit, to throw up, to spit up"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["口","土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21520_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05410.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5410.gif","uri":"https://jisho.org/search/%E5%90%90%23kanji"}}
+{
+  "id": "吐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吐",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1674",
+    "strokeCount": 6,
+    "meaning": "spit, vomit, belch, confess, tell (lies)",
+    "kunyomi": [
+      "は.く",
+      "つ.く"
+    ],
+    "onyomi": [
+      "ト"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "吐露",
+        "reading": "トロ",
+        "meaning": "expressing one's mind, speaking out"
+      },
+      {
+        "example": "吐息",
+        "reading": "トイキ",
+        "meaning": "sigh, long breath"
+      },
+      {
+        "example": "嘔吐",
+        "reading": "オウト",
+        "meaning": "Nausea (novel by Sartre)"
+      },
+      {
+        "example": "噴出性嘔吐",
+        "reading": "フンシュツセイオウト",
+        "meaning": "projectile vomiting"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "吐く",
+        "reading": "はく",
+        "meaning": "to vomit, to throw up, to spit up, to emit, to send forth, to breathe out, to give (an opinion), to make (a comment), to express, to tell, to confess"
+      },
+      {
+        "example": "吐く",
+        "reading": "つく",
+        "meaning": "to breathe out, to breathe, to tell (a lie), to use (foul language), to vomit, to throw up, to spit up"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "口",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21520_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05410.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5410.gif",
+    "uri": "https://jisho.org/search/%E5%90%90%23kanji"
+  }
+}

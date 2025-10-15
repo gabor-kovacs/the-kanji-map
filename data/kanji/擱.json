@@ -1,1 +1,52 @@
-{"id":"擱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"擱","found":true,"strokeCount":17,"meaning":"lay down, put down","kunyomi":["お.く"],"onyomi":["カク"],"onyomiExamples":[{"example":"擱座","reading":"カクザ","meaning":"running aground, stranding, being disabled (of a tank, train, etc.), being put out of action"},{"example":"擱筆","reading":"カクヒツ","meaning":"stopping writing"}],"kunyomiExamples":[{"example":"措く","reading":"おく","meaning":"to stop (doing something), to cease, to put aside, to leave as is, to leave alone, to exclude, to except"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["口","夂","扎","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25841_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064f1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64f1.gif","uri":"https://jisho.org/search/%E6%93%B1%23kanji"}}
+{
+  "id": "擱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擱",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "lay down, put down",
+    "kunyomi": [
+      "お.く"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "擱座",
+        "reading": "カクザ",
+        "meaning": "running aground, stranding, being disabled (of a tank, train, etc.), being put out of action"
+      },
+      {
+        "example": "擱筆",
+        "reading": "カクヒツ",
+        "meaning": "stopping writing"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "措く",
+        "reading": "おく",
+        "meaning": "to stop (doing something), to cease, to put aside, to leave as is, to leave alone, to exclude, to except"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "扎",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25841_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064f1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64f1.gif",
+    "uri": "https://jisho.org/search/%E6%93%B1%23kanji"
+  }
+}

@@ -1,1 +1,339 @@
-{"id":"春","kanjialiveData":{"kanji":{"character":"春","meaning":{"english":"spring"},"strokes":{"count":9,"timings":[0,1.6,2.4,3.466,4.4,5.733,6.533,7.466,8.266,9.533333],"images":["https://media.kanjialive.com/kanji_strokes/haru_1.svg","https://media.kanjialive.com/kanji_strokes/haru_2.svg","https://media.kanjialive.com/kanji_strokes/haru_3.svg","https://media.kanjialive.com/kanji_strokes/haru_4.svg","https://media.kanjialive.com/kanji_strokes/haru_5.svg","https://media.kanjialive.com/kanji_strokes/haru_6.svg","https://media.kanjialive.com/kanji_strokes/haru_7.svg","https://media.kanjialive.com/kanji_strokes/haru_8.svg","https://media.kanjialive.com/kanji_strokes/haru_9.svg"]},"onyomi":{"romaji":"shun","katakana":"シュン"},"kunyomi":{"romaji":"haru","hiragana":"はる"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/haru_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/haru_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/haru_00.webm"}},"radical":{"character":"⽇","strokes":4,"image":"https://media.kanjialive.com/radical_character/hi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"ひ","romaji":"hi"},"meaning":{"english":"sun, day, time"},"animation":["https://media.kanjialive.com/rad_frames/hi0.svg","https://media.kanjialive.com/rad_frames/hi1.svg","https://media.kanjialive.com/rad_frames/hi2.svg"]},"references":{"grade":2,"kodansha":"1644","classic_nelson":"2122"},"examples":[{"japanese":"春分の日（しゅんぶんのひ）","meaning":{"english":"vernal equinox"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haru_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haru_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haru_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haru_06_a.mp3"}},{"japanese":"青春（せいしゅん）","meaning":{"english":"springtime of life"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haru_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haru_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haru_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haru_06_b.mp3"}},{"japanese":"立春（りっしゅん）","meaning":{"english":"1st day of spring"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haru_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haru_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haru_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haru_06_c.mp3"}},{"japanese":"春（はる）","meaning":{"english":"spring"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/haru_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/haru_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/haru_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/haru_06_d.mp3"}}]},"jishoData":{"query":"春","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"579","strokeCount":9,"meaning":"springtime, spring (season)","kunyomi":["はる"],"onyomi":["シュン"],"onyomiExamples":[{"example":"春秋","reading":"シュンジュウ","meaning":"spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"},{"example":"春季","reading":"シュンキ","meaning":"spring season"},{"example":"昨春","reading":"サクシュン","meaning":"last spring, the spring of last year"},{"example":"売春","reading":"バイシュン","meaning":"prostitution"}],"kunyomiExamples":[{"example":"春","reading":"はる","meaning":"spring, springtime, New Year, prime (of life), height (of one's prosperity), heyday, adolescence, puberty, sexuality, sexual desire"},{"example":"春秋","reading":"しゅんじゅう","meaning":"spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"},{"example":"小春","reading":"こはる","meaning":"10th month of the lunisolar calendar (traditional first month of winter, approx. November), late autumn, late fall"},{"example":"行く春","reading":"ゆくはる","meaning":"the fading of spring"}],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["一","二","人","大","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26149_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06625.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6625.gif","uri":"https://jisho.org/search/%E6%98%A5%23kanji"}}
+{
+  "id": "春",
+  "kanjialiveData": {
+    "_id": "54317ae6791eba5146ee499c",
+    "_rev": "9-c1cc39e1e3450a0818e4676155d696ea",
+    "rad_name_ja": "ひ",
+    "grade": 2,
+    "hint_group": 2,
+    "kunyomi": "haru",
+    "meaning": "spring",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "春分の日（しゅんぶんのひ）",
+        "meaning": {
+          "english": "vernal equinox"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haru_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haru_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haru_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "青春（せいしゅん）",
+        "meaning": {
+          "english": "springtime of life"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haru_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haru_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haru_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "立春（りっしゅん）",
+        "meaning": {
+          "english": "1st day of spring"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haru_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haru_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haru_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "春（はる）",
+        "meaning": {
+          "english": "spring"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/haru_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/haru_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/haru_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "はる",
+    "ka_utf": "春",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=春",
+    "rad_name_search": [
+      "hi"
+    ],
+    "rad_order": 92,
+    "txt_books": [
+      {
+        "chapter": "22",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "26",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "haru",
+    "rad_utf": "⽇",
+    "stroketimes": [
+      0,
+      1.6,
+      2.4,
+      3.466,
+      4.4,
+      5.733,
+      6.533,
+      7.466,
+      8.266,
+      9.533333
+    ],
+    "kunyomi_ka_display": "はる",
+    "dick": "1644",
+    "rad_name": "hi",
+    "dicn": "2122",
+    "mn_hint": "The sun 日 rising higher [34] with greater intensity.",
+    "rad_stroke": 4,
+    "onyomi_ja": "シュン",
+    "rad_meaning": "sun, day, time",
+    "onyomi": "shun",
+    "ka_id": "ka_236",
+    "onyomi_search": [
+      "shun",
+      "shun"
+    ],
+    "kunyomi_search": [
+      "haru",
+      "haru"
+    ],
+    "meaning_search": [
+      "spring",
+      "spring"
+    ],
+    "onyomi_ja_search": [
+      "シュン",
+      "シュン"
+    ],
+    "kunyomi_ja_search": [
+      "はる",
+      "はる"
+    ],
+    "rad_meaning_search": [
+      "sun",
+      "day",
+      "time",
+      "sun, day, time"
+    ],
+    "rad_name_ja_search": [
+      "ひ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:22",
+      "cij:c22",
+      "bk",
+      "bk:26",
+      "bk:c26",
+      "aij3",
+      "aij3:3",
+      "aij3:c3",
+      "aij3:v3",
+      "aij3:v3:3",
+      "aij3:v3:c3",
+      "gen",
+      "gen:19",
+      "gen:c19",
+      "ap",
+      "ap:9",
+      "ap:c9",
+      "kll",
+      "kll:9",
+      "kll:c9"
+    ],
+    "rad_name_file": "hi",
+    "kanji": {
+      "character": "春",
+      "meaning": {
+        "english": "spring"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1.6,
+          2.4,
+          3.466,
+          4.4,
+          5.733,
+          6.533,
+          7.466,
+          8.266,
+          9.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/haru_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/haru_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/haru_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/haru_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/haru_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/haru_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/haru_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/haru_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/haru_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shun",
+        "katakana": "シュン"
+      },
+      "kunyomi": {
+        "romaji": "haru",
+        "hiragana": "はる"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/haru_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/haru_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/haru_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽇",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/hi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ひ",
+        "romaji": "hi"
+      },
+      "meaning": {
+        "english": "sun, day, time"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hi0.svg",
+        "https://media.kanjialive.com/rad_frames/hi1.svg",
+        "https://media.kanjialive.com/rad_frames/hi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1644",
+      "classic_nelson": "2122"
+    }
+  },
+  "jishoData": {
+    "query": "春",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "579",
+    "strokeCount": 9,
+    "meaning": "springtime, spring (season)",
+    "kunyomi": [
+      "はる"
+    ],
+    "onyomi": [
+      "シュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "春秋",
+        "reading": "シュンジュウ",
+        "meaning": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+      },
+      {
+        "example": "春季",
+        "reading": "シュンキ",
+        "meaning": "spring season"
+      },
+      {
+        "example": "昨春",
+        "reading": "サクシュン",
+        "meaning": "last spring, the spring of last year"
+      },
+      {
+        "example": "売春",
+        "reading": "バイシュン",
+        "meaning": "prostitution"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "春",
+        "reading": "はる",
+        "meaning": "spring, springtime, New Year, prime (of life), height (of one's prosperity), heyday, adolescence, puberty, sexuality, sexual desire"
+      },
+      {
+        "example": "春秋",
+        "reading": "しゅんじゅう",
+        "meaning": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+      },
+      {
+        "example": "小春",
+        "reading": "こはる",
+        "meaning": "10th month of the lunisolar calendar (traditional first month of winter, approx. November), late autumn, late fall"
+      },
+      {
+        "example": "毎春",
+        "reading": "まいしゅん",
+        "meaning": "every spring"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "一",
+      "二",
+      "人",
+      "大",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26149_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06625.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6625.gif",
+    "uri": "https://jisho.org/search/%E6%98%A5%23kanji"
+  }
+}

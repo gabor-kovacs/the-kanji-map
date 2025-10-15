@@ -1,1 +1,74 @@
-{"id":"鎮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鎮","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1617","strokeCount":18,"meaning":"tranquilize, ancient peace-preservation centers","kunyomi":["しず.める","しず.まる","おさえ"],"onyomi":["チン"],"onyomiExamples":[{"example":"鎮","reading":"チン","meaning":"a weight, temple supervisor, town (of China)"},{"example":"鎮圧","reading":"チンアツ","meaning":"suppression, subjugation"},{"example":"重鎮","reading":"ジュウチン","meaning":"leader, authority, mainstay"},{"example":"郷鎮","reading":"ゴウチン","meaning":"township and village enterprises (in China), TVE"}],"kunyomiExamples":[{"example":"静める","reading":"しずめる","meaning":"to appease, to suppress, to calm"},{"example":"静まる","reading":"しずまる","meaning":"to become quiet, to quiet down, to quieten down, to calm down, to die down, to subside, to abate, to be suppressed"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ハ","一","十","并","目","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37806_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093ae.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93ae.gif","uri":"https://jisho.org/search/%E9%8E%AE%23kanji"}}
+{
+  "id": "鎮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鎮",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1617",
+    "strokeCount": 18,
+    "meaning": "tranquilize, ancient peace-preservation centers",
+    "kunyomi": [
+      "しず.める",
+      "しず.まる",
+      "おさえ"
+    ],
+    "onyomi": [
+      "チン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鎮",
+        "reading": "チン",
+        "meaning": "a weight, temple supervisor, town (of China)"
+      },
+      {
+        "example": "鎮圧",
+        "reading": "チンアツ",
+        "meaning": "suppression (of a riot, revolt, etc.), repression, putting down, quelling"
+      },
+      {
+        "example": "重鎮",
+        "reading": "ジュウチン",
+        "meaning": "leader, authority, mainstay"
+      },
+      {
+        "example": "郷鎮",
+        "reading": "ゴウチン",
+        "meaning": "township and village enterprises (in China), TVE"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "静める",
+        "reading": "しずめる",
+        "meaning": "to quiet (a child, crowd, etc.), to quieten, to make quiet, to calm (one's nerves, excitement, etc.), to compose (oneself), to appease (someone's anger), to pacify, to settle (e.g. discord), to suppress (a rebellion, riot, fire, etc.), to quell, to put down, to get under control, to relieve (a cough, pain, etc.), to soothe, to alleviate, to ease, to appease (a spirit, soul, etc.), to pacify, to soothe"
+      },
+      {
+        "example": "静まる",
+        "reading": "しずまる",
+        "meaning": "to become quiet, to quiet down, to quieten down, to calm down, to die down, to subside, to abate, to be suppressed"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "十",
+      "并",
+      "目",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37806_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093ae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93ae.gif",
+    "uri": "https://jisho.org/search/%E9%8E%AE%23kanji"
+  }
+}

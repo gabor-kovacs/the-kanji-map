@@ -1,1 +1,71 @@
-{"id":"蕩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蕩","found":true,"strokeCount":15,"meaning":"melt, be charmed, captivated","kunyomi":["とろ.かす","とろ.ける","うご.く"],"onyomi":["トウ"],"onyomiExamples":[{"example":"蕩児","reading":"トウジ","meaning":"libertine"},{"example":"蕩尽","reading":"トウジン","meaning":"squandering, dissipation"},{"example":"放蕩","reading":"ホウトウ","meaning":"dissipation, prodigality, debauchery"},{"example":"駘蕩","reading":"タイトウ","meaning":"large and wide, peaceful and calm"}],"kunyomiExamples":[{"example":"蕩かす","reading":"とろかす","meaning":"to melt (steel, etc.), to liquefy, to soften, to melt (one's heart), to disarm"},{"example":"蕩ける","reading":"とろける","meaning":"to melt (and become soft or liquid), to be enchanted (by), to be charmed, to be bewitched"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","勿","日","汁","艾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34153_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08569.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8569.gif","uri":"https://jisho.org/search/%E8%95%A9%23kanji"}}
+{
+  "id": "蕩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕩",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "melt, be charmed, captivated",
+    "kunyomi": [
+      "とろ.かす",
+      "とろ.ける",
+      "うご.く"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蕩児",
+        "reading": "トウジ",
+        "meaning": "libertine"
+      },
+      {
+        "example": "蕩尽",
+        "reading": "トウジン",
+        "meaning": "squandering, dissipation"
+      },
+      {
+        "example": "放蕩",
+        "reading": "ホウトウ",
+        "meaning": "dissipation, prodigality, debauchery"
+      },
+      {
+        "example": "駘蕩",
+        "reading": "タイトウ",
+        "meaning": "large and wide, peaceful and calm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蕩かす",
+        "reading": "とろかす",
+        "meaning": "to melt (steel, etc.), to liquefy, to soften, to melt (one's heart), to disarm"
+      },
+      {
+        "example": "蕩ける",
+        "reading": "とろける",
+        "meaning": "to melt (and become soft or liquid), to be enchanted (by), to be charmed, to be bewitched"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "勿",
+      "日",
+      "汁",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34153_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08569.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8569.gif",
+    "uri": "https://jisho.org/search/%E8%95%A9%23kanji"
+  }
+}

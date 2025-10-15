@@ -1,1 +1,73 @@
-{"id":"壺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壺","found":true,"strokeCount":12,"meaning":"jar, pot","kunyomi":["つぼ"],"onyomi":["コ"],"onyomiExamples":[{"example":"壺","reading":"コ","meaning":"hu (ancient Chinese vessel shaped like a vase, usually used to store alcohol)"},{"example":"壺中","reading":"コチュウ","meaning":"inside a jar, coward, timid person"},{"example":"投壺","reading":"トウコ","meaning":"pitch-pot (stick-throwing game)"},{"example":"酒壺","reading":"サカツボ","meaning":"sake jar, jar containing alcohol"}],"kunyomiExamples":[{"example":"壺","reading":"つぼ","meaning":"pot, jar, vase, dice cup, depression, basin (e.g. of a waterfall), aim, what one wants, the mark, key point (of a conversation, etc.), essence, acupuncture point, moxibustion point, pressure point, position on the fingerboard (of a shamisen, koto, etc.), target (when aiming an arrow)"},{"example":"壷洗い","reading":"つぼあらい","meaning":"individually \"washing\" a partner's fingers or toes in one's vagina (esp. as a service at a soapland)"},{"example":"肥壺","reading":"こえつぼ","meaning":"chamber pot, jerry"},{"example":"前つぼ","reading":"まえつぼ","meaning":"frontal sandal strap (between the toes)"}],"radical":{"symbol":"士","meaning":"scholar, bachelor"},"parts":["一","冖","士"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22778_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058fa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58fa.gif","uri":"https://jisho.org/search/%E5%A3%BA%23kanji"}}
+{
+  "id": "壺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壺",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "jar, pot",
+    "kunyomi": [
+      "つぼ"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壺",
+        "reading": "コ",
+        "meaning": "hu (ancient Chinese vessel shaped like a vase, usually used to store alcohol)"
+      },
+      {
+        "example": "壺中",
+        "reading": "コチュウ",
+        "meaning": "inside a jar, coward, timid person"
+      },
+      {
+        "example": "投壺",
+        "reading": "トウコ",
+        "meaning": "pitch-pot (stick-throwing game)"
+      },
+      {
+        "example": "唾壺",
+        "reading": "ダコ",
+        "meaning": "spittoon"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "壺",
+        "reading": "つぼ",
+        "meaning": "pot, jar, vase, dice cup, depression, basin (e.g. of a waterfall), aim, what one wants, the mark, key point (of a conversation, etc.), essence, acupuncture point, moxibustion point, pressure point, position on the fingerboard (of a shamisen, koto, etc.), target (when aiming an arrow)"
+      },
+      {
+        "example": "壷洗い",
+        "reading": "つぼあらい",
+        "meaning": "individually \"washing\" a partner's fingers or toes in one's vagina (esp. as a service at a soapland)"
+      },
+      {
+        "example": "肥壺",
+        "reading": "こえつぼ",
+        "meaning": "chamber pot, jerry"
+      },
+      {
+        "example": "前つぼ",
+        "reading": "まえつぼ",
+        "meaning": "frontal sandal strap (between the toes)"
+      }
+    ],
+    "radical": {
+      "symbol": "士",
+      "meaning": "scholar, bachelor"
+    },
+    "parts": [
+      "一",
+      "冖",
+      "士"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22778_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058fa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58fa.gif",
+    "uri": "https://jisho.org/search/%E5%A3%BA%23kanji"
+  }
+}

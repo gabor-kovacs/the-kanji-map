@@ -1,1 +1,45 @@
-{"id":"麾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"麾","found":true,"strokeCount":15,"meaning":"beckon to, command","kunyomi":["さしまね.く","さしずばた"],"onyomi":["キ"],"onyomiExamples":[{"example":"麾下","reading":"キカ","meaning":"under the command (of), under the banner (of), influenced (by)"}],"kunyomiExamples":[],"radical":{"symbol":"麻","meaning":"hemp, flax"},"parts":["广","木","毛","麻"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40638_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ebe.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ebe.gif","uri":"https://jisho.org/search/%E9%BA%BE%23kanji"}}
+{
+  "id": "麾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麾",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "beckon to, command",
+    "kunyomi": [
+      "さしまね.く",
+      "さしずばた"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麾下",
+        "reading": "キカ",
+        "meaning": "under the command (of), under the banner (of), influenced (by)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "差し招く",
+        "reading": "さしまねく",
+        "meaning": "to beckon (to)"
+      }
+    ],
+    "radical": {
+      "symbol": "麻",
+      "meaning": "hemp, flax"
+    },
+    "parts": [
+      "广",
+      "木",
+      "毛",
+      "麻"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40638_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ebe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ebe.gif",
+    "uri": "https://jisho.org/search/%E9%BA%BE%23kanji"
+  }
+}

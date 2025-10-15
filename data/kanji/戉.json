@@ -1,1 +1,31 @@
-{"id":"戉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"戉","found":true,"strokeCount":5,"meaning":"warrior, arms, savage, Ainu","kunyomi":["えびす","まさかり"],"onyomi":["ジュウ","エツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"戈","meaning":"spear, halberd"},"parts":["戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25097_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06209.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6209.gif","uri":"https://jisho.org/search/%E6%88%89%23kanji"}}
+{
+  "id": "戉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戉",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "warrior, arms, savage, Ainu",
+    "kunyomi": [
+      "えびす",
+      "まさかり"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "エツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "spear, halberd"
+    },
+    "parts": [
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25097_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06209.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6209.gif",
+    "uri": "https://jisho.org/search/%E6%88%89%23kanji"
+  }
+}

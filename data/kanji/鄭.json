@@ -1,1 +1,46 @@
-{"id":"鄭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鄭","found":true,"newspaperFrequencyRank":"1732","strokeCount":15,"meaning":"an ancient Chinese province","kunyomi":[],"onyomi":["テイ","ジョウ"],"onyomiExamples":[{"example":"丁重","reading":"テイチョウ","meaning":"polite, courteous, hospitable"},{"example":"鄭氏政権","reading":"テイシセイケン","meaning":"Kingdom of Tungning (Taiwan, 1661-1683), Koxinga dynasty"}],"kunyomiExamples":[],"radical":{"symbol":"邑","forms":["阝"],"meaning":"town (阝 right)"},"parts":["大","并","邦","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37165_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0912d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/912d.gif","uri":"https://jisho.org/search/%E9%84%AD%23kanji"}}
+{
+  "id": "鄭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鄭",
+    "found": true,
+    "newspaperFrequencyRank": "1732",
+    "strokeCount": 15,
+    "meaning": "an ancient Chinese province",
+    "kunyomi": [],
+    "onyomi": [
+      "テイ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丁重",
+        "reading": "テイチョウ",
+        "meaning": "polite, courteous, hospitable"
+      },
+      {
+        "example": "鄭氏政権",
+        "reading": "テイシセイケン",
+        "meaning": "Kingdom of Tungning (Taiwan, 1661-1683), Koxinga dynasty"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "邑",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "town (阝 right)"
+    },
+    "parts": [
+      "大",
+      "并",
+      "邦",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37165_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0912d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/912d.gif",
+    "uri": "https://jisho.org/search/%E9%84%AD%23kanji"
+  }
+}

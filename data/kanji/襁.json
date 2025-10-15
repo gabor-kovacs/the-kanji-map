@@ -1,1 +1,41 @@
-{"id":"襁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"襁","found":true,"strokeCount":16,"meaning":"diaper","kunyomi":["むつき"],"onyomi":["キョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"襁褓","reading":"おしめ","meaning":"diaper, nappy, swaddling clothes, loincloth"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["初","厶","弓","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35137_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08941.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8941.gif","uri":"https://jisho.org/search/%E8%A5%81%23kanji"}}
+{
+  "id": "襁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "襁",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "diaper",
+    "kunyomi": [
+      "むつき"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "襁褓",
+        "reading": "おしめ",
+        "meaning": "diaper, nappy, swaddling clothes, loincloth"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "初",
+      "厶",
+      "弓",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35137_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08941.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8941.gif",
+    "uri": "https://jisho.org/search/%E8%A5%81%23kanji"
+  }
+}

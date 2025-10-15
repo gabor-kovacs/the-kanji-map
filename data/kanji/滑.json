@@ -1,1 +1,74 @@
-{"id":"滑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"滑","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1238","strokeCount":13,"meaning":"slippery, slide, slip, fail exam","kunyomi":["すべ.る","なめ.らか"],"onyomi":["カツ","コツ"],"onyomiExamples":[{"example":"滑落","reading":"カツラク","meaning":"sliding down (a slope, mountainside), slipping down"},{"example":"滑液","reading":"カツエキ","meaning":"synovial fluid"},{"example":"平滑","reading":"ヘイカツ","meaning":"smooth, even, level, flat"},{"example":"粘滑","reading":"ネンカツ","meaning":"mucilaginous, demulcent"}],"kunyomiExamples":[{"example":"滑る","reading":"すべる","meaning":"to glide, to slide (e.g. on skis), to slip, to fail (an examination), to bomb (when telling a joke), to drop, to go down, to come down, to fall (e.g. in status)"},{"example":"滑らか","reading":"なめらか","meaning":"smooth (of a surface), glassy, velvety, soft, smooth (of an action, proceedings, etc.), fluent (speech), fluid, trouble-free, continuously differentiable"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["冂","冖","月","汁","骨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28369_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ed1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ed1.gif","uri":"https://jisho.org/search/%E6%BB%91%23kanji"}}
+{
+  "id": "滑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滑",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1238",
+    "strokeCount": 13,
+    "meaning": "slippery, slide, slip, fail exam",
+    "kunyomi": [
+      "すべ.る",
+      "なめ.らか"
+    ],
+    "onyomi": [
+      "カツ",
+      "コツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "滑落",
+        "reading": "カツラク",
+        "meaning": "sliding down (a slope, mountainside), slipping down"
+      },
+      {
+        "example": "滑液",
+        "reading": "カツエキ",
+        "meaning": "synovial fluid"
+      },
+      {
+        "example": "平滑",
+        "reading": "ヘイカツ",
+        "meaning": "smooth, even, level, flat"
+      },
+      {
+        "example": "粘滑",
+        "reading": "ネンカツ",
+        "meaning": "mucilaginous, demulcent"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "滑る",
+        "reading": "すべる",
+        "meaning": "to slide, to glide, to skate, to ski, to slip, to skid, to be slippery, to fail (an examination), to lose (a position), to be demoted, to bomb (when telling a joke), to fall flat"
+      },
+      {
+        "example": "滑らか",
+        "reading": "なめらか",
+        "meaning": "smooth (of a surface), glassy, velvety, soft, smooth (of an action, proceedings, etc.), fluent (speech), fluid, trouble-free, continuously differentiable"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "冂",
+      "冖",
+      "月",
+      "汁",
+      "骨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28369_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ed1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ed1.gif",
+    "uri": "https://jisho.org/search/%E6%BB%91%23kanji"
+  }
+}

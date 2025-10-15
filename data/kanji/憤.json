@@ -1,1 +1,68 @@
-{"id":"憤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"憤","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1863","strokeCount":15,"meaning":"aroused, resent, be indignant, anger","kunyomi":["いきどお.る"],"onyomi":["フン"],"onyomiExamples":[{"example":"憤慨","reading":"フンガイ","meaning":"indignation, resentment"},{"example":"憤激","reading":"フンゲキ","meaning":"fury"},{"example":"公憤","reading":"コウフン","meaning":"public indignation, anger (as a citizen)"},{"example":"痛憤","reading":"ツウフン","meaning":"strong indignation"}],"kunyomiExamples":[{"example":"憤る","reading":"いきどおる","meaning":"to be angry, to resent, to be enraged, to be indignant"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ハ","十","忙","目","艾","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24996_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061a4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61a4.gif","uri":"https://jisho.org/search/%E6%86%A4%23kanji"}}
+{
+  "id": "憤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憤",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1863",
+    "strokeCount": 15,
+    "meaning": "aroused, resent, be indignant, anger",
+    "kunyomi": [
+      "いきどお.る"
+    ],
+    "onyomi": [
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憤慨",
+        "reading": "フンガイ",
+        "meaning": "indignation, resentment"
+      },
+      {
+        "example": "憤激",
+        "reading": "フンゲキ",
+        "meaning": "fury, flying into a rage, outrage"
+      },
+      {
+        "example": "公憤",
+        "reading": "コウフン",
+        "meaning": "public indignation, anger (as a citizen)"
+      },
+      {
+        "example": "痛憤",
+        "reading": "ツウフン",
+        "meaning": "strong indignation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "憤る",
+        "reading": "いきどおる",
+        "meaning": "to be angry, to resent, to be enraged, to be indignant"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ハ",
+      "十",
+      "忙",
+      "目",
+      "艾",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24996_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061a4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61a4.gif",
+    "uri": "https://jisho.org/search/%E6%86%A4%23kanji"
+  }
+}

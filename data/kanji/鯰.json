@@ -1,1 +1,55 @@
-{"id":"鯰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鯰","found":true,"strokeCount":19,"meaning":"fresh-water catfish, (kokuji)","kunyomi":["なまず"],"onyomi":["ネン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鯰","reading":"なまず","meaning":"catfish (esp. the Amur catfish, Silurus asotus), earthquake"},{"example":"鯰絵","reading":"なまずえ","meaning":"woodblock print depicting a giant catfish (popular in Edo after the 1855 earthquake)"},{"example":"大ナマズ","reading":"だいナマズ","meaning":"giant catfish (mythological being thought to cause earthquakes)"},{"example":"琵琶湖大鯰","reading":"びわこおおなまず","meaning":"Lake Biwa catfish (Silurus biwaensis)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["一","个","心","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39920_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bf0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bf0.gif","uri":"https://jisho.org/search/%E9%AF%B0%23kanji"}}
+{
+  "id": "鯰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯰",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "fresh-water catfish, (kokuji)",
+    "kunyomi": [
+      "なまず"
+    ],
+    "onyomi": [
+      "ネン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鯰",
+        "reading": "なまず",
+        "meaning": "catfish (esp. the Amur catfish, Silurus asotus), earthquake"
+      },
+      {
+        "example": "鯰絵",
+        "reading": "なまずえ",
+        "meaning": "woodblock print depicting a giant catfish (popular in Edo after the 1855 earthquake)"
+      },
+      {
+        "example": "大ナマズ",
+        "reading": "だいナマズ",
+        "meaning": "giant catfish (mythological being thought to cause earthquakes)"
+      },
+      {
+        "example": "琵琶湖大鯰",
+        "reading": "びわこおおなまず",
+        "meaning": "Lake Biwa catfish (Silurus biwaensis)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "一",
+      "个",
+      "心",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39920_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bf0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bf0.gif",
+    "uri": "https://jisho.org/search/%E9%AF%B0%23kanji"
+  }
+}

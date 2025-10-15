@@ -1,1 +1,51 @@
-{"id":"榮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"榮","found":true,"strokeCount":14,"meaning":"flourish, prosperity, honour, glory, splendour","kunyomi":["さか.える","は.える","え"],"onyomi":["エイ","ヨウ"],"onyomiExamples":[{"example":"栄耀栄華","reading":"エイヨウエイガ","meaning":"wealth, prosperity, and arrogant splendor (splendour), (living sumptuously) intoxicated by wealth and power, luxury"}],"kunyomiExamples":[{"example":"栄耀栄華","reading":"えいようえいが","meaning":"wealth, prosperity, and arrogant splendor (splendour), (living sumptuously) intoxicated by wealth and power, luxury"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["冖","木","火"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27054_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069ae.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69ae.gif","uri":"https://jisho.org/search/%E6%A6%AE%23kanji"}}
+{
+  "id": "榮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "榮",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "flourish, prosperity, honour, glory, splendour",
+    "kunyomi": [
+      "さか.える",
+      "は.える",
+      "え"
+    ],
+    "onyomi": [
+      "エイ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "栄耀栄華",
+        "reading": "エイヨウエイガ",
+        "meaning": "wealth, prosperity, and arrogant splendor (splendour), (living sumptuously) intoxicated by wealth and power, luxury"
+      },
+      {
+        "example": "日榮",
+        "reading": "ニチエイ",
+        "meaning": "Nichiei"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "栄耀栄華",
+        "reading": "えいようえいが",
+        "meaning": "wealth, prosperity, and arrogant splendor (splendour), (living sumptuously) intoxicated by wealth and power, luxury"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "冖",
+      "木",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27054_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069ae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69ae.gif",
+    "uri": "https://jisho.org/search/%E6%A6%AE%23kanji"
+  }
+}

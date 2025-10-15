@@ -1,1 +1,41 @@
-{"id":"菽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"菽","found":true,"strokeCount":11,"meaning":"beans","kunyomi":["まめ"],"onyomi":["シュク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"豆","reading":"まめ","meaning":"legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses), bean, pea, soya bean (Glycine max), soybean, soy, female genitalia (esp. the clitoris), kidney, small, miniature, baby, midget, small-scale, child"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["卜","又","小","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33789_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083fd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83fd.gif","uri":"https://jisho.org/search/%E8%8F%BD%23kanji"}}
+{
+  "id": "菽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "菽",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "beans",
+    "kunyomi": [
+      "まめ"
+    ],
+    "onyomi": [
+      "シュク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "豆",
+        "reading": "まめ",
+        "meaning": "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses), bean, pea, soya bean (Glycine max), soybean, soy, female genitalia (esp. the clitoris), kidney, small, miniature, baby, midget, small-scale, child"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "卜",
+      "又",
+      "小",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33789_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083fd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83fd.gif",
+    "uri": "https://jisho.org/search/%E8%8F%BD%23kanji"
+  }
+}

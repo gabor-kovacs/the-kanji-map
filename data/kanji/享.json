@@ -1,1 +1,62 @@
-{"id":"享","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"享","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1893","strokeCount":8,"meaning":"enjoy, receive, undergo, answer (phone), take, get, catch","kunyomi":["う.ける"],"onyomi":["キョウ","コウ"],"onyomiExamples":[{"example":"享受","reading":"キョウジュ","meaning":"reception, acceptance, enjoyment, being given"},{"example":"饗宴","reading":"キョウエン","meaning":"feast, banquet"},{"example":"永享","reading":"エイキョウ","meaning":"Eikyō era (1429.9.5-1441.2.17)"},{"example":"貞享","reading":"ジョウキョウ","meaning":"Jōkyō era (1684.2.21-1688.9.30)"}],"kunyomiExamples":[{"example":"受ける","reading":"うける","meaning":"to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"}],"radical":{"symbol":"亠","meaning":"lid"},"parts":["亠","口","子"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20139_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eab.gif","uri":"https://jisho.org/search/%E4%BA%AB%23kanji"}}
+{
+  "id": "享",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "享",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1893",
+    "strokeCount": 8,
+    "meaning": "enjoy, receive, undergo, answer (phone), take, get, catch",
+    "kunyomi": [
+      "う.ける"
+    ],
+    "onyomi": [
+      "キョウ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "享受",
+        "reading": "キョウジュ",
+        "meaning": "enjoyment (of freedom, beauty, etc.), reception (of a right, privilege, rank, etc.), having"
+      },
+      {
+        "example": "饗宴",
+        "reading": "キョウエン",
+        "meaning": "feast, banquet"
+      },
+      {
+        "example": "永享",
+        "reading": "エイキョウ",
+        "meaning": "Eikyō era (1429.9.5-1441.2.17)"
+      },
+      {
+        "example": "貞享",
+        "reading": "ジョウキョウ",
+        "meaning": "Jōkyō era (1684.2.21-1688.9.30)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "受ける",
+        "reading": "うける",
+        "meaning": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+      }
+    ],
+    "radical": {
+      "symbol": "亠",
+      "meaning": "lid"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "子"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20139_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eab.gif",
+    "uri": "https://jisho.org/search/%E4%BA%AB%23kanji"
+  }
+}

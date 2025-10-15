@@ -1,1 +1,68 @@
-{"id":"屈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"屈","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1434","strokeCount":8,"meaning":"yield, bend, flinch, submit","kunyomi":["かが.む","かが.める"],"onyomi":["クツ"],"onyomiExamples":[{"example":"屈辱","reading":"クツジョク","meaning":"disgrace, humiliation"},{"example":"屈従","reading":"クツジュウ","meaning":"servile submission, subservience"},{"example":"背屈","reading":"ハイクツ","meaning":"dorsiflexion, dorsal flexion"},{"example":"後屈","reading":"コウクツ","meaning":"retroflexion"}],"kunyomiExamples":[{"example":"屈む","reading":"かがむ","meaning":"to stoop, to lean over, to bend forward, to bend down, to crouch, to squat"},{"example":"屈める","reading":"かがめる","meaning":"to stoop, to bend (e.g. one's knees)"}],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["凵","尸","山","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23624_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c48.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c48.gif","uri":"https://jisho.org/search/%E5%B1%88%23kanji"}}
+{
+  "id": "屈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屈",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1434",
+    "strokeCount": 8,
+    "meaning": "yield, bend, flinch, submit",
+    "kunyomi": [
+      "かが.む",
+      "かが.める"
+    ],
+    "onyomi": [
+      "クツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "屈辱",
+        "reading": "クツジョク",
+        "meaning": "disgrace, humiliation"
+      },
+      {
+        "example": "屈従",
+        "reading": "クツジュウ",
+        "meaning": "servile submission, subservience"
+      },
+      {
+        "example": "背屈",
+        "reading": "ハイクツ",
+        "meaning": "dorsiflexion, dorsal flexion"
+      },
+      {
+        "example": "後屈",
+        "reading": "コウクツ",
+        "meaning": "retroflexion"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "屈む",
+        "reading": "かがむ",
+        "meaning": "to stoop, to lean over, to bend forward, to bend down, to crouch, to squat"
+      },
+      {
+        "example": "屈める",
+        "reading": "かがめる",
+        "meaning": "to stoop, to bend (e.g. one's knees)"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "凵",
+      "尸",
+      "山",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23624_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c48.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c48.gif",
+    "uri": "https://jisho.org/search/%E5%B1%88%23kanji"
+  }
+}

@@ -1,1 +1,81 @@
-{"id":"乞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"乞","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2478","strokeCount":3,"meaning":"beg, invite, ask","kunyomi":["こ.う"],"onyomi":["コツ","キツ","キ","キケ","コチ"],"onyomiExamples":[{"example":"乞食","reading":"コジキ","meaning":"beggar, begging"},{"example":"乞丐","reading":"コツガイ","meaning":"beggar, bum"},{"example":"行乞","reading":"ギョウコツ","meaning":"going on an alms round (for food), going begging (for food), going to ask for alms of food, pindacara"},{"example":"乞巧奠","reading":"キッコウデン","meaning":"Festival to Plead for Skills (progenitor festival of Tanabata)"},{"example":"乞丐","reading":"コツガイ","meaning":"beggar, bum"}],"kunyomiExamples":[{"example":"乞う","reading":"こう","meaning":"to beg, to ask, to request, to invite, to pray, to wish"},{"example":"乞高評","reading":"こうこうひょう","meaning":"with the author's compliments"}],"radical":{"symbol":"乛","forms":["乙","⺄","乚"],"meaning":"second"},"parts":["ノ","一","乙","乞","人"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20062_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e5e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e5e.gif","uri":"https://jisho.org/search/%E4%B9%9E%23kanji"}}
+{
+  "id": "乞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "乞",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2478",
+    "strokeCount": 3,
+    "meaning": "beg, invite, ask",
+    "kunyomi": [
+      "こ.う"
+    ],
+    "onyomi": [
+      "コツ",
+      "キツ",
+      "キ",
+      "キケ",
+      "コチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "乞食",
+        "reading": "コジキ",
+        "meaning": "beggar, begging"
+      },
+      {
+        "example": "乞丐",
+        "reading": "コツガイ",
+        "meaning": "beggar, bum"
+      },
+      {
+        "example": "行乞",
+        "reading": "ギョウコツ",
+        "meaning": "going on an alms round (for food), going begging (for food), going to ask for alms of food, pindacara"
+      },
+      {
+        "example": "乞巧奠",
+        "reading": "キッコウデン",
+        "meaning": "Festival to Plead for Skills (progenitor festival of Tanabata)"
+      },
+      {
+        "example": "乞丐",
+        "reading": "コツガイ",
+        "meaning": "beggar, bum"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "乞う",
+        "reading": "こう",
+        "meaning": "to beg, to ask, to request, to invite, to pray, to wish"
+      },
+      {
+        "example": "乞高評",
+        "reading": "こうこうひょう",
+        "meaning": "with the author's compliments"
+      }
+    ],
+    "radical": {
+      "symbol": "乛",
+      "forms": [
+        "乙",
+        "⺄",
+        "乚"
+      ],
+      "meaning": "second"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乙",
+      "乞",
+      "人"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20062_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e5e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e5e.gif",
+    "uri": "https://jisho.org/search/%E4%B9%9E%23kanji"
+  }
+}

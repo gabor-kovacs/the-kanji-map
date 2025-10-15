@@ -1,1 +1,26 @@
-{"id":"坴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"坴","found":true,"strokeCount":8,"meaning":"clod of earth, land","kunyomi":[],"onyomi":["リク","ロク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22388_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05774.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5774.gif","uri":"https://jisho.org/search/%E5%9D%B4%23kanji"}}
+{
+  "id": "坴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "坴",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "clod of earth, land",
+    "kunyomi": [],
+    "onyomi": [
+      "リク",
+      "ロク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22388_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05774.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5774.gif",
+    "uri": "https://jisho.org/search/%E5%9D%B4%23kanji"
+  }
+}

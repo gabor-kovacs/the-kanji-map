@@ -1,1 +1,59 @@
-{"id":"杭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"杭","found":true,"newspaperFrequencyRank":"2329","strokeCount":8,"meaning":"stake, post, picket","kunyomi":["くい"],"onyomi":["コウ"],"onyomiExamples":[{"example":"杭州","reading":"コウシュウ","meaning":"Hangzhou (China)"}],"kunyomiExamples":[{"example":"杭","reading":"くい","meaning":"stake, post, pile, picket, stump"},{"example":"株","reading":"くいぜ","meaning":"stump"},{"example":"支持杭","reading":"しじぐい","meaning":"bearing pile"},{"example":"焼けぼっくい","reading":"やけぼっくい","meaning":"charred stake, ember"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["亠","几","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26477_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0676d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/676d.gif","uri":"https://jisho.org/search/%E6%9D%AD%23kanji"}}
+{
+  "id": "杭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杭",
+    "found": true,
+    "newspaperFrequencyRank": "2329",
+    "strokeCount": 8,
+    "meaning": "stake, post, picket",
+    "kunyomi": [
+      "くい"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "杭州",
+        "reading": "コウシュウ",
+        "meaning": "Hangzhou (China)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "杭",
+        "reading": "くい",
+        "meaning": "stake, post, pile, picket, stump"
+      },
+      {
+        "example": "株",
+        "reading": "くいぜ",
+        "meaning": "stump"
+      },
+      {
+        "example": "肉杭",
+        "reading": "にくくい",
+        "meaning": "penis, dick"
+      },
+      {
+        "example": "支持杭",
+        "reading": "しじぐい",
+        "meaning": "bearing pile"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "亠",
+      "几",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26477_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0676d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/676d.gif",
+    "uri": "https://jisho.org/search/%E6%9D%AD%23kanji"
+  }
+}

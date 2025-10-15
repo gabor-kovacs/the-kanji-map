@@ -1,1 +1,53 @@
-{"id":"澁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"澁","found":true,"strokeCount":15,"meaning":"astringent, harsh, uneven, rough","kunyomi":["しぶ","しぶ.い","しぶ.る"],"onyomi":["ジュウ","シュウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"渋い","reading":"しぶい","meaning":"astringent, bitter, puckery, rough, harsh, tart, austere, elegant (and unobtrusive), refined, quiet (and simple), sober, sombre, subdued, tasteful (in a quiet way), understated, sour (look), glum, grim, sullen, sulky, stingy, tight-fisted"},{"example":"渋い","reading":"しぶい","meaning":"astringent, bitter, puckery, rough, harsh, tart, austere, elegant (and unobtrusive), refined, quiet (and simple), sober, sombre, subdued, tasteful (in a quiet way), understated, sour (look), glum, grim, sullen, sulky, stingy, tight-fisted"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["止","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28545_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f81.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f81.gif","uri":"https://jisho.org/search/%E6%BE%81%23kanji"}}
+{
+  "id": "澁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "澁",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "astringent, harsh, uneven, rough",
+    "kunyomi": [
+      "しぶ",
+      "しぶ.い",
+      "しぶ.る"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "シュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "渋い",
+        "reading": "しぶい",
+        "meaning": "astringent, bitter, puckery, rough, harsh, tart, austere, elegant (and unobtrusive), refined, quiet (and simple), sober, sombre, subdued, tasteful (in a quiet way), understated, sour (look), glum, grim, sullen, sulky, stingy, tight-fisted"
+      },
+      {
+        "example": "渋谷",
+        "reading": "しぶや",
+        "meaning": "Shibuya City (special ward of Tokyo), Shibuya"
+      },
+      {
+        "example": "渋い",
+        "reading": "しぶい",
+        "meaning": "astringent, bitter, puckery, rough, harsh, tart, austere, elegant (and unobtrusive), refined, quiet (and simple), sober, sombre, subdued, tasteful (in a quiet way), understated, sour (look), glum, grim, sullen, sulky, stingy, tight-fisted"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "止",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28545_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f81.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f81.gif",
+    "uri": "https://jisho.org/search/%E6%BE%81%23kanji"
+  }
+}

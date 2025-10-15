@@ -1,1 +1,60 @@
-{"id":"冑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冑","found":true,"strokeCount":9,"meaning":"helmet","kunyomi":["かぶと","よろい"],"onyomi":["チュウ"],"onyomiExamples":[{"example":"甲冑","reading":"カッチュウ","meaning":"armor and helmet (armour)"},{"example":"華冑","reading":"カチュウ","meaning":"aristocracy, nobility"}],"kunyomiExamples":[{"example":"兜","reading":"かぶと","meaning":"helmet (of a warrior), headpiece"},{"example":"兜魚","reading":"かぶとうお","meaning":"large-headed midnight fish (Poromitra crassiceps), armored fish, armoured fish"},{"example":"内兜","reading":"うちかぶと","meaning":"inside of a helmet, hidden circumstances"}],"radical":{"symbol":"冂","meaning":"open country"},"parts":["二","冂","月","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20881_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05191.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5191.gif","uri":"https://jisho.org/search/%E5%86%91%23kanji"}}
+{
+  "id": "冑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冑",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "helmet",
+    "kunyomi": [
+      "かぶと",
+      "よろい"
+    ],
+    "onyomi": [
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "甲冑",
+        "reading": "カッチュウ",
+        "meaning": "armor and helmet"
+      },
+      {
+        "example": "華冑",
+        "reading": "カチュウ",
+        "meaning": "aristocracy, nobility"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "兜",
+        "reading": "かぶと",
+        "meaning": "helmet (of a warrior), headpiece"
+      },
+      {
+        "example": "兜魚",
+        "reading": "かぶとうお",
+        "meaning": "large-headed midnight fish (Poromitra crassiceps), armored fish, armoured fish"
+      },
+      {
+        "example": "内兜",
+        "reading": "うちかぶと",
+        "meaning": "inside of a helmet, hidden circumstances"
+      }
+    ],
+    "radical": {
+      "symbol": "冂",
+      "meaning": "open country"
+    },
+    "parts": [
+      "二",
+      "冂",
+      "月",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20881_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05191.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5191.gif",
+    "uri": "https://jisho.org/search/%E5%86%91%23kanji"
+  }
+}

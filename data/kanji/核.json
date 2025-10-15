@@ -1,1 +1,55 @@
-{"id":"核","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"核","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"475","strokeCount":10,"meaning":"nucleus, core, kernel","kunyomi":[],"onyomi":["カク"],"onyomiExamples":[{"example":"核","reading":"カク","meaning":"stone (of a fruit), pit, pip, core (of an organization, team, etc.), nucleus, heart, nuclear weapons, nucleus (of an atom), nucleus (of a cell), condensation nucleus, (planetary) core, ring (in a cyclic compound), kernel, core, nucleus (of a cultured pearl)"},{"example":"核家族","reading":"カクカゾク","meaning":"nuclear family"},{"example":"中核","reading":"チュウカク","meaning":"kernel, core, nucleus, center, centre"},{"example":"放射性同位核","reading":"ホウシャセイドウイカク","meaning":"radioisotope"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["ノ","丶","亠","人","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26680_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06838.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6838.gif","uri":"https://jisho.org/search/%E6%A0%B8%23kanji"}}
+{
+  "id": "核",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "核",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "475",
+    "strokeCount": 10,
+    "meaning": "nucleus, core, kernel",
+    "kunyomi": [],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "核",
+        "reading": "カク",
+        "meaning": "stone (of a fruit), pit, pip, core (of an organization, team, etc.), nucleus, heart, nuclear weapons, nucleus (of an atom), nucleus (of a cell), condensation nucleus, (planetary) core, ring (in a cyclic compound), kernel, core, nucleus (of a cultured pearl)"
+      },
+      {
+        "example": "核家族",
+        "reading": "カクカゾク",
+        "meaning": "nuclear family"
+      },
+      {
+        "example": "中核",
+        "reading": "チュウカク",
+        "meaning": "kernel, core, nucleus, center, centre"
+      },
+      {
+        "example": "放射性同位核",
+        "reading": "ホウシャセイドウイカク",
+        "meaning": "radioisotope"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26680_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06838.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6838.gif",
+    "uri": "https://jisho.org/search/%E6%A0%B8%23kanji"
+  }
+}

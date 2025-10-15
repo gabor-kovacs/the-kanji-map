@@ -1,1 +1,79 @@
-{"id":"鬼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鬼","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1557","strokeCount":10,"meaning":"ghost, devil","kunyomi":["おに","おに-"],"onyomi":["キ"],"onyomiExamples":[{"example":"鬼","reading":"オニ","meaning":"ogre, demon, oni, spirit of a deceased person, ogre-like person (i.e. fierce, relentless, merciless, etc.), it (in a game of tag, hide-and-seek, etc.), Chinese \"ghost\" constellation (one of the 28 mansions), very, extremely, super-"},{"example":"鬼神","reading":"キシン","meaning":"fierce god"},{"example":"債鬼","reading":"サイキ","meaning":"cruel creditor, bill collector"},{"example":"窮鬼","reading":"キュウキ","meaning":"god of poverty, vengeful spirit"}],"kunyomiExamples":[{"example":"鬼","reading":"おに","meaning":"ogre, demon, oni, spirit of a deceased person, ogre-like person (i.e. fierce, relentless, merciless, etc.), it (in a game of tag, hide-and-seek, etc.), Chinese \"ghost\" constellation (one of the 28 mansions), very, extremely, super-"},{"example":"鬼神","reading":"きしん","meaning":"fierce god"},{"example":"青鬼","reading":"あおおに","meaning":"(horned) blue demon, blue ogre"},{"example":"赤鬼","reading":"あかおに","meaning":"red-horned demon, red ogre"}],"radical":{"symbol":"鬼","meaning":"ghost, demon"},"parts":["儿","匕","厶","田","鬼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39740_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b3c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b3c.gif","uri":"https://jisho.org/search/%E9%AC%BC%23kanji"}}
+{
+  "id": "鬼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鬼",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1557",
+    "strokeCount": 10,
+    "meaning": "ghost, devil",
+    "kunyomi": [
+      "おに",
+      "おに-"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鬼",
+        "reading": "オニ",
+        "meaning": "ogre, demon, oni, spirit of a deceased person, ogre-like person (i.e. fierce, relentless, merciless, etc.), it (in a game of tag, hide-and-seek, etc.), Chinese \"ghost\" constellation (one of the 28 mansions), very, extremely, super-"
+      },
+      {
+        "example": "鬼神",
+        "reading": "キシン",
+        "meaning": "fierce god"
+      },
+      {
+        "example": "債鬼",
+        "reading": "サイキ",
+        "meaning": "cruel creditor, bill collector"
+      },
+      {
+        "example": "豪鬼",
+        "reading": "ゴウキ",
+        "meaning": "Akuma (Street Fighter)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鬼",
+        "reading": "おに",
+        "meaning": "ogre, demon, oni, spirit of a deceased person, ogre-like person (i.e. fierce, relentless, merciless, etc.), it (in a game of tag, hide-and-seek, etc.), Chinese \"ghost\" constellation (one of the 28 mansions), very, extremely, super-"
+      },
+      {
+        "example": "鬼神",
+        "reading": "きしん",
+        "meaning": "fierce god"
+      },
+      {
+        "example": "青鬼",
+        "reading": "あおおに",
+        "meaning": "(horned) blue demon, blue ogre"
+      },
+      {
+        "example": "赤鬼",
+        "reading": "あかおに",
+        "meaning": "red-horned demon, red ogre"
+      }
+    ],
+    "radical": {
+      "symbol": "鬼",
+      "meaning": "ghost, demon"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "田",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39740_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b3c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b3c.gif",
+    "uri": "https://jisho.org/search/%E9%AC%BC%23kanji"
+  }
+}

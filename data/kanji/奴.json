@@ -1,1 +1,96 @@
-{"id":"奴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"奴","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1932","strokeCount":5,"meaning":"guy, slave, manservant, fellow","kunyomi":["やつ","やっこ"],"onyomi":["ド"],"onyomiExamples":[{"example":"奴隷","reading":"ドレイ","meaning":"slave, servant, slavery"},{"example":"奴智鮫","reading":"ドチザメ","meaning":"banded houndshark (Triakis scyllium, found in the northwest Pacific from southern Siberia to Taiwan)"},{"example":"売国奴","reading":"バイコクド","meaning":"traitor (to one's country), quisling"},{"example":"農奴","reading":"ノウド","meaning":"serf"}],"kunyomiExamples":[{"example":"奴","reading":"やつ","meaning":"fellow, guy, chap, thing, object, he, she, him, her"},{"example":"臣","reading":"やつこ","meaning":"slave, retainer, servant, captive, varlet, I, me"},{"example":"懲りない奴","reading":"こりないやつ","meaning":"person (generally male) who won't learn their lesson, persistent jerk"},{"example":"何奴","reading":"どいつ","meaning":"who"},{"example":"奴","reading":"やっこ","meaning":"servant (esp. a samurai's attendant), chivalrous man (Edo period), cubed tofu (often served cold), kite shaped like an Edo-period footman, Edo-period hairstyle worn by samurai's attendants, enslavement (of a woman; Edo-period punishment for her own or her husband's crime), he, she, him, her"},{"example":"奴頭","reading":"やっこあたま","meaning":"Edo-period hairstyle worn by samurai's attendants"},{"example":"輪抜奴","reading":"わぬけやっこ","meaning":"bluering angelfish (Pomacanthus annularis)"},{"example":"三下奴","reading":"さんしたやっこ","meaning":"petty underling, small fry"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["又","女"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22900_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05974.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5974.gif","uri":"https://jisho.org/search/%E5%A5%B4%23kanji"}}
+{
+  "id": "奴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奴",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1932",
+    "strokeCount": 5,
+    "meaning": "guy, slave, manservant, fellow",
+    "kunyomi": [
+      "やつ",
+      "やっこ"
+    ],
+    "onyomi": [
+      "ド"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奴隷",
+        "reading": "ドレイ",
+        "meaning": "slave, servant, slavery"
+      },
+      {
+        "example": "【ドチザメ】",
+        "reading": "banded houndshark (Triakis scyllium)",
+        "meaning": ""
+      },
+      {
+        "example": "売国奴",
+        "reading": "バイコクド",
+        "meaning": "traitor (to one's country), quisling"
+      },
+      {
+        "example": "農奴",
+        "reading": "ノウド",
+        "meaning": "serf"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "奴",
+        "reading": "やつ",
+        "meaning": "fellow, guy, chap, thing, object, he, she, him, her"
+      },
+      {
+        "example": "臣",
+        "reading": "やつこ",
+        "meaning": "slave, retainer, servant, captive, varlet, I, me"
+      },
+      {
+        "example": "彼奴",
+        "reading": "あやつ",
+        "meaning": "he, she, that guy"
+      },
+      {
+        "example": "懲りない奴",
+        "reading": "こりないやつ",
+        "meaning": "person (generally male) who won't learn their lesson, persistent jerk"
+      },
+      {
+        "example": "奴",
+        "reading": "やっこ",
+        "meaning": "servant (esp. a samurai's attendant), chivalrous man (Edo period), cubed tofu (often served cold), kite shaped like an Edo-period footman, Edo-period hairstyle worn by samurai's attendants, enslavement (of a woman; Edo-period punishment for her own or her husband's crime), he, she, him, her"
+      },
+      {
+        "example": "奴頭",
+        "reading": "やっこあたま",
+        "meaning": "Edo-period hairstyle worn by samurai's attendants"
+      },
+      {
+        "example": "輪抜奴",
+        "reading": "わぬけやっこ",
+        "meaning": "bluering angelfish (Pomacanthus annularis)"
+      },
+      {
+        "example": "三下奴",
+        "reading": "さんしたやっこ",
+        "meaning": "petty underling, small fry"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "又",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22900_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05974.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5974.gif",
+    "uri": "https://jisho.org/search/%E5%A5%B4%23kanji"
+  }
+}

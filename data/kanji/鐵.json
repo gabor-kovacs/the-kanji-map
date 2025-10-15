@@ -1,1 +1,52 @@
-{"id":"鐵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鐵","found":true,"strokeCount":21,"meaning":"iron","kunyomi":["くろがね"],"onyomi":["テツ"],"onyomiExamples":[{"example":"鉄","reading":"テツ","meaning":"iron (Fe), strong and hard (as iron), railway, railway enthusiast"},{"example":"新日本製鐵","reading":"シンニッポンセイテツ","meaning":"Nippon Steel Corporation"}],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["口","土","戈","王","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37941_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09435.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9435.gif","uri":"https://jisho.org/search/%E9%90%B5%23kanji"}}
+{
+  "id": "鐵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鐵",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "iron",
+    "kunyomi": [
+      "くろがね"
+    ],
+    "onyomi": [
+      "テツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鉄",
+        "reading": "テツ",
+        "meaning": "iron (Fe), steel, iron (will, discipline, lady, etc.), railway, railway enthusiast"
+      },
+      {
+        "example": "新日本製鐵",
+        "reading": "シンニッポンセイテツ",
+        "meaning": "Nippon Steel Corporation"
+      },
+      {
+        "example": "新日本製鐵",
+        "reading": "シンニホンセイテツ",
+        "meaning": "Nippon Steel Corporation"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "口",
+      "土",
+      "戈",
+      "王",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37941_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09435.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9435.gif",
+    "uri": "https://jisho.org/search/%E9%90%B5%23kanji"
+  }
+}

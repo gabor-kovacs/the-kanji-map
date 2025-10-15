@@ -1,1 +1,57 @@
-{"id":"奕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"奕","found":true,"strokeCount":9,"meaning":"large","kunyomi":[],"onyomi":["エキ","ヤク"],"onyomiExamples":[{"example":"奕","reading":"エキ","meaning":"playing the game of go"},{"example":"奕々","reading":"エキエキ","meaning":"brilliant, glorious, shining, beautiful and thriving, piled high, large, indecisive with fear"},{"example":"奕々","reading":"エキエキ","meaning":"brilliant, glorious, shining, beautiful and thriving, piled high, large, indecisive with fear"},{"example":"赫奕","reading":"カクエキ","meaning":"bright, beaming, brilliant, glowing"},{"example":"赫奕","reading":"カクエキ","meaning":"bright, beaming, brilliant, glowing"}],"kunyomiExamples":[],"radical":{"symbol":"大","meaning":"big, very"},"parts":["ハ","亠","大","赤"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22869_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05955.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5955.gif","uri":"https://jisho.org/search/%E5%A5%95%23kanji"}}
+{
+  "id": "奕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奕",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "large",
+    "kunyomi": [],
+    "onyomi": [
+      "エキ",
+      "ヤク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奕",
+        "reading": "エキ",
+        "meaning": "playing the game of go"
+      },
+      {
+        "example": "奕々",
+        "reading": "エキエキ",
+        "meaning": "brilliant, glorious, shining, beautiful and thriving, piled high, large, indecisive with fear"
+      },
+      {
+        "example": "奕々",
+        "reading": "エキエキ",
+        "meaning": "brilliant, glorious, shining, beautiful and thriving, piled high, large, indecisive with fear"
+      },
+      {
+        "example": "赫奕",
+        "reading": "カクエキ",
+        "meaning": "bright, beaming, brilliant, glowing"
+      },
+      {
+        "example": "赫奕",
+        "reading": "カクエキ",
+        "meaning": "bright, beaming, brilliant, glowing"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "大",
+      "赤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22869_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05955.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5955.gif",
+    "uri": "https://jisho.org/search/%E5%A5%95%23kanji"
+  }
+}

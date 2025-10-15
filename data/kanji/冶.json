@@ -1,1 +1,54 @@
-{"id":"冶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冶","found":true,"taughtIn":"junior high","jlptLevel":"N1","strokeCount":7,"meaning":"melting, smelting","kunyomi":["い.る"],"onyomi":["ヤ"],"onyomiExamples":[{"example":"冶","reading":"ヤ","meaning":"melting"},{"example":"冶金","reading":"ヤキン","meaning":"metallurgy"},{"example":"艷冶","reading":"エンヤ","meaning":"charming, bewitching, coquettish"},{"example":"鍛冶","reading":"カジ","meaning":"smithing, blacksmith"}],"kunyomiExamples":[],"radical":{"symbol":"冫","meaning":"ice"},"parts":["冫","厶","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20918_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b6.gif","uri":"https://jisho.org/search/%E5%86%B6%23kanji"}}
+{
+  "id": "冶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冶",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "strokeCount": 7,
+    "meaning": "melting, smelting",
+    "kunyomi": [
+      "い.る"
+    ],
+    "onyomi": [
+      "ヤ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冶",
+        "reading": "ヤ",
+        "meaning": "melting"
+      },
+      {
+        "example": "冶金",
+        "reading": "ヤキン",
+        "meaning": "metallurgy"
+      },
+      {
+        "example": "艷冶",
+        "reading": "エンヤ",
+        "meaning": "charming, bewitching, coquettish"
+      },
+      {
+        "example": "鍛冶",
+        "reading": "カジ",
+        "meaning": "smithing, blacksmith"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "ice"
+    },
+    "parts": [
+      "冫",
+      "厶",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20918_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b6.gif",
+    "uri": "https://jisho.org/search/%E5%86%B6%23kanji"
+  }
+}

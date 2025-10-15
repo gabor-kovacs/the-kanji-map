@@ -1,1 +1,66 @@
-{"id":"岳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"岳","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1334","strokeCount":8,"meaning":"point, peak, mountain","kunyomi":["たけ"],"onyomi":["ガク"],"onyomiExamples":[{"example":"岳人","reading":"ガクジン","meaning":"alpinist, mountaineer"},{"example":"岳神","reading":"ガクジン","meaning":"mountain god"},{"example":"富岳","reading":"フガク","meaning":"Mount Fuji, Mt. Fuji"}],"kunyomiExamples":[{"example":"岳","reading":"たけ","meaning":"peak, mountain"},{"example":"岳烏","reading":"だけがらす","meaning":"spotted nutcracker (Nucifraga caryocatactes)"},{"example":"御嶽","reading":"みたけ","meaning":"large, high mountain"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["一","山","斤"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23731_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cb3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cb3.gif","uri":"https://jisho.org/search/%E5%B2%B3%23kanji"}}
+{
+  "id": "岳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "岳",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1334",
+    "strokeCount": 8,
+    "meaning": "point, peak, mountain",
+    "kunyomi": [
+      "たけ"
+    ],
+    "onyomi": [
+      "ガク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "岳人",
+        "reading": "ガクジン",
+        "meaning": "alpinist, mountaineer"
+      },
+      {
+        "example": "岳神",
+        "reading": "ガクジン",
+        "meaning": "mountain god"
+      },
+      {
+        "example": "富嶽",
+        "reading": "フガク",
+        "meaning": "Mount Fuji"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "岳",
+        "reading": "たけ",
+        "meaning": "(high) mountain, Mount, Mt., mountain peak"
+      },
+      {
+        "example": "岳烏",
+        "reading": "だけがらす",
+        "meaning": "spotted nutcracker (Nucifraga caryocatactes)"
+      },
+      {
+        "example": "御嶽",
+        "reading": "みたけ",
+        "meaning": "large, high mountain"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "一",
+      "山",
+      "斤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23731_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cb3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cb3.gif",
+    "uri": "https://jisho.org/search/%E5%B2%B3%23kanji"
+  }
+}

@@ -1,1 +1,45 @@
-{"id":"拷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"拷","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2057","strokeCount":9,"meaning":"torture, beat","kunyomi":[],"onyomi":["ゴウ"],"onyomiExamples":[{"example":"拷問","reading":"ゴウモン","meaning":"torture"},{"example":"拷器","reading":"ゴウキ","meaning":"instruments of torture"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["扎","老"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25335_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062f7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62f7.gif","uri":"https://jisho.org/search/%E6%8B%B7%23kanji"}}
+{
+  "id": "拷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拷",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2057",
+    "strokeCount": 9,
+    "meaning": "torture, beat",
+    "kunyomi": [],
+    "onyomi": [
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拷問",
+        "reading": "ゴウモン",
+        "meaning": "torture"
+      },
+      {
+        "example": "拷器",
+        "reading": "ゴウキ",
+        "meaning": "instruments of torture"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "扎",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25335_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062f7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62f7.gif",
+    "uri": "https://jisho.org/search/%E6%8B%B7%23kanji"
+  }
+}

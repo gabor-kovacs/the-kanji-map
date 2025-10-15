@@ -1,1 +1,65 @@
-{"id":"啓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"啓","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1403","strokeCount":11,"meaning":"disclose, open, say","kunyomi":["ひら.く","さと.す"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"啓発","reading":"ケイハツ","meaning":"enlightenment, development, edification, public awareness, illumination, education, inspiration"},{"example":"啓蒙","reading":"ケイモウ","meaning":"enlightenment, illumination"},{"example":"拝啓","reading":"ハイケイ","meaning":"Dear (so and so), Dear Sir, Dear Madam, To Whom It May Concern"},{"example":"敬啓","reading":"ケイケイ","meaning":"salutation at the end of a formal letter"}],"kunyomiExamples":[{"example":"啓く","reading":"ひらく","meaning":"to enlighten, to edify"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["一","乞","口","尸","戸","攵"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21843_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05553.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5553.gif","uri":"https://jisho.org/search/%E5%95%93%23kanji"}}
+{
+  "id": "啓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "啓",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1403",
+    "strokeCount": 11,
+    "meaning": "disclose, open, say",
+    "kunyomi": [
+      "ひら.く",
+      "さと.す"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "啓発",
+        "reading": "ケイハツ",
+        "meaning": "enlightenment, development, edification, public awareness, illumination, education, inspiration"
+      },
+      {
+        "example": "啓蒙",
+        "reading": "ケイモウ",
+        "meaning": "enlightenment, illumination"
+      },
+      {
+        "example": "拝啓",
+        "reading": "ハイケイ",
+        "meaning": "Dear (so and so), Dear Sir, Dear Madam, To Whom It May Concern"
+      },
+      {
+        "example": "敬啓",
+        "reading": "ケイケイ",
+        "meaning": "salutation at the end of a formal letter"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "啓く",
+        "reading": "ひらく",
+        "meaning": "to enlighten, to edify"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "一",
+      "乞",
+      "口",
+      "尸",
+      "戸",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21843_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05553.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5553.gif",
+    "uri": "https://jisho.org/search/%E5%95%93%23kanji"
+  }
+}

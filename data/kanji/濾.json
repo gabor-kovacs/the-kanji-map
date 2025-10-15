@@ -1,1 +1,55 @@
-{"id":"濾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"濾","found":true,"strokeCount":18,"meaning":"filter","kunyomi":["こ.す"],"onyomi":["ロ","リョ"],"onyomiExamples":[{"example":"濾液","reading":"ロエキ","meaning":"filtrate"},{"example":"濾過","reading":"ロカ","meaning":"filtration, filtering, percolation"}],"kunyomiExamples":[{"example":"漉す","reading":"こす","meaning":"to filter, to strain"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["卜","厂","心","汁","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28670_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ffe.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ffe.gif","uri":"https://jisho.org/search/%E6%BF%BE%23kanji"}}
+{
+  "id": "濾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "濾",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "filter",
+    "kunyomi": [
+      "こ.す"
+    ],
+    "onyomi": [
+      "ロ",
+      "リョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "濾液",
+        "reading": "ロエキ",
+        "meaning": "filtrate"
+      },
+      {
+        "example": "濾過",
+        "reading": "ロカ",
+        "meaning": "filtration, filtering, percolation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漉す",
+        "reading": "こす",
+        "meaning": "to filter, to strain"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "卜",
+      "厂",
+      "心",
+      "汁",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28670_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ffe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ffe.gif",
+    "uri": "https://jisho.org/search/%E6%BF%BE%23kanji"
+  }
+}

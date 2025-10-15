@@ -1,1 +1,49 @@
-{"id":"逮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"逮","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"766","strokeCount":11,"meaning":"apprehend, chase","kunyomi":[],"onyomi":["タイ"],"onyomiExamples":[{"example":"逮捕","reading":"タイホ","meaning":"arrest, apprehension, capture"},{"example":"逮捕及び監禁罪","reading":"タイホオヨビカンキンザイ","meaning":"false arrest and imprisonment, illegal arrest and confinement"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["ヨ","水","込","隶"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36910_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0902e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/902e.gif","uri":"https://jisho.org/search/%E9%80%AE%23kanji"}}
+{
+  "id": "逮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逮",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "766",
+    "strokeCount": 11,
+    "meaning": "apprehend, chase",
+    "kunyomi": [],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "逮捕",
+        "reading": "タイホ",
+        "meaning": "arrest, apprehension, capture"
+      },
+      {
+        "example": "逮捕及び監禁罪",
+        "reading": "タイホオヨビカンキンザイ",
+        "meaning": "false arrest and imprisonment, illegal arrest and confinement"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "ヨ",
+      "水",
+      "込",
+      "隶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36910_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0902e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/902e.gif",
+    "uri": "https://jisho.org/search/%E9%80%AE%23kanji"
+  }
+}

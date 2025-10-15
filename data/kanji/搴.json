@@ -1,1 +1,38 @@
-{"id":"搴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"搴","found":true,"strokeCount":14,"meaning":"take, hoist, pull out, shrink","kunyomi":["と.る","ぬ.く"],"onyomi":["ケン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ハ","一","二","宀","手","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25652_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06434.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6434.gif","uri":"https://jisho.org/search/%E6%90%B4%23kanji"}}
+{
+  "id": "搴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "搴",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "take, hoist, pull out, shrink",
+    "kunyomi": [
+      "と.る",
+      "ぬ.く"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "二",
+      "宀",
+      "手",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25652_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06434.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6434.gif",
+    "uri": "https://jisho.org/search/%E6%90%B4%23kanji"
+  }
+}

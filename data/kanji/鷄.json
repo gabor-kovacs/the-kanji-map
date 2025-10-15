@@ -1,1 +1,56 @@
-{"id":"鷄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鷄","found":true,"strokeCount":21,"meaning":"chicken","kunyomi":["にわとり","とり"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"牝鷄","reading":"ヒンケイ","meaning":"hen"}],"kunyomiExamples":[],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["大","幺","杰","爪","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40388_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dc4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dc4.gif","uri":"https://jisho.org/search/%E9%B7%84%23kanji"}}
+{
+  "id": "鷄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鷄",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "chicken",
+    "kunyomi": [
+      "にわとり",
+      "とり"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鶏卵",
+        "reading": "ケイラン",
+        "meaning": "hen's egg"
+      },
+      {
+        "example": "牝鷄",
+        "reading": "ヒンケイ",
+        "meaning": "hen"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鶏",
+        "reading": "にわとり",
+        "meaning": "chicken (Gallus gallus domesticus), domestic chicken, chicken meat"
+      },
+      {
+        "example": "鶏",
+        "reading": "にわとり",
+        "meaning": "chicken (Gallus gallus domesticus), domestic chicken, chicken meat"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "大",
+      "幺",
+      "杰",
+      "爪",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40388_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dc4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dc4.gif",
+    "uri": "https://jisho.org/search/%E9%B7%84%23kanji"
+  }
+}

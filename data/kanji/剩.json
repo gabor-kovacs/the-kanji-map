@@ -1,1 +1,38 @@
-{"id":"剩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"剩","found":true,"strokeCount":12,"meaning":"leftovers, residue, remains","kunyomi":["あまつさえ","あま.り","あま.る"],"onyomi":["ジョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["刈","匕","爿","禾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21097_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05269.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5269.gif","uri":"https://jisho.org/search/%E5%89%A9%23kanji"}}
+{
+  "id": "剩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "剩",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "leftovers, residue, remains",
+    "kunyomi": [
+      "あまつさえ",
+      "あま.り",
+      "あま.る"
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "刈",
+      "匕",
+      "爿",
+      "禾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21097_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05269.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5269.gif",
+    "uri": "https://jisho.org/search/%E5%89%A9%23kanji"
+  }
+}

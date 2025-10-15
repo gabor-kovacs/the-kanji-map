@@ -1,1 +1,49 @@
-{"id":"脾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"脾","found":true,"strokeCount":12,"meaning":"spleen","kunyomi":[],"onyomi":["ヒ"],"onyomiExamples":[{"example":"脾","reading":"ヒ","meaning":"spleen"},{"example":"脾腫","reading":"ヒシュ","meaning":"splenomegaly, enlarged spleen"},{"example":"多脾","reading":"タヒ","meaning":"polysplenia"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["ノ","十","月","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33086_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0813e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/813e.gif","uri":"https://jisho.org/search/%E8%84%BE%23kanji"}}
+{
+  "id": "脾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "脾",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "spleen",
+    "kunyomi": [],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "脾",
+        "reading": "ヒ",
+        "meaning": "spleen"
+      },
+      {
+        "example": "脾腫",
+        "reading": "ヒシュ",
+        "meaning": "splenomegaly, enlarged spleen"
+      },
+      {
+        "example": "多脾",
+        "reading": "タヒ",
+        "meaning": "polysplenia"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "ノ",
+      "十",
+      "月",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33086_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0813e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/813e.gif",
+    "uri": "https://jisho.org/search/%E8%84%BE%23kanji"
+  }
+}

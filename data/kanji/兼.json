@@ -1,1 +1,54 @@
-{"id":"兼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"兼","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1164","strokeCount":10,"meaning":"concurrently, and, beforehand, in advance","kunyomi":["か.ねる","-か.ねる"],"onyomi":["ケン"],"onyomiExamples":[{"example":"兼","reading":"ケン","meaning":"cum (e.g. bedroom-cum-study), and (concurrently; e.g. chauffeur and secretary), in addition to, at the same time"},{"example":"兼任","reading":"ケンニン","meaning":"serving concurrently as, holding the additional post of"}],"kunyomiExamples":[{"example":"兼ねる","reading":"かねる","meaning":"to be unable to, to find difficult (unpleasant, awkward, painful) to do, to serve two or more functions or roles simultaneously, to contain (or combine) two or more features, to work in two or more jobs simultaneously (positions, etc.), to do alongside, to hesitate to do something (out of consideration for others), to think of the future (as well as the present)"}],"radical":{"symbol":"八","meaning":"eight"},"parts":["ハ","ヨ","一","并","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20860_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0517c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/517c.gif","uri":"https://jisho.org/search/%E5%85%BC%23kanji"}}
+{
+  "id": "兼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "兼",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1164",
+    "strokeCount": 10,
+    "meaning": "concurrently, and, beforehand, in advance",
+    "kunyomi": [
+      "か.ねる",
+      "-か.ねる"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "兼",
+        "reading": "ケン",
+        "meaning": "cum (e.g. bedroom-cum-study), and (concurrently; e.g. chauffeur and secretary), in addition to, at the same time"
+      },
+      {
+        "example": "兼任",
+        "reading": "ケンニン",
+        "meaning": "serving concurrently as, holding the additional post of"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "兼ねる",
+        "reading": "かねる",
+        "meaning": "to be unable to, to find difficult (unpleasant, awkward, painful) to do, to serve two or more functions or roles simultaneously, to contain (or combine) two or more features, to work in two or more jobs simultaneously (positions, etc.), to do alongside, to hesitate to do something (out of consideration for others), to think of the future (as well as the present)"
+      }
+    ],
+    "radical": {
+      "symbol": "八",
+      "meaning": "eight"
+    },
+    "parts": [
+      "ハ",
+      "ヨ",
+      "一",
+      "并",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20860_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0517c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/517c.gif",
+    "uri": "https://jisho.org/search/%E5%85%BC%23kanji"
+  }
+}

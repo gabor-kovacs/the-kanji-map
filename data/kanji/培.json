@@ -1,1 +1,61 @@
-{"id":"培","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"培","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1431","strokeCount":11,"meaning":"cultivate, foster","kunyomi":["つちか.う"],"onyomi":["バイ"],"onyomiExamples":[{"example":"培養","reading":"バイヨウ","meaning":"cultivation, nurture, culture"},{"example":"培植","reading":"バイショク","meaning":"cultivation (of plants), culturing"},{"example":"育成栽培","reading":"イクセイサイバイ","meaning":"vegetable and fruit growing"},{"example":"促成栽培","reading":"ソクセイサイバイ","meaning":"forcing (plants, vegetables, etc.), artificially hastening the growth of plants (by controlling heat, light, etc.)"}],"kunyomiExamples":[{"example":"培う","reading":"つちかう","meaning":"to cultivate, to foster"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["口","土","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22521_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057f9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57f9.gif","uri":"https://jisho.org/search/%E5%9F%B9%23kanji"}}
+{
+  "id": "培",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "培",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1431",
+    "strokeCount": 11,
+    "meaning": "cultivate, foster",
+    "kunyomi": [
+      "つちか.う"
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "培養",
+        "reading": "バイヨウ",
+        "meaning": "culture, cultivation, cultivation (of plants), growing, raising, cultivation (e.g. of a skill), nurture (of democracy, national power, etc.), growth"
+      },
+      {
+        "example": "培植",
+        "reading": "バイショク",
+        "meaning": "cultivation (of plants), culturing"
+      },
+      {
+        "example": "育成栽培",
+        "reading": "イクセイサイバイ",
+        "meaning": "vegetable and fruit growing"
+      },
+      {
+        "example": "促成栽培",
+        "reading": "ソクセイサイバイ",
+        "meaning": "forcing (plants, vegetables, etc.), artificially hastening the growth of plants (by controlling heat, light, etc.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "培う",
+        "reading": "つちかう",
+        "meaning": "to cultivate, to foster"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "口",
+      "土",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22521_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57f9.gif",
+    "uri": "https://jisho.org/search/%E5%9F%B9%23kanji"
+  }
+}

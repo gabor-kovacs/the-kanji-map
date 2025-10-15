@@ -1,1 +1,48 @@
-{"id":"鳳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鳳","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2163","strokeCount":14,"meaning":"male mythical bird","kunyomi":[],"onyomi":["ホウ","フウ"],"onyomiExamples":[{"example":"鳳","reading":"ホウ","meaning":"feng (male Chinese firebird)"},{"example":"ほうれん草","reading":"ホウレンソウ","meaning":"spinach"},{"example":"白鳳","reading":"ハクホウ","meaning":"white Chinese phoenix, white Chinese firebird"}],"kunyomiExamples":[],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["几","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40179_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09cf3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9cf3.gif","uri":"https://jisho.org/search/%E9%B3%B3%23kanji"}}
+{
+  "id": "鳳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鳳",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2163",
+    "strokeCount": 14,
+    "meaning": "male mythical bird",
+    "kunyomi": [],
+    "onyomi": [
+      "ホウ",
+      "フウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鳳",
+        "reading": "ホウ",
+        "meaning": "feng (male Chinese firebird)"
+      },
+      {
+        "example": "ほうれん草",
+        "reading": "ホウレンソウ",
+        "meaning": "spinach (Spinacia oleracea)"
+      },
+      {
+        "example": "白鳳",
+        "reading": "ハクホウ",
+        "meaning": "white Chinese phoenix, white Chinese firebird"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "几",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40179_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09cf3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9cf3.gif",
+    "uri": "https://jisho.org/search/%E9%B3%B3%23kanji"
+  }
+}

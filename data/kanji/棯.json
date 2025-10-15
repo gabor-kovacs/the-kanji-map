@@ -1,1 +1,30 @@
-{"id":"棯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"棯","found":true,"strokeCount":12,"meaning":"type of fruit tree","kunyomi":[],"onyomi":["ネン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","个","心","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26863_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068ef.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68ef.gif","uri":"https://jisho.org/search/%E6%A3%AF%23kanji"}}
+{
+  "id": "棯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棯",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "type of fruit tree",
+    "kunyomi": [],
+    "onyomi": [
+      "ネン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "个",
+      "心",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26863_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068ef.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68ef.gif",
+    "uri": "https://jisho.org/search/%E6%A3%AF%23kanji"
+  }
+}

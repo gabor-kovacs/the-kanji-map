@@ -1,1 +1,69 @@
-{"id":"陶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"陶","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1680","strokeCount":11,"meaning":"pottery, porcelain","kunyomi":["すえ"],"onyomi":["トウ"],"onyomiExamples":[{"example":"陶芸","reading":"トウゲイ","meaning":"ceramic art, ceramics"},{"example":"陶器","reading":"トウキ","meaning":"porcelain (esp. soft-paste porcelain), china, chinaware, earthenware, pottery, ceramics, crockery"},{"example":"製陶","reading":"セイトウ","meaning":"porcelain manufacturing"},{"example":"作陶","reading":"サクトウ","meaning":"porcelain making, ceramics making, pottery making"}],"kunyomiExamples":[{"example":"陶","reading":"すえ","meaning":"ceramics, pottery, porcelain"},{"example":"須恵器","reading":"すえき","meaning":"Sue ware (type of unglazed pottery made from the middle of the Kofun era through the Heian era)"}],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["勹","缶","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38518_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09676.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9676.gif","uri":"https://jisho.org/search/%E9%99%B6%23kanji"}}
+{
+  "id": "陶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陶",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1680",
+    "strokeCount": 11,
+    "meaning": "pottery, porcelain",
+    "kunyomi": [
+      "すえ"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陶芸",
+        "reading": "トウゲイ",
+        "meaning": "ceramic art, ceramics"
+      },
+      {
+        "example": "陶器",
+        "reading": "トウキ",
+        "meaning": "pottery, earthenware, ceramics, (soft-paste) porcelain, china"
+      },
+      {
+        "example": "製陶",
+        "reading": "セイトウ",
+        "meaning": "porcelain manufacturing"
+      },
+      {
+        "example": "作陶",
+        "reading": "サクトウ",
+        "meaning": "porcelain making, ceramics making, pottery making"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "陶",
+        "reading": "すえ",
+        "meaning": "pottery, earthenware, ceramics, porcelain"
+      },
+      {
+        "example": "須恵器",
+        "reading": "すえき",
+        "meaning": "Sue ware (type of unglazed pottery made from the middle of the Kofun era through the Heian era)"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "勹",
+      "缶",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38518_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09676.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9676.gif",
+    "uri": "https://jisho.org/search/%E9%99%B6%23kanji"
+  }
+}

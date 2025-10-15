@@ -1,1 +1,61 @@
-{"id":"飜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"飜","found":true,"strokeCount":21,"meaning":"flip over, upset, capsize","kunyomi":["ひるがえ.す","ひるがえ.る"],"onyomi":["ハン","ホン"],"onyomiExamples":[{"example":"翻","reading":"ハン","meaning":"han, fan, unit that doubles the score of a hand"},{"example":"翻訳","reading":"ホンヤク","meaning":"translation, deciphering, decoding, translation"},{"example":"翻弄","reading":"ホンロウ","meaning":"trifling with, toying with, playing with, making sport of, making fun of, leading around by the nose, tossing about (a ship)"}],"kunyomiExamples":[{"example":"翻す","reading":"ひるがえす","meaning":"to turn over, to turn around, to change (one's mind), to reverse (one's decision), to take back (one's words), to fly (flag, etc.), to wave (skirt, cape, etc.)"},{"example":"翻る","reading":"ひるがえる","meaning":"to flutter (in the wind), to wave, to flap, to fly, to turn over, to flip over, to suddenly change (attitude, opinion, etc.), to suddenly switch, to alter, to flip"}],"radical":{"symbol":"飛","meaning":"fly"},"parts":["田","米","釆","飛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39132_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098dc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98dc.gif","uri":"https://jisho.org/search/%E9%A3%9C%23kanji"}}
+{
+  "id": "飜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "飜",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "flip over, upset, capsize",
+    "kunyomi": [
+      "ひるがえ.す",
+      "ひるがえ.る"
+    ],
+    "onyomi": [
+      "ハン",
+      "ホン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "翻",
+        "reading": "ハン",
+        "meaning": "han, fan, unit that doubles the score of a hand"
+      },
+      {
+        "example": "翻訳",
+        "reading": "ホンヤク",
+        "meaning": "translation, deciphering, decoding, translation"
+      },
+      {
+        "example": "翻弄",
+        "reading": "ホンロウ",
+        "meaning": "having at one's mercy, trifling with, toying with, playing with, making a fool of, leading around by the nose, tossing about (a ship), buffeting"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "翻す",
+        "reading": "ひるがえす",
+        "meaning": "to turn over, to change (one's mind), to reverse (one's decision), to take back (one's words), to retract (one's testimony, confession, etc.), to fly (a flag), to let (a skirt, cape, etc.) flap in the wind, to let flutter"
+      },
+      {
+        "example": "翻る",
+        "reading": "ひるがえる",
+        "meaning": "to flutter (in the wind), to wave, to flap, to fly, to turn over, to flip over, to suddenly change (attitude, opinion, etc.), to suddenly switch, to alter, to flip"
+      }
+    ],
+    "radical": {
+      "symbol": "飛",
+      "meaning": "fly"
+    },
+    "parts": [
+      "田",
+      "米",
+      "釆",
+      "飛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39132_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98dc.gif",
+    "uri": "https://jisho.org/search/%E9%A3%9C%23kanji"
+  }
+}

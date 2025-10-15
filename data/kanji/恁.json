@@ -1,1 +1,42 @@
-{"id":"恁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"恁","found":true,"strokeCount":10,"meaning":"like this, thus","kunyomi":[],"onyomi":["イン","ジン","ニン"],"onyomiExamples":[{"example":"恁麼","reading":"インモ","meaning":"this sort, this way, what sort, what kind"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ノ","化","士","心"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24641_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06041.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6041.gif","uri":"https://jisho.org/search/%E6%81%81%23kanji"}}
+{
+  "id": "恁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恁",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "like this, thus",
+    "kunyomi": [],
+    "onyomi": [
+      "イン",
+      "ジン",
+      "ニン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "恁麼",
+        "reading": "インモ",
+        "meaning": "this sort, this way, what sort, what kind"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ノ",
+      "化",
+      "士",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24641_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06041.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6041.gif",
+    "uri": "https://jisho.org/search/%E6%81%81%23kanji"
+  }
+}

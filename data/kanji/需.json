@@ -1,1 +1,52 @@
-{"id":"需","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"需","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"935","strokeCount":14,"meaning":"demand, request, need","kunyomi":[],"onyomi":["ジュ"],"onyomiExamples":[{"example":"需要","reading":"ジュヨウ","meaning":"demand, request"},{"example":"需給","reading":"ジュキュウ","meaning":"supply and demand"},{"example":"外需","reading":"ガイジュ","meaning":"foreign demand"},{"example":"内需","reading":"ナイジュ","meaning":"domestic demand"}],"kunyomiExamples":[],"radical":{"symbol":"雨","meaning":"rain"},"parts":["而","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38656_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09700.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9700.gif","uri":"https://jisho.org/search/%E9%9C%80%23kanji"}}
+{
+  "id": "需",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "需",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "935",
+    "strokeCount": 14,
+    "meaning": "demand, request, need",
+    "kunyomi": [],
+    "onyomi": [
+      "ジュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "需要",
+        "reading": "ジュヨウ",
+        "meaning": "demand, request"
+      },
+      {
+        "example": "需給",
+        "reading": "ジュキュウ",
+        "meaning": "supply and demand"
+      },
+      {
+        "example": "外需",
+        "reading": "ガイジュ",
+        "meaning": "foreign demand"
+      },
+      {
+        "example": "内需",
+        "reading": "ナイジュ",
+        "meaning": "domestic demand"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "而",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38656_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09700.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9700.gif",
+    "uri": "https://jisho.org/search/%E9%9C%80%23kanji"
+  }
+}

@@ -1,1 +1,31 @@
-{"id":"彖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"彖","found":true,"strokeCount":9,"meaning":"divination","kunyomi":[],"onyomi":["タン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"彐","forms":["彑"],"meaning":"pig snout"},"parts":["彑","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24406_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f56.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f56.gif","uri":"https://jisho.org/search/%E5%BD%96%23kanji"}}
+{
+  "id": "彖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彖",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "divination",
+    "kunyomi": [],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彐",
+      "forms": [
+        "彑"
+      ],
+      "meaning": "pig snout"
+    },
+    "parts": [
+      "彑",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24406_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f56.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f56.gif",
+    "uri": "https://jisho.org/search/%E5%BD%96%23kanji"
+  }
+}

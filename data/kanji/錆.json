@@ -1,1 +1,71 @@
-{"id":"錆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"錆","found":true,"strokeCount":16,"meaning":"rust, tarnish","kunyomi":["さび","くわ.しい"],"onyomi":["ショウ","セイ"],"onyomiExamples":[{"example":"防錆","reading":"ボウセイ","meaning":"anti-rust, rustproof, anticorrosive"},{"example":"発錆","reading":"ハッセイ","meaning":"rusting, onset of rust"}],"kunyomiExamples":[{"example":"錆","reading":"さび","meaning":"rust"},{"example":"錆びる","reading":"さびる","meaning":"to rust, to become rusty"},{"example":"赤錆","reading":"あかさび","meaning":"rust"},{"example":"身から出た錆","reading":"みからでたさび","meaning":"paying for one's mistakes, getting one's just deserts, suffering the consequences (of one's own actions), reaping what you sow"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["二","亠","土","月","金","青"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37638_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09306.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9306.gif","uri":"https://jisho.org/search/%E9%8C%86%23kanji"}}
+{
+  "id": "錆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "錆",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "rust, tarnish",
+    "kunyomi": [
+      "さび",
+      "くわ.しい"
+    ],
+    "onyomi": [
+      "ショウ",
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "防錆",
+        "reading": "ボウセイ",
+        "meaning": "anti-rust, rustproof, anticorrosive"
+      },
+      {
+        "example": "発錆",
+        "reading": "ハッセイ",
+        "meaning": "rusting, onset of rust"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "錆",
+        "reading": "さび",
+        "meaning": "rust"
+      },
+      {
+        "example": "錆びる",
+        "reading": "さびる",
+        "meaning": "to rust, to become rusty"
+      },
+      {
+        "example": "赤錆",
+        "reading": "あかさび",
+        "meaning": "rust"
+      },
+      {
+        "example": "身から出た錆",
+        "reading": "みからでたさび",
+        "meaning": "paying for one's mistakes, getting one's just deserts, suffering the consequences (of one's own actions), reaping what you sow"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "土",
+      "月",
+      "金",
+      "青"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37638_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09306.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9306.gif",
+    "uri": "https://jisho.org/search/%E9%8C%86%23kanji"
+  }
+}

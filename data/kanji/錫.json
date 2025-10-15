@@ -1,1 +1,79 @@
-{"id":"錫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"錫","found":true,"newspaperFrequencyRank":"2095","strokeCount":16,"meaning":"copper, tin","kunyomi":["すず","たま.う"],"onyomi":["セキ","シャク"],"onyomiExamples":[{"example":"錫","reading":"シャク","meaning":"bishop's staff, khakkhara"},{"example":"錫杖","reading":"シャクジョウ","meaning":"khakkhara (staff topped with metal rings traditionally carried by monks), pewter staff"},{"example":"巡錫","reading":"ジュンシャク","meaning":"preaching tour"}],"kunyomiExamples":[{"example":"錫","reading":"すず","meaning":"tin (Sn)"},{"example":"錫石","reading":"すずいし","meaning":"cassiterite"},{"example":"塩化錫","reading":"えんかすず","meaning":"tin chloride"},{"example":"酸化錫","reading":"さんかすず","meaning":"stannous oxide (SnO), stannic oxide (SnO2)"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["勿","日","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37675_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0932b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/932b.gif","uri":"https://jisho.org/search/%E9%8C%AB%23kanji"}}
+{
+  "id": "錫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "錫",
+    "found": true,
+    "newspaperFrequencyRank": "2095",
+    "strokeCount": 16,
+    "meaning": "copper, tin",
+    "kunyomi": [
+      "すず",
+      "たま.う"
+    ],
+    "onyomi": [
+      "セキ",
+      "シャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "錫",
+        "reading": "シャク",
+        "meaning": "bishop's staff, khakkhara"
+      },
+      {
+        "example": "錫杖",
+        "reading": "シャクジョウ",
+        "meaning": "khakkhara (staff topped with metal rings traditionally carried by monks), pewter staff"
+      },
+      {
+        "example": "脱錫",
+        "reading": "ダッシャク",
+        "meaning": "detinning, removal of tin and copper"
+      },
+      {
+        "example": "巡錫",
+        "reading": "ジュンシャク",
+        "meaning": "preaching tour"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "錫",
+        "reading": "すず",
+        "meaning": "tin (Sn)"
+      },
+      {
+        "example": "錫石",
+        "reading": "すずいし",
+        "meaning": "cassiterite"
+      },
+      {
+        "example": "塩化錫",
+        "reading": "えんかすず",
+        "meaning": "tin chloride"
+      },
+      {
+        "example": "酸化錫",
+        "reading": "さんかすず",
+        "meaning": "stannous oxide (SnO), stannic oxide (SnO2)"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "勿",
+      "日",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37675_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0932b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/932b.gif",
+    "uri": "https://jisho.org/search/%E9%8C%AB%23kanji"
+  }
+}

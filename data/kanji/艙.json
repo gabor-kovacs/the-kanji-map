@@ -1,1 +1,42 @@
-{"id":"艙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"艙","found":true,"strokeCount":16,"meaning":"hold (ship)","kunyomi":[],"onyomi":["ソウ"],"onyomiExamples":[{"example":"艙口","reading":"ソウコウ","meaning":"hatch, hatchway (ship)"},{"example":"船倉","reading":"センソウ","meaning":"ship's hold, hatch"}],"kunyomiExamples":[],"radical":{"symbol":"舟","meaning":"boat"},"parts":["一","个","口","尸","舟"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33369_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08259.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8259.gif","uri":"https://jisho.org/search/%E8%89%99%23kanji"}}
+{
+  "id": "艙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艙",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "hold (ship)",
+    "kunyomi": [],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艙口",
+        "reading": "ソウコウ",
+        "meaning": "hatch, hatchway (ship)"
+      },
+      {
+        "example": "船倉",
+        "reading": "センソウ",
+        "meaning": "ship's hold, hatch"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "舟",
+      "meaning": "boat"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "尸",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33369_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08259.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8259.gif",
+    "uri": "https://jisho.org/search/%E8%89%99%23kanji"
+  }
+}

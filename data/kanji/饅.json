@@ -1,1 +1,54 @@
-{"id":"饅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"饅","found":true,"strokeCount":20,"meaning":"bean-jam dumpling, manjuu","kunyomi":[],"onyomi":["マン"],"onyomiExamples":[{"example":"饅頭","reading":"マンジュウ","meaning":"manjū, steamed yeast bun with filling"},{"example":"饅頭笠","reading":"マンジュウガサ","meaning":"shallow hat with a round top (looking like a half manjū)"},{"example":"御饅","reading":"オマン","meaning":"manjū"},{"example":"中華まん","reading":"チュウカマン","meaning":"Chinese dumpling, Chinese steamed bun"}],"kunyomiExamples":[],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":["又","日","買","食"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39237_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09945.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9945.gif","uri":"https://jisho.org/search/%E9%A5%85%23kanji"}}
+{
+  "id": "饅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "饅",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "bean-jam dumpling, manjuu",
+    "kunyomi": [],
+    "onyomi": [
+      "マン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "饅頭",
+        "reading": "マンジュウ",
+        "meaning": "manjū, steamed yeast bun with filling"
+      },
+      {
+        "example": "饅頭笠",
+        "reading": "マンジュウガサ",
+        "meaning": "shallow hat with a round top (looking like a half manjū)"
+      },
+      {
+        "example": "御饅",
+        "reading": "オマン",
+        "meaning": "manjū"
+      },
+      {
+        "example": "中華まん",
+        "reading": "チュウカマン",
+        "meaning": "Chinese dumpling, Chinese steamed bun"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [
+      "又",
+      "日",
+      "買",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39237_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09945.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9945.gif",
+    "uri": "https://jisho.org/search/%E9%A5%85%23kanji"
+  }
+}

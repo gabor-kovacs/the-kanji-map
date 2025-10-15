@@ -1,1 +1,74 @@
-{"id":"椿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"椿","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1829","strokeCount":13,"meaning":"camellia","kunyomi":["つばき"],"onyomi":["チン","チュン"],"onyomiExamples":[{"example":"珍事","reading":"チンジ","meaning":"strange incident, unusual occurrence, rare event, grave (and unexpected) incident, serious event, accident"},{"example":"椿寿","reading":"チンジュ","meaning":"longevity, long life"},{"example":"香椿","reading":"チャンチン","meaning":"Chinese mahogany (Toona sinensis)"}],"kunyomiExamples":[{"example":"椿","reading":"つばき","meaning":"common camellia (Camellia japonica), tea produced in the mountains"},{"example":"椿油","reading":"つばきあぶら","meaning":"tea seed oil, camellia oil"},{"example":"寒椿","reading":"かんつばき","meaning":"camellia-like plant native to China"},{"example":"雪椿","reading":"ゆきつばき","meaning":"snow camellia (Camellia japonica subsp. rusticana)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","二","人","大","日","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26943_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0693f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/693f.gif","uri":"https://jisho.org/search/%E6%A4%BF%23kanji"}}
+{
+  "id": "椿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椿",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1829",
+    "strokeCount": 13,
+    "meaning": "camellia",
+    "kunyomi": [
+      "つばき"
+    ],
+    "onyomi": [
+      "チン",
+      "チュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "珍事",
+        "reading": "チンジ",
+        "meaning": "strange incident, unusual occurrence, rare event, grave (and unexpected) incident, serious event, accident"
+      },
+      {
+        "example": "椿寿",
+        "reading": "チンジュ",
+        "meaning": "longevity, long life"
+      },
+      {
+        "example": "香椿",
+        "reading": "チャンチン",
+        "meaning": "Chinese mahogany (Toona sinensis)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "椿",
+        "reading": "つばき",
+        "meaning": "common camellia (Camellia japonica), tea produced in the mountains"
+      },
+      {
+        "example": "椿油",
+        "reading": "つばきあぶら",
+        "meaning": "tea seed oil, camellia oil"
+      },
+      {
+        "example": "寒椿",
+        "reading": "かんつばき",
+        "meaning": "camellia-like plant native to China"
+      },
+      {
+        "example": "雪椿",
+        "reading": "ゆきつばき",
+        "meaning": "snow camellia (Camellia japonica subsp. rusticana)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "二",
+      "人",
+      "大",
+      "日",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26943_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0693f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/693f.gif",
+    "uri": "https://jisho.org/search/%E6%A4%BF%23kanji"
+  }
+}

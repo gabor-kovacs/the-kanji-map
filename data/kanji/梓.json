@@ -1,1 +1,61 @@
-{"id":"梓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梓","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2301","strokeCount":11,"meaning":"catalpa tree, woodblock printing","kunyomi":["あずさ"],"onyomi":["シ"],"onyomiExamples":[{"example":"梓","reading":"アズサ","meaning":"Japanese cherry birch (Betula grossa), yellow catalpa (Catalpa ovata), Japanese mallotus (Mallotus japonicus), printing block, catalpa bow, catalpa medium"},{"example":"梓宮","reading":"シキュウ","meaning":"Emperor's coffin (made of catalpa wood)"},{"example":"上梓","reading":"ジョウシ","meaning":"wood-block printing, publication"}],"kunyomiExamples":[{"example":"梓","reading":"あずさ","meaning":"Japanese cherry birch (Betula grossa), yellow catalpa (Catalpa ovata), Japanese mallotus (Mallotus japonicus), printing block, catalpa bow, catalpa medium"},{"example":"梓巫女","reading":"あずさみこ","meaning":"female medium who summons spirits by sounding the string of a catalpa bow"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["十","木","立","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26771_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06893.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6893.gif","uri":"https://jisho.org/search/%E6%A2%93%23kanji"}}
+{
+  "id": "梓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梓",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2301",
+    "strokeCount": 11,
+    "meaning": "catalpa tree, woodblock printing",
+    "kunyomi": [
+      "あずさ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梓",
+        "reading": "アズサ",
+        "meaning": "Japanese cherry birch (Betula grossa), yellow catalpa (Catalpa ovata), Japanese mallotus (Mallotus japonicus), printing block, catalpa bow, catalpa medium"
+      },
+      {
+        "example": "梓宮",
+        "reading": "シキュウ",
+        "meaning": "Emperor's coffin (made of catalpa wood)"
+      },
+      {
+        "example": "上梓",
+        "reading": "ジョウシ",
+        "meaning": "wood-block printing, publication"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梓",
+        "reading": "あずさ",
+        "meaning": "Japanese cherry birch (Betula grossa), yellow catalpa (Catalpa ovata), Japanese mallotus (Mallotus japonicus), printing block, catalpa bow, catalpa medium"
+      },
+      {
+        "example": "梓巫女",
+        "reading": "あずさみこ",
+        "meaning": "female medium who summons spirits by sounding the string of a catalpa bow"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "十",
+      "木",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26771_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06893.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6893.gif",
+    "uri": "https://jisho.org/search/%E6%A2%93%23kanji"
+  }
+}

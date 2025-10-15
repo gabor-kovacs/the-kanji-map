@@ -1,1 +1,267 @@
-{"id":"穴","kanjialiveData":{"kanji":{"character":"穴","meaning":{"english":"hole, cave"},"strokes":{"count":5,"timings":[0,0.6,1.6,2.933333,4.133333,5.733333],"images":["https://media.kanjialive.com/kanji_strokes/ana_1.svg","https://media.kanjialive.com/kanji_strokes/ana_2.svg","https://media.kanjialive.com/kanji_strokes/ana_3.svg","https://media.kanjialive.com/kanji_strokes/ana_4.svg","https://media.kanjialive.com/kanji_strokes/ana_5.svg"]},"onyomi":{"romaji":"ketsu","katakana":"ケツ"},"kunyomi":{"romaji":"ana","hiragana":"あな"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ana_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ana_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ana_00.webm"}},"radical":{"character":"⽳","strokes":5,"image":"https://media.kanjialive.com/radical_character/ana.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"あな","romaji":"ana"},"meaning":{"english":"hole, cave"},"animation":["https://media.kanjialive.com/rad_frames/ana0.svg","https://media.kanjialive.com/rad_frames/ana1.svg","https://media.kanjialive.com/rad_frames/ana2.svg"]},"references":{"grade":6,"kodansha":"1366","classic_nelson":"3313"},"examples":[{"japanese":"墓穴（ぼけつ）","meaning":{"english":"grave [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ana_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ana_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ana_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ana_06_a.mp3"}},{"japanese":"穴（あな）","meaning":{"english":"hole"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ana_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ana_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ana_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ana_06_b.mp3"}},{"japanese":"洞穴（ほらあな）","meaning":{"english":"cave, grotto"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ana_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ana_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ana_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ana_06_c.mp3"}},{"japanese":"落とし穴（おとしあな）","meaning":{"english":"pitfall, trap, pit"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ana_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ana_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ana_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ana_06_d.mp3"}}]},"jishoData":{"query":"穴","found":true,"taughtIn":"grade 6","jlptLevel":"N1","newspaperFrequencyRank":"1366","strokeCount":5,"meaning":"hole, aperture, slit, cave, den","kunyomi":["あな"],"onyomi":["ケツ"],"onyomiExamples":[{"example":"穴","reading":"ケツ","meaning":"ass, arse, buttocks, rear, end, acupuncture point, hole, notch"},{"example":"穴隙","reading":"ケツゲキ","meaning":"crevice, aperture"},{"example":"横穴","reading":"ヨコアナ","meaning":"cave, tunnel, tunnel tomb (Kofun period)"},{"example":"経穴","reading":"ケイケツ","meaning":"acupuncture point"}],"kunyomiExamples":[{"example":"穴","reading":"あな","meaning":"hole, opening, perforation, pit, hollow, hole (in the ground, etc.), burrow, den, lair, holt, hole, deficit, shortage, missing person (in a team, meeting, etc.), vacancy, opening, flaw, well-kept secret place, upset victory (with a large payoff), pit (of a theater), hiding place, hideout, underbelly (of society, etc.)"},{"example":"穴埋め","reading":"あなうめ","meaning":"filling (up) a hole, filling in (for a gap, vacancy, etc.), stopgap, filler (e.g. article), making up (for a loss, damage, etc.), covering (a deficit), compensation, cloze deletion (test format)"},{"example":"風穴","reading":"かざあな","meaning":"air hole, windhole, ventilator"},{"example":"横穴","reading":"よこあな","meaning":"cave, tunnel, tunnel tomb (Kofun period)"}],"radical":{"symbol":"穴","meaning":"cave"},"parts":["ハ","儿","宀","穴"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31348_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a74.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a74.gif","uri":"https://jisho.org/search/%E7%A9%B4%23kanji"}}
+{
+  "id": "穴",
+  "kanjialiveData": {
+    "_id": "54317ad3791eba5146ee484d",
+    "_rev": "10-6284f5aaf22958cdbcb2c05f7c5f702a",
+    "rad_name_ja": "あな",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "ana",
+    "meaning": "hole, cave",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "墓穴（ぼけつ）",
+        "meaning": {
+          "english": "grave [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ana_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ana_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ana_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ana_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "穴（あな）",
+        "meaning": {
+          "english": "hole"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ana_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ana_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ana_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ana_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "洞穴（ほらあな）",
+        "meaning": {
+          "english": "cave, grotto"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ana_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ana_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ana_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ana_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "落とし穴（おとしあな）",
+        "meaning": {
+          "english": "pitfall, trap, pit"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ana_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ana_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ana_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ana_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あな",
+    "ka_utf": "穴",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=穴",
+    "rad_name_search": [
+      "ana"
+    ],
+    "rad_order": 146,
+    "txt_books": [],
+    "kname": "ana",
+    "rad_utf": "⽳",
+    "stroketimes": [
+      0,
+      0.6,
+      1.6,
+      2.933333,
+      4.133333,
+      5.733333
+    ],
+    "kunyomi_ka_display": "あな",
+    "dick": "1366",
+    "rad_name": "ana",
+    "dicn": "3313",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 5,
+    "onyomi_ja": "ケツ",
+    "rad_meaning": "hole, cave",
+    "onyomi": "ketsu",
+    "ka_id": "ka_1046",
+    "onyomi_search": [
+      "ketsu",
+      "ketsu"
+    ],
+    "kunyomi_search": [
+      "ana",
+      "ana"
+    ],
+    "meaning_search": [
+      "hole",
+      "cave",
+      "hole, cave"
+    ],
+    "onyomi_ja_search": [
+      "ケツ",
+      "ケツ"
+    ],
+    "kunyomi_ja_search": [
+      "あな",
+      "あな"
+    ],
+    "rad_meaning_search": [
+      "hole",
+      "cave",
+      "hole, cave"
+    ],
+    "rad_name_ja_search": [
+      "あな"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [],
+    "rad_name_file": "ana",
+    "kanji": {
+      "character": "穴",
+      "meaning": {
+        "english": "hole, cave"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          0.6,
+          1.6,
+          2.933333,
+          4.133333,
+          5.733333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ana_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ana_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ana_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ana_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ana_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ketsu",
+        "katakana": "ケツ"
+      },
+      "kunyomi": {
+        "romaji": "ana",
+        "hiragana": "あな"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ana_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ana_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ana_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽳",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/ana.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "あな",
+        "romaji": "ana"
+      },
+      "meaning": {
+        "english": "hole, cave"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ana0.svg",
+        "https://media.kanjialive.com/rad_frames/ana1.svg",
+        "https://media.kanjialive.com/rad_frames/ana2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1366",
+      "classic_nelson": "3313"
+    }
+  },
+  "jishoData": {
+    "query": "穴",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1366",
+    "strokeCount": 5,
+    "meaning": "hole, aperture, slit, cave, den",
+    "kunyomi": [
+      "あな"
+    ],
+    "onyomi": [
+      "ケツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "穴",
+        "reading": "ケツ",
+        "meaning": "ass, arse, buttocks, rear, end, acupuncture point, hole, notch"
+      },
+      {
+        "example": "穴隙",
+        "reading": "ケツゲキ",
+        "meaning": "crevice, aperture"
+      },
+      {
+        "example": "横穴",
+        "reading": "ヨコアナ",
+        "meaning": "cave, tunnel, tunnel tomb (Kofun period)"
+      },
+      {
+        "example": "経穴",
+        "reading": "ケイケツ",
+        "meaning": "acupuncture point"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "穴",
+        "reading": "あな",
+        "meaning": "hole, opening, orifice, perforation, pit, hollow, cavity, hole (e.g. in the ground), burrow, den, lair, holt, hole, deficit, shortage, (financial) hole, loss, gap (left by a missing employee, team member, etc.), vacancy, opening, flaw, fault, defect, weak point, hole (in a theory, plan, etc.), loophole, good place not many people know about, well-kept secret, upset victory (with a large payoff), long shot, dark horse, (partitioned) box (type of floor seating in a traditional Japanese theatre), hiding place, hideout"
+      },
+      {
+        "example": "穴埋め",
+        "reading": "あなうめ",
+        "meaning": "filling (up) a hole, filling in (for a gap, vacancy, etc.), stopgap, filler (e.g. article), making up (for a loss, damage, etc.), covering (a deficit), compensation, cloze deletion (test format)"
+      },
+      {
+        "example": "風穴",
+        "reading": "かざあな",
+        "meaning": "air hole, windhole, air vent, deep cave from which cold wind blows"
+      },
+      {
+        "example": "横穴",
+        "reading": "よこあな",
+        "meaning": "cave, tunnel, tunnel tomb (Kofun period)"
+      }
+    ],
+    "radical": {
+      "symbol": "穴",
+      "meaning": "cave"
+    },
+    "parts": [
+      "ハ",
+      "儿",
+      "宀",
+      "穴"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31348_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a74.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a74.gif",
+    "uri": "https://jisho.org/search/%E7%A9%B4%23kanji"
+  }
+}

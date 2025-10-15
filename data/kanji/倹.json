@@ -1,1 +1,67 @@
-{"id":"倹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"倹","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2479","strokeCount":10,"meaning":"frugal, economy, thrifty","kunyomi":["つま.しい","つづまやか"],"onyomi":["ケン"],"onyomiExamples":[{"example":"倹","reading":"ケン","meaning":"economizing, thriftiness, prudence, frugality"},{"example":"倹約","reading":"ケンヤク","meaning":"thrift, economy, frugality"},{"example":"恭倹","reading":"キョウケン","meaning":"respectfulness and modesty, deference"},{"example":"節倹","reading":"セッケン","meaning":"economy, thrift"}],"kunyomiExamples":[{"example":"倹しい","reading":"つましい","meaning":"thrifty, frugal, economical"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["一","个","人","化","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20537_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05039.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5039.gif","uri":"https://jisho.org/search/%E5%80%B9%23kanji"}}
+{
+  "id": "倹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "倹",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2479",
+    "strokeCount": 10,
+    "meaning": "frugal, economy, thrifty",
+    "kunyomi": [
+      "つま.しい",
+      "つづまやか"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "倹",
+        "reading": "ケン",
+        "meaning": "economizing, thriftiness, prudence, frugality"
+      },
+      {
+        "example": "倹約",
+        "reading": "ケンヤク",
+        "meaning": "thrift, economy, frugality"
+      },
+      {
+        "example": "恭倹",
+        "reading": "キョウケン",
+        "meaning": "respectfulness and modesty, deference"
+      },
+      {
+        "example": "節倹",
+        "reading": "セッケン",
+        "meaning": "economy, thrift"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "倹しい",
+        "reading": "つましい",
+        "meaning": "thrifty, frugal, economical"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "一",
+      "个",
+      "人",
+      "化",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20537_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05039.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5039.gif",
+    "uri": "https://jisho.org/search/%E5%80%B9%23kanji"
+  }
+}

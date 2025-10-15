@@ -1,1 +1,60 @@
-{"id":"盈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"盈","found":true,"strokeCount":9,"meaning":"fullness, enough, pride, satisfy","kunyomi":["み.たす","み.ちる"],"onyomi":["エイ"],"onyomiExamples":[{"example":"盈虧","reading":"エイキ","meaning":"waxing and waning (of the moon), phase, rising and falling (of fortune)"},{"example":"盈虚","reading":"エイキョ","meaning":"waxing and waning (of the moon), phase, rising and falling (of fortune)"},{"example":"充盈","reading":"ジュウエイ","meaning":"filling (something up)"},{"example":"虧盈","reading":"キエイ","meaning":"waxing and waning"}],"kunyomiExamples":[{"example":"満ちる","reading":"みちる","meaning":"to fill, to become full (of), to be filled (with), to brim (with), to wax (of the moon), to rise (of the tide), to flow, to come in, to expire (of a period of time), to mature, to come to an end"}],"radical":{"symbol":"皿","meaning":"dish"},"parts":["ノ","一","又","皿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30408_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076c8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76c8.gif","uri":"https://jisho.org/search/%E7%9B%88%23kanji"}}
+{
+  "id": "盈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "盈",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "fullness, enough, pride, satisfy",
+    "kunyomi": [
+      "み.たす",
+      "み.ちる"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "盈虧",
+        "reading": "エイキ",
+        "meaning": "waxing and waning (of the moon), phase, rising and falling (of fortune)"
+      },
+      {
+        "example": "盈虚",
+        "reading": "エイキョ",
+        "meaning": "waxing and waning (of the moon), phase, rising and falling (of fortune)"
+      },
+      {
+        "example": "充盈",
+        "reading": "ジュウエイ",
+        "meaning": "filling (something up)"
+      },
+      {
+        "example": "虧盈",
+        "reading": "キエイ",
+        "meaning": "waxing and waning"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "満ちる",
+        "reading": "みちる",
+        "meaning": "to fill, to become full (of), to be filled (with), to brim (with), to wax (of the moon), to rise (of the tide), to flow, to come in, to expire (of a period of time), to mature, to come to an end"
+      }
+    ],
+    "radical": {
+      "symbol": "皿",
+      "meaning": "dish"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "又",
+      "皿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30408_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076c8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76c8.gif",
+    "uri": "https://jisho.org/search/%E7%9B%88%23kanji"
+  }
+}

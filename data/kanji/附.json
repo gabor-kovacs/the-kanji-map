@@ -1,1 +1,70 @@
-{"id":"附","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"附","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2396","strokeCount":8,"meaning":"affixed, attach, refer to, append","kunyomi":["つ.ける","つ.く"],"onyomi":["フ"],"onyomiExamples":[{"example":"付近","reading":"フキン","meaning":"neighborhood, vicinity, environs, district, approaching"},{"example":"付加","reading":"フカ","meaning":"addition, annexation, appendage"},{"example":"交附","reading":"コウフ","meaning":"delivery, grant, handing (a ticket) to (a person)"}],"kunyomiExamples":[{"example":"付ける","reading":"つける","meaning":"to attach, to join, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), to allot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow, to shadow, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding), to turn on (light), to produce flowers, to produce fruit, to do intensely"}],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["化","寸","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38468_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09644.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9644.gif","uri":"https://jisho.org/search/%E9%99%84%23kanji"}}
+{
+  "id": "附",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "附",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2396",
+    "strokeCount": 8,
+    "meaning": "affixed, attach, refer to, append",
+    "kunyomi": [
+      "つ.ける",
+      "つ.く"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "付近",
+        "reading": "フキン",
+        "meaning": "neighborhood, neighbourhood, vicinity, environs, surrounding area, district"
+      },
+      {
+        "example": "付加",
+        "reading": "フカ",
+        "meaning": "addition, annexation, appendage"
+      },
+      {
+        "example": "交附",
+        "reading": "コウフ",
+        "meaning": "delivery, grant, handing (a ticket) to (a person)"
+      },
+      {
+        "example": "筑附",
+        "reading": "ツクフ",
+        "meaning": "Junior and Senior High School at Otsuka, University of Tsukuba (abbr)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "付ける",
+        "reading": "つける",
+        "meaning": "to attach, to join, to connect, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to put against, to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), to allot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow (someone), to shadow, to tail, to stalk, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding), to turn on (a light), to produce flowers (of a plant), to produce fruit, to do intensely, to do fiercely, to do strongly, to be used to (doing), to be accustomed to"
+      },
+      {
+        "example": "付く",
+        "reading": "つく",
+        "meaning": "to be attached, to be connected with, to adhere, to stick, to cling, to remain imprinted, to scar, to stain, to dye, to bear (fruit, interest, etc.), to be acquired (of a habit, ability, etc.), to increase (of strength, etc.), to take root, to accompany, to attend, to follow, to study with, to side with, to belong to, to possess, to haunt, to be lit, to catch fire, to ignite, to be turned on (of a light, appliance, etc.), to be settled, to be resolved, to be decided, to be given (of a name, price, etc.), to be sensed, to be perceived, to be lucky, to become (a state, condition, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "化",
+      "寸",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38468_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09644.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9644.gif",
+    "uri": "https://jisho.org/search/%E9%99%84%23kanji"
+  }
+}

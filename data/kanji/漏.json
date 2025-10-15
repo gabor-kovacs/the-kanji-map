@@ -1,1 +1,77 @@
-{"id":"漏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"漏","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1298","strokeCount":14,"meaning":"leak, escape, time","kunyomi":["も.る","も.れる","も.らす"],"onyomi":["ロウ"],"onyomiExamples":[{"example":"漏洩","reading":"ロウエイ","meaning":"leak (of secrets, information, etc.), disclosure, divulging, leak (of gas, liquid, etc.), leakage, escape (of gas), coming through (of light)"},{"example":"漏出","reading":"ロウシュツ","meaning":"leaking out, leak"},{"example":"遺漏","reading":"イロウ","meaning":"omission"},{"example":"早漏","reading":"ソウロウ","meaning":"premature ejaculation"}],"kunyomiExamples":[{"example":"漏る","reading":"もる","meaning":"to leak, to run out"},{"example":"漏れる","reading":"もれる","meaning":"to leak out, to escape, to come through, to shine through, to filter out, to find expression, to give vent, to leak out, to be divulged, to be disclosed, to be omitted, to be left out, to be excluded, to be not included"},{"example":"漏らす","reading":"もらす","meaning":"to let leak, to let out (e.g. light), to let out (a secret), to leak (information), to divulge, to disclose, to let slip, to give utterance to (e.g. one's dissatisfaction), to vent, to express, to reveal (e.g. one's true intentions), to let out (a sigh, etc.), to wet one's pants, to omit, to leave out, to fail to do, to miss, to omit (by mistake), to forget to do"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["尸","汁","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28431_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f0f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f0f.gif","uri":"https://jisho.org/search/%E6%BC%8F%23kanji"}}
+{
+  "id": "漏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漏",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1298",
+    "strokeCount": 14,
+    "meaning": "leak, escape, time",
+    "kunyomi": [
+      "も.る",
+      "も.れる",
+      "も.らす"
+    ],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "漏洩",
+        "reading": "ロウエイ",
+        "meaning": "leak (of secrets, information, etc.), disclosure, divulging, leak (of gas, liquid, etc.), leakage, escape (of gas), coming through (of light)"
+      },
+      {
+        "example": "漏出",
+        "reading": "ロウシュツ",
+        "meaning": "leaking out, leakage, leak"
+      },
+      {
+        "example": "遺漏",
+        "reading": "イロウ",
+        "meaning": "omission"
+      },
+      {
+        "example": "早漏",
+        "reading": "ソウロウ",
+        "meaning": "premature ejaculation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漏る",
+        "reading": "もる",
+        "meaning": "to leak, to run out"
+      },
+      {
+        "example": "漏れる",
+        "reading": "もれる",
+        "meaning": "to leak out, to escape, to come through, to shine through, to filter out, to find expression, to give vent, to leak out, to be divulged, to be disclosed, to be omitted, to be left out, to be excluded, to be not included"
+      },
+      {
+        "example": "漏らす",
+        "reading": "もらす",
+        "meaning": "to let leak, to let out (e.g. light), to let out (a secret), to leak (information), to divulge, to disclose, to let slip, to give utterance to (e.g. one's dissatisfaction), to vent, to express, to reveal (e.g. one's true intentions), to let out (a sigh, etc.), to wet one's pants, to omit, to leave out, to fail to do, to miss, to omit (by mistake), to forget to do"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "尸",
+      "汁",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28431_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f0f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f0f.gif",
+    "uri": "https://jisho.org/search/%E6%BC%8F%23kanji"
+  }
+}

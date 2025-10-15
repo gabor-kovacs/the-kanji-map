@@ -1,1 +1,42 @@
-{"id":"哄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"哄","found":true,"strokeCount":9,"meaning":"resound, reverberate","kunyomi":[],"onyomi":["コウ"],"onyomiExamples":[{"example":"哄笑","reading":"コウショウ","meaning":"loud laughter"},{"example":"哄然","reading":"コウゼン","meaning":"(laugh) broadly, (laugh) loudly"}],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["ハ","一","二","口","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21700_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054c4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54c4.gif","uri":"https://jisho.org/search/%E5%93%84%23kanji"}}
+{
+  "id": "哄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "哄",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "resound, reverberate",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "哄笑",
+        "reading": "コウショウ",
+        "meaning": "loud laughter (esp. by a group of people), roar of laughter, raucous laughter"
+      },
+      {
+        "example": "哄然",
+        "reading": "コウゼン",
+        "meaning": "(laugh) broadly, (laugh) loudly"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "二",
+      "口",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21700_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54c4.gif",
+    "uri": "https://jisho.org/search/%E5%93%84%23kanji"
+  }
+}

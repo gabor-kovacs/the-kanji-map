@@ -1,1 +1,41 @@
-{"id":"岌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"岌","found":true,"strokeCount":7,"meaning":"high, dangerous","kunyomi":["たか.い"],"onyomi":["キュウ"],"onyomiExamples":[{"example":"岌岌","reading":"キュウキュウ","meaning":"tall (as a mountain, etc.), exceedingly dangerous"},{"example":"岌岌","reading":"キュウキュウ","meaning":"tall (as a mountain, etc.), exceedingly dangerous"}],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["及","山"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23692_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c8c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c8c.gif","uri":"https://jisho.org/search/%E5%B2%8C%23kanji"}}
+{
+  "id": "岌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "岌",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "high, dangerous",
+    "kunyomi": [
+      "たか.い"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "岌岌",
+        "reading": "キュウキュウ",
+        "meaning": "tall (as a mountain, etc.), exceedingly dangerous"
+      },
+      {
+        "example": "岌岌",
+        "reading": "キュウキュウ",
+        "meaning": "tall (as a mountain, etc.), exceedingly dangerous"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "及",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23692_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c8c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c8c.gif",
+    "uri": "https://jisho.org/search/%E5%B2%8C%23kanji"
+  }
+}

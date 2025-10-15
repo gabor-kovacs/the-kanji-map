@@ -1,1 +1,369 @@
-{"id":"南","kanjialiveData":{"kanji":{"character":"南","meaning":{"english":"south"},"strokes":{"count":9,"timings":[0,1.09,1.76,3.034,5.043,5.78,6.45,7.255,7.992],"images":["https://media.kanjialive.com/kanji_strokes/minami_1.svg","https://media.kanjialive.com/kanji_strokes/minami_2.svg","https://media.kanjialive.com/kanji_strokes/minami_3.svg","https://media.kanjialive.com/kanji_strokes/minami_4.svg","https://media.kanjialive.com/kanji_strokes/minami_5.svg","https://media.kanjialive.com/kanji_strokes/minami_6.svg","https://media.kanjialive.com/kanji_strokes/minami_7.svg","https://media.kanjialive.com/kanji_strokes/minami_8.svg","https://media.kanjialive.com/kanji_strokes/minami_9.svg"]},"onyomi":{"romaji":"nan","katakana":"ナン"},"kunyomi":{"romaji":"minami","hiragana":"みなみ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/minami_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/minami_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/minami_00.webm"}},"radical":{"character":"⼗","strokes":2,"image":"https://media.kanjialive.com/radical_character/juu.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"じゅう","romaji":"juu"},"meaning":{"english":"ten"},"animation":["https://media.kanjialive.com/rad_frames/juu0.svg","https://media.kanjialive.com/rad_frames/juu1.svg","https://media.kanjialive.com/rad_frames/juu2.svg"]},"references":{"grade":2,"kodansha":"1320","classic_nelson":"778"},"examples":[{"japanese":"南極（なんきょく）","meaning":{"english":"south pole"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/minami_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/minami_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_a.mp3"}},{"japanese":"南北（なんぼく）","meaning":{"english":"south and north"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/minami_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/minami_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_b.mp3"}},{"japanese":"南部（なんぶ）","meaning":{"english":"southern part"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/minami_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/minami_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_c.mp3"}},{"japanese":"東南アジア（とうなんアジア）","meaning":{"english":"Southeast Asia"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/minami_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/minami_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_d.mp3"}},{"japanese":"南（みなみ）","meaning":{"english":"south"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/minami_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/minami_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_e.mp3"}},{"japanese":"南半球（みなみはんきゅう）","meaning":{"english":"southern hemisphere"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/minami_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/minami_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_f.mp3"}}]},"jishoData":{"query":"南","found":true,"taughtIn":"grade 2","jlptLevel":"N5","newspaperFrequencyRank":"341","strokeCount":9,"meaning":"south","kunyomi":["みなみ"],"onyomi":["ナン","ナ"],"onyomiExamples":[{"example":"南","reading":"ナン","meaning":"south wind tile, winning hand with a pung (or kong) of south wind tiles"},{"example":"南海","reading":"ナンカイ","meaning":"southern sea"},{"example":"東南","reading":"トウナン","meaning":"south-east"},{"example":"西南","reading":"セイナン","meaning":"south-west"},{"example":"南","reading":"ナン","meaning":"south wind tile, winning hand with a pung (or kong) of south wind tiles"},{"example":"南海","reading":"ナンカイ","meaning":"southern sea"}],"kunyomiExamples":[{"example":"南","reading":"みなみ","meaning":"south"},{"example":"南アフリカ","reading":"みなみアフリカ","meaning":"South Africa"},{"example":"東南","reading":"とうなん","meaning":"south-east"},{"example":"西南","reading":"せいなん","meaning":"south-west"}],"radical":{"symbol":"十","meaning":"ten, complete"},"parts":["冂","十","干","并"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21335_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05357.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5357.gif","uri":"https://jisho.org/search/%E5%8D%97%23kanji"}}
+{
+  "id": "南",
+  "kanjialiveData": {
+    "_id": "54317b0c791eba5146ee4c66",
+    "_rev": "10-b8ff8e23353498534231c55ea5015814",
+    "rad_name_ja": "じゅう",
+    "grade": 2,
+    "hint_group": 6,
+    "kunyomi": "minami",
+    "meaning": "south",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "南極（なんきょく）",
+        "meaning": {
+          "english": "south pole"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "南北（なんぼく）",
+        "meaning": {
+          "english": "south and north"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "南部（なんぶ）",
+        "meaning": {
+          "english": "southern part"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "東南アジア（とうなんアジア）",
+        "meaning": {
+          "english": "Southeast Asia"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "南（みなみ）",
+        "meaning": {
+          "english": "south"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "南半球（みなみはんきゅう）",
+        "meaning": {
+          "english": "southern hemisphere"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/minami_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/minami_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "みなみ",
+    "ka_utf": "南",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=南",
+    "rad_name_search": [
+      "juu"
+    ],
+    "rad_order": 28,
+    "txt_books": [
+      {
+        "chapter": "12",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "minami",
+    "rad_utf": "⼗",
+    "stroketimes": [
+      0,
+      1.09,
+      1.76,
+      3.034,
+      5.043,
+      5.78,
+      6.45,
+      7.255,
+      7.992
+    ],
+    "kunyomi_ka_display": "みなみ",
+    "dick": "1320",
+    "rad_name": "juu",
+    "dicn": "778",
+    "mn_hint": "Known for its fertile soil where sprouting [11] seeds 干 yield many 十 bags 冂.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ナン",
+    "rad_meaning": "ten",
+    "onyomi": "nan",
+    "ka_id": "ka_88",
+    "onyomi_search": [
+      "nan",
+      "nan"
+    ],
+    "kunyomi_search": [
+      "minami",
+      "minami"
+    ],
+    "meaning_search": [
+      "south",
+      "south"
+    ],
+    "onyomi_ja_search": [
+      "ナン",
+      "ナン"
+    ],
+    "kunyomi_ja_search": [
+      "みなみ",
+      "みなみ"
+    ],
+    "rad_meaning_search": [
+      "ten",
+      "ten"
+    ],
+    "rad_name_ja_search": [
+      "じゅう"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:12",
+      "cij:c12",
+      "bk",
+      "bk:18",
+      "bk:c18",
+      "aij3",
+      "aij3:9",
+      "aij3:c9",
+      "aij3:v3",
+      "aij3:v3:9",
+      "aij3:v3:c9",
+      "gen",
+      "gen:6",
+      "gen:c6",
+      "ap",
+      "ap:16",
+      "ap:c16",
+      "kll",
+      "kll:3",
+      "kll:c3"
+    ],
+    "rad_name_file": "juu",
+    "kanji": {
+      "character": "南",
+      "meaning": {
+        "english": "south"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1.09,
+          1.76,
+          3.034,
+          5.043,
+          5.78,
+          6.45,
+          7.255,
+          7.992
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/minami_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/minami_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/minami_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/minami_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/minami_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/minami_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/minami_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/minami_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/minami_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "nan",
+        "katakana": "ナン"
+      },
+      "kunyomi": {
+        "romaji": "minami",
+        "hiragana": "みなみ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/minami_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/minami_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/minami_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼗",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/juu.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "じゅう",
+        "romaji": "juu"
+      },
+      "meaning": {
+        "english": "ten"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/juu0.svg",
+        "https://media.kanjialive.com/rad_frames/juu1.svg",
+        "https://media.kanjialive.com/rad_frames/juu2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1320",
+      "classic_nelson": "778"
+    }
+  },
+  "jishoData": {
+    "query": "南",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "341",
+    "strokeCount": 9,
+    "meaning": "south",
+    "kunyomi": [
+      "みなみ"
+    ],
+    "onyomi": [
+      "ナン",
+      "ナ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "南",
+        "reading": "ナン",
+        "meaning": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
+      },
+      {
+        "example": "南海",
+        "reading": "ナンカイ",
+        "meaning": "southern sea"
+      },
+      {
+        "example": "東南",
+        "reading": "トウナン",
+        "meaning": "south-east"
+      },
+      {
+        "example": "西南",
+        "reading": "セイナン",
+        "meaning": "south-west"
+      },
+      {
+        "example": "南",
+        "reading": "ナン",
+        "meaning": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
+      },
+      {
+        "example": "南海",
+        "reading": "ナンカイ",
+        "meaning": "southern sea"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "南",
+        "reading": "みなみ",
+        "meaning": "south"
+      },
+      {
+        "example": "南アフリカ",
+        "reading": "みなみアフリカ",
+        "meaning": "South Africa"
+      },
+      {
+        "example": "東南",
+        "reading": "とうなん",
+        "meaning": "south-east"
+      },
+      {
+        "example": "西南",
+        "reading": "せいなん",
+        "meaning": "south-west"
+      }
+    ],
+    "radical": {
+      "symbol": "十",
+      "meaning": "ten, complete"
+    },
+    "parts": [
+      "冂",
+      "十",
+      "干",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21335_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05357.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5357.gif",
+    "uri": "https://jisho.org/search/%E5%8D%97%23kanji"
+  }
+}

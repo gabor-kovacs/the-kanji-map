@@ -1,1 +1,70 @@
-{"id":"翻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"翻","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1465","strokeCount":18,"meaning":"flip, turn over, wave, flutter, change (mind)","kunyomi":["ひるがえ.る","ひるがえ.す"],"onyomi":["ホン","ハン"],"onyomiExamples":[{"example":"翻訳","reading":"ホンヤク","meaning":"translation, deciphering, decoding, translation"},{"example":"翻案","reading":"ホンアン","meaning":"adaptation (of a novel, play, etc.)"},{"example":"翻","reading":"ハン","meaning":"han, fan, unit that doubles the score of a hand"},{"example":"翻刻","reading":"ホンコク","meaning":"reprinting (of a book)"}],"kunyomiExamples":[{"example":"翻る","reading":"ひるがえる","meaning":"to flutter (in the wind), to wave, to flap, to fly, to turn over, to flip over, to suddenly change (attitude, opinion, etc.), to suddenly switch, to alter, to flip"},{"example":"翻す","reading":"ひるがえす","meaning":"to turn over, to turn around, to change (one's mind), to reverse (one's decision), to take back (one's words), to fly (flag, etc.), to wave (skirt, cape, etc.)"}],"radical":{"symbol":"羽","meaning":"feather"},"parts":["冫","田","米","羽","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32763_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ffb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ffb.gif","uri":"https://jisho.org/search/%E7%BF%BB%23kanji"}}
+{
+  "id": "翻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "翻",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1465",
+    "strokeCount": 18,
+    "meaning": "flip, turn over, wave, flutter, change (mind)",
+    "kunyomi": [
+      "ひるがえ.る",
+      "ひるがえ.す"
+    ],
+    "onyomi": [
+      "ホン",
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "翻訳",
+        "reading": "ホンヤク",
+        "meaning": "translation, deciphering, decoding, translation"
+      },
+      {
+        "example": "翻案",
+        "reading": "ホンアン",
+        "meaning": "adaptation (of a novel, play, etc.)"
+      },
+      {
+        "example": "翻",
+        "reading": "ハン",
+        "meaning": "han, fan, unit that doubles the score of a hand"
+      },
+      {
+        "example": "翻刻",
+        "reading": "ホンコク",
+        "meaning": "reprinting (of a book)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "翻る",
+        "reading": "ひるがえる",
+        "meaning": "to flutter (in the wind), to wave, to flap, to fly, to turn over, to flip over, to suddenly change (attitude, opinion, etc.), to suddenly switch, to alter, to flip"
+      },
+      {
+        "example": "翻す",
+        "reading": "ひるがえす",
+        "meaning": "to turn over, to change (one's mind), to reverse (one's decision), to take back (one's words), to retract (one's testimony, confession, etc.), to fly (a flag), to let (a skirt, cape, etc.) flap in the wind, to let flutter"
+      }
+    ],
+    "radical": {
+      "symbol": "羽",
+      "meaning": "feather"
+    },
+    "parts": [
+      "冫",
+      "田",
+      "米",
+      "羽",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32763_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ffb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ffb.gif",
+    "uri": "https://jisho.org/search/%E7%BF%BB%23kanji"
+  }
+}

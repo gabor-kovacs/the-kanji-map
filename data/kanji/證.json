@@ -1,1 +1,47 @@
-{"id":"證","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"證","found":true,"strokeCount":19,"meaning":"proof, evidence, certificate, testify, verify, guarantee, witness","kunyomi":["あかし"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"証券","reading":"ショウケン","meaning":"bond, bill, certificate, security"},{"example":"証拠","reading":"ショウコ","meaning":"evidence, proof"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["口","并","癶","言","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35657_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b49.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b49.gif","uri":"https://jisho.org/search/%E8%AD%89%23kanji"}}
+{
+  "id": "證",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "證",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "proof, evidence, certificate, testify, verify, guarantee, witness",
+    "kunyomi": [
+      "あかし"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "証券",
+        "reading": "ショウケン",
+        "meaning": "bond, bill, certificate, security"
+      },
+      {
+        "example": "証拠",
+        "reading": "ショウコ",
+        "meaning": "evidence, proof"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "口",
+      "并",
+      "癶",
+      "言",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35657_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b49.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b49.gif",
+    "uri": "https://jisho.org/search/%E8%AD%89%23kanji"
+  }
+}

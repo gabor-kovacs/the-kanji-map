@@ -1,1 +1,57 @@
-{"id":"鑰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鑰","found":true,"strokeCount":25,"meaning":"lock","kunyomi":["かぎ"],"onyomi":["ヤク"],"onyomiExamples":[{"example":"秘鑰","reading":"ヒヤク","meaning":"secret key"},{"example":"管鑰","reading":"カンヤク","meaning":"key, flute constructed of bamboo"}],"kunyomiExamples":[{"example":"鍵","reading":"かぎ","meaning":"key, lock, key (to a problem), clue"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["一","个","冂","冊","口","廾","金","龠","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38000_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09470.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9470.gif","uri":"https://jisho.org/search/%E9%91%B0%23kanji"}}
+{
+  "id": "鑰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑰",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "lock",
+    "kunyomi": [
+      "かぎ"
+    ],
+    "onyomi": [
+      "ヤク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "秘鑰",
+        "reading": "ヒヤク",
+        "meaning": "secret key"
+      },
+      {
+        "example": "管鑰",
+        "reading": "カンヤク",
+        "meaning": "key, flute constructed of bamboo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鍵",
+        "reading": "かぎ",
+        "meaning": "key, lock, key (to a problem, success, etc.), clue"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "一",
+      "个",
+      "冂",
+      "冊",
+      "口",
+      "廾",
+      "金",
+      "龠",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38000_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09470.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9470.gif",
+    "uri": "https://jisho.org/search/%E9%91%B0%23kanji"
+  }
+}

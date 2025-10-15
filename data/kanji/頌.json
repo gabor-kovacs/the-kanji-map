@@ -1,1 +1,64 @@
-{"id":"頌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"頌","found":true,"jlptLevel":"N1","strokeCount":13,"meaning":"eulogy","kunyomi":["かたち","たた.える","ほめ.る"],"onyomi":["ショウ","ジュ","ヨウ"],"onyomiExamples":[{"example":"頌","reading":"ショウ","meaning":"praise, hymn (genre of the Shi Jing)"},{"example":"頌栄","reading":"ショウエイ","meaning":"doxology"},{"example":"奉献頌","reading":"ホウケンショウ","meaning":"offertory, offertory music"},{"example":"頌","reading":"ジュ","meaning":"gatha (poetic verse of a scripture)"},{"example":"頌寿","reading":"ショウジュ","meaning":"celebration of longevity"}],"kunyomiExamples":[],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ハ","厶","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38924_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0980c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/980c.gif","uri":"https://jisho.org/search/%E9%A0%8C%23kanji"}}
+{
+  "id": "頌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頌",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 13,
+    "meaning": "eulogy",
+    "kunyomi": [
+      "かたち",
+      "たた.える",
+      "ほめ.る"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ジュ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頌",
+        "reading": "ショウ",
+        "meaning": "praise, hymn (genre of the Shi Jing)"
+      },
+      {
+        "example": "頌栄",
+        "reading": "ショウエイ",
+        "meaning": "doxology"
+      },
+      {
+        "example": "奉献頌",
+        "reading": "ホウケンショウ",
+        "meaning": "offertory, offertory music"
+      },
+      {
+        "example": "頌",
+        "reading": "ジュ",
+        "meaning": "gatha (poetic verse of a scripture)"
+      },
+      {
+        "example": "頌寿",
+        "reading": "ショウジュ",
+        "meaning": "celebration of longevity"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ハ",
+      "厶",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38924_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0980c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/980c.gif",
+    "uri": "https://jisho.org/search/%E9%A0%8C%23kanji"
+  }
+}

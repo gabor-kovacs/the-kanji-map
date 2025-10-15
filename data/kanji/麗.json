@@ -1,1 +1,69 @@
-{"id":"麗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"麗","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1758","strokeCount":19,"meaning":"lovely, beautiful, graceful, resplendent","kunyomi":["うるわ.しい","うら.らか"],"onyomi":["レイ"],"onyomiExamples":[{"example":"麗句","reading":"レイク","meaning":"elegant phrase"},{"example":"麗景殿","reading":"レイケイデン","meaning":"ladies' pavilion (of the inner Heian Palace)"},{"example":"瑰麗","reading":"カイレイ","meaning":"extraordinarily beautiful, exceptionally pretty, gorgeous, magnificent"},{"example":"麗々","reading":"レイレイ","meaning":"ostentatious, gaudy, showy"}],"kunyomiExamples":[{"example":"麗しい","reading":"うるわしい","meaning":"beautiful, lovely, heartwarming, beautiful"},{"example":"麗らか","reading":"うららか","meaning":"bright (weather, mood, voice, etc.), clear, fine, beautiful, glorious, splendid, cheerful"}],"radical":{"symbol":"鹿","meaning":"deer"},"parts":["一","冂","广","比","鹿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40599_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e97.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e97.gif","uri":"https://jisho.org/search/%E9%BA%97%23kanji"}}
+{
+  "id": "麗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麗",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1758",
+    "strokeCount": 19,
+    "meaning": "lovely, beautiful, graceful, resplendent",
+    "kunyomi": [
+      "うるわ.しい",
+      "うら.らか"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麗句",
+        "reading": "レイク",
+        "meaning": "elegant phrase"
+      },
+      {
+        "example": "麗景殿",
+        "reading": "レイケイデン",
+        "meaning": "ladies' pavilion (of the inner Heian Palace)"
+      },
+      {
+        "example": "瑰麗",
+        "reading": "カイレイ",
+        "meaning": "extraordinarily beautiful, exceptionally pretty, gorgeous, magnificent"
+      },
+      {
+        "example": "清麗",
+        "reading": "セイレイ",
+        "meaning": "clean, tidy, pure, untarnished, Seirei (one of the eight major professional female titles)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "麗しい",
+        "reading": "うるわしい",
+        "meaning": "beautiful, lovely, heartwarming, beautiful"
+      },
+      {
+        "example": "麗らか",
+        "reading": "うららか",
+        "meaning": "bright (weather, mood, voice, etc.), clear, fine, beautiful, glorious, splendid, cheerful"
+      }
+    ],
+    "radical": {
+      "symbol": "鹿",
+      "meaning": "deer"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "广",
+      "比",
+      "鹿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40599_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e97.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e97.gif",
+    "uri": "https://jisho.org/search/%E9%BA%97%23kanji"
+  }
+}

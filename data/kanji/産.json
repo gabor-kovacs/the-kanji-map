@@ -1,1 +1,428 @@
-{"id":"産","kanjialiveData":{"kanji":{"character":"産","meaning":{"english":"give birth, produce"},"strokes":{"count":11,"timings":[0,0.8,1.866667,2.533333,3.466667,4.866667,5.666667,6.733333,7.733333,8.533333,9.866667,12],"images":["https://media.kanjialive.com/kanji_strokes/san-u(mu)_1.svg","https://media.kanjialive.com/kanji_strokes/san-u(mu)_2.svg","https://media.kanjialive.com/kanji_strokes/san-u(mu)_3.svg","https://media.kanjialive.com/kanji_strokes/san-u(mu)_4.svg","https://media.kanjialive.com/kanji_strokes/san-u(mu)_5.svg","https://media.kanjialive.com/kanji_strokes/san-u(mu)_6.svg","https://media.kanjialive.com/kanji_strokes/san-u(mu)_7.svg","https://media.kanjialive.com/kanji_strokes/san-u(mu)_8.svg","https://media.kanjialive.com/kanji_strokes/san-u(mu)_9.svg","https://media.kanjialive.com/kanji_strokes/san-u(mu)_10.svg","https://media.kanjialive.com/kanji_strokes/san-u(mu)_11.svg"]},"onyomi":{"romaji":"san","katakana":"サン"},"kunyomi":{"romaji":"u, umu, umareru, ubu","hiragana":"う、うぶ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/san-u(mu)_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/san-u(mu)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/san-u(mu)_00.webm"}},"radical":{"character":"⽣","strokes":5,"image":"https://media.kanjialive.com/radical_character/umareru.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"うまれる","romaji":"umareru"},"meaning":{"english":"birth, to be born, live"},"animation":["https://media.kanjialive.com/rad_frames/umareru0.svg","https://media.kanjialive.com/rad_frames/umareru1.svg","https://media.kanjialive.com/rad_frames/umareru2.svg"]},"references":{"grade":4,"kodansha":"2075","classic_nelson":"3354"},"examples":[{"japanese":"産業（さんぎょう）","meaning":{"english":"industry"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_a.mp3"}},{"japanese":"産地（さんち）","meaning":{"english":"area"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_b.mp3"}},{"japanese":"名産（めいさん）","meaning":{"english":"local specialty"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_c.mp3"}},{"japanese":"財産（ざいさん）","meaning":{"english":"assets"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_d.mp3"}},{"japanese":"不動産（ふどうさん）","meaning":{"english":"real estate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_e.mp3"}},{"japanese":"共産主義（きょうさんしゅぎ）","meaning":{"english":"communism"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_f.mp3"}},{"japanese":"産出する（さんしゅつする）","meaning":{"english":"yield [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_g.mp3"}},{"japanese":"倒産する（とうさんする）","meaning":{"english":"go bankrupt (company)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_h.mp3"}},{"japanese":"破産する（はさんする）","meaning":{"english":"go bankrupt"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_i.mp3"}},{"japanese":"出産する（しゅっさんする）","meaning":{"english":"give birth to"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_j.mp3"}},{"japanese":"産む（うむ）","meaning":{"english":"give birth to"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_k.mp3"}},{"japanese":"産声（うぶごえ）","meaning":{"english":"baby's first cry"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_l.mp3"}}]},"jishoData":{"query":"産","found":true,"taughtIn":"grade 4","jlptLevel":"N3","newspaperFrequencyRank":"161","strokeCount":11,"meaning":"products, bear, give birth, yield, childbirth, native, property","kunyomi":["う.む","う.まれる","うぶ-","む.す"],"onyomi":["サン"],"onyomiExamples":[{"example":"産","reading":"サン","meaning":"(giving) birth, childbirth, delivery, confinement, native of, product of, assets, property, fortune"},{"example":"産科","reading":"サンカ","meaning":"obstetrics"},{"example":"増産","reading":"ゾウサン","meaning":"production increase"},{"example":"水産","reading":"スイサン","meaning":"aquatic products, fisheries"}],"kunyomiExamples":[{"example":"生む","reading":"うむ","meaning":"to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to, to deliver"},{"example":"生まれる","reading":"うまれる","meaning":"to be born"},{"example":"生す","reading":"むす","meaning":"to grow (of moss, etc.)"},{"example":"産霊","reading":"むすひ","meaning":"divine spirit of creation"}],"radical":{"symbol":"生","meaning":"life"},"parts":["ノ","亠","厂","并","生","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29987_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07523.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7523.gif","uri":"https://jisho.org/search/%E7%94%A3%23kanji"}}
+{
+  "id": "産",
+  "kanjialiveData": {
+    "_id": "54317afe791eba5146ee4b70",
+    "_rev": "10-1ba9ae2063e780cf2401a32ff1feed3d",
+    "rad_name_ja": "うまれる",
+    "grade": 4,
+    "hint_group": 6,
+    "kunyomi": "u, umu, umareru, ubu",
+    "meaning": "give birth, produce",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "産業（さんぎょう）",
+        "meaning": {
+          "english": "industry"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "産地（さんち）",
+        "meaning": {
+          "english": "area"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "名産（めいさん）",
+        "meaning": {
+          "english": "local specialty"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "財産（ざいさん）",
+        "meaning": {
+          "english": "assets"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "不動産（ふどうさん）",
+        "meaning": {
+          "english": "real estate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "共産主義（きょうさんしゅぎ）",
+        "meaning": {
+          "english": "communism"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "産出する（さんしゅつする）",
+        "meaning": {
+          "english": "yield [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "倒産する（とうさんする）",
+        "meaning": {
+          "english": "go bankrupt (company)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "破産する（はさんする）",
+        "meaning": {
+          "english": "go bankrupt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "出産する（しゅっさんする）",
+        "meaning": {
+          "english": "give birth to"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "産む（うむ）",
+        "meaning": {
+          "english": "give birth to"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "産声（うぶごえ）",
+        "meaning": {
+          "english": "baby's first cry"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-u(mu)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/san-u(mu)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/san-u(mu)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/san-u(mu)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "う、うむ、うまれる、うぶ",
+    "ka_utf": "産",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=産",
+    "kname": "san-u(mu)",
+    "rad_order": 126,
+    "txt_books": [
+      {
+        "chapter": "12",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "35",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "umareru"
+    ],
+    "rad_utf": "⽣",
+    "stroketimes": [
+      0,
+      0.8,
+      1.866667,
+      2.533333,
+      3.466667,
+      4.866667,
+      5.666667,
+      6.733333,
+      7.733333,
+      8.533333,
+      9.866667,
+      12
+    ],
+    "kunyomi_ka_display": "う、うぶ",
+    "dick": "2075",
+    "rad_name": "umareru",
+    "dicn": "3354",
+    "mn_hint": "Couple [11] in a hospital 亠 <span class='note'>(orig. \"lid\")</span> giving birth 生 in delivery room 厂.",
+    "rad_stroke": 5,
+    "onyomi_ja": "サン",
+    "rad_meaning": "birth, to be born, live",
+    "onyomi": "san",
+    "ka_id": "ka_658",
+    "onyomi_search": [
+      "san",
+      "san"
+    ],
+    "kunyomi_search": [
+      "u",
+      "umu",
+      "umareru",
+      "ubu",
+      "u, umu, umareru, ubu"
+    ],
+    "meaning_search": [
+      "give birth",
+      "give",
+      "birth",
+      "produce",
+      "give birth, produce"
+    ],
+    "onyomi_ja_search": [
+      "サン",
+      "サン"
+    ],
+    "kunyomi_ja_search": [
+      "う",
+      "うむ",
+      "うまれる",
+      "うぶ",
+      "う、うむ、うまれる、うぶ"
+    ],
+    "rad_meaning_search": [
+      "birth",
+      "to be born",
+      "to",
+      "be",
+      "born",
+      "live",
+      "birth, to be born, live"
+    ],
+    "rad_name_ja_search": [
+      "うまれる"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:12",
+      "ij:c12",
+      "bk",
+      "bk:35",
+      "bk:c35",
+      "kll",
+      "kll:17",
+      "kll:c17",
+      "jtr",
+      "jtr:11",
+      "jtr:c11"
+    ],
+    "rad_name_file": "umareru",
+    "kanji": {
+      "character": "産",
+      "meaning": {
+        "english": "give birth, produce"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          0.8,
+          1.866667,
+          2.533333,
+          3.466667,
+          4.866667,
+          5.666667,
+          6.733333,
+          7.733333,
+          8.533333,
+          9.866667,
+          12
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/san-u(mu)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "san",
+        "katakana": "サン"
+      },
+      "kunyomi": {
+        "romaji": "u, umu, umareru, ubu",
+        "hiragana": "う、うぶ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/san-u(mu)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/san-u(mu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/san-u(mu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽣",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/umareru.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "うまれる",
+        "romaji": "umareru"
+      },
+      "meaning": {
+        "english": "birth, to be born, live"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/umareru0.svg",
+        "https://media.kanjialive.com/rad_frames/umareru1.svg",
+        "https://media.kanjialive.com/rad_frames/umareru2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "2075",
+      "classic_nelson": "3354"
+    }
+  },
+  "jishoData": {
+    "query": "産",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "161",
+    "strokeCount": 11,
+    "meaning": "products, bear, give birth, yield, childbirth, native, property",
+    "kunyomi": [
+      "う.む",
+      "う.まれる",
+      "うぶ-",
+      "む.す"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "産",
+        "reading": "サン",
+        "meaning": "(giving) birth, childbirth, delivery, native (of), product of, produced in, -grown, -bred, assets, property, fortune"
+      },
+      {
+        "example": "産科",
+        "reading": "サンカ",
+        "meaning": "obstetrics, obstetrical department, maternity division"
+      },
+      {
+        "example": "増産",
+        "reading": "ゾウサン",
+        "meaning": "increase in production, production increase"
+      },
+      {
+        "example": "水産",
+        "reading": "スイサン",
+        "meaning": "aquatic products, fisheries"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "生む",
+        "reading": "うむ",
+        "meaning": "to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to, to deliver"
+      },
+      {
+        "example": "生まれる",
+        "reading": "うまれる",
+        "meaning": "to be born"
+      },
+      {
+        "example": "生す",
+        "reading": "むす",
+        "meaning": "to grow (of moss, etc.)"
+      },
+      {
+        "example": "産霊",
+        "reading": "むすひ",
+        "meaning": "divine spirit of creation"
+      }
+    ],
+    "radical": {
+      "symbol": "生",
+      "meaning": "life"
+    },
+    "parts": [
+      "ノ",
+      "亠",
+      "厂",
+      "并",
+      "生",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29987_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07523.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7523.gif",
+    "uri": "https://jisho.org/search/%E7%94%A3%23kanji"
+  }
+}

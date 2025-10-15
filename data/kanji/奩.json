@@ -1,1 +1,33 @@
-{"id":"奩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"奩","found":true,"strokeCount":14,"meaning":"lady's vanity case, trousseau","kunyomi":["くしげ","はこ"],"onyomi":["レン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"大","meaning":"big, very"},"parts":["匚","口","品","大"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22889_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05969.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5969.gif","uri":"https://jisho.org/search/%E5%A5%A9%23kanji"}}
+{
+  "id": "奩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奩",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "lady's vanity case, trousseau",
+    "kunyomi": [
+      "くしげ",
+      "はこ"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "匚",
+      "口",
+      "品",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22889_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05969.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5969.gif",
+    "uri": "https://jisho.org/search/%E5%A5%A9%23kanji"
+  }
+}

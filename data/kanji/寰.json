@@ -1,1 +1,31 @@
-{"id":"寰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"寰","found":true,"strokeCount":16,"meaning":"imperial domain, world","kunyomi":[],"onyomi":["カン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"宀","meaning":"roof"},"parts":["一","口","宀","衣","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23536_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bf0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bf0.gif","uri":"https://jisho.org/search/%E5%AF%B0%23kanji"}}
+{
+  "id": "寰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寰",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "imperial domain, world",
+    "kunyomi": [],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "一",
+      "口",
+      "宀",
+      "衣",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23536_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bf0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bf0.gif",
+    "uri": "https://jisho.org/search/%E5%AF%B0%23kanji"
+  }
+}

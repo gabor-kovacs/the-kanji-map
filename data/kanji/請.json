@@ -1,1 +1,110 @@
-{"id":"請","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"請","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"524","strokeCount":15,"meaning":"solicit, invite, ask","kunyomi":["こ.う","う.ける"],"onyomi":["セイ","シン","ショウ"],"onyomiExamples":[{"example":"請求","reading":"セイキュウ","meaning":"claim, demand, charge, application, request, billing (for a service)"},{"example":"請願","reading":"セイガン","meaning":"petition"},{"example":"招請","reading":"ショウセイ","meaning":"invitation"},{"example":"懇請","reading":"コンセイ","meaning":"appeal, entreaty, request"},{"example":"普請","reading":"フシン","meaning":"building, construction, group effort by Buddhist practitioners, group activities by a community (e.g. cleaning, etc.)"},{"example":"安普請","reading":"ヤスブシン","meaning":"cheap structure (e.g. of houses)"},{"example":"請","reading":"ショウ","meaning":"request, invitation, privilege in criminal law given to nobles of the fifth rank or above (ritsuryō system)"},{"example":"招待","reading":"ショウタイ","meaning":"invitation"},{"example":"招請","reading":"ショウセイ","meaning":"invitation"},{"example":"拝請","reading":"ハイショウ","meaning":"humbly inviting"}],"kunyomiExamples":[{"example":"乞う","reading":"こう","meaning":"to beg, to ask, to request, to invite, to pray, to wish"},{"example":"乞うご期待","reading":"こうごきたい","meaning":"don't miss it, stay tuned, coming soon, look forward to it"},{"example":"受ける","reading":"うける","meaning":"to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["二","亠","土","月","言","青"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35531_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08acb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8acb.gif","uri":"https://jisho.org/search/%E8%AB%8B%23kanji"}}
+{
+  "id": "請",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "請",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "524",
+    "strokeCount": 15,
+    "meaning": "solicit, invite, ask",
+    "kunyomi": [
+      "こ.う",
+      "う.ける"
+    ],
+    "onyomi": [
+      "セイ",
+      "シン",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "請求",
+        "reading": "セイキュウ",
+        "meaning": "claim, demand, charge, application, request, billing (for a service)"
+      },
+      {
+        "example": "請願",
+        "reading": "セイガン",
+        "meaning": "petition"
+      },
+      {
+        "example": "招請",
+        "reading": "ショウセイ",
+        "meaning": "invitation"
+      },
+      {
+        "example": "懇請",
+        "reading": "コンセイ",
+        "meaning": "appeal, entreaty, request"
+      },
+      {
+        "example": "普請",
+        "reading": "フシン",
+        "meaning": "building, construction, group effort by Buddhist practitioners, group activities by a community (e.g. cleaning, etc.)"
+      },
+      {
+        "example": "安普請",
+        "reading": "ヤスブシン",
+        "meaning": "cheap structure (e.g. of houses)"
+      },
+      {
+        "example": "請",
+        "reading": "ショウ",
+        "meaning": "request, invitation, privilege in criminal law given to nobles of the fifth rank or above (ritsuryō system)"
+      },
+      {
+        "example": "招待",
+        "reading": "ショウタイ",
+        "meaning": "invitation"
+      },
+      {
+        "example": "招請",
+        "reading": "ショウセイ",
+        "meaning": "invitation"
+      },
+      {
+        "example": "拝請",
+        "reading": "ハイショウ",
+        "meaning": "humbly inviting"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "乞う",
+        "reading": "こう",
+        "meaning": "to beg, to ask, to request, to invite, to pray, to wish"
+      },
+      {
+        "example": "乞うご期待",
+        "reading": "こうごきたい",
+        "meaning": "don't miss it, stay tuned, coming soon, look forward to it"
+      },
+      {
+        "example": "受ける",
+        "reading": "うける",
+        "meaning": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "土",
+      "月",
+      "言",
+      "青"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35531_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08acb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8acb.gif",
+    "uri": "https://jisho.org/search/%E8%AB%8B%23kanji"
+  }
+}

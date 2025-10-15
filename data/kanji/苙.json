@@ -1,1 +1,32 @@
-{"id":"苙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"苙","found":true,"strokeCount":8,"meaning":"type of herb, pigsty","kunyomi":[],"onyomi":["リュウ","キュウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["立","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33497_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d9.gif","uri":"https://jisho.org/search/%E8%8B%99%23kanji"}}
+{
+  "id": "苙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苙",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "type of herb, pigsty",
+    "kunyomi": [],
+    "onyomi": [
+      "リュウ",
+      "キュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "立",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33497_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d9.gif",
+    "uri": "https://jisho.org/search/%E8%8B%99%23kanji"
+  }
+}

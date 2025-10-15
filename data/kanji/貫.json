@@ -1,1 +1,85 @@
-{"id":"貫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"貫","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1156","strokeCount":11,"meaning":"pierce, 8 1/3lbs, penetrate, brace","kunyomi":["つらぬ.く","ぬ.く","ぬき"],"onyomi":["カン"],"onyomiExamples":[{"example":"貫","reading":"カン","meaning":"kan (obs. unit of weight, approx. 3.75 kg, 8.3 lb), kan (obs. unit of currency, equiv. to 1000 mon in the Edo period; col. 10 mon in the Meiji period), counter for pieces of sushi, 10 points, 12 points"},{"example":"貫通","reading":"カンツウ","meaning":"passing through (of a tunnel, bullet, etc.), going (right) through, penetrating, piercing, being well versed (in)"},{"example":"終始一貫","reading":"シュウシイッカン","meaning":"consistently, unchangingly, throughout"},{"example":"縦貫","reading":"ジュウカン","meaning":"running through, traversal"}],"kunyomiExamples":[{"example":"貫く","reading":"つらぬく","meaning":"to go through, to pierce, to penetrate, to run through (e.g. a river through a city), to pass through, to stick to (opinion, principles, etc.), to carry out, to persist with, to keep (e.g. faith), to maintain (e.g. independence)"},{"example":"貫","reading":"ぬき","meaning":"crosspiece (between pillars, etc.), penetrating tie beam"},{"example":"貫き通す","reading":"つらぬきとおす","meaning":"to go through, to pierce, to penetrate, to stick to (opinion, principles, etc.), to carry out, to persist with, to keep (e.g. faith), to maintain (e.g. independence)"},{"example":"吹き抜き","reading":"ふきぬき","meaning":"stairwell, atrium, streamer, pennant"},{"example":"指貫","reading":"さしぬき","meaning":"type of hakama worn in ancient times"}],"radical":{"symbol":"貝","meaning":"shell"},"parts":["ハ","毋","母","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36011_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cab.gif","uri":"https://jisho.org/search/%E8%B2%AB%23kanji"}}
+{
+  "id": "貫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "貫",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1156",
+    "strokeCount": 11,
+    "meaning": "pierce, 8 1/3lbs, penetrate, brace",
+    "kunyomi": [
+      "つらぬ.く",
+      "ぬ.く",
+      "ぬき"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "貫",
+        "reading": "カン",
+        "meaning": "kan (obs. unit of weight, approx. 3.75 kg, 8.3 lb), kan (obs. unit of currency, equiv. to 1000 mon in the Edo period; col. 10 mon in the Meiji period), counter for pieces of sushi, 10 points, 12 points"
+      },
+      {
+        "example": "貫通",
+        "reading": "カンツウ",
+        "meaning": "passing through (of a tunnel, bullet, etc.), going (right) through, penetrating, piercing, being well versed (in)"
+      },
+      {
+        "example": "終始一貫",
+        "reading": "シュウシイッカン",
+        "meaning": "consistently, unchangingly, throughout"
+      },
+      {
+        "example": "縦貫",
+        "reading": "ジュウカン",
+        "meaning": "running through, traversal"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "貫く",
+        "reading": "つらぬく",
+        "meaning": "to go through, to pierce, to penetrate, to run through (e.g. a river through a city), to pass through, to stick to (opinion, principles, etc.), to carry out, to persist with, to keep (e.g. faith), to maintain (e.g. independence)"
+      },
+      {
+        "example": "貫",
+        "reading": "ぬき",
+        "meaning": "crosspiece (between pillars, etc.), penetrating tie beam"
+      },
+      {
+        "example": "貫き通す",
+        "reading": "つらぬきとおす",
+        "meaning": "to go through, to pierce, to penetrate, to stick to (opinion, principles, etc.), to carry out, to persist with, to keep (e.g. faith), to maintain (e.g. independence)"
+      },
+      {
+        "example": "吹き抜き",
+        "reading": "ふきぬき",
+        "meaning": "stairwell, atrium, streamer, pennant"
+      },
+      {
+        "example": "指貫",
+        "reading": "さしぬき",
+        "meaning": "type of hakama worn in ancient times"
+      }
+    ],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "shell"
+    },
+    "parts": [
+      "ハ",
+      "毋",
+      "母",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36011_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cab.gif",
+    "uri": "https://jisho.org/search/%E8%B2%AB%23kanji"
+  }
+}

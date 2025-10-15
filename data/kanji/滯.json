@@ -1,1 +1,39 @@
-{"id":"滯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"滯","found":true,"strokeCount":14,"meaning":"block up, obstruct, stagnant","kunyomi":["とどこお.る"],"onyomi":["タイ","テイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","儿","冖","凵","巾","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28399_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eef.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eef.gif","uri":"https://jisho.org/search/%E6%BB%AF%23kanji"}}
+{
+  "id": "滯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滯",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "block up, obstruct, stagnant",
+    "kunyomi": [
+      "とどこお.る"
+    ],
+    "onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "冖",
+      "凵",
+      "巾",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28399_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eef.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eef.gif",
+    "uri": "https://jisho.org/search/%E6%BB%AF%23kanji"
+  }
+}

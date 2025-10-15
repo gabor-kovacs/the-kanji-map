@@ -1,1 +1,42 @@
-{"id":"匐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"匐","found":true,"strokeCount":11,"meaning":"crawl","kunyomi":[],"onyomi":["ホク","フク"],"onyomiExamples":[{"example":"匍匐","reading":"ホフク","meaning":"creeping, crawling, sneaking"}],"kunyomiExamples":[],"radical":{"symbol":"勹","meaning":"wrap, embrace"},"parts":["一","勹","口","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21264_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05310.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5310.gif","uri":"https://jisho.org/search/%E5%8C%90%23kanji"}}
+{
+  "id": "匐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匐",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "crawl",
+    "kunyomi": [],
+    "onyomi": [
+      "ホク",
+      "フク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匐行疹",
+        "reading": "フクコウシン",
+        "meaning": "ringworm, serpigo"
+      },
+      {
+        "example": "匍匐",
+        "reading": "ホフク",
+        "meaning": "creeping, crawling, sneaking"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "勹",
+      "meaning": "wrap, embrace"
+    },
+    "parts": [
+      "一",
+      "勹",
+      "口",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21264_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05310.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5310.gif",
+    "uri": "https://jisho.org/search/%E5%8C%90%23kanji"
+  }
+}

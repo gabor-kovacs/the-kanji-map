@@ -1,1 +1,28 @@
-{"id":"冂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冂","found":true,"strokeCount":2,"meaning":"upside-down box radical (no. 13)","kunyomi":[],"onyomi":["キョウ","ケイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"冂","meaning":"open country"},"parts":["冂"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20866_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05182.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5182.gif","uri":"https://jisho.org/search/%E5%86%82%23kanji"}}
+{
+  "id": "冂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冂",
+    "found": true,
+    "strokeCount": 2,
+    "meaning": "upside-down box radical (no. 13)",
+    "kunyomi": [],
+    "onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冂",
+      "meaning": "open country"
+    },
+    "parts": [
+      "冂"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20866_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05182.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5182.gif",
+    "uri": "https://jisho.org/search/%E5%86%82%23kanji"
+  }
+}

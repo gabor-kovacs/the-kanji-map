@@ -1,1 +1,69 @@
-{"id":"臥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"臥","found":true,"strokeCount":9,"meaning":"bend down, bow, lie prostrate","kunyomi":["ふせ.る","ふ.せる","ふ.す"],"onyomi":["ガ"],"onyomiExamples":[{"example":"臥位","reading":"ガイ","meaning":"lying down (of body), reclining position, decubitus"},{"example":"臥具","reading":"ガグ","meaning":"bedding, kasaya, monk's stole"},{"example":"平臥","reading":"ヘイガ","meaning":"lying down, being laid up"},{"example":"横臥","reading":"オウガ","meaning":"lying on one's side"}],"kunyomiExamples":[{"example":"臥せる","reading":"ふせる","meaning":"to lie down, to retire, to go to bed (with an illness)"},{"example":"臥せる","reading":"ふせる","meaning":"to lie down, to retire, to go to bed (with an illness)"},{"example":"臥す","reading":"ふす","meaning":"to lie down (in bed)"}],"radical":{"symbol":"臣","meaning":"minster, official"},"parts":["人","臣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33253_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081e5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81e5.gif","uri":"https://jisho.org/search/%E8%87%A5%23kanji"}}
+{
+  "id": "臥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臥",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "bend down, bow, lie prostrate",
+    "kunyomi": [
+      "ふせ.る",
+      "ふ.せる",
+      "ふ.す"
+    ],
+    "onyomi": [
+      "ガ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "臥位",
+        "reading": "ガイ",
+        "meaning": "lying down (of body), reclining position, decubitus"
+      },
+      {
+        "example": "臥具",
+        "reading": "ガグ",
+        "meaning": "bedding, kasaya, monk's stole"
+      },
+      {
+        "example": "平臥",
+        "reading": "ヘイガ",
+        "meaning": "lying down, being laid up, being ill in bed"
+      },
+      {
+        "example": "横臥",
+        "reading": "オウガ",
+        "meaning": "lying on one's side"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "臥せる",
+        "reading": "ふせる",
+        "meaning": "to lie down, to retire, to go to bed (with an illness)"
+      },
+      {
+        "example": "臥せる",
+        "reading": "ふせる",
+        "meaning": "to lie down, to retire, to go to bed (with an illness)"
+      },
+      {
+        "example": "臥す",
+        "reading": "ふす",
+        "meaning": "to lie down (in bed)"
+      }
+    ],
+    "radical": {
+      "symbol": "臣",
+      "meaning": "minster, official"
+    },
+    "parts": [
+      "人",
+      "臣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33253_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081e5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81e5.gif",
+    "uri": "https://jisho.org/search/%E8%87%A5%23kanji"
+  }
+}

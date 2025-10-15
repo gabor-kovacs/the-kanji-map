@@ -1,1 +1,75 @@
-{"id":"靄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"靄","found":true,"strokeCount":24,"meaning":"mist, haze, fog","kunyomi":["もや"],"onyomi":["アイ"],"onyomiExamples":[{"example":"靄々","reading":"アイアイ","meaning":"accumulation of clouds or mist"},{"example":"靄然","reading":"アイゼン","meaning":"hovering like mist or clouds, gentle, calm"},{"example":"靄々","reading":"アイアイ","meaning":"accumulation of clouds or mist"},{"example":"和気あいあい","reading":"ワキアイアイ","meaning":"harmonious, peaceful, congenial, friendly, happy"}],"kunyomiExamples":[{"example":"靄","reading":"もや","meaning":"mist, haze"},{"example":"靄がかかる","reading":"もやがかかる","meaning":"to be hazy, to be misty"},{"example":"夕靄","reading":"ゆうもや","meaning":"evening haze or mist"},{"example":"朝もや","reading":"あさもや","meaning":"morning mist"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["勹","匕","日","言","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38724_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09744.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9744.gif","uri":"https://jisho.org/search/%E9%9D%84%23kanji"}}
+{
+  "id": "靄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "靄",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "mist, haze, fog",
+    "kunyomi": [
+      "もや"
+    ],
+    "onyomi": [
+      "アイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "靄々",
+        "reading": "アイアイ",
+        "meaning": "accumulation of clouds or mist"
+      },
+      {
+        "example": "靄然",
+        "reading": "アイゼン",
+        "meaning": "hovering like mist or clouds, gentle, calm"
+      },
+      {
+        "example": "靄々",
+        "reading": "アイアイ",
+        "meaning": "accumulation of clouds or mist"
+      },
+      {
+        "example": "和気あいあい",
+        "reading": "ワキアイアイ",
+        "meaning": "harmonious, peaceful, congenial, friendly, happy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "靄",
+        "reading": "もや",
+        "meaning": "mist, haze"
+      },
+      {
+        "example": "靄がかかる",
+        "reading": "もやがかかる",
+        "meaning": "to be hazy, to be misty"
+      },
+      {
+        "example": "夕靄",
+        "reading": "ゆうもや",
+        "meaning": "evening haze or mist"
+      },
+      {
+        "example": "朝もや",
+        "reading": "あさもや",
+        "meaning": "morning mist"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "勹",
+      "匕",
+      "日",
+      "言",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38724_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09744.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9744.gif",
+    "uri": "https://jisho.org/search/%E9%9D%84%23kanji"
+  }
+}

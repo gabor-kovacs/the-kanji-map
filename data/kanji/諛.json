@@ -1,1 +1,63 @@
-{"id":"諛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"諛","found":true,"strokeCount":16,"meaning":"flatter","kunyomi":["へつら.う","へつら.い"],"onyomi":["ユ"],"onyomiExamples":[{"example":"阿諛","reading":"アユ","meaning":"flattery, adulation"}],"kunyomiExamples":[{"example":"諂う","reading":"へつらう","meaning":"to flatter, to curry favour (with), to play up (to), to suck up (to), to toady (to)"},{"example":"諂い","reading":"へつらい","meaning":"flattery"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["人","日","臼","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35547_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08adb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8adb.gif","uri":"https://jisho.org/search/%E8%AB%9B%23kanji"}}
+{
+  "id": "諛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諛",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "flatter",
+    "kunyomi": [
+      "へつら.う",
+      "へつら.い"
+    ],
+    "onyomi": [
+      "ユ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "諛言",
+        "reading": "ユゲン",
+        "meaning": "flattering words, flattery"
+      },
+      {
+        "example": "諛辞",
+        "reading": "ユジ",
+        "meaning": "flattering words, flattery"
+      },
+      {
+        "example": "阿諛",
+        "reading": "アユ",
+        "meaning": "flattery, adulation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "諂う",
+        "reading": "へつらう",
+        "meaning": "to flatter, to curry favour (with), to play up (to), to suck up (to), to toady (to)"
+      },
+      {
+        "example": "諂い",
+        "reading": "へつらい",
+        "meaning": "flattery"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "人",
+      "日",
+      "臼",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35547_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08adb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8adb.gif",
+    "uri": "https://jisho.org/search/%E8%AB%9B%23kanji"
+  }
+}

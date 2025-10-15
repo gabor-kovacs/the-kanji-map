@@ -1,1 +1,47 @@
-{"id":"銛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"銛","found":true,"strokeCount":14,"meaning":"harpoon, gaff","kunyomi":["もり","すき"],"onyomi":["セン","テン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"銛","reading":"もり","meaning":"lance, harpoon"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["口","舌","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37531_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0929b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/929b.gif","uri":"https://jisho.org/search/%E9%8A%9B%23kanji"}}
+{
+  "id": "銛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "銛",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "harpoon, gaff",
+    "kunyomi": [
+      "もり",
+      "すき"
+    ],
+    "onyomi": [
+      "セン",
+      "テン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "銛",
+        "reading": "もり",
+        "meaning": "lance, harpoon"
+      },
+      {
+        "example": "鯨銛",
+        "reading": "くじらもり",
+        "meaning": "(whaling) harpoon"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "口",
+      "舌",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37531_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0929b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/929b.gif",
+    "uri": "https://jisho.org/search/%E9%8A%9B%23kanji"
+  }
+}

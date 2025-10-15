@@ -1,1 +1,44 @@
-{"id":"蒂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蒂","found":true,"strokeCount":12,"meaning":"peduncle, stem of plants","kunyomi":["へた"],"onyomi":["テイ","タイ"],"onyomiExamples":[{"example":"瓜蒂","reading":"カテイ","meaning":"stem and calyx of muskmelon (used in traditional Chinese medicine)"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["亠","冖","巾","并","立","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33922_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08482.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8482.gif","uri":"https://jisho.org/search/%E8%92%82%23kanji"}}
+{
+  "id": "蒂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蒂",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "peduncle, stem of plants",
+    "kunyomi": [
+      "へた"
+    ],
+    "onyomi": [
+      "テイ",
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "瓜蒂",
+        "reading": "カテイ",
+        "meaning": "stem and calyx of muskmelon (used in traditional Chinese medicine)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "巾",
+      "并",
+      "立",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33922_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08482.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8482.gif",
+    "uri": "https://jisho.org/search/%E8%92%82%23kanji"
+  }
+}

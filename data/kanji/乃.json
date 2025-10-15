@@ -1,1 +1,81 @@
-{"id":"乃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"乃","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1978","strokeCount":2,"meaning":"from, possessive particle, whereupon, accordingly","kunyomi":["の","すなわ.ち","なんじ"],"onyomi":["ナイ","ダイ","ノ","アイ"],"onyomiExamples":[{"example":"乃至","reading":"ナイシ","meaning":"from ... to, between ... and, or"},{"example":"乃公","reading":"ダイコウ","meaning":"I, me"},{"example":"乃公","reading":"ダイコウ","meaning":"I, me"},{"example":"乃公出でずんば","reading":"ダイコウイデズンバ","meaning":"what will happen to everyone else if I am not the one who goes?"},{"example":"乃","reading":"ノ","meaning":"'s, of, belonging to"}],"kunyomiExamples":[{"example":"乃","reading":"の","meaning":"'s, of, belonging to"},{"example":"即ち","reading":"すなわち","meaning":"that is, namely, i.e."}],"radical":{"symbol":"丿","meaning":"slash"},"parts":["ノ","一","乃","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20035_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e43.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e43.gif","uri":"https://jisho.org/search/%E4%B9%83%23kanji"}}
+{
+  "id": "乃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "乃",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1978",
+    "strokeCount": 2,
+    "meaning": "from, possessive particle, whereupon, accordingly",
+    "kunyomi": [
+      "の",
+      "すなわ.ち",
+      "なんじ"
+    ],
+    "onyomi": [
+      "ナイ",
+      "ダイ",
+      "ノ",
+      "アイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "乃至",
+        "reading": "ナイシ",
+        "meaning": "from ... to, between ... and, or"
+      },
+      {
+        "example": "乃公",
+        "reading": "ダイコウ",
+        "meaning": "I, me"
+      },
+      {
+        "example": "乃公出でずんば",
+        "reading": "ダイコウイデズンバ",
+        "meaning": "what will happen to everyone else if I am not the one who goes?"
+      },
+      {
+        "example": "【ノ】",
+        "reading": "indicates possessive, nominalizes verbs and adjectives, substitutes for &quot;ga&quot; in subordinate phrases, indicates a confident conclusion, indicates emotional emphasis, indicates question",
+        "meaning": ""
+      },
+      {
+        "example": "乃",
+        "reading": "ノ",
+        "meaning": "'s, of, belonging to"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【の】",
+        "reading": "indicates possessive, nominalizes verbs and adjectives, substitutes for &quot;ga&quot; in subordinate phrases, indicates a confident conclusion, indicates emotional emphasis, indicates question",
+        "meaning": ""
+      },
+      {
+        "example": "乃",
+        "reading": "の",
+        "meaning": "'s, of, belonging to"
+      },
+      {
+        "example": "即ち",
+        "reading": "すなわち",
+        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+      }
+    ],
+    "radical": {
+      "symbol": "丿",
+      "meaning": "slash"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乃",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20035_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e43.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e43.gif",
+    "uri": "https://jisho.org/search/%E4%B9%83%23kanji"
+  }
+}

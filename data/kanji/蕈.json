@@ -1,1 +1,54 @@
-{"id":"蕈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蕈","found":true,"strokeCount":15,"meaning":"mushroom, toadstool, fungus","kunyomi":["きのこ","たけ"],"onyomi":["ジン","シン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"茸","reading":"きのこ","meaning":"mushroom"},{"example":"茸","reading":"きのこ","meaning":"mushroom"},{"example":"笑い茸","reading":"わらいたけ","meaning":"Panaeolus papilionaceus (species of poisonous mushroom)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["十","日","曰","艾","西"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34120_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08548.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8548.gif","uri":"https://jisho.org/search/%E8%95%88%23kanji"}}
+{
+  "id": "蕈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕈",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "mushroom, toadstool, fungus",
+    "kunyomi": [
+      "きのこ",
+      "たけ"
+    ],
+    "onyomi": [
+      "ジン",
+      "シン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "茸",
+        "reading": "きのこ",
+        "meaning": "mushroom"
+      },
+      {
+        "example": "茸",
+        "reading": "きのこ",
+        "meaning": "mushroom"
+      },
+      {
+        "example": "笑い茸",
+        "reading": "わらいたけ",
+        "meaning": "Panaeolus papilionaceus (species of poisonous mushroom)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "十",
+      "日",
+      "曰",
+      "艾",
+      "西"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34120_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08548.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8548.gif",
+    "uri": "https://jisho.org/search/%E8%95%88%23kanji"
+  }
+}

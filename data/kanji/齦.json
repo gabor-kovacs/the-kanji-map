@@ -1,1 +1,40 @@
-{"id":"齦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"齦","found":true,"strokeCount":21,"meaning":"gums","kunyomi":["はぐき"],"onyomi":["ギン","コン"],"onyomiExamples":[{"example":"歯齦","reading":"シギン","meaning":"gums, gingiva"}],"kunyomiExamples":[],"radical":{"symbol":"齒","meaning":"tooth, molar"},"parts":["凵","止","歯","米","艮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40806_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f66.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f66.gif","uri":"https://jisho.org/search/%E9%BD%A6%23kanji"}}
+{
+  "id": "齦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齦",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "gums",
+    "kunyomi": [
+      "はぐき"
+    ],
+    "onyomi": [
+      "ギン",
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "歯齦",
+        "reading": "シギン",
+        "meaning": "gums, gingiva"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "齒",
+      "meaning": "tooth, molar"
+    },
+    "parts": [
+      "凵",
+      "止",
+      "歯",
+      "米",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40806_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f66.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f66.gif",
+    "uri": "https://jisho.org/search/%E9%BD%A6%23kanji"
+  }
+}

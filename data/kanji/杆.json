@@ -1,1 +1,46 @@
-{"id":"杆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"杆","found":true,"strokeCount":7,"meaning":"shield, pole","kunyomi":["てこ"],"onyomi":["カン"],"onyomiExamples":[{"example":"桿菌","reading":"カンキン","meaning":"bacillus"},{"example":"桿状体","reading":"カンジョウタイ","meaning":"rod (shape of cell)"},{"example":"槓杆","reading":"コウカン","meaning":"lever"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["干","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26438_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06746.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6746.gif","uri":"https://jisho.org/search/%E6%9D%86%23kanji"}}
+{
+  "id": "杆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杆",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "shield, pole",
+    "kunyomi": [
+      "てこ"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桿菌",
+        "reading": "カンキン",
+        "meaning": "bacillus"
+      },
+      {
+        "example": "桿状体",
+        "reading": "カンジョウタイ",
+        "meaning": "rod (cell)"
+      },
+      {
+        "example": "槓杆",
+        "reading": "コウカン",
+        "meaning": "lever"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "干",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26438_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06746.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6746.gif",
+    "uri": "https://jisho.org/search/%E6%9D%86%23kanji"
+  }
+}

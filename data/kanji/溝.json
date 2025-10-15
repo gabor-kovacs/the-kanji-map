@@ -1,1 +1,82 @@
-{"id":"溝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"溝","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1736","strokeCount":13,"meaning":"gutter, ditch, sewer, drain, 10**32","kunyomi":["みぞ"],"onyomi":["コウ"],"onyomiExamples":[{"example":"溝","reading":"コウ","meaning":"10^32, hundred nonillion"},{"example":"溝渠","reading":"コウキョ","meaning":"ditch, sewer, canal"},{"example":"排水溝","reading":"ハイスイコウ","meaning":"drainage, gutter, ditch"},{"example":"海溝","reading":"カイコウ","meaning":"ocean trench, deep"}],"kunyomiExamples":[{"example":"溝","reading":"みぞ","meaning":"ditch, drain, gutter, trench, groove, tread, gap (between people, countries, etc.), gulf, rift"},{"example":"溝隠","reading":"みぞかくし","meaning":"Chinese lobelia (Lobelia chinensis)"},{"example":"押さえ溝","reading":"おさえみぞ","meaning":"groove in the body of wooden plane which holds the blade"},{"example":"逃げ溝","reading":"にげみぞ","meaning":"clearance groove, under cut"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","冂","十","汁","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28317_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e9d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e9d.gif","uri":"https://jisho.org/search/%E6%BA%9D%23kanji"}}
+{
+  "id": "溝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溝",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1736",
+    "strokeCount": 13,
+    "meaning": "gutter, ditch, sewer, drain, 10**32",
+    "kunyomi": [
+      "みぞ"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "溝",
+        "reading": "コウ",
+        "meaning": "10^32, hundred nonillion"
+      },
+      {
+        "example": "溝渠",
+        "reading": "コウキョ",
+        "meaning": "ditch, sewer, canal"
+      },
+      {
+        "example": "排水溝",
+        "reading": "ハイスイコウ",
+        "meaning": "drainage, gutter, ditch"
+      },
+      {
+        "example": "海溝",
+        "reading": "カイコウ",
+        "meaning": "oceanic trench, deep-sea trench, deep"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "溝",
+        "reading": "みぞ",
+        "meaning": "ditch, drain, gutter, trench, groove, tread, indentation, gap (between people, countries, etc.), gulf, rift"
+      },
+      {
+        "example": "溝隠",
+        "reading": "みぞかくし",
+        "meaning": "Chinese lobelia (Lobelia chinensis)"
+      },
+      {
+        "example": "押さえ溝",
+        "reading": "おさえみぞ",
+        "meaning": "groove in the body of wooden plane which holds the blade"
+      },
+      {
+        "example": "逃げ溝",
+        "reading": "にげみぞ",
+        "meaning": "clearance groove, under cut"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "十",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28317_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e9d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e9d.gif",
+    "uri": "https://jisho.org/search/%E6%BA%9D%23kanji"
+  }
+}

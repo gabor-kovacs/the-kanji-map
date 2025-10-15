@@ -1,1 +1,258 @@
-{"id":"貿","kanjialiveData":{"kanji":{"character":"貿","meaning":{"english":"trade, exchange"},"strokes":{"count":12,"timings":[0,1,2.866667,3.466667,5.733333,6.733333,8.133333,10,10.866667,12.533333,13.733333,14.333333,15.8],"images":["https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_1.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_2.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_3.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_4.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_5.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_6.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_7.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_8.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_9.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_10.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_11.svg","https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_12.svg"]},"onyomi":{"romaji":"bou","katakana":"ボウ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_12.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/bou(ekifuu)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/bou(ekifuu)_00.webm"}},"radical":{"character":"⾙","strokes":7,"image":"https://media.kanjialive.com/radical_character/kai.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"かい","romaji":"kai"},"meaning":{"english":"shell, property, wealth"},"animation":["https://media.kanjialive.com/rad_frames/kai0.svg","https://media.kanjialive.com/rad_frames/kai1.svg","https://media.kanjialive.com/rad_frames/kai2.svg"]},"references":{"grade":5,"kodansha":"1665","classic_nelson":"4499"},"examples":[{"japanese":"貿易（ぼうえき）","meaning":{"english":"trade"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bou(ekifuu)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bou(ekifuu)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bou(ekifuu)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bou(ekifuu)_06_a.mp3"}},{"japanese":"貿易業（ぼうえきぎょう）","meaning":{"english":"trading business"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bou(ekifuu)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bou(ekifuu)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bou(ekifuu)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bou(ekifuu)_06_b.mp3"}},{"japanese":"貿易風（ぼうえきふう）","meaning":{"english":"trade wind"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bou(ekifuu)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bou(ekifuu)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bou(ekifuu)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bou(ekifuu)_06_c.mp3"}}]},"jishoData":{"query":"貿","found":true,"taughtIn":"grade 5","jlptLevel":"N2","newspaperFrequencyRank":"652","strokeCount":12,"meaning":"trade, exchange","kunyomi":[],"onyomi":["ボウ"],"onyomiExamples":[{"example":"貿易","reading":"ボウエキ","meaning":"trade (foreign)"},{"example":"貿易赤字","reading":"ボウエキアカジ","meaning":"trade deficit"}],"kunyomiExamples":[],"radical":{"symbol":"貝","meaning":"shell"},"parts":["ハ","刀","厶","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36031_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cbf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cbf.gif","uri":"https://jisho.org/search/%E8%B2%BF%23kanji"}}
+{
+  "id": "貿",
+  "kanjialiveData": {
+    "_id": "54317ad2791eba5146ee4836",
+    "_rev": "10-62c3c7147ed52426aa13abf640666033",
+    "rad_name_ja": "かい",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "trade, exchange",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "貿易（ぼうえき）",
+        "meaning": {
+          "english": "trade"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(ekifuu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bou(ekifuu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bou(ekifuu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bou(ekifuu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "貿易業（ぼうえきぎょう）",
+        "meaning": {
+          "english": "trading business"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(ekifuu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bou(ekifuu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bou(ekifuu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bou(ekifuu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "貿易風（ぼうえきふう）",
+        "meaning": {
+          "english": "trade wind"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou(ekifuu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bou(ekifuu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bou(ekifuu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bou(ekifuu)_06_c.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "貿",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=貿",
+    "kname": "bou(ekifuu)",
+    "rad_order": 187,
+    "txt_books": [
+      {
+        "chapter": "11",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "kai"
+    ],
+    "rad_utf": "⾙",
+    "stroketimes": [
+      0,
+      1,
+      2.866667,
+      3.466667,
+      5.733333,
+      6.733333,
+      8.133333,
+      10,
+      10.866667,
+      12.533333,
+      13.733333,
+      14.333333,
+      15.8
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1665",
+    "rad_name": "kai",
+    "dicn": "4499",
+    "mn_hint": "Skillful ノ individuals ム trading swords 刀 and shellfish 貝.",
+    "rad_stroke": 7,
+    "onyomi_ja": "ボウ",
+    "rad_meaning": "shell, property, wealth",
+    "onyomi": "bou",
+    "ka_id": "ka_1025",
+    "onyomi_search": [
+      "bou",
+      "bou"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "trade",
+      "exchange",
+      "trade, exchange"
+    ],
+    "onyomi_ja_search": [
+      "ボウ",
+      "ボウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "shell",
+      "property",
+      "wealth",
+      "shell, property, wealth"
+    ],
+    "rad_name_ja_search": [
+      "かい"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "jtr",
+      "jtr:11",
+      "jtr:c11"
+    ],
+    "rad_name_file": "kai",
+    "kanji": {
+      "character": "貿",
+      "meaning": {
+        "english": "trade, exchange"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          1,
+          2.866667,
+          3.466667,
+          5.733333,
+          6.733333,
+          8.133333,
+          10,
+          10.866667,
+          12.533333,
+          13.733333,
+          14.333333,
+          15.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bou",
+        "katakana": "ボウ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/bou(ekifuu)_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/bou(ekifuu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/bou(ekifuu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾙",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/kai.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "かい",
+        "romaji": "kai"
+      },
+      "meaning": {
+        "english": "shell, property, wealth"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kai0.svg",
+        "https://media.kanjialive.com/rad_frames/kai1.svg",
+        "https://media.kanjialive.com/rad_frames/kai2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1665",
+      "classic_nelson": "4499"
+    }
+  },
+  "jishoData": {
+    "query": "貿",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "652",
+    "strokeCount": 12,
+    "meaning": "trade, exchange",
+    "kunyomi": [],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "貿易",
+        "reading": "ボウエキ",
+        "meaning": "(foreign) trade, (international) commerce, importing and exporting"
+      },
+      {
+        "example": "貿易赤字",
+        "reading": "ボウエキアカジ",
+        "meaning": "trade deficit"
+      },
+      {
+        "example": "内貿",
+        "reading": "ナイボウ",
+        "meaning": "domestic commerce, internal trade"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "shell"
+    },
+    "parts": [
+      "ハ",
+      "刀",
+      "厶",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36031_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cbf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cbf.gif",
+    "uri": "https://jisho.org/search/%E8%B2%BF%23kanji"
+  }
+}

@@ -1,1 +1,50 @@
-{"id":"脯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"脯","found":true,"strokeCount":11,"meaning":"dried meat","kunyomi":["こじし","ほじし"],"onyomi":["フ","ホ"],"onyomiExamples":[{"example":"脯","reading":"ホシシ","meaning":"dried meat, jerky"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["丶","十","月","用","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33071_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0812f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/812f.gif","uri":"https://jisho.org/search/%E8%84%AF%23kanji"}}
+{
+  "id": "脯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "脯",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "dried meat",
+    "kunyomi": [
+      "こじし",
+      "ほじし"
+    ],
+    "onyomi": [
+      "フ",
+      "ホ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "脯",
+        "reading": "ホシシ",
+        "meaning": "dried meat, jerky"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脯",
+        "reading": "ほしし",
+        "meaning": "dried meat, jerky"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "月",
+      "用",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33071_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0812f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/812f.gif",
+    "uri": "https://jisho.org/search/%E8%84%AF%23kanji"
+  }
+}

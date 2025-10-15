@@ -1,1 +1,28 @@
-{"id":"圸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"圸","found":true,"strokeCount":6,"meaning":"steep slope, (kokuji)","kunyomi":["まま"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","山"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22328_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05738.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5738.gif","uri":"https://jisho.org/search/%E5%9C%B8%23kanji"}}
+{
+  "id": "圸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "圸",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "steep slope, (kokuji)",
+    "kunyomi": [
+      "まま"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22328_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05738.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5738.gif",
+    "uri": "https://jisho.org/search/%E5%9C%B8%23kanji"
+  }
+}

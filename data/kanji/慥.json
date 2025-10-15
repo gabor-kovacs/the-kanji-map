@@ -1,1 +1,42 @@
-{"id":"慥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"慥","found":true,"strokeCount":14,"meaning":"certainly, doubtless","kunyomi":["たし.かに"],"onyomi":["ゾウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"確かに","reading":"たしかに","meaning":"surely, certainly"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["口","土","忙","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24933_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06165.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6165.gif","uri":"https://jisho.org/search/%E6%85%A5%23kanji"}}
+{
+  "id": "慥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慥",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "certainly, doubtless",
+    "kunyomi": [
+      "たし.かに"
+    ],
+    "onyomi": [
+      "ゾウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "確かに",
+        "reading": "たしかに",
+        "meaning": "surely, certainly"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "口",
+      "土",
+      "忙",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24933_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06165.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6165.gif",
+    "uri": "https://jisho.org/search/%E6%85%A5%23kanji"
+  }
+}

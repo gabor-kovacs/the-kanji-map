@@ -1,1 +1,63 @@
-{"id":"鉾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鉾","found":true,"newspaperFrequencyRank":"2453","strokeCount":14,"meaning":"halberd, arms, festival float","kunyomi":["ほこ"],"onyomi":["ボウ","ム"],"onyomiExamples":[{"example":"木棒","reading":"キボウ","meaning":"wooden stick, wooden pole"}],"kunyomiExamples":[{"example":"矛","reading":"ほこ","meaning":"long-handled Chinese spear, lance, pike, weapon, arms, grip of a bow, parade float decorated with long-handled Chinese spears"},{"example":"矛先","reading":"ほこさき","meaning":"point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"},{"example":"銅矛","reading":"どうほこ","meaning":"bronze hoko, bronze halberd, bronze spearhead"},{"example":"鯱","reading":"しゃちほこ","meaning":"shachihoko, shachi, mythical animal with the head of a lion and the body of a fish, roof ornament in the shape of a shachihoko (believed to provide protection against fire by causing rain to fall)"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["厶","牛","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37502_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0927e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/927e.gif","uri":"https://jisho.org/search/%E9%89%BE%23kanji"}}
+{
+  "id": "鉾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鉾",
+    "found": true,
+    "newspaperFrequencyRank": "2453",
+    "strokeCount": 14,
+    "meaning": "halberd, arms, festival float",
+    "kunyomi": [
+      "ほこ"
+    ],
+    "onyomi": [
+      "ボウ",
+      "ム"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "木棒",
+        "reading": "キボウ",
+        "meaning": "wooden stick, wooden pole"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "矛",
+        "reading": "ほこ",
+        "meaning": "long-handled Chinese spear, lance, pike, weapon, arms, grip of a bow, parade float decorated with long-handled Chinese spears"
+      },
+      {
+        "example": "矛先",
+        "reading": "ほこさき",
+        "meaning": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"
+      },
+      {
+        "example": "銅矛",
+        "reading": "どうほこ",
+        "meaning": "bronze hoko, bronze halberd, bronze spearhead"
+      },
+      {
+        "example": "鯱",
+        "reading": "しゃちほこ",
+        "meaning": "shachihoko, shachi, mythical animal with the head of a tiger and the body of a fish, roof ornament in the shape of a shachihoko (believed to provide protection against fire by causing rain to fall)"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "厶",
+      "牛",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37502_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0927e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/927e.gif",
+    "uri": "https://jisho.org/search/%E9%89%BE%23kanji"
+  }
+}

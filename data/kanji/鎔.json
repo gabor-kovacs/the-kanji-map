@@ -1,1 +1,63 @@
-{"id":"鎔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鎔","found":true,"strokeCount":18,"meaning":"fuse, melt","kunyomi":["と.ける","と.かす","いがた"],"onyomi":["ヨウ"],"onyomiExamples":[{"example":"溶接","reading":"ヨウセツ","meaning":"weld, welding"},{"example":"溶解","reading":"ヨウカイ","meaning":"dissolution, dissolving, solution (e.g. chemical), melting, liquefying, fusion"}],"kunyomiExamples":[{"example":"溶ける","reading":"とける","meaning":"to melt, to thaw, to fuse, to dissolve"},{"example":"溶かす","reading":"とかす","meaning":"to dissolve, to melt"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ハ","个","口","宀","并","穴","谷","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37780_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09394.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9394.gif","uri":"https://jisho.org/search/%E9%8E%94%23kanji"}}
+{
+  "id": "鎔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鎔",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "fuse, melt",
+    "kunyomi": [
+      "と.ける",
+      "と.かす",
+      "いがた"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "溶接",
+        "reading": "ヨウセツ",
+        "meaning": "welding"
+      },
+      {
+        "example": "溶解",
+        "reading": "ヨウカイ",
+        "meaning": "dissolution, dissolving, solution (e.g. chemical), melting, liquefying, fusion"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "溶ける",
+        "reading": "とける",
+        "meaning": "to melt, to thaw, to fuse, to dissolve"
+      },
+      {
+        "example": "溶かす",
+        "reading": "とかす",
+        "meaning": "to dissolve, to melt"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ハ",
+      "个",
+      "口",
+      "宀",
+      "并",
+      "穴",
+      "谷",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37780_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09394.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9394.gif",
+    "uri": "https://jisho.org/search/%E9%8E%94%23kanji"
+  }
+}

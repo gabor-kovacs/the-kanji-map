@@ -1,1 +1,44 @@
-{"id":"毋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"毋","found":true,"strokeCount":4,"meaning":"do not, must not, be not, mother radical (no. 80)","kunyomi":["はは","ぼ","ない","なか.れ"],"onyomi":["ブ","ム"],"onyomiExamples":[],"kunyomiExamples":[{"example":"勿れ","reading":"なかれ","meaning":"must not, do not"}],"radical":{"symbol":"毋","forms":["母","⺟"],"meaning":"mother, do not"},"parts":["毋","母"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27595_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bcb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bcb.gif","uri":"https://jisho.org/search/%E6%AF%8B%23kanji"}}
+{
+  "id": "毋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "毋",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "do not, must not, be not, mother radical (no. 80)",
+    "kunyomi": [
+      "はは",
+      "ぼ",
+      "ない",
+      "なか.れ"
+    ],
+    "onyomi": [
+      "ブ",
+      "ム"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "勿れ",
+        "reading": "なかれ",
+        "meaning": "must not, do not"
+      }
+    ],
+    "radical": {
+      "symbol": "毋",
+      "forms": [
+        "母",
+        "⺟"
+      ],
+      "meaning": "mother, do not"
+    },
+    "parts": [
+      "毋",
+      "母"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27595_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bcb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bcb.gif",
+    "uri": "https://jisho.org/search/%E6%AF%8B%23kanji"
+  }
+}

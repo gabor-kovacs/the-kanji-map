@@ -1,1 +1,48 @@
-{"id":"蝮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蝮","found":true,"strokeCount":15,"meaning":"viper, adder, asp","kunyomi":["まむし"],"onyomi":["フク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蝮","reading":"まむし","meaning":"pit viper (esp. the mamushi, Gloydius blomhoffi)"},{"example":"蝮草","reading":"まむしぐさ","meaning":"Arisaema serratum (species of jack-in-the-pulpit)"},{"example":"日本蝮","reading":"にほんまむし","meaning":"Japanese copperhead (Gloydius blomhoffii), mamushi pit-viper"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["乞","夂","日","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34670_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0876e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/876e.gif","uri":"https://jisho.org/search/%E8%9D%AE%23kanji"}}
+{
+  "id": "蝮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蝮",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "viper, adder, asp",
+    "kunyomi": [
+      "まむし"
+    ],
+    "onyomi": [
+      "フク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "【マムシ】",
+        "reading": "pit viper (esp. the mamushi, Gloydius blomhoffi)",
+        "meaning": ""
+      },
+      {
+        "example": "蝮草",
+        "reading": "まむしぐさ",
+        "meaning": "Arisaema serratum (species of jack-in-the-pulpit)"
+      },
+      {
+        "example": "日本蝮",
+        "reading": "にほんまむし",
+        "meaning": "Japanese copperhead (Gloydius blomhoffii), mamushi pit-viper"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "乞",
+      "夂",
+      "日",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34670_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0876e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/876e.gif",
+    "uri": "https://jisho.org/search/%E8%9D%AE%23kanji"
+  }
+}

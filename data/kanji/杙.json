@@ -1,1 +1,41 @@
-{"id":"杙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"杙","found":true,"strokeCount":7,"meaning":"stake, post, picket, piling","kunyomi":["くい"],"onyomi":["ヨク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"杭","reading":"くい","meaning":"stake, post, pile, picket, stump"},{"example":"株","reading":"くいぜ","meaning":"stump"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["弋","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26457_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06759.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6759.gif","uri":"https://jisho.org/search/%E6%9D%99%23kanji"}}
+{
+  "id": "杙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杙",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "stake, post, picket, piling",
+    "kunyomi": [
+      "くい"
+    ],
+    "onyomi": [
+      "ヨク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "杭",
+        "reading": "くい",
+        "meaning": "stake, post, pile, picket, stump"
+      },
+      {
+        "example": "株",
+        "reading": "くいぜ",
+        "meaning": "stump"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "弋",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26457_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06759.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6759.gif",
+    "uri": "https://jisho.org/search/%E6%9D%99%23kanji"
+  }
+}

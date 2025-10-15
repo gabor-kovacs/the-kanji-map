@@ -1,1 +1,66 @@
-{"id":"諭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"諭","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1461","strokeCount":16,"meaning":"rebuke, admonish, charge, warn, persuade","kunyomi":["さと.す"],"onyomi":["ユ"],"onyomiExamples":[{"example":"諭吉","reading":"ユキチ","meaning":"10,000 yen note"},{"example":"諭告","reading":"ユコク","meaning":"admonition, public announcement"},{"example":"教諭","reading":"キョウユ","meaning":"(licensed) teacher"},{"example":"比喩","reading":"ヒユ","meaning":"simile, metaphor, allegory, parable"}],"kunyomiExamples":[{"example":"諭す","reading":"さとす","meaning":"to admonish, to persuade, to warn, to remonstrate"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["一","个","刈","月","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35565_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aed.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aed.gif","uri":"https://jisho.org/search/%E8%AB%AD%23kanji"}}
+{
+  "id": "諭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諭",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1461",
+    "strokeCount": 16,
+    "meaning": "rebuke, admonish, charge, warn, persuade",
+    "kunyomi": [
+      "さと.す"
+    ],
+    "onyomi": [
+      "ユ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "諭吉",
+        "reading": "ユキチ",
+        "meaning": "10,000 yen note"
+      },
+      {
+        "example": "諭告",
+        "reading": "ユコク",
+        "meaning": "admonition, public announcement"
+      },
+      {
+        "example": "教諭",
+        "reading": "キョウユ",
+        "meaning": "(licensed) teacher"
+      },
+      {
+        "example": "比喩",
+        "reading": "ヒユ",
+        "meaning": "simile, metaphor, allegory, parable"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "諭す",
+        "reading": "さとす",
+        "meaning": "to make (someone) understand (a fault, mistake, etc.), to reason with, to advise, to try to persuade, to exhort, to admonish, to warn (against doing)"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "一",
+      "个",
+      "刈",
+      "月",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35565_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aed.gif",
+    "uri": "https://jisho.org/search/%E8%AB%AD%23kanji"
+  }
+}

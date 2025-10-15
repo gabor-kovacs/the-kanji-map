@@ -1,1 +1,78 @@
-{"id":"崖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"崖","found":true,"taughtIn":"junior high","strokeCount":11,"meaning":"cliff, bluff, precipice","kunyomi":["がけ","きし","はて"],"onyomi":["ガイ","ゲ","ギ"],"onyomiExamples":[{"example":"崖下","reading":"ガイカ","meaning":"below a cliff"},{"example":"崖上","reading":"ガイジョウ","meaning":"cliff top"},{"example":"断層崖","reading":"ダンソウガイ","meaning":"fault scarp, fault escarpment"},{"example":"崎崖","reading":"キガイ","meaning":"steepness of a mountain"}],"kunyomiExamples":[{"example":"崖","reading":"がけ","meaning":"cliff, precipice, precipice, brink of a dangerous situation"},{"example":"崖上","reading":"がいじょう","meaning":"cliff top"},{"example":"財政の崖","reading":"ざいせいのがけ","meaning":"fiscal cliff (e.g. potential 2013 US financial crisis), fiscal precipice"},{"example":"ガラスの崖","reading":"ガラスのがけ","meaning":"glass cliff (corporate leadership)"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["厂","土","山"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23830_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d16.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d16.gif","uri":"https://jisho.org/search/%E5%B4%96%23kanji"}}
+{
+  "id": "崖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "崖",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 11,
+    "meaning": "cliff, bluff, precipice",
+    "kunyomi": [
+      "がけ",
+      "きし",
+      "はて"
+    ],
+    "onyomi": [
+      "ガイ",
+      "ゲ",
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "崖下",
+        "reading": "ガイカ",
+        "meaning": "below a cliff"
+      },
+      {
+        "example": "崖上",
+        "reading": "ガイジョウ",
+        "meaning": "cliff top"
+      },
+      {
+        "example": "断層崖",
+        "reading": "ダンソウガイ",
+        "meaning": "fault scarp, fault escarpment"
+      },
+      {
+        "example": "崎崖",
+        "reading": "キガイ",
+        "meaning": "steepness of a mountain"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "崖",
+        "reading": "がけ",
+        "meaning": "cliff, precipice, precipice, brink of a dangerous situation"
+      },
+      {
+        "example": "崖上",
+        "reading": "がいじょう",
+        "meaning": "cliff top"
+      },
+      {
+        "example": "財政の崖",
+        "reading": "ざいせいのがけ",
+        "meaning": "fiscal cliff (e.g. potential 2013 US financial crisis), fiscal precipice"
+      },
+      {
+        "example": "ガラスの崖",
+        "reading": "ガラスのがけ",
+        "meaning": "glass cliff (corporate leadership)"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "厂",
+      "土",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23830_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d16.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d16.gif",
+    "uri": "https://jisho.org/search/%E5%B4%96%23kanji"
+  }
+}

@@ -1,1 +1,56 @@
-{"id":"擾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"擾","found":true,"strokeCount":18,"meaning":"disturb, throw into confusion","kunyomi":["みだ.れる","みだ.す","わずら.わしい"],"onyomi":["ジョウ"],"onyomiExamples":[{"example":"擾乱","reading":"ジョウラン","meaning":"disturbance"},{"example":"騒擾","reading":"ソウジョウ","meaning":"riot, disturbance"},{"example":"紛擾","reading":"フンジョウ","meaning":"disturbance, trouble, dispute"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["一","冖","夂","心","扎","白","自"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25854_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064fe.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64fe.gif","uri":"https://jisho.org/search/%E6%93%BE%23kanji"}}
+{
+  "id": "擾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擾",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "disturb, throw into confusion",
+    "kunyomi": [
+      "みだ.れる",
+      "みだ.す",
+      "わずら.わしい"
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "擾乱",
+        "reading": "ジョウラン",
+        "meaning": "disturbance"
+      },
+      {
+        "example": "騒擾",
+        "reading": "ソウジョウ",
+        "meaning": "riot, disturbance"
+      },
+      {
+        "example": "紛擾",
+        "reading": "フンジョウ",
+        "meaning": "disturbance, trouble, dispute"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "一",
+      "冖",
+      "夂",
+      "心",
+      "扎",
+      "白",
+      "自"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25854_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064fe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64fe.gif",
+    "uri": "https://jisho.org/search/%E6%93%BE%23kanji"
+  }
+}

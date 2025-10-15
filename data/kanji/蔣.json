@@ -1,1 +1,32 @@
-{"id":"蔣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蔣","found":true,"strokeCount":14,"meaning":"surname, hydropyrum latifalium","kunyomi":["まこも","はげ.ます"],"onyomi":["ショウ","ソウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34083_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08523.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8523.gif","uri":"https://jisho.org/search/%E8%94%A3%23kanji"}}
+{
+  "id": "蔣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔣",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "surname, hydropyrum latifalium",
+    "kunyomi": [
+      "まこも",
+      "はげ.ます"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34083_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08523.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8523.gif",
+    "uri": "https://jisho.org/search/%E8%94%A3%23kanji"
+  }
+}

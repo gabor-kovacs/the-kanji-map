@@ -1,1 +1,30 @@
-{"id":"虍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"虍","found":true,"strokeCount":6,"meaning":"tiger spots, mottled, tiger or tiger crown radical (no. 141)","kunyomi":[],"onyomi":["コ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"虍","meaning":"tiger stripes"},"parts":["匕","卜","厂","虍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34381_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0864d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/864d.gif","uri":"https://jisho.org/search/%E8%99%8D%23kanji"}}
+{
+  "id": "虍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虍",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "tiger spots, mottled, tiger or tiger crown radical (no. 141)",
+    "kunyomi": [],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "tiger stripes"
+    },
+    "parts": [
+      "匕",
+      "卜",
+      "厂",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34381_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0864d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/864d.gif",
+    "uri": "https://jisho.org/search/%E8%99%8D%23kanji"
+  }
+}

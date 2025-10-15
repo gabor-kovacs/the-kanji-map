@@ -1,1 +1,45 @@
-{"id":"點","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"點","found":true,"strokeCount":17,"meaning":"point, mark, speck, decimal pt","kunyomi":["つ.ける","つ.く","た.てる","さ.す","とぼ.す","とも.す","ぼち"],"onyomi":["テン"],"onyomiExamples":[{"example":"点穴","reading":"テンケツ","meaning":"pressure points (e.g. for application of moxa), vulnerable body cavities"}],"kunyomiExamples":[],"radical":{"symbol":"黑","meaning":"black"},"parts":["卜","口","杰","里","黒"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40670_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ede.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ede.gif","uri":"https://jisho.org/search/%E9%BB%9E%23kanji"}}
+{
+  "id": "點",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "點",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "point, mark, speck, decimal pt",
+    "kunyomi": [
+      "つ.ける",
+      "つ.く",
+      "た.てる",
+      "さ.す",
+      "とぼ.す",
+      "とも.す",
+      "ぼち"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "点穴",
+        "reading": "テンケツ",
+        "meaning": "pressure points (e.g. for application of moxa), vulnerable body cavities"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "黑",
+      "meaning": "black"
+    },
+    "parts": [
+      "卜",
+      "口",
+      "杰",
+      "里",
+      "黒"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40670_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ede.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ede.gif",
+    "uri": "https://jisho.org/search/%E9%BB%9E%23kanji"
+  }
+}

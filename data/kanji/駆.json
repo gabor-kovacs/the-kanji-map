@@ -1,1 +1,74 @@
-{"id":"駆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"駆","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1033","strokeCount":14,"meaning":"drive, run, gallop, advance, inspire, impel","kunyomi":["か.ける","か.る"],"onyomi":["ク"],"onyomiExamples":[{"example":"駆使","reading":"クシ","meaning":"using freely, making full use of, having a good command of, working (someone) hard, driving (someone) on"},{"example":"駆除","reading":"クジョ","meaning":"extermination (esp. pests), expulsion, destruction"},{"example":"先駆","reading":"センク","meaning":"forerunner, precursor, pioneer, leader, outrider, outriding"},{"example":"疾駆","reading":"シック","meaning":"riding fast, driving a horse fast"}],"kunyomiExamples":[{"example":"翔る","reading":"かける","meaning":"to soar, to fly, to run, to dash"},{"example":"駆ける","reading":"かける","meaning":"to run, to dash, to race, to gallop (on horseback), to canter, to advance (against one's enemy), to charge (on horseback)"},{"example":"駆る","reading":"かる","meaning":"to spur on, to urge forward, to impel, to drive at high speed (e.g. a car)"}],"radical":{"symbol":"馬","meaning":"horse"},"parts":["ノ","丶","匚","杰","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39366_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c6.gif","uri":"https://jisho.org/search/%E9%A7%86%23kanji"}}
+{
+  "id": "駆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駆",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1033",
+    "strokeCount": 14,
+    "meaning": "drive, run, gallop, advance, inspire, impel",
+    "kunyomi": [
+      "か.ける",
+      "か.る"
+    ],
+    "onyomi": [
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駆使",
+        "reading": "クシ",
+        "meaning": "using freely, making full use of, having a good command of, working (someone) hard, driving (someone) on"
+      },
+      {
+        "example": "駆除",
+        "reading": "クジョ",
+        "meaning": "extermination (of pests), eradication, stamping out (e.g. a social evil)"
+      },
+      {
+        "example": "先駆",
+        "reading": "センク",
+        "meaning": "forerunner, precursor, pioneer, leader, outrider, outriding"
+      },
+      {
+        "example": "上手く行く",
+        "reading": "ウマクイク",
+        "meaning": "to go smoothly, to turn out well, to do the trick, to have peaceful relations"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "翔る",
+        "reading": "かける",
+        "meaning": "to soar, to fly, to run, to dash"
+      },
+      {
+        "example": "駆ける",
+        "reading": "かける",
+        "meaning": "to run, to dash, to race, to gallop (on horseback), to canter, to advance (against one's enemy), to charge (on horseback)"
+      },
+      {
+        "example": "駆る",
+        "reading": "かる",
+        "meaning": "to spur on, to urge forward, to impel, to drive at high speed (e.g. a car)"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "匚",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39366_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c6.gif",
+    "uri": "https://jisho.org/search/%E9%A7%86%23kanji"
+  }
+}

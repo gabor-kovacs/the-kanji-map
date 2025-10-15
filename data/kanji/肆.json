@@ -1,1 +1,63 @@
-{"id":"肆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"肆","found":true,"strokeCount":13,"meaning":"four","kunyomi":["つら.ねる","ほしいまま","みせ"],"onyomi":["シ"],"onyomiExamples":[{"example":"四","reading":"シ","meaning":"four, 4"},{"example":"恣意","reading":"シイ","meaning":"arbitrariness, self-will, whim"},{"example":"放恣","reading":"ホウシ","meaning":"licentious, self-indulgent"},{"example":"驕恣","reading":"キョウシ","meaning":"being proud and self-willed"}],"kunyomiExamples":[{"example":"恣","reading":"ほしいまま","meaning":"selfish, self-indulgent, arbitrary"}],"radical":{"symbol":"聿","forms":["⺻"],"meaning":"brush"},"parts":["厶","聿","長"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32902_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08086.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8086.gif","uri":"https://jisho.org/search/%E8%82%86%23kanji"}}
+{
+  "id": "肆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肆",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "four",
+    "kunyomi": [
+      "つら.ねる",
+      "ほしいまま",
+      "みせ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "四",
+        "reading": "シ",
+        "meaning": "four, 4"
+      },
+      {
+        "example": "恣意",
+        "reading": "シイ",
+        "meaning": "arbitrariness, self-will, whim"
+      },
+      {
+        "example": "放恣",
+        "reading": "ホウシ",
+        "meaning": "licentious, self-indulgent"
+      },
+      {
+        "example": "驕恣",
+        "reading": "キョウシ",
+        "meaning": "being proud and self-willed"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恣",
+        "reading": "ほしいまま",
+        "meaning": "selfish, self-indulgent, arbitrary"
+      }
+    ],
+    "radical": {
+      "symbol": "聿",
+      "forms": [
+        "⺻"
+      ],
+      "meaning": "brush"
+    },
+    "parts": [
+      "厶",
+      "聿",
+      "長"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32902_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08086.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8086.gif",
+    "uri": "https://jisho.org/search/%E8%82%86%23kanji"
+  }
+}

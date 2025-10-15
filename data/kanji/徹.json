@@ -1,1 +1,56 @@
-{"id":"徹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"徹","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"968","strokeCount":15,"meaning":"penetrate, clear, pierce, strike home, sit up (all night)","kunyomi":[],"onyomi":["テツ"],"onyomiExamples":[{"example":"徹夜","reading":"テツヤ","meaning":"staying up all night"},{"example":"徹カラ","reading":"テツカラ","meaning":"all-night karaoke"},{"example":"冷徹","reading":"レイテツ","meaning":"cool-headed, level-headed, hard-headed"},{"example":"透徹","reading":"トウテツ","meaning":"penetration, absolutely clear, not dirty, clearness"}],"kunyomiExamples":[],"radical":{"symbol":"彳","meaning":"step"},"parts":["乞","亠","厶","彳","攵","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24505_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fb9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fb9.gif","uri":"https://jisho.org/search/%E5%BE%B9%23kanji"}}
+{
+  "id": "徹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "徹",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "968",
+    "strokeCount": 15,
+    "meaning": "penetrate, clear, pierce, strike home, sit up (all night)",
+    "kunyomi": [],
+    "onyomi": [
+      "テツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "徹夜",
+        "reading": "テツヤ",
+        "meaning": "staying up all night"
+      },
+      {
+        "example": "徹カラ",
+        "reading": "テツカラ",
+        "meaning": "all-night karaoke"
+      },
+      {
+        "example": "冷徹",
+        "reading": "レイテツ",
+        "meaning": "cool-headed, level-headed, hard-headed"
+      },
+      {
+        "example": "透徹",
+        "reading": "トウテツ",
+        "meaning": "transparency, clarity, coherence"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "step"
+    },
+    "parts": [
+      "乞",
+      "亠",
+      "厶",
+      "彳",
+      "攵",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24505_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fb9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fb9.gif",
+    "uri": "https://jisho.org/search/%E5%BE%B9%23kanji"
+  }
+}

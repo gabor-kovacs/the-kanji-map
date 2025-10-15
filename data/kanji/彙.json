@@ -1,1 +1,58 @@
-{"id":"彙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"彙","found":true,"taughtIn":"junior high","strokeCount":13,"meaning":"same kind, collect, classify, category, hedgehog","kunyomi":["はりねずみ"],"onyomi":["イ"],"onyomiExamples":[{"example":"彙","reading":"イ","meaning":"kind, sort, type"},{"example":"彙報","reading":"イホウ","meaning":"bulletin, collection of reports"},{"example":"理解語彙","reading":"リカイゴイ","meaning":"passive vocabulary"},{"example":"表現語彙","reading":"ヒョウゲンゴイ","meaning":"active vocabulary"}],"kunyomiExamples":[],"radical":{"symbol":"彐","forms":["彑"],"meaning":"pig snout"},"parts":["ヨ","冖","彑","木","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24409_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f59.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f59.gif","uri":"https://jisho.org/search/%E5%BD%99%23kanji"}}
+{
+  "id": "彙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彙",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 13,
+    "meaning": "same kind, collect, classify, category, hedgehog",
+    "kunyomi": [
+      "はりねずみ"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彙",
+        "reading": "イ",
+        "meaning": "kind, sort, type"
+      },
+      {
+        "example": "彙報",
+        "reading": "イホウ",
+        "meaning": "bulletin, collection of reports"
+      },
+      {
+        "example": "理解語彙",
+        "reading": "リカイゴイ",
+        "meaning": "passive vocabulary"
+      },
+      {
+        "example": "使用語彙",
+        "reading": "シヨウゴイ",
+        "meaning": "active vocabulary"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彐",
+      "forms": [
+        "彑"
+      ],
+      "meaning": "pig snout"
+    },
+    "parts": [
+      "ヨ",
+      "冖",
+      "彑",
+      "木",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24409_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f59.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f59.gif",
+    "uri": "https://jisho.org/search/%E5%BD%99%23kanji"
+  }
+}

@@ -1,1 +1,78 @@
-{"id":"佛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"佛","found":true,"strokeCount":7,"meaning":"France","kunyomi":["ほとけ"],"onyomi":["ブツ","フツ"],"onyomiExamples":[{"example":"仏像","reading":"ブツゾウ","meaning":"statue of Buddha, image of Buddha, Buddhist statue, Buddhist image"},{"example":"胎内仏","reading":"タイナイブツ","meaning":"small Buddhist image inside another Buddhist image"},{"example":"写仏","reading":"シャブツ","meaning":"tracing a picture of a Buddhist image"}],"kunyomiExamples":[{"example":"仏","reading":"ほとけ","meaning":"Buddha, Shakyamuni, Buddhist image, figure of Buddha, the dead, dead person, departed soul, merciful person"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["ノ","化","弓","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20315_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f5b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f5b.gif","uri":"https://jisho.org/search/%E4%BD%9B%23kanji"}}
+{
+  "id": "佛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佛",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "France",
+    "kunyomi": [
+      "ほとけ"
+    ],
+    "onyomi": [
+      "ブツ",
+      "フツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "仏像",
+        "reading": "ブツゾウ",
+        "meaning": "statue of Buddha, image of Buddha, Buddhist statue, Buddhist image"
+      },
+      {
+        "example": "【ブッダ】",
+        "reading": "Buddha",
+        "meaning": ""
+      },
+      {
+        "example": "胎内仏",
+        "reading": "タイナイブツ",
+        "meaning": "small Buddhist image inside another Buddhist image"
+      },
+      {
+        "example": "写仏",
+        "reading": "シャブツ",
+        "meaning": "tracing a picture of a Buddhist image"
+      },
+      {
+        "example": "仏語",
+        "reading": "フツゴ",
+        "meaning": "French (language)"
+      },
+      {
+        "example": "仏国",
+        "reading": "フッコク",
+        "meaning": "France"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "仏",
+        "reading": "ほとけ",
+        "meaning": "Buddha, Shakyamuni, Buddhist image, figure of Buddha, the dead, dead person, departed soul, merciful person"
+      },
+      {
+        "example": "御仏",
+        "reading": "みほとけ",
+        "meaning": "Lord Buddha, The Buddha"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "ノ",
+      "化",
+      "弓",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20315_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f5b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f5b.gif",
+    "uri": "https://jisho.org/search/%E4%BD%9B%23kanji"
+  }
+}

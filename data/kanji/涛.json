@@ -1,1 +1,49 @@
-{"id":"涛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"涛","found":true,"strokeCount":10,"meaning":"waves, billows","kunyomi":["なみ"],"onyomi":["トウ"],"onyomiExamples":[{"example":"怒涛","reading":"ドトウ","meaning":"surging waves, raging billows, turbulent, tempestuous, tumultuous, chaotic"},{"example":"風濤","reading":"フウトウ","meaning":"wind and waves, waves stirred by the wind"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ノ","二","亠","土","寸","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28059_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d9b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d9b.gif","uri":"https://jisho.org/search/%E6%B6%9B%23kanji"}}
+{
+  "id": "涛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "涛",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "waves, billows",
+    "kunyomi": [
+      "なみ"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "怒涛",
+        "reading": "ドトウ",
+        "meaning": "surging waves, raging billows, turbulent, tempestuous, tumultuous, chaotic"
+      },
+      {
+        "example": "風濤",
+        "reading": "フウトウ",
+        "meaning": "wind and waves, waves stirred by the wind"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "亠",
+      "土",
+      "寸",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28059_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d9b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d9b.gif",
+    "uri": "https://jisho.org/search/%E6%B6%9B%23kanji"
+  }
+}

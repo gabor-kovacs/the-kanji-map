@@ -1,1 +1,64 @@
-{"id":"閃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"閃","found":true,"strokeCount":10,"meaning":"flash, brandish","kunyomi":["ひらめ.く","ひらめ.き","うかが.う"],"onyomi":["セン"],"onyomiExamples":[{"example":"閃亜鉛鉱","reading":"センアエンコウ","meaning":"sphalerite, zinc blende"},{"example":"閃ウラン鉱","reading":"センウランコウ","meaning":"uraninite"},{"example":"一閃","reading":"イッセン","meaning":"flash, brandish"},{"example":"電光一閃","reading":"デンコウイッセン","meaning":"flash of lightning"}],"kunyomiExamples":[{"example":"閃く","reading":"ひらめく","meaning":"to flash (e.g. lightning), to flicker, to glitter, to sparkle, to gleam, to flutter (e.g. flag), to wave, to undulate, to flash into one's mind (e.g. an idea), to come to one suddenly"},{"example":"閃き","reading":"ひらめき","meaning":"flair, flash, insight, flash (of inspiration, wit, etc.), waving (e.g. of a flag in the wind)"}],"radical":{"symbol":"門","meaning":"gate"},"parts":["人","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38275_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09583.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9583.gif","uri":"https://jisho.org/search/%E9%96%83%23kanji"}}
+{
+  "id": "閃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閃",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "flash, brandish",
+    "kunyomi": [
+      "ひらめ.く",
+      "ひらめ.き",
+      "うかが.う"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "閃亜鉛鉱",
+        "reading": "センアエンコウ",
+        "meaning": "sphalerite, zinc blende"
+      },
+      {
+        "example": "閃ウラン鉱",
+        "reading": "センウランコウ",
+        "meaning": "uraninite"
+      },
+      {
+        "example": "一閃",
+        "reading": "イッセン",
+        "meaning": "flash (of light), glint"
+      },
+      {
+        "example": "電光一閃",
+        "reading": "デンコウイッセン",
+        "meaning": "flash of lightning"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "閃く",
+        "reading": "ひらめく",
+        "meaning": "to flash (e.g. lightning), to flicker, to glitter, to sparkle, to gleam, to flutter (e.g. flag), to wave, to undulate, to flash into one's mind (e.g. an idea), to come to one suddenly"
+      },
+      {
+        "example": "閃き",
+        "reading": "ひらめき",
+        "meaning": "flair, flash, insight, flash (of inspiration, wit, etc.), waving (e.g. of a flag in the wind)"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "人",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38275_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09583.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9583.gif",
+    "uri": "https://jisho.org/search/%E9%96%83%23kanji"
+  }
+}

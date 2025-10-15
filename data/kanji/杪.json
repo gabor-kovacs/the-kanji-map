@@ -1,1 +1,54 @@
-{"id":"杪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"杪","found":true,"strokeCount":8,"meaning":"twig, treetop","kunyomi":["こずえ"],"onyomi":["ビョウ","ショウ"],"onyomiExamples":[{"example":"杪秋","reading":"ビョウシュウ","meaning":"end of autumn (fall)"},{"example":"杪春","reading":"ビョウシュン","meaning":"end of spring"},{"example":"樹梢","reading":"ジュショウ","meaning":"treetop"}],"kunyomiExamples":[{"example":"梢","reading":"こずえ","meaning":"treetop, tip of a branch"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ノ","小","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26474_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0676a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/676a.gif","uri":"https://jisho.org/search/%E6%9D%AA%23kanji"}}
+{
+  "id": "杪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杪",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "twig, treetop",
+    "kunyomi": [
+      "こずえ"
+    ],
+    "onyomi": [
+      "ビョウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "杪秋",
+        "reading": "ビョウシュウ",
+        "meaning": "end of autumn (fall)"
+      },
+      {
+        "example": "杪春",
+        "reading": "ビョウシュン",
+        "meaning": "end of spring"
+      },
+      {
+        "example": "樹梢",
+        "reading": "ジュショウ",
+        "meaning": "treetop"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梢",
+        "reading": "こずえ",
+        "meaning": "treetop, tip of a branch"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26474_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0676a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/676a.gif",
+    "uri": "https://jisho.org/search/%E6%9D%AA%23kanji"
+  }
+}

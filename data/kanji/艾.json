@@ -1,1 +1,58 @@
-{"id":"艾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"艾","found":true,"strokeCount":5,"meaning":"moxa, sagebrush, wormwood, mugwort","kunyomi":["もぐさ","よもぎ","おさ.める","か.る"],"onyomi":["カイ","ゲイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"艾","reading":"もぐさ","meaning":"moxa, Japanese mugwort (Artemisia princeps)"},{"example":"蓬","reading":"よもぎ","meaning":"Japanese mugwort (Artemisia princeps), mugwort (any plant of genus Artemisia), wormwood, sagebrush"},{"example":"大蓬","reading":"おおよもぎ","meaning":"Artemisia montana"},{"example":"タカ蓬","reading":"タカよもぎ","meaning":"Artemisia selengensis"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ノ","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33406_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0827e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/827e.gif","uri":"https://jisho.org/search/%E8%89%BE%23kanji"}}
+{
+  "id": "艾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艾",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "moxa, sagebrush, wormwood, mugwort",
+    "kunyomi": [
+      "もぐさ",
+      "よもぎ",
+      "おさ.める",
+      "か.る"
+    ],
+    "onyomi": [
+      "カイ",
+      "ゲイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "艾",
+        "reading": "もぐさ",
+        "meaning": "moxa (dried mugwort leaf used in moxibustion), Japanese mugwort (Artemisia princeps)"
+      },
+      {
+        "example": "蓬",
+        "reading": "よもぎ",
+        "meaning": "Japanese mugwort (Artemisia princeps), mugwort (any plant of genus Artemisia), wormwood, sagebrush"
+      },
+      {
+        "example": "大蓬",
+        "reading": "おおよもぎ",
+        "meaning": "Artemisia montana"
+      },
+      {
+        "example": "苦艾",
+        "reading": "にがよもぎ",
+        "meaning": "wormwood (Artemisia absinthium), absinthe"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ノ",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33406_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0827e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/827e.gif",
+    "uri": "https://jisho.org/search/%E8%89%BE%23kanji"
+  }
+}

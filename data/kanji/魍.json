@@ -1,1 +1,41 @@
-{"id":"魍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"魍","found":true,"strokeCount":18,"meaning":"spirits of mountains and streams","kunyomi":[],"onyomi":["モウ","ボウ"],"onyomiExamples":[{"example":"魍魎","reading":"モウリョウ","meaning":"all kinds of spirits and goblins"}],"kunyomiExamples":[],"radical":{"symbol":"鬼","meaning":"ghost, demon"},"parts":["亡","儿","冂","匕","厶","并","田","鬼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39757_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b4d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b4d.gif","uri":"https://jisho.org/search/%E9%AD%8D%23kanji"}}
+{
+  "id": "魍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "魍",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "spirits of mountains and streams",
+    "kunyomi": [],
+    "onyomi": [
+      "モウ",
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "魍魎",
+        "reading": "モウリョウ",
+        "meaning": "all kinds of spirits and goblins"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鬼",
+      "meaning": "ghost, demon"
+    },
+    "parts": [
+      "亡",
+      "儿",
+      "冂",
+      "匕",
+      "厶",
+      "并",
+      "田",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39757_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b4d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b4d.gif",
+    "uri": "https://jisho.org/search/%E9%AD%8D%23kanji"
+  }
+}

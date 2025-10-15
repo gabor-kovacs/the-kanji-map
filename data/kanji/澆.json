@@ -1,1 +1,41 @@
-{"id":"澆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"澆","found":true,"strokeCount":15,"meaning":"sprinkle, thing, shallow, frivolous","kunyomi":["そそ.ぐ"],"onyomi":["ギョウ"],"onyomiExamples":[{"example":"澆季","reading":"ギョウキ","meaning":"frivolous age, degenerate period in history, decadent age"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["儿","土","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28550_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f86.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f86.gif","uri":"https://jisho.org/search/%E6%BE%86%23kanji"}}
+{
+  "id": "澆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "澆",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "sprinkle, thing, shallow, frivolous",
+    "kunyomi": [
+      "そそ.ぐ"
+    ],
+    "onyomi": [
+      "ギョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "澆季",
+        "reading": "ギョウキ",
+        "meaning": "frivolous age, degenerate period in history, decadent age"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28550_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f86.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f86.gif",
+    "uri": "https://jisho.org/search/%E6%BE%86%23kanji"
+  }
+}

@@ -1,1 +1,323 @@
-{"id":"頃","kanjialiveData":{"kanji":{"character":"頃","meaning":{"english":"time, period"},"strokes":{"count":11,"timings":[0,1.265,2.798,4.131,4.731,5.665,7.198,8.066,8.865,9.799,10.532,11.333333],"images":["https://media.kanjialive.com/kanji_strokes/koro_1.svg","https://media.kanjialive.com/kanji_strokes/koro_2.svg","https://media.kanjialive.com/kanji_strokes/koro_3.svg","https://media.kanjialive.com/kanji_strokes/koro_4.svg","https://media.kanjialive.com/kanji_strokes/koro_5.svg","https://media.kanjialive.com/kanji_strokes/koro_6.svg","https://media.kanjialive.com/kanji_strokes/koro_7.svg","https://media.kanjialive.com/kanji_strokes/koro_8.svg","https://media.kanjialive.com/kanji_strokes/koro_9.svg","https://media.kanjialive.com/kanji_strokes/koro_10.svg","https://media.kanjialive.com/kanji_strokes/koro_11.svg"]},"onyomi":{"romaji":"kei","katakana":"ケイ"},"kunyomi":{"romaji":"koro","hiragana":"ころ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/koro_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/koro_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/koro_00.webm"}},"radical":{"character":"⾴","strokes":9,"image":"https://media.kanjialive.com/radical_character/oogai.svg","position":{"hiragana":"つくり","romaji":"tsukuri","icon":"https://media.kanjialive.com/rad_positions/tsukuri.svg"},"name":{"hiragana":"おおがい","romaji":"oogai"},"meaning":{"english":"head, page"},"animation":["https://media.kanjialive.com/rad_frames/oogai0.svg","https://media.kanjialive.com/rad_frames/oogai1.svg","https://media.kanjialive.com/rad_frames/oogai2.svg"]},"references":{"grade":null,"kodansha":"n/a","classic_nelson":"754"},"examples":[{"japanese":"頃日（けいじつ）","meaning":{"english":"recently"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro_06_a.mp3"}},{"japanese":"頃（ころ）","meaning":{"english":"approximately (time)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro_06_b.mp3"}},{"japanese":"三時頃（さんじごろ）","meaning":{"english":"about 3 o'clock"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro_06_c.mp3"}},{"japanese":"この頃（このごろ）","meaning":{"english":"recently"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koro_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koro_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koro_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koro_06_d.mp3"}}]},"jishoData":{"query":"頃","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2015","strokeCount":11,"meaning":"time, about, toward","kunyomi":["ころ","ごろ","しばら.く"],"onyomi":["ケイ","キョウ"],"onyomiExamples":[{"example":"頃","reading":"ケイ","meaning":"qing (Chinese unit of land area equal to 100 mu)"},{"example":"頃刻","reading":"ケイコク","meaning":"short period"},{"example":"万頃","reading":"バンケイ","meaning":"vast expanse"}],"kunyomiExamples":[{"example":"頃","reading":"ころ","meaning":"(approximate) time, around, about, toward, suitable time (or condition), time of year, season"},{"example":"頃おい","reading":"ころおい","meaning":"time, period, days"},{"example":"幼い頃","reading":"おさないころ","meaning":"when one was a very young child, very early in one's life"},{"example":"間もない頃","reading":"まもないころ","meaning":"in the early period (of something), at the beginning"},{"example":"頃","reading":"ころ","meaning":"(approximate) time, around, about, toward, suitable time (or condition), time of year, season"},{"example":"今日この頃","reading":"きょうこのごろ","meaning":"these days, nowadays, recently"},{"example":"使い頃","reading":"つかいごろ","meaning":"handy"}],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ハ","匕","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38915_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09803.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9803.gif","uri":"https://jisho.org/search/%E9%A0%83%23kanji"}}
+{
+  "id": "頃",
+  "kanjialiveData": {
+    "_id": "54317ae7791eba5146ee49b3",
+    "_rev": "13-f9559d350e0d1099d8790787a90d0930",
+    "rad_name_ja": "おおがい",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "koro",
+    "meaning": "time, period",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "頃日（けいじつ）",
+        "meaning": {
+          "english": "recently"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "頃（ころ）",
+        "meaning": {
+          "english": "approximately (time)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "三時頃（さんじごろ）",
+        "meaning": {
+          "english": "about 3 o'clock"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "この頃（このごろ）",
+        "meaning": {
+          "english": "recently"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koro_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koro_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koro_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koro_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ころ",
+    "ka_utf": "頃",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=頃",
+    "kname": "koro",
+    "rad_order": 217,
+    "txt_books": [
+      {
+        "chapter": "24",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "17"
+      }
+    ],
+    "rad_name_search": [
+      "oogai"
+    ],
+    "rad_utf": "⾴",
+    "stroketimes": [
+      0,
+      1.265,
+      2.798,
+      4.131,
+      4.731,
+      5.665,
+      7.198,
+      8.066,
+      8.865,
+      9.799,
+      10.532,
+      11.333333
+    ],
+    "kunyomi_ka_display": "ころ",
+    "dick": "n/a",
+    "rad_name": "oogai",
+    "dicn": "754",
+    "mn_hint": "Old person ヒ thinking 頁 <span class='note'>(orig. \"head\")</span> of a past period in his life.",
+    "rad_stroke": 9,
+    "onyomi_ja": "ケイ",
+    "rad_meaning": "head, page",
+    "onyomi": "kei",
+    "ka_id": "ka_257",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "kei",
+      "kei"
+    ],
+    "kunyomi_search": [
+      "koro",
+      "koro"
+    ],
+    "meaning_search": [
+      "time",
+      "period",
+      "time, period"
+    ],
+    "onyomi_ja_search": [
+      "ケイ",
+      "ケイ"
+    ],
+    "kunyomi_ja_search": [
+      "ころ",
+      "ころ"
+    ],
+    "rad_meaning_search": [
+      "head",
+      "page",
+      "head, page"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "おおがい"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:24",
+      "cij:c24",
+      "jtr",
+      "jtr:7",
+      "jtr:c7",
+      "cijr",
+      "cijr:17",
+      "cijr:c17"
+    ],
+    "rad_name_file": "oogai",
+    "kanji": {
+      "character": "頃",
+      "meaning": {
+        "english": "time, period"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1.265,
+          2.798,
+          4.131,
+          4.731,
+          5.665,
+          7.198,
+          8.066,
+          8.865,
+          9.799,
+          10.532,
+          11.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/koro_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/koro_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kei",
+        "katakana": "ケイ"
+      },
+      "kunyomi": {
+        "romaji": "koro",
+        "hiragana": "ころ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/koro_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/koro_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/koro_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾴",
+      "strokes": 9,
+      "image": "https://media.kanjialive.com/radical_character/oogai.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "おおがい",
+        "romaji": "oogai"
+      },
+      "meaning": {
+        "english": "head, page"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/oogai0.svg",
+        "https://media.kanjialive.com/rad_frames/oogai1.svg",
+        "https://media.kanjialive.com/rad_frames/oogai2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "n/a",
+      "classic_nelson": "754"
+    }
+  },
+  "jishoData": {
+    "query": "頃",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2015",
+    "strokeCount": 11,
+    "meaning": "time, about, toward",
+    "kunyomi": [
+      "ころ",
+      "ごろ",
+      "しばら.く"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頃",
+        "reading": "ケイ",
+        "meaning": "qing (Chinese unit of land area equal to 100 mu)"
+      },
+      {
+        "example": "頃刻",
+        "reading": "ケイコク",
+        "meaning": "short period"
+      },
+      {
+        "example": "万頃",
+        "reading": "バンケイ",
+        "meaning": "vast expanse"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頃",
+        "reading": "ころ",
+        "meaning": "(approximate) time, around, about, toward, suitable time (or condition), time of year, season"
+      },
+      {
+        "example": "頃おい",
+        "reading": "ころおい",
+        "meaning": "time, period, days"
+      },
+      {
+        "example": "幼い頃",
+        "reading": "おさないころ",
+        "meaning": "when one was a very young child, very early in one's life"
+      },
+      {
+        "example": "間もない頃",
+        "reading": "まもないころ",
+        "meaning": "in the early period (of something), at the beginning"
+      },
+      {
+        "example": "頃",
+        "reading": "ころ",
+        "meaning": "(approximate) time, around, about, toward, suitable time (or condition), time of year, season"
+      },
+      {
+        "example": "今頃",
+        "reading": "いまごろ",
+        "meaning": "about this time, about now"
+      },
+      {
+        "example": "今日この頃",
+        "reading": "きょうこのごろ",
+        "meaning": "these days, nowadays, recently"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ハ",
+      "匕",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38915_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09803.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9803.gif",
+    "uri": "https://jisho.org/search/%E9%A0%83%23kanji"
+  }
+}

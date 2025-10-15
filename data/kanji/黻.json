@@ -1,1 +1,35 @@
-{"id":"黻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"黻","found":true,"strokeCount":17,"meaning":"lap robe, embroidery pattern","kunyomi":["あや"],"onyomi":["フツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"黹","meaning":"embroidery, needlework"},"parts":["ノ","ハ","一","丶","冂","并","黹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40699_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09efb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9efb.gif","uri":"https://jisho.org/search/%E9%BB%BB%23kanji"}}
+{
+  "id": "黻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黻",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "lap robe, embroidery pattern",
+    "kunyomi": [
+      "あや"
+    ],
+    "onyomi": [
+      "フツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "黹",
+      "meaning": "embroidery, needlework"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "一",
+      "丶",
+      "冂",
+      "并",
+      "黹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40699_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09efb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9efb.gif",
+    "uri": "https://jisho.org/search/%E9%BB%BB%23kanji"
+  }
+}

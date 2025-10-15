@@ -1,1 +1,456 @@
-{"id":"魚","kanjialiveData":{"kanji":{"character":"魚","meaning":{"english":"fish"},"strokes":{"count":11,"timings":[0,0.8,2.2,3.2,4.733333,5.8,6.666667,8.266667,8.933333,9.533333,10.066667,11.133333],"images":["https://media.kanjialive.com/kanji_strokes/uo_1.svg","https://media.kanjialive.com/kanji_strokes/uo_2.svg","https://media.kanjialive.com/kanji_strokes/uo_3.svg","https://media.kanjialive.com/kanji_strokes/uo_4.svg","https://media.kanjialive.com/kanji_strokes/uo_5.svg","https://media.kanjialive.com/kanji_strokes/uo_6.svg","https://media.kanjialive.com/kanji_strokes/uo_7.svg","https://media.kanjialive.com/kanji_strokes/uo_8.svg","https://media.kanjialive.com/kanji_strokes/uo_9.svg","https://media.kanjialive.com/kanji_strokes/uo_10.svg","https://media.kanjialive.com/kanji_strokes/uo_11.svg"]},"onyomi":{"romaji":"gyo","katakana":"ギョ"},"kunyomi":{"romaji":"uo, sakana","hiragana":"うお、さかな"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/uo_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/uo_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/uo_00.webm"}},"radical":{"character":"⿂","strokes":11,"image":"https://media.kanjialive.com/radical_character/uo.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"うお","romaji":"uo"},"meaning":{"english":"fish"},"animation":["https://media.kanjialive.com/rad_frames/uo0.svg","https://media.kanjialive.com/rad_frames/uo1.svg","https://media.kanjialive.com/rad_frames/uo2.svg"]},"references":{"grade":2,"kodansha":"1345","classic_nelson":"5281"},"examples":[{"japanese":"魚類（ぎょるい）","meaning":{"english":"fish (as class of animal)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_a.mp3"}},{"japanese":"魚介類（ぎょかいるい）","meaning":{"english":"marine products, seafood"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_b.mp3"}},{"japanese":"金魚（きんぎょ）","meaning":{"english":"goldfish"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_c.mp3"}},{"japanese":"鮮魚（せんぎょ）","meaning":{"english":"fresh fish"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_d.mp3"}},{"japanese":"人魚（にんぎょ）","meaning":{"english":"mermaid, merman"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_e.mp3"}},{"japanese":"深海魚（しんかいぎょ）","meaning":{"english":"deep-sea fish"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_f.mp3"}},{"japanese":"熱帯魚（ねったいぎょ）","meaning":{"english":"tropical fish"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_g.mp3"}},{"japanese":"魚市場（うおいちば）","meaning":{"english":"fish market"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_h.mp3"}},{"japanese":"飛び魚（とびうお）","meaning":{"english":"flying fish"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_i.mp3"}},{"japanese":"魚（さかな）","meaning":{"english":"fish [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_j.mp3"}},{"japanese":"魚屋（さかなや）","meaning":{"english":"fish market, fish dealer"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_k.mp3"}},{"japanese":"*雑魚（ざこ）","meaning":{"english":"small fish, small fry"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/uo_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/uo_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_l.mp3"}}]},"jishoData":{"query":"魚","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"1208","strokeCount":11,"meaning":"fish","kunyomi":["うお","さかな","-ざかな"],"onyomi":["ギョ"],"onyomiExamples":[{"example":"魚類","reading":"ギョルイ","meaning":"fish, fishes"},{"example":"魚介類","reading":"ギョカイルイ","meaning":"marine products, seafood, fish and shellfish"},{"example":"鮮魚","reading":"センギョ","meaning":"fresh fish"},{"example":"稚魚","reading":"チギョ","meaning":"fry, juvenile fish, fingerling"}],"kunyomiExamples":[{"example":"魚","reading":"さかな","meaning":"fish"},{"example":"魚市場","reading":"うおいちば","meaning":"fish market"},{"example":"川魚","reading":"かわうお","meaning":"river fish, freshwater fish"},{"example":"活魚","reading":"かつぎょ","meaning":"live fish and shellfish (kept in a tank in a restaurant)"},{"example":"魚","reading":"さかな","meaning":"fish"},{"example":"魚釣り","reading":"さかなつり","meaning":"fishing"},{"example":"旬の魚","reading":"しゅんのさかな","meaning":"fish in season"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39770_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b5a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b5a.gif","uri":"https://jisho.org/search/%E9%AD%9A%23kanji"}}
+{
+  "id": "魚",
+  "kanjialiveData": {
+    "_id": "54317b0a791eba5146ee4c53",
+    "_rev": "10-e8661ea73049752a32c84c93a50fa6b4",
+    "rad_name_ja": "うお",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "uo, sakana",
+    "meaning": "fish",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "魚類（ぎょるい）",
+        "meaning": {
+          "english": "fish (as class of animal)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "魚介類（ぎょかいるい）",
+        "meaning": {
+          "english": "marine products, seafood"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "金魚（きんぎょ）",
+        "meaning": {
+          "english": "goldfish"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "鮮魚（せんぎょ）",
+        "meaning": {
+          "english": "fresh fish"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "人魚（にんぎょ）",
+        "meaning": {
+          "english": "mermaid, merman"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "深海魚（しんかいぎょ）",
+        "meaning": {
+          "english": "deep-sea fish"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "熱帯魚（ねったいぎょ）",
+        "meaning": {
+          "english": "tropical fish"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "魚市場（うおいちば）",
+        "meaning": {
+          "english": "fish market"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "飛び魚（とびうお）",
+        "meaning": {
+          "english": "flying fish"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "魚（さかな）",
+        "meaning": {
+          "english": "fish [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "魚屋（さかなや）",
+        "meaning": {
+          "english": "fish market, fish dealer"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "*雑魚（ざこ）",
+        "meaning": {
+          "english": "small fish, small fry"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/uo_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/uo_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/uo_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "うお、さかな",
+    "ka_utf": "魚",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=魚",
+    "rad_name_search": [
+      "uo"
+    ],
+    "rad_order": 229,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "21"
+      }
+    ],
+    "kname": "uo",
+    "rad_utf": "⿂",
+    "stroketimes": [
+      0,
+      0.8,
+      2.2,
+      3.2,
+      4.733333,
+      5.8,
+      6.666667,
+      8.266667,
+      8.933333,
+      9.533333,
+      10.066667,
+      11.133333
+    ],
+    "kunyomi_ka_display": "うお、さかな",
+    "dick": "1345",
+    "rad_name": "uo",
+    "dicn": "5281",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 11,
+    "onyomi_ja": "ギョ",
+    "rad_meaning": "fish",
+    "onyomi": "gyo",
+    "ka_id": "ka_862",
+    "onyomi_search": [
+      "gyo",
+      "gyo"
+    ],
+    "kunyomi_search": [
+      "uo",
+      "sakana",
+      "uo, sakana"
+    ],
+    "meaning_search": [
+      "fish",
+      "fish"
+    ],
+    "onyomi_ja_search": [
+      "ギョ",
+      "ギョ"
+    ],
+    "kunyomi_ja_search": [
+      "うお",
+      "さかな",
+      "うお、さかな"
+    ],
+    "rad_meaning_search": [
+      "fish",
+      "fish"
+    ],
+    "rad_name_ja_search": [
+      "うお"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "bk",
+      "bk:7",
+      "bk:c7",
+      "aij3",
+      "aij3:14",
+      "aij3:c14",
+      "aij3:v2",
+      "aij3:v2:14",
+      "aij3:v2:c14",
+      "gen",
+      "gen:15",
+      "gen:c15",
+      "ap",
+      "ap:4",
+      "ap:c4",
+      "kll",
+      "kll:10",
+      "kll:c10",
+      "cijr",
+      "cijr:21",
+      "cijr:c21"
+    ],
+    "rad_name_file": "uo",
+    "kanji": {
+      "character": "魚",
+      "meaning": {
+        "english": "fish"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          0.8,
+          2.2,
+          3.2,
+          4.733333,
+          5.8,
+          6.666667,
+          8.266667,
+          8.933333,
+          9.533333,
+          10.066667,
+          11.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/uo_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/uo_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/uo_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/uo_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/uo_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/uo_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/uo_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/uo_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/uo_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/uo_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/uo_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "gyo",
+        "katakana": "ギョ"
+      },
+      "kunyomi": {
+        "romaji": "uo, sakana",
+        "hiragana": "うお、さかな"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/uo_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/uo_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/uo_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⿂",
+      "strokes": 11,
+      "image": "https://media.kanjialive.com/radical_character/uo.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "うお",
+        "romaji": "uo"
+      },
+      "meaning": {
+        "english": "fish"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/uo0.svg",
+        "https://media.kanjialive.com/rad_frames/uo1.svg",
+        "https://media.kanjialive.com/rad_frames/uo2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1345",
+      "classic_nelson": "5281"
+    }
+  },
+  "jishoData": {
+    "query": "魚",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "1208",
+    "strokeCount": 11,
+    "meaning": "fish",
+    "kunyomi": [
+      "うお",
+      "さかな",
+      "-ざかな"
+    ],
+    "onyomi": [
+      "ギョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "魚類",
+        "reading": "ギョルイ",
+        "meaning": "fish, fishes"
+      },
+      {
+        "example": "魚介類",
+        "reading": "ギョカイルイ",
+        "meaning": "marine products, seafood, fish and shellfish"
+      },
+      {
+        "example": "鮮魚",
+        "reading": "センギョ",
+        "meaning": "fresh fish"
+      },
+      {
+        "example": "稚魚",
+        "reading": "チギョ",
+        "meaning": "fry, juvenile fish, fingerling"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "魚",
+        "reading": "さかな",
+        "meaning": "fish"
+      },
+      {
+        "example": "魚市場",
+        "reading": "うおいちば",
+        "meaning": "fish market"
+      },
+      {
+        "example": "川魚",
+        "reading": "かわうお",
+        "meaning": "river fish, freshwater fish"
+      },
+      {
+        "example": "活魚",
+        "reading": "かつぎょ",
+        "meaning": "live fish and shellfish (kept in a tank in a restaurant)"
+      },
+      {
+        "example": "魚",
+        "reading": "さかな",
+        "meaning": "fish"
+      },
+      {
+        "example": "魚釣り",
+        "reading": "さかなつり",
+        "meaning": "fishing"
+      },
+      {
+        "example": "旬の魚",
+        "reading": "しゅんのさかな",
+        "meaning": "fish in season"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39770_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b5a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b5a.gif",
+    "uri": "https://jisho.org/search/%E9%AD%9A%23kanji"
+  }
+}

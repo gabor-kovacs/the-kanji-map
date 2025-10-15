@@ -1,1 +1,289 @@
-{"id":"詳","kanjialiveData":{"kanji":{"character":"詳","meaning":{"english":"detailed"},"strokes":{"count":13,"timings":[0.507,1.236,2.24,2.843,3.648,4.519,5.323,6.059,7.063,7.531,8.67,9.34,10.68,11.26257],"images":["https://media.kanjialive.com/kanji_strokes/kuwa(shii)_1.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_2.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_3.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_4.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_5.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_6.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_7.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_8.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_9.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_10.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_11.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_12.svg","https://media.kanjialive.com/kanji_strokes/kuwa(shii)_13.svg"]},"onyomi":{"romaji":"shou","katakana":"ショウ"},"kunyomi":{"romaji":"kuwa, kuwashii","hiragana":"くわ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kuwa(shii)_13.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kuwa(shii)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kuwa(shii)_00.webm"}},"radical":{"character":"","strokes":7,"image":"https://media.kanjialive.com/radical_character/gonben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"ごんべん","romaji":"gonben"},"meaning":{"english":"words, to speak, say"},"animation":["https://media.kanjialive.com/rad_frames/gonben0.svg","https://media.kanjialive.com/rad_frames/gonben1.svg","https://media.kanjialive.com/rad_frames/gonben2.svg"]},"references":{"grade":null,"kodansha":"1026","classic_nelson":"4357"},"examples":[{"japanese":"詳細（しょうさい）","meaning":{"english":"detail"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kuwa(shii)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kuwa(shii)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kuwa(shii)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kuwa(shii)_06_a.mp3"}},{"japanese":"詳しい（くわしい）","meaning":{"english":"detailed, knowledgable"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kuwa(shii)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kuwa(shii)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kuwa(shii)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kuwa(shii)_06_b.mp3"}}]},"jishoData":{"query":"詳","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1178","strokeCount":13,"meaning":"detailed, full, minute, accurate, well-informed","kunyomi":["くわ.しい","つまび.らか"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"詳報","reading":"ショウホウ","meaning":"detailed report, full report, details, particulars"},{"example":"詳細","reading":"ショウサイ","meaning":"details, particulars, specifics, detailed, specific, minute, close-up view (of a digitally displayed map), zoomed-in view"},{"example":"不詳","reading":"フショウ","meaning":"unknown, unidentified, unspecified"},{"example":"姓名不詳","reading":"セイメイフショウ","meaning":"unidentified, name unknown"}],"kunyomiExamples":[{"example":"詳しい","reading":"くわしい","meaning":"detailed, full, minute, knowing very well, knowledgeable (about), well-acquainted (with), well-informed (about), familiar (with)"},{"example":"詳らか","reading":"つまびらか","meaning":"detailed, clear"},{"example":"詳らかでない","reading":"つまびらかでない","meaning":"unknown"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["并","王","羊","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35443_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a73.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a73.gif","uri":"https://jisho.org/search/%E8%A9%B3%23kanji"}}
+{
+  "id": "詳",
+  "kanjialiveData": {
+    "_id": "54317af2791eba5146ee4a8c",
+    "_rev": "10-60d79223f6b3d10d4258243bb121b557",
+    "rad_name_ja": "ごんべん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "kuwa, kuwashii",
+    "meaning": "detailed",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "詳細（しょうさい）",
+        "meaning": {
+          "english": "detail"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(shii)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuwa(shii)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuwa(shii)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuwa(shii)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "詳しい（くわしい）",
+        "meaning": {
+          "english": "detailed, knowledgable"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwa(shii)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuwa(shii)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuwa(shii)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuwa(shii)_06_b.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "くわ、くわしい",
+    "ka_utf": "詳",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=詳",
+    "rad_name_search": [
+      "gonben"
+    ],
+    "rad_order": 183,
+    "txt_books": [
+      {
+        "chapter": "4",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ"
+      }
+    ],
+    "kname": "kuwa(shii)",
+    "rad_utf": "",
+    "stroketimes": [
+      0.507,
+      1.236,
+      2.24,
+      2.843,
+      3.648,
+      4.519,
+      5.323,
+      6.059,
+      7.063,
+      7.531,
+      8.67,
+      9.34,
+      10.68,
+      11.26257
+    ],
+    "kunyomi_ka_display": "くわ",
+    "dick": "1026",
+    "rad_name": "gonben",
+    "dicn": "4357",
+    "mn_hint": "Lots of 羊 words 言 when giving a detailed description.",
+    "rad_stroke": 7,
+    "onyomi_ja": "ショウ",
+    "rad_meaning": "words, to speak, say",
+    "onyomi": "shou",
+    "ka_id": "ka_452",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "shou",
+      "shou"
+    ],
+    "kunyomi_search": [
+      "kuwa",
+      "kuwashii",
+      "kuwa, kuwashii"
+    ],
+    "meaning_search": [
+      "detailed",
+      "detailed"
+    ],
+    "onyomi_ja_search": [
+      "ショウ",
+      "ショウ"
+    ],
+    "kunyomi_ja_search": [
+      "くわ",
+      "くわしい",
+      "くわ、くわしい"
+    ],
+    "rad_meaning_search": [
+      "words",
+      "to speak",
+      "to",
+      "speak",
+      "say",
+      "words, to speak, say"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ごんべん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:4",
+      "ij:c4"
+    ],
+    "rad_name_file": "gonben",
+    "kanji": {
+      "character": "詳",
+      "meaning": {
+        "english": "detailed"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0.507,
+          1.236,
+          2.24,
+          2.843,
+          3.648,
+          4.519,
+          5.323,
+          6.059,
+          7.063,
+          7.531,
+          8.67,
+          9.34,
+          10.68,
+          11.26257
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shou",
+        "katakana": "ショウ"
+      },
+      "kunyomi": {
+        "romaji": "kuwa, kuwashii",
+        "hiragana": "くわ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kuwa(shii)_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kuwa(shii)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kuwa(shii)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/gonben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ごんべん",
+        "romaji": "gonben"
+      },
+      "meaning": {
+        "english": "words, to speak, say"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gonben0.svg",
+        "https://media.kanjialive.com/rad_frames/gonben1.svg",
+        "https://media.kanjialive.com/rad_frames/gonben2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1026",
+      "classic_nelson": "4357"
+    }
+  },
+  "jishoData": {
+    "query": "詳",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1178",
+    "strokeCount": 13,
+    "meaning": "detailed, full, minute, accurate, well-informed",
+    "kunyomi": [
+      "くわ.しい",
+      "つまび.らか"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "詳報",
+        "reading": "ショウホウ",
+        "meaning": "detailed report, full report, details, particulars"
+      },
+      {
+        "example": "詳細",
+        "reading": "ショウサイ",
+        "meaning": "details, particulars, specifics, detailed, specific, minute, close-up view (of a digitally displayed map), zoomed-in view"
+      },
+      {
+        "example": "不詳",
+        "reading": "フショウ",
+        "meaning": "unknown, unidentified, unspecified"
+      },
+      {
+        "example": "姓名不詳",
+        "reading": "セイメイフショウ",
+        "meaning": "unidentified, name unknown"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "詳しい",
+        "reading": "くわしい",
+        "meaning": "detailed, full, minute, knowing very well, knowledgeable (about), well-acquainted (with), well-informed (about), familiar (with)"
+      },
+      {
+        "example": "詳らか",
+        "reading": "つまびらか",
+        "meaning": "detailed, clear"
+      },
+      {
+        "example": "詳らかでない",
+        "reading": "つまびらかでない",
+        "meaning": "unknown"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "并",
+      "王",
+      "羊",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35443_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a73.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a73.gif",
+    "uri": "https://jisho.org/search/%E8%A9%B3%23kanji"
+  }
+}

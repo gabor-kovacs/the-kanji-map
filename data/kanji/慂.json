@@ -1,1 +1,43 @@
-{"id":"慂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"慂","found":true,"strokeCount":14,"meaning":"direct, advise","kunyomi":["すす.む","すす.める"],"onyomi":["ヨウ"],"onyomiExamples":[{"example":"慫慂","reading":"ショウヨウ","meaning":"advice, recommendation, suggestion, inducement, persuasion"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["マ","心","汁","用"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24898_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06142.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6142.gif","uri":"https://jisho.org/search/%E6%85%82%23kanji"}}
+{
+  "id": "慂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慂",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "direct, advise",
+    "kunyomi": [
+      "すす.む",
+      "すす.める"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慫慂",
+        "reading": "ショウヨウ",
+        "meaning": "advice, recommendation, suggestion, inducement, persuasion"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "マ",
+      "心",
+      "汁",
+      "用"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24898_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06142.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6142.gif",
+    "uri": "https://jisho.org/search/%E6%85%82%23kanji"
+  }
+}

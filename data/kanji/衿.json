@@ -1,1 +1,63 @@
-{"id":"衿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"衿","found":true,"jlptLevel":"N1","strokeCount":9,"meaning":"neck, collar, lapel","kunyomi":["えり"],"onyomi":["キン","コン"],"onyomiExamples":[{"example":"開襟","reading":"カイキン","meaning":"unbuttoning a collar, opening up (one's heart), open-necked shirt"}],"kunyomiExamples":[{"example":"襟","reading":"えり","meaning":"collar, lapel, neckband, neck, nape of the neck, scruff of the neck"},{"example":"襟元","reading":"えりもと","meaning":"(around the) neck, nape, collar (at the front)"},{"example":"裏衿","reading":"うらえり","meaning":"neckband lining"},{"example":"半衿","reading":"はんえり","meaning":"neckpiece (on a kimono)"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["一","个","初"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34943_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0887f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/887f.gif","uri":"https://jisho.org/search/%E8%A1%BF%23kanji"}}
+{
+  "id": "衿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衿",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 9,
+    "meaning": "neck, collar, lapel",
+    "kunyomi": [
+      "えり"
+    ],
+    "onyomi": [
+      "キン",
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "開襟",
+        "reading": "カイキン",
+        "meaning": "unbuttoning a collar, opening up (one's heart), open-necked shirt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "襟",
+        "reading": "えり",
+        "meaning": "collar, lapel, neckband, neck, nape of the neck, scruff of the neck"
+      },
+      {
+        "example": "襟元",
+        "reading": "えりもと",
+        "meaning": "(around the) neck, nape, collar (at the front of a coat, kimono, etc.), collar area"
+      },
+      {
+        "example": "裏衿",
+        "reading": "うらえり",
+        "meaning": "neckband lining"
+      },
+      {
+        "example": "半衿",
+        "reading": "はんえり",
+        "meaning": "neckpiece (on a kimono)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "一",
+      "个",
+      "初"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34943_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0887f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/887f.gif",
+    "uri": "https://jisho.org/search/%E8%A1%BF%23kanji"
+  }
+}

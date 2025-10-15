@@ -1,1 +1,52 @@
-{"id":"巍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"巍","found":true,"strokeCount":21,"meaning":"high","kunyomi":["たか.い"],"onyomi":["ギ"],"onyomiExamples":[{"example":"巍峨","reading":"ギガ","meaning":"towering, soaring, lofty"},{"example":"巍々","reading":"ギギ","meaning":"towering (mountains), soaring, lofty, majestic"},{"example":"巍々","reading":"ギギ","meaning":"towering (mountains), soaring, lofty, majestic"}],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["儿","匕","厶","女","山","田","禾","鬼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24013_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dcd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dcd.gif","uri":"https://jisho.org/search/%E5%B7%8D%23kanji"}}
+{
+  "id": "巍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巍",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "high",
+    "kunyomi": [
+      "たか.い"
+    ],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巍峨",
+        "reading": "ギガ",
+        "meaning": "towering, soaring, lofty"
+      },
+      {
+        "example": "巍々",
+        "reading": "ギギ",
+        "meaning": "towering (mountains), soaring, lofty, majestic"
+      },
+      {
+        "example": "巍々",
+        "reading": "ギギ",
+        "meaning": "towering (mountains), soaring, lofty, majestic"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "女",
+      "山",
+      "田",
+      "禾",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24013_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dcd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dcd.gif",
+    "uri": "https://jisho.org/search/%E5%B7%8D%23kanji"
+  }
+}

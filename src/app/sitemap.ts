@@ -3,20 +3,28 @@ import { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const kanjis = getAllKanji();
+  const baseUrl =
+    process.env.NEXT_PUBLIC_BASE_URL || "https://the-kanji-map.com";
 
   const kanjiPages: MetadataRoute.Sitemap = kanjis.map(
     ({ params: { id } }) => ({
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/${id}`,
-      //   lastModified: new Date(),
-      // changeFrequency:,
-      // priority:
+      url: `${baseUrl}/${id}`,
+      lastModified: new Date(),
     })
   );
 
   return [
     {
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/about`,
+      url: baseUrl,
       lastModified: new Date(),
+      changeFrequency: "yearly",
+      priority: 1,
+    },
+    {
+      url: `${baseUrl}/about`,
+      lastModified: new Date(),
+      changeFrequency: "yearly",
+      priority: 0.8,
     },
     ...kanjiPages,
   ];

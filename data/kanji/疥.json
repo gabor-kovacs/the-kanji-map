@@ -1,1 +1,43 @@
-{"id":"疥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"疥","found":true,"strokeCount":9,"meaning":"scabby eruption","kunyomi":["はたけ"],"onyomi":["カイ"],"onyomiExamples":[{"example":"疥癬","reading":"カイセン","meaning":"scabies, sarcoptic mange, the itch"},{"example":"疥癬虫","reading":"カイセンチュウ","meaning":"itch mite (Sarcoptes scabiei)"}],"kunyomiExamples":[],"radical":{"symbol":"疒","meaning":"sickness"},"parts":["ノ","个","疔","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30117_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075a5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75a5.gif","uri":"https://jisho.org/search/%E7%96%A5%23kanji"}}
+{
+  "id": "疥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "疥",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "scabby eruption",
+    "kunyomi": [
+      "はたけ"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "疥癬",
+        "reading": "カイセン",
+        "meaning": "scabies, the itch, mange"
+      },
+      {
+        "example": "疥癬虫",
+        "reading": "カイセンチュウ",
+        "meaning": "itch mite (Sarcoptes scabiei)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "sickness"
+    },
+    "parts": [
+      "ノ",
+      "个",
+      "疔",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30117_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075a5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75a5.gif",
+    "uri": "https://jisho.org/search/%E7%96%A5%23kanji"
+  }
+}

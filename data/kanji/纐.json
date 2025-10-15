@@ -1,1 +1,44 @@
-{"id":"纐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"纐","found":true,"strokeCount":21,"meaning":"tie-dyeing, (kokuji)","kunyomi":[],"onyomi":["コウ"],"onyomiExamples":[{"example":"纐纈","reading":"コウケチ","meaning":"style of tie-dyeing used during the Nara era"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["ハ","亠","小","幺","父","目","糸","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32400_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e90.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e90.gif","uri":"https://jisho.org/search/%E7%BA%90%23kanji"}}
+{
+  "id": "纐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "纐",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "tie-dyeing, (kokuji)",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "纐纈",
+        "reading": "コウケチ",
+        "meaning": "style of tie-dyeing used during the Nara era"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "小",
+      "幺",
+      "父",
+      "目",
+      "糸",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32400_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e90.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e90.gif",
+    "uri": "https://jisho.org/search/%E7%BA%90%23kanji"
+  }
+}

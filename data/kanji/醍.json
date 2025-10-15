@@ -1,1 +1,43 @@
-{"id":"醍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"醍","found":true,"newspaperFrequencyRank":"2303","strokeCount":16,"meaning":"whey, good Buddhist teaching","kunyomi":[],"onyomi":["ダイ","タイ","テイ"],"onyomiExamples":[{"example":"醍醐","reading":"ダイゴ","meaning":"ghee (held to be the greatest of all flavours), the ultimate truth of Buddhism, nirvana"},{"example":"醍醐味","reading":"ダイゴミ","meaning":"the real pleasure (of something), the real thrill, the true charm, flavour of ghee, delicious taste, Buddha's gracious teachings"}],"kunyomiExamples":[],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["日","疋","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37261_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0918d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/918d.gif","uri":"https://jisho.org/search/%E9%86%8D%23kanji"}}
+{
+  "id": "醍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醍",
+    "found": true,
+    "newspaperFrequencyRank": "2303",
+    "strokeCount": 16,
+    "meaning": "whey, good Buddhist teaching",
+    "kunyomi": [],
+    "onyomi": [
+      "ダイ",
+      "タイ",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醍醐",
+        "reading": "ダイゴ",
+        "meaning": "ghee (held to be the greatest of all flavours), the ultimate truth of Buddhism, nirvana"
+      },
+      {
+        "example": "醍醐味",
+        "reading": "ダイゴミ",
+        "meaning": "the real pleasure (of something), the real thrill, the true charm, flavour of ghee, delicious taste, Buddha's gracious teachings"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "日",
+      "疋",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37261_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0918d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/918d.gif",
+    "uri": "https://jisho.org/search/%E9%86%8D%23kanji"
+  }
+}

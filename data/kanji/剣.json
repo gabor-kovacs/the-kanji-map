@@ -1,1 +1,80 @@
-{"id":"剣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"剣","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1305","strokeCount":10,"meaning":"sabre, sword, blade, clock hand","kunyomi":["つるぎ"],"onyomi":["ケン"],"onyomiExamples":[{"example":"剣","reading":"ケン","meaning":"sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"},{"example":"剣士","reading":"ケンシ","meaning":"swordsman, swordswoman, fencer"},{"example":"銃剣","reading":"ジュウケン","meaning":"bayonet, guns and swords"},{"example":"刀剣","reading":"トウケン","meaning":"sword, dagger, knife, bayonet"}],"kunyomiExamples":[{"example":"剣","reading":"けん","meaning":"sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"},{"example":"剣の山","reading":"つるぎのやま","meaning":"mountain of swords, mountain in hell covered in swords (with their tips pointing upward)"},{"example":"月の剣","reading":"つきのつるぎ","meaning":"new moon, crescent moon"},{"example":"草薙の剣","reading":"くさなぎのつるぎ","meaning":"Kusanagi no Tsurugi (alternate name for Ama-no-Murakumo no Tsurugi; the sword of the Imperial regalia), grass-mowing sword"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["个","人","刈","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21091_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05263.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5263.gif","uri":"https://jisho.org/search/%E5%89%A3%23kanji"}}
+{
+  "id": "剣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "剣",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1305",
+    "strokeCount": 10,
+    "meaning": "sabre, sword, blade, clock hand",
+    "kunyomi": [
+      "つるぎ"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剣",
+        "reading": "ケン",
+        "meaning": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
+      },
+      {
+        "example": "剣士",
+        "reading": "ケンシ",
+        "meaning": "swordsman, swordswoman, fencer"
+      },
+      {
+        "example": "銃剣",
+        "reading": "ジュウケン",
+        "meaning": "bayonet, guns and swords"
+      },
+      {
+        "example": "刀剣",
+        "reading": "トウケン",
+        "meaning": "sword, dagger, knife, bayonet"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "剣",
+        "reading": "けん",
+        "meaning": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
+      },
+      {
+        "example": "剣の舞",
+        "reading": "つるぎのまい",
+        "meaning": "Sabre Dance"
+      },
+      {
+        "example": "月の剣",
+        "reading": "つきのつるぎ",
+        "meaning": "new moon, crescent moon"
+      },
+      {
+        "example": "草薙の剣",
+        "reading": "くさなぎのつるぎ",
+        "meaning": "Kusanagi no Tsurugi (alternate name for Ama-no-Murakumo no Tsurugi; the sword of the Imperial regalia), grass-mowing sword"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "个",
+      "人",
+      "刈",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21091_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05263.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5263.gif",
+    "uri": "https://jisho.org/search/%E5%89%A3%23kanji"
+  }
+}

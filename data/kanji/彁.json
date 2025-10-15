@@ -1,1 +1,31 @@
-{"id":"彁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"彁","found":true,"strokeCount":13,"meaning":"(phantom kanji)","kunyomi":[],"onyomi":["カ","セイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"弓","meaning":"bow"},"parts":["一","亅","口","弓"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24385_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f41.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f41.gif","uri":"https://jisho.org/search/%E5%BD%81%23kanji"}}
+{
+  "id": "彁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彁",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "(ghost kanji)",
+    "kunyomi": [],
+    "onyomi": [
+      "カ",
+      "セイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "bow"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "弓"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24385_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f41.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f41.gif",
+    "uri": "https://jisho.org/search/%E5%BD%81%23kanji"
+  }
+}

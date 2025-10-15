@@ -1,1 +1,29 @@
-{"id":"勹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"勹","found":true,"strokeCount":2,"meaning":"wrapping enclosure, wrapping radical (no. 20)","kunyomi":["つつ.む"],"onyomi":["ホウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"勹","meaning":"wrap, embrace"},"parts":["勹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21241_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052f9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52f9.gif","uri":"https://jisho.org/search/%E5%8B%B9%23kanji"}}
+{
+  "id": "勹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "勹",
+    "found": true,
+    "strokeCount": 2,
+    "meaning": "wrapping enclosure, wrapping radical (no. 20)",
+    "kunyomi": [
+      "つつ.む"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "勹",
+      "meaning": "wrap, embrace"
+    },
+    "parts": [
+      "勹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21241_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52f9.gif",
+    "uri": "https://jisho.org/search/%E5%8B%B9%23kanji"
+  }
+}

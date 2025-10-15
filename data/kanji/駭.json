@@ -1,1 +1,58 @@
-{"id":"駭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"駭","found":true,"strokeCount":16,"meaning":"be surprised","kunyomi":["おどろ.く","おどろ.かす"],"onyomi":["ガイ","カイ"],"onyomiExamples":[{"example":"駭然","reading":"ガイゼン","meaning":"astonished, very surprised"},{"example":"驚駭","reading":"キョウガイ","meaning":"being very surprised"},{"example":"震駭","reading":"シンガイ","meaning":"terror, shock"}],"kunyomiExamples":[{"example":"驚く","reading":"おどろく","meaning":"to be surprised, to be astonished"}],"radical":{"symbol":"馬","meaning":"horse"},"parts":["ノ","丶","亠","人","杰","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39405_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099ed.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99ed.gif","uri":"https://jisho.org/search/%E9%A7%AD%23kanji"}}
+{
+  "id": "駭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駭",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "be surprised",
+    "kunyomi": [
+      "おどろ.く",
+      "おどろ.かす"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駭然",
+        "reading": "ガイゼン",
+        "meaning": "astonished, very surprised"
+      },
+      {
+        "example": "驚駭",
+        "reading": "キョウガイ",
+        "meaning": "being very surprised"
+      },
+      {
+        "example": "震駭",
+        "reading": "シンガイ",
+        "meaning": "terror, shock"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "驚く",
+        "reading": "おどろく",
+        "meaning": "to be surprised, to be taken aback, to be amazed, to be astonished, to be shocked, to be frightened, to be startled, to be alarmed"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39405_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099ed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99ed.gif",
+    "uri": "https://jisho.org/search/%E9%A7%AD%23kanji"
+  }
+}

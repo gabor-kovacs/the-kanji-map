@@ -1,1 +1,45 @@
-{"id":"鞴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鞴","found":true,"strokeCount":19,"meaning":"bellows","kunyomi":["ふいご"],"onyomi":["ヒ","ビ","フク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鞴","reading":"ふいご","meaning":"(pair of) bellows"},{"example":"ふいご祭","reading":"ふいごまつり","meaning":"Bellows Festival, festival for blacksmiths and foundries on the eighth day of the eleventh month of the lunar calendar, on which they would clean their bellows and pray"}],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["厂","用","艾","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38836_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097b4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97b4.gif","uri":"https://jisho.org/search/%E9%9E%B4%23kanji"}}
+{
+  "id": "鞴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞴",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "bellows",
+    "kunyomi": [
+      "ふいご"
+    ],
+    "onyomi": [
+      "ヒ",
+      "ビ",
+      "フク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鞴",
+        "reading": "ふいご",
+        "meaning": "(pair of) bellows"
+      },
+      {
+        "example": "ふいご祭",
+        "reading": "ふいごまつり",
+        "meaning": "Bellows Festival, festival for blacksmiths and foundries on the eighth day of the eleventh month of the lunar calendar, on which they would clean their bellows and pray"
+      }
+    ],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "厂",
+      "用",
+      "艾",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38836_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97b4.gif",
+    "uri": "https://jisho.org/search/%E9%9E%B4%23kanji"
+  }
+}

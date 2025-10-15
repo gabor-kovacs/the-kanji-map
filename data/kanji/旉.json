@@ -1,1 +1,27 @@
-{"id":"旉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"旉","found":true,"strokeCount":11,"meaning":"to state to, to announce","kunyomi":["し.く"],"onyomi":["フ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"方","meaning":"square"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26057_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065c9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65c9.gif","uri":"https://jisho.org/search/%E6%97%89%23kanji"}}
+{
+  "id": "旉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "旉",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "to state to, to announce",
+    "kunyomi": [
+      "し.く"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "方",
+      "meaning": "square"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26057_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065c9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65c9.gif",
+    "uri": "https://jisho.org/search/%E6%97%89%23kanji"
+  }
+}

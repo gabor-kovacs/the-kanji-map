@@ -1,1 +1,67 @@
-{"id":"挺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"挺","found":true,"newspaperFrequencyRank":"2189","strokeCount":10,"meaning":"bravely volunteer, counter for guns, inksticks, palanquins, rickshaws","kunyomi":["ぬ.く"],"onyomi":["チョウ","テイ"],"onyomiExamples":[{"example":"丁","reading":"チョウ","meaning":"counter for long and narrow things such as guns, scissors, spades, hoes, inksticks, palanquins, candles, jinrikishas, shamisen, oars"},{"example":"丁銀","reading":"チョウギン","meaning":"chōgin (Edo-period silver coin shaped like a sea cucumber)"},{"example":"挺身隊","reading":"テイシンタイ","meaning":"volunteer corps"},{"example":"挺身","reading":"テイシン","meaning":"volunteer, volunteering"},{"example":"空挺","reading":"クウテイ","meaning":"airborne"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["廴","扎","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25402_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0633a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/633a.gif","uri":"https://jisho.org/search/%E6%8C%BA%23kanji"}}
+{
+  "id": "挺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挺",
+    "found": true,
+    "newspaperFrequencyRank": "2189",
+    "strokeCount": 10,
+    "meaning": "bravely volunteer, counter for guns, inksticks, palanquins, rickshaws",
+    "kunyomi": [
+      "ぬ.く"
+    ],
+    "onyomi": [
+      "チョウ",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丁",
+        "reading": "チョウ",
+        "meaning": "counter for long and narrow things such as guns, scissors, spades, hoes, inksticks, palanquins, candles, jinrikishas, shamisen, oars"
+      },
+      {
+        "example": "丁銀",
+        "reading": "チョウギン",
+        "meaning": "chōgin (Edo-period silver coin shaped like a sea cucumber)"
+      },
+      {
+        "example": "一丁",
+        "reading": "イッチョウ",
+        "meaning": "one leaf (of a book bound in Japanese style), one block of tofu, one serving (in a restaurant), one long and narrow thing (e.g. a gun, scissors, spade, hoe, inkstick, palanquin, candle, jinrikisha, shamisen, oar), one chō (unit of distance, approx. 109.09 m), one game, one task, well then, right"
+      },
+      {
+        "example": "挺身隊",
+        "reading": "テイシンタイ",
+        "meaning": "volunteer corps"
+      },
+      {
+        "example": "挺身",
+        "reading": "テイシン",
+        "meaning": "volunteer, volunteering"
+      },
+      {
+        "example": "空挺",
+        "reading": "クウテイ",
+        "meaning": "airborne"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "廴",
+      "扎",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25402_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0633a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/633a.gif",
+    "uri": "https://jisho.org/search/%E6%8C%BA%23kanji"
+  }
+}

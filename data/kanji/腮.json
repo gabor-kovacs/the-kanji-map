@@ -1,1 +1,46 @@
-{"id":"腮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"腮","found":true,"strokeCount":13,"meaning":"jaw","kunyomi":["あご","えら"],"onyomi":["サイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"顎","reading":"あご","meaning":"jaw, chin, barb (of a fishhook)"},{"example":"鰓","reading":"えら","meaning":"gills, branchia, angle of the mandible, gonial angle"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["心","月","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33134_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0816e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/816e.gif","uri":"https://jisho.org/search/%E8%85%AE%23kanji"}}
+{
+  "id": "腮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腮",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "jaw",
+    "kunyomi": [
+      "あご",
+      "えら"
+    ],
+    "onyomi": [
+      "サイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "顎",
+        "reading": "あご",
+        "meaning": "jaw, chin, barb (of a fishhook)"
+      },
+      {
+        "example": "鰓",
+        "reading": "えら",
+        "meaning": "gills, branchia, angle of the mandible, gonial angle"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "心",
+      "月",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33134_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0816e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/816e.gif",
+    "uri": "https://jisho.org/search/%E8%85%AE%23kanji"
+  }
+}

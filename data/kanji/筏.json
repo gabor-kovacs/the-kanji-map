@@ -1,1 +1,58 @@
-{"id":"筏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"筏","found":true,"strokeCount":12,"meaning":"raft","kunyomi":["いかだ"],"onyomi":["バツ","ハツ","ボチ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"筏","reading":"いかだ","meaning":"raft, forearm protector, skewered baby-eel kabayaki"},{"example":"筏流し","reading":"いかだながし","meaning":"sending logs downstream bound together in rafts, floating bound timber downstream, timber rafting"},{"example":"救命いかだ","reading":"きゅうめいいかだ","meaning":"life raft, lifeboat"},{"example":"梛筏","reading":"なぎいかだ","meaning":"butcher's broom (Ruscus aculeatus)"}],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","化","戈","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31567_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b4f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b4f.gif","uri":"https://jisho.org/search/%E7%AD%8F%23kanji"}}
+{
+  "id": "筏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "筏",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "raft",
+    "kunyomi": [
+      "いかだ"
+    ],
+    "onyomi": [
+      "バツ",
+      "ハツ",
+      "ボチ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "筏",
+        "reading": "いかだ",
+        "meaning": "raft, forearm guard (made of thin metal plates), skewered baby-eel kabayaki"
+      },
+      {
+        "example": "筏師",
+        "reading": "いかだし",
+        "meaning": "raftsman, rafter"
+      },
+      {
+        "example": "救命いかだ",
+        "reading": "きゅうめいいかだ",
+        "meaning": "life raft, lifeboat"
+      },
+      {
+        "example": "梛筏",
+        "reading": "なぎいかだ",
+        "meaning": "butcher's broom (Ruscus aculeatus)"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "化",
+      "戈",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31567_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b4f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b4f.gif",
+    "uri": "https://jisho.org/search/%E7%AD%8F%23kanji"
+  }
+}

@@ -1,1 +1,41 @@
-{"id":"貳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"貳","found":true,"strokeCount":12,"meaning":"two","kunyomi":["ふた.つ","そえ"],"onyomi":["ニ","ジ"],"onyomiExamples":[{"example":"二","reading":"ニ","meaning":"two, 2"}],"kunyomiExamples":[],"radical":{"symbol":"貝","meaning":"shell"},"parts":["ハ","二","弋","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36019_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cb3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cb3.gif","uri":"https://jisho.org/search/%E8%B2%B3%23kanji"}}
+{
+  "id": "貳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "貳",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "two",
+    "kunyomi": [
+      "ふた.つ",
+      "そえ"
+    ],
+    "onyomi": [
+      "ニ",
+      "ジ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "二",
+        "reading": "ニ",
+        "meaning": "two, 2"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "shell"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "弋",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36019_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cb3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cb3.gif",
+    "uri": "https://jisho.org/search/%E8%B2%B3%23kanji"
+  }
+}

@@ -1,1 +1,378 @@
-{"id":"考","kanjialiveData":{"kanji":{"character":"考","meaning":{"english":"think"},"strokes":{"count":6,"timings":[0,1.866,2.599,3.333,4.266,5.199,7.066667],"images":["https://media.kanjialive.com/kanji_strokes/kanga(e)_1.svg","https://media.kanjialive.com/kanji_strokes/kanga(e)_2.svg","https://media.kanjialive.com/kanji_strokes/kanga(e)_3.svg","https://media.kanjialive.com/kanji_strokes/kanga(e)_4.svg","https://media.kanjialive.com/kanji_strokes/kanga(e)_5.svg","https://media.kanjialive.com/kanji_strokes/kanga(e)_6.svg"]},"onyomi":{"romaji":"kou","katakana":"コウ"},"kunyomi":{"romaji":"kanga, kangaeru, kangae","hiragana":"かんが"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kanga(e)_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kanga(e)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kanga(e)_00.webm"}},"radical":{"character":"⺹","strokes":4,"image":"https://media.kanjialive.com/radical_character/oikanmuri.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"おいかんむり","romaji":"oikanmuri"},"meaning":{"english":"old, old-age"},"animation":["https://media.kanjialive.com/rad_frames/oikanmuri0.svg","https://media.kanjialive.com/rad_frames/oikanmuri1.svg","https://media.kanjialive.com/rad_frames/oikanmuri2.svg"]},"references":{"grade":2,"kodansha":"2039","classic_nelson":"3684"},"examples":[{"japanese":"参考書（さんこうしょ）","meaning":{"english":"reference book"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_a.mp3"}},{"japanese":"考古学（こうこがく）","meaning":{"english":"archaeology"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_b.mp3"}},{"japanese":"考慮する（こうりょする）","meaning":{"english":"take into consideration"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_c.mp3"}},{"japanese":"思考する（しこうする）","meaning":{"english":"think"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_d.mp3"}},{"japanese":"選考する（せんこうする）","meaning":{"english":"screen [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_e.mp3"}},{"japanese":"考え（かんがえ）","meaning":{"english":"ideas"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_f.mp3"}},{"japanese":"考える（かんがえる）","meaning":{"english":"think"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_g.mp3"}}]},"jishoData":{"query":"考","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"196","strokeCount":6,"meaning":"consider, think over","kunyomi":["かんが.える","かんが.え"],"onyomi":["コウ"],"onyomiExamples":[{"example":"考","reading":"コウ","meaning":"thought, report on one's investigation into ..., deceased father"},{"example":"考古学","reading":"コウコガク","meaning":"archaeology, archeology"},{"example":"備考","reading":"ビコウ","meaning":"note (for reference), remarks, N.B."},{"example":"論考","reading":"ロンコウ","meaning":"study (of), discussion, discourse, inquiry, research article, academic paper"}],"kunyomiExamples":[{"example":"考える","reading":"かんがえる","meaning":"to think (about, of), to think over, to ponder, to contemplate, to reflect (on), to meditate (on), to consider, to bear in mind, to allow for, to take into consideration, to think (that), to believe, to hold (a view), to judge, to conclude, to suspect, to intend (to do), to think of (doing), to plan, to predict, to anticipate, to expect, to imagine, to come up with, to think up, to contrive, to devise, to consider (as), to regard (as), to look on (as), to take, to view"},{"example":"考え","reading":"かんがえ","meaning":"thinking, thought, view, opinion, concept, idea, notion, imagination, intention, plan, design, consideration, judgement, deliberation, reflection, wish, hope, expectation"},{"example":"考え方","reading":"かんがえかた","meaning":"way of thinking"}],"radical":{"symbol":"老","forms":["耂"],"meaning":"old"},"parts":["勹","老"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32771_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08003.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8003.gif","uri":"https://jisho.org/search/%E8%80%83%23kanji"}}
+{
+  "id": "考",
+  "kanjialiveData": {
+    "_id": "54317aea791eba5146ee49f2",
+    "_rev": "9-9b775f1120963067d7d30923a6174f65",
+    "rad_name_ja": "おいかんむり",
+    "grade": 2,
+    "hint_group": 2,
+    "kunyomi": "kanga, kangaeru, kangae",
+    "meaning": "think",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "参考書（さんこうしょ）",
+        "meaning": {
+          "english": "reference book"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "考古学（こうこがく）",
+        "meaning": {
+          "english": "archaeology"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "考慮する（こうりょする）",
+        "meaning": {
+          "english": "take into consideration"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "思考する（しこうする）",
+        "meaning": {
+          "english": "think"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "選考する（せんこうする）",
+        "meaning": {
+          "english": "screen [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "考え（かんがえ）",
+        "meaning": {
+          "english": "ideas"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "考える（かんがえる）",
+        "meaning": {
+          "english": "think"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kanga(e)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kanga(e)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kanga(e)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kanga(e)_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "かんが、かんがえる、かんがえ",
+    "ka_utf": "考",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=考",
+    "rad_name_search": [
+      "oikanmuri"
+    ],
+    "rad_order": 119,
+    "txt_books": [
+      {
+        "chapter": "28",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "36",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "kanga(e)",
+    "rad_utf": "⺹",
+    "stroketimes": [
+      0,
+      1.866,
+      2.599,
+      3.333,
+      4.266,
+      5.199,
+      7.066667
+    ],
+    "kunyomi_ka_display": "かんが",
+    "dick": "2039",
+    "rad_name": "oikanmuri",
+    "dicn": "3684",
+    "mn_hint": "Meditating old person 老 sitting on his heels [22].",
+    "rad_stroke": 4,
+    "onyomi_ja": "コウ",
+    "rad_meaning": "old, old-age",
+    "onyomi": "kou",
+    "ka_id": "ka_313",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "kou",
+      "kou"
+    ],
+    "kunyomi_search": [
+      "kanga",
+      "kangaeru",
+      "kangae",
+      "kanga, kangaeru, kangae"
+    ],
+    "meaning_search": [
+      "think",
+      "think"
+    ],
+    "onyomi_ja_search": [
+      "コウ",
+      "コウ"
+    ],
+    "kunyomi_ja_search": [
+      "かんが",
+      "かんがえる",
+      "かんがえ",
+      "かんが、かんがえる、かんがえ"
+    ],
+    "rad_meaning_search": [
+      "old",
+      "old-age",
+      "old, old-age"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "おいかんむり"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:28",
+      "cij:c28",
+      "bk",
+      "bk:36",
+      "bk:c36",
+      "mac",
+      "mac:12",
+      "mac:c12",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v4",
+      "aij3:v4:7",
+      "aij3:v4:c7",
+      "gen",
+      "gen:16",
+      "gen:c16",
+      "ap",
+      "ap:6",
+      "ap:c6",
+      "kll",
+      "kll:16",
+      "kll:c16"
+    ],
+    "rad_name_file": "oikanmuri",
+    "kanji": {
+      "character": "考",
+      "meaning": {
+        "english": "think"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          1.866,
+          2.599,
+          3.333,
+          4.266,
+          5.199,
+          7.066667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kanga(e)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kanga(e)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kanga(e)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kanga(e)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kanga(e)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kanga(e)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kou",
+        "katakana": "コウ"
+      },
+      "kunyomi": {
+        "romaji": "kanga, kangaeru, kangae",
+        "hiragana": "かんが"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kanga(e)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kanga(e)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kanga(e)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺹",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/oikanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "おいかんむり",
+        "romaji": "oikanmuri"
+      },
+      "meaning": {
+        "english": "old, old-age"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/oikanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/oikanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/oikanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "2039",
+      "classic_nelson": "3684"
+    }
+  },
+  "jishoData": {
+    "query": "考",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "196",
+    "strokeCount": 6,
+    "meaning": "consider, think over",
+    "kunyomi": [
+      "かんが.える",
+      "かんが.え"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "考",
+        "reading": "コウ",
+        "meaning": "thought, report on one's investigation into ..., deceased father"
+      },
+      {
+        "example": "考古学",
+        "reading": "コウコガク",
+        "meaning": "archaeology, archeology"
+      },
+      {
+        "example": "備考",
+        "reading": "ビコウ",
+        "meaning": "note (for reference), remarks, N.B."
+      },
+      {
+        "example": "論考",
+        "reading": "ロンコウ",
+        "meaning": "study (of), discussion, discourse, inquiry, research article, academic paper"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "考える",
+        "reading": "かんがえる",
+        "meaning": "to think (about, of), to think over, to ponder, to contemplate, to reflect (on), to meditate (on), to consider, to bear in mind, to allow for, to take into consideration, to think (that), to believe, to hold (a view), to judge, to conclude, to suspect, to intend (to do), to think of (doing), to plan, to predict, to anticipate, to expect, to imagine, to come up with, to think up, to contrive, to devise, to consider (as), to regard (as), to look on (as), to take, to view"
+      },
+      {
+        "example": "考え",
+        "reading": "かんがえ",
+        "meaning": "thinking, thought, view, opinion, concept, idea, notion, imagination, intention, plan, design, consideration, judgement, deliberation, reflection, wish, hope, expectation"
+      },
+      {
+        "example": "考え方",
+        "reading": "かんがえかた",
+        "meaning": "way of thinking"
+      }
+    ],
+    "radical": {
+      "symbol": "老",
+      "forms": [
+        "耂"
+      ],
+      "meaning": "old"
+    },
+    "parts": [
+      "勹",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32771_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08003.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8003.gif",
+    "uri": "https://jisho.org/search/%E8%80%83%23kanji"
+  }
+}

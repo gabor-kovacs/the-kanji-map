@@ -1,1 +1,51 @@
-{"id":"憾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"憾","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1682","strokeCount":16,"meaning":"remorse, regret, be sorry","kunyomi":["うら.む"],"onyomi":["カン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"憾む","reading":"うらむ","meaning":"to regret"},{"example":"恨むらくは","reading":"うらむらくは","meaning":"I regret that, I feel terrible but, I'm sorry but"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ノ","口","心","忙","戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25022_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061be.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61be.gif","uri":"https://jisho.org/search/%E6%86%BE%23kanji"}}
+{
+  "id": "憾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憾",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1682",
+    "strokeCount": 16,
+    "meaning": "remorse, regret, be sorry",
+    "kunyomi": [
+      "うら.む"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "憾む",
+        "reading": "うらむ",
+        "meaning": "to regret"
+      },
+      {
+        "example": "恨むらくは",
+        "reading": "うらむらくは",
+        "meaning": "I regret that, I feel terrible but, I'm sorry but"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "心",
+      "忙",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25022_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061be.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61be.gif",
+    "uri": "https://jisho.org/search/%E6%86%BE%23kanji"
+  }
+}

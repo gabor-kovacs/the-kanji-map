@@ -1,1 +1,77 @@
-{"id":"姑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"姑","found":true,"newspaperFrequencyRank":"2041","strokeCount":8,"meaning":"mother-in-law","kunyomi":["しゅうとめ","しゅうと","おば","しばらく"],"onyomi":["コ"],"onyomiExamples":[{"example":"姑息","reading":"コソク","meaning":"underhanded, unfair, makeshift, stopgap"},{"example":"姑洗","reading":"コセン","meaning":"(in China) 5th note of the ancient chromatic scale (approx. F sharp), third lunar month"},{"example":"芸妓","reading":"ゲイギ","meaning":"geisha"},{"example":"外姑","reading":"ガイコ","meaning":"mother-in-law (of the husband)"}],"kunyomiExamples":[{"example":"姑","reading":"しゅうとめ","meaning":"mother-in-law"},{"example":"嫁姑","reading":"よめしゅうとめ","meaning":"daughter-in-law and mother-in-law (relationship, conflict, etc.)"},{"example":"姑","reading":"しゅうとめ","meaning":"mother-in-law"},{"example":"暫く","reading":"しばらく","meaning":"for a moment, for a minute, for a while, for some time, for the time being, for now, it's been a long time, long time no see"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["十","口","女"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22993_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059d1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59d1.gif","uri":"https://jisho.org/search/%E5%A7%91%23kanji"}}
+{
+  "id": "姑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "姑",
+    "found": true,
+    "newspaperFrequencyRank": "2041",
+    "strokeCount": 8,
+    "meaning": "mother-in-law",
+    "kunyomi": [
+      "しゅうとめ",
+      "しゅうと",
+      "おば",
+      "しばらく"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "姑息",
+        "reading": "コソク",
+        "meaning": "underhanded, unfair, makeshift, stopgap"
+      },
+      {
+        "example": "姑洗",
+        "reading": "コセン",
+        "meaning": "(in China) 5th note of the ancient chromatic scale (approx. F sharp), third lunar month"
+      },
+      {
+        "example": "芸妓",
+        "reading": "ゲイギ",
+        "meaning": "geisha"
+      },
+      {
+        "example": "外姑",
+        "reading": "ガイコ",
+        "meaning": "mother-in-law (of the husband)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "姑",
+        "reading": "しゅうとめ",
+        "meaning": "mother-in-law"
+      },
+      {
+        "example": "嫁姑",
+        "reading": "よめしゅうとめ",
+        "meaning": "daughter-in-law and mother-in-law (relationship, conflict, etc.)"
+      },
+      {
+        "example": "姑",
+        "reading": "しゅうとめ",
+        "meaning": "mother-in-law"
+      },
+      {
+        "example": "暫く",
+        "reading": "しばらく",
+        "meaning": "for a moment, for a minute, for a while, for some time, for the time being, for now, it's been a long time, long time no see"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "十",
+      "口",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22993_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059d1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59d1.gif",
+    "uri": "https://jisho.org/search/%E5%A7%91%23kanji"
+  }
+}

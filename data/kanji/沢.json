@@ -1,1 +1,281 @@
-{"id":"沢","kanjialiveData":{"kanji":{"character":"沢","meaning":{"english":"marsh"},"strokes":{"count":7,"timings":[0.97,1.551,2.42,3.427,4.633,5.569,6.574,7.441341],"images":["https://media.kanjialive.com/kanji_strokes/taku-sawa_1.svg","https://media.kanjialive.com/kanji_strokes/taku-sawa_2.svg","https://media.kanjialive.com/kanji_strokes/taku-sawa_3.svg","https://media.kanjialive.com/kanji_strokes/taku-sawa_4.svg","https://media.kanjialive.com/kanji_strokes/taku-sawa_5.svg","https://media.kanjialive.com/kanji_strokes/taku-sawa_6.svg","https://media.kanjialive.com/kanji_strokes/taku-sawa_7.svg"]},"onyomi":{"romaji":"taku","katakana":"タク"},"kunyomi":{"romaji":"sawa","hiragana":"さわ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/taku-sawa_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/taku-sawa_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/taku-sawa_00.webm"}},"radical":{"character":"⺡","strokes":3,"image":"https://media.kanjialive.com/radical_character/sanzui.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"さんずい","romaji":"sanzui"},"meaning":{"english":"water"},"animation":["https://media.kanjialive.com/rad_frames/sanzui0.svg","https://media.kanjialive.com/rad_frames/sanzui1.svg","https://media.kanjialive.com/rad_frames/sanzui2.svg"]},"references":{"grade":null,"kodansha":"201","classic_nelson":"2503"},"examples":[{"japanese":"沢山（たくさん）","meaning":{"english":"many, a lot, much"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/taku-sawa_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/taku-sawa_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/taku-sawa_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/taku-sawa_06_a.mp3"}},{"japanese":"贅沢な（ぜいたくな）","meaning":{"english":"luxurious"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/taku-sawa_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/taku-sawa_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/taku-sawa_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/taku-sawa_06_b.mp3"}},{"japanese":"沢（さわ）","meaning":{"english":"swamp"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/taku-sawa_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/taku-sawa_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/taku-sawa_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/taku-sawa_06_c.mp3"}}]},"jishoData":{"query":"沢","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"296","strokeCount":7,"meaning":"swamp, marsh, brilliance, grace","kunyomi":["さわ","うるお.い","うるお.す","つや"],"onyomi":["タク"],"onyomiExamples":[{"example":"沢","reading":"タク","meaning":"blessing, grace, favour, favor, benefit"},{"example":"沢山","reading":"タクサン","meaning":"a lot, lots, plenty, many, a large number, much, a great deal, a good deal, enough, sufficient, enough, too many, too much"},{"example":"沼沢","reading":"ショウタク","meaning":"marsh, swamp, bog"},{"example":"恵沢","reading":"ケイタク","meaning":"blessing, pity, favor, favour, benefit"}],"kunyomiExamples":[{"example":"沢","reading":"さわ","meaning":"mountain stream, valley, dale, wetlands, swamp, marsh"},{"example":"沢地","reading":"さわち","meaning":"marshy land"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["丶","尸","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27810_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ca2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ca2.gif","uri":"https://jisho.org/search/%E6%B2%A2%23kanji"}}
+{
+  "id": "沢",
+  "kanjialiveData": {
+    "_id": "54317aed791eba5146ee4a22",
+    "_rev": "10-33c7367eb6ec8bbbb2ba83aebe80f385",
+    "rad_name_ja": "さんずい",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "sawa",
+    "meaning": "marsh",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "沢山（たくさん）",
+        "meaning": {
+          "english": "many, a lot, much"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taku-sawa_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/taku-sawa_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/taku-sawa_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/taku-sawa_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "贅沢な（ぜいたくな）",
+        "meaning": {
+          "english": "luxurious"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taku-sawa_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/taku-sawa_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/taku-sawa_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/taku-sawa_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "沢（さわ）",
+        "meaning": {
+          "english": "swamp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taku-sawa_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/taku-sawa_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/taku-sawa_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/taku-sawa_06_c.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "さわ",
+    "ka_utf": "沢",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=沢",
+    "rad_name_search": [
+      "sanzui"
+    ],
+    "rad_order": 76,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ"
+      }
+    ],
+    "kname": "taku-sawa",
+    "rad_utf": "⺡",
+    "stroketimes": [
+      0.97,
+      1.551,
+      2.42,
+      3.427,
+      4.633,
+      5.569,
+      6.574,
+      7.441341
+    ],
+    "kunyomi_ka_display": "さわ",
+    "dick": "201",
+    "rad_name": "sanzui",
+    "dicn": "2503",
+    "mn_hint": "Area 尺 with water シ.",
+    "rad_stroke": 3,
+    "onyomi_ja": "タク",
+    "rad_meaning": "water",
+    "onyomi": "taku",
+    "ka_id": "ka_357",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "taku",
+      "taku"
+    ],
+    "kunyomi_search": [
+      "sawa",
+      "sawa"
+    ],
+    "meaning_search": [
+      "marsh",
+      "marsh"
+    ],
+    "onyomi_ja_search": [
+      "タク",
+      "タク"
+    ],
+    "kunyomi_ja_search": [
+      "さわ",
+      "さわ"
+    ],
+    "rad_meaning_search": [
+      "water",
+      "water"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "さんずい"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:20",
+      "ij:c20",
+      "mos",
+      "mos:1",
+      "mos:c1"
+    ],
+    "rad_name_file": "sanzui",
+    "kanji": {
+      "character": "沢",
+      "meaning": {
+        "english": "marsh"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0.97,
+          1.551,
+          2.42,
+          3.427,
+          4.633,
+          5.569,
+          6.574,
+          7.441341
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/taku-sawa_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/taku-sawa_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/taku-sawa_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/taku-sawa_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/taku-sawa_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/taku-sawa_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/taku-sawa_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "taku",
+        "katakana": "タク"
+      },
+      "kunyomi": {
+        "romaji": "sawa",
+        "hiragana": "さわ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/taku-sawa_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/taku-sawa_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/taku-sawa_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺡",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/sanzui.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "さんずい",
+        "romaji": "sanzui"
+      },
+      "meaning": {
+        "english": "water"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sanzui0.svg",
+        "https://media.kanjialive.com/rad_frames/sanzui1.svg",
+        "https://media.kanjialive.com/rad_frames/sanzui2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "201",
+      "classic_nelson": "2503"
+    }
+  },
+  "jishoData": {
+    "query": "沢",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "296",
+    "strokeCount": 7,
+    "meaning": "swamp, marsh, brilliance, grace",
+    "kunyomi": [
+      "さわ",
+      "うるお.い",
+      "うるお.す",
+      "つや"
+    ],
+    "onyomi": [
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "沢",
+        "reading": "タク",
+        "meaning": "blessing, grace, favour, favor, benefit"
+      },
+      {
+        "example": "沢山",
+        "reading": "タクサン",
+        "meaning": "a lot, lots, plenty, many, a large number, much, a great deal, a good deal, enough, sufficient, enough, too many, too much"
+      },
+      {
+        "example": "沼沢",
+        "reading": "ショウタク",
+        "meaning": "marsh, swamp, bog"
+      },
+      {
+        "example": "恵沢",
+        "reading": "ケイタク",
+        "meaning": "blessing, pity, favor, favour, benefit"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "沢",
+        "reading": "さわ",
+        "meaning": "mountain stream, valley, dale, wetlands, swamp, marsh"
+      },
+      {
+        "example": "沢地",
+        "reading": "さわち",
+        "meaning": "marshy land"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "丶",
+      "尸",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27810_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ca2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ca2.gif",
+    "uri": "https://jisho.org/search/%E6%B2%A2%23kanji"
+  }
+}

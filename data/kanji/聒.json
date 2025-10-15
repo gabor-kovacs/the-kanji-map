@@ -1,1 +1,31 @@
-{"id":"聒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"聒","found":true,"strokeCount":12,"meaning":"noisy","kunyomi":["かまびす.しい"],"onyomi":["カツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"耳","meaning":"ear"},"parts":["口","耳","舌"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32850_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08052.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8052.gif","uri":"https://jisho.org/search/%E8%81%92%23kanji"}}
+{
+  "id": "聒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "聒",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "noisy",
+    "kunyomi": [
+      "かまびす.しい"
+    ],
+    "onyomi": [
+      "カツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "耳",
+      "meaning": "ear"
+    },
+    "parts": [
+      "口",
+      "耳",
+      "舌"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32850_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08052.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8052.gif",
+    "uri": "https://jisho.org/search/%E8%81%92%23kanji"
+  }
+}

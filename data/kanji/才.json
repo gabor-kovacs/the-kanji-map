@@ -1,1 +1,292 @@
-{"id":"才","kanjialiveData":{"kanji":{"character":"才","meaning":{"english":"talent, counter for age"},"strokes":{"count":3,"timings":[0,1.316,3.125,3.752],"images":["https://media.kanjialive.com/kanji_strokes/(nan)sai_1.svg","https://media.kanjialive.com/kanji_strokes/(nan)sai_2.svg","https://media.kanjialive.com/kanji_strokes/(nan)sai_3.svg"]},"onyomi":{"romaji":"sai","katakana":"サイ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(nan)sai_3.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(nan)sai_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(nan)sai_00.webm"}},"radical":{"character":"⺘","strokes":3,"image":"https://media.kanjialive.com/radical_character/tehen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"てへん","romaji":"tehen"},"meaning":{"english":"hand"},"animation":["https://media.kanjialive.com/rad_frames/tehen0.svg","https://media.kanjialive.com/rad_frames/tehen1.svg","https://media.kanjialive.com/rad_frames/tehen2.svg"]},"references":{"grade":2,"kodansha":"2131","classic_nelson":"270"},"examples":[{"japanese":"十八才（じゅうはっさい）","meaning":{"english":"18 years old"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(nan)sai_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(nan)sai_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(nan)sai_06_a.mp3"}},{"japanese":"何才（なんさい）","meaning":{"english":"how old"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(nan)sai_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(nan)sai_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(nan)sai_06_b.mp3"}},{"japanese":"才能（さいのう）","meaning":{"english":"talent"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(nan)sai_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(nan)sai_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(nan)sai_06_c.mp3"}},{"japanese":"天才（てんさい）","meaning":{"english":"genius"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(nan)sai_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(nan)sai_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(nan)sai_06_d.mp3"}},{"japanese":"漫才（まんざい）","meaning":{"english":"comic dialogue"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(nan)sai_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(nan)sai_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(nan)sai_06_e.mp3"}}]},"jishoData":{"query":"才","found":true,"taughtIn":"grade 2","jlptLevel":"N3","newspaperFrequencyRank":"1497","strokeCount":3,"meaning":"genius, years old, cubic shaku","kunyomi":[],"onyomi":["サイ"],"onyomiExamples":[{"example":"才","reading":"サイ","meaning":"ability, gift, talent, aptitude, genius, sai, traditional unit of volume, approx. 1.8 ml"},{"example":"歳","reading":"サイ","meaning":"-years-old"},{"example":"鬼才","reading":"キサイ","meaning":"wizard, genius, remarkable talent, exceptional ability"},{"example":"英才","reading":"エイサイ","meaning":"genius, brilliance, unusual talent, gifted person, person of unusual talent"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ノ","一","亅"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25165_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0624d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/624d.gif","uri":"https://jisho.org/search/%E6%89%8D%23kanji"}}
+{
+  "id": "才",
+  "kanjialiveData": {
+    "_id": "54317aff791eba5146ee4b7d",
+    "_rev": "10-1e42571ce6545870b677a22e3eb66a1a",
+    "rad_name_ja": "てへん",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "talent, counter for age",
+    "kstroke": 3,
+    "examples": [
+      {
+        "japanese": "十八才（じゅうはっさい）",
+        "meaning": {
+          "english": "18 years old"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)sai_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)sai_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)sai_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "何才（なんさい）",
+        "meaning": {
+          "english": "how old"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)sai_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)sai_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)sai_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "才能（さいのう）",
+        "meaning": {
+          "english": "talent"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)sai_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)sai_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)sai_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "天才（てんさい）",
+        "meaning": {
+          "english": "genius"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)sai_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)sai_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)sai_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "漫才（まんざい）",
+        "meaning": {
+          "english": "comic dialogue"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)sai_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)sai_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)sai_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "才",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=才",
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_order": 77,
+    "txt_books": [
+      {
+        "chapter": "11",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "9"
+      }
+    ],
+    "kname": "(nan)sai",
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      1.316,
+      3.125,
+      3.752
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "2131",
+    "rad_name": "tehen",
+    "dicn": "270",
+    "mn_hint": "With each year of age, one's hand 扌 takes on more skill (becomes more talented).",
+    "rad_stroke": 3,
+    "onyomi_ja": "サイ",
+    "rad_meaning": "hand",
+    "onyomi": "sai",
+    "ka_id": "ka_67",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "sai",
+      "sai"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "talent",
+      "counter for age",
+      "counter",
+      "for",
+      "age",
+      "talent, counter for age"
+    ],
+    "onyomi_ja_search": [
+      "サイ",
+      "サイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:11",
+      "cij:c11",
+      "mac",
+      "mac:14",
+      "mac:c14",
+      "aij3",
+      "aij3:15",
+      "aij3:c15",
+      "aij3:v2",
+      "aij3:v2:15",
+      "aij3:v2:c15",
+      "mosr",
+      "mosr:9",
+      "mosr:c9"
+    ],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "才",
+      "meaning": {
+        "english": "talent, counter for age"
+      },
+      "strokes": {
+        "count": 3,
+        "timings": [
+          0,
+          1.316,
+          3.125,
+          3.752
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(nan)sai_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nan)sai_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nan)sai_3.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sai",
+        "katakana": "サイ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(nan)sai_3.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(nan)sai_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(nan)sai_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "hand"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "2131",
+      "classic_nelson": "270"
+    }
+  },
+  "jishoData": {
+    "query": "才",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "1497",
+    "strokeCount": 3,
+    "meaning": "genius, years old, cubic shaku",
+    "kunyomi": [],
+    "onyomi": [
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "才",
+        "reading": "サイ",
+        "meaning": "ability, gift, talent, aptitude, genius, sai, traditional unit of volume, approx. 1.8 ml"
+      },
+      {
+        "example": "歳",
+        "reading": "サイ",
+        "meaning": "... years old, age (of) ..."
+      },
+      {
+        "example": "鬼才",
+        "reading": "キサイ",
+        "meaning": "wizard, genius, remarkable talent, exceptional ability"
+      },
+      {
+        "example": "英才",
+        "reading": "エイサイ",
+        "meaning": "genius, brilliance, unusual talent, gifted person, person of unusual talent"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "亅"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25165_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0624d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/624d.gif",
+    "uri": "https://jisho.org/search/%E6%89%8D%23kanji"
+  }
+}

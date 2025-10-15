@@ -1,1 +1,55 @@
-{"id":"緬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"緬","found":true,"strokeCount":15,"meaning":"fine thread, Burma","kunyomi":[],"onyomi":["メン","ベン"],"onyomiExamples":[{"example":"緬甸","reading":"メンデン","meaning":"Burma"},{"example":"めん羊","reading":"メンヨウ","meaning":"sheep"},{"example":"訪緬","reading":"ホウメン","meaning":"visit to Myanmar, visit to Burma"},{"example":"羅紗綿","reading":"ラシャメン","meaning":"sheep, foreigner's mistress"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["小","幺","糸","面"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32236_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dec.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dec.gif","uri":"https://jisho.org/search/%E7%B7%AC%23kanji"}}
+{
+  "id": "緬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "緬",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "fine thread, Burma",
+    "kunyomi": [],
+    "onyomi": [
+      "メン",
+      "ベン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "緬",
+        "reading": "メン",
+        "meaning": "Myanmar, Burma"
+      },
+      {
+        "example": "緬甸",
+        "reading": "メンデン",
+        "meaning": "Burma"
+      },
+      {
+        "example": "訪緬",
+        "reading": "ホウメン",
+        "meaning": "visit to Myanmar, visit to Burma"
+      },
+      {
+        "example": "羅紗綿",
+        "reading": "ラシャメン",
+        "meaning": "sheep, foreigner's mistress"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "糸",
+      "面"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32236_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dec.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dec.gif",
+    "uri": "https://jisho.org/search/%E7%B7%AC%23kanji"
+  }
+}

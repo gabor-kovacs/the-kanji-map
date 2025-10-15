@@ -1,1 +1,82 @@
-{"id":"卑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"卑","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2003","strokeCount":9,"meaning":"lowly, base, vile, vulgar","kunyomi":["いや.しい","いや.しむ","いや.しめる"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"卑劣","reading":"ヒレツ","meaning":"mean, contemptible, despicable, dirty, foul, cowardly, base"},{"example":"卑怯","reading":"ヒキョウ","meaning":"cowardly, craven, unfair, mean, sneaky, dirty, dastardly"},{"example":"男尊女卑","reading":"ダンソンジョヒ","meaning":"male domination of women, male chauvinism, subjection of women"},{"example":"野卑","reading":"ヤヒ","meaning":"vulgar, mean, base, coarse, crude"}],"kunyomiExamples":[{"example":"卑しい","reading":"いやしい","meaning":"lowborn, humble, lowly, vulgar, coarse, crude, mean, base, vile, shabby, greedy, gluttonous, avaricious"},{"example":"卑しい生まれ","reading":"いやしいうまれ","meaning":"lowborn, of humble birth"},{"example":"卑しむ","reading":"いやしむ","meaning":"to despise, to disdain, to scorn, to hold in contempt, to look down on"},{"example":"卑しむべき","reading":"いやしむべき","meaning":"despicable"},{"example":"卑しめる","reading":"いやしめる","meaning":"to demean, to despise, to treat with contempt, to abase"}],"radical":{"symbol":"十","meaning":"ten, complete"},"parts":["十","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21329_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05351.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5351.gif","uri":"https://jisho.org/search/%E5%8D%91%23kanji"}}
+{
+  "id": "卑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卑",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2003",
+    "strokeCount": 9,
+    "meaning": "lowly, base, vile, vulgar, despise",
+    "kunyomi": [
+      "いや.しい",
+      "いや.しむ",
+      "いや.しめる"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "卑劣",
+        "reading": "ヒレツ",
+        "meaning": "mean, contemptible, despicable, dirty, foul, cowardly, base"
+      },
+      {
+        "example": "卑怯",
+        "reading": "ヒキョウ",
+        "meaning": "cowardly, craven, unfair, mean, sneaky, dirty, dastardly"
+      },
+      {
+        "example": "男尊女卑",
+        "reading": "ダンソンジョヒ",
+        "meaning": "male domination of women, male chauvinism, subjection of women"
+      },
+      {
+        "example": "野卑",
+        "reading": "ヤヒ",
+        "meaning": "vulgar, coarse, crude, boorish, ill-mannered, mean, base"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "卑しい",
+        "reading": "いやしい",
+        "meaning": "lowborn, humble, lowly, vulgar, coarse, crude, mean, base, vile, despicable, dirty, unfair, shabby, poor-looking, greedy, gluttonous, avaricious"
+      },
+      {
+        "example": "卑しい生まれ",
+        "reading": "いやしいうまれ",
+        "meaning": "lowborn, of humble birth"
+      },
+      {
+        "example": "卑しむ",
+        "reading": "いやしむ",
+        "meaning": "to despise, to disdain, to scorn, to hold in contempt, to look down on"
+      },
+      {
+        "example": "卑しむべき",
+        "reading": "いやしむべき",
+        "meaning": "despicable"
+      },
+      {
+        "example": "卑しめる",
+        "reading": "いやしめる",
+        "meaning": "to demean, to despise, to treat with contempt, to abase"
+      }
+    ],
+    "radical": {
+      "symbol": "十",
+      "meaning": "ten, complete"
+    },
+    "parts": [
+      "十",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21329_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05351.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5351.gif",
+    "uri": "https://jisho.org/search/%E5%8D%91%23kanji"
+  }
+}

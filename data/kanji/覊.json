@@ -1,1 +1,51 @@
-{"id":"覊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"覊","found":true,"strokeCount":25,"meaning":"reins, connection","kunyomi":["おもが.い","たづな","たび","つな.ぐ"],"onyomi":["キ","ハ"],"onyomiExamples":[{"example":"覊束","reading":"キソク","meaning":"fetters, shackles, restraints"},{"example":"羈絆","reading":"キハン","meaning":"fetters, shackles, restraints, bond, connection"}],"kunyomiExamples":[],"radical":{"symbol":"西","forms":["襾","覀"],"meaning":"west"},"parts":["杰","西","革","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35210_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0898a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/898a.gif","uri":"https://jisho.org/search/%E8%A6%8A%23kanji"}}
+{
+  "id": "覊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覊",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "reins, connection",
+    "kunyomi": [
+      "おもが.い",
+      "たづな",
+      "たび",
+      "つな.ぐ"
+    ],
+    "onyomi": [
+      "キ",
+      "ハ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "覊束",
+        "reading": "キソク",
+        "meaning": "fetters, shackles, restraints"
+      },
+      {
+        "example": "羈絆",
+        "reading": "キハン",
+        "meaning": "fetters, shackles, restraints, bond, connection"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "西",
+      "forms": [
+        "襾",
+        "覀"
+      ],
+      "meaning": "west"
+    },
+    "parts": [
+      "杰",
+      "西",
+      "革",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35210_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0898a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/898a.gif",
+    "uri": "https://jisho.org/search/%E8%A6%8A%23kanji"
+  }
+}

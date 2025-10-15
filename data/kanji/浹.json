@@ -1,1 +1,35 @@
-{"id":"浹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"浹","found":true,"strokeCount":10,"meaning":"far and wide, cycle, period","kunyomi":["あまねし"],"onyomi":["ショウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["人","大","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28025_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d79.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d79.gif","uri":"https://jisho.org/search/%E6%B5%B9%23kanji"}}
+{
+  "id": "浹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "浹",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "far and wide, cycle, period",
+    "kunyomi": [
+      "あまねし"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "人",
+      "大",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28025_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d79.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d79.gif",
+    "uri": "https://jisho.org/search/%E6%B5%B9%23kanji"
+  }
+}

@@ -1,1 +1,46 @@
-{"id":"俣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"俣","found":true,"newspaperFrequencyRank":"1585","strokeCount":9,"meaning":"crotch, thigh, groin, fork, junction, (kokuji)","kunyomi":["また"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"股","reading":"また","meaning":"crotch, crutch, groin, thigh, fork (in a tree, road, river, etc.), tines (of a fork)"},{"example":"二股","reading":"ふたまた","meaning":"seeing two people (i.e. romantically) at the same time, two-timing, bifurcation, fork, branch, dichotomy, fence-sitting, playing it both ways, parting of the ways"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["一","二","化","口","大"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20451_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fe3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fe3.gif","uri":"https://jisho.org/search/%E4%BF%A3%23kanji"}}
+{
+  "id": "俣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "俣",
+    "found": true,
+    "newspaperFrequencyRank": "1585",
+    "strokeCount": 9,
+    "meaning": "crotch, thigh, groin, fork, junction, (kokuji)",
+    "kunyomi": [
+      "また"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "股",
+        "reading": "また",
+        "meaning": "groin, thigh, crotch, crutch, fork (in a tree, road, river, etc.), tines (of a fork)"
+      },
+      {
+        "example": "二股",
+        "reading": "ふたまた",
+        "meaning": "seeing two people (i.e. romantically) at the same time, two-timing, bifurcation, fork, branch, dichotomy, fence-sitting, playing it both ways, parting of the ways"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "一",
+      "二",
+      "化",
+      "口",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20451_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fe3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fe3.gif",
+    "uri": "https://jisho.org/search/%E4%BF%A3%23kanji"
+  }
+}

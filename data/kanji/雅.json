@@ -1,1 +1,65 @@
-{"id":"雅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"雅","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1192","strokeCount":13,"meaning":"gracious, elegant, graceful, refined","kunyomi":["みや.び"],"onyomi":["ガ"],"onyomiExamples":[{"example":"雅","reading":"ガ","meaning":"elegance, grace, festal song (genre of the Shi Jing)"},{"example":"雅致","reading":"ガチ","meaning":"artistry, good taste, elegance, grace"},{"example":"清雅","reading":"セイガ","meaning":"graceful, elegant"},{"example":"大雅","reading":"タイガ","meaning":"major festal song (subgenre of the Shi Jing)"}],"kunyomiExamples":[{"example":"雅","reading":"みやび","meaning":"refinement, elegance, grace"},{"example":"雅び男","reading":"みやびお","meaning":"elegant and refined man"}],"radical":{"symbol":"隹","meaning":"small bird"},"parts":["牙","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38597_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c5.gif","uri":"https://jisho.org/search/%E9%9B%85%23kanji"}}
+{
+  "id": "雅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雅",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1192",
+    "strokeCount": 13,
+    "meaning": "gracious, elegant, graceful, refined",
+    "kunyomi": [
+      "みや.び"
+    ],
+    "onyomi": [
+      "ガ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雅",
+        "reading": "ガ",
+        "meaning": "elegance, grace, festal song (genre of the Shi Jing)"
+      },
+      {
+        "example": "雅致",
+        "reading": "ガチ",
+        "meaning": "artistry, good taste, elegance, grace"
+      },
+      {
+        "example": "清雅",
+        "reading": "セイガ",
+        "meaning": "graceful, elegant"
+      },
+      {
+        "example": "大雅",
+        "reading": "タイガ",
+        "meaning": "major festal song (subgenre of the Shi Jing)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "雅",
+        "reading": "みやび",
+        "meaning": "refinement, elegance, grace"
+      },
+      {
+        "example": "雅び男",
+        "reading": "みやびお",
+        "meaning": "elegant and refined man"
+      }
+    ],
+    "radical": {
+      "symbol": "隹",
+      "meaning": "small bird"
+    },
+    "parts": [
+      "牙",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38597_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c5.gif",
+    "uri": "https://jisho.org/search/%E9%9B%85%23kanji"
+  }
+}

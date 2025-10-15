@@ -1,1 +1,38 @@
-{"id":"殳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"殳","found":true,"strokeCount":4,"meaning":"pike, windy-again radical (no. 79)","kunyomi":["また","ほこ"],"onyomi":["シュ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"殳旁","reading":"ほこづくり","meaning":"kanji radical 79 at right"}],"radical":{"symbol":"殳","meaning":"weapon, lance"},"parts":["几","又","殳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27571_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb3.gif","uri":"https://jisho.org/search/%E6%AE%B3%23kanji"}}
+{
+  "id": "殳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殳",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "pike, windy-again radical (no. 79)",
+    "kunyomi": [
+      "また",
+      "ほこ"
+    ],
+    "onyomi": [
+      "シュ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "殳旁",
+        "reading": "ほこづくり",
+        "meaning": "kanji radical 79 at right"
+      }
+    ],
+    "radical": {
+      "symbol": "殳",
+      "meaning": "weapon, lance"
+    },
+    "parts": [
+      "几",
+      "又",
+      "殳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27571_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb3.gif",
+    "uri": "https://jisho.org/search/%E6%AE%B3%23kanji"
+  }
+}

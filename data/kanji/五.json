@@ -1,1 +1,355 @@
-{"id":"五","kanjialiveData":{"kanji":{"character":"五","meaning":{"english":"five"},"strokes":{"count":4,"timings":[1.009,1.665,2.798,4.465,5.266667],"images":["https://media.kanjialive.com/kanji_strokes/5_1.svg","https://media.kanjialive.com/kanji_strokes/5_2.svg","https://media.kanjialive.com/kanji_strokes/5_3.svg","https://media.kanjialive.com/kanji_strokes/5_4.svg"]},"onyomi":{"romaji":"go","katakana":"ゴ"},"kunyomi":{"romaji":"itsu, itsutsu","hiragana":"いつ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/5_4.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/5_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/5_00.webm"}},"radical":{"character":"⼆","strokes":2,"image":"https://media.kanjialive.com/radical_character/ni.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"に","romaji":"ni"},"meaning":{"english":"two"},"animation":["https://media.kanjialive.com/rad_frames/ni0.svg","https://media.kanjialive.com/rad_frames/ni1.svg","https://media.kanjialive.com/rad_frames/ni2.svg"]},"references":{"grade":1,"kodansha":"2142","classic_nelson":"15"},"examples":[{"japanese":"五月（ごがつ）","meaning":{"english":"May"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/5_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/5_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/5_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/5_06_a.mp3"}},{"japanese":"五時間（ごじかん）","meaning":{"english":"5 hours"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/5_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/5_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/5_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/5_06_b.mp3"}},{"japanese":"五階（ごかい）","meaning":{"english":"5th floor"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/5_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/5_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/5_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/5_06_c.mp3"}},{"japanese":"五人（ごにん）","meaning":{"english":"5 people"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/5_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/5_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/5_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/5_06_d.mp3"}},{"japanese":"五つ（いつつ）","meaning":{"english":"5 (objects)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/5_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/5_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/5_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/5_06_e.mp3"}},{"japanese":"五日（いつか）","meaning":{"english":"5 days, 5th of the month"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/5_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/5_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/5_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/5_06_f.mp3"}}]},"jishoData":{"query":"五","found":true,"taughtIn":"grade 1","jlptLevel":"N5","newspaperFrequencyRank":"31","strokeCount":4,"meaning":"five","kunyomi":["いつ","いつ.つ"],"onyomi":["ゴ"],"onyomiExamples":[{"example":"五","reading":"ゴ","meaning":"five, 5"},{"example":"５月","reading":"ゴガツ","meaning":"May, fifth month of the lunar calendar"},{"example":"端午","reading":"タンゴ","meaning":"Boy's Day celebration (May 5)"},{"example":"第五","reading":"ダイゴ","meaning":"the fifth"}],"kunyomiExamples":[{"example":"五","reading":"ご","meaning":"five, 5"},{"example":"五つ","reading":"いつつ","meaning":"five, five years of age, eight o'clock (old time system)"},{"example":"五つ","reading":"いつつ","meaning":"five, five years of age, eight o'clock (old time system)"},{"example":"五つ子","reading":"いつつご","meaning":"quintuplets"}],"radical":{"symbol":"二","meaning":"two"},"parts":["五"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20116_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e94.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e94.gif","uri":"https://jisho.org/search/%E4%BA%94%23kanji"}}
+{
+  "id": "五",
+  "kanjialiveData": {
+    "_id": "54317b12791eba5146ee4cd5",
+    "_rev": "10-b3cc47b8f03836f421d4355e1d1afa0d",
+    "rad_name_ja": "に",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "itsu, itsutsu",
+    "meaning": "five",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "五月（ごがつ）",
+        "meaning": {
+          "english": "May"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "五時間（ごじかん）",
+        "meaning": {
+          "english": "5 hours"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "五階（ごかい）",
+        "meaning": {
+          "english": "5th floor"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "五人（ごにん）",
+        "meaning": {
+          "english": "5 people"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "五つ（いつつ）",
+        "meaning": {
+          "english": "5 (objects)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "五日（いつか）",
+        "meaning": {
+          "english": "5 days, 5th of the month"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いつ、いつつ",
+    "ka_utf": "五",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=五",
+    "rad_name_search": [
+      "ni"
+    ],
+    "rad_order": 8,
+    "txt_books": [
+      {
+        "chapter": "6",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtAd1"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "3"
+      }
+    ],
+    "kname": "5",
+    "rad_utf": "⼆",
+    "stroketimes": [
+      1.009,
+      1.665,
+      2.798,
+      4.465,
+      5.266667
+    ],
+    "kunyomi_ka_display": "いつ",
+    "dick": "2142",
+    "rad_name": "ni",
+    "dicn": "15",
+    "mn_hint": "n/a",
+    "rad_stroke": 2,
+    "onyomi_ja": "ゴ",
+    "rad_meaning": "two",
+    "onyomi": "go",
+    "ka_id": "ka_98",
+    "onyomi_search": [
+      "go",
+      "go"
+    ],
+    "kunyomi_search": [
+      "itsu",
+      "itsutsu",
+      "itsu, itsutsu"
+    ],
+    "meaning_search": [
+      "five",
+      "five"
+    ],
+    "onyomi_ja_search": [
+      "ゴ",
+      "ゴ"
+    ],
+    "kunyomi_ja_search": [
+      "いつ",
+      "いつつ",
+      "いつ、いつつ"
+    ],
+    "rad_meaning_search": [
+      "two",
+      "two"
+    ],
+    "rad_name_ja_search": [
+      "に"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:6",
+      "cij:c6",
+      "bk",
+      "bk:3",
+      "bk:c3",
+      "aij3",
+      "aij3:13",
+      "aij3:c13",
+      "aij3:v1",
+      "aij3:v1:13",
+      "aij3:v1:c13",
+      "gen",
+      "gen:3",
+      "gen:c3",
+      "ap",
+      "ap:5",
+      "ap:c5",
+      "kll",
+      "kll:1",
+      "kll:c1",
+      "aij4",
+      "aij4:3",
+      "aij4:c3",
+      "aij4:v1",
+      "aij4:v1:3",
+      "aij4:v1:c3"
+    ],
+    "rad_name_file": "ni",
+    "kanji": {
+      "character": "五",
+      "meaning": {
+        "english": "five"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          1.009,
+          1.665,
+          2.798,
+          4.465,
+          5.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/5_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/5_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/5_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/5_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "go",
+        "katakana": "ゴ"
+      },
+      "kunyomi": {
+        "romaji": "itsu, itsutsu",
+        "hiragana": "いつ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/5_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/5_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/5_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼆",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ni.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "に",
+        "romaji": "ni"
+      },
+      "meaning": {
+        "english": "two"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ni0.svg",
+        "https://media.kanjialive.com/rad_frames/ni1.svg",
+        "https://media.kanjialive.com/rad_frames/ni2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "2142",
+      "classic_nelson": "15"
+    }
+  },
+  "jishoData": {
+    "query": "五",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "31",
+    "strokeCount": 4,
+    "meaning": "five",
+    "kunyomi": [
+      "いつ",
+      "いつ.つ"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "五",
+        "reading": "ゴ",
+        "meaning": "five, 5"
+      },
+      {
+        "example": "５月",
+        "reading": "ゴガツ",
+        "meaning": "May, fifth month of the lunar calendar"
+      },
+      {
+        "example": "端午",
+        "reading": "タンゴ",
+        "meaning": "Boys' Day celebration (May 5), Dragon Boat Festival (China)"
+      },
+      {
+        "example": "第五",
+        "reading": "ダイゴ",
+        "meaning": "fifth"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "五",
+        "reading": "ご",
+        "meaning": "five, 5"
+      },
+      {
+        "example": "五つ",
+        "reading": "いつつ",
+        "meaning": "five, five years of age, eight o'clock (old time system)"
+      },
+      {
+        "example": "五つ",
+        "reading": "いつつ",
+        "meaning": "five, five years of age, eight o'clock (old time system)"
+      },
+      {
+        "example": "五つ子",
+        "reading": "いつつご",
+        "meaning": "quintuplets"
+      }
+    ],
+    "radical": {
+      "symbol": "二",
+      "meaning": "two"
+    },
+    "parts": [
+      "五"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20116_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e94.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e94.gif",
+    "uri": "https://jisho.org/search/%E4%BA%94%23kanji"
+  }
+}

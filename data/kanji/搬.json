@@ -1,1 +1,48 @@
-{"id":"搬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"搬","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1664","strokeCount":13,"meaning":"conveyor, carry, transport","kunyomi":[],"onyomi":["ハン"],"onyomiExamples":[{"example":"搬入","reading":"ハンニュウ","meaning":"carrying in (esp. heavy objects, artwork, furniture), bringing in, taking in"},{"example":"搬送","reading":"ハンソウ","meaning":"transportation, conveyance, delivery, hospitalization, transfer to hospital"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["几","又","扎","殳","舟"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25644_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0642c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/642c.gif","uri":"https://jisho.org/search/%E6%90%AC%23kanji"}}
+{
+  "id": "搬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "搬",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1664",
+    "strokeCount": 13,
+    "meaning": "conveyor, carry, transport",
+    "kunyomi": [],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "搬入",
+        "reading": "ハンニュウ",
+        "meaning": "carrying in (esp. heavy objects, artwork, furniture), bringing in, taking in"
+      },
+      {
+        "example": "搬送",
+        "reading": "ハンソウ",
+        "meaning": "transportation, conveyance, delivery, hospitalization, transfer to hospital"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "几",
+      "又",
+      "扎",
+      "殳",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25644_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0642c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/642c.gif",
+    "uri": "https://jisho.org/search/%E6%90%AC%23kanji"
+  }
+}

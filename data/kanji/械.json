@@ -1,1 +1,300 @@
-{"id":"械","kanjialiveData":{"kanji":{"character":"械","meaning":{"english":"mechanical contrivance, machine"},"strokes":{"count":11,"timings":[0,1,2.8,3.866667,4.733333,6.266667,7.333333,8.266667,9.533333,11.2,11.866667,13.266667],"images":["https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_1.svg","https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_2.svg","https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_3.svg","https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_4.svg","https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_5.svg","https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_6.svg","https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_7.svg","https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_8.svg","https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_9.svg","https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_10.svg","https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_11.svg"]},"onyomi":{"romaji":"kai","katakana":"カイ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(ki)kai(kou)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(ki)kai(kou)_00.webm"}},"radical":{"character":"","strokes":4,"image":"https://media.kanjialive.com/radical_character/kihen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"きへん","romaji":"kihen"},"meaning":{"english":"tree, wood"},"animation":["https://media.kanjialive.com/rad_frames/kihen0.svg","https://media.kanjialive.com/rad_frames/kihen1.svg","https://media.kanjialive.com/rad_frames/kihen2.svg"]},"references":{"grade":4,"kodansha":"654","classic_nelson":"2264"},"examples":[{"japanese":"器械（きかい）","meaning":{"english":"instrument"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(ki)kai(kou)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(ki)kai(kou)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(ki)kai(kou)_06_a.mp3"}},{"japanese":"機械（きかい）","meaning":{"english":"machine, mechanism"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(ki)kai(kou)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(ki)kai(kou)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(ki)kai(kou)_06_b.mp3"}},{"japanese":"器械体操（きかいたいそう）","meaning":{"english":"apparatus gymnastics"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(ki)kai(kou)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(ki)kai(kou)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(ki)kai(kou)_06_c.mp3"}},{"japanese":"機械的な（きかいてきな）","meaning":{"english":"mechanical"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(ki)kai(kou)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(ki)kai(kou)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(ki)kai(kou)_06_d.mp3"}},{"japanese":"機械化する（きかいかする）","meaning":{"english":"mechanize"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(ki)kai(kou)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(ki)kai(kou)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(ki)kai(kou)_06_e.mp3"}}]},"jishoData":{"query":"械","found":true,"taughtIn":"grade 4","jlptLevel":"N2","newspaperFrequencyRank":"1321","strokeCount":11,"meaning":"contraption, fetter, machine, instrument","kunyomi":["かせ"],"onyomi":["カイ"],"onyomiExamples":[{"example":"工作機械","reading":"コウサクキカイ","meaning":"machine tool"},{"example":"産業機械","reading":"サンギョウキカイ","meaning":"industrial machinery"}],"kunyomiExamples":[{"example":"足かせ","reading":"あしかせ","meaning":"fetters, shackles, hobbles, encumbrance, hindrance, burden, trap"},{"example":"手かせ","reading":"てかせ","meaning":"handcuffs"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["廾","戈","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26800_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b0.gif","uri":"https://jisho.org/search/%E6%A2%B0%23kanji"}}
+{
+  "id": "械",
+  "kanjialiveData": {
+    "_id": "54317b0e791eba5146ee4c8b",
+    "_rev": "11-c053757846c4ffd9829ea64d9baa3d75",
+    "rad_name_ja": "きへん",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "mechanical contrivance, machine",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "器械（きかい）",
+        "meaning": {
+          "english": "instrument"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ki)kai(kou)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ki)kai(kou)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ki)kai(kou)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "機械（きかい）",
+        "meaning": {
+          "english": "machine, mechanism"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ki)kai(kou)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ki)kai(kou)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ki)kai(kou)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "器械体操（きかいたいそう）",
+        "meaning": {
+          "english": "apparatus gymnastics"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ki)kai(kou)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ki)kai(kou)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ki)kai(kou)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "機械的な（きかいてきな）",
+        "meaning": {
+          "english": "mechanical"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ki)kai(kou)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ki)kai(kou)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ki)kai(kou)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "機械化する（きかいかする）",
+        "meaning": {
+          "english": "mechanize"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ki)kai(kou)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ki)kai(kou)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ki)kai(kou)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ki)kai(kou)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "械",
+    "luminous": "n/a",
+    "rad_name_search": [
+      "kihen"
+    ],
+    "rad_order": 98,
+    "txt_books": [
+      {
+        "chapter": "5",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "(ki)kai(kou)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1,
+      2.8,
+      3.866667,
+      4.733333,
+      6.266667,
+      7.333333,
+      8.266667,
+      9.533333,
+      11.2,
+      11.866667,
+      13.266667
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "654",
+    "rad_name": "kihen",
+    "dicn": "2264",
+    "mn_hint": "Mechanical device such as a wooden 木 tool to admonish 戒 prisoners.",
+    "rad_stroke": 4,
+    "onyomi_ja": "カイ",
+    "rad_meaning": "tree, wood",
+    "onyomi": "kai",
+    "ka_id": "ka_912",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kai",
+      "kai"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "mechanical contrivance",
+      "mechanical",
+      "contrivance",
+      "machine",
+      "mechanical contrivance, machine"
+    ],
+    "onyomi_ja_search": [
+      "カイ",
+      "カイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "きへん"
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:5",
+      "ik1:c5",
+      "jtr",
+      "jtr:10",
+      "jtr:c10"
+    ],
+    "rad_name_file": "kihen",
+    "kanji": {
+      "character": "械",
+      "meaning": {
+        "english": "mechanical contrivance, machine"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1,
+          2.8,
+          3.866667,
+          4.733333,
+          6.266667,
+          7.333333,
+          8.266667,
+          9.533333,
+          11.2,
+          11.866667,
+          13.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kai",
+        "katakana": "カイ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(ki)kai(kou)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(ki)kai(kou)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(ki)kai(kou)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "きへん",
+        "romaji": "kihen"
+      },
+      "meaning": {
+        "english": "tree, wood"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kihen0.svg",
+        "https://media.kanjialive.com/rad_frames/kihen1.svg",
+        "https://media.kanjialive.com/rad_frames/kihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "654",
+      "classic_nelson": "2264"
+    }
+  },
+  "jishoData": {
+    "query": "械",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1321",
+    "strokeCount": 11,
+    "meaning": "contraption, fetter, machine, instrument",
+    "kunyomi": [
+      "かせ"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "工作機械",
+        "reading": "コウサクキカイ",
+        "meaning": "machine tool"
+      },
+      {
+        "example": "産業機械",
+        "reading": "サンギョウキカイ",
+        "meaning": "industrial machinery"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "枷",
+        "reading": "かせ",
+        "meaning": "shackles, fetters, irons, handcuffs, restraint, constraint, bonds (e.g. family), ties, binding relationship, binding relationships, encumbrance"
+      },
+      {
+        "example": "足かせ",
+        "reading": "あしかせ",
+        "meaning": "fetters, shackles, hobbles, encumbrance, hindrance, burden, trap"
+      },
+      {
+        "example": "手かせ",
+        "reading": "てかせ",
+        "meaning": "handcuffs"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "廾",
+      "戈",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26800_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b0.gif",
+    "uri": "https://jisho.org/search/%E6%A2%B0%23kanji"
+  }
+}

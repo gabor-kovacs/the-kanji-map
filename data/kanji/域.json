@@ -1,1 +1,308 @@
-{"id":"域","kanjialiveData":{"kanji":{"character":"域","meaning":{"english":"bounded area, region"},"strokes":{"count":11,"timings":[0,0.933333,2.466667,3.333333,4.733333,5.133333,6.133333,7,8,9.533333,10.4,11.666667],"images":["https://media.kanjialive.com/kanji_strokes/(chi)iki_1.svg","https://media.kanjialive.com/kanji_strokes/(chi)iki_2.svg","https://media.kanjialive.com/kanji_strokes/(chi)iki_3.svg","https://media.kanjialive.com/kanji_strokes/(chi)iki_4.svg","https://media.kanjialive.com/kanji_strokes/(chi)iki_5.svg","https://media.kanjialive.com/kanji_strokes/(chi)iki_6.svg","https://media.kanjialive.com/kanji_strokes/(chi)iki_7.svg","https://media.kanjialive.com/kanji_strokes/(chi)iki_8.svg","https://media.kanjialive.com/kanji_strokes/(chi)iki_9.svg","https://media.kanjialive.com/kanji_strokes/(chi)iki_10.svg","https://media.kanjialive.com/kanji_strokes/(chi)iki_11.svg"]},"onyomi":{"romaji":"iki","katakana":"イキ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(chi)iki_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(chi)iki_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(chi)iki_00.webm"}},"radical":{"character":"","strokes":3,"image":"https://media.kanjialive.com/radical_character/tsuchihen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"つちへん","romaji":"tsuchihen"},"meaning":{"english":"earth"},"animation":["https://media.kanjialive.com/rad_frames/tsuchihen0.svg","https://media.kanjialive.com/rad_frames/tsuchihen1.svg","https://media.kanjialive.com/rad_frames/tsuchihen2.svg"]},"references":{"grade":6,"kodansha":"341","classic_nelson":"1085"},"examples":[{"japanese":"地域（ちいき）","meaning":{"english":"area, region"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_a.mp3"}},{"japanese":"水域（すいいき）","meaning":{"english":"waters, water area"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_b.mp3"}},{"japanese":"区域（くいき）","meaning":{"english":"boundary, zone, territory"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_c.mp3"}},{"japanese":"海域（かいいき）","meaning":{"english":"area of ocean"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_d.mp3"}},{"japanese":"全域（ぜんいき）","meaning":{"english":"the whole area"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_e.mp3"}},{"japanese":"聖域（せいいき）","meaning":{"english":"sacred precincts"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_f.mp3"}},{"japanese":"領域（りょういき）","meaning":{"english":"area, domain, territory, field"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_g.mp3"}}]},"jishoData":{"query":"域","found":true,"taughtIn":"grade 6","jlptLevel":"N2","newspaperFrequencyRank":"396","strokeCount":11,"meaning":"range, region, limits, stage, level","kunyomi":[],"onyomi":["イキ"],"onyomiExamples":[{"example":"域","reading":"イキ","meaning":"region, limits, stage, level"},{"example":"域外","reading":"イキガイ","meaning":"outside the area"},{"example":"空域","reading":"クウイキ","meaning":"airspace"},{"example":"聖域","reading":"セイイキ","meaning":"sacred precincts, sanctuary, consecrated ground, holy ground, issue that is regarded as being off-limits, matter that is not up for discussion"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["口","土","戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22495_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057df.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57df.gif","uri":"https://jisho.org/search/%E5%9F%9F%23kanji"}}
+{
+  "id": "域",
+  "kanjialiveData": {
+    "_id": "54317ad2791eba5146ee483d",
+    "_rev": "10-2c407310a45fa5649fc42f5be1162697",
+    "rad_name_ja": "つちへん",
+    "grade": 6,
+    "hint_group": 5,
+    "kunyomi": "n/a",
+    "meaning": "bounded area, region",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "地域（ちいき）",
+        "meaning": {
+          "english": "area, region"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "水域（すいいき）",
+        "meaning": {
+          "english": "waters, water area"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "区域（くいき）",
+        "meaning": {
+          "english": "boundary, zone, territory"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "海域（かいいき）",
+        "meaning": {
+          "english": "area of ocean"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "全域（ぜんいき）",
+        "meaning": {
+          "english": "the whole area"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "聖域（せいいき）",
+        "meaning": {
+          "english": "sacred precincts"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "領域（りょういき）",
+        "meaning": {
+          "english": "area, domain, territory, field"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)iki_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)iki_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)iki_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "域",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=域",
+    "kname": "(chi)iki",
+    "rad_order": 38,
+    "txt_books": [
+      {
+        "chapter": "14",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "tsuchihen"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      0.933333,
+      2.466667,
+      3.333333,
+      4.733333,
+      5.133333,
+      6.133333,
+      7,
+      8,
+      9.533333,
+      10.4,
+      11.666667
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "341",
+    "rad_name": "tsuchihen",
+    "dicn": "1085",
+    "mn_hint": "Region 土 enclosed 口 and protected [135] with spears 戈.",
+    "rad_stroke": 3,
+    "onyomi_ja": "イキ",
+    "rad_meaning": "earth",
+    "onyomi": "iki",
+    "ka_id": "ka_1031",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "iki",
+      "iki"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "bounded area",
+      "bounded",
+      "area",
+      "region",
+      "bounded area, region"
+    ],
+    "onyomi_ja_search": [
+      "イキ",
+      "イキ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "earth",
+      "earth"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "つちへん"
+    ],
+    "textbook_search": [
+      "jtr",
+      "jtr:14",
+      "jtr:c14"
+    ],
+    "rad_name_file": "tsuchihen",
+    "kanji": {
+      "character": "域",
+      "meaning": {
+        "english": "bounded area, region"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          0.933333,
+          2.466667,
+          3.333333,
+          4.733333,
+          5.133333,
+          6.133333,
+          7,
+          8,
+          9.533333,
+          10.4,
+          11.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)iki_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "iki",
+        "katakana": "イキ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(chi)iki_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(chi)iki_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(chi)iki_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tsuchihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "つちへん",
+        "romaji": "tsuchihen"
+      },
+      "meaning": {
+        "english": "earth"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchihen1.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "341",
+      "classic_nelson": "1085"
+    }
+  },
+  "jishoData": {
+    "query": "域",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "396",
+    "strokeCount": 11,
+    "meaning": "range, region, limits, stage, level",
+    "kunyomi": [],
+    "onyomi": [
+      "イキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "域",
+        "reading": "イキ",
+        "meaning": "region, limits, stage, level"
+      },
+      {
+        "example": "域外",
+        "reading": "イキガイ",
+        "meaning": "outside the area"
+      },
+      {
+        "example": "空域",
+        "reading": "クウイキ",
+        "meaning": "airspace"
+      },
+      {
+        "example": "聖域",
+        "reading": "セイイキ",
+        "meaning": "sacred precincts, sanctuary, consecrated ground, holy ground, issue that is regarded as being off-limits, matter that is not up for discussion"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "口",
+      "土",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22495_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57df.gif",
+    "uri": "https://jisho.org/search/%E5%9F%9F%23kanji"
+  }
+}

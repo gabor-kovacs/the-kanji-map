@@ -1,1 +1,42 @@
-{"id":"佻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"佻","found":true,"strokeCount":8,"meaning":"frivolity","kunyomi":["かる.い"],"onyomi":["チョウ","ジョウ","ヨウ"],"onyomiExamples":[{"example":"軽佻","reading":"ケイチョウ","meaning":"flippant, frivolous, thoughtless, careless"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["儿","冫","化"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20347_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f7b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f7b.gif","uri":"https://jisho.org/search/%E4%BD%BB%23kanji"}}
+{
+  "id": "佻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佻",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "frivolity",
+    "kunyomi": [
+      "かる.い"
+    ],
+    "onyomi": [
+      "チョウ",
+      "ジョウ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "軽佻",
+        "reading": "ケイチョウ",
+        "meaning": "flippant, frivolous, thoughtless, careless"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "儿",
+      "冫",
+      "化"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20347_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f7b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f7b.gif",
+    "uri": "https://jisho.org/search/%E4%BD%BB%23kanji"
+  }
+}

@@ -1,1 +1,77 @@
-{"id":"唇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"唇","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1992","strokeCount":10,"meaning":"lips","kunyomi":["くちびる"],"onyomi":["シン"],"onyomiExamples":[{"example":"唇音","reading":"シンオン","meaning":"labial sound"},{"example":"唇音化","reading":"シンオンカ","meaning":"labialization"},{"example":"下唇","reading":"シタクチビル","meaning":"lower lip"},{"example":"上唇","reading":"ウワクチビル","meaning":"upper lip, labrum"}],"kunyomiExamples":[{"example":"唇","reading":"くちびる","meaning":"lips"},{"example":"唇を奪う","reading":"くちびるをうばう","meaning":"to steal a kiss, to snatch a kiss"},{"example":"上唇","reading":"うわくちびる","meaning":"upper lip, labrum"},{"example":"下唇","reading":"したくちびる","meaning":"lower lip"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["厂","口","衣","辰"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21767_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05507.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5507.gif","uri":"https://jisho.org/search/%E5%94%87%23kanji"}}
+{
+  "id": "唇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唇",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1992",
+    "strokeCount": 10,
+    "meaning": "lips",
+    "kunyomi": [
+      "くちびる"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "唇音",
+        "reading": "シンオン",
+        "meaning": "labial sound"
+      },
+      {
+        "example": "唇音化",
+        "reading": "シンオンカ",
+        "meaning": "labialization"
+      },
+      {
+        "example": "下唇",
+        "reading": "シタクチビル",
+        "meaning": "lower lip"
+      },
+      {
+        "example": "上唇",
+        "reading": "ウワクチビル",
+        "meaning": "upper lip, labrum"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "唇",
+        "reading": "くちびる",
+        "meaning": "lip, lips"
+      },
+      {
+        "example": "唇を奪う",
+        "reading": "くちびるをうばう",
+        "meaning": "to steal a kiss, to snatch a kiss"
+      },
+      {
+        "example": "上唇",
+        "reading": "うわくちびる",
+        "meaning": "upper lip, labrum"
+      },
+      {
+        "example": "下唇",
+        "reading": "したくちびる",
+        "meaning": "lower lip"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "厂",
+      "口",
+      "衣",
+      "辰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21767_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05507.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5507.gif",
+    "uri": "https://jisho.org/search/%E5%94%87%23kanji"
+  }
+}

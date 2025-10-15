@@ -1,1 +1,36 @@
-{"id":"匱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"匱","found":true,"strokeCount":14,"meaning":"chest, coffer, rice tub","kunyomi":["ひつ"],"onyomi":["キ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"匚","meaning":"box"},"parts":["ハ","一","亠","匚","口","目","貝","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21297_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05331.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5331.gif","uri":"https://jisho.org/search/%E5%8C%B1%23kanji"}}
+{
+  "id": "匱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匱",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "chest, coffer, rice tub",
+    "kunyomi": [
+      "ひつ"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "匚",
+      "meaning": "box"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "亠",
+      "匚",
+      "口",
+      "目",
+      "貝",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21297_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05331.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5331.gif",
+    "uri": "https://jisho.org/search/%E5%8C%B1%23kanji"
+  }
+}

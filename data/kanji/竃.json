@@ -1,1 +1,74 @@
-{"id":"竃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"竃","found":true,"strokeCount":17,"meaning":"kitchen stove, furnace, oven, hearth","kunyomi":["かまど","かま","へっつい"],"onyomi":["ソウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"竃","reading":"かまど","meaning":"kamado, traditional Japanese wood or charcoal-fueled cook stove"},{"example":"竃馬","reading":"かまどうま","meaning":"camel cricket (Diestrammena apicalis), camelback cricket, cave cricket, spider cricket"},{"example":"七竈","reading":"ななかまど","meaning":"Japanese rowan (Sorbus commixta)"},{"example":"高嶺七竈","reading":"たかねななかまど","meaning":"Siberian mountain ash (Sorbus sambucifolia)"},{"example":"窯","reading":"かま","meaning":"stove, furnace, kiln"},{"example":"竃","reading":"かまど","meaning":"kamado, traditional Japanese wood or charcoal-fueled cook stove"},{"example":"竃","reading":"かまど","meaning":"kamado, traditional Japanese wood or charcoal-fueled cook stove"}],"radical":{"symbol":"穴","meaning":"cave"},"parts":["乙","亀","儿","勹","土","宀","田","穴"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31427_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ac3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ac3.gif","uri":"https://jisho.org/search/%E7%AB%83%23kanji"}}
+{
+  "id": "竃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "竃",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "kitchen stove, furnace, oven, hearth",
+    "kunyomi": [
+      "かまど",
+      "かま",
+      "へっつい"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "竈",
+        "reading": "かまど",
+        "meaning": "kamado, traditional Japanese wood or charcoal-fueled cook stove, household, family"
+      },
+      {
+        "example": "竃馬",
+        "reading": "かまどうま",
+        "meaning": "camel cricket (Diestrammena apicalis), camelback cricket, cave cricket, spider cricket"
+      },
+      {
+        "example": "七竈",
+        "reading": "ななかまど",
+        "meaning": "Japanese rowan (Sorbus commixta)"
+      },
+      {
+        "example": "高嶺七竈",
+        "reading": "たかねななかまど",
+        "meaning": "Siberian mountain ash (Sorbus sambucifolia)"
+      },
+      {
+        "example": "窯",
+        "reading": "かま",
+        "meaning": "stove, furnace, kiln"
+      },
+      {
+        "example": "竈",
+        "reading": "かまど",
+        "meaning": "kamado, traditional Japanese wood or charcoal-fueled cook stove, household, family"
+      },
+      {
+        "example": "竈",
+        "reading": "かまど",
+        "meaning": "kamado, traditional Japanese wood or charcoal-fueled cook stove, household, family"
+      }
+    ],
+    "radical": {
+      "symbol": "穴",
+      "meaning": "cave"
+    },
+    "parts": [
+      "乙",
+      "亀",
+      "儿",
+      "勹",
+      "土",
+      "宀",
+      "田",
+      "穴"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31427_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ac3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ac3.gif",
+    "uri": "https://jisho.org/search/%E7%AB%83%23kanji"
+  }
+}

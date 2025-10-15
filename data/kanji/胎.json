@@ -1,1 +1,56 @@
-{"id":"胎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"胎","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1861","strokeCount":9,"meaning":"womb, uterus","kunyomi":[],"onyomi":["タイ"],"onyomiExamples":[{"example":"胎","reading":"タイ","meaning":"womb"},{"example":"胎児","reading":"タイジ","meaning":"fetus, foetus, embryo, unborn child"},{"example":"母胎","reading":"ボタイ","meaning":"womb, uterus, parent body, base, basis"},{"example":"堕胎","reading":"ダタイ","meaning":"abortion, feticide"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["厶","口","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32974_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080ce.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80ce.gif","uri":"https://jisho.org/search/%E8%83%8E%23kanji"}}
+{
+  "id": "胎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胎",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1861",
+    "strokeCount": 9,
+    "meaning": "womb, uterus",
+    "kunyomi": [],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "胎",
+        "reading": "タイ",
+        "meaning": "womb"
+      },
+      {
+        "example": "胎児",
+        "reading": "タイジ",
+        "meaning": "fetus, foetus, embryo, baby in the womb, unborn baby"
+      },
+      {
+        "example": "母胎",
+        "reading": "ボタイ",
+        "meaning": "womb, uterus, parent body, base, basis"
+      },
+      {
+        "example": "堕胎",
+        "reading": "ダタイ",
+        "meaning": "abortion, feticide"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "厶",
+      "口",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32974_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080ce.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80ce.gif",
+    "uri": "https://jisho.org/search/%E8%83%8E%23kanji"
+  }
+}

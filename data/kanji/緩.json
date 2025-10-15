@@ -1,1 +1,91 @@
-{"id":"緩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"緩","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"933","strokeCount":15,"meaning":"slacken, loosen, relax, lessen, be moderate, ease","kunyomi":["ゆる.い","ゆる.やか","ゆる.む","ゆる.める"],"onyomi":["カン"],"onyomiExamples":[{"example":"緩和","reading":"カンワ","meaning":"relief, mitigation, alleviation, relaxation (of restrictions, tensions, etc.), easing, softening"},{"example":"緩急","reading":"カンキュウ","meaning":"pace, tempo, slow and fast, in case of emergency"},{"example":"弛緩","reading":"シカン","meaning":"relaxation (e.g. of muscles), becoming flaccid"},{"example":"軍紀弛緩","reading":"グンキチカン","meaning":"lack of (slackness in) military discipline, demoralization"}],"kunyomiExamples":[{"example":"緩い","reading":"ゆるい","meaning":"loose, lenient, lax, gentle (curve, slope, etc.), slow, weak, soft, not firm, difficult, hard"},{"example":"緩やか","reading":"ゆるやか","meaning":"loose, slack, gentle (slope, curve), slow (speed), lenient, liberal, lax"},{"example":"緩やかに進む","reading":"ゆるやかにすすむ","meaning":"to proceed slowly"},{"example":"緩む","reading":"ゆるむ","meaning":"to become loose, to slacken (e.g. rope), to become less tense, to relax, to let one's guard down, to slacken (e.g. coldness, supervision), to become lax, to become softer (e.g. ground, facial expression), (of ice) to partially melt, to decrease (e.g. speed), (of a market price) to go down slightly"},{"example":"緩める","reading":"ゆるめる","meaning":"to loosen, to slacken, to relax (attention, efforts, etc.), to let down (one's guard), to relieve (tension), to relax (a rule), to ease (e.g. restrictions), to loosen (control), to reduce (speed), to slow down, to ease up, to make more gradual (of a slope)"}],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["ノ","一","又","小","幺","爪","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32233_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07de9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7de9.gif","uri":"https://jisho.org/search/%E7%B7%A9%23kanji"}}
+{
+  "id": "緩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "緩",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "933",
+    "strokeCount": 15,
+    "meaning": "slacken, loosen, relax, lessen, be moderate, ease",
+    "kunyomi": [
+      "ゆる.い",
+      "ゆる.やか",
+      "ゆる.む",
+      "ゆる.める"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "緩和",
+        "reading": "カンワ",
+        "meaning": "relief, mitigation, alleviation, relaxation (of restrictions, tensions, etc.), easing, softening"
+      },
+      {
+        "example": "緩急",
+        "reading": "カンキュウ",
+        "meaning": "high and low speed, fast and slow, pace, tempo, lenience and severity, emergency, crisis, dire situation"
+      },
+      {
+        "example": "弛緩",
+        "reading": "シカン",
+        "meaning": "relaxation (e.g. of muscles), becoming flaccid"
+      },
+      {
+        "example": "軍紀弛緩",
+        "reading": "グンキチカン",
+        "meaning": "lack of (slackness in) military discipline, demoralization"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "緩い",
+        "reading": "ゆるい",
+        "meaning": "loose, lenient, lax, gentle (curve, slope, etc.), slow, weak, soft, not firm, difficult, hard"
+      },
+      {
+        "example": "緩やか",
+        "reading": "ゆるやか",
+        "meaning": "loose, slack, gentle (slope, curve), slow (speed), lenient, liberal, lax"
+      },
+      {
+        "example": "緩やかに進む",
+        "reading": "ゆるやかにすすむ",
+        "meaning": "to proceed slowly"
+      },
+      {
+        "example": "緩む",
+        "reading": "ゆるむ",
+        "meaning": "to become loose, to slacken (e.g. rope), to become less tense, to relax, to let one's guard down, to slacken (e.g. coldness, supervision), to become lax, to become softer (e.g. ground, facial expression), (of ice) to partially melt, to decrease (e.g. speed), (of a market price) to go down slightly"
+      },
+      {
+        "example": "緩める",
+        "reading": "ゆるめる",
+        "meaning": "to loosen, to slacken, to relax (attention, efforts, etc.), to let down (one's guard), to relieve (tension), to relax (a rule), to ease (e.g. restrictions), to loosen (control), to reduce (speed), to slow down, to ease up, to make more gradual (of a slope)"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "又",
+      "小",
+      "幺",
+      "爪",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32233_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07de9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7de9.gif",
+    "uri": "https://jisho.org/search/%E7%B7%A9%23kanji"
+  }
+}

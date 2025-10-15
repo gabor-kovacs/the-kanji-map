@@ -1,1 +1,53 @@
-{"id":"凶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"凶","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1673","strokeCount":4,"meaning":"villain, evil, bad luck, disaster","kunyomi":[],"onyomi":["キョウ"],"onyomiExamples":[{"example":"凶","reading":"キョウ","meaning":"bad luck, bad fortune, evil, wickedness"},{"example":"凶悪","reading":"キョウアク","meaning":"atrocious, fiendish, brutal, villainous"},{"example":"元凶","reading":"ゲンキョウ","meaning":"ringleader, main culprit, main cause, source"},{"example":"大凶","reading":"ダイキョウ","meaning":"terrible luck, very bad luck"}],"kunyomiExamples":[],"radical":{"symbol":"凵","meaning":"container, open mouth"},"parts":["ノ","丶","凵"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20982_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051f6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51f6.gif","uri":"https://jisho.org/search/%E5%87%B6%23kanji"}}
+{
+  "id": "凶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凶",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1673",
+    "strokeCount": 4,
+    "meaning": "villain, evil, bad luck, disaster",
+    "kunyomi": [],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凶",
+        "reading": "キョウ",
+        "meaning": "bad luck, ill fortune, misfortune"
+      },
+      {
+        "example": "凶悪",
+        "reading": "キョウアク",
+        "meaning": "atrocious, heinous, fiendish, brutal, vicious"
+      },
+      {
+        "example": "元凶",
+        "reading": "ゲンキョウ",
+        "meaning": "ringleader, main culprit, main cause, source"
+      },
+      {
+        "example": "大凶",
+        "reading": "ダイキョウ",
+        "meaning": "terrible luck, very bad luck"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "凵",
+      "meaning": "container, open mouth"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "凵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20982_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051f6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51f6.gif",
+    "uri": "https://jisho.org/search/%E5%87%B6%23kanji"
+  }
+}

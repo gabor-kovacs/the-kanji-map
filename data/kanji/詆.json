@@ -1,1 +1,35 @@
-{"id":"詆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"詆","found":true,"strokeCount":12,"meaning":"vilify, denounce","kunyomi":["そし.る","しか.る"],"onyomi":["テイ","タイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["氏","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35398_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a46.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a46.gif","uri":"https://jisho.org/search/%E8%A9%86%23kanji"}}
+{
+  "id": "詆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "詆",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "vilify, denounce",
+    "kunyomi": [
+      "そし.る",
+      "しか.る"
+    ],
+    "onyomi": [
+      "テイ",
+      "タイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "氏",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35398_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a46.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a46.gif",
+    "uri": "https://jisho.org/search/%E8%A9%86%23kanji"
+  }
+}

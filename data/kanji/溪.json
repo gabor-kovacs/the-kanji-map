@@ -1,1 +1,48 @@
-{"id":"溪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"溪","found":true,"strokeCount":13,"meaning":"valley","kunyomi":["たに","たにがわ"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"渓谷","reading":"ケイコク","meaning":"valley (with a river running through it), gorge, ravine, canyon"},{"example":"渓間","reading":"ケイカン","meaning":"ravine"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["大","幺","汁","爪"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28330_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eaa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eaa.gif","uri":"https://jisho.org/search/%E6%BA%AA%23kanji"}}
+{
+  "id": "溪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溪",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "valley",
+    "kunyomi": [
+      "たに",
+      "たにがわ"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渓谷",
+        "reading": "ケイコク",
+        "meaning": "valley (with a river running through it), gorge, ravine, canyon"
+      },
+      {
+        "example": "渓間",
+        "reading": "ケイカン",
+        "meaning": "ravine"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "大",
+      "幺",
+      "汁",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28330_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eaa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eaa.gif",
+    "uri": "https://jisho.org/search/%E6%BA%AA%23kanji"
+  }
+}

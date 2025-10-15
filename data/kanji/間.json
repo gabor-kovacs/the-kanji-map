@@ -1,1 +1,533 @@
-{"id":"間","kanjialiveData":{"kanji":{"character":"間","meaning":{"english":"interval, between"},"strokes":{"count":12,"timings":[0.975,2.333,3.533,4.666,5.733,6.666,9.333,9.999,11.4,12.066,13.4,14.466,15.266667],"images":["https://media.kanjialive.com/kanji_strokes/aida_1.svg","https://media.kanjialive.com/kanji_strokes/aida_2.svg","https://media.kanjialive.com/kanji_strokes/aida_3.svg","https://media.kanjialive.com/kanji_strokes/aida_4.svg","https://media.kanjialive.com/kanji_strokes/aida_5.svg","https://media.kanjialive.com/kanji_strokes/aida_6.svg","https://media.kanjialive.com/kanji_strokes/aida_7.svg","https://media.kanjialive.com/kanji_strokes/aida_8.svg","https://media.kanjialive.com/kanji_strokes/aida_9.svg","https://media.kanjialive.com/kanji_strokes/aida_10.svg","https://media.kanjialive.com/kanji_strokes/aida_11.svg","https://media.kanjialive.com/kanji_strokes/aida_12.svg"]},"onyomi":{"romaji":"kan, ken","katakana":"カン、ケン"},"kunyomi":{"romaji":"aida, ma","hiragana":"あいだ、ま"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/aida_12.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/aida_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/aida_00.webm"}},"radical":{"character":"⾨","strokes":8,"image":"https://media.kanjialive.com/radical_character/mongamae.svg","position":{"hiragana":"かまえ, もんがまえ","romaji":"kamae, mongamae","icon":"https://media.kanjialive.com/rad_positions/mongamae.svg"},"name":{"hiragana":"もんがまえ","romaji":"mongamae"},"meaning":{"english":"gate, door"},"animation":["https://media.kanjialive.com/rad_frames/mongamae0.svg","https://media.kanjialive.com/rad_frames/mongamae1.svg","https://media.kanjialive.com/rad_frames/mongamae2.svg"]},"references":{"grade":2,"kodansha":"2094","classic_nelson":"4949"},"examples":[{"japanese":"一週間（いっしゅうかん）","meaning":{"english":"one week"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_a.mp3"}},{"japanese":"二時間（にじかん）","meaning":{"english":"two hours"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_b.mp3"}},{"japanese":"世間（せけん）","meaning":{"english":"society, the public, people"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_c.mp3"}},{"japanese":"人間（にんげん）","meaning":{"english":"human"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_d.mp3"}},{"japanese":"この間（このあいだ）","meaning":{"english":"the other day"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_e.mp3"}},{"japanese":"間に（あいだに）","meaning":{"english":"in between, while"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_f.mp3"}},{"japanese":"居間（いま）","meaning":{"english":"living room"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_g.mp3"}},{"japanese":"仲間（なかま）","meaning":{"english":"circle of friends"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_h.mp3"}},{"japanese":"間違い（まちがい）","meaning":{"english":"mistake"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_i.mp3"}},{"japanese":"間違える（まちがえる）","meaning":{"english":"make a mistake"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_j.mp3"}},{"japanese":"間に合う（まにあう）","meaning":{"english":"be in time, be enough"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_k.mp3"}},{"japanese":"昼間（ひるま）","meaning":{"english":"day time"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/aida_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/aida_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_l.mp3"}}]},"jishoData":{"query":"間","found":true,"taughtIn":"grade 2","jlptLevel":"N5","newspaperFrequencyRank":"33","strokeCount":12,"meaning":"interval, space","kunyomi":["あいだ","ま","あい"],"onyomi":["カン","ケン"],"onyomiExamples":[{"example":"間","reading":"カン","meaning":"interval, period of time, among, between, inter-, good opportunity, chance, estrangement, discord, alienation, spy, secret agent"},{"example":"間隔","reading":"カンカク","meaning":"space, interval, space character, whitespace"},{"example":"短期間","reading":"タンキカン","meaning":"short term, short time"},{"example":"右中間","reading":"ウチュウカン","meaning":"between right and center fielders (centre)"},{"example":"間","reading":"ケン","meaning":"ken (6 shaku, approx. 1.818 m), counter used to number the gaps between pillars"},{"example":"間数","reading":"ケンスウ","meaning":"number of ken (in length or breadth)"},{"example":"世間","reading":"セケン","meaning":"world, society, people, the public"},{"example":"六百間","reading":"ロッピャッケン","meaning":"roppyakken (type of card game)"}],"kunyomiExamples":[{"example":"間","reading":"あいだ","meaning":"space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"},{"example":"間中","reading":"あいだじゅう","meaning":"during"},{"example":"候間","reading":"そうろうあいだ","meaning":"as ..."},{"example":"ついこの間","reading":"ついこのあいだ","meaning":"just the other day, quite recently"},{"example":"間","reading":"ま","meaning":"time, pause, space, room"},{"example":"間際","reading":"まぎわ","meaning":"the point just before, the point of doing, the verge of happening"},{"example":"茶の間","reading":"ちゃのま","meaning":"(Japanese-style) living room"},{"example":"床の間","reading":"とこのま","meaning":"tokonoma (alcove where art or flowers are displayed)"},{"example":"間","reading":"あいだ","meaning":"space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"},{"example":"間中","reading":"あいだじゅう","meaning":"during"},{"example":"波間","reading":"なみま","meaning":"interval between the waves, gap between waves"},{"example":"幕間","reading":"まくあい","meaning":"intermission (between acts), interlude"}],"radical":{"symbol":"門","meaning":"gate"},"parts":["日","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38291_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09593.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9593.gif","uri":"https://jisho.org/search/%E9%96%93%23kanji"}}
+{
+  "id": "間",
+  "kanjialiveData": {
+    "_id": "54317ae6791eba5146ee49ab",
+    "_rev": "11-f7f8484c216ffd8d279494ca720a2258",
+    "rad_name_ja": "もんがまえ",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "aida, ma",
+    "meaning": "interval, between",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "一週間（いっしゅうかん）",
+        "meaning": {
+          "english": "one week"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "二時間（にじかん）",
+        "meaning": {
+          "english": "two hours"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "世間（せけん）",
+        "meaning": {
+          "english": "society, the public, people"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "人間（にんげん）",
+        "meaning": {
+          "english": "human"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "この間（このあいだ）",
+        "meaning": {
+          "english": "the other day"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "間に（あいだに）",
+        "meaning": {
+          "english": "in between, while"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "居間（いま）",
+        "meaning": {
+          "english": "living room"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "仲間（なかま）",
+        "meaning": {
+          "english": "circle of friends"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "間違い（まちがい）",
+        "meaning": {
+          "english": "mistake"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "間違える（まちがえる）",
+        "meaning": {
+          "english": "make a mistake"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "間に合う（まにあう）",
+        "meaning": {
+          "english": "be in time, be enough"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "昼間（ひるま）",
+        "meaning": {
+          "english": "day time"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aida_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aida_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あいだ、ま",
+    "ka_utf": "間",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=間",
+    "kname": "aida",
+    "rad_order": 208,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "7"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "23"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "28"
+      }
+    ],
+    "rad_name_search": [
+      "mongamae"
+    ],
+    "rad_utf": "⾨",
+    "stroketimes": [
+      0.975,
+      2.333,
+      3.533,
+      4.666,
+      5.733,
+      6.666,
+      9.333,
+      9.999,
+      11.4,
+      12.066,
+      13.4,
+      14.466,
+      15.266667
+    ],
+    "kunyomi_ka_display": "あいだ、ま",
+    "dick": "2094",
+    "rad_name": "mongamae",
+    "dicn": "4949",
+    "mn_hint": "Sun 日 viewed through the open gate 門 during a certain interval of the day.",
+    "rad_stroke": 8,
+    "onyomi_ja": "カン、ケン",
+    "rad_meaning": "gate, door",
+    "onyomi": "kan, ken",
+    "ka_id": "ka_25",
+    "rad_position": "kamae, mongamae",
+    "rad_position_ja": "かまえ, もんがまえ",
+    "rad_position_search": [
+      "kamae",
+      "mongamae",
+      "kamae, mongamae"
+    ],
+    "onyomi_search": [
+      "kan",
+      "ken",
+      "kan, ken"
+    ],
+    "kunyomi_search": [
+      "aida",
+      "ma",
+      "aida, ma"
+    ],
+    "meaning_search": [
+      "interval",
+      "between",
+      "interval, between"
+    ],
+    "onyomi_ja_search": [
+      "カン",
+      "ケン",
+      "カン、ケン"
+    ],
+    "kunyomi_ja_search": [
+      "あいだ",
+      "ま",
+      "あいだ、ま"
+    ],
+    "rad_meaning_search": [
+      "gate",
+      "door",
+      "gate, door"
+    ],
+    "rad_position_ja_search": [
+      "かまえ",
+      "もんがまえ",
+      "かまえ, もんがまえ"
+    ],
+    "rad_name_ja_search": [
+      "もんがまえ"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:8",
+      "cij:c8",
+      "bk",
+      "bk:5",
+      "bk:c5",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v2",
+      "aij3:v2:7",
+      "aij3:v2:c7",
+      "gen",
+      "gen:9",
+      "gen:c9",
+      "ap",
+      "ap:3",
+      "ap:c3",
+      "kll",
+      "kll:3",
+      "kll:c3",
+      "cijr",
+      "cijr:7",
+      "cijr:c7",
+      "cijr",
+      "cijr:23",
+      "cijr:c23",
+      "cijr",
+      "cijr:28",
+      "cijr:c28"
+    ],
+    "rad_name_file": "mongamae",
+    "kanji": {
+      "character": "間",
+      "meaning": {
+        "english": "interval, between"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0.975,
+          2.333,
+          3.533,
+          4.666,
+          5.733,
+          6.666,
+          9.333,
+          9.999,
+          11.4,
+          12.066,
+          13.4,
+          14.466,
+          15.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/aida_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/aida_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kan, ken",
+        "katakana": "カン、ケン"
+      },
+      "kunyomi": {
+        "romaji": "aida, ma",
+        "hiragana": "あいだ、ま"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/aida_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/aida_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/aida_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾨",
+      "strokes": 8,
+      "image": "https://media.kanjialive.com/radical_character/mongamae.svg",
+      "position": {
+        "hiragana": "かまえ, もんがまえ",
+        "romaji": "kamae, mongamae",
+        "icon": "https://media.kanjialive.com/rad_positions/mongamae.svg"
+      },
+      "name": {
+        "hiragana": "もんがまえ",
+        "romaji": "mongamae"
+      },
+      "meaning": {
+        "english": "gate, door"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/mongamae0.svg",
+        "https://media.kanjialive.com/rad_frames/mongamae1.svg",
+        "https://media.kanjialive.com/rad_frames/mongamae2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "2094",
+      "classic_nelson": "4949"
+    }
+  },
+  "jishoData": {
+    "query": "間",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "33",
+    "strokeCount": 12,
+    "meaning": "interval, space",
+    "kunyomi": [
+      "あいだ",
+      "ま",
+      "あい"
+    ],
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "間",
+        "reading": "カン",
+        "meaning": "interval, period of time, among, between, inter-, good opportunity, chance, estrangement, discord, alienation, spy, secret agent"
+      },
+      {
+        "example": "間隔",
+        "reading": "カンカク",
+        "meaning": "space, interval, space character, whitespace"
+      },
+      {
+        "example": "短期間",
+        "reading": "タンキカン",
+        "meaning": "short term, short time"
+      },
+      {
+        "example": "右中間",
+        "reading": "ウチュウカン",
+        "meaning": "between right and center fielders (centre)"
+      },
+      {
+        "example": "間",
+        "reading": "ケン",
+        "meaning": "ken (6 shaku, approx. 1.818 m), counter used to number the gaps between pillars"
+      },
+      {
+        "example": "間数",
+        "reading": "ケンスウ",
+        "meaning": "number of ken (in length or breadth)"
+      },
+      {
+        "example": "世間",
+        "reading": "セケン",
+        "meaning": "world, society, people, the public"
+      },
+      {
+        "example": "六百間",
+        "reading": "ロッピャッケン",
+        "meaning": "roppyakken (type of game)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "間",
+        "reading": "あいだ",
+        "meaning": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
+      },
+      {
+        "example": "間中",
+        "reading": "あいだじゅう",
+        "meaning": "during"
+      },
+      {
+        "example": "候間",
+        "reading": "そうろうあいだ",
+        "meaning": "as ..."
+      },
+      {
+        "example": "ついこの間",
+        "reading": "ついこのあいだ",
+        "meaning": "just the other day, quite recently"
+      },
+      {
+        "example": "間",
+        "reading": "ま",
+        "meaning": "time, pause, space, room"
+      },
+      {
+        "example": "間際",
+        "reading": "まぎわ",
+        "meaning": "the point just before ..., the point of (doing), the verge (of), the eve (of), (just before the) edge"
+      },
+      {
+        "example": "茶の間",
+        "reading": "ちゃのま",
+        "meaning": "(Japanese-style) living room"
+      },
+      {
+        "example": "床の間",
+        "reading": "とこのま",
+        "meaning": "tokonoma (alcove where art or flowers are displayed)"
+      },
+      {
+        "example": "間",
+        "reading": "あいだ",
+        "meaning": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
+      },
+      {
+        "example": "間中",
+        "reading": "あいだじゅう",
+        "meaning": "during"
+      },
+      {
+        "example": "波間",
+        "reading": "なみま",
+        "meaning": "interval between the waves, gap between waves"
+      },
+      {
+        "example": "幕間",
+        "reading": "まくあい",
+        "meaning": "intermission (between acts), interlude"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "日",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38291_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09593.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9593.gif",
+    "uri": "https://jisho.org/search/%E9%96%93%23kanji"
+  }
+}

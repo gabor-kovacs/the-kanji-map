@@ -1,1 +1,46 @@
-{"id":"鎹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鎹","found":true,"strokeCount":18,"meaning":"clamp, (kokuji)","kunyomi":["かすがい"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"鎹","reading":"かすがい","meaning":"large staple driven into two pieces of wood to hold them together, clamp, cramp (metal), tie (metaphorical, e.g. something that binds two people together)"},{"example":"豆腐に鎹","reading":"とうふにかすがい","meaning":"having no effect, waste of effort"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ハ","二","人","大","込","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37817_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093b9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93b9.gif","uri":"https://jisho.org/search/%E9%8E%B9%23kanji"}}
+{
+  "id": "鎹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鎹",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "clamp, (kokuji)",
+    "kunyomi": [
+      "かすがい"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鎹",
+        "reading": "かすがい",
+        "meaning": "large staple driven into two pieces of wood to hold them together, clamp, cramp (metal), tie (metaphorical, e.g. something that binds two people together), latch, lock"
+      },
+      {
+        "example": "豆腐に鎹",
+        "reading": "とうふにかすがい",
+        "meaning": "having no effect, waste of effort"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "人",
+      "大",
+      "込",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37817_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093b9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93b9.gif",
+    "uri": "https://jisho.org/search/%E9%8E%B9%23kanji"
+  }
+}

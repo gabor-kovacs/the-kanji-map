@@ -1,1 +1,72 @@
-{"id":"愚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"愚","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1551","strokeCount":13,"meaning":"foolish, folly, absurdity, stupid","kunyomi":["おろ.か"],"onyomi":["グ"],"onyomiExamples":[{"example":"愚","reading":"グ","meaning":"foolishness, silliness, stupidity, folly, I, me"},{"example":"愚痴","reading":"グチ","meaning":"idle complaint, grumble, moha (ignorance, folly)"},{"example":"軽愚","reading":"ケイグ","meaning":"moronity, moron"},{"example":"大愚","reading":"タイグ","meaning":"great folly or fool"}],"kunyomiExamples":[{"example":"愚か","reading":"おろか","meaning":"foolish, stupid, silly"},{"example":"愚かしい","reading":"おろかしい","meaning":"foolish, stupid"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["冂","厶","心","田","禹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24858_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0611a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/611a.gif","uri":"https://jisho.org/search/%E6%84%9A%23kanji"}}
+{
+  "id": "愚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "愚",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1551",
+    "strokeCount": 13,
+    "meaning": "foolish, folly, absurdity, stupid",
+    "kunyomi": [
+      "おろ.か"
+    ],
+    "onyomi": [
+      "グ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "愚",
+        "reading": "グ",
+        "meaning": "foolishness, silliness, stupidity, folly, I, me"
+      },
+      {
+        "example": "愚痴",
+        "reading": "グチ",
+        "meaning": "idle complaint, grumble, moha (ignorance, folly)"
+      },
+      {
+        "example": "軽愚",
+        "reading": "ケイグ",
+        "meaning": "moronity, moron"
+      },
+      {
+        "example": "大愚",
+        "reading": "タイグ",
+        "meaning": "great folly or fool"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "愚か",
+        "reading": "おろか",
+        "meaning": "foolish, stupid, silly"
+      },
+      {
+        "example": "愚かしい",
+        "reading": "おろかしい",
+        "meaning": "foolish, stupid"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "冂",
+      "厶",
+      "心",
+      "田",
+      "禹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24858_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0611a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/611a.gif",
+    "uri": "https://jisho.org/search/%E6%84%9A%23kanji"
+  }
+}

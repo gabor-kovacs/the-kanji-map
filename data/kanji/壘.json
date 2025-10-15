@@ -1,1 +1,32 @@
-{"id":"壘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壘","found":true,"strokeCount":18,"meaning":"fort, rampart, walls, base(ball)","kunyomi":["とりで"],"onyomi":["ルイ","ライ","スイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22744_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058d8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58d8.gif","uri":"https://jisho.org/search/%E5%A3%98%23kanji"}}
+{
+  "id": "壘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壘",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "fort, rampart, walls, base(ball)",
+    "kunyomi": [
+      "とりで"
+    ],
+    "onyomi": [
+      "ルイ",
+      "ライ",
+      "スイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22744_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58d8.gif",
+    "uri": "https://jisho.org/search/%E5%A3%98%23kanji"
+  }
+}

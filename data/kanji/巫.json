@@ -1,1 +1,68 @@
-{"id":"巫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"巫","found":true,"strokeCount":7,"meaning":"sorcerer, medium, shrine maiden","kunyomi":["みこ","かんなぎ"],"onyomi":["フ"],"onyomiExamples":[{"example":"巫山戯る","reading":"フザケル","meaning":"to joke, to jest, to kid, to josh, to make fun of, to laugh at, to play a prank, to romp, to gambol, to frolic, to frisk, to mess around, to fool around, to screw around, to neck, to make out"},{"example":"巫女","reading":"ミコ","meaning":"miko, shrine maiden, young girl or woman (trad. an unmarried virgin) who assists priests at shrines, medium, sorceress, shamaness"}],"kunyomiExamples":[{"example":"巫女","reading":"みこ","meaning":"miko, shrine maiden, young girl or woman (trad. an unmarried virgin) who assists priests at shrines, medium, sorceress, shamaness"},{"example":"巫女舞","reading":"みこまい","meaning":"shrine maiden's ceremonial dance (in kagura)"},{"example":"女神子","reading":"おんなみこ","meaning":"medium, sorceress"},{"example":"巫","reading":"かんなぎ","meaning":"medium, diviner, shaman, oracle"}],"radical":{"symbol":"工","meaning":"work"},"parts":["人","工"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24043_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05deb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5deb.gif","uri":"https://jisho.org/search/%E5%B7%AB%23kanji"}}
+{
+  "id": "巫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巫",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "sorcerer, medium, shrine maiden",
+    "kunyomi": [
+      "みこ",
+      "かんなぎ"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巫山戯る",
+        "reading": "フザケル",
+        "meaning": "to joke, to jest, to kid, to josh, to make fun of, to laugh at, to play a prank, to romp, to gambol, to frolic, to frisk, to mess around, to fool around, to screw around, to neck, to make out"
+      },
+      {
+        "example": "巫女",
+        "reading": "ミコ",
+        "meaning": "miko, shrine maiden, young girl or woman (trad. an unmarried virgin) who assists priests at shrines, medium, sorceress, shamaness"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "巫女",
+        "reading": "みこ",
+        "meaning": "miko, shrine maiden, young girl or woman (trad. an unmarried virgin) who assists priests at shrines, medium, sorceress, shamaness"
+      },
+      {
+        "example": "巫女舞",
+        "reading": "みこまい",
+        "meaning": "shrine maiden's ceremonial dance (in kagura)"
+      },
+      {
+        "example": "梓巫女",
+        "reading": "あずさみこ",
+        "meaning": "female medium who summons spirits by sounding the string of a catalpa bow"
+      },
+      {
+        "example": "女神子",
+        "reading": "おんなみこ",
+        "meaning": "medium, sorceress"
+      },
+      {
+        "example": "巫",
+        "reading": "かんなぎ",
+        "meaning": "medium, diviner, shaman, oracle"
+      }
+    ],
+    "radical": {
+      "symbol": "工",
+      "meaning": "work"
+    },
+    "parts": [
+      "人",
+      "工"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24043_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05deb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5deb.gif",
+    "uri": "https://jisho.org/search/%E5%B7%AB%23kanji"
+  }
+}

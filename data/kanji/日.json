@@ -1,1 +1,497 @@
-{"id":"日","kanjialiveData":{"kanji":{"character":"日","meaning":{"english":"day, sun, Japan"},"strokes":{"count":4,"timings":[0.878,1.799,4.066,5.199,6.133333],"images":["https://media.kanjialive.com/kanji_strokes/nichi-hi_1.svg","https://media.kanjialive.com/kanji_strokes/nichi-hi_2.svg","https://media.kanjialive.com/kanji_strokes/nichi-hi_3.svg","https://media.kanjialive.com/kanji_strokes/nichi-hi_4.svg"]},"onyomi":{"romaji":"nichi, jitsu","katakana":"ニチ、ジツ"},"kunyomi":{"romaji":"hi, ka","hiragana":"ひ、か"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/nichi-hi_4.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/nichi-hi_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/nichi-hi_00.webm"}},"radical":{"character":"⽇","strokes":4,"image":"https://media.kanjialive.com/radical_character/hi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"ひ","romaji":"hi"},"meaning":{"english":"sun, day, time"},"animation":["https://media.kanjialive.com/rad_frames/hi0.svg","https://media.kanjialive.com/rad_frames/hi1.svg","https://media.kanjialive.com/rad_frames/hi2.svg"]},"references":{"grade":1,"kodansha":"1915","classic_nelson":"2097"},"examples":[{"japanese":"一日（いちにち）","meaning":{"english":"1 day"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_a.mp3"}},{"japanese":"日数（にっすう）","meaning":{"english":"a number of days"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_b.mp3"}},{"japanese":"本日（ほんじつ）","meaning":{"english":"today"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_c.mp3"}},{"japanese":"朝日（あさひ）","meaning":{"english":"morning sun"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_d.mp3"}},{"japanese":"二日（ふつか）","meaning":{"english":"2nd of the month, 2 days"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_e.mp3"}},{"japanese":"*一日（ついたち）","meaning":{"english":"1st of the month"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_f.mp3"}},{"japanese":"*今日（きょう）","meaning":{"english":"today"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_g.mp3"}},{"japanese":"*明日（あした）","meaning":{"english":"tomorrow"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_h.mp3"}},{"japanese":"*昨日（きのう）","meaning":{"english":"yesterday"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_i.mp3"}},{"japanese":"*明後日（あさって）","meaning":{"english":"day after tomorrow"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_j.mp3"}},{"japanese":"*一昨日（おととい）","meaning":{"english":"day before yesterday"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_k.mp3"}},{"japanese":"*日本語（にほんご）","meaning":{"english":"Japanese language"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_l.mp3"}}]},"jishoData":{"query":"日","found":true,"taughtIn":"grade 1","jlptLevel":"N5","newspaperFrequencyRank":"1","strokeCount":4,"meaning":"day, sun, Japan, counter for days","kunyomi":["ひ","-び","-か"],"onyomi":["ニチ","ジツ"],"onyomiExamples":[{"example":"日","reading":"ニチ","meaning":"Sunday, day (of the month), counter for days, Japan"},{"example":"日時","reading":"ニチジ","meaning":"date and time"},{"example":"抗日","reading":"コウニチ","meaning":"resistance against Japanese aggression, anti-Japanese (campaign, movement, etc.)"},{"example":"在日","reading":"ザイニチ","meaning":"resident in Japan (of a foreigner), situated in Japan (e.g. of an embassy), Zainichi, Zainichi Korean, Korean national who has lived in Japan since before the end of WWII (or is a descendant of such a person)"},{"example":"日月","reading":"ジツゲツ","meaning":"sun and moon, time, days and months, years, Sunday and Monday"},{"example":"日外","reading":"ジツガイ","meaning":"at one time, some time ago, once"},{"example":"両日","reading":"リョウジツ","meaning":"both days, two days"},{"example":"三十日","reading":"ミソカ","meaning":"last day of the month"}],"kunyomiExamples":[{"example":"日","reading":"ひ","meaning":"day, days, sun, sunshine, sunlight, (the) day, daytime, daylight, date, deadline, (past) days, time (e.g. of one's childhood), case (esp. unfortunate), event"},{"example":"日陰","reading":"ひかげ","meaning":"shade, shadow, sunshine"},{"example":"在りし日","reading":"ありしひ","meaning":"past days, bygone days, days of yore, the olden days, while still alive, during one's lifetime"},{"example":"あくる日","reading":"あくるひ","meaning":"next day, following day"}],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26085_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e5.gif","uri":"https://jisho.org/search/%E6%97%A5%23kanji"}}
+{
+  "id": "日",
+  "kanjialiveData": {
+    "_id": "54317aec791eba5146ee4a0f",
+    "_rev": "11-f86370795edd354898d7daa5bd81e295",
+    "rad_name_ja": "ひ",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "hi, ka",
+    "meaning": "day, sun, Japan",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "一日（いちにち）",
+        "meaning": {
+          "english": "1 day"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "日数（にっすう）",
+        "meaning": {
+          "english": "a number of days"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "本日（ほんじつ）",
+        "meaning": {
+          "english": "today"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "朝日（あさひ）",
+        "meaning": {
+          "english": "morning sun"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "二日（ふつか）",
+        "meaning": {
+          "english": "2nd of the month, 2 days"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "*一日（ついたち）",
+        "meaning": {
+          "english": "1st of the month"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "*今日（きょう）",
+        "meaning": {
+          "english": "today"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "*明日（あした）",
+        "meaning": {
+          "english": "tomorrow"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "*昨日（きのう）",
+        "meaning": {
+          "english": "yesterday"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "*明後日（あさって）",
+        "meaning": {
+          "english": "day after tomorrow"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "*一昨日（おととい）",
+        "meaning": {
+          "english": "day before yesterday"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "*日本語（にほんご）",
+        "meaning": {
+          "english": "Japanese language"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nichi-hi_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nichi-hi_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nichi-hi_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ひ、か",
+    "ka_utf": "日",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=日",
+    "rad_name_search": [
+      "hi"
+    ],
+    "rad_order": 92,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAd1"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "8"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "11"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "24"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "30"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "30"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "1"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "3"
+      }
+    ],
+    "kname": "nichi-hi",
+    "rad_utf": "⽇",
+    "stroketimes": [
+      0.878,
+      1.799,
+      4.066,
+      5.199,
+      6.133333
+    ],
+    "kunyomi_ka_display": "ひ、か",
+    "dick": "1915",
+    "rad_name": "hi",
+    "dicn": "2097",
+    "mn_hint": "Please view the radical animation on the left.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ニチ、ジツ",
+    "rad_meaning": "sun, day, time",
+    "onyomi": "nichi, jitsu",
+    "ka_id": "ka_34",
+    "onyomi_search": [
+      "nichi",
+      "jitsu",
+      "nichi, jitsu"
+    ],
+    "kunyomi_search": [
+      "hi",
+      "ka",
+      "hi, ka"
+    ],
+    "meaning_search": [
+      "day",
+      "sun",
+      "Japan",
+      "day, sun, Japan"
+    ],
+    "onyomi_ja_search": [
+      "ニチ",
+      "ジツ",
+      "ニチ、ジツ"
+    ],
+    "kunyomi_ja_search": [
+      "ひ",
+      "か",
+      "ひ、か"
+    ],
+    "rad_meaning_search": [
+      "sun",
+      "day",
+      "time",
+      "sun, day, time"
+    ],
+    "rad_name_ja_search": [
+      "ひ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:8",
+      "cij:c8",
+      "bk",
+      "bk:1",
+      "bk:c1",
+      "aij3",
+      "aij3:15",
+      "aij3:c15",
+      "aij3:v1",
+      "aij3:v1:15",
+      "aij3:v1:c15",
+      "gen",
+      "gen:4",
+      "gen:c4",
+      "ap",
+      "ap:16",
+      "ap:c16",
+      "kll",
+      "kll:2",
+      "kll:c2",
+      "cijr",
+      "cijr:8",
+      "cijr:c8",
+      "cijr",
+      "cijr:11",
+      "cijr:c11",
+      "cijr",
+      "cijr:24",
+      "cijr:c24",
+      "cijr",
+      "cijr:30",
+      "cijr:c30",
+      "cijr",
+      "cijr:30",
+      "cijr:c30",
+      "mntr",
+      "mntr:1",
+      "mntr:c1",
+      "aij4",
+      "aij4:3",
+      "aij4:c3",
+      "aij4:v1",
+      "aij4:v1:3",
+      "aij4:v1:c3"
+    ],
+    "rad_name_file": "hi",
+    "kanji": {
+      "character": "日",
+      "meaning": {
+        "english": "day, sun, Japan"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0.878,
+          1.799,
+          4.066,
+          5.199,
+          6.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/nichi-hi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/nichi-hi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/nichi-hi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/nichi-hi_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "nichi, jitsu",
+        "katakana": "ニチ、ジツ"
+      },
+      "kunyomi": {
+        "romaji": "hi, ka",
+        "hiragana": "ひ、か"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/nichi-hi_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/nichi-hi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/nichi-hi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽇",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/hi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ひ",
+        "romaji": "hi"
+      },
+      "meaning": {
+        "english": "sun, day, time"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hi0.svg",
+        "https://media.kanjialive.com/rad_frames/hi1.svg",
+        "https://media.kanjialive.com/rad_frames/hi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1915",
+      "classic_nelson": "2097"
+    }
+  },
+  "jishoData": {
+    "query": "日",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "1",
+    "strokeCount": 4,
+    "meaning": "day, sun, Japan, counter for days",
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "-か"
+    ],
+    "onyomi": [
+      "ニチ",
+      "ジツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "日",
+        "reading": "ニチ",
+        "meaning": "Sunday, nth day (of the month), counter for days, Japan"
+      },
+      {
+        "example": "日時",
+        "reading": "ニチジ",
+        "meaning": "date and time (of a meeting, departure, etc.), days and hours"
+      },
+      {
+        "example": "抗日",
+        "reading": "コウニチ",
+        "meaning": "resistance against Japanese aggression, anti-Japanese (campaign, movement, etc.)"
+      },
+      {
+        "example": "在日",
+        "reading": "ザイニチ",
+        "meaning": "resident in Japan (of a foreigner), situated in Japan (e.g. of an embassy), Zainichi, Zainichi Korean, North or South Korean national with permanent residency in Japan (who came to the country before 1945, or a descendant of such a person)"
+      },
+      {
+        "example": "日月",
+        "reading": "ジツゲツ",
+        "meaning": "sun and moon, time, days and months, years, Sunday and Monday"
+      },
+      {
+        "example": "日外",
+        "reading": "ジツガイ",
+        "meaning": "at one time, some time ago, once"
+      },
+      {
+        "example": "両日",
+        "reading": "リョウジツ",
+        "meaning": "both days, two days"
+      },
+      {
+        "example": "三十日",
+        "reading": "ミソカ",
+        "meaning": "last day of the month"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "日",
+        "reading": "ひ",
+        "meaning": "day, days, sun, sunshine, sunlight, (the) day, daytime, daylight, date, deadline, (past) days, time (e.g. of one's childhood), case (esp. unfortunate), event"
+      },
+      {
+        "example": "日陰",
+        "reading": "ひかげ",
+        "meaning": "shade, shadow, sunshine, sunlight"
+      },
+      {
+        "example": "在りし日",
+        "reading": "ありしひ",
+        "meaning": "past days, bygone days, days of yore, the olden days, while still alive, during one's lifetime"
+      },
+      {
+        "example": "あくる日",
+        "reading": "あくるひ",
+        "meaning": "next day, following day"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26085_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e5.gif",
+    "uri": "https://jisho.org/search/%E6%97%A5%23kanji"
+  }
+}

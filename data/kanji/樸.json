@@ -1,1 +1,57 @@
-{"id":"樸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"樸","found":true,"strokeCount":16,"meaning":"bark of a tree","kunyomi":["こはだ","きじ"],"onyomi":["ボク","ハク","ホク"],"onyomiExamples":[{"example":"朴直","reading":"ボクチョク","meaning":"simplicity, honesty, naivete"},{"example":"質朴","reading":"シツボク","meaning":"simplicity, unsophisticatedness"},{"example":"敦朴","reading":"トンボク","meaning":"honest and homely, simple"}],"kunyomiExamples":[{"example":"木肌","reading":"きはだ","meaning":"bark (of a tree)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["二","并","木","羊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27192_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a38.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a38.gif","uri":"https://jisho.org/search/%E6%A8%B8%23kanji"}}
+{
+  "id": "樸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樸",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "bark of a tree",
+    "kunyomi": [
+      "こはだ",
+      "きじ"
+    ],
+    "onyomi": [
+      "ボク",
+      "ハク",
+      "ホク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "朴直",
+        "reading": "ボクチョク",
+        "meaning": "simplicity, honesty, naivete"
+      },
+      {
+        "example": "質朴",
+        "reading": "シツボク",
+        "meaning": "simple (and honest), simple-hearted, unsophisticated"
+      },
+      {
+        "example": "敦朴",
+        "reading": "トンボク",
+        "meaning": "honest and homely, simple"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "木肌",
+        "reading": "きはだ",
+        "meaning": "bark (of a tree)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "二",
+      "并",
+      "木",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27192_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a38.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a38.gif",
+    "uri": "https://jisho.org/search/%E6%A8%B8%23kanji"
+  }
+}

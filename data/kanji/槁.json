@@ -1,1 +1,39 @@
-{"id":"槁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"槁","found":true,"strokeCount":14,"meaning":"die (vegetation)","kunyomi":["か.れる"],"onyomi":["コウ"],"onyomiExamples":[{"example":"枯槁","reading":"ココウ","meaning":"withering, dying (plants), growing skinny, wasting away"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["亠","冂","口","木","高"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27073_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069c1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69c1.gif","uri":"https://jisho.org/search/%E6%A7%81%23kanji"}}
+{
+  "id": "槁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槁",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "die (vegetation)",
+    "kunyomi": [
+      "か.れる"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "枯槁",
+        "reading": "ココウ",
+        "meaning": "withering, dying (plants), growing skinny, wasting away"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "亠",
+      "冂",
+      "口",
+      "木",
+      "高"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27073_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69c1.gif",
+    "uri": "https://jisho.org/search/%E6%A7%81%23kanji"
+  }
+}

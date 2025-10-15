@@ -1,1 +1,42 @@
-{"id":"軫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"軫","found":true,"strokeCount":12,"meaning":"sad, revolve","kunyomi":["よこぎ"],"onyomi":["シン"],"onyomiExamples":[{"example":"軫","reading":"シン","meaning":"Chinese \"Chariot\" constellation (one of the 28 mansions)"},{"example":"軫念","reading":"シンネン","meaning":"the grief or feelings of the Emperor"}],"kunyomiExamples":[],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["个","彡","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36587_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08eeb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8eeb.gif","uri":"https://jisho.org/search/%E8%BB%AB%23kanji"}}
+{
+  "id": "軫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "軫",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "sad, revolve",
+    "kunyomi": [
+      "よこぎ"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "軫",
+        "reading": "シン",
+        "meaning": "Chinese \"Chariot\" constellation (one of the 28 mansions)"
+      },
+      {
+        "example": "軫念",
+        "reading": "シンネン",
+        "meaning": "the grief or feelings of the Emperor"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "个",
+      "彡",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36587_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08eeb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8eeb.gif",
+    "uri": "https://jisho.org/search/%E8%BB%AB%23kanji"
+  }
+}

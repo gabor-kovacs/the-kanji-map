@@ -1,1 +1,55 @@
-{"id":"澪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"澪","found":true,"jlptLevel":"N1","strokeCount":16,"meaning":"water route, shipping channel","kunyomi":["みお"],"onyomi":["レイ"],"onyomiExamples":[{"example":"澪標","reading":"ミオツクシ","meaning":"marks in a water channel, channel buoys"}],"kunyomiExamples":[{"example":"澪","reading":"みお","meaning":"waterway, channel, wake (of a ship)"},{"example":"澪標","reading":"みおつくし","meaning":"marks in a water channel, channel buoys"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","个","卩","汁","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28586_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06faa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6faa.gif","uri":"https://jisho.org/search/%E6%BE%AA%23kanji"}}
+{
+  "id": "澪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "澪",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 16,
+    "meaning": "water route, shipping channel",
+    "kunyomi": [
+      "みお"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "澪標",
+        "reading": "ミオツクシ",
+        "meaning": "marks in a water channel, channel buoys"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "澪",
+        "reading": "みお",
+        "meaning": "waterway, channel, wake (of a ship)"
+      },
+      {
+        "example": "澪標",
+        "reading": "みおつくし",
+        "meaning": "marks in a water channel, channel buoys"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "个",
+      "卩",
+      "汁",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28586_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06faa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6faa.gif",
+    "uri": "https://jisho.org/search/%E6%BE%AA%23kanji"
+  }
+}

@@ -1,1 +1,33 @@
-{"id":"渭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"渭","found":true,"strokeCount":12,"meaning":"name of Chinese river","kunyomi":[],"onyomi":["イ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["月","汁","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28205_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e2d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e2d.gif","uri":"https://jisho.org/search/%E6%B8%AD%23kanji"}}
+{
+  "id": "渭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渭",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "name of Chinese river",
+    "kunyomi": [],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "月",
+      "汁",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28205_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e2d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e2d.gif",
+    "uri": "https://jisho.org/search/%E6%B8%AD%23kanji"
+  }
+}

@@ -1,1 +1,69 @@
-{"id":"鶯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鶯","found":true,"strokeCount":21,"meaning":"nightingale","kunyomi":["うぐいす"],"onyomi":["オウ"],"onyomiExamples":[{"example":"鶯谷","reading":"オウコク","meaning":"warbler being in a valley, valley in which warblers live, remaining obscure and unsuccessful"},{"example":"鶯遷","reading":"オウセン","meaning":"warbler flying from a valley to a tree, finding success in life, passing the palace examination"}],"kunyomiExamples":[{"example":"鶯","reading":"うぐいす","meaning":"Japanese bush warbler (Horornis diphone), Japanese nightingale, greenish brown, beautiful voice, woman with a beautiful voice"},{"example":"うぐいす餡","reading":"うぐいすあん","meaning":"sweet brownish-green paste made from green peas"},{"example":"高麗鶯","reading":"こうらいうぐいす","meaning":"black-naped oriole (Oriolus chinensis)"},{"example":"初鴬","reading":"はつうぐいす","meaning":"first Japanese bush warbler to chirp this year (i.e. spring)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["冖","杰","火","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40367_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09daf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9daf.gif","uri":"https://jisho.org/search/%E9%B6%AF%23kanji"}}
+{
+  "id": "鶯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鶯",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "nightingale",
+    "kunyomi": [
+      "うぐいす"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鶯谷",
+        "reading": "オウコク",
+        "meaning": "warbler being in a valley, valley in which warblers live, remaining obscure and unsuccessful"
+      },
+      {
+        "example": "鶯遷",
+        "reading": "オウセン",
+        "meaning": "warbler flying from a valley to a tree, finding success in life, passing the palace examination"
+      },
+      {
+        "example": "老鶯",
+        "reading": "ロウオウ",
+        "meaning": "bush warbler singing even after spring has passed"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鶯",
+        "reading": "うぐいす",
+        "meaning": "Japanese bush warbler (Horornis diphone), Japanese nightingale, greenish brown, beautiful voice, woman with a beautiful voice"
+      },
+      {
+        "example": "うぐいす餡",
+        "reading": "うぐいすあん",
+        "meaning": "sweet brownish-green paste made from green peas"
+      },
+      {
+        "example": "高麗鶯",
+        "reading": "こうらいうぐいす",
+        "meaning": "black-naped oriole (Oriolus chinensis)"
+      },
+      {
+        "example": "初鴬",
+        "reading": "はつうぐいす",
+        "meaning": "first Japanese bush warbler to chirp this year (i.e. spring)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "冖",
+      "杰",
+      "火",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40367_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09daf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9daf.gif",
+    "uri": "https://jisho.org/search/%E9%B6%AF%23kanji"
+  }
+}

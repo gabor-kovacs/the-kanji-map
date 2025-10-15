@@ -1,1 +1,43 @@
-{"id":"忝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"忝","found":true,"strokeCount":8,"meaning":"grateful, indebted","kunyomi":["かたじけな.い"],"onyomi":["テン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"忝い","reading":"かたじけない","meaning":"grateful, indebted"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ノ","一","二","大","心"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24541_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fdd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fdd.gif","uri":"https://jisho.org/search/%E5%BF%9D%23kanji"}}
+{
+  "id": "忝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "忝",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "grateful, indebted",
+    "kunyomi": [
+      "かたじけな.い"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "忝い",
+        "reading": "かたじけない",
+        "meaning": "grateful, indebted"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "大",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24541_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fdd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fdd.gif",
+    "uri": "https://jisho.org/search/%E5%BF%9D%23kanji"
+  }
+}

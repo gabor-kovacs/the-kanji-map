@@ -1,1 +1,46 @@
-{"id":"佝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"佝","found":true,"strokeCount":7,"meaning":"foolish, stooped over","kunyomi":["せむし"],"onyomi":["コウ","ク"],"onyomiExamples":[{"example":"佝僂","reading":"クル","meaning":"rickets, someone suffering from rickets"},{"example":"くる病","reading":"クルビョウ","meaning":"rickets"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["勹","化","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20317_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f5d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f5d.gif","uri":"https://jisho.org/search/%E4%BD%9D%23kanji"}}
+{
+  "id": "佝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佝",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "foolish, stooped over",
+    "kunyomi": [
+      "せむし"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "佝僂",
+        "reading": "クル",
+        "meaning": "rickets, person with rickets, hunchback"
+      },
+      {
+        "example": "くる病",
+        "reading": "クルビョウ",
+        "meaning": "rickets, rachitis"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "勹",
+      "化",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20317_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f5d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f5d.gif",
+    "uri": "https://jisho.org/search/%E4%BD%9D%23kanji"
+  }
+}

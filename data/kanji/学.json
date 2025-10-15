@@ -1,1 +1,425 @@
-{"id":"学","kanjialiveData":{"kanji":{"character":"学","meaning":{"english":"study, educational, institution"},"strokes":{"count":8,"timings":[0.911,1.666,2.266,3.332,4.332,5.932,6.932,8.732,10.133333],"images":["https://media.kanjialive.com/kanji_strokes/mana(bu)_1.svg","https://media.kanjialive.com/kanji_strokes/mana(bu)_2.svg","https://media.kanjialive.com/kanji_strokes/mana(bu)_3.svg","https://media.kanjialive.com/kanji_strokes/mana(bu)_4.svg","https://media.kanjialive.com/kanji_strokes/mana(bu)_5.svg","https://media.kanjialive.com/kanji_strokes/mana(bu)_6.svg","https://media.kanjialive.com/kanji_strokes/mana(bu)_7.svg","https://media.kanjialive.com/kanji_strokes/mana(bu)_8.svg"]},"onyomi":{"romaji":"gaku","katakana":"ガク"},"kunyomi":{"romaji":"mana, manabu","hiragana":"まな"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/mana(bu)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/mana(bu)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/mana(bu)_00.webm"}},"radical":{"character":"⼦","strokes":3,"image":"https://media.kanjialive.com/radical_character/ko.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"こ","romaji":"ko"},"meaning":{"english":"child, son"},"animation":["https://media.kanjialive.com/rad_frames/ko0.svg","https://media.kanjialive.com/rad_frames/ko1.svg","https://media.kanjialive.com/rad_frames/ko2.svg"]},"references":{"grade":1,"kodansha":"1625","classic_nelson":"1271"},"examples":[{"japanese":"学生（がくせい）","meaning":{"english":"student"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_a.mp3"}},{"japanese":"学者（がくしゃ）","meaning":{"english":"scholar"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_b.mp3"}},{"japanese":"大学（だいがく）","meaning":{"english":"university"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_c.mp3"}},{"japanese":"大学院（だいがくいん）","meaning":{"english":"graduate school"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_d.mp3"}},{"japanese":"奨学金（しょうがくきん）","meaning":{"english":"scholarship"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_e.mp3"}},{"japanese":"人類学（じんるいがく）","meaning":{"english":"anthropology"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_f.mp3"}},{"japanese":"言語学（げんごがく）","meaning":{"english":"linguistics"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_g.mp3"}},{"japanese":"学校（がっこう）","meaning":{"english":"school"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_h.mp3"}},{"japanese":"学期（がっき）","meaning":{"english":"term, semester"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_i.mp3"}},{"japanese":"学ぶ（まなぶ）","meaning":{"english":"study"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_j.mp3"}}]},"jishoData":{"query":"学","found":true,"taughtIn":"grade 1","jlptLevel":"N5","newspaperFrequencyRank":"63","strokeCount":8,"meaning":"study, learning, science","kunyomi":["まな.ぶ"],"onyomi":["ガク"],"onyomiExamples":[{"example":"学","reading":"ガク","meaning":"learning, scholarship, study, erudition, knowledge, education, study of ..., -ology, -ics"},{"example":"学位","reading":"ガクイ","meaning":"(academic) degree"},{"example":"短期大学","reading":"タンキダイガク","meaning":"junior college, vocationally oriented two or three year post-secondary education institution"},{"example":"法医学","reading":"ホウイガク","meaning":"forensic medicine, forensic pathology, medical jurisprudence, legal medicine"}],"kunyomiExamples":[{"example":"学ぶ","reading":"まなぶ","meaning":"to study (in depth), to learn, to take lessons in"}],"radical":{"symbol":"子","meaning":"child, seed"},"parts":["冖","子","尚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23398_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b66.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b66.gif","uri":"https://jisho.org/search/%E5%AD%A6%23kanji"}}
+{
+  "id": "学",
+  "kanjialiveData": {
+    "_id": "54317aef791eba5146ee4a51",
+    "_rev": "9-bd125eb8e3be111be7b433dc62cdbc7e",
+    "rad_name_ja": "こ",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "mana, manabu",
+    "meaning": "study, educational, institution",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "学生（がくせい）",
+        "meaning": {
+          "english": "student"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "学者（がくしゃ）",
+        "meaning": {
+          "english": "scholar"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "大学（だいがく）",
+        "meaning": {
+          "english": "university"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "大学院（だいがくいん）",
+        "meaning": {
+          "english": "graduate school"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "奨学金（しょうがくきん）",
+        "meaning": {
+          "english": "scholarship"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "人類学（じんるいがく）",
+        "meaning": {
+          "english": "anthropology"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "言語学（げんごがく）",
+        "meaning": {
+          "english": "linguistics"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "学校（がっこう）",
+        "meaning": {
+          "english": "school"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "学期（がっき）",
+        "meaning": {
+          "english": "term, semester"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "学ぶ（まなぶ）",
+        "meaning": {
+          "english": "study"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mana(bu)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mana(bu)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "まな、まなぶ",
+    "ka_utf": "学",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=学",
+    "rad_name_search": [
+      "ko"
+    ],
+    "rad_order": 46,
+    "txt_books": [
+      {
+        "chapter": "6",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "12"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "19"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "29"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "10"
+      }
+    ],
+    "kname": "mana(bu)",
+    "rad_utf": "⼦",
+    "stroketimes": [
+      0.911,
+      1.666,
+      2.266,
+      3.332,
+      4.332,
+      5.932,
+      6.932,
+      8.732,
+      10.133333
+    ],
+    "kunyomi_ka_display": "まな",
+    "dick": "1625",
+    "rad_name": "ko",
+    "dicn": "1271",
+    "mn_hint": "Child 子 learning something ツ <span class='note'>(abbreviated image of a hand passing something to another hand)</span> at school 冖 <span class='note'>(orig. \"cover\")</span>.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ガク",
+    "rad_meaning": "child, son",
+    "onyomi": "gaku",
+    "ka_id": "ka_4",
+    "onyomi_search": [
+      "gaku",
+      "gaku"
+    ],
+    "kunyomi_search": [
+      "mana",
+      "manabu",
+      "mana, manabu"
+    ],
+    "meaning_search": [
+      "study",
+      "educational",
+      "institution",
+      "study, educational, institution"
+    ],
+    "onyomi_ja_search": [
+      "ガク",
+      "ガク"
+    ],
+    "kunyomi_ja_search": [
+      "まな",
+      "まなぶ",
+      "まな、まなぶ"
+    ],
+    "rad_meaning_search": [
+      "child",
+      "son",
+      "child, son"
+    ],
+    "rad_name_ja_search": [
+      "こ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:6",
+      "cij:c6",
+      "bk",
+      "bk:2",
+      "bk:c2",
+      "aij3",
+      "aij3:4",
+      "aij3:c4",
+      "aij3:v2",
+      "aij3:v2:4",
+      "aij3:v2:c4",
+      "gen",
+      "gen:6",
+      "gen:c6",
+      "ap",
+      "ap:3",
+      "ap:c3",
+      "kll",
+      "kll:4",
+      "kll:c4",
+      "cijr",
+      "cijr:12",
+      "cijr:c12",
+      "cijr",
+      "cijr:19",
+      "cijr:c19",
+      "cijr",
+      "cijr:29",
+      "cijr:c29",
+      "aij4",
+      "aij4:10",
+      "aij4:c10",
+      "aij4:v1",
+      "aij4:v1:10",
+      "aij4:v1:c10"
+    ],
+    "rad_name_file": "ko",
+    "kanji": {
+      "character": "学",
+      "meaning": {
+        "english": "study, educational, institution"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0.911,
+          1.666,
+          2.266,
+          3.332,
+          4.332,
+          5.932,
+          6.932,
+          8.732,
+          10.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/mana(bu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/mana(bu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/mana(bu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/mana(bu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/mana(bu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/mana(bu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/mana(bu)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/mana(bu)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "gaku",
+        "katakana": "ガク"
+      },
+      "kunyomi": {
+        "romaji": "mana, manabu",
+        "hiragana": "まな"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/mana(bu)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/mana(bu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/mana(bu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼦",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/ko.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "こ",
+        "romaji": "ko"
+      },
+      "meaning": {
+        "english": "child, son"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ko0.svg",
+        "https://media.kanjialive.com/rad_frames/ko1.svg",
+        "https://media.kanjialive.com/rad_frames/ko2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1625",
+      "classic_nelson": "1271"
+    }
+  },
+  "jishoData": {
+    "query": "学",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "63",
+    "strokeCount": 8,
+    "meaning": "study, learning, science",
+    "kunyomi": [
+      "まな.ぶ"
+    ],
+    "onyomi": [
+      "ガク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "学",
+        "reading": "ガク",
+        "meaning": "learning, scholarship, study, erudition, knowledge, education, study of ..., -ology, -ics"
+      },
+      {
+        "example": "学位",
+        "reading": "ガクイ",
+        "meaning": "(academic) degree"
+      },
+      {
+        "example": "短期大学",
+        "reading": "タンキダイガク",
+        "meaning": "junior college, community college, vocationally oriented two or three year post-secondary education institution"
+      },
+      {
+        "example": "法医学",
+        "reading": "ホウイガク",
+        "meaning": "forensic medicine, forensic pathology, medical jurisprudence, legal medicine"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "学ぶ",
+        "reading": "まなぶ",
+        "meaning": "to learn, to study, to take lessons in"
+      }
+    ],
+    "radical": {
+      "symbol": "子",
+      "meaning": "child, seed"
+    },
+    "parts": [
+      "冖",
+      "子",
+      "尚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23398_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b66.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b66.gif",
+    "uri": "https://jisho.org/search/%E5%AD%A6%23kanji"
+  }
+}

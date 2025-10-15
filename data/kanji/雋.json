@@ -1,1 +1,39 @@
-{"id":"雋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"雋","found":true,"strokeCount":12,"meaning":"excel","kunyomi":["すぐ.れる"],"onyomi":["シュン","セン"],"onyomiExamples":[{"example":"俊","reading":"シュン","meaning":"excellence, genius"}],"kunyomiExamples":[],"radical":{"symbol":"隹","meaning":"small bird"},"parts":["亅","冂","凵","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38603_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096cb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96cb.gif","uri":"https://jisho.org/search/%E9%9B%8B%23kanji"}}
+{
+  "id": "雋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雋",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "excel",
+    "kunyomi": [
+      "すぐ.れる"
+    ],
+    "onyomi": [
+      "シュン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "俊",
+        "reading": "シュン",
+        "meaning": "excellence, genius"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "隹",
+      "meaning": "small bird"
+    },
+    "parts": [
+      "亅",
+      "冂",
+      "凵",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38603_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096cb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96cb.gif",
+    "uri": "https://jisho.org/search/%E9%9B%8B%23kanji"
+  }
+}

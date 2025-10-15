@@ -1,1 +1,351 @@
-{"id":"卒","kanjialiveData":{"kanji":{"character":"卒","meaning":{"english":"graduate"},"strokes":{"count":8,"timings":[0,1.933,2.733,4,4.933,5.466,6.199,7.333,8.6],"images":["https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_1.svg","https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_2.svg","https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_3.svg","https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_4.svg","https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_5.svg","https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_6.svg","https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_7.svg","https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_8.svg"]},"onyomi":{"romaji":"sotsu","katakana":"ソツ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/sotsu(gyou)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/sotsu(gyou)_00.webm"}},"radical":{"character":"⼗","strokes":2,"image":"https://media.kanjialive.com/radical_character/juu.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"じゅう","romaji":"juu"},"meaning":{"english":"ten"},"animation":["https://media.kanjialive.com/rad_frames/juu0.svg","https://media.kanjialive.com/rad_frames/juu1.svg","https://media.kanjialive.com/rad_frames/juu2.svg"]},"references":{"grade":4,"kodansha":"1300","classic_nelson":"294"},"examples":[{"japanese":"卒業する（そつぎょうする）","meaning":{"english":"graduate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_a.mp3"}},{"japanese":"卒論（そつろん）","meaning":{"english":"graduation (senior) thesis"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_b.mp3"}},{"japanese":"中卒（ちゅうそつ）","meaning":{"english":"junior high school graduate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_c.mp3"}},{"japanese":"高卒（こうそつ）","meaning":{"english":"high school graduate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_d.mp3"}},{"japanese":"大卒（だいそつ）","meaning":{"english":"university graduate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_e.mp3"}},{"japanese":"脳卒中（のうそっちゅう）","meaning":{"english":"stroke"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_f.mp3"}}]},"jishoData":{"query":"卒","found":true,"taughtIn":"grade 4","jlptLevel":"N2","newspaperFrequencyRank":"772","strokeCount":8,"meaning":"graduate, soldier, private, die","kunyomi":["そっ.する","お.える","お.わる","ついに","にわか"],"onyomi":["ソツ","シュツ"],"onyomiExamples":[{"example":"卒","reading":"ソツ","meaning":"low-ranking soldier, graduation, moving on (from), outgrowing (something), low-ranking samurai (1870-1872), death (of a noble, etc.)"},{"example":"卒業","reading":"ソツギョウ","meaning":"graduation, completion (of a course), moving on (from), outgrowing (something), leaving (a group, company, etc.), quitting"},{"example":"中卒","reading":"チュウソツ","meaning":"person who has (only) graduated from junior high school, middle school graduate"},{"example":"大卒","reading":"ダイソツ","meaning":"university graduate, having graduated from university"}],"kunyomiExamples":[{"example":"卒する","reading":"そっする","meaning":"to die, to pass away"},{"example":"終える","reading":"おえる","meaning":"to finish, to graduate"},{"example":"終わる","reading":"おわる","meaning":"to end, to come to an end, to close, to finish"}],"radical":{"symbol":"十","meaning":"ten, complete"},"parts":["亠","人","十"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21330_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05352.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5352.gif","uri":"https://jisho.org/search/%E5%8D%92%23kanji"}}
+{
+  "id": "卒",
+  "kanjialiveData": {
+    "_id": "54317ae6791eba5146ee49a5",
+    "_rev": "9-b601b23bc33eb20723faf098a685268a",
+    "rad_name_ja": "じゅう",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "graduate",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "卒業する（そつぎょうする）",
+        "meaning": {
+          "english": "graduate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "卒論（そつろん）",
+        "meaning": {
+          "english": "graduation (senior) thesis"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "中卒（ちゅうそつ）",
+        "meaning": {
+          "english": "junior high school graduate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "高卒（こうそつ）",
+        "meaning": {
+          "english": "high school graduate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "大卒（だいそつ）",
+        "meaning": {
+          "english": "university graduate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "脳卒中（のうそっちゅう）",
+        "meaning": {
+          "english": "stroke"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sotsu(gyou)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sotsu(gyou)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sotsu(gyou)_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "卒",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=卒",
+    "rad_name_search": [
+      "juu"
+    ],
+    "rad_order": 28,
+    "txt_books": [
+      {
+        "chapter": "23",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "42",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "23",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "sotsu(gyou)",
+    "rad_utf": "⼗",
+    "stroketimes": [
+      0,
+      1.933,
+      2.733,
+      4,
+      4.933,
+      5.466,
+      6.199,
+      7.333,
+      8.6
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1300",
+    "rad_name": "juu",
+    "dicn": "294",
+    "mn_hint": "When lots of 十 people 人人 receive their graduate's caps 亠.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ソツ",
+    "rad_meaning": "ten",
+    "onyomi": "sotsu",
+    "ka_id": "ka_244",
+    "onyomi_search": [
+      "sotsu",
+      "sotsu"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "graduate",
+      "graduate"
+    ],
+    "onyomi_ja_search": [
+      "ソツ",
+      "ソツ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "ten",
+      "ten"
+    ],
+    "rad_name_ja_search": [
+      "じゅう"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:23",
+      "cij:c23",
+      "bk",
+      "bk:42",
+      "bk:c42",
+      "aij3",
+      "aij3:1",
+      "aij3:c1",
+      "aij3:v4",
+      "aij3:v4:1",
+      "aij3:v4:c1",
+      "gen",
+      "gen:19",
+      "gen:c19",
+      "ap",
+      "ap:13",
+      "ap:c13",
+      "kll",
+      "kll:23",
+      "kll:c23"
+    ],
+    "rad_name_file": "juu",
+    "kanji": {
+      "character": "卒",
+      "meaning": {
+        "english": "graduate"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.933,
+          2.733,
+          4,
+          4.933,
+          5.466,
+          6.199,
+          7.333,
+          8.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sotsu",
+        "katakana": "ソツ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sotsu(gyou)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sotsu(gyou)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sotsu(gyou)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼗",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/juu.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "じゅう",
+        "romaji": "juu"
+      },
+      "meaning": {
+        "english": "ten"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/juu0.svg",
+        "https://media.kanjialive.com/rad_frames/juu1.svg",
+        "https://media.kanjialive.com/rad_frames/juu2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "1300",
+      "classic_nelson": "294"
+    }
+  },
+  "jishoData": {
+    "query": "卒",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "772",
+    "strokeCount": 8,
+    "meaning": "graduate, soldier, private, die",
+    "kunyomi": [
+      "そっ.する",
+      "お.える",
+      "お.わる",
+      "ついに",
+      "にわか"
+    ],
+    "onyomi": [
+      "ソツ",
+      "シュツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "卒",
+        "reading": "ソツ",
+        "meaning": "low-ranking soldier, graduation, moving on (from), outgrowing (something), low-ranking samurai (1870-1872), death (of a noble, etc.)"
+      },
+      {
+        "example": "卒業",
+        "reading": "ソツギョウ",
+        "meaning": "graduation, completion (of a course), moving on (from), outgrowing (something), leaving (a group, company, etc.), quitting"
+      },
+      {
+        "example": "中卒",
+        "reading": "チュウソツ",
+        "meaning": "having graduated from junior high school (as one's highest completed level of education), having completed no schooling beyond junior high school, middle school graduate"
+      },
+      {
+        "example": "大卒",
+        "reading": "ダイソツ",
+        "meaning": "university graduate, having graduated from university"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "卒する",
+        "reading": "そっする",
+        "meaning": "to die, to pass away"
+      },
+      {
+        "example": "終える",
+        "reading": "おえる",
+        "meaning": "to finish, to graduate"
+      },
+      {
+        "example": "終わる",
+        "reading": "おわる",
+        "meaning": "to end, to come to an end, to finish, to close, to be over, to finish, to complete, to conclude, to finish doing, to be past its (one's) prime, to be awful, to be terrible, to suck, to be hopeless"
+      }
+    ],
+    "radical": {
+      "symbol": "十",
+      "meaning": "ten, complete"
+    },
+    "parts": [
+      "亠",
+      "人",
+      "十"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21330_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05352.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5352.gif",
+    "uri": "https://jisho.org/search/%E5%8D%92%23kanji"
+  }
+}

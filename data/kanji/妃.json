@@ -1,1 +1,60 @@
-{"id":"妃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"妃","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1752","strokeCount":6,"meaning":"queen, princess","kunyomi":["きさき"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"妃","reading":"ヒ","meaning":"princess, consort"},{"example":"妃殿下","reading":"ヒデンカ","meaning":"princess, Her Royal Highness"},{"example":"皇太子妃","reading":"コウタイシヒ","meaning":"crown princess"},{"example":"王太妃","reading":"オウタイヒ","meaning":"crown princess"}],"kunyomiExamples":[{"example":"后","reading":"きさき","meaning":"empress, queen"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["女","已"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22915_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05983.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5983.gif","uri":"https://jisho.org/search/%E5%A6%83%23kanji"}}
+{
+  "id": "妃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "妃",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1752",
+    "strokeCount": 6,
+    "meaning": "queen, princess",
+    "kunyomi": [
+      "きさき"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "妃",
+        "reading": "ヒ",
+        "meaning": "princess, consort"
+      },
+      {
+        "example": "妃殿下",
+        "reading": "ヒデンカ",
+        "meaning": "princess, Her Royal Highness"
+      },
+      {
+        "example": "皇太子妃",
+        "reading": "コウタイシヒ",
+        "meaning": "crown princess"
+      },
+      {
+        "example": "王太妃",
+        "reading": "オウタイヒ",
+        "meaning": "crown princess"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "后",
+        "reading": "きさき",
+        "meaning": "empress (consort), queen (consort)"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "女",
+      "已"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22915_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05983.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5983.gif",
+    "uri": "https://jisho.org/search/%E5%A6%83%23kanji"
+  }
+}

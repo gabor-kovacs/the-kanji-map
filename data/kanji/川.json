@@ -1,1 +1,353 @@
-{"id":"川","kanjialiveData":{"kanji":{"character":"川","meaning":{"english":"river"},"strokes":{"count":3,"timings":[0,2.133,3.533,4.533333],"images":["https://media.kanjialive.com/kanji_strokes/sen-kawa_1.svg","https://media.kanjialive.com/kanji_strokes/sen-kawa_2.svg","https://media.kanjialive.com/kanji_strokes/sen-kawa_3.svg"]},"onyomi":{"romaji":"sen","katakana":"セン"},"kunyomi":{"romaji":"kawa","hiragana":"かわ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/sen-kawa_3.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/sen-kawa_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/sen-kawa_00.webm"}},"radical":{"character":"川","strokes":3,"image":"https://media.kanjialive.com/radical_character/sanbongawa.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"さんぼんがわ","romaji":"sanbongawa"},"meaning":{"english":"river"},"animation":["https://media.kanjialive.com/rad_frames/sanbongawa0.svg","https://media.kanjialive.com/rad_frames/sanbongawa1.svg","https://media.kanjialive.com/rad_frames/sanbongawa2.svg"]},"references":{"grade":1,"kodansha":"1","classic_nelson":"1447"},"examples":[{"japanese":"河川（かせん）","meaning":{"english":"rivers"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_a.mp3"}},{"japanese":"川（かわ）","meaning":{"english":"river"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_b.mp3"}},{"japanese":"川上（かわかみ）","meaning":{"english":"upper reaches of a river"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_c.mp3"}},{"japanese":"川下（かわしも）","meaning":{"english":"downstream"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_d.mp3"}},{"japanese":"江戸川（えどがわ）","meaning":{"english":"Edo River"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_e.mp3"}},{"japanese":"小川（おがわ）","meaning":{"english":"small stream, brook"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_f.mp3"}}]},"jishoData":{"query":"川","found":true,"taughtIn":"grade 1","jlptLevel":"N5","newspaperFrequencyRank":"181","strokeCount":3,"meaning":"stream, river, river or three-stroke river radical (no. 47)","kunyomi":["かわ"],"onyomi":["セン"],"onyomiExamples":[{"example":"川柳","reading":"センリュウ","meaning":"senryū, comic haiku, humorous seventeen-mora poem"},{"example":"川きゅう","reading":"センキュウ","meaning":"cnidium rhizome (Cnidium officinale)"},{"example":"山川","reading":"サンセン","meaning":"mountains and rivers"},{"example":"四川","reading":"シセン","meaning":"Sichuan (China), Szechuan, Szechwan"}],"kunyomiExamples":[{"example":"川","reading":"かわ","meaning":"river, stream, River, the ... river"},{"example":"川上","reading":"かわかみ","meaning":"upper reaches of a river, upstream"},{"example":"堀川","reading":"ほりかわ","meaning":"canal"},{"example":"山川","reading":"さんせん","meaning":"mountains and rivers"}],"radical":{"symbol":"巛","forms":["川","巜"],"meaning":"river"},"parts":["川"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24029_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ddd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ddd.gif","uri":"https://jisho.org/search/%E5%B7%9D%23kanji"}}
+{
+  "id": "川",
+  "kanjialiveData": {
+    "_id": "54317ae1791eba5146ee4940",
+    "_rev": "10-f1f9eb056224efca3980b90605fb022f",
+    "rad_name_ja": "さんぼんがわ",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "kawa",
+    "meaning": "river",
+    "kstroke": 3,
+    "examples": [
+      {
+        "japanese": "河川（かせん）",
+        "meaning": {
+          "english": "rivers"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "川（かわ）",
+        "meaning": {
+          "english": "river"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "川上（かわかみ）",
+        "meaning": {
+          "english": "upper reaches of a river"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "川下（かわしも）",
+        "meaning": {
+          "english": "downstream"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "江戸川（えどがわ）",
+        "meaning": {
+          "english": "Edo River"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "小川（おがわ）",
+        "meaning": {
+          "english": "small stream, brook"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-kawa_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-kawa_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "かわ",
+    "ka_utf": "川",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=川",
+    "kname": "sen-kawa",
+    "rad_order": 56,
+    "txt_books": [
+      {
+        "chapter": "16",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "7"
+      }
+    ],
+    "rad_name_search": [
+      "sanbongawa"
+    ],
+    "rad_utf": "川",
+    "stroketimes": [
+      0,
+      2.133,
+      3.533,
+      4.533333
+    ],
+    "kunyomi_ka_display": "かわ",
+    "dick": "1",
+    "rad_name": "sanbongawa",
+    "dicn": "1447",
+    "mn_hint": "Please view the radical animation on the left.",
+    "rad_stroke": 3,
+    "onyomi_ja": "セン",
+    "rad_meaning": "river",
+    "onyomi": "sen",
+    "ka_id": "ka_153",
+    "onyomi_search": [
+      "sen",
+      "sen"
+    ],
+    "kunyomi_search": [
+      "kawa",
+      "kawa"
+    ],
+    "meaning_search": [
+      "river",
+      "river"
+    ],
+    "onyomi_ja_search": [
+      "セン",
+      "セン"
+    ],
+    "kunyomi_ja_search": [
+      "かわ",
+      "かわ"
+    ],
+    "rad_meaning_search": [
+      "river",
+      "river"
+    ],
+    "rad_name_ja_search": [
+      "さんぼんがわ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:16",
+      "cij:c16",
+      "bk",
+      "bk:1",
+      "bk:c1",
+      "aij3",
+      "aij3:5",
+      "aij3:c5",
+      "aij3:v2",
+      "aij3:v2:5",
+      "aij3:v2:c5",
+      "gen",
+      "gen:5",
+      "gen:c5",
+      "ap",
+      "ap:12",
+      "ap:c12",
+      "kll",
+      "kll:10",
+      "kll:c10",
+      "aij4",
+      "aij4:7",
+      "aij4:c7",
+      "aij4:v1",
+      "aij4:v1:7",
+      "aij4:v1:c7"
+    ],
+    "rad_name_file": "sanbongawa",
+    "kanji": {
+      "character": "川",
+      "meaning": {
+        "english": "river"
+      },
+      "strokes": {
+        "count": 3,
+        "timings": [
+          0,
+          2.133,
+          3.533,
+          4.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sen-kawa_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-kawa_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-kawa_3.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sen",
+        "katakana": "セン"
+      },
+      "kunyomi": {
+        "romaji": "kawa",
+        "hiragana": "かわ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sen-kawa_3.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sen-kawa_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sen-kawa_00.webm"
+      }
+    },
+    "radical": {
+      "character": "川",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/sanbongawa.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "さんぼんがわ",
+        "romaji": "sanbongawa"
+      },
+      "meaning": {
+        "english": "river"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sanbongawa0.svg",
+        "https://media.kanjialive.com/rad_frames/sanbongawa1.svg",
+        "https://media.kanjialive.com/rad_frames/sanbongawa2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1",
+      "classic_nelson": "1447"
+    }
+  },
+  "jishoData": {
+    "query": "川",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "181",
+    "strokeCount": 3,
+    "meaning": "stream, river, river or three-stroke river radical (no. 47)",
+    "kunyomi": [
+      "かわ"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "川柳",
+        "reading": "センリュウ",
+        "meaning": "senryū, comic haiku, humorous seventeen-mora poem"
+      },
+      {
+        "example": "川きゅう",
+        "reading": "センキュウ",
+        "meaning": "cnidium rhizome (Cnidium officinale)"
+      },
+      {
+        "example": "山川",
+        "reading": "サンセン",
+        "meaning": "mountains and rivers"
+      },
+      {
+        "example": "四川",
+        "reading": "シセン",
+        "meaning": "Sichuan (China), Szechuan, Szechwan"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "川",
+        "reading": "かわ",
+        "meaning": "river, stream, River, the ... river"
+      },
+      {
+        "example": "川上",
+        "reading": "かわかみ",
+        "meaning": "upper reaches of a river, upstream"
+      },
+      {
+        "example": "堀川",
+        "reading": "ほりかわ",
+        "meaning": "canal"
+      },
+      {
+        "example": "山川",
+        "reading": "さんせん",
+        "meaning": "mountains and rivers"
+      }
+    ],
+    "radical": {
+      "symbol": "巛",
+      "forms": [
+        "川",
+        "巜"
+      ],
+      "meaning": "river"
+    },
+    "parts": [
+      "川"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24029_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ddd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ddd.gif",
+    "uri": "https://jisho.org/search/%E5%B7%9D%23kanji"
+  }
+}

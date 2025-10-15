@@ -1,1 +1,298 @@
-{"id":"尺","kanjialiveData":{"kanji":{"character":"尺","meaning":{"english":"shaku (unit of length, about 30 cm), measure"},"strokes":{"count":4,"timings":[0,2,3.733333,5.333333,8.6],"images":["https://media.kanjialive.com/kanji_strokes/(is)shaku_1.svg","https://media.kanjialive.com/kanji_strokes/(is)shaku_2.svg","https://media.kanjialive.com/kanji_strokes/(is)shaku_3.svg","https://media.kanjialive.com/kanji_strokes/(is)shaku_4.svg"]},"onyomi":{"romaji":"shaku","katakana":"シャク"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(is)shaku_4.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(is)shaku_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(is)shaku_00.webm"}},"radical":{"character":"⼫","strokes":3,"image":"https://media.kanjialive.com/radical_character/shikabane.svg","position":{"hiragana":"たれ","romaji":"tare","icon":"https://media.kanjialive.com/rad_positions/tare.svg"},"name":{"hiragana":"しかばね","romaji":"shikabane"},"meaning":{"english":"corpse, awning"},"animation":["https://media.kanjialive.com/rad_frames/shikabane0.svg","https://media.kanjialive.com/rad_frames/shikabane1.svg","https://media.kanjialive.com/rad_frames/shikabane2.svg"]},"references":{"grade":6,"kodansha":"2146","classic_nelson":"1377"},"examples":[{"japanese":"尺八（しゃくはち）","meaning":{"english":"bamboo flute, fellatio"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(is)shaku_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(is)shaku_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(is)shaku_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(is)shaku_06_a.mp3"}},{"japanese":"尺度（しゃくど）","meaning":{"english":"linear measure, scale"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(is)shaku_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(is)shaku_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(is)shaku_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(is)shaku_06_b.mp3"}},{"japanese":"一尺（いっしゃく）","meaning":{"english":"one shaku, approx. 30 cm"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(is)shaku_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(is)shaku_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(is)shaku_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(is)shaku_06_c.mp3"}},{"japanese":"縮尺（しゅくしゃく）","meaning":{"english":"reduced scale"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(is)shaku_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(is)shaku_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(is)shaku_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(is)shaku_06_d.mp3"}},{"japanese":"巻き尺（まきじゃく）","meaning":{"english":"measure"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(is)shaku_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(is)shaku_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(is)shaku_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(is)shaku_06_e.mp3"}}]},"jishoData":{"query":"尺","found":true,"taughtIn":"grade 6","jlptLevel":"N1","newspaperFrequencyRank":"1940","strokeCount":4,"meaning":"shaku, Japanese foot, measure, scale, rule","kunyomi":["さし"],"onyomi":["シャク","セキ"],"onyomiExamples":[{"example":"尺","reading":"シャク","meaning":"shaku (unit of distance approximately equal to 30.3 cm), rule, measure, scale, length"},{"example":"尺度","reading":"シャクド","meaning":"gauge, standard, measure, criterion, index, length, size, (measuring) rule, scale"},{"example":"大尺","reading":"ダイシャク","meaning":"large shaku (approx. 35.6cm)"},{"example":"対数尺","reading":"タイスウジャク","meaning":"logarithmic scale"},{"example":"尺寸","reading":"シャクスン","meaning":"(something) tiny, trifle"},{"example":"尺地","reading":"セキチ","meaning":"small plot of land"},{"example":"咫尺","reading":"シセキ","meaning":"very short distance"}],"kunyomiExamples":[{"example":"尺","reading":"さし","meaning":"ruler, measure"},{"example":"畳尺","reading":"たたみじゃく","meaning":"folding ruler, collapsible ruler"}],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["丶","尸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23610_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3a.gif","uri":"https://jisho.org/search/%E5%B0%BA%23kanji"}}
+{
+  "id": "尺",
+  "kanjialiveData": {
+    "_id": "54317b05791eba5146ee4bf1",
+    "_rev": "9-e2c978d6748c0272c9feccd71fbe808d",
+    "rad_name_ja": "しかばね",
+    "grade": 6,
+    "hint_group": 6,
+    "kunyomi": "n/a",
+    "meaning": "shaku (unit of length, about 30 cm), measure",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "尺八（しゃくはち）",
+        "meaning": {
+          "english": "bamboo flute, fellatio"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(is)shaku_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(is)shaku_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(is)shaku_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(is)shaku_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "尺度（しゃくど）",
+        "meaning": {
+          "english": "linear measure, scale"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(is)shaku_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(is)shaku_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(is)shaku_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(is)shaku_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "一尺（いっしゃく）",
+        "meaning": {
+          "english": "one shaku, approx. 30 cm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(is)shaku_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(is)shaku_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(is)shaku_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(is)shaku_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "縮尺（しゅくしゃく）",
+        "meaning": {
+          "english": "reduced scale"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(is)shaku_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(is)shaku_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(is)shaku_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(is)shaku_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "巻き尺（まきじゃく）",
+        "meaning": {
+          "english": "measure"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(is)shaku_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(is)shaku_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(is)shaku_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(is)shaku_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "尺",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=尺",
+    "rad_name_search": [
+      "shikabane"
+    ],
+    "rad_order": 53,
+    "txt_books": [
+      {
+        "chapter": "17",
+        "txt_bk": "txtIntermJpn"
+      }
+    ],
+    "kname": "(is)shaku",
+    "rad_utf": "⼫",
+    "stroketimes": [
+      0,
+      2,
+      3.733333,
+      5.333333,
+      8.6
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "2146",
+    "rad_name": "shikabane",
+    "dicn": "1377",
+    "mn_hint": "Person 尸 advancing one step [39].",
+    "rad_stroke": 3,
+    "onyomi_ja": "シャク",
+    "rad_meaning": "corpse, awning",
+    "onyomi": "shaku",
+    "ka_id": "ka_774",
+    "rad_position": "tare",
+    "rad_position_ja": "たれ",
+    "rad_position_search": [
+      "tare",
+      "tare"
+    ],
+    "onyomi_search": [
+      "shaku",
+      "shaku"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "shaku (unit of length",
+      "shaku",
+      "(unit",
+      "of",
+      "length",
+      "about 30 cm)",
+      "about",
+      "30",
+      "cm)",
+      "measure",
+      "shaku (unit of length, about 30 cm), measure"
+    ],
+    "onyomi_ja_search": [
+      "シャク",
+      "シャク"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "corpse",
+      "awning",
+      "corpse, awning"
+    ],
+    "rad_position_ja_search": [
+      "たれ",
+      "たれ"
+    ],
+    "rad_name_ja_search": [
+      "しかばね"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:17",
+      "ij:c17"
+    ],
+    "rad_name_file": "shikabane",
+    "kanji": {
+      "character": "尺",
+      "meaning": {
+        "english": "shaku (unit of length, about 30 cm), measure"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0,
+          2,
+          3.733333,
+          5.333333,
+          8.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(is)shaku_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(is)shaku_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(is)shaku_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(is)shaku_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shaku",
+        "katakana": "シャク"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(is)shaku_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(is)shaku_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(is)shaku_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼫",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/shikabane.svg",
+      "position": {
+        "hiragana": "たれ",
+        "romaji": "tare",
+        "icon": "https://media.kanjialive.com/rad_positions/tare.svg"
+      },
+      "name": {
+        "hiragana": "しかばね",
+        "romaji": "shikabane"
+      },
+      "meaning": {
+        "english": "corpse, awning"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/shikabane0.svg",
+        "https://media.kanjialive.com/rad_frames/shikabane1.svg",
+        "https://media.kanjialive.com/rad_frames/shikabane2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "2146",
+      "classic_nelson": "1377"
+    }
+  },
+  "jishoData": {
+    "query": "尺",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1940",
+    "strokeCount": 4,
+    "meaning": "shaku, Japanese foot, measure, scale, rule",
+    "kunyomi": [
+      "さし"
+    ],
+    "onyomi": [
+      "シャク",
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尺",
+        "reading": "シャク",
+        "meaning": "shaku (unit of distance approximately equal to 30.3 cm), rule, measure, scale, length"
+      },
+      {
+        "example": "尺度",
+        "reading": "シャクド",
+        "meaning": "gauge, standard, measure, criterion, index, length, size, (measuring) rule, scale"
+      },
+      {
+        "example": "大尺",
+        "reading": "ダイシャク",
+        "meaning": "large shaku (approx. 35.6cm)"
+      },
+      {
+        "example": "対数尺",
+        "reading": "タイスウジャク",
+        "meaning": "logarithmic scale"
+      },
+      {
+        "example": "尺寸",
+        "reading": "シャクスン",
+        "meaning": "(something) tiny, trifle"
+      },
+      {
+        "example": "尺地",
+        "reading": "セキチ",
+        "meaning": "small plot of land"
+      },
+      {
+        "example": "咫尺",
+        "reading": "シセキ",
+        "meaning": "very short distance"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "尺",
+        "reading": "さし",
+        "meaning": "ruler, measure"
+      },
+      {
+        "example": "畳尺",
+        "reading": "たたみじゃく",
+        "meaning": "folding ruler, collapsible ruler"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "丶",
+      "尸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23610_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3a.gif",
+    "uri": "https://jisho.org/search/%E5%B0%BA%23kanji"
+  }
+}

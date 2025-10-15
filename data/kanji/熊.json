@@ -1,1 +1,70 @@
-{"id":"熊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"熊","found":true,"taughtIn":"grade 4","jlptLevel":"N1","newspaperFrequencyRank":"1105","strokeCount":14,"meaning":"bear","kunyomi":["くま"],"onyomi":["ユウ"],"onyomiExamples":[{"example":"熊害","reading":"ユウガイ","meaning":"damages caused by bears (on human settlements, including attacks on humans)"},{"example":"熊掌","reading":"ユウショウ","meaning":"bear's palm (meat treasured in ancient China)"}],"kunyomiExamples":[{"example":"熊","reading":"くま","meaning":"bear (any mammal of family Ursidae)"},{"example":"熊手","reading":"くまで","meaning":"rake, fork, bamboo rake"},{"example":"蜂熊","reading":"はちくま","meaning":"crested honey buzzard (Pernis ptilorhynchus), Oriental honey buzzard, pern"},{"example":"黒熊","reading":"くろくま","meaning":"black bear"}],"radical":{"symbol":"火","forms":["灬"],"meaning":"fire"},"parts":["匕","厶","月","杰"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29066_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0718a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/718a.gif","uri":"https://jisho.org/search/%E7%86%8A%23kanji"}}
+{
+  "id": "熊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "熊",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1105",
+    "strokeCount": 14,
+    "meaning": "bear",
+    "kunyomi": [
+      "くま"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "熊害",
+        "reading": "ユウガイ",
+        "meaning": "damages caused by bears (on human settlements, including attacks on humans)"
+      },
+      {
+        "example": "熊掌",
+        "reading": "ユウショウ",
+        "meaning": "bear's palm (meat treasured in ancient China)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "熊",
+        "reading": "くま",
+        "meaning": "bear (any mammal of family Ursidae)"
+      },
+      {
+        "example": "熊手",
+        "reading": "くまで",
+        "meaning": "rake, fork, bamboo rake"
+      },
+      {
+        "example": "蜂熊",
+        "reading": "はちくま",
+        "meaning": "crested honey buzzard (Pernis ptilorhynchus), Oriental honey buzzard, pern"
+      },
+      {
+        "example": "黒熊",
+        "reading": "くろくま",
+        "meaning": "black bear"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "fire"
+    },
+    "parts": [
+      "匕",
+      "厶",
+      "月",
+      "杰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29066_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0718a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/718a.gif",
+    "uri": "https://jisho.org/search/%E7%86%8A%23kanji"
+  }
+}

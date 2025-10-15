@@ -1,1 +1,40 @@
-{"id":"歇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"歇","found":true,"strokeCount":13,"meaning":"exhausted, out of","kunyomi":["や.める"],"onyomi":["ケツ","カイ","カツ"],"onyomiExamples":[{"example":"間欠","reading":"カンケツ","meaning":"intermittence, intermittent"}],"kunyomiExamples":[],"radical":{"symbol":"欠","meaning":"lack, yawn"},"parts":["勹","匕","日","欠"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27463_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b47.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b47.gif","uri":"https://jisho.org/search/%E6%AD%87%23kanji"}}
+{
+  "id": "歇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "歇",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "exhausted, out of",
+    "kunyomi": [
+      "や.める"
+    ],
+    "onyomi": [
+      "ケツ",
+      "カイ",
+      "カツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "間欠",
+        "reading": "カンケツ",
+        "meaning": "intermittence, intermittent"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "欠",
+      "meaning": "lack, yawn"
+    },
+    "parts": [
+      "勹",
+      "匕",
+      "日",
+      "欠"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27463_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b47.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b47.gif",
+    "uri": "https://jisho.org/search/%E6%AD%87%23kanji"
+  }
+}

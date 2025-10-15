@@ -1,1 +1,74 @@
-{"id":"忽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"忽","found":true,"strokeCount":8,"meaning":"in a moment, instantly, all of a sudden, neglect, disregard","kunyomi":["たちま.ち","ゆるが.せ"],"onyomi":["コツ"],"onyomiExamples":[{"example":"忽","reading":"コツ","meaning":"one hundred-thousandth, sudden, abrupt, unexpected"},{"example":"忽焉","reading":"コツエン","meaning":"sudden, unexpected"},{"example":"軽忽","reading":"キョウコツ","meaning":"indiscreet, thoughtless, absurd, laughable, disdaining, belittling"},{"example":"粗忽","reading":"ソコツ","meaning":"careless, thoughtless, rash, rude, at fault"}],"kunyomiExamples":[{"example":"忽ち","reading":"たちまち","meaning":"in an instant, in a moment, immediately, right away, at once, suddenly, all of a sudden, all at once"},{"example":"忽せ","reading":"ゆるがせ","meaning":"negligent, careless, easygoing, relaxed"},{"example":"忽せにする","reading":"ゆるがせにする","meaning":"to be negligent, to neglect, to slight"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ノ","勹","勿","心"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24573_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ffd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ffd.gif","uri":"https://jisho.org/search/%E5%BF%BD%23kanji"}}
+{
+  "id": "忽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "忽",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "in a moment, instantly, all of a sudden, neglect, disregard",
+    "kunyomi": [
+      "たちま.ち",
+      "ゆるが.せ"
+    ],
+    "onyomi": [
+      "コツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忽",
+        "reading": "コツ",
+        "meaning": "one hundred-thousandth, sudden, abrupt, unexpected"
+      },
+      {
+        "example": "忽焉",
+        "reading": "コツエン",
+        "meaning": "sudden, unexpected"
+      },
+      {
+        "example": "軽忽",
+        "reading": "キョウコツ",
+        "meaning": "indiscreet, thoughtless, absurd, laughable, disdaining, belittling"
+      },
+      {
+        "example": "粗忽",
+        "reading": "ソコツ",
+        "meaning": "careless, thoughtless, rash, rude, at fault"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "忽ち",
+        "reading": "たちまち",
+        "meaning": "in an instant, in a moment, immediately, right away, at once, suddenly, all of a sudden, all at once"
+      },
+      {
+        "example": "忽せ",
+        "reading": "ゆるがせ",
+        "meaning": "negligent, careless, easygoing, relaxed"
+      },
+      {
+        "example": "忽せにする",
+        "reading": "ゆるがせにする",
+        "meaning": "to be negligent, to neglect, to slight"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ノ",
+      "勹",
+      "勿",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24573_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ffd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ffd.gif",
+    "uri": "https://jisho.org/search/%E5%BF%BD%23kanji"
+  }
+}

@@ -1,1 +1,55 @@
-{"id":"嗣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嗣","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2310","strokeCount":13,"meaning":"heir, succeed","kunyomi":[],"onyomi":["シ"],"onyomiExamples":[{"example":"嗣","reading":"シ","meaning":"succession, successor"},{"example":"嗣業","reading":"シギョウ","meaning":"succeeding to a business"},{"example":"継嗣","reading":"ケイシ","meaning":"successor, heir, heiress"},{"example":"世子","reading":"セイシ","meaning":"heir, successor"}],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["一","亅","冂","口","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21987_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055e3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55e3.gif","uri":"https://jisho.org/search/%E5%97%A3%23kanji"}}
+{
+  "id": "嗣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嗣",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2310",
+    "strokeCount": 13,
+    "meaning": "heir, succeed",
+    "kunyomi": [],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嗣",
+        "reading": "シ",
+        "meaning": "succession, successor"
+      },
+      {
+        "example": "嗣業",
+        "reading": "シギョウ",
+        "meaning": "succeeding to a business"
+      },
+      {
+        "example": "継嗣",
+        "reading": "ケイシ",
+        "meaning": "successor, heir, heiress"
+      },
+      {
+        "example": "世子",
+        "reading": "セイシ",
+        "meaning": "heir, successor"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "冂",
+      "口",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21987_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055e3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55e3.gif",
+    "uri": "https://jisho.org/search/%E5%97%A3%23kanji"
+  }
+}

@@ -1,1 +1,59 @@
-{"id":"圏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"圏","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1216","strokeCount":12,"meaning":"sphere, circle, radius, range","kunyomi":["かこ.い"],"onyomi":["ケン"],"onyomiExamples":[{"example":"圏","reading":"ケン","meaning":"sphere, circle, range, area, zone, bloc, category"},{"example":"圏内","reading":"ケンナイ","meaning":"(being) within range (radio, commuting, etc.), (being) within the sphere (e.g. of influence)"},{"example":"成層圏","reading":"セイソウケン","meaning":"stratosphere"},{"example":"勢力圏","reading":"セイリョクケン","meaning":"sphere of influence"}],"kunyomiExamples":[],"radical":{"symbol":"囗","meaning":"enclosure"},"parts":["一","二","人","囗","大","已","并"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22287_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0570f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/570f.gif","uri":"https://jisho.org/search/%E5%9C%8F%23kanji"}}
+{
+  "id": "圏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "圏",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1216",
+    "strokeCount": 12,
+    "meaning": "sphere, circle, radius, range",
+    "kunyomi": [
+      "かこ.い"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "圏",
+        "reading": "ケン",
+        "meaning": "sphere, circle, range, area, zone, bloc, category"
+      },
+      {
+        "example": "圏内",
+        "reading": "ケンナイ",
+        "meaning": "inside (a region, area, etc.), within the range (of), within the sphere (of influence, etc.)"
+      },
+      {
+        "example": "成層圏",
+        "reading": "セイソウケン",
+        "meaning": "stratosphere"
+      },
+      {
+        "example": "勢力圏",
+        "reading": "セイリョクケン",
+        "meaning": "sphere of influence"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "囗",
+      "meaning": "enclosure"
+    },
+    "parts": [
+      "一",
+      "二",
+      "人",
+      "囗",
+      "大",
+      "已",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22287_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0570f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/570f.gif",
+    "uri": "https://jisho.org/search/%E5%9C%8F%23kanji"
+  }
+}

@@ -1,1 +1,41 @@
-{"id":"輛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"輛","found":true,"strokeCount":15,"meaning":"counter for large vehicles","kunyomi":[],"onyomi":["リョウ"],"onyomiExamples":[{"example":"輛","reading":"リョウ","meaning":"counter for carriages (e.g. in a train), counter for vehicles"},{"example":"一両","reading":"イチリョウ","meaning":"one vehicle, one ryō (an old coin)"}],"kunyomiExamples":[],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["入","冂","車","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36635_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f1b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f1b.gif","uri":"https://jisho.org/search/%E8%BC%9B%23kanji"}}
+{
+  "id": "輛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輛",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "counter for large vehicles",
+    "kunyomi": [],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "輛",
+        "reading": "リョウ",
+        "meaning": "counter for carriages (e.g. in a train), counter for vehicles"
+      },
+      {
+        "example": "一両",
+        "reading": "イチリョウ",
+        "meaning": "one vehicle, one ryō (an old coin)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "入",
+      "冂",
+      "車",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36635_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f1b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f1b.gif",
+    "uri": "https://jisho.org/search/%E8%BC%9B%23kanji"
+  }
+}

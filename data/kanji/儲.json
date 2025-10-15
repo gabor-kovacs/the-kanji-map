@@ -1,1 +1,81 @@
-{"id":"儲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"儲","found":true,"newspaperFrequencyRank":"2442","strokeCount":17,"meaning":"be profitable, yield profit","kunyomi":["もう.ける","もう.かる","もうけ","たくわ.える"],"onyomi":["チョ"],"onyomiExamples":[{"example":"貯蓄","reading":"チョチク","meaning":"savings"},{"example":"儲位","reading":"チョイ","meaning":"heirship"},{"example":"嫌儲","reading":"ケンチョ","meaning":"shady online money-making"}],"kunyomiExamples":[{"example":"儲ける","reading":"もうける","meaning":"to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck"},{"example":"儲かる","reading":"もうかる","meaning":"to be profitable, to yield a profit"},{"example":"儲け","reading":"もうけ","meaning":"profit, earnings"},{"example":"儲ける","reading":"もうける","meaning":"to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck"},{"example":"嫌儲","reading":"けんちょ","meaning":"shady online money-making"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","日","老","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20786_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05132.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5132.gif","uri":"https://jisho.org/search/%E5%84%B2%23kanji"}}
+{
+  "id": "儲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "儲",
+    "found": true,
+    "newspaperFrequencyRank": "2442",
+    "strokeCount": 17,
+    "meaning": "be profitable, yield profit",
+    "kunyomi": [
+      "もう.ける",
+      "もう.かる",
+      "もうけ",
+      "たくわ.える"
+    ],
+    "onyomi": [
+      "チョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "貯蓄",
+        "reading": "チョチク",
+        "meaning": "savings"
+      },
+      {
+        "example": "儲位",
+        "reading": "チョイ",
+        "meaning": "heirship"
+      },
+      {
+        "example": "嫌儲",
+        "reading": "ケンチョ",
+        "meaning": "shady online money-making"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "儲ける",
+        "reading": "もうける",
+        "meaning": "to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck"
+      },
+      {
+        "example": "儲かる",
+        "reading": "もうかる",
+        "meaning": "to be profitable, to yield a profit"
+      },
+      {
+        "example": "儲け",
+        "reading": "もうけ",
+        "meaning": "profit, earnings"
+      },
+      {
+        "example": "儲ける",
+        "reading": "もうける",
+        "meaning": "to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck"
+      },
+      {
+        "example": "嫌儲",
+        "reading": "けんちょ",
+        "meaning": "shady online money-making"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "日",
+      "老",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20786_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05132.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5132.gif",
+    "uri": "https://jisho.org/search/%E5%84%B2%23kanji"
+  }
+}

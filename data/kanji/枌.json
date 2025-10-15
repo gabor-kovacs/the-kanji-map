@@ -1,1 +1,33 @@
-{"id":"枌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"枌","found":true,"strokeCount":8,"meaning":"pine tree","kunyomi":["まつ","そぎ"],"onyomi":["ショウ","フン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["ハ","刀","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26508_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0678c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/678c.gif","uri":"https://jisho.org/search/%E6%9E%8C%23kanji"}}
+{
+  "id": "枌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "枌",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "pine tree",
+    "kunyomi": [
+      "まつ",
+      "そぎ"
+    ],
+    "onyomi": [
+      "ショウ",
+      "フン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ハ",
+      "刀",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26508_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0678c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/678c.gif",
+    "uri": "https://jisho.org/search/%E6%9E%8C%23kanji"
+  }
+}

@@ -1,1 +1,64 @@
-{"id":"鏤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鏤","found":true,"strokeCount":19,"meaning":"inlay, set, mount","kunyomi":["ちりば.める"],"onyomi":["ル","ロウ"],"onyomiExamples":[{"example":"鏤刻","reading":"ルコク","meaning":"engraving, carving (into), polishing (a piece of writing), improving"},{"example":"鏤骨","reading":"ルコツ","meaning":"painstaking efforts"},{"example":"撥鏤","reading":"バチル","meaning":"engraving of lacquer-stained ivory (popular during the Tang Dynasty)"},{"example":"鏤刻","reading":"ルコク","meaning":"engraving, carving (into), polishing (a piece of writing), improving"}],"kunyomiExamples":[{"example":"散りばめる","reading":"ちりばめる","meaning":"to inlay, to set, to stud (e.g. star-studded sky), to enchase (something) with, to mount (gems)"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["一","口","女","金","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37860_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093e4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93e4.gif","uri":"https://jisho.org/search/%E9%8F%A4%23kanji"}}
+{
+  "id": "鏤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鏤",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "inlay, set, mount",
+    "kunyomi": [
+      "ちりば.める"
+    ],
+    "onyomi": [
+      "ル",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鏤刻",
+        "reading": "ルコク",
+        "meaning": "engraving, carving (into), polishing (a piece of writing), improving"
+      },
+      {
+        "example": "鏤骨",
+        "reading": "ルコツ",
+        "meaning": "painstaking efforts"
+      },
+      {
+        "example": "撥鏤",
+        "reading": "バチル",
+        "meaning": "engraving of lacquer-stained ivory (popular during the Tang dynasty)"
+      },
+      {
+        "example": "鏤刻",
+        "reading": "ルコク",
+        "meaning": "engraving, carving (into), polishing (a piece of writing), improving"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "散りばめる",
+        "reading": "ちりばめる",
+        "meaning": "to inlay, to set, to stud (e.g. star-studded sky), to enchase (something) with, to mount (gems)"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "一",
+      "口",
+      "女",
+      "金",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37860_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093e4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93e4.gif",
+    "uri": "https://jisho.org/search/%E9%8F%A4%23kanji"
+  }
+}

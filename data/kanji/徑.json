@@ -1,1 +1,41 @@
-{"id":"徑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"徑","found":true,"strokeCount":10,"meaning":"path, diameter, method","kunyomi":["みち","こみち","さしわたし","ただちに"],"onyomi":["ケイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"彳","meaning":"step"},"parts":["一","巛","工","彳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24465_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f91.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f91.gif","uri":"https://jisho.org/search/%E5%BE%91%23kanji"}}
+{
+  "id": "徑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "徑",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "path, diameter, method",
+    "kunyomi": [
+      "みち",
+      "こみち",
+      "さしわたし",
+      "ただちに"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "小径",
+        "reading": "ショウケイ",
+        "meaning": "path, lane, small diameter, small radius"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "step"
+    },
+    "parts": [
+      "一",
+      "巛",
+      "工",
+      "彳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24465_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f91.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f91.gif",
+    "uri": "https://jisho.org/search/%E5%BE%91%23kanji"
+  }
+}

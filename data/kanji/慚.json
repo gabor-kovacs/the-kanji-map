@@ -1,1 +1,52 @@
-{"id":"慚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"慚","found":true,"strokeCount":14,"meaning":"feel ashamed","kunyomi":["はじ","はじ.る"],"onyomi":["ザン"],"onyomiExamples":[{"example":"慚恚","reading":"ザンイ","meaning":"being ashamed and angry"},{"example":"慙愧","reading":"ザンキ","meaning":"(feeling of) shame"},{"example":"冷酷無惨","reading":"レイコクムザン","meaning":"cruel and heartless, merciless, implacable, cold-blooded"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["忙","斤","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24922_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0615a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/615a.gif","uri":"https://jisho.org/search/%E6%85%9A%23kanji"}}
+{
+  "id": "慚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慚",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "feel ashamed",
+    "kunyomi": [
+      "はじ",
+      "はじ.る"
+    ],
+    "onyomi": [
+      "ザン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慚恚",
+        "reading": "ザンイ",
+        "meaning": "being ashamed and angry"
+      },
+      {
+        "example": "慙愧",
+        "reading": "ザンキ",
+        "meaning": "(feeling of) shame"
+      },
+      {
+        "example": "冷酷無惨",
+        "reading": "レイコクムザン",
+        "meaning": "cruel and heartless, merciless, implacable, cold-blooded"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "忙",
+      "斤",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24922_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0615a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/615a.gif",
+    "uri": "https://jisho.org/search/%E6%85%9A%23kanji"
+  }
+}

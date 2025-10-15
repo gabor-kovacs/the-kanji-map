@@ -1,1 +1,47 @@
-{"id":"戚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"戚","found":true,"taughtIn":"junior high","strokeCount":11,"meaning":"grieve, relatives","kunyomi":["いた.む","うれ.える","みうち"],"onyomi":["ソク","セキ"],"onyomiExamples":[{"example":"外戚","reading":"ガイセキ","meaning":"maternal relative"},{"example":"休戚","reading":"キュウセキ","meaning":"weal and woe, joys and sorrows, welfare"}],"kunyomiExamples":[],"radical":{"symbol":"戈","meaning":"spear, halberd"},"parts":["ノ","卜","小","戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25114_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0621a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/621a.gif","uri":"https://jisho.org/search/%E6%88%9A%23kanji"}}
+{
+  "id": "戚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戚",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 11,
+    "meaning": "grieve, relatives",
+    "kunyomi": [
+      "いた.む",
+      "うれ.える",
+      "みうち"
+    ],
+    "onyomi": [
+      "ソク",
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "外戚",
+        "reading": "ガイセキ",
+        "meaning": "maternal relative"
+      },
+      {
+        "example": "休戚",
+        "reading": "キュウセキ",
+        "meaning": "weal and woe, joys and sorrows, welfare"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "spear, halberd"
+    },
+    "parts": [
+      "ノ",
+      "卜",
+      "小",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25114_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0621a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/621a.gif",
+    "uri": "https://jisho.org/search/%E6%88%9A%23kanji"
+  }
+}

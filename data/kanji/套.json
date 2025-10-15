@@ -1,1 +1,42 @@
-{"id":"套","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"套","found":true,"strokeCount":10,"meaning":"accumulate, big and long, hackneyed","kunyomi":["かさ.ねる"],"onyomi":["トウ"],"onyomiExamples":[{"example":"夏外套","reading":"ナツガイトウ","meaning":"summer overcoat, light jacket"},{"example":"雨外套","reading":"アマガイトウ","meaning":"mackintosh, macintosh, raincoat"}],"kunyomiExamples":[],"radical":{"symbol":"大","meaning":"big, very"},"parts":["厶","大","長"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22871_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05957.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5957.gif","uri":"https://jisho.org/search/%E5%A5%97%23kanji"}}
+{
+  "id": "套",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "套",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "accumulate, big and long, hackneyed",
+    "kunyomi": [
+      "かさ.ねる"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "夏外套",
+        "reading": "ナツガイトウ",
+        "meaning": "summer overcoat, light jacket"
+      },
+      {
+        "example": "雨外套",
+        "reading": "アマガイトウ",
+        "meaning": "mackintosh, macintosh, raincoat"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "厶",
+      "大",
+      "長"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22871_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05957.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5957.gif",
+    "uri": "https://jisho.org/search/%E5%A5%97%23kanji"
+  }
+}

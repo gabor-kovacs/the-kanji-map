@@ -1,1 +1,80 @@
-{"id":"逸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"逸","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1524","strokeCount":11,"meaning":"deviate, idleness, leisure, miss the mark, evade, elude, parry, diverge","kunyomi":["そ.れる","そ.らす","はぐ.れる"],"onyomi":["イツ"],"onyomiExamples":[{"example":"逸脱","reading":"イツダツ","meaning":"deviation, departure, omission"},{"example":"逸材","reading":"イツザイ","meaning":"outstanding talent, person of exceptional talent, gifted person"},{"example":"捕逸","reading":"ホイツ","meaning":"passed ball, catcher missing a ball"},{"example":"秀逸","reading":"シュウイツ","meaning":"excellent, superb, first-rate"}],"kunyomiExamples":[{"example":"逸れる","reading":"それる","meaning":"to turn away, to bear off, to veer away, to swerve from, to miss (e.g. a target), to deviate (e.g. of a conversation), to digress, to go astray, to wander"},{"example":"逸らす","reading":"そらす","meaning":"to turn away (one's eyes, face, etc.), to avert, to divert (e.g. one's attention), to evade (e.g. a question), to change (e.g. the subject), to displease, to annoy, to offend, to upset, to miss (the target, ball, etc.)"},{"example":"逸れる","reading":"はぐれる","meaning":"to lose sight of (one's companions), to stray from, to miss (one's chance to ...)"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["ノ","儿","免","勹","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36920_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09038.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9038.gif","uri":"https://jisho.org/search/%E9%80%B8%23kanji"}}
+{
+  "id": "逸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逸",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1524",
+    "strokeCount": 11,
+    "meaning": "deviate, idleness, leisure, miss the mark, evade, elude, parry, diverge",
+    "kunyomi": [
+      "そ.れる",
+      "そ.らす",
+      "はぐ.れる"
+    ],
+    "onyomi": [
+      "イツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "逸脱",
+        "reading": "イツダツ",
+        "meaning": "deviation, departure, (accidental) omission"
+      },
+      {
+        "example": "逸材",
+        "reading": "イツザイ",
+        "meaning": "outstanding talent, person of exceptional talent, gifted person"
+      },
+      {
+        "example": "捕逸",
+        "reading": "ホイツ",
+        "meaning": "passed ball"
+      },
+      {
+        "example": "秀逸",
+        "reading": "シュウイツ",
+        "meaning": "excellent, superb, first-rate"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "逸れる",
+        "reading": "それる",
+        "meaning": "to turn away, to bear off, to veer away, to swerve from, to miss (e.g. a target), to deviate (e.g. of a conversation), to digress, to go astray, to wander"
+      },
+      {
+        "example": "逸らす",
+        "reading": "そらす",
+        "meaning": "to turn away (one's eyes, face, etc.), to avert, to divert (e.g. one's attention), to evade (e.g. a question), to change (e.g. the subject), to displease, to annoy, to offend, to upset, to miss (the target, ball, etc.)"
+      },
+      {
+        "example": "逸れる",
+        "reading": "はぐれる",
+        "meaning": "to lose sight of (one's companions), to stray from, to miss (one's chance to ...)"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "ノ",
+      "儿",
+      "免",
+      "勹",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36920_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09038.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9038.gif",
+    "uri": "https://jisho.org/search/%E9%80%B8%23kanji"
+  }
+}

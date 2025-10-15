@@ -1,1 +1,53 @@
-{"id":"攫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"攫","found":true,"strokeCount":23,"meaning":"abduct","kunyomi":["さら.う","つか.む"],"onyomi":["カク"],"onyomiExamples":[{"example":"一獲","reading":"イッカク","meaning":"one grab"}],"kunyomiExamples":[{"example":"攫う","reading":"さらう","meaning":"to carry off, to run away with, to sweep away, to snatch, to kidnap, to abduct, to take entirely for oneself, to monopolize"},{"example":"掴む","reading":"つかむ","meaning":"to seize, to catch, to grasp, to grip, to grab, to clutch, to hold, to catch hold of, to lay one's hands on, to obtain, to acquire, to get, to win, to capture, to understand, to grasp, to comprehend"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["又","扎","目","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25899_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0652b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/652b.gif","uri":"https://jisho.org/search/%E6%94%AB%23kanji"}}
+{
+  "id": "攫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "攫",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "abduct",
+    "kunyomi": [
+      "さら.う",
+      "つか.む"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "一獲",
+        "reading": "イッカク",
+        "meaning": "one grab"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "攫う",
+        "reading": "さらう",
+        "meaning": "to carry off, to run away with, to sweep away, to snatch, to kidnap, to abduct, to take entirely for oneself, to monopolize"
+      },
+      {
+        "example": "掴む",
+        "reading": "つかむ",
+        "meaning": "to seize, to catch, to grasp, to grip, to grab, to clutch, to hold, to catch hold of, to lay one's hands on, to obtain, to acquire, to get, to win, to capture, to understand, to grasp, to comprehend"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "又",
+      "扎",
+      "目",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25899_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0652b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/652b.gif",
+    "uri": "https://jisho.org/search/%E6%94%AB%23kanji"
+  }
+}

@@ -1,1 +1,65 @@
-{"id":"骸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"骸","found":true,"taughtIn":"junior high","strokeCount":16,"meaning":"bone, body, corpse","kunyomi":["むくろ"],"onyomi":["ガイ","カイ"],"onyomiExamples":[{"example":"骸骨","reading":"ガイコツ","meaning":"skeleton"},{"example":"骸炭","reading":"ガイタン","meaning":"coke (carbon fuel)"},{"example":"死骸","reading":"シガイ","meaning":"(dead) body, corpse, carcass, remains"},{"example":"形骸","reading":"ケイガイ","meaning":"ruin, wreck, mere skeleton, framework"}],"kunyomiExamples":[{"example":"躯","reading":"むくろ","meaning":"(dead) body, corpse"}],"radical":{"symbol":"骨","meaning":"bone"},"parts":["ノ","丶","亠","人","冂","冖","月","骨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39608_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ab8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ab8.gif","uri":"https://jisho.org/search/%E9%AA%B8%23kanji"}}
+{
+  "id": "骸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "骸",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 16,
+    "meaning": "bone, body, corpse",
+    "kunyomi": [
+      "むくろ"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "骸骨",
+        "reading": "ガイコツ",
+        "meaning": "skeleton"
+      },
+      {
+        "example": "骸晶",
+        "reading": "ガイショウ",
+        "meaning": "hopper crystal, skeleton crystal"
+      },
+      {
+        "example": "死骸",
+        "reading": "シガイ",
+        "meaning": "(dead) body, corpse, carcass, remains"
+      },
+      {
+        "example": "形骸",
+        "reading": "ケイガイ",
+        "meaning": "(soulless) body, framework (of a building, etc.), skeleton, remains, ruin, wreck, mere shell, mere name, dead letter"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "躯",
+        "reading": "むくろ",
+        "meaning": "(dead) body, corpse"
+      }
+    ],
+    "radical": {
+      "symbol": "骨",
+      "meaning": "bone"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人",
+      "冂",
+      "冖",
+      "月",
+      "骨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39608_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ab8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ab8.gif",
+    "uri": "https://jisho.org/search/%E9%AA%B8%23kanji"
+  }
+}

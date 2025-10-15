@@ -1,1 +1,32 @@
-{"id":"鳫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鳫","found":true,"strokeCount":13,"meaning":"wild goose","kunyomi":["かり","かりがね"],"onyomi":["ガン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["厂","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40171_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ceb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ceb.gif","uri":"https://jisho.org/search/%E9%B3%AB%23kanji"}}
+{
+  "id": "鳫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鳫",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "wild goose",
+    "kunyomi": [
+      "かり",
+      "かりがね"
+    ],
+    "onyomi": [
+      "ガン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "厂",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40171_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ceb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ceb.gif",
+    "uri": "https://jisho.org/search/%E9%B3%AB%23kanji"
+  }
+}

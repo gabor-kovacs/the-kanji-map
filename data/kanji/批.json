@@ -1,1 +1,274 @@
-{"id":"批","kanjialiveData":{"kanji":{"character":"批","meaning":{"english":"criticize, critique"},"strokes":{"count":7,"timings":[0,1.2,3.4,4.6,6.066667,8.2,8.866667,12.666667],"images":["https://media.kanjialive.com/kanji_strokes/hi(han)_1.svg","https://media.kanjialive.com/kanji_strokes/hi(han)_2.svg","https://media.kanjialive.com/kanji_strokes/hi(han)_3.svg","https://media.kanjialive.com/kanji_strokes/hi(han)_4.svg","https://media.kanjialive.com/kanji_strokes/hi(han)_5.svg","https://media.kanjialive.com/kanji_strokes/hi(han)_6.svg","https://media.kanjialive.com/kanji_strokes/hi(han)_7.svg"]},"onyomi":{"romaji":"hi","katakana":"ヒ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/hi(han)_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/hi(han)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/hi(han)_00.webm"}},"radical":{"character":"⺘","strokes":3,"image":"https://media.kanjialive.com/radical_character/tehen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"てへん","romaji":"tehen"},"meaning":{"english":"hand"},"animation":["https://media.kanjialive.com/rad_frames/tehen0.svg","https://media.kanjialive.com/rad_frames/tehen1.svg","https://media.kanjialive.com/rad_frames/tehen2.svg"]},"references":{"grade":6,"kodansha":"187","classic_nelson":"1848"},"examples":[{"japanese":"批評家（ひひょうか）","meaning":{"english":"critic"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hi(han)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hi(han)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hi(han)_06_a.mp3"}},{"japanese":"批判する（ひはんする）","meaning":{"english":"criticize"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hi(han)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hi(han)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hi(han)_06_b.mp3"}},{"japanese":"批評する（ひひょうする）","meaning":{"english":"review (a book, etc.)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hi(han)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hi(han)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hi(han)_06_c.mp3"}},{"japanese":"批難する（ひなんする）","meaning":{"english":"blame [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hi(han)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hi(han)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hi(han)_06_d.mp3"}},{"japanese":"批判的な（ひはんてきな）","meaning":{"english":"critical"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hi(han)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hi(han)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hi(han)_06_e.mp3"}}]},"jishoData":{"query":"批","found":true,"taughtIn":"grade 6","jlptLevel":"N1","newspaperFrequencyRank":"568","strokeCount":7,"meaning":"criticism, strike","kunyomi":[],"onyomi":["ヒ"],"onyomiExamples":[{"example":"非難","reading":"ヒナン","meaning":"criticism, blame, censure, attack, reproach"},{"example":"批准","reading":"ヒジュン","meaning":"ratification"},{"example":"高批","reading":"コウヒ","meaning":"your valued criticism"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["扎","比"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25209_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06279.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6279.gif","uri":"https://jisho.org/search/%E6%89%B9%23kanji"}}
+{
+  "id": "批",
+  "kanjialiveData": {
+    "_id": "54317afd791eba5146ee4b55",
+    "_rev": "11-b4def607844ef7c762ed4236da3efc4f",
+    "rad_name_ja": "てへん",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "criticize, critique",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "批評家（ひひょうか）",
+        "meaning": {
+          "english": "critic"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi(han)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi(han)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi(han)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "批判する（ひはんする）",
+        "meaning": {
+          "english": "criticize"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi(han)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi(han)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi(han)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "批評する（ひひょうする）",
+        "meaning": {
+          "english": "review (a book, etc.)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi(han)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi(han)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi(han)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "批難する（ひなんする）",
+        "meaning": {
+          "english": "blame [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi(han)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi(han)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi(han)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "批判的な（ひはんてきな）",
+        "meaning": {
+          "english": "critical"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi(han)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi(han)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi(han)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi(han)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "批",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=批",
+    "kname": "hi(han)",
+    "rad_order": 77,
+    "txt_books": [
+      {
+        "chapter": "11",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      1.2,
+      3.4,
+      4.6,
+      6.066667,
+      8.2,
+      8.866667,
+      12.666667
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "187",
+    "rad_name": "tehen",
+    "dicn": "1848",
+    "mn_hint": "Action 扌 comparing 比 something to a standard.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ヒ",
+    "rad_meaning": "hand",
+    "onyomi": "hi",
+    "ka_id": "ka_633",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "hi",
+      "hi"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "criticize",
+      "critique",
+      "criticize, critique"
+    ],
+    "onyomi_ja_search": [
+      "ヒ",
+      "ヒ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:11",
+      "ij:c11",
+      "jtr",
+      "jtr:10",
+      "jtr:c10"
+    ],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "批",
+      "meaning": {
+        "english": "criticize, critique"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.2,
+          3.4,
+          4.6,
+          6.066667,
+          8.2,
+          8.866667,
+          12.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hi(han)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi(han)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi(han)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi(han)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi(han)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi(han)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi(han)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "hi",
+        "katakana": "ヒ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hi(han)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hi(han)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hi(han)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "hand"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "187",
+      "classic_nelson": "1848"
+    }
+  },
+  "jishoData": {
+    "query": "批",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "568",
+    "strokeCount": 7,
+    "meaning": "criticism, strike",
+    "kunyomi": [],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "非難",
+        "reading": "ヒナン",
+        "meaning": "criticism, blame, censure, attack, reproach"
+      },
+      {
+        "example": "批准",
+        "reading": "ヒジュン",
+        "meaning": "ratification"
+      },
+      {
+        "example": "高批",
+        "reading": "コウヒ",
+        "meaning": "your valued criticism"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "扎",
+      "比"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25209_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06279.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6279.gif",
+    "uri": "https://jisho.org/search/%E6%89%B9%23kanji"
+  }
+}

@@ -1,1 +1,344 @@
-{"id":"両","kanjialiveData":{"kanji":{"character":"両","meaning":{"english":"both"},"strokes":{"count":6,"timings":[0,0.966,1.971,4.249,5.254,6.594],"images":["https://media.kanjialive.com/kanji_strokes/ryou(shin)_1.svg","https://media.kanjialive.com/kanji_strokes/ryou(shin)_2.svg","https://media.kanjialive.com/kanji_strokes/ryou(shin)_3.svg","https://media.kanjialive.com/kanji_strokes/ryou(shin)_4.svg","https://media.kanjialive.com/kanji_strokes/ryou(shin)_5.svg","https://media.kanjialive.com/kanji_strokes/ryou(shin)_6.svg"]},"onyomi":{"romaji":"ryou","katakana":"リョウ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ryou(shin)_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ryou(shin)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ryou(shin)_00.webm"}},"radical":{"character":"⼀","strokes":1,"image":"https://media.kanjialive.com/radical_character/ichi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"いち","romaji":"ichi"},"meaning":{"english":"one, horizontal stroke"},"animation":["https://media.kanjialive.com/rad_frames/ichi0.svg","https://media.kanjialive.com/rad_frames/ichi1.svg","https://media.kanjialive.com/rad_frames/ichi2.svg"]},"references":{"grade":3,"kodansha":"2191","classic_nelson":"34"},"examples":[{"japanese":"両親（りょうしん）","meaning":{"english":"parents"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_a.mp3"}},{"japanese":"両側（りょうがわ）","meaning":{"english":"both sides"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_b.mp3"}},{"japanese":"両手（りょうて）","meaning":{"english":"both hands"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_c.mp3"}},{"japanese":"車両（しゃりょう）","meaning":{"english":"vehicle"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_d.mp3"}},{"japanese":"両替えする（りょうがえする）","meaning":{"english":"change (money)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_e.mp3"}}]},"jishoData":{"query":"両","found":true,"taughtIn":"grade 3","jlptLevel":"N3","newspaperFrequencyRank":"247","strokeCount":6,"meaning":"both, old Japanese coin, counter for carriages (e.g., in a train), two","kunyomi":["てる","ふたつ"],"onyomi":["リョウ"],"onyomiExamples":[{"example":"両","reading":"リョウ","meaning":"both (hands, parents, sides, etc.), counter for carriages (e.g. in a train), counter for vehicles, ryō, tael, traditional unit of weight (for gold, silver and drugs), 4-5 monme, 15-19 g, ryō, pre-Meiji unit of currency, orig. the value of one ryō of gold, ryō, traditional measure of fabric, 2 tan, ryō, tael, unit of weight under the ritsuryō system, 1/16 kin, 42-43 g, counter for suits of clothing, sets of armor, etc."},{"example":"両足","reading":"リョウソク","meaning":"both feet, both legs"},{"example":"一両","reading":"イチリョウ","meaning":"one vehicle, one ryō (an old coin)"},{"example":"十両","reading":"ジュウリョウ","meaning":"second highest division, wrestlers of the second highest division"}],"kunyomiExamples":[],"radical":{"symbol":"一","meaning":"one"},"parts":["一","冂","山","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20001_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e21.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e21.gif","uri":"https://jisho.org/search/%E4%B8%A1%23kanji"}}
+{
+  "id": "両",
+  "kanjialiveData": {
+    "_id": "54317b0a791eba5146ee4c50",
+    "_rev": "12-039ca2a23a4b288ed0faa0136f29f87d",
+    "rad_name_ja": "いち",
+    "grade": 3,
+    "hint_group": 2,
+    "kunyomi": "n/a",
+    "meaning": "both",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "両親（りょうしん）",
+        "meaning": {
+          "english": "parents"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "両側（りょうがわ）",
+        "meaning": {
+          "english": "both sides"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "両手（りょうて）",
+        "meaning": {
+          "english": "both hands"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "車両（しゃりょう）",
+        "meaning": {
+          "english": "vehicle"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "両替えする（りょうがえする）",
+        "meaning": {
+          "english": "change (money)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "両",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=両",
+    "rad_name_search": [
+      "ichi"
+    ],
+    "rad_order": 1,
+    "txt_books": [
+      {
+        "chapter": "12",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "40",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "27",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "9"
+      }
+    ],
+    "kname": "ryou(shin)",
+    "rad_utf": "⼀",
+    "stroketimes": [
+      0,
+      0.966,
+      1.971,
+      4.249,
+      5.254,
+      6.594
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "2191",
+    "rad_name": "ichi",
+    "dicn": "34",
+    "mn_hint": "Scale [53] with both sides in balance.",
+    "rad_stroke": 1,
+    "onyomi_ja": "リョウ",
+    "rad_meaning": "one, horizontal stroke",
+    "onyomi": "ryou",
+    "ka_id": "ka_86",
+    "onyomi_search": [
+      "ryou",
+      "ryou"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "both",
+      "both"
+    ],
+    "onyomi_ja_search": [
+      "リョウ",
+      "リョウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "one",
+      "horizontal stroke",
+      "horizontal",
+      "stroke",
+      "one, horizontal stroke"
+    ],
+    "rad_name_ja_search": [
+      "いち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:12",
+      "cij:c12",
+      "bk",
+      "bk:40",
+      "bk:c40",
+      "mac",
+      "mac:17",
+      "mac:c17",
+      "aij3",
+      "aij3:1",
+      "aij3:c1",
+      "aij3:v4",
+      "aij3:v4:1",
+      "aij3:v4:c1",
+      "gen",
+      "gen:20",
+      "gen:c20",
+      "ap",
+      "ap:20",
+      "ap:c20",
+      "kll",
+      "kll:27",
+      "kll:c27",
+      "jt",
+      "jt:3",
+      "jt:c3",
+      "cijr",
+      "cijr:9",
+      "cijr:c9"
+    ],
+    "rad_name_file": "ichi",
+    "kanji": {
+      "character": "両",
+      "meaning": {
+        "english": "both"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          0.966,
+          1.971,
+          4.249,
+          5.254,
+          6.594
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ryou(shin)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ryou(shin)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ryou(shin)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ryou(shin)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ryou(shin)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ryou(shin)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ryou",
+        "katakana": "リョウ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ryou(shin)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ryou(shin)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ryou(shin)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼀",
+      "strokes": 1,
+      "image": "https://media.kanjialive.com/radical_character/ichi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "いち",
+        "romaji": "ichi"
+      },
+      "meaning": {
+        "english": "one, horizontal stroke"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ichi0.svg",
+        "https://media.kanjialive.com/rad_frames/ichi1.svg",
+        "https://media.kanjialive.com/rad_frames/ichi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "2191",
+      "classic_nelson": "34"
+    }
+  },
+  "jishoData": {
+    "query": "両",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "247",
+    "strokeCount": 6,
+    "meaning": "both, old Japanese coin, counter for carriages (e.g., in a train), two",
+    "kunyomi": [
+      "てる",
+      "ふたつ"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "両",
+        "reading": "リョウ",
+        "meaning": "both (hands, parents, sides, etc.), counter for carriages (e.g. in a train), counter for vehicles, ryō, tael, traditional unit of weight (for gold, silver and drugs), 4-5 monme, 15-19 g, ryō, pre-Meiji unit of currency, orig. the value of one ryō of gold, ryō, traditional measure of fabric, 2 tan, ryō, tael, unit of weight under the ritsuryō system, 1/16 kin, 42-43 g, counter for suits of clothing, sets of armor, etc."
+      },
+      {
+        "example": "両足",
+        "reading": "リョウソク",
+        "meaning": "both feet, both legs"
+      },
+      {
+        "example": "一両",
+        "reading": "イチリョウ",
+        "meaning": "one vehicle, one ryō (an old coin)"
+      },
+      {
+        "example": "十両",
+        "reading": "ジュウリョウ",
+        "meaning": "second highest division, wrestlers of the second highest division"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "一",
+      "meaning": "one"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "山",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20001_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e21.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e21.gif",
+    "uri": "https://jisho.org/search/%E4%B8%A1%23kanji"
+  }
+}

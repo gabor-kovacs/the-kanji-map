@@ -1,1 +1,99 @@
-{"id":"鱗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鱗","found":true,"newspaperFrequencyRank":"2494","strokeCount":24,"meaning":"scales (fish)","kunyomi":["うろこ","こけ","こけら"],"onyomi":["リン"],"onyomiExamples":[{"example":"鱗芽","reading":"リンガ","meaning":"bulbil, cormel, brood bud"},{"example":"鱗形","reading":"ウロコガタ","meaning":"triangular pattern, scalelike pattern, imbricate pattern, imbrication, triangle emblem"},{"example":"介鱗","reading":"カイリン","meaning":"fish and shellfish"},{"example":"細鱗","reading":"サイリン","meaning":"small (fish) scale, small fish"}],"kunyomiExamples":[{"example":"鱗","reading":"うろこ","meaning":"scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"},{"example":"鱗形","reading":"うろこがた","meaning":"triangular pattern, scalelike pattern, imbricate pattern, imbrication, triangle emblem"},{"example":"三つ鱗","reading":"みつうろこ","meaning":"mitsuuroko emblem (three triangles in a triangular pattern; Hōjō clan symbol)"},{"example":"鱗","reading":"うろこ","meaning":"scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"},{"example":"鱗板","reading":"こけらいた","meaning":"thin shingles"},{"example":"鱗","reading":"うろこ","meaning":"scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"},{"example":"鱗板","reading":"こけらいた","meaning":"thin shingles"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["夕","杰","田","米","舛","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40023_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c57.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c57.gif","uri":"https://jisho.org/search/%E9%B1%97%23kanji"}}
+{
+  "id": "鱗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鱗",
+    "found": true,
+    "newspaperFrequencyRank": "2494",
+    "strokeCount": 24,
+    "meaning": "scales (fish)",
+    "kunyomi": [
+      "うろこ",
+      "こけ",
+      "こけら"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鱗芽",
+        "reading": "リンガ",
+        "meaning": "bulbil, cormel, brood bud"
+      },
+      {
+        "example": "鱗形",
+        "reading": "ウロコガタ",
+        "meaning": "triangular pattern, scalelike pattern, imbricate pattern, imbrication, triangle emblem"
+      },
+      {
+        "example": "介鱗",
+        "reading": "カイリン",
+        "meaning": "fish and shellfish"
+      },
+      {
+        "example": "細鱗",
+        "reading": "サイリン",
+        "meaning": "small (fish) scale, small fish"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鱗",
+        "reading": "うろこ",
+        "meaning": "scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"
+      },
+      {
+        "example": "鱗形",
+        "reading": "うろこがた",
+        "meaning": "triangular pattern, scalelike pattern, imbricate pattern, imbrication, triangle emblem"
+      },
+      {
+        "example": "三つ鱗",
+        "reading": "みつうろこ",
+        "meaning": "mitsuuroko emblem (three triangles in a triangular pattern; Hōjō clan symbol)"
+      },
+      {
+        "example": "目からウロコ",
+        "reading": "めからうろこ",
+        "meaning": "seeing the light, being awakened to the truth, having the scales fall from one's eyes"
+      },
+      {
+        "example": "鱗",
+        "reading": "うろこ",
+        "meaning": "scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"
+      },
+      {
+        "example": "鱗板",
+        "reading": "こけらいた",
+        "meaning": "thin shingles"
+      },
+      {
+        "example": "鱗",
+        "reading": "うろこ",
+        "meaning": "scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"
+      },
+      {
+        "example": "鱗板",
+        "reading": "こけらいた",
+        "meaning": "thin shingles"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "夕",
+      "杰",
+      "田",
+      "米",
+      "舛",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40023_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c57.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c57.gif",
+    "uri": "https://jisho.org/search/%E9%B1%97%23kanji"
+  }
+}

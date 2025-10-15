@@ -1,1 +1,35 @@
-{"id":"尓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"尓","found":true,"strokeCount":5,"meaning":"you, that","kunyomi":["なんじ","しかり","その","のみ"],"onyomi":["ジ","ニ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"小","meaning":"small, insignificant"},"parts":["ノ","乞","小"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23571_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c13.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c13.gif","uri":"https://jisho.org/search/%E5%B0%93%23kanji"}}
+{
+  "id": "尓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尓",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "you, that",
+    "kunyomi": [
+      "なんじ",
+      "しかり",
+      "その",
+      "のみ"
+    ],
+    "onyomi": [
+      "ジ",
+      "ニ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "小",
+      "meaning": "small, insignificant"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23571_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c13.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c13.gif",
+    "uri": "https://jisho.org/search/%E5%B0%93%23kanji"
+  }
+}

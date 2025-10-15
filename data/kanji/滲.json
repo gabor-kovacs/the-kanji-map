@@ -1,1 +1,59 @@
-{"id":"滲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"滲","found":true,"strokeCount":14,"meaning":"imbued with","kunyomi":["し.みる","にじ.む"],"onyomi":["シン"],"onyomiExamples":[{"example":"浸透","reading":"シントウ","meaning":"permeation (of thought, ideology, culture, etc.), infiltration (e.g. of ideas), spread, penetration (e.g. into a market), pervasion, permeation (of a liquid, etc.), soaking, percolation, osmosis"},{"example":"浸出","reading":"シンシュツ","meaning":"infiltration, permeation, exudation, percolation, effusion, extraction"}],"kunyomiExamples":[{"example":"染みる","reading":"しみる","meaning":"to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression"},{"example":"滲む","reading":"にじむ","meaning":"to run (of liquid), to spread, to bleed, to blot, to blur, to blot, to be blurred, to ooze, to well up (of tears, etc.), to show through (of feelings, emotions, etc.), to reveal itself"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["厶","大","彡","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28402_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ef2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ef2.gif","uri":"https://jisho.org/search/%E6%BB%B2%23kanji"}}
+{
+  "id": "滲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滲",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "imbued with",
+    "kunyomi": [
+      "し.みる",
+      "にじ.む"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浸透",
+        "reading": "シントウ",
+        "meaning": "permeation (of thought, ideology, culture, etc.), infiltration (e.g. of ideas), spread, penetration (e.g. into a market), pervasion, permeation (of a liquid, etc.), soaking, percolation, osmosis"
+      },
+      {
+        "example": "浸出",
+        "reading": "シンシュツ",
+        "meaning": "infiltration, permeation, exudation, percolation, effusion, extraction"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "染みる",
+        "reading": "しみる",
+        "meaning": "to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression"
+      },
+      {
+        "example": "滲む",
+        "reading": "にじむ",
+        "meaning": "to run (of liquid), to spread, to bleed, to blot, to blur, to blot, to be blurred, to ooze, to well up (of tears, etc.), to show through (of feelings, emotions, etc.), to reveal itself"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "厶",
+      "大",
+      "彡",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28402_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ef2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ef2.gif",
+    "uri": "https://jisho.org/search/%E6%BB%B2%23kanji"
+  }
+}

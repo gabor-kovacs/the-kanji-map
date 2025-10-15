@@ -1,1 +1,25 @@
-{"id":"𠂤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"𠂤","found":true,"strokeCount":6,"meaning":"to store up, to pile up","kunyomi":[],"onyomi":["タイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"丿","meaning":"slash"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/55360_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/200a4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/200a4.gif","uri":"https://jisho.org/search/%F0%A0%82%A4%23kanji"}}
+{
+  "id": "𠂤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "𠂤",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "to store up, to pile up",
+    "kunyomi": [],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "丿",
+      "meaning": "slash"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/55360_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/200a4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/200a4.gif",
+    "uri": "https://jisho.org/search/%F0%A0%82%A4%23kanji"
+  }
+}

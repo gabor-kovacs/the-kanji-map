@@ -1,1 +1,40 @@
-{"id":"旆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"旆","found":true,"strokeCount":10,"meaning":"flag","kunyomi":["はた"],"onyomi":["ハイ"],"onyomiExamples":[{"example":"大旆","reading":"タイハイ","meaning":"banner (imperial, shogun, etc.), standard"}],"kunyomiExamples":[],"radical":{"symbol":"方","meaning":"square"},"parts":["乞","凵","巾","干","方","缶"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26054_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065c6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65c6.gif","uri":"https://jisho.org/search/%E6%97%86%23kanji"}}
+{
+  "id": "旆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "旆",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "flag",
+    "kunyomi": [
+      "はた"
+    ],
+    "onyomi": [
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "大旆",
+        "reading": "タイハイ",
+        "meaning": "banner (imperial, shogun, etc.), standard"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "方",
+      "meaning": "square"
+    },
+    "parts": [
+      "乞",
+      "凵",
+      "巾",
+      "干",
+      "方",
+      "缶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26054_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065c6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65c6.gif",
+    "uri": "https://jisho.org/search/%E6%97%86%23kanji"
+  }
+}

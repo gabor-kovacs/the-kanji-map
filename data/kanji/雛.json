@@ -1,1 +1,93 @@
-{"id":"雛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"雛","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2241","strokeCount":18,"meaning":"chick, squab, duckling, doll","kunyomi":["ひな","ひよこ"],"onyomi":["スウ","ス","ジュ"],"onyomiExamples":[{"example":"雛妓","reading":"スウギ","meaning":"child geisha, geisha apprentice"},{"example":"雛僧","reading":"スウソウ","meaning":"young priest"},{"example":"鳳雛","reading":"ホウスウ","meaning":"gifted young person who shows much promise"},{"example":"臥竜鳳雛","reading":"ガリョウホウスウ","meaning":"gifted young person who shows much promise, unrecognized genius, great person whose talent is hidden under a bushel"},{"example":"雛妓","reading":"スウギ","meaning":"child geisha, geisha apprentice"},{"example":"雛僧","reading":"スウソウ","meaning":"young priest"}],"kunyomiExamples":[{"example":"雛","reading":"ひな","meaning":"young bird, chick, fledgling, hina doll, doll displayed during the Girls' Festival"},{"example":"ひな祭り","reading":"ひなまつり","meaning":"Hinamatsuri (March 3), Girls' Festival, Dolls' Festival"},{"example":"巣雛","reading":"すひな","meaning":"nestling"},{"example":"雛","reading":"ひよこ","meaning":"young bird, chick, fledgling, greenhorn, fledgeling, novice, rookie"},{"example":"ひよこ豆","reading":"ひよこまめ","meaning":"chickpea (Cicer arietinum), garbanzo bean"}],"radical":{"symbol":"隹","meaning":"small bird"},"parts":["勹","屮","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38619_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096db.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96db.gif","uri":"https://jisho.org/search/%E9%9B%9B%23kanji"}}
+{
+  "id": "雛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雛",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2241",
+    "strokeCount": 18,
+    "meaning": "chick, squab, duckling, doll",
+    "kunyomi": [
+      "ひな",
+      "ひよこ"
+    ],
+    "onyomi": [
+      "スウ",
+      "ス",
+      "ジュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雛妓",
+        "reading": "スウギ",
+        "meaning": "child geisha, geisha apprentice"
+      },
+      {
+        "example": "雛僧",
+        "reading": "スウソウ",
+        "meaning": "young priest"
+      },
+      {
+        "example": "鳳雛",
+        "reading": "ホウスウ",
+        "meaning": "gifted young person who shows much promise"
+      },
+      {
+        "example": "臥竜鳳雛",
+        "reading": "ガリョウホウスウ",
+        "meaning": "gifted young person who shows much promise, unrecognized genius, great person whose talent is hidden under a bushel"
+      },
+      {
+        "example": "雛妓",
+        "reading": "スウギ",
+        "meaning": "child geisha, geisha apprentice"
+      },
+      {
+        "example": "雛僧",
+        "reading": "スウソウ",
+        "meaning": "young priest"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "雛",
+        "reading": "ひな",
+        "meaning": "young bird, chick, fledgling, hina doll, doll displayed during the Girls' Festival"
+      },
+      {
+        "example": "ひな祭り",
+        "reading": "ひなまつり",
+        "meaning": "Hinamatsuri (March 3), Girls' Festival, Dolls' Festival"
+      },
+      {
+        "example": "巣雛",
+        "reading": "すひな",
+        "meaning": "nestling"
+      },
+      {
+        "example": "雛",
+        "reading": "ひよこ",
+        "meaning": "young bird, chick, fledgling, greenhorn, fledgeling, novice, rookie"
+      },
+      {
+        "example": "ひよこ豆",
+        "reading": "ひよこまめ",
+        "meaning": "chickpea (Cicer arietinum), garbanzo bean"
+      }
+    ],
+    "radical": {
+      "symbol": "隹",
+      "meaning": "small bird"
+    },
+    "parts": [
+      "勹",
+      "屮",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38619_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96db.gif",
+    "uri": "https://jisho.org/search/%E9%9B%9B%23kanji"
+  }
+}

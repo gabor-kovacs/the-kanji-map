@@ -1,1 +1,40 @@
-{"id":"侏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"侏","found":true,"strokeCount":8,"meaning":"actor, supporting post","kunyomi":[],"onyomi":["シュ"],"onyomiExamples":[{"example":"朱儒","reading":"シュジュ","meaning":"dwarf"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["ノ","ハ","化","木","牛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20367_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f8f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f8f.gif","uri":"https://jisho.org/search/%E4%BE%8F%23kanji"}}
+{
+  "id": "侏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "侏",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "actor, supporting post",
+    "kunyomi": [],
+    "onyomi": [
+      "シュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "朱儒",
+        "reading": "シュジュ",
+        "meaning": "dwarf"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "化",
+      "木",
+      "牛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20367_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f8f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f8f.gif",
+    "uri": "https://jisho.org/search/%E4%BE%8F%23kanji"
+  }
+}

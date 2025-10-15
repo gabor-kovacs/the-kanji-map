@@ -1,1 +1,71 @@
-{"id":"蔭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蔭","found":true,"newspaperFrequencyRank":"2166","strokeCount":14,"meaning":"shade, shadow, backing assistance","kunyomi":["かげ"],"onyomi":["イン","オン"],"onyomiExamples":[{"example":"緑陰","reading":"リョクイン","meaning":"shade of trees"},{"example":"庇陰","reading":"ヒイン","meaning":"protection, shield, shadow of eaves"}],"kunyomiExamples":[{"example":"陰","reading":"かげ","meaning":"shade, shadow, behind (something), other side, back, background, behind the scenes, behind someone's back, gloom (in someone's expression, nature, etc.), darkness"},{"example":"陰口","reading":"かげぐち","meaning":"malicious gossip, backbiting, speaking ill behind someone's back"},{"example":"物陰","reading":"ものかげ","meaning":"place hidden from view, cover, shelter, hiding place"},{"example":"小陰","reading":"こかげ","meaning":"small hiding place, nook"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","个","二","厶","艾","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34093_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0852d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/852d.gif","uri":"https://jisho.org/search/%E8%94%AD%23kanji"}}
+{
+  "id": "蔭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔭",
+    "found": true,
+    "newspaperFrequencyRank": "2166",
+    "strokeCount": 14,
+    "meaning": "shade, shadow, backing assistance",
+    "kunyomi": [
+      "かげ"
+    ],
+    "onyomi": [
+      "イン",
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "大阪桐蔭",
+        "reading": "オオサカトウイン",
+        "meaning": "Osaka Tōin Junior and Senior High School (abbr)"
+      },
+      {
+        "example": "緑陰",
+        "reading": "リョクイン",
+        "meaning": "shade of trees"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "陰",
+        "reading": "かげ",
+        "meaning": "shade, shadow, behind (something), other side, back, the background, behind the scenes, behind someone's back, gloom (in someone's expression, nature, etc.), darkness"
+      },
+      {
+        "example": "陰口",
+        "reading": "かげぐち",
+        "meaning": "malicious gossip, backbiting, speaking ill behind someone's back"
+      },
+      {
+        "example": "物陰",
+        "reading": "ものかげ",
+        "meaning": "place hidden from view, cover, shelter, hiding place"
+      },
+      {
+        "example": "小陰",
+        "reading": "こかげ",
+        "meaning": "small hiding place, nook"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "个",
+      "二",
+      "厶",
+      "艾",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34093_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0852d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/852d.gif",
+    "uri": "https://jisho.org/search/%E8%94%AD%23kanji"
+  }
+}

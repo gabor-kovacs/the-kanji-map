@@ -1,1 +1,78 @@
-{"id":"夷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"夷","found":true,"newspaperFrequencyRank":"2324","strokeCount":6,"meaning":"barbarian, savage, Ainu","kunyomi":["えびす","えみし","ころ.す","たい.らげる"],"onyomi":["イ"],"onyomiExamples":[{"example":"夷","reading":"イ","meaning":"barbarian"},{"example":"夷国","reading":"イコク","meaning":"land of the barbarians"},{"example":"攘夷","reading":"ジョウイ","meaning":"expulsion of foreigners"},{"example":"征夷","reading":"セイイ","meaning":"defeating barbarians (esp. the Emishi), conquering barbarians"}],"kunyomiExamples":[{"example":"夷","reading":"えびす","meaning":"peoples formerly of northern Japan with distinct language and culture (i.e. the Ainu), provincial (i.e. a person who lives far from the city), brutish, unsophisticated warrior (esp. used by Kyoto samurai to refer to samurai from eastern Japan), foreigner, barbarian"},{"example":"恵比寿","reading":"えびす","meaning":"Ebisu, god of fishing and commerce"},{"example":"東夷","reading":"あずまえびす","meaning":"warrior from the eastern parts of Japan, eastern barbarians, people east of China (from the perspective of China)"},{"example":"荒夷","reading":"あらえびす","meaning":"(in Japanese history) crude warrior from the eastern parts of the country, wild man"}],"radical":{"symbol":"大","meaning":"big, very"},"parts":["ノ","一","大","弓"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22839_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05937.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5937.gif","uri":"https://jisho.org/search/%E5%A4%B7%23kanji"}}
+{
+  "id": "夷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "夷",
+    "found": true,
+    "newspaperFrequencyRank": "2324",
+    "strokeCount": 6,
+    "meaning": "barbarian, savage, Ainu",
+    "kunyomi": [
+      "えびす",
+      "えみし",
+      "ころ.す",
+      "たい.らげる"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "夷",
+        "reading": "イ",
+        "meaning": "barbarian"
+      },
+      {
+        "example": "夷国",
+        "reading": "イコク",
+        "meaning": "land of the barbarians"
+      },
+      {
+        "example": "攘夷",
+        "reading": "ジョウイ",
+        "meaning": "expulsion of foreigners"
+      },
+      {
+        "example": "征夷",
+        "reading": "セイイ",
+        "meaning": "defeating barbarians (esp. the Emishi), conquering barbarians"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "夷",
+        "reading": "えびす",
+        "meaning": "peoples formerly of northern Japan with distinct language and culture (i.e. the Ainu), provincial (i.e. a person who lives far from the city), brutish, unsophisticated warrior (esp. used by Kyoto samurai to refer to samurai from eastern Japan), foreigner, barbarian"
+      },
+      {
+        "example": "恵比寿",
+        "reading": "えびす",
+        "meaning": "Ebisu, god of fishing and commerce"
+      },
+      {
+        "example": "東夷",
+        "reading": "あずまえびす",
+        "meaning": "warrior from the eastern parts of Japan, eastern barbarians, people east of China (from the perspective of China)"
+      },
+      {
+        "example": "荒夷",
+        "reading": "あらえびす",
+        "meaning": "crude warrior from the eastern parts of Japan, wild man"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "大",
+      "弓"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22839_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05937.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5937.gif",
+    "uri": "https://jisho.org/search/%E5%A4%B7%23kanji"
+  }
+}

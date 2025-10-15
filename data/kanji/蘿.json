@@ -1,1 +1,53 @@
-{"id":"蘿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蘿","found":true,"strokeCount":22,"meaning":"ivy","kunyomi":["つた"],"onyomi":["ラ"],"onyomiExamples":[{"example":"蘿蔔","reading":"スズシロ","meaning":"daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)"},{"example":"蔦蔓","reading":"ツタカズラ","meaning":"ivy and vines, creepers"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["小","幺","糸","艾","買","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34367_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0863f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/863f.gif","uri":"https://jisho.org/search/%E8%98%BF%23kanji"}}
+{
+  "id": "蘿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蘿",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "ivy",
+    "kunyomi": [
+      "つた"
+    ],
+    "onyomi": [
+      "ラ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蘿蔔",
+        "reading": "スズシロ",
+        "meaning": "daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)"
+      },
+      {
+        "example": "松蘿",
+        "reading": "ショウラ",
+        "meaning": "old man's beard (any lichen of genus Usnea), pine tree vines, deep entanglement"
+      },
+      {
+        "example": "蔦蔓",
+        "reading": "ツタカズラ",
+        "meaning": "ivy and vines, creepers"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "糸",
+      "艾",
+      "買",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34367_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0863f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/863f.gif",
+    "uri": "https://jisho.org/search/%E8%98%BF%23kanji"
+  }
+}

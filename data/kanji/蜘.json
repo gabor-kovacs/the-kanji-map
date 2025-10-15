@@ -1,1 +1,49 @@
-{"id":"蜘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蜘","found":true,"strokeCount":14,"meaning":"spider","kunyomi":["くも"],"onyomi":["チ"],"onyomiExamples":[{"example":"蜘蛛","reading":"クモ","meaning":"spider"}],"kunyomiExamples":[{"example":"蜘蛛","reading":"くも","meaning":"spider"},{"example":"くも貝","reading":"くもがい","meaning":"spider conch (Lambis lambis)"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["乞","口","矢","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34584_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08718.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8718.gif","uri":"https://jisho.org/search/%E8%9C%98%23kanji"}}
+{
+  "id": "蜘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜘",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "spider",
+    "kunyomi": [
+      "くも"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蜘蛛",
+        "reading": "クモ",
+        "meaning": "spider"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蜘蛛",
+        "reading": "くも",
+        "meaning": "spider"
+      },
+      {
+        "example": "くも貝",
+        "reading": "くもがい",
+        "meaning": "spider conch (Lambis lambis)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "乞",
+      "口",
+      "矢",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34584_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08718.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8718.gif",
+    "uri": "https://jisho.org/search/%E8%9C%98%23kanji"
+  }
+}

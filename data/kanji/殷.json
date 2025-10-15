@@ -1,1 +1,49 @@
-{"id":"殷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"殷","found":true,"strokeCount":10,"meaning":"flourishing","kunyomi":["さかん"],"onyomi":["イン","アン"],"onyomiExamples":[{"example":"殷","reading":"イン","meaning":"Shang dynasty (of China; approx. 1600-1046 BCE), Yin dynasty"},{"example":"殷々","reading":"インイン","meaning":"roaring, booming, bellowing, pealing, reverberating, rumbling"},{"example":"殷々","reading":"インイン","meaning":"roaring, booming, bellowing, pealing, reverberating, rumbling"}],"kunyomiExamples":[],"radical":{"symbol":"殳","meaning":"weapon, lance"},"parts":["几","厂","又","殳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27575_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb7.gif","uri":"https://jisho.org/search/%E6%AE%B7%23kanji"}}
+{
+  "id": "殷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殷",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "flourishing",
+    "kunyomi": [
+      "さかん"
+    ],
+    "onyomi": [
+      "イン",
+      "アン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "殷",
+        "reading": "イン",
+        "meaning": "Shang dynasty (of China; approx. 1600-1046 BCE), Yin dynasty"
+      },
+      {
+        "example": "殷々",
+        "reading": "インイン",
+        "meaning": "roaring, booming, bellowing, pealing, reverberating, rumbling"
+      },
+      {
+        "example": "殷々",
+        "reading": "インイン",
+        "meaning": "roaring, booming, bellowing, pealing, reverberating, rumbling"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "殳",
+      "meaning": "weapon, lance"
+    },
+    "parts": [
+      "几",
+      "厂",
+      "又",
+      "殳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27575_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb7.gif",
+    "uri": "https://jisho.org/search/%E6%AE%B7%23kanji"
+  }
+}

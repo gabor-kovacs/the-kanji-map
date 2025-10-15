@@ -1,1 +1,54 @@
-{"id":"梧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梧","found":true,"jlptLevel":"N1","strokeCount":11,"meaning":"Chinese parasol tree, phoenix tree","kunyomi":["あおぎり"],"onyomi":["ゴ"],"onyomiExamples":[{"example":"梧桐","reading":"アオギリ","meaning":"Chinese parasol-tree (Firmiana simplex), Chinese-bottletree, Japanese varnishtree, phoenix-tree"},{"example":"牴牾","reading":"テイゴ","meaning":"disagreement, conflict, clash, discrepancy, inconsistency"},{"example":"梯梧","reading":"デイゴ","meaning":"Indian coral tree (Erythrina variegata)"}],"kunyomiExamples":[{"example":"梧桐","reading":"あおぎり","meaning":"Chinese parasol-tree (Firmiana simplex), Chinese-bottletree, Japanese varnishtree, phoenix-tree"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["五","口","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26791_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068a7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68a7.gif","uri":"https://jisho.org/search/%E6%A2%A7%23kanji"}}
+{
+  "id": "梧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梧",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 11,
+    "meaning": "Chinese parasol tree, phoenix tree",
+    "kunyomi": [
+      "あおぎり"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梧桐",
+        "reading": "アオギリ",
+        "meaning": "Chinese parasol-tree (Firmiana simplex), Chinese-bottletree, Japanese varnishtree, phoenix-tree"
+      },
+      {
+        "example": "牴牾",
+        "reading": "テイゴ",
+        "meaning": "disagreement, conflict, clash, discrepancy, inconsistency"
+      },
+      {
+        "example": "梯梧",
+        "reading": "デイゴ",
+        "meaning": "Indian coral tree (Erythrina variegata)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梧桐",
+        "reading": "あおぎり",
+        "meaning": "Chinese parasol-tree (Firmiana simplex), Chinese-bottletree, Japanese varnishtree, phoenix-tree"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "五",
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26791_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068a7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68a7.gif",
+    "uri": "https://jisho.org/search/%E6%A2%A7%23kanji"
+  }
+}

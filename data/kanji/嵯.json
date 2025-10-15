@@ -1,1 +1,46 @@
-{"id":"嵯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嵯","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2191","strokeCount":13,"meaning":"steep, craggy, rugged","kunyomi":[],"onyomi":["サ","シ"],"onyomiExamples":[{"example":"嵯峨","reading":"サガ","meaning":"precipitous"}],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["ノ","山","工","并","王","羊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23919_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d6f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d6f.gif","uri":"https://jisho.org/search/%E5%B5%AF%23kanji"}}
+{
+  "id": "嵯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嵯",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2191",
+    "strokeCount": 13,
+    "meaning": "steep, craggy, rugged",
+    "kunyomi": [],
+    "onyomi": [
+      "サ",
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嵯峨",
+        "reading": "サガ",
+        "meaning": "precipitous"
+      },
+      {
+        "example": "嵯峨野線",
+        "reading": "サガノセン",
+        "meaning": "Sagano Line (Kyoto)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "ノ",
+      "山",
+      "工",
+      "并",
+      "王",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23919_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d6f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d6f.gif",
+    "uri": "https://jisho.org/search/%E5%B5%AF%23kanji"
+  }
+}

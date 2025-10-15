@@ -1,1 +1,61 @@
-{"id":"滝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"滝","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1478","strokeCount":13,"meaning":"waterfall, rapids, cascade","kunyomi":["たき"],"onyomi":["ロウ","ソウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"滝","reading":"たき","meaning":"waterfall, rapids"},{"example":"滝川","reading":"たきがわ","meaning":"rapids"},{"example":"小滝","reading":"おたき","meaning":"cascade"},{"example":"白滝","reading":"しらたき","meaning":"shirataki noodles, white noodles made from konjak starch, often used in sukiyaki, waterfall resembling a white sheet"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["汁","田","立","竜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28381_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06edd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6edd.gif","uri":"https://jisho.org/search/%E6%BB%9D%23kanji"}}
+{
+  "id": "滝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滝",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1478",
+    "strokeCount": 13,
+    "meaning": "waterfall, rapids, cascade",
+    "kunyomi": [
+      "たき"
+    ],
+    "onyomi": [
+      "ロウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "滝",
+        "reading": "たき",
+        "meaning": "waterfall, rapids"
+      },
+      {
+        "example": "滝川",
+        "reading": "たきがわ",
+        "meaning": "rapids"
+      },
+      {
+        "example": "白滝",
+        "reading": "しらたき",
+        "meaning": "shirataki noodles, white noodles made from konjak starch, often used in sukiyaki, waterfall resembling a white sheet"
+      },
+      {
+        "example": "枯滝",
+        "reading": "かれたき",
+        "meaning": "dried up waterfall, dry waterfall, simulated waterfall in a dry garden"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "汁",
+      "田",
+      "立",
+      "竜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28381_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06edd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6edd.gif",
+    "uri": "https://jisho.org/search/%E6%BB%9D%23kanji"
+  }
+}

@@ -1,1 +1,38 @@
-{"id":"苜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"苜","found":true,"strokeCount":8,"meaning":"clover, medic","kunyomi":[],"onyomi":["モク","ボク"],"onyomiExamples":[{"example":"馬肥やし","reading":"ウマゴヤシ","meaning":"toothed medick (Medicago polymorpha), hairy medick, bur clover, white clover (Trifolium repens)"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["目","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33500_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082dc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82dc.gif","uri":"https://jisho.org/search/%E8%8B%9C%23kanji"}}
+{
+  "id": "苜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苜",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "clover, medic",
+    "kunyomi": [],
+    "onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "馬肥やし",
+        "reading": "ウマゴヤシ",
+        "meaning": "toothed medick (Medicago polymorpha), hairy medick, bur clover, white clover (Trifolium repens)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "目",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33500_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82dc.gif",
+    "uri": "https://jisho.org/search/%E8%8B%9C%23kanji"
+  }
+}

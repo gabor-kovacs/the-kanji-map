@@ -1,1 +1,88 @@
-{"id":"茸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"茸","found":true,"strokeCount":9,"meaning":"mushroom","kunyomi":["きのこ","たけ","しげ.る"],"onyomi":["ジョウ","ニュ"],"onyomiExamples":[{"example":"毛茸","reading":"モウジョウ","meaning":"hair, trichome"},{"example":"耳茸","reading":"ジジョウ","meaning":"ear polyp, aural polyp"}],"kunyomiExamples":[{"example":"茸","reading":"きのこ","meaning":"mushroom"},{"example":"キノコ狩り","reading":"キノコがり","meaning":"mushroom gathering"},{"example":"毒キノコ","reading":"どくキノコ","meaning":"toadstool, poisonous mushroom"},{"example":"紅茶キノコ","reading":"こうちゃキノコ","meaning":"kombucha, drink of northern Chinese origin made by fermentation of sweetened tea"},{"example":"茸","reading":"きのこ","meaning":"mushroom"},{"example":"キノコ狩り","reading":"キノコがり","meaning":"mushroom gathering"},{"example":"藍茸","reading":"あいたけ","meaning":"green-cracking russula (Russula virescens), quilted green russula, green brittlegill"},{"example":"舞茸","reading":"まいたけ","meaning":"hen-of-the-woods (species of polypore mushroom, Grifola frondosa)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["耳","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33592_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08338.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8338.gif","uri":"https://jisho.org/search/%E8%8C%B8%23kanji"}}
+{
+  "id": "茸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "茸",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "mushroom",
+    "kunyomi": [
+      "きのこ",
+      "たけ",
+      "しげ.る"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "ニュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "毛茸",
+        "reading": "モウジョウ",
+        "meaning": "hair, trichome"
+      },
+      {
+        "example": "鹿茸",
+        "reading": "ロクジョウ",
+        "meaning": "pilose antler (used in traditional Chinese medicine), velvet antler"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "茸",
+        "reading": "きのこ",
+        "meaning": "mushroom"
+      },
+      {
+        "example": "キノコ狩り",
+        "reading": "きのこがり",
+        "meaning": "mushrooming, mushroom picking, mushroom gathering"
+      },
+      {
+        "example": "幻覚キノコ",
+        "reading": "げんかくきのこ",
+        "meaning": "hallucinogenic mushroom, magic mushroom"
+      },
+      {
+        "example": "毒キノコ",
+        "reading": "どくキノコ",
+        "meaning": "toadstool, poisonous mushroom"
+      },
+      {
+        "example": "茸",
+        "reading": "きのこ",
+        "meaning": "mushroom"
+      },
+      {
+        "example": "キノコ狩り",
+        "reading": "きのこがり",
+        "meaning": "mushrooming, mushroom picking, mushroom gathering"
+      },
+      {
+        "example": "藍茸",
+        "reading": "あいたけ",
+        "meaning": "green-cracking russula (Russula virescens), quilted green russula, green brittlegill"
+      },
+      {
+        "example": "舞茸",
+        "reading": "まいたけ",
+        "meaning": "hen-of-the-woods (species of polypore mushroom, Grifola frondosa)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "耳",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33592_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08338.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8338.gif",
+    "uri": "https://jisho.org/search/%E8%8C%B8%23kanji"
+  }
+}

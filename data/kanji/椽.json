@@ -1,1 +1,43 @@
-{"id":"椽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"椽","found":true,"strokeCount":13,"meaning":"rafter, porch","kunyomi":["えん","たるき"],"onyomi":["テン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"縁側","reading":"えんがわ","meaning":"engawa, external corridor on the outer side of traditional Japanese houses, bone at the base of a fin, meat at the base of a fin (esp. of a flatfish)"},{"example":"垂木","reading":"たるき","meaning":"rafter"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ヨ","木","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26941_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0693d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/693d.gif","uri":"https://jisho.org/search/%E6%A4%BD%23kanji"}}
+{
+  "id": "椽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椽",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "rafter, porch",
+    "kunyomi": [
+      "えん",
+      "たるき"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "縁側",
+        "reading": "えんがわ",
+        "meaning": "engawa, external corridor on the outer side of traditional Japanese houses, bone at the base of a fin (esp. of a flatfish), meat at the base of a fin"
+      },
+      {
+        "example": "垂木",
+        "reading": "たるき",
+        "meaning": "rafter"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ヨ",
+      "木",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26941_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0693d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/693d.gif",
+    "uri": "https://jisho.org/search/%E6%A4%BD%23kanji"
+  }
+}

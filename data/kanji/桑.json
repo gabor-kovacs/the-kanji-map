@@ -1,1 +1,60 @@
-{"id":"桑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"桑","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1650","strokeCount":10,"meaning":"mulberry","kunyomi":["くわ"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"桑田","reading":"ソウデン","meaning":"mulberry plantation"},{"example":"桑園","reading":"ソウエン","meaning":"mulberry plantation"},{"example":"扶桑","reading":"フソウ","meaning":"divine tree or island east of China (in Chinese mythology), Fusang, Japan, Chinese hibiscus (Hibiscus rosa-sinensis)"}],"kunyomiExamples":[{"example":"桑","reading":"くわ","meaning":"mulberry (tree)"},{"example":"桑原","reading":"くわばら","meaning":"mulberry field"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["又","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26705_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06851.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6851.gif","uri":"https://jisho.org/search/%E6%A1%91%23kanji"}}
+{
+  "id": "桑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桑",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1650",
+    "strokeCount": 10,
+    "meaning": "mulberry",
+    "kunyomi": [
+      "くわ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桑田",
+        "reading": "ソウデン",
+        "meaning": "mulberry plantation"
+      },
+      {
+        "example": "桑園",
+        "reading": "ソウエン",
+        "meaning": "mulberry plantation"
+      },
+      {
+        "example": "扶桑",
+        "reading": "フソウ",
+        "meaning": "divine tree or island east of China, Fusang, Japan, Chinese hibiscus (Hibiscus rosa-sinensis)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "桑",
+        "reading": "くわ",
+        "meaning": "mulberry (tree)"
+      },
+      {
+        "example": "桑原",
+        "reading": "くわばら",
+        "meaning": "mulberry field"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "又",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26705_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06851.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6851.gif",
+    "uri": "https://jisho.org/search/%E6%A1%91%23kanji"
+  }
+}

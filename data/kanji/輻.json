@@ -1,1 +1,48 @@
-{"id":"輻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"輻","found":true,"strokeCount":16,"meaning":"spoke (wheel)","kunyomi":["や"],"onyomi":["フク"],"onyomiExamples":[{"example":"輻射","reading":"フクシャ","meaning":"radiation"},{"example":"輻射エネルギー","reading":"フクシャエネルギー","meaning":"radiant energy"}],"kunyomiExamples":[{"example":"輻","reading":"や","meaning":"spoke"}],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["口","田","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36667_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f3b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f3b.gif","uri":"https://jisho.org/search/%E8%BC%BB%23kanji"}}
+{
+  "id": "輻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輻",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "spoke (wheel)",
+    "kunyomi": [
+      "や"
+    ],
+    "onyomi": [
+      "フク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "輻射",
+        "reading": "フクシャ",
+        "meaning": "radiation"
+      },
+      {
+        "example": "輻射エネルギー",
+        "reading": "フクシャエネルギー",
+        "meaning": "radiant energy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "輻",
+        "reading": "や",
+        "meaning": "spoke"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "口",
+      "田",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36667_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f3b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f3b.gif",
+    "uri": "https://jisho.org/search/%E8%BC%BB%23kanji"
+  }
+}

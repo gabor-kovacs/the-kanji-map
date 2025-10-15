@@ -1,1 +1,55 @@
-{"id":"廉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廉","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2066","strokeCount":13,"meaning":"bargain, reason, charge, suspicion, point, account, purity, honest, low price, cheap, rested, contented, peaceful","kunyomi":[],"onyomi":["レン"],"onyomiExamples":[{"example":"廉","reading":"レン","meaning":"cheap, inexpensive, pure, honest, upright"},{"example":"廉価","reading":"レンカ","meaning":"low price, moderate price"},{"example":"清廉","reading":"セイレン","meaning":"honest, upright, cleanhanded, unselfish"},{"example":"低廉","reading":"テイレン","meaning":"cheap, inexpensive"}],"kunyomiExamples":[],"radical":{"symbol":"广","meaning":"house on cliff"},"parts":["ハ","ヨ","并","广","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24265_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ec9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ec9.gif","uri":"https://jisho.org/search/%E5%BB%89%23kanji"}}
+{
+  "id": "廉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廉",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2066",
+    "strokeCount": 13,
+    "meaning": "bargain, reason, charge, suspicion, point, account, purity, honest, low price, cheap, rested, contented, peaceful",
+    "kunyomi": [],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廉",
+        "reading": "レン",
+        "meaning": "cheap, inexpensive, pure, honest, upright"
+      },
+      {
+        "example": "廉価",
+        "reading": "レンカ",
+        "meaning": "low price, moderate price"
+      },
+      {
+        "example": "清廉",
+        "reading": "セイレン",
+        "meaning": "honest, upright, cleanhanded, unselfish"
+      },
+      {
+        "example": "低廉",
+        "reading": "テイレン",
+        "meaning": "cheap, inexpensive"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "广",
+      "meaning": "house on cliff"
+    },
+    "parts": [
+      "ハ",
+      "ヨ",
+      "并",
+      "广",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24265_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ec9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ec9.gif",
+    "uri": "https://jisho.org/search/%E5%BB%89%23kanji"
+  }
+}

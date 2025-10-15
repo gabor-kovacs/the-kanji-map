@@ -1,1 +1,76 @@
-{"id":"屏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"屏","found":true,"newspaperFrequencyRank":"2002","strokeCount":9,"meaning":"wall, fence","kunyomi":["おお.う","しりぞ.く","びょう.ぶ"],"onyomi":["ヘイ","ビョウ"],"onyomiExamples":[{"example":"塀","reading":"ヘイ","meaning":"wall, fence"},{"example":"屏居","reading":"ヘイキョ","meaning":"living in retirement"},{"example":"障屏","reading":"ショウヘイ","meaning":"partitions in a Japanese house (e.g. screens, sliding doors, etc.)"},{"example":"屏風","reading":"ビョウブ","meaning":"folding screen"},{"example":"屏風岩","reading":"ビョウブイワ","meaning":"sheer cliff"}],"kunyomiExamples":[{"example":"屏風","reading":"びょうぶ","meaning":"folding screen"},{"example":"屏風岩","reading":"びょうぶいわ","meaning":"sheer cliff"}],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["ノ","一","二","尸","并","廾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23631_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4f.gif","uri":"https://jisho.org/search/%E5%B1%8F%23kanji"}}
+{
+  "id": "屏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屏",
+    "found": true,
+    "newspaperFrequencyRank": "2002",
+    "strokeCount": 9,
+    "meaning": "wall, fence",
+    "kunyomi": [
+      "おお.う",
+      "しりぞ.く",
+      "びょう.ぶ"
+    ],
+    "onyomi": [
+      "ヘイ",
+      "ビョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "塀",
+        "reading": "ヘイ",
+        "meaning": "wall, fence"
+      },
+      {
+        "example": "屏居",
+        "reading": "ヘイキョ",
+        "meaning": "living in retirement"
+      },
+      {
+        "example": "障屏",
+        "reading": "ショウヘイ",
+        "meaning": "partitions in a Japanese house (e.g. screens, sliding doors, etc.)"
+      },
+      {
+        "example": "屏風",
+        "reading": "ビョウブ",
+        "meaning": "folding screen"
+      },
+      {
+        "example": "屏風岩",
+        "reading": "ビョウブイワ",
+        "meaning": "sheer cliff"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "屏風",
+        "reading": "びょうぶ",
+        "meaning": "folding screen"
+      },
+      {
+        "example": "屏風岩",
+        "reading": "びょうぶいわ",
+        "meaning": "sheer cliff"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "尸",
+      "并",
+      "廾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23631_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4f.gif",
+    "uri": "https://jisho.org/search/%E5%B1%8F%23kanji"
+  }
+}

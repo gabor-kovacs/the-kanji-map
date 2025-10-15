@@ -1,1 +1,404 @@
-{"id":"電","kanjialiveData":{"kanji":{"character":"電","meaning":{"english":"electricity"},"strokes":{"count":13,"timings":[0,2.513,3.653,4.993,6.131,7.07,7.806,8.678,9.481,10.619,11.96,12.831,13.701,15.586592],"images":["https://media.kanjialive.com/kanji_strokes/den(wa)_1.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_2.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_3.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_4.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_5.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_6.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_7.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_8.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_9.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_10.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_11.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_12.svg","https://media.kanjialive.com/kanji_strokes/den(wa)_13.svg"]},"onyomi":{"romaji":"den","katakana":"デン"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/den(wa)_13.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/den(wa)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/den(wa)_00.webm"}},"radical":{"character":"⻗","strokes":8,"image":"https://media.kanjialive.com/radical_character/amekanmuri.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"あめかんむり","romaji":"amekanmuri"},"meaning":{"english":"rain"},"animation":["https://media.kanjialive.com/rad_frames/amekanmuri0.svg","https://media.kanjialive.com/rad_frames/amekanmuri1.svg","https://media.kanjialive.com/rad_frames/amekanmuri2.svg"]},"references":{"grade":2,"kodansha":"1784","classic_nelson":"5050"},"examples":[{"japanese":"電話する（でんわする）","meaning":{"english":"make a telephone call"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_a.mp3"}},{"japanese":"発電する（はつでんする）","meaning":{"english":"generate power"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_b.mp3"}},{"japanese":"電話（でんわ）","meaning":{"english":"telephone"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_c.mp3"}},{"japanese":"電話番号（でんわばんごう）","meaning":{"english":"phone number"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_d.mp3"}},{"japanese":"電気（でんき）","meaning":{"english":"electricity"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_e.mp3"}},{"japanese":"電気屋（でんきや）","meaning":{"english":"electric appliance store"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_f.mp3"}},{"japanese":"電車（でんしゃ）","meaning":{"english":"train"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_g.mp3"}},{"japanese":"電子レンジ（でんしレンジ）","meaning":{"english":"microwave oven"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_h.mp3"}},{"japanese":"終電（しゅうでん）","meaning":{"english":"last train"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_i.mp3"}},{"japanese":"停電（ていでん）","meaning":{"english":"loss of electricity, blackout"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_j.mp3"}}]},"jishoData":{"query":"電","found":true,"taughtIn":"grade 2","jlptLevel":"N5","newspaperFrequencyRank":"268","strokeCount":13,"meaning":"electricity","kunyomi":[],"onyomi":["デン"],"onyomiExamples":[{"example":"電化","reading":"デンカ","meaning":"electrification"},{"example":"電圧","reading":"デンアツ","meaning":"voltage"},{"example":"送電","reading":"ソウデン","meaning":"transmission of electricity, electricity supply, power supply"},{"example":"配電","reading":"ハイデン","meaning":"distribution of electricity"}],"kunyomiExamples":[],"radical":{"symbol":"雨","meaning":"rain"},"parts":["乙","田","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38651_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096fb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96fb.gif","uri":"https://jisho.org/search/%E9%9B%BB%23kanji"}}
+{
+  "id": "電",
+  "kanjialiveData": {
+    "_id": "54317ae0791eba5146ee4928",
+    "_rev": "9-62ff3e2ced996b381752d1cf36f90551",
+    "rad_name_ja": "あめかんむり",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "electricity",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "電話する（でんわする）",
+        "meaning": {
+          "english": "make a telephone call"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "発電する（はつでんする）",
+        "meaning": {
+          "english": "generate power"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "電話（でんわ）",
+        "meaning": {
+          "english": "telephone"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "電話番号（でんわばんごう）",
+        "meaning": {
+          "english": "phone number"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "電気（でんき）",
+        "meaning": {
+          "english": "electricity"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "電気屋（でんきや）",
+        "meaning": {
+          "english": "electric appliance store"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "電車（でんしゃ）",
+        "meaning": {
+          "english": "train"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "電子レンジ（でんしレンジ）",
+        "meaning": {
+          "english": "microwave oven"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "終電（しゅうでん）",
+        "meaning": {
+          "english": "last train"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "停電（ていでん）",
+        "meaning": {
+          "english": "loss of electricity, blackout"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/den(wa)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/den(wa)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "電",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=電",
+    "rad_name_search": [
+      "amekanmuri"
+    ],
+    "rad_order": 211,
+    "txt_books": [
+      {
+        "chapter": "14",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "10"
+      }
+    ],
+    "kname": "den(wa)",
+    "rad_utf": "⻗",
+    "stroketimes": [
+      0,
+      2.513,
+      3.653,
+      4.993,
+      6.131,
+      7.07,
+      7.806,
+      8.678,
+      9.481,
+      10.619,
+      11.96,
+      12.831,
+      13.701,
+      15.586592
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1784",
+    "rad_name": "amekanmuri",
+    "dicn": "5050",
+    "mn_hint": "Like a dragon's tail 电 during a rainstorm 雨.",
+    "rad_stroke": 8,
+    "onyomi_ja": "デン",
+    "rad_meaning": "rain",
+    "onyomi": "den",
+    "ka_id": "ka_131",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "den",
+      "den"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "electricity",
+      "electricity"
+    ],
+    "onyomi_ja_search": [
+      "デン",
+      "デン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "rain",
+      "rain"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "あめかんむり"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:14",
+      "cij:c14",
+      "bk",
+      "bk:12",
+      "bk:c12",
+      "aij3",
+      "aij3:11",
+      "aij3:c11",
+      "aij3:v2",
+      "aij3:v2:11",
+      "aij3:v2:c11",
+      "gen",
+      "gen:8",
+      "gen:c8",
+      "ap",
+      "ap:15",
+      "ap:c15",
+      "kll",
+      "kll:7",
+      "kll:c7",
+      "cijr",
+      "cijr:10",
+      "cijr:c10"
+    ],
+    "rad_name_file": "amekanmuri",
+    "kanji": {
+      "character": "電",
+      "meaning": {
+        "english": "electricity"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0,
+          2.513,
+          3.653,
+          4.993,
+          6.131,
+          7.07,
+          7.806,
+          8.678,
+          9.481,
+          10.619,
+          11.96,
+          12.831,
+          13.701,
+          15.586592
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/den(wa)_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "den",
+        "katakana": "デン"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/den(wa)_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/den(wa)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/den(wa)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⻗",
+      "strokes": 8,
+      "image": "https://media.kanjialive.com/radical_character/amekanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "あめかんむり",
+        "romaji": "amekanmuri"
+      },
+      "meaning": {
+        "english": "rain"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/amekanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/amekanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/amekanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1784",
+      "classic_nelson": "5050"
+    }
+  },
+  "jishoData": {
+    "query": "電",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "268",
+    "strokeCount": 13,
+    "meaning": "electricity",
+    "kunyomi": [],
+    "onyomi": [
+      "デン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "電化",
+        "reading": "デンカ",
+        "meaning": "electrification"
+      },
+      {
+        "example": "電圧",
+        "reading": "デンアツ",
+        "meaning": "voltage"
+      },
+      {
+        "example": "送電",
+        "reading": "ソウデン",
+        "meaning": "transmission of electricity, electricity supply, power supply"
+      },
+      {
+        "example": "配電",
+        "reading": "ハイデン",
+        "meaning": "distribution of electricity"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "乙",
+      "田",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38651_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96fb.gif",
+    "uri": "https://jisho.org/search/%E9%9B%BB%23kanji"
+  }
+}

@@ -1,1 +1,52 @@
-{"id":"檻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"檻","found":true,"strokeCount":19,"meaning":"pen, corral, cell, jail","kunyomi":["おり","おばしま","てすり"],"onyomi":["カン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"檻","reading":"おり","meaning":"cage, pen, (jail) cell"},{"example":"象の檻","reading":"ぞうのおり","meaning":"elephant cage, Wullenweber antenna, large circular antenna array used for radio direction finding"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["乞","二","木","皿","臣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27323_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06abb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6abb.gif","uri":"https://jisho.org/search/%E6%AA%BB%23kanji"}}
+{
+  "id": "檻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "檻",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "pen, corral, cell, jail",
+    "kunyomi": [
+      "おり",
+      "おばしま",
+      "てすり"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "監房",
+        "reading": "カンボウ",
+        "meaning": "(prison) cell, ward"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "檻",
+        "reading": "おり",
+        "meaning": "cage, pen, (jail) cell"
+      },
+      {
+        "example": "象の檻",
+        "reading": "ぞうのおり",
+        "meaning": "elephant cage, Wullenweber antenna, large circular antenna array used for radio direction finding"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "木",
+      "皿",
+      "臣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27323_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06abb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6abb.gif",
+    "uri": "https://jisho.org/search/%E6%AA%BB%23kanji"
+  }
+}

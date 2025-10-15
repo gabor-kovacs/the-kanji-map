@@ -1,1 +1,62 @@
-{"id":"漬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"漬","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1818","strokeCount":14,"meaning":"pickling, soak, moisten, steep","kunyomi":["つ.ける","つ.かる","-づ.け","-づけ"],"onyomi":["シ"],"onyomiExamples":[{"example":"浸漬","reading":"シンシ","meaning":"dipping, soaking, immersing"}],"kunyomiExamples":[{"example":"漬ける","reading":"つける","meaning":"to soak (in), to steep, to dip, to dunk, to pickle, to preserve (in salt, vinegar, etc.)"},{"example":"浸かる","reading":"つかる","meaning":"to be submerged, to be soaked, to be pickled, to be well seasoned, to be totally immersed (in a condition, e.g. laziness)"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ハ","二","亠","土","汁","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28460_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f2c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f2c.gif","uri":"https://jisho.org/search/%E6%BC%AC%23kanji"}}
+{
+  "id": "漬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漬",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1818",
+    "strokeCount": 14,
+    "meaning": "pickling, soak, moisten, steep",
+    "kunyomi": [
+      "つ.ける",
+      "つ.かる",
+      "-づ.け",
+      "-づけ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浸漬",
+        "reading": "シンシ",
+        "meaning": "dipping, soaking, immersing"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漬ける",
+        "reading": "つける",
+        "meaning": "to soak (in), to steep, to dip, to dunk, to pickle, to preserve (in salt, vinegar, etc.)"
+      },
+      {
+        "example": "浸かる",
+        "reading": "つかる",
+        "meaning": "to be submerged, to be soaked, to be pickled, to be well seasoned, to be totally immersed (in a condition, e.g. laziness)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "亠",
+      "土",
+      "汁",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28460_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f2c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f2c.gif",
+    "uri": "https://jisho.org/search/%E6%BC%AC%23kanji"
+  }
+}

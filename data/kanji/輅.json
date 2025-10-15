@@ -1,1 +1,31 @@
-{"id":"輅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"輅","found":true,"strokeCount":13,"meaning":"carriage","kunyomi":["くるま"],"onyomi":["ロ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["口","夂","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36613_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f05.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f05.gif","uri":"https://jisho.org/search/%E8%BC%85%23kanji"}}
+{
+  "id": "輅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輅",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "carriage",
+    "kunyomi": [
+      "くるま"
+    ],
+    "onyomi": [
+      "ロ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36613_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f05.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f05.gif",
+    "uri": "https://jisho.org/search/%E8%BC%85%23kanji"
+  }
+}

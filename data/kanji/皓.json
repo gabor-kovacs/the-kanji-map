@@ -1,1 +1,51 @@
-{"id":"皓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"皓","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2428","strokeCount":12,"meaning":"white, clear","kunyomi":["しろ.い","ひか.る"],"onyomi":["コウ"],"onyomiExamples":[{"example":"皓月","reading":"コウゲツ","meaning":"bright white moon"},{"example":"皓々","reading":"コウコウ","meaning":"bright (esp. of the moon), broad and empty"},{"example":"皓々","reading":"コウコウ","meaning":"bright (esp. of the moon), broad and empty"}],"kunyomiExamples":[],"radical":{"symbol":"白","meaning":"white"},"parts":["ノ","口","土","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30355_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07693.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7693.gif","uri":"https://jisho.org/search/%E7%9A%93%23kanji"}}
+{
+  "id": "皓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "皓",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2428",
+    "strokeCount": 12,
+    "meaning": "white, clear",
+    "kunyomi": [
+      "しろ.い",
+      "ひか.る"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "皓月",
+        "reading": "コウゲツ",
+        "meaning": "bright white moon"
+      },
+      {
+        "example": "皓々",
+        "reading": "コウコウ",
+        "meaning": "bright (esp. of the moon), broad and empty"
+      },
+      {
+        "example": "皓々",
+        "reading": "コウコウ",
+        "meaning": "bright (esp. of the moon), broad and empty"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "白",
+      "meaning": "white"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "土",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30355_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07693.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7693.gif",
+    "uri": "https://jisho.org/search/%E7%9A%93%23kanji"
+  }
+}

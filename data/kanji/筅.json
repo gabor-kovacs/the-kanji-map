@@ -1,1 +1,41 @@
-{"id":"筅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"筅","found":true,"strokeCount":12,"meaning":"bamboo whisk for tea-making","kunyomi":["ささら"],"onyomi":["セン"],"onyomiExamples":[{"example":"茶筅","reading":"チャセン","meaning":"tea whisk, bamboo whisk for making Japanese tea, hair style where the hair is tied up in a bundle on the back of the head (resembling the shape of a tea whisk)"}],"kunyomiExamples":[],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","儿","土","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31557_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b45.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b45.gif","uri":"https://jisho.org/search/%E7%AD%85%23kanji"}}
+{
+  "id": "筅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "筅",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "bamboo whisk for tea-making",
+    "kunyomi": [
+      "ささら"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "茶筅",
+        "reading": "チャセン",
+        "meaning": "tea whisk, bamboo whisk for making Japanese tea, hair style where the hair is tied up in a bundle on the back of the head (resembling the shape of a tea whisk)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "儿",
+      "土",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31557_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b45.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b45.gif",
+    "uri": "https://jisho.org/search/%E7%AD%85%23kanji"
+  }
+}

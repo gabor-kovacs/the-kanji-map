@@ -1,1 +1,70 @@
-{"id":"脅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"脅","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1183","strokeCount":10,"meaning":"threaten, coerce","kunyomi":["おびや.かす","おど.す","おど.かす"],"onyomi":["キョウ"],"onyomiExamples":[{"example":"脅迫","reading":"キョウハク","meaning":"threat, menace, coercion, blackmail"},{"example":"脅威","reading":"キョウイ","meaning":"threat, menace"},{"example":"威脅","reading":"イキョウ","meaning":"threat, menace"}],"kunyomiExamples":[{"example":"脅かす","reading":"おびやかす","meaning":"to intimidate, to frighten, to scare, to threaten (e.g. peace), to jeopardize, to endanger, to imperil"},{"example":"脅す","reading":"おどす","meaning":"to threaten, to menace, to frighten (into doing)"},{"example":"脅かす","reading":"おどかす","meaning":"to threaten, to menace, to intimidate, to startle, to frighten, to scare"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["力","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33029_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08105.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8105.gif","uri":"https://jisho.org/search/%E8%84%85%23kanji"}}
+{
+  "id": "脅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "脅",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1183",
+    "strokeCount": 10,
+    "meaning": "threaten, coerce",
+    "kunyomi": [
+      "おびや.かす",
+      "おど.す",
+      "おど.かす"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "脅迫",
+        "reading": "キョウハク",
+        "meaning": "threat, menace, coercion, blackmail"
+      },
+      {
+        "example": "脅威",
+        "reading": "キョウイ",
+        "meaning": "threat, menace"
+      },
+      {
+        "example": "威脅",
+        "reading": "イキョウ",
+        "meaning": "threat, menace"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脅かす",
+        "reading": "おびやかす",
+        "meaning": "to intimidate, to frighten, to scare, to threaten (e.g. peace), to jeopardize, to endanger, to imperil"
+      },
+      {
+        "example": "脅す",
+        "reading": "おどす",
+        "meaning": "to threaten, to menace, to frighten (into doing)"
+      },
+      {
+        "example": "脅かす",
+        "reading": "おどかす",
+        "meaning": "to threaten, to menace, to intimidate, to startle, to frighten, to scare"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "力",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33029_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08105.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8105.gif",
+    "uri": "https://jisho.org/search/%E8%84%85%23kanji"
+  }
+}

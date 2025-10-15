@@ -1,1 +1,36 @@
-{"id":"鑾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鑾","found":true,"strokeCount":27,"meaning":"bells on emperor's carriage","kunyomi":["すず"],"onyomi":["ラン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["小","幺","糸","言","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38014_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0947e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/947e.gif","uri":"https://jisho.org/search/%E9%91%BE%23kanji"}}
+{
+  "id": "鑾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑾",
+    "found": true,
+    "strokeCount": 27,
+    "meaning": "bells on emperor's carriage",
+    "kunyomi": [
+      "すず"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "糸",
+      "言",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38014_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0947e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/947e.gif",
+    "uri": "https://jisho.org/search/%E9%91%BE%23kanji"
+  }
+}

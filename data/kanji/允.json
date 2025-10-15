@@ -1,1 +1,56 @@
-{"id":"允","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"允","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2358","strokeCount":4,"meaning":"license, sincerity, permit","kunyomi":["じょう","まこと.に","ゆるす"],"onyomi":["イン"],"onyomiExamples":[{"example":"允可","reading":"インカ","meaning":"permission, assent, compliance"},{"example":"允許","reading":"インキョ","meaning":"permission, licence, license"},{"example":"承允","reading":"ショウイン","meaning":"consent, acceptance, agreement"}],"kunyomiExamples":[],"radical":{"symbol":"儿","meaning":"legs"},"parts":["儿","厶"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20801_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05141.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5141.gif","uri":"https://jisho.org/search/%E5%85%81%23kanji"}}
+{
+  "id": "允",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "允",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2358",
+    "strokeCount": 4,
+    "meaning": "license, sincerity, permit",
+    "kunyomi": [
+      "じょう",
+      "まこと.に",
+      "ゆるす"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "允可",
+        "reading": "インカ",
+        "meaning": "permission, assent, compliance"
+      },
+      {
+        "example": "允許",
+        "reading": "インキョ",
+        "meaning": "permission, licence, license"
+      },
+      {
+        "example": "承允",
+        "reading": "ショウイン",
+        "meaning": "consent, acceptance, agreement"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "雅楽允",
+        "reading": "うたのじょう",
+        "meaning": "second assistant court musician (ritsuryō system)"
+      }
+    ],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "legs"
+    },
+    "parts": [
+      "儿",
+      "厶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20801_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05141.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5141.gif",
+    "uri": "https://jisho.org/search/%E5%85%81%23kanji"
+  }
+}

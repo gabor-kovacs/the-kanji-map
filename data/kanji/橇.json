@@ -1,1 +1,65 @@
-{"id":"橇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"橇","found":true,"strokeCount":16,"meaning":"sled, sleigh, snowshoes","kunyomi":["そり","かんじき"],"onyomi":["キョウ","ゼイ","セイ"],"onyomiExamples":[{"example":"橇行","reading":"キョウコウ","meaning":"traveling by sleigh"}],"kunyomiExamples":[{"example":"橇","reading":"そり","meaning":"sleigh, sled, sledge"},{"example":"馬そり","reading":"ばそり","meaning":"horse-drawn sleigh"},{"example":"尾橇","reading":"びそり","meaning":"tail skid (aircraft)"},{"example":"橇","reading":"かんじき","meaning":"snowshoes"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["木","毛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27207_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a47.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a47.gif","uri":"https://jisho.org/search/%E6%A9%87%23kanji"}}
+{
+  "id": "橇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "橇",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "sled, sleigh, snowshoes",
+    "kunyomi": [
+      "そり",
+      "かんじき"
+    ],
+    "onyomi": [
+      "キョウ",
+      "ゼイ",
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "橇行",
+        "reading": "キョウコウ",
+        "meaning": "traveling by sleigh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【ソリ】",
+        "reading": "sleigh, sled, sledge",
+        "meaning": ""
+      },
+      {
+        "example": "そり滑り",
+        "reading": "そりすべり",
+        "meaning": "sledding, sledging"
+      },
+      {
+        "example": "馬そり",
+        "reading": "ばそり",
+        "meaning": "horse-drawn sleigh"
+      },
+      {
+        "example": "尾橇",
+        "reading": "びそり",
+        "meaning": "tail skid (aircraft)"
+      },
+      {
+        "example": "橇",
+        "reading": "かんじき",
+        "meaning": "snowshoes"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "木",
+      "毛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27207_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a47.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a47.gif",
+    "uri": "https://jisho.org/search/%E6%A9%87%23kanji"
+  }
+}

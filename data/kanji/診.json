@@ -1,1 +1,64 @@
-{"id":"診","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"診","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1019","strokeCount":12,"meaning":"checkup, seeing, diagnose, examine","kunyomi":["み.る"],"onyomi":["シン"],"onyomiExamples":[{"example":"診断","reading":"シンダン","meaning":"diagnosis, medical examination"},{"example":"診察","reading":"シンサツ","meaning":"medical examination"},{"example":"検診","reading":"ケンシン","meaning":"physical examination, medical examination, health checkup, health screening"},{"example":"受診","reading":"ジュシン","meaning":"having a medical examination, seeing a doctor"}],"kunyomiExamples":[{"example":"診る","reading":"みる","meaning":"to examine (medically)"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["个","彡","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35386_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a3a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a3a.gif","uri":"https://jisho.org/search/%E8%A8%BA%23kanji"}}
+{
+  "id": "診",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "診",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1019",
+    "strokeCount": 12,
+    "meaning": "checkup, seeing, diagnose, examine",
+    "kunyomi": [
+      "み.る"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "診断",
+        "reading": "シンダン",
+        "meaning": "diagnosis, medical examination"
+      },
+      {
+        "example": "診察",
+        "reading": "シンサツ",
+        "meaning": "medical examination, checkup, consultation"
+      },
+      {
+        "example": "健診",
+        "reading": "ケンシン",
+        "meaning": "health checkup, (general) medical examination, physical examination"
+      },
+      {
+        "example": "受診",
+        "reading": "ジュシン",
+        "meaning": "having a medical examination, seeing a doctor"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "診る",
+        "reading": "みる",
+        "meaning": "to examine (medically), to have a look at, to check (a patient's pulse)"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "个",
+      "彡",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35386_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a3a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a3a.gif",
+    "uri": "https://jisho.org/search/%E8%A8%BA%23kanji"
+  }
+}

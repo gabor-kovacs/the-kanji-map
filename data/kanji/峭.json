@@ -1,1 +1,48 @@
-{"id":"峭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"峭","found":true,"strokeCount":10,"meaning":"high & steep","kunyomi":["きび.しい","けわ.しい"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"峭刻","reading":"ショウコク","meaning":"very rigorous, strict, cruel"},{"example":"奇峭","reading":"キショウ","meaning":"steep, precipitous, harsh (personality)"},{"example":"峻峭","reading":"シュンショウ","meaning":"tall and steep, severe and dignified, severe and cruel"}],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["尚","山","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23789_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ced.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ced.gif","uri":"https://jisho.org/search/%E5%B3%AD%23kanji"}}
+{
+  "id": "峭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "峭",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "high & steep",
+    "kunyomi": [
+      "きび.しい",
+      "けわ.しい"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "峭刻",
+        "reading": "ショウコク",
+        "meaning": "very rigorous, strict, cruel"
+      },
+      {
+        "example": "奇峭",
+        "reading": "キショウ",
+        "meaning": "steep, precipitous, harsh (personality)"
+      },
+      {
+        "example": "峻峭",
+        "reading": "シュンショウ",
+        "meaning": "tall and steep, severe and dignified, severe and cruel"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "尚",
+      "山",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23789_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ced.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ced.gif",
+    "uri": "https://jisho.org/search/%E5%B3%AD%23kanji"
+  }
+}

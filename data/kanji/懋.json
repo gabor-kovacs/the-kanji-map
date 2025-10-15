@@ -1,1 +1,37 @@
-{"id":"懋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"懋","found":true,"strokeCount":17,"meaning":"strive, flourish","kunyomi":["し.げる","つと.める"],"onyomi":["ボウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["マ","心","木","矛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25035_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061cb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61cb.gif","uri":"https://jisho.org/search/%E6%87%8B%23kanji"}}
+{
+  "id": "懋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懋",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "strive, flourish",
+    "kunyomi": [
+      "し.げる",
+      "つと.める"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "マ",
+      "心",
+      "木",
+      "矛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25035_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061cb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61cb.gif",
+    "uri": "https://jisho.org/search/%E6%87%8B%23kanji"
+  }
+}

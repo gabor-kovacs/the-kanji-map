@@ -1,1 +1,348 @@
-{"id":"短","kanjialiveData":{"kanji":{"character":"短","meaning":{"english":"short"},"strokes":{"count":12,"timings":[0,2.065,2.999,3.798,4.665,5.399,6.532,7.532,8.332,8.931,9.665,10.332,12],"images":["https://media.kanjialive.com/kanji_strokes/mijika(i)_1.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_2.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_3.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_4.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_5.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_6.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_7.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_8.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_9.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_10.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_11.svg","https://media.kanjialive.com/kanji_strokes/mijika(i)_12.svg"]},"onyomi":{"romaji":"tan","katakana":"タン"},"kunyomi":{"romaji":"mijika, mijikai","hiragana":"みじか"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/mijika(i)_12.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/mijika(i)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/mijika(i)_00.webm"}},"radical":{"character":"","strokes":5,"image":"https://media.kanjialive.com/radical_character/yahen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"やへん","romaji":"yahen"},"meaning":{"english":"arrow"},"animation":["https://media.kanjialive.com/rad_frames/yahen0.svg","https://media.kanjialive.com/rad_frames/yahen1.svg","https://media.kanjialive.com/rad_frames/yahen2.svg"]},"references":{"grade":3,"kodansha":"801","classic_nelson":"3172"},"examples":[{"japanese":"短歌（たんか）","meaning":{"english":"Japanese poetic form"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mijika(i)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mijika(i)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mijika(i)_06_a.mp3"}},{"japanese":"短気な（たんきな）","meaning":{"english":"quick tempered"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mijika(i)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mijika(i)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mijika(i)_06_b.mp3"}},{"japanese":"短期間（たんきかん）","meaning":{"english":"short term"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mijika(i)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mijika(i)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mijika(i)_06_c.mp3"}},{"japanese":"短所（たんしょ）","meaning":{"english":"weak point"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mijika(i)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mijika(i)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mijika(i)_06_d.mp3"}},{"japanese":"短い（みじかい）","meaning":{"english":"short"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/mijika(i)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/mijika(i)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/mijika(i)_06_e.mp3"}}]},"jishoData":{"query":"短","found":true,"taughtIn":"grade 3","jlptLevel":"N2","newspaperFrequencyRank":"689","strokeCount":12,"meaning":"short, brevity, fault, defect, weak point","kunyomi":["みじか.い"],"onyomi":["タン"],"onyomiExamples":[{"example":"短","reading":"タン","meaning":"fault, defect, weak point, minor, 5-point card, short"},{"example":"短歌","reading":"タンカ","meaning":"tanka, 31-mora Japanese poem"},{"example":"長短","reading":"チョウタン","meaning":"(relative) length, advantages and disadvantages, pluses and minuses, strong and weak points, merits and demerits"},{"example":"車高短","reading":"シャコウタン","meaning":"lowered car, car with lowered suspension"}],"kunyomiExamples":[{"example":"短い","reading":"みじかい","meaning":"short, brief"}],"radical":{"symbol":"矢","meaning":"arrow"},"parts":["乞","口","并","矢","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30701_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077ed.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77ed.gif","uri":"https://jisho.org/search/%E7%9F%AD%23kanji"}}
+{
+  "id": "短",
+  "kanjialiveData": {
+    "_id": "54317ae1791eba5146ee493d",
+    "_rev": "11-10d17fde1284752dc88ea3b1947cbafb",
+    "rad_name_ja": "やへん",
+    "grade": 3,
+    "hint_group": 50,
+    "kunyomi": "mijika, mijikai",
+    "meaning": "short",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "短歌（たんか）",
+        "meaning": {
+          "english": "Japanese poetic form"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mijika(i)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mijika(i)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mijika(i)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "短気な（たんきな）",
+        "meaning": {
+          "english": "quick tempered"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mijika(i)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mijika(i)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mijika(i)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "短期間（たんきかん）",
+        "meaning": {
+          "english": "short term"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mijika(i)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mijika(i)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mijika(i)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "短所（たんしょ）",
+        "meaning": {
+          "english": "weak point"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mijika(i)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mijika(i)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mijika(i)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "短い（みじかい）",
+        "meaning": {
+          "english": "short"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mijika(i)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mijika(i)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mijika(i)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mijika(i)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "みじか、みじかい",
+    "ka_utf": "短",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=短",
+    "rad_name_search": [
+      "yahen"
+    ],
+    "rad_order": 141,
+    "txt_books": [
+      {
+        "chapter": "16",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "mijika(i)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      2.065,
+      2.999,
+      3.798,
+      4.665,
+      5.399,
+      6.532,
+      7.532,
+      8.332,
+      8.931,
+      9.665,
+      10.332,
+      12
+    ],
+    "kunyomi_ka_display": "みじか",
+    "dick": "801",
+    "rad_name": "yahen",
+    "dicn": "3172",
+    "mn_hint": "If one shoots arrows 矢 at – a target 口 from a short distance, one will score lots of hits [13].",
+    "rad_stroke": 5,
+    "onyomi_ja": "タン",
+    "rad_meaning": "arrow",
+    "onyomi": "tan",
+    "ka_id": "ka_150",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "tan",
+      "tan"
+    ],
+    "kunyomi_search": [
+      "mijika",
+      "mijikai",
+      "mijika, mijikai"
+    ],
+    "meaning_search": [
+      "short",
+      "short"
+    ],
+    "onyomi_ja_search": [
+      "タン",
+      "タン"
+    ],
+    "kunyomi_ja_search": [
+      "みじか",
+      "みじかい",
+      "みじか、みじかい"
+    ],
+    "rad_meaning_search": [
+      "arrow",
+      "arrow"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "やへん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:16",
+      "cij:c16",
+      "bk",
+      "bk:8",
+      "bk:c8",
+      "mac",
+      "mac:13",
+      "mac:c13",
+      "ap",
+      "ap:14",
+      "ap:c14",
+      "kll",
+      "kll:15",
+      "kll:c15",
+      "jt",
+      "jt:2",
+      "jt:c2"
+    ],
+    "rad_name_file": "yahen",
+    "kanji": {
+      "character": "短",
+      "meaning": {
+        "english": "short"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          2.065,
+          2.999,
+          3.798,
+          4.665,
+          5.399,
+          6.532,
+          7.532,
+          8.332,
+          8.931,
+          9.665,
+          10.332,
+          12
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/mijika(i)_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "tan",
+        "katakana": "タン"
+      },
+      "kunyomi": {
+        "romaji": "mijika, mijikai",
+        "hiragana": "みじか"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/mijika(i)_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/mijika(i)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/mijika(i)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/yahen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "やへん",
+        "romaji": "yahen"
+      },
+      "meaning": {
+        "english": "arrow"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/yahen0.svg",
+        "https://media.kanjialive.com/rad_frames/yahen1.svg",
+        "https://media.kanjialive.com/rad_frames/yahen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "801",
+      "classic_nelson": "3172"
+    }
+  },
+  "jishoData": {
+    "query": "短",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "689",
+    "strokeCount": 12,
+    "meaning": "short, brevity, fault, defect, weak point",
+    "kunyomi": [
+      "みじか.い"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "短",
+        "reading": "タン",
+        "meaning": "fault, defect, weak point, minor, 5-point card, short"
+      },
+      {
+        "example": "短歌",
+        "reading": "タンカ",
+        "meaning": "tanka, 31-mora Japanese poem"
+      },
+      {
+        "example": "長短",
+        "reading": "チョウタン",
+        "meaning": "(relative) length, advantages and disadvantages, pluses and minuses, strong and weak points, merits and demerits"
+      },
+      {
+        "example": "車高短",
+        "reading": "シャコウタン",
+        "meaning": "lowered car, car with lowered suspension"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "短い",
+        "reading": "みじかい",
+        "meaning": "short, brief"
+      }
+    ],
+    "radical": {
+      "symbol": "矢",
+      "meaning": "arrow"
+    },
+    "parts": [
+      "乞",
+      "口",
+      "并",
+      "矢",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30701_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077ed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77ed.gif",
+    "uri": "https://jisho.org/search/%E7%9F%AD%23kanji"
+  }
+}

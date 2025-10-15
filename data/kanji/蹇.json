@@ -1,1 +1,46 @@
-{"id":"蹇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蹇","found":true,"strokeCount":17,"meaning":"cripple","kunyomi":["いざ.る","あしなえ","なや.む"],"onyomi":["ケン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"跛","reading":"びっこ","meaning":"lameness, cripple, mismatched pair (of shoes, etc.)"}],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["ハ","一","口","宀","止","足","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36423_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e47.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e47.gif","uri":"https://jisho.org/search/%E8%B9%87%23kanji"}}
+{
+  "id": "蹇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蹇",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "cripple",
+    "kunyomi": [
+      "いざ.る",
+      "あしなえ",
+      "なや.む"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "跛",
+        "reading": "びっこ",
+        "meaning": "lameness, cripple, mismatched pair (of shoes, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "口",
+      "宀",
+      "止",
+      "足",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36423_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e47.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e47.gif",
+    "uri": "https://jisho.org/search/%E8%B9%87%23kanji"
+  }
+}

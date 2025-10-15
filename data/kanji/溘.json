@@ -1,1 +1,40 @@
-{"id":"溘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"溘","found":true,"strokeCount":13,"meaning":"sudden, unexpected","kunyomi":[],"onyomi":["コウ"],"onyomiExamples":[{"example":"溘然","reading":"コウゼン","meaning":"sudden (esp. of a person's death), unexpected"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["厶","土","汁","皿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28312_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e98.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e98.gif","uri":"https://jisho.org/search/%E6%BA%98%23kanji"}}
+{
+  "id": "溘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溘",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "sudden, unexpected",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "溘然",
+        "reading": "コウゼン",
+        "meaning": "sudden (esp. of a person's death), unexpected"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "厶",
+      "土",
+      "汁",
+      "皿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28312_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e98.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e98.gif",
+    "uri": "https://jisho.org/search/%E6%BA%98%23kanji"
+  }
+}

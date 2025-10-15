@@ -1,1 +1,38 @@
-{"id":"漾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"漾","found":true,"strokeCount":14,"meaning":"drift, flow","kunyomi":["ただよ.う"],"onyomi":["ヨウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["丶","并","水","汁","王","羊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28478_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f3e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f3e.gif","uri":"https://jisho.org/search/%E6%BC%BE%23kanji"}}
+{
+  "id": "漾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漾",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "drift, flow",
+    "kunyomi": [
+      "ただよ.う"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "丶",
+      "并",
+      "水",
+      "汁",
+      "王",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28478_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f3e.gif",
+    "uri": "https://jisho.org/search/%E6%BC%BE%23kanji"
+  }
+}

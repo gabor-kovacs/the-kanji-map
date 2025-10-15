@@ -1,1 +1,62 @@
-{"id":"摧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"摧","found":true,"strokeCount":14,"meaning":"break, smash, crush, familiar, popular","kunyomi":["くだ.く"],"onyomi":["サイ","サ"],"onyomiExamples":[{"example":"砕身","reading":"サイシン","meaning":"working so hard as to ruin one's body, struggling to the point of crushing oneself"},{"example":"玉砕","reading":"ギョクサイ","meaning":"honourable defeat, honorable defeat, honourable death, honorable death, death without surrender, trying but being utterly beaten, being completely rejected when professing one's love"},{"example":"破砕","reading":"ハサイ","meaning":"crushing (into pieces), smashing, cracking, breaking up"},{"example":"砕身","reading":"サイシン","meaning":"working so hard as to ruin one's body, struggling to the point of crushing oneself"}],"kunyomiExamples":[{"example":"砕く","reading":"くだく","meaning":"to break, to smash"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["山","扎","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25703_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06467.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6467.gif","uri":"https://jisho.org/search/%E6%91%A7%23kanji"}}
+{
+  "id": "摧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "摧",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "break, smash, crush, familiar, popular",
+    "kunyomi": [
+      "くだ.く"
+    ],
+    "onyomi": [
+      "サイ",
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "砕身",
+        "reading": "サイシン",
+        "meaning": "working so hard as to ruin one's body, struggling to the point of crushing oneself"
+      },
+      {
+        "example": "玉砕",
+        "reading": "ギョクサイ",
+        "meaning": "honorable death, death without surrender, honorable defeat, trying but being utterly beaten, being completely rejected when professing one's love"
+      },
+      {
+        "example": "破砕",
+        "reading": "ハサイ",
+        "meaning": "crushing (into pieces), smashing, cracking, breaking up"
+      },
+      {
+        "example": "砕身",
+        "reading": "サイシン",
+        "meaning": "working so hard as to ruin one's body, struggling to the point of crushing oneself"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "砕く",
+        "reading": "くだく",
+        "meaning": "to break (into pieces), to smash, to crush, to shatter, to grind (into powder), to pound, to shatter (someone's hopes, confidence, etc.), to crush, to frustrate, to simplify, to make easy to understand"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "山",
+      "扎",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25703_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06467.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6467.gif",
+    "uri": "https://jisho.org/search/%E6%91%A7%23kanji"
+  }
+}

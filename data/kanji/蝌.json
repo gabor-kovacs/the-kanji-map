@@ -1,1 +1,40 @@
-{"id":"蝌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蝌","found":true,"strokeCount":15,"meaning":"tadpole","kunyomi":[],"onyomi":["カ"],"onyomiExamples":[{"example":"蝌蚪","reading":"カト","meaning":"tadpole, ancient seal-script character"},{"example":"蝌蚪文字","reading":"カトモンジ","meaning":"ancient seal-script character"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["斗","禾","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34636_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0874c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/874c.gif","uri":"https://jisho.org/search/%E8%9D%8C%23kanji"}}
+{
+  "id": "蝌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蝌",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "tadpole",
+    "kunyomi": [],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蝌蚪",
+        "reading": "カト",
+        "meaning": "tadpole, ancient seal-script character"
+      },
+      {
+        "example": "蝌蚪文字",
+        "reading": "カトモンジ",
+        "meaning": "ancient seal-script character"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "斗",
+      "禾",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34636_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0874c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/874c.gif",
+    "uri": "https://jisho.org/search/%E8%9D%8C%23kanji"
+  }
+}

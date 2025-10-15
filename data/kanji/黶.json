@@ -1,1 +1,35 @@
-{"id":"黶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"黶","found":true,"strokeCount":26,"meaning":"mole, scar, blemish","kunyomi":["ほくろ"],"onyomi":["アン","エン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"黑","meaning":"black"},"parts":["厂","日","杰","犬","里","黒"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40694_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ef6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ef6.gif","uri":"https://jisho.org/search/%E9%BB%B6%23kanji"}}
+{
+  "id": "黶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黶",
+    "found": true,
+    "strokeCount": 26,
+    "meaning": "mole, scar, blemish",
+    "kunyomi": [
+      "ほくろ"
+    ],
+    "onyomi": [
+      "アン",
+      "エン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "黑",
+      "meaning": "black"
+    },
+    "parts": [
+      "厂",
+      "日",
+      "杰",
+      "犬",
+      "里",
+      "黒"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40694_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ef6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ef6.gif",
+    "uri": "https://jisho.org/search/%E9%BB%B6%23kanji"
+  }
+}

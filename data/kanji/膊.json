@@ -1,1 +1,48 @@
-{"id":"膊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膊","found":true,"strokeCount":14,"meaning":"arm","kunyomi":["ほじし"],"onyomi":["ハク"],"onyomiExamples":[{"example":"上膊","reading":"ジョウハク","meaning":"upper arm"},{"example":"下膊","reading":"カハク","meaning":"forearm"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["丶","十","寸","日","月","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33162_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0818a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/818a.gif","uri":"https://jisho.org/search/%E8%86%8A%23kanji"}}
+{
+  "id": "膊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膊",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "arm",
+    "kunyomi": [
+      "ほじし"
+    ],
+    "onyomi": [
+      "ハク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "上膊",
+        "reading": "ジョウハク",
+        "meaning": "upper arm"
+      },
+      {
+        "example": "下膊",
+        "reading": "カハク",
+        "meaning": "forearm"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "寸",
+      "日",
+      "月",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33162_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0818a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/818a.gif",
+    "uri": "https://jisho.org/search/%E8%86%8A%23kanji"
+  }
+}

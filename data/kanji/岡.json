@@ -1,1 +1,57 @@
-{"id":"岡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"岡","found":true,"taughtIn":"grade 4","newspaperFrequencyRank":"463","strokeCount":8,"meaning":"mount, hill, knoll","kunyomi":["おか"],"onyomi":["コウ"],"onyomiExamples":[{"example":"岡陵","reading":"コウリョウ","meaning":"hill"}],"kunyomiExamples":[{"example":"丘","reading":"おか","meaning":"hill, height, knoll, rising ground, bonus points awarded to the winner at the end of a game"},{"example":"岡崎フラグメント","reading":"おかざきフラグメント","meaning":"Okazaki fragment"},{"example":"盛岡","reading":"もりおか","meaning":"Morioka (city in Iwate)"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["一","冂","山","岡","并"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23713_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ca1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ca1.gif","uri":"https://jisho.org/search/%E5%B2%A1%23kanji"}}
+{
+  "id": "岡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "岡",
+    "found": true,
+    "taughtIn": "grade 4",
+    "newspaperFrequencyRank": "463",
+    "strokeCount": 8,
+    "meaning": "mount, hill, knoll",
+    "kunyomi": [
+      "おか"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "岡陵",
+        "reading": "コウリョウ",
+        "meaning": "hill"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "丘",
+        "reading": "おか",
+        "meaning": "hill, height, knoll, rising ground, bonus points awarded to the winner at the end of a game"
+      },
+      {
+        "example": "岡三",
+        "reading": "おかさん",
+        "meaning": "Okasan"
+      },
+      {
+        "example": "盛岡",
+        "reading": "もりおか",
+        "meaning": "Morioka (city in Iwate)"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "山",
+      "岡",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23713_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ca1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ca1.gif",
+    "uri": "https://jisho.org/search/%E5%B2%A1%23kanji"
+  }
+}

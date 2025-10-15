@@ -1,1 +1,62 @@
-{"id":"醸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"醸","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1838","strokeCount":20,"meaning":"brew, cause","kunyomi":["かも.す"],"onyomi":["ジョウ"],"onyomiExamples":[{"example":"醸成","reading":"ジョウセイ","meaning":"brewing, fermenting, arousing, causing, creating, fermenting, bringing about"},{"example":"醸造","reading":"ジョウゾウ","meaning":"brewing"},{"example":"銘醸","reading":"メイジョウ","meaning":"famous winery, famous brewery"},{"example":"佳醸","reading":"カジョウ","meaning":"sweet sake, good wine"}],"kunyomiExamples":[{"example":"醸す","reading":"かもす","meaning":"to brew (sake, etc.), to cause, to bring on, to bring about, to give rise to"}],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["ハ","亠","衣","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37304_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091b8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91b8.gif","uri":"https://jisho.org/search/%E9%86%B8%23kanji"}}
+{
+  "id": "醸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醸",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1838",
+    "strokeCount": 20,
+    "meaning": "brew, cause",
+    "kunyomi": [
+      "かも.す"
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醸成",
+        "reading": "ジョウセイ",
+        "meaning": "brewing, fermenting, arousing, causing, creating, fermenting, bringing about"
+      },
+      {
+        "example": "醸造",
+        "reading": "ジョウゾウ",
+        "meaning": "brewing"
+      },
+      {
+        "example": "銘醸",
+        "reading": "メイジョウ",
+        "meaning": "famous winery, famous brewery"
+      },
+      {
+        "example": "佳醸",
+        "reading": "カジョウ",
+        "meaning": "sweet sake, good wine"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "醸す",
+        "reading": "かもす",
+        "meaning": "to brew (sake, etc.), to cause, to bring on, to bring about, to give rise to"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "衣",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37304_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091b8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91b8.gif",
+    "uri": "https://jisho.org/search/%E9%86%B8%23kanji"
+  }
+}

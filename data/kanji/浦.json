@@ -1,1 +1,66 @@
-{"id":"浦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"浦","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"977","strokeCount":10,"meaning":"bay, creek, inlet, gulf, beach, seacoast","kunyomi":["うら"],"onyomi":["ホ"],"onyomiExamples":[{"example":"海浦","reading":"カイホ","meaning":"seaside"},{"example":"曲浦","reading":"キョクホ","meaning":"winding coast (beach)"}],"kunyomiExamples":[{"example":"浦","reading":"うら","meaning":"inlet, seashore, beach"},{"example":"浦内笛鯛","reading":"うらうちふえだい","meaning":"Papuan black snapper (Lutjanus goldiei)"},{"example":"津々浦々","reading":"つつうらうら","meaning":"all over the country, throughout the land, every nook and cranny of the land, far and wide, (in) every port and harbor"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["丶","十","汁","用"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28006_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d66.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d66.gif","uri":"https://jisho.org/search/%E6%B5%A6%23kanji"}}
+{
+  "id": "浦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "浦",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "977",
+    "strokeCount": 10,
+    "meaning": "bay, creek, inlet, gulf, beach, seacoast",
+    "kunyomi": [
+      "うら"
+    ],
+    "onyomi": [
+      "ホ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "海浦",
+        "reading": "カイホ",
+        "meaning": "seaside"
+      },
+      {
+        "example": "曲浦",
+        "reading": "キョクホ",
+        "meaning": "winding coast (beach)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "浦",
+        "reading": "うら",
+        "meaning": "inlet, seashore, beach"
+      },
+      {
+        "example": "浦内笛鯛",
+        "reading": "うらうちふえだい",
+        "meaning": "Papuan black snapper (Lutjanus goldiei)"
+      },
+      {
+        "example": "津々浦々",
+        "reading": "つつうらうら",
+        "meaning": "all over the country, throughout the land, every nook and cranny of the land, far and wide, (in) every port and harbor"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "汁",
+      "用"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28006_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d66.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d66.gif",
+    "uri": "https://jisho.org/search/%E6%B5%A6%23kanji"
+  }
+}

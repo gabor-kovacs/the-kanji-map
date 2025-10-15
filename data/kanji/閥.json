@@ -1,1 +1,53 @@
-{"id":"閥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"閥","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1072","strokeCount":14,"meaning":"clique, lineage, pedigree, faction, clan","kunyomi":[],"onyomi":["バツ"],"onyomiExamples":[{"example":"閥","reading":"バツ","meaning":"clique, clan, faction"},{"example":"閥族","reading":"バツゾク","meaning":"clan, clique"},{"example":"財閥","reading":"ザイバツ","meaning":"zaibatsu, financial conglomerate, industrial group"},{"example":"学閥","reading":"ガクバツ","meaning":"alma mater clique, old school tie"}],"kunyomiExamples":[],"radical":{"symbol":"門","meaning":"gate"},"parts":["化","戈","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38309_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095a5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95a5.gif","uri":"https://jisho.org/search/%E9%96%A5%23kanji"}}
+{
+  "id": "閥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閥",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1072",
+    "strokeCount": 14,
+    "meaning": "clique, lineage, pedigree, faction, clan",
+    "kunyomi": [],
+    "onyomi": [
+      "バツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "閥",
+        "reading": "バツ",
+        "meaning": "clique, clan, faction"
+      },
+      {
+        "example": "閥族",
+        "reading": "バツゾク",
+        "meaning": "clan, clique"
+      },
+      {
+        "example": "財閥",
+        "reading": "ザイバツ",
+        "meaning": "zaibatsu, financial conglomerate, industrial group, rich person"
+      },
+      {
+        "example": "学閥",
+        "reading": "ガクバツ",
+        "meaning": "alma mater clique, old school tie"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "化",
+      "戈",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38309_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095a5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95a5.gif",
+    "uri": "https://jisho.org/search/%E9%96%A5%23kanji"
+  }
+}

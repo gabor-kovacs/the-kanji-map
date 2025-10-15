@@ -1,1 +1,63 @@
-{"id":"虐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"虐","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1464","strokeCount":9,"meaning":"tyrannize, oppress","kunyomi":["しいた.げる"],"onyomi":["ギャク"],"onyomiExamples":[{"example":"虐待","reading":"ギャクタイ","meaning":"abuse, ill-treatment, maltreatment, mistreatment, cruelty"},{"example":"虐殺","reading":"ギャクサツ","meaning":"slaughter, massacre"},{"example":"自虐","reading":"ジギャク","meaning":"self-torture, masochism, inflicting damage to oneself"},{"example":"凌虐","reading":"リョウギャク","meaning":"humiliation, indignity, affront, assault"}],"kunyomiExamples":[{"example":"虐げる","reading":"しいたげる","meaning":"to oppress, to persecute, to tyrannize"}],"radical":{"symbol":"虍","meaning":"tiger stripes"},"parts":["匕","匚","卜","厂","虍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34384_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08650.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8650.gif","uri":"https://jisho.org/search/%E8%99%90%23kanji"}}
+{
+  "id": "虐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虐",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1464",
+    "strokeCount": 9,
+    "meaning": "tyrannize, oppress",
+    "kunyomi": [
+      "しいた.げる"
+    ],
+    "onyomi": [
+      "ギャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虐待",
+        "reading": "ギャクタイ",
+        "meaning": "abuse, ill-treatment, maltreatment, mistreatment, cruelty"
+      },
+      {
+        "example": "虐殺",
+        "reading": "ギャクサツ",
+        "meaning": "slaughter, massacre"
+      },
+      {
+        "example": "自虐",
+        "reading": "ジギャク",
+        "meaning": "self-torture, masochism, inflicting damage to oneself"
+      },
+      {
+        "example": "弑逆",
+        "reading": "シギャク",
+        "meaning": "murder of one's lord or father"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虐げる",
+        "reading": "しいたげる",
+        "meaning": "to oppress, to persecute, to tyrannize"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "tiger stripes"
+    },
+    "parts": [
+      "匕",
+      "匚",
+      "卜",
+      "厂",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34384_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08650.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8650.gif",
+    "uri": "https://jisho.org/search/%E8%99%90%23kanji"
+  }
+}

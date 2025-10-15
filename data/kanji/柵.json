@@ -1,1 +1,67 @@
-{"id":"柵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"柵","found":true,"taughtIn":"junior high","strokeCount":9,"meaning":"stockade, fence, weir, entwine around","kunyomi":["しがら.む","しがらみ","とりで","やらい"],"onyomi":["サク","サン"],"onyomiExamples":[{"example":"柵","reading":"サク","meaning":"fence, paling, railing, fortress"},{"example":"柵状組織","reading":"サクジョウソシキ","meaning":"palisade layer"},{"example":"馬防柵","reading":"バボウサク","meaning":"anti-cavalry palisade (Sengoku period)"},{"example":"電気柵","reading":"デンキサク","meaning":"electric fence"}],"kunyomiExamples":[{"example":"柵","reading":"しがらみ","meaning":"weir, bonds, fetters, ties of obligation"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","亅","冂","冊","廾","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26613_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067f5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67f5.gif","uri":"https://jisho.org/search/%E6%9F%B5%23kanji"}}
+{
+  "id": "柵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柵",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 9,
+    "meaning": "stockade, fence, weir, entwine around",
+    "kunyomi": [
+      "しがら.む",
+      "しがらみ",
+      "とりで",
+      "やらい"
+    ],
+    "onyomi": [
+      "サク",
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "柵",
+        "reading": "サク",
+        "meaning": "fence, paling, railing, fortress"
+      },
+      {
+        "example": "柵状組織",
+        "reading": "サクジョウソシキ",
+        "meaning": "palisade layer"
+      },
+      {
+        "example": "馬防柵",
+        "reading": "バボウサク",
+        "meaning": "anti-cavalry palisade (Sengoku period)"
+      },
+      {
+        "example": "電気柵",
+        "reading": "デンキサク",
+        "meaning": "electric fence"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "柵",
+        "reading": "しがらみ",
+        "meaning": "weir, bonds, fetters, ties of obligation"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "冂",
+      "冊",
+      "廾",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26613_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067f5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67f5.gif",
+    "uri": "https://jisho.org/search/%E6%9F%B5%23kanji"
+  }
+}

@@ -1,1 +1,39 @@
-{"id":"鸛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鸛","found":true,"strokeCount":28,"meaning":"Japanese stork","kunyomi":["こうのとり"],"onyomi":["カン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鸛","reading":"こうのとり","meaning":"stork (esp. the Oriental stork, Ciconia boyciana)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["口","杰","艾","隹","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40475_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e1b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e1b.gif","uri":"https://jisho.org/search/%E9%B8%9B%23kanji"}}
+{
+  "id": "鸛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鸛",
+    "found": true,
+    "strokeCount": 28,
+    "meaning": "Japanese stork",
+    "kunyomi": [
+      "こうのとり"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鸛",
+        "reading": "こうのとり",
+        "meaning": "stork (esp. the Oriental stork, Ciconia boyciana)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "口",
+      "杰",
+      "艾",
+      "隹",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40475_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e1b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e1b.gif",
+    "uri": "https://jisho.org/search/%E9%B8%9B%23kanji"
+  }
+}

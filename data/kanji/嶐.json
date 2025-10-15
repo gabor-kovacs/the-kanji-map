@@ -1,1 +1,32 @@
-{"id":"嶐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嶐","found":true,"strokeCount":14,"meaning":"shape of a mountain","kunyomi":["やまのかたち"],"onyomi":["リュ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["夂","山","生","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23952_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d90.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d90.gif","uri":"https://jisho.org/search/%E5%B6%90%23kanji"}}
+{
+  "id": "嶐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嶐",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "shape of a mountain",
+    "kunyomi": [
+      "やまのかたち"
+    ],
+    "onyomi": [
+      "リュ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "夂",
+      "山",
+      "生",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23952_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d90.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d90.gif",
+    "uri": "https://jisho.org/search/%E5%B6%90%23kanji"
+  }
+}

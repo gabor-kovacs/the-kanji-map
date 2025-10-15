@@ -1,1 +1,65 @@
-{"id":"蝦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蝦","found":true,"newspaperFrequencyRank":"2501","strokeCount":15,"meaning":"shrimp, prawn, lobster","kunyomi":["えび"],"onyomi":["カ","ゲ"],"onyomiExamples":[{"example":"蛙","reading":"カエル","meaning":"frog, kajika frog (Buergeria buergeri)"},{"example":"海老尾","reading":"エビオ","meaning":"goldfish with a shrimp-like tail, head of a shamisen or lute (bent back like a shrimp's tail)"}],"kunyomiExamples":[{"example":"海老","reading":"えび","meaning":"prawn, shrimp, lobster, crayfish"},{"example":"海老芋","reading":"えびいも","meaning":"shrimp-shaped taro variety"},{"example":"鉄砲蝦","reading":"てっぽうえび","meaning":"snapping shrimp (Alpheus brevicristatus), pistol prawn"},{"example":"猩猩蝦","reading":"しょうじょうえび","meaning":"kangaroo shrimp (Glyphus marsupialis)"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["又","口","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34662_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08766.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8766.gif","uri":"https://jisho.org/search/%E8%9D%A6%23kanji"}}
+{
+  "id": "蝦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蝦",
+    "found": true,
+    "newspaperFrequencyRank": "2501",
+    "strokeCount": 15,
+    "meaning": "shrimp, prawn, lobster",
+    "kunyomi": [
+      "えび"
+    ],
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛙",
+        "reading": "カエル",
+        "meaning": "frog, kajika frog (Buergeria buergeri)"
+      },
+      {
+        "example": "海老尾",
+        "reading": "エビオ",
+        "meaning": "goldfish with a shrimp-like tail, head of a shamisen or lute (bent back like a shrimp's tail)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "海老",
+        "reading": "えび",
+        "meaning": "prawn, shrimp, lobster"
+      },
+      {
+        "example": "海老芋",
+        "reading": "えびいも",
+        "meaning": "shrimp-shaped taro variety"
+      },
+      {
+        "example": "鉄砲蝦",
+        "reading": "てっぽうえび",
+        "meaning": "snapping shrimp (Alpheus brevicristatus), pistol prawn"
+      },
+      {
+        "example": "猩猩蝦",
+        "reading": "しょうじょうえび",
+        "meaning": "kangaroo shrimp (Glyphus marsupialis)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "又",
+      "口",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34662_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08766.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8766.gif",
+    "uri": "https://jisho.org/search/%E8%9D%A6%23kanji"
+  }
+}

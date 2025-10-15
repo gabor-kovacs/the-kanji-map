@@ -1,1 +1,56 @@
-{"id":"薺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"薺","found":true,"strokeCount":17,"meaning":"water-chestnuts, caltrop","kunyomi":["ひと","ととの.える","なずな"],"onyomi":["セイ","ザイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"薺","reading":"なずな","meaning":"shepherd's purse (Capsella bursa-pastoris)"},{"example":"紫薺","reading":"むらさきなずな","meaning":"purple rock cress (Aubrietia deltoidea)"},{"example":"犬薺","reading":"いぬなずな","meaning":"woodland draba (Draba nemorosa), woodland whitlow-grass"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["亠","刀","廾","氏","艾","齊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34234_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ba.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ba.gif","uri":"https://jisho.org/search/%E8%96%BA%23kanji"}}
+{
+  "id": "薺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薺",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "water-chestnuts, caltrop",
+    "kunyomi": [
+      "ひと",
+      "ととの.える",
+      "なずな"
+    ],
+    "onyomi": [
+      "セイ",
+      "ザイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "薺",
+        "reading": "なずな",
+        "meaning": "shepherd's purse (Capsella bursa-pastoris)"
+      },
+      {
+        "example": "紫薺",
+        "reading": "むらさきなずな",
+        "meaning": "purple rock cress (Aubrietia deltoidea)"
+      },
+      {
+        "example": "犬薺",
+        "reading": "いぬなずな",
+        "meaning": "woodland draba (Draba nemorosa), woodland whitlow-grass"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "亠",
+      "刀",
+      "廾",
+      "氏",
+      "艾",
+      "齊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34234_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ba.gif",
+    "uri": "https://jisho.org/search/%E8%96%BA%23kanji"
+  }
+}

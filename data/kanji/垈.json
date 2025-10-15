@@ -1,1 +1,32 @@
-{"id":"垈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"垈","found":true,"strokeCount":8,"meaning":"swamp, wetlands, muddy fields, (kokuji)","kunyomi":["ぬた"],"onyomi":["タイ","ダイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["化","土","弋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22408_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05788.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5788.gif","uri":"https://jisho.org/search/%E5%9E%88%23kanji"}}
+{
+  "id": "垈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "垈",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "swamp, wetlands, muddy fields, (kokuji)",
+    "kunyomi": [
+      "ぬた"
+    ],
+    "onyomi": [
+      "タイ",
+      "ダイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "化",
+      "土",
+      "弋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22408_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05788.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5788.gif",
+    "uri": "https://jisho.org/search/%E5%9E%88%23kanji"
+  }
+}

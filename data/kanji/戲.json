@@ -1,1 +1,44 @@
-{"id":"戲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"戲","found":true,"strokeCount":17,"meaning":"play, frolic, sport","kunyomi":["たわむ.れる","たわむ.れ"],"onyomi":["ギ","ゲ"],"onyomiExamples":[{"example":"戯言","reading":"ギゲン","meaning":"joke, jest"}],"kunyomiExamples":[],"radical":{"symbol":"戈","meaning":"spear, halberd"},"parts":["匕","卜","厂","口","并","戈","虍","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25138_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06232.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6232.gif","uri":"https://jisho.org/search/%E6%88%B2%23kanji"}}
+{
+  "id": "戲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戲",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "play, frolic, sport",
+    "kunyomi": [
+      "たわむ.れる",
+      "たわむ.れ"
+    ],
+    "onyomi": [
+      "ギ",
+      "ゲ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戯言",
+        "reading": "ギゲン",
+        "meaning": "joke, jest"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "spear, halberd"
+    },
+    "parts": [
+      "匕",
+      "卜",
+      "厂",
+      "口",
+      "并",
+      "戈",
+      "虍",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25138_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06232.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6232.gif",
+    "uri": "https://jisho.org/search/%E6%88%B2%23kanji"
+  }
+}

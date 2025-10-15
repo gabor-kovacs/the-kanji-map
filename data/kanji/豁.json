@@ -1,1 +1,53 @@
-{"id":"豁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"豁","found":true,"strokeCount":17,"meaning":"empty","kunyomi":["ひら.ける","ひろ.い"],"onyomi":["カツ"],"onyomiExamples":[{"example":"闊達","reading":"カッタツ","meaning":"openhearted, frank, broad-minded"},{"example":"豁然","reading":"カツゼン","meaning":"(open up) suddenly (of a view), widely, broadly, (disappear) suddenly (of doubt, hesitation, etc.)"},{"example":"開豁","reading":"カイカツ","meaning":"open, openminded"}],"kunyomiExamples":[],"radical":{"symbol":"谷","meaning":"valley"},"parts":["ハ","个","二","亠","口","土","宀","谷"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35905_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c41.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c41.gif","uri":"https://jisho.org/search/%E8%B1%81%23kanji"}}
+{
+  "id": "豁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "豁",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "empty",
+    "kunyomi": [
+      "ひら.ける",
+      "ひろ.い"
+    ],
+    "onyomi": [
+      "カツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "豁然",
+        "reading": "カツゼン",
+        "meaning": "(open up) suddenly (of a view), widely, broadly, (disappear) suddenly (of doubt, hesitation, etc.)"
+      },
+      {
+        "example": "豁然大悟",
+        "reading": "カツゼンタイゴ",
+        "meaning": "suddenly seeing the light, achieving full enlightenment all of a sudden"
+      },
+      {
+        "example": "開豁",
+        "reading": "カイカツ",
+        "meaning": "open, openminded"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "谷",
+      "meaning": "valley"
+    },
+    "parts": [
+      "ハ",
+      "个",
+      "二",
+      "亠",
+      "口",
+      "土",
+      "宀",
+      "谷"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35905_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c41.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c41.gif",
+    "uri": "https://jisho.org/search/%E8%B1%81%23kanji"
+  }
+}

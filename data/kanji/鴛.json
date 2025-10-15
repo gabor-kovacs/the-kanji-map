@@ -1,1 +1,66 @@
-{"id":"鴛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鴛","found":true,"strokeCount":16,"meaning":"male mandarin duck","kunyomi":["おし","おしどり"],"onyomi":["エン","オン"],"onyomiExamples":[{"example":"鴛鴦","reading":"オシドリ","meaning":"mandarin duck (Aix galericulata)"},{"example":"鴛鴦茶","reading":"エンオウチャ","meaning":"drink of black tea mixed with coffee"}],"kunyomiExamples":[{"example":"鴛鴦","reading":"おしどり","meaning":"mandarin duck (Aix galericulata)"},{"example":"おしどり夫婦","reading":"おしどりふうふ","meaning":"loving couple, couple of lovebirds, happily married couple (who are always together)"},{"example":"鴛鴦","reading":"おしどり","meaning":"mandarin duck (Aix galericulata)"},{"example":"おしどり夫婦","reading":"おしどりふうふ","meaning":"loving couple, couple of lovebirds, happily married couple (who are always together)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["卩","夕","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40219_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d1b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d1b.gif","uri":"https://jisho.org/search/%E9%B4%9B%23kanji"}}
+{
+  "id": "鴛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鴛",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "male mandarin duck",
+    "kunyomi": [
+      "おし",
+      "おしどり"
+    ],
+    "onyomi": [
+      "エン",
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鴛鴦",
+        "reading": "エンオウ",
+        "meaning": "mandarin duck"
+      },
+      {
+        "example": "鴛鴦茶",
+        "reading": "エンオウチャ",
+        "meaning": "drink of black tea mixed with coffee"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鴛鴦",
+        "reading": "おし",
+        "meaning": "mandarin duck"
+      },
+      {
+        "example": "鴛鴦",
+        "reading": "おしどり",
+        "meaning": "mandarin duck (Aix galericulata)"
+      },
+      {
+        "example": "鴛鴦",
+        "reading": "おしどり",
+        "meaning": "mandarin duck (Aix galericulata)"
+      },
+      {
+        "example": "おしどり夫婦",
+        "reading": "おしどりふうふ",
+        "meaning": "loving couple, couple of lovebirds, happily married couple (who are always together)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "卩",
+      "夕",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40219_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d1b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d1b.gif",
+    "uri": "https://jisho.org/search/%E9%B4%9B%23kanji"
+  }
+}

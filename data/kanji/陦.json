@@ -1,1 +1,37 @@
-{"id":"陦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"陦","found":true,"strokeCount":10,"meaning":"island","kunyomi":["しま"],"onyomi":["トウ","チョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["ノ","二","土","寸","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38502_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09666.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9666.gif","uri":"https://jisho.org/search/%E9%99%A6%23kanji"}}
+{
+  "id": "陦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陦",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "island",
+    "kunyomi": [
+      "しま"
+    ],
+    "onyomi": [
+      "トウ",
+      "チョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "土",
+      "寸",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38502_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09666.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9666.gif",
+    "uri": "https://jisho.org/search/%E9%99%A6%23kanji"
+  }
+}

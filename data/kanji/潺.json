@@ -1,1 +1,50 @@
-{"id":"潺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"潺","found":true,"strokeCount":15,"meaning":"sound of flowing water","kunyomi":[],"onyomi":["セン","サン"],"onyomiExamples":[{"example":"潺湲","reading":"センカン","meaning":"gurgling, babbling, murmuring (stream, brook, etc...)"},{"example":"潺々","reading":"センセン","meaning":"murmuringly (of a stream, etc.), with a rippling sound"},{"example":"潺々","reading":"センセン","meaning":"murmuringly (of a stream, etc.), with a rippling sound"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["子","尸","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28538_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f7a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f7a.gif","uri":"https://jisho.org/search/%E6%BD%BA%23kanji"}}
+{
+  "id": "潺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "潺",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "sound of flowing water",
+    "kunyomi": [],
+    "onyomi": [
+      "セン",
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "潺湲",
+        "reading": "センカン",
+        "meaning": "gurgling, babbling, murmuring (stream, brook, etc...)"
+      },
+      {
+        "example": "潺々",
+        "reading": "センセン",
+        "meaning": "murmuringly (of a stream, etc.), with a rippling sound"
+      },
+      {
+        "example": "潺々",
+        "reading": "センセン",
+        "meaning": "murmuringly (of a stream, etc.), with a rippling sound"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "子",
+      "尸",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28538_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f7a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f7a.gif",
+    "uri": "https://jisho.org/search/%E6%BD%BA%23kanji"
+  }
+}

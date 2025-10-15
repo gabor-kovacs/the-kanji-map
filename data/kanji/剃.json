@@ -1,1 +1,61 @@
-{"id":"剃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"剃","found":true,"newspaperFrequencyRank":"2411","strokeCount":9,"meaning":"shave","kunyomi":["まい","そ.る","す.る"],"onyomi":["テイ"],"onyomiExamples":[{"example":"剃髪","reading":"テイハツ","meaning":"tonsure, shaving one's head (upon entering the Buddhist priesthood)"},{"example":"剃毛","reading":"テイモウ","meaning":"shaving"}],"kunyomiExamples":[{"example":"剃る","reading":"そる","meaning":"to shave"},{"example":"剃る","reading":"そる","meaning":"to shave"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["ノ","刈","并","弓","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21059_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05243.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5243.gif","uri":"https://jisho.org/search/%E5%89%83%23kanji"}}
+{
+  "id": "剃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "剃",
+    "found": true,
+    "newspaperFrequencyRank": "2411",
+    "strokeCount": 9,
+    "meaning": "shave",
+    "kunyomi": [
+      "まい",
+      "そ.る",
+      "す.る"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剃髪",
+        "reading": "テイハツ",
+        "meaning": "tonsure, shaving one's head (upon entering the Buddhist priesthood)"
+      },
+      {
+        "example": "剃毛",
+        "reading": "テイモウ",
+        "meaning": "shaving"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "剃る",
+        "reading": "そる",
+        "meaning": "to shave"
+      },
+      {
+        "example": "剃る",
+        "reading": "そる",
+        "meaning": "to shave"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "ノ",
+      "刈",
+      "并",
+      "弓",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21059_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05243.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5243.gif",
+    "uri": "https://jisho.org/search/%E5%89%83%23kanji"
+  }
+}

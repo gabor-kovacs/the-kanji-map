@@ -1,1 +1,35 @@
-{"id":"凅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"凅","found":true,"strokeCount":10,"meaning":"wither, droop, lame","kunyomi":["か.れる","か.らす","こお.る"],"onyomi":["コ","カク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"冫","meaning":"ice"},"parts":["冫","十","口","囗"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20933_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c5.gif","uri":"https://jisho.org/search/%E5%87%85%23kanji"}}
+{
+  "id": "凅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凅",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "wither, droop, lame",
+    "kunyomi": [
+      "か.れる",
+      "か.らす",
+      "こお.る"
+    ],
+    "onyomi": [
+      "コ",
+      "カク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "ice"
+    },
+    "parts": [
+      "冫",
+      "十",
+      "口",
+      "囗"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20933_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c5.gif",
+    "uri": "https://jisho.org/search/%E5%87%85%23kanji"
+  }
+}

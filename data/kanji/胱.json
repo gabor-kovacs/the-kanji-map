@@ -1,1 +1,43 @@
-{"id":"胱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"胱","found":true,"strokeCount":10,"meaning":"bladder","kunyomi":[],"onyomi":["コウ"],"onyomiExamples":[{"example":"膀胱","reading":"ボウコウ","meaning":"urinary bladder"},{"example":"人工膀胱","reading":"ジンコウボウコウ","meaning":"artificial bladder, artificial urinary bladder"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["儿","尚","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33009_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080f1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80f1.gif","uri":"https://jisho.org/search/%E8%83%B1%23kanji"}}
+{
+  "id": "胱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胱",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "bladder",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膀胱",
+        "reading": "ボウコウ",
+        "meaning": "urinary bladder"
+      },
+      {
+        "example": "人工膀胱",
+        "reading": "ジンコウボウコウ",
+        "meaning": "artificial bladder, artificial urinary bladder"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "儿",
+      "尚",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33009_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080f1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80f1.gif",
+    "uri": "https://jisho.org/search/%E8%83%B1%23kanji"
+  }
+}

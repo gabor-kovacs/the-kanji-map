@@ -1,1 +1,40 @@
-{"id":"彬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"彬","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2174","strokeCount":11,"meaning":"refined, gentle","kunyomi":["うるわ.しい","あき.らか"],"onyomi":["ヒン","フン"],"onyomiExamples":[{"example":"彬蔚","reading":"ヒンウツ","meaning":"erudite and refined, handsome"}],"kunyomiExamples":[],"radical":{"symbol":"彡","meaning":"bristle, beard"},"parts":["彡","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24428_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f6c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f6c.gif","uri":"https://jisho.org/search/%E5%BD%AC%23kanji"}}
+{
+  "id": "彬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彬",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2174",
+    "strokeCount": 11,
+    "meaning": "refined, gentle",
+    "kunyomi": [
+      "うるわ.しい",
+      "あき.らか"
+    ],
+    "onyomi": [
+      "ヒン",
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彬蔚",
+        "reading": "ヒンウツ",
+        "meaning": "erudite and refined, handsome"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彡",
+      "meaning": "bristle, beard"
+    },
+    "parts": [
+      "彡",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24428_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f6c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f6c.gif",
+    "uri": "https://jisho.org/search/%E5%BD%AC%23kanji"
+  }
+}

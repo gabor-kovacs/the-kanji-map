@@ -1,1 +1,299 @@
-{"id":"忙","kanjialiveData":{"kanji":{"character":"忙","meaning":{"english":"busy"},"strokes":{"count":6,"timings":[0,2.333,3.266,4.8,5.666,6.866,8.333333],"images":["https://media.kanjialive.com/kanji_strokes/isoga(shii)_1.svg","https://media.kanjialive.com/kanji_strokes/isoga(shii)_2.svg","https://media.kanjialive.com/kanji_strokes/isoga(shii)_3.svg","https://media.kanjialive.com/kanji_strokes/isoga(shii)_4.svg","https://media.kanjialive.com/kanji_strokes/isoga(shii)_5.svg","https://media.kanjialive.com/kanji_strokes/isoga(shii)_6.svg"]},"onyomi":{"romaji":"bou","katakana":"ボウ"},"kunyomi":{"romaji":"isoga, isogashii","hiragana":"いそが"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/isoga(shii)_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/isoga(shii)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/isoga(shii)_00.webm"}},"radical":{"character":"⺖","strokes":3,"image":"https://media.kanjialive.com/radical_character/risshinben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"りっしんべん","romaji":"risshinben"},"meaning":{"english":"heart, mind, spirit"},"animation":["https://media.kanjialive.com/rad_frames/risshinben0.svg","https://media.kanjialive.com/rad_frames/risshinben1.svg","https://media.kanjialive.com/rad_frames/risshinben2.svg"]},"references":{"grade":null,"kodansha":"158","classic_nelson":"1647"},"examples":[{"japanese":"多忙な（たぼうな）","meaning":{"english":"busy"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/isoga(shii)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/isoga(shii)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/isoga(shii)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/isoga(shii)_06_a.mp3"}},{"japanese":"忙殺される（ぼうさつされる）","meaning":{"english":"be worked to death"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/isoga(shii)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/isoga(shii)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/isoga(shii)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/isoga(shii)_06_b.mp3"}},{"japanese":"忙しい（いそがしい）","meaning":{"english":"busy"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/isoga(shii)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/isoga(shii)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/isoga(shii)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/isoga(shii)_06_c.mp3"}}]},"jishoData":{"query":"忙","found":true,"taughtIn":"junior high","jlptLevel":"N3","newspaperFrequencyRank":"1475","strokeCount":6,"meaning":"busy, occupied, restless","kunyomi":["いそが.しい","せわ.しい","おそ.れる","うれえるさま"],"onyomi":["ボウ","モウ"],"onyomiExamples":[{"example":"忙殺","reading":"ボウサツ","meaning":"being extremely busy, being swamped with work"},{"example":"忙殺される","reading":"ボウサツサレル","meaning":"to be very busily occupied, to be swamped with work"},{"example":"煩忙","reading":"ハンボウ","meaning":"pressure of business, busy"}],"kunyomiExamples":[{"example":"忙しい","reading":"いそがしい","meaning":"busy, occupied, hectic, restless, hurried, fidgety"},{"example":"忙しい","reading":"せわしい","meaning":"busy, hectic, frantic, restless, hurried, fidgety"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["亠","亡","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24537_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fd9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fd9.gif","uri":"https://jisho.org/search/%E5%BF%99%23kanji"}}
+{
+  "id": "忙",
+  "kanjialiveData": {
+    "_id": "54317ae2791eba5146ee494a",
+    "_rev": "12-8f7610fbf1b8d26934c4de5920dc9597",
+    "rad_name_ja": "りっしんべん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "isoga, isogashii",
+    "meaning": "busy",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "多忙な（たぼうな）",
+        "meaning": {
+          "english": "busy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isoga(shii)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/isoga(shii)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/isoga(shii)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/isoga(shii)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "忙殺される（ぼうさつされる）",
+        "meaning": {
+          "english": "be worked to death"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isoga(shii)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/isoga(shii)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/isoga(shii)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/isoga(shii)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "忙しい（いそがしい）",
+        "meaning": {
+          "english": "busy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isoga(shii)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/isoga(shii)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/isoga(shii)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/isoga(shii)_06_c.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いそが、いそがしい",
+    "ka_utf": "忙",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=忙",
+    "rad_name_search": [
+      "risshinben"
+    ],
+    "rad_order": 79,
+    "txt_books": [
+      {
+        "chapter": "17",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "isoga(shii)",
+    "rad_utf": "⺖",
+    "stroketimes": [
+      0,
+      2.333,
+      3.266,
+      4.8,
+      5.666,
+      6.866,
+      8.333333
+    ],
+    "kunyomi_ka_display": "いそが",
+    "dick": "158",
+    "rad_name": "risshinben",
+    "dicn": "1647",
+    "mn_hint": "Always being busy is not good for the heart 忄; one may die 亡 from a heart attack.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ボウ",
+    "rad_meaning": "heart, mind, spirit",
+    "onyomi": "bou",
+    "ka_id": "ka_162",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "bou",
+      "bou"
+    ],
+    "kunyomi_search": [
+      "isoga",
+      "isogashii",
+      "isoga, isogashii"
+    ],
+    "meaning_search": [
+      "busy",
+      "busy"
+    ],
+    "onyomi_ja_search": [
+      "ボウ",
+      "ボウ"
+    ],
+    "kunyomi_ja_search": [
+      "いそが",
+      "いそがしい",
+      "いそが、いそがしい"
+    ],
+    "rad_meaning_search": [
+      "heart",
+      "mind",
+      "spirit",
+      "heart, mind, spirit"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "りっしんべん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:17",
+      "cij:c17",
+      "bk",
+      "bk:16",
+      "bk:c16",
+      "mac",
+      "mac:13",
+      "mac:c13",
+      "ap",
+      "ap:19",
+      "ap:c19",
+      "jt",
+      "jt:2",
+      "jt:c2"
+    ],
+    "rad_name_file": "risshinben",
+    "kanji": {
+      "character": "忙",
+      "meaning": {
+        "english": "busy"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          2.333,
+          3.266,
+          4.8,
+          5.666,
+          6.866,
+          8.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/isoga(shii)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/isoga(shii)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/isoga(shii)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/isoga(shii)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/isoga(shii)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/isoga(shii)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bou",
+        "katakana": "ボウ"
+      },
+      "kunyomi": {
+        "romaji": "isoga, isogashii",
+        "hiragana": "いそが"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/isoga(shii)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/isoga(shii)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/isoga(shii)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺖",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/risshinben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "りっしんべん",
+        "romaji": "risshinben"
+      },
+      "meaning": {
+        "english": "heart, mind, spirit"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/risshinben0.svg",
+        "https://media.kanjialive.com/rad_frames/risshinben1.svg",
+        "https://media.kanjialive.com/rad_frames/risshinben2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "158",
+      "classic_nelson": "1647"
+    }
+  },
+  "jishoData": {
+    "query": "忙",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "1475",
+    "strokeCount": 6,
+    "meaning": "busy, occupied, restless",
+    "kunyomi": [
+      "いそが.しい",
+      "せわ.しい",
+      "おそ.れる",
+      "うれえるさま"
+    ],
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忙殺",
+        "reading": "ボウサツ",
+        "meaning": "being extremely busy, being swamped with work"
+      },
+      {
+        "example": "忙殺される",
+        "reading": "ボウサツサレル",
+        "meaning": "to be very busily occupied, to be swamped with work"
+      },
+      {
+        "example": "繁忙",
+        "reading": "ハンボウ",
+        "meaning": "busy, high-stress, hectic, pressed (with business)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "忙しい",
+        "reading": "いそがしい",
+        "meaning": "busy, occupied, hectic, restless, hurried, fidgety"
+      },
+      {
+        "example": "忙しい",
+        "reading": "せわしい",
+        "meaning": "busy, hectic, frantic, restless, hurried, fidgety"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "亠",
+      "亡",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24537_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fd9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fd9.gif",
+    "uri": "https://jisho.org/search/%E5%BF%99%23kanji"
+  }
+}

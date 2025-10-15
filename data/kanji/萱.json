@@ -1,1 +1,69 @@
-{"id":"萱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"萱","found":true,"newspaperFrequencyRank":"2217","strokeCount":12,"meaning":"miscanthus reed","kunyomi":["かや","かんぞう"],"onyomi":["ケン"],"onyomiExamples":[{"example":"萱堂","reading":"ケンドウ","meaning":"mother"}],"kunyomiExamples":[{"example":"茅","reading":"かや","meaning":"grass used for thatching, sedge used for thatching"},{"example":"萱鼠","reading":"かやねずみ","meaning":"harvest mouse (Mus minutus)"},{"example":"刈萱","reading":"かるかや","meaning":"Themeda triandra var. japonica (variety of kangaroo grass), Cymbopogon tortilis var. goeringii (variety of grass closely related to lemongrass), thatching grass, thatching sedge"},{"example":"雄刈萱","reading":"おがるかや","meaning":"Cymbopogon tortilis var. goeringii (variety of grass closely related to lemongrass)"},{"example":"萱草","reading":"かんぞう","meaning":"daylily (any flower of the family Hemerocallis), day lily"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","宀","日","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33841_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08431.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8431.gif","uri":"https://jisho.org/search/%E8%90%B1%23kanji"}}
+{
+  "id": "萱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "萱",
+    "found": true,
+    "newspaperFrequencyRank": "2217",
+    "strokeCount": 12,
+    "meaning": "miscanthus reed",
+    "kunyomi": [
+      "かや",
+      "かんぞう"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "萱堂",
+        "reading": "ケンドウ",
+        "meaning": "mother"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "茅",
+        "reading": "かや",
+        "meaning": "grass used for thatching, sedge used for thatching"
+      },
+      {
+        "example": "萱鼠",
+        "reading": "かやねずみ",
+        "meaning": "harvest mouse (Mus minutus)"
+      },
+      {
+        "example": "刈萱",
+        "reading": "かるかや",
+        "meaning": "Themeda triandra var. japonica (variety of kangaroo grass), Cymbopogon tortilis var. goeringii (variety of grass closely related to lemongrass), thatching grass, thatching sedge"
+      },
+      {
+        "example": "雄刈萱",
+        "reading": "おがるかや",
+        "meaning": "Cymbopogon tortilis var. goeringii (variety of grass closely related to lemongrass)"
+      },
+      {
+        "example": "萱草",
+        "reading": "かんぞう",
+        "meaning": "daylily (any flower of the family Hemerocallis), day lily"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "宀",
+      "日",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33841_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08431.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8431.gif",
+    "uri": "https://jisho.org/search/%E8%90%B1%23kanji"
+  }
+}

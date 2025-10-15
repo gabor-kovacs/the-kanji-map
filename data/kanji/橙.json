@@ -1,1 +1,70 @@
-{"id":"橙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"橙","found":true,"strokeCount":16,"meaning":"bitter orange","kunyomi":["だいだい"],"onyomi":["トウ"],"onyomiExamples":[{"example":"橙色","reading":"ダイダイイロ","meaning":"orange (color, colour)"},{"example":"橙黄色","reading":"トウコウショク","meaning":"orange (colour)"},{"example":"九蓮宝燈","reading":"チューレンポートー","meaning":"nine gates, winning hand composed of 1-1-1-2-3-4-5-6-7-8-9-9-9 of the same suit plus one additional tile of the same suit"}],"kunyomiExamples":[{"example":"橙","reading":"だいだい","meaning":"bitter orange (Citrus aurantium), sour orange, Seville orange, orange (color, colour)"},{"example":"橙色","reading":"だいだいいろ","meaning":"orange (color, colour)"},{"example":"薄橙","reading":"うすだいだい","meaning":"pale orange (color)"},{"example":"川野夏橙","reading":"かわのなつだいだい","meaning":"amanatsu (Citrus natsudaidai), sweet form of Chinese citron"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["口","并","木","癶","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27225_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a59.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a59.gif","uri":"https://jisho.org/search/%E6%A9%99%23kanji"}}
+{
+  "id": "橙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "橙",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "bitter orange",
+    "kunyomi": [
+      "だいだい"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "橙色",
+        "reading": "ダイダイイロ",
+        "meaning": "orange (color, colour)"
+      },
+      {
+        "example": "橙黄色",
+        "reading": "トウコウショク",
+        "meaning": "orange (colour)"
+      },
+      {
+        "example": "九蓮宝燈",
+        "reading": "チューレンポートー",
+        "meaning": "nine gates, winning hand composed of 1-1-1-2-3-4-5-6-7-8-9-9-9 of the same suit plus one additional tile of the same suit"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "橙",
+        "reading": "だいだい",
+        "meaning": "bitter orange (Citrus aurantium), sour orange, Seville orange, orange (color, colour)"
+      },
+      {
+        "example": "橙色",
+        "reading": "だいだいいろ",
+        "meaning": "orange (color, colour)"
+      },
+      {
+        "example": "薄橙",
+        "reading": "うすだいだい",
+        "meaning": "pale orange (color)"
+      },
+      {
+        "example": "夏橙",
+        "reading": "なつだいだい",
+        "meaning": "natsumikan (Citrus natsudaidai), Japanese summer orange"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "口",
+      "并",
+      "木",
+      "癶",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27225_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a59.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a59.gif",
+    "uri": "https://jisho.org/search/%E6%A9%99%23kanji"
+  }
+}

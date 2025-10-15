@@ -1,1 +1,52 @@
-{"id":"虻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"虻","found":true,"strokeCount":9,"meaning":"gadfly, horsefly","kunyomi":["あぶ"],"onyomi":["ボウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"虻","reading":"あぶ","meaning":"horsefly, gadfly"},{"example":"虻蜂","reading":"あぶはち","meaning":"horsefly and bee, horsefly and wasp"},{"example":"虫引虻","reading":"むしひきあぶ","meaning":"robber fly (any fly of family Asilidae)"},{"example":"牛虻","reading":"うしあぶ","meaning":"Tabanus trigonus (species of horsefly)"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["亠","亡","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34427_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0867b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/867b.gif","uri":"https://jisho.org/search/%E8%99%BB%23kanji"}}
+{
+  "id": "虻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虻",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "gadfly, horsefly",
+    "kunyomi": [
+      "あぶ"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "虻",
+        "reading": "あぶ",
+        "meaning": "horsefly, gadfly"
+      },
+      {
+        "example": "虻蜂",
+        "reading": "あぶはち",
+        "meaning": "horsefly and bee, horsefly and wasp"
+      },
+      {
+        "example": "虫引虻",
+        "reading": "むしひきあぶ",
+        "meaning": "robber fly (any fly of family Asilidae)"
+      },
+      {
+        "example": "牛虻",
+        "reading": "うしあぶ",
+        "meaning": "Tabanus trigonus (species of horsefly)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "亠",
+      "亡",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34427_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0867b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/867b.gif",
+    "uri": "https://jisho.org/search/%E8%99%BB%23kanji"
+  }
+}

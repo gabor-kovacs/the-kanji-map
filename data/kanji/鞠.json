@@ -1,1 +1,70 @@
-{"id":"鞠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鞠","found":true,"jlptLevel":"N1","strokeCount":17,"meaning":"ball","kunyomi":["まり"],"onyomi":["キク","キュウ"],"onyomiExamples":[{"example":"鞠躬如","reading":"キッキュウジョ","meaning":"deferential, humble, reverent, respectful"},{"example":"鞠問","reading":"キクモン","meaning":"examination, interrogation, questioning"},{"example":"推鞠","reading":"スイキク","meaning":"investigating (e.g. a criminal)"},{"example":"蹴鞠","reading":"ケマリ","meaning":"kemari, type of football played by courtiers in ancient Japan"}],"kunyomiExamples":[{"example":"鞠","reading":"まり","meaning":"ball (for sport, games, etc.), kemari, type of football played by courtiers in ancient Japan"},{"example":"蹴鞠","reading":"けまり","meaning":"kemari, type of football played by courtiers in ancient Japan"},{"example":"手毬","reading":"てまり","meaning":"traditional Japanese handball game"}],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["勹","米","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38816_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097a0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97a0.gif","uri":"https://jisho.org/search/%E9%9E%A0%23kanji"}}
+{
+  "id": "鞠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞠",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 17,
+    "meaning": "ball",
+    "kunyomi": [
+      "まり"
+    ],
+    "onyomi": [
+      "キク",
+      "キュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鞠躬如",
+        "reading": "キッキュウジョ",
+        "meaning": "deferential, humble, reverent, respectful"
+      },
+      {
+        "example": "鞠問",
+        "reading": "キクモン",
+        "meaning": "questioning (someone) about a crime, interrogation"
+      },
+      {
+        "example": "推鞠",
+        "reading": "スイキク",
+        "meaning": "investigating (e.g. a criminal)"
+      },
+      {
+        "example": "蹴鞠",
+        "reading": "ケマリ",
+        "meaning": "kemari, type of football played by courtiers in ancient Japan"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鞠",
+        "reading": "まり",
+        "meaning": "ball (for sport, games, etc.), kemari, type of football played by courtiers in ancient Japan"
+      },
+      {
+        "example": "蹴鞠",
+        "reading": "けまり",
+        "meaning": "kemari, type of football played by courtiers in ancient Japan"
+      },
+      {
+        "example": "手毬",
+        "reading": "てまり",
+        "meaning": "traditional Japanese handball game"
+      }
+    ],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "勹",
+      "米",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38816_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97a0.gif",
+    "uri": "https://jisho.org/search/%E9%9E%A0%23kanji"
+  }
+}

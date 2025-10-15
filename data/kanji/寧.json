@@ -1,1 +1,64 @@
-{"id":"寧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"寧","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1697","strokeCount":14,"meaning":"rather, preferably, peaceful, quiet, tranquility","kunyomi":["むし.ろ"],"onyomi":["ネイ"],"onyomiExamples":[{"example":"寧夏回族自治区","reading":"ネイカカイゾクジチク","meaning":"Ningxia Hui Autonomous Region (China)"},{"example":"寧日","reading":"ネイジツ","meaning":"peaceful day"},{"example":"西寧","reading":"セイネイ","meaning":"Xining (China)"},{"example":"静寧","reading":"セイネイ","meaning":"peace and quiet, tranquility, peace on earth"}],"kunyomiExamples":[{"example":"寧ろ","reading":"むしろ","meaning":"rather, better, instead, if anything"}],"radical":{"symbol":"宀","meaning":"roof"},"parts":["一","亅","宀","心","皿","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23527_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be7.gif","uri":"https://jisho.org/search/%E5%AF%A7%23kanji"}}
+{
+  "id": "寧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寧",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1697",
+    "strokeCount": 14,
+    "meaning": "rather, preferably, peaceful, quiet, tranquility",
+    "kunyomi": [
+      "むし.ろ"
+    ],
+    "onyomi": [
+      "ネイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寧夏回族自治区",
+        "reading": "ネイカカイゾクジチク",
+        "meaning": "Ningxia Hui Autonomous Region (China)"
+      },
+      {
+        "example": "寧日",
+        "reading": "ネイジツ",
+        "meaning": "peaceful day"
+      },
+      {
+        "example": "西寧",
+        "reading": "セイネイ",
+        "meaning": "Xining (China)"
+      },
+      {
+        "example": "静寧",
+        "reading": "セイネイ",
+        "meaning": "peace, calm, tranquility"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寧ろ",
+        "reading": "むしろ",
+        "meaning": "rather, better, instead, if anything"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "宀",
+      "心",
+      "皿",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23527_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be7.gif",
+    "uri": "https://jisho.org/search/%E5%AF%A7%23kanji"
+  }
+}

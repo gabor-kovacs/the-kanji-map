@@ -1,1 +1,35 @@
-{"id":"恊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"恊","found":true,"strokeCount":9,"meaning":"threaten","kunyomi":["あわ.せる","かな.う"],"onyomi":["キョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["力","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24650_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0604a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/604a.gif","uri":"https://jisho.org/search/%E6%81%8A%23kanji"}}
+{
+  "id": "恊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恊",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "threaten",
+    "kunyomi": [
+      "あわ.せる",
+      "かな.う"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "力",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24650_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0604a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/604a.gif",
+    "uri": "https://jisho.org/search/%E6%81%8A%23kanji"
+  }
+}

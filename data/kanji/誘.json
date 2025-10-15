@@ -1,1 +1,71 @@
-{"id":"誘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"誘","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"993","strokeCount":14,"meaning":"entice, lead, tempt, invite, ask, call for, seduce, allure","kunyomi":["さそ.う","いざな.う"],"onyomi":["ユウ"],"onyomiExamples":[{"example":"誘致","reading":"ユウチ","meaning":"attraction, lure, invitation"},{"example":"誘拐","reading":"ユウカイ","meaning":"abduction, kidnapping, kidnaping"},{"example":"不招請勧誘","reading":"フショウセイカンユウ","meaning":"unsolicited promotion"},{"example":"劇場型勧誘","reading":"ゲキジョウガタカンユウ","meaning":"advertising fraudulent investment schemes with glossy brochures, phone calls, etc."}],"kunyomiExamples":[{"example":"誘う","reading":"さそう","meaning":"to invite, to ask (someone to do), to call (for), to take (someone) along, to tempt, to lure, to entice, to seduce, to induce (tears, laughter, sleepiness, etc.), to arouse (e.g. sympathy), to provoke"},{"example":"誘う","reading":"さそう","meaning":"to invite, to ask (someone to do), to call (for), to take (someone) along, to tempt, to lure, to entice, to seduce, to induce (tears, laughter, sleepiness, etc.), to arouse (e.g. sympathy), to provoke"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["ノ","乃","禾","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35480_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a98.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a98.gif","uri":"https://jisho.org/search/%E8%AA%98%23kanji"}}
+{
+  "id": "誘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "誘",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "993",
+    "strokeCount": 14,
+    "meaning": "entice, lead, tempt, invite, ask, call for, seduce, allure",
+    "kunyomi": [
+      "さそ.う",
+      "いざな.う"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "誘致",
+        "reading": "ユウチ",
+        "meaning": "attraction, lure, invitation"
+      },
+      {
+        "example": "誘拐",
+        "reading": "ユウカイ",
+        "meaning": "abduction, kidnapping, kidnaping"
+      },
+      {
+        "example": "不招請勧誘",
+        "reading": "フショウセイカンユウ",
+        "meaning": "unsolicited promotion"
+      },
+      {
+        "example": "劇場型勧誘",
+        "reading": "ゲキジョウガタカンユウ",
+        "meaning": "advertising fraudulent investment schemes with glossy brochures, phone calls, etc."
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "誘う",
+        "reading": "さそう",
+        "meaning": "to invite, to ask (someone to do), to call (for), to take (someone) along, to tempt, to lure, to entice, to seduce, to induce (tears, laughter, sleepiness, etc.), to arouse (e.g. sympathy), to provoke"
+      },
+      {
+        "example": "誘う",
+        "reading": "さそう",
+        "meaning": "to invite, to ask (someone to do), to call (for), to take (someone) along, to tempt, to lure, to entice, to seduce, to induce (tears, laughter, sleepiness, etc.), to arouse (e.g. sympathy), to provoke"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "ノ",
+      "乃",
+      "禾",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35480_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a98.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a98.gif",
+    "uri": "https://jisho.org/search/%E8%AA%98%23kanji"
+  }
+}

@@ -1,1 +1,44 @@
-{"id":"勾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"勾","found":true,"taughtIn":"junior high","strokeCount":4,"meaning":"be bent, slope, capture","kunyomi":["かぎ","ま.がる"],"onyomi":["コウ","ク"],"onyomiExamples":[{"example":"勾配","reading":"コウバイ","meaning":"slope, incline, gradient, grade, pitch, slope (of a linear function), gradient (vector calculus)"},{"example":"勾引","reading":"コウイン","meaning":"arrest, custody, apprehending, abduction"}],"kunyomiExamples":[],"radical":{"symbol":"勹","meaning":"wrap, embrace"},"parts":["勹","厶"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21246_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052fe.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52fe.gif","uri":"https://jisho.org/search/%E5%8B%BE%23kanji"}}
+{
+  "id": "勾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "勾",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 4,
+    "meaning": "be bent, slope, capture",
+    "kunyomi": [
+      "かぎ",
+      "ま.がる"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "勾配",
+        "reading": "コウバイ",
+        "meaning": "slope, incline, gradient, grade, pitch, slope (of a linear function), gradient (vector calculus)"
+      },
+      {
+        "example": "勾引",
+        "reading": "コウイン",
+        "meaning": "arrest, custody, apprehending, abduction"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "勹",
+      "meaning": "wrap, embrace"
+    },
+    "parts": [
+      "勹",
+      "厶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21246_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052fe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52fe.gif",
+    "uri": "https://jisho.org/search/%E5%8B%BE%23kanji"
+  }
+}

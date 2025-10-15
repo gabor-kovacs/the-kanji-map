@@ -1,1 +1,40 @@
-{"id":"袁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"袁","found":true,"newspaperFrequencyRank":"2419","strokeCount":10,"meaning":"long kimono","kunyomi":[],"onyomi":["エン","オン"],"onyomiExamples":[{"example":"袁彦道","reading":"エンゲンドウ","meaning":"gambling"}],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["口","土","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34945_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08881.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8881.gif","uri":"https://jisho.org/search/%E8%A2%81%23kanji"}}
+{
+  "id": "袁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "袁",
+    "found": true,
+    "newspaperFrequencyRank": "2419",
+    "strokeCount": 10,
+    "meaning": "long kimono",
+    "kunyomi": [],
+    "onyomi": [
+      "エン",
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "袁彦道",
+        "reading": "エンゲンドウ",
+        "meaning": "gambling"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "口",
+      "土",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34945_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08881.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8881.gif",
+    "uri": "https://jisho.org/search/%E8%A2%81%23kanji"
+  }
+}

@@ -1,1 +1,32 @@
-{"id":"齠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"齠","found":true,"strokeCount":20,"meaning":"baby teeth, young child","kunyomi":[],"onyomi":["チョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"齒","meaning":"tooth, molar"},"parts":["凵","刀","口","止","歯","米"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40800_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f60.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f60.gif","uri":"https://jisho.org/search/%E9%BD%A0%23kanji"}}
+{
+  "id": "齠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齠",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "baby teeth, young child",
+    "kunyomi": [],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "齒",
+      "meaning": "tooth, molar"
+    },
+    "parts": [
+      "凵",
+      "刀",
+      "口",
+      "止",
+      "歯",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40800_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f60.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f60.gif",
+    "uri": "https://jisho.org/search/%E9%BD%A0%23kanji"
+  }
+}

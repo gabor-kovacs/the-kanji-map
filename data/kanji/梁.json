@@ -1,1 +1,84 @@
-{"id":"梁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梁","found":true,"newspaperFrequencyRank":"2017","strokeCount":11,"meaning":"weir, fish trap, beam, girder","kunyomi":["はり","うつばり","うちばり","やな","はし"],"onyomi":["リョウ"],"onyomiExamples":[{"example":"梁","reading":"リョウ","meaning":"Liang dynasty (of China; 502-557)"},{"example":"梁山泊","reading":"リョウザンパク","meaning":"place of assemblage for the bold and ambitious"},{"example":"高粱","reading":"コウリョウ","meaning":"kaoliang, variety of sorghum, esp. used in making spirits"},{"example":"虹梁","reading":"コウリョウ","meaning":"arched beam used in shrine and temple construction"}],"kunyomiExamples":[{"example":"梁","reading":"はり","meaning":"beam, joist"},{"example":"梁成","reading":"はりせい","meaning":"height of a beam, beam as measured from top to bottom"},{"example":"梁","reading":"うつばり","meaning":"(roof) beam"},{"example":"梁","reading":"うつばり","meaning":"(roof) beam"},{"example":"梁","reading":"やな","meaning":"(fish) weir, fish trap"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["丶","刀","木","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26753_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06881.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6881.gif","uri":"https://jisho.org/search/%E6%A2%81%23kanji"}}
+{
+  "id": "梁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梁",
+    "found": true,
+    "newspaperFrequencyRank": "2017",
+    "strokeCount": 11,
+    "meaning": "weir, fish trap, beam, girder",
+    "kunyomi": [
+      "はり",
+      "うつばり",
+      "うちばり",
+      "やな",
+      "はし"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梁",
+        "reading": "リョウ",
+        "meaning": "Liang dynasty (of China; 502-557)"
+      },
+      {
+        "example": "梁山泊",
+        "reading": "リョウザンパク",
+        "meaning": "place of assemblage for the bold and ambitious"
+      },
+      {
+        "example": "高粱",
+        "reading": "コウリョウ",
+        "meaning": "kaoliang, variety of sorghum, esp. used in making spirits"
+      },
+      {
+        "example": "虹梁",
+        "reading": "コウリョウ",
+        "meaning": "arched beam used in shrine and temple construction"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梁",
+        "reading": "はり",
+        "meaning": "beam, joist"
+      },
+      {
+        "example": "梁成",
+        "reading": "はりせい",
+        "meaning": "height of a beam, beam as measured from top to bottom"
+      },
+      {
+        "example": "梁",
+        "reading": "うつばり",
+        "meaning": "(roof) beam"
+      },
+      {
+        "example": "梁",
+        "reading": "うつばり",
+        "meaning": "(roof) beam"
+      },
+      {
+        "example": "梁",
+        "reading": "やな",
+        "meaning": "(fish) weir, fish trap"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "丶",
+      "刀",
+      "木",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26753_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06881.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6881.gif",
+    "uri": "https://jisho.org/search/%E6%A2%81%23kanji"
+  }
+}

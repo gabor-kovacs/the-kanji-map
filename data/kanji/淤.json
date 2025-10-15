@@ -1,1 +1,43 @@
-{"id":"淤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"淤","found":true,"strokeCount":11,"meaning":"mud, silt, clog up, obstruct","kunyomi":["どろ"],"onyomi":["オ","ヨ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["个","冫","方","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28132_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06de4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6de4.gif","uri":"https://jisho.org/search/%E6%B7%A4%23kanji"}}
+{
+  "id": "淤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淤",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "mud, silt, clog up, obstruct",
+    "kunyomi": [
+      "どろ"
+    ],
+    "onyomi": [
+      "オ",
+      "ヨ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "汚泥",
+        "reading": "オデイ",
+        "meaning": "sludge, slime, dregs, mire, hopeless situation, hell, despair"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "个",
+      "冫",
+      "方",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28132_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06de4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6de4.gif",
+    "uri": "https://jisho.org/search/%E6%B7%A4%23kanji"
+  }
+}

@@ -1,1 +1,39 @@
-{"id":"黜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"黜","found":true,"strokeCount":17,"meaning":"draw back","kunyomi":["しりぞ.ける"],"onyomi":["チュツ"],"onyomiExamples":[{"example":"免黜","reading":"メンチュツ","meaning":"dismissal"}],"kunyomiExamples":[],"radical":{"symbol":"黑","meaning":"black"},"parts":["山","杰","里","黒","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40668_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09edc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9edc.gif","uri":"https://jisho.org/search/%E9%BB%9C%23kanji"}}
+{
+  "id": "黜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黜",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "draw back",
+    "kunyomi": [
+      "しりぞ.ける"
+    ],
+    "onyomi": [
+      "チュツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "免黜",
+        "reading": "メンチュツ",
+        "meaning": "dismissal"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "黑",
+      "meaning": "black"
+    },
+    "parts": [
+      "山",
+      "杰",
+      "里",
+      "黒",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40668_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09edc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9edc.gif",
+    "uri": "https://jisho.org/search/%E9%BB%9C%23kanji"
+  }
+}

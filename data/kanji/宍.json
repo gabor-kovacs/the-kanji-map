@@ -1,1 +1,49 @@
-{"id":"宍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"宍","found":true,"newspaperFrequencyRank":"2269","strokeCount":7,"meaning":"muscles, meat","kunyomi":["しし"],"onyomi":["ニク","ジク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"肉","reading":"しし","meaning":"flesh (esp. of an animal), meat"},{"example":"宍色","reading":"ししいろ","meaning":"salmon pink, meat color"},{"example":"膂宍","reading":"そしし","meaning":"meat, flesh, or muscles along the spine"}],"radical":{"symbol":"宀","meaning":"roof"},"parts":["ハ","亠","宀"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23437_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b8d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b8d.gif","uri":"https://jisho.org/search/%E5%AE%8D%23kanji"}}
+{
+  "id": "宍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "宍",
+    "found": true,
+    "newspaperFrequencyRank": "2269",
+    "strokeCount": 7,
+    "meaning": "muscles, meat",
+    "kunyomi": [
+      "しし"
+    ],
+    "onyomi": [
+      "ニク",
+      "ジク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "肉",
+        "reading": "しし",
+        "meaning": "flesh (esp. of an animal), meat"
+      },
+      {
+        "example": "宍色",
+        "reading": "ししいろ",
+        "meaning": "salmon pink, meat color"
+      },
+      {
+        "example": "膂宍",
+        "reading": "そしし",
+        "meaning": "meat, flesh, or muscles along the spine"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "宀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23437_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b8d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b8d.gif",
+    "uri": "https://jisho.org/search/%E5%AE%8D%23kanji"
+  }
+}

@@ -1,1 +1,36 @@
-{"id":"謌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"謌","found":true,"strokeCount":17,"meaning":"sing, recite, carol, poem, tanka, slander, defame","kunyomi":["うた","うた.う"],"onyomi":["カ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["一","亅","口","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35596_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b0c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b0c.gif","uri":"https://jisho.org/search/%E8%AC%8C%23kanji"}}
+{
+  "id": "謌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謌",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "sing, recite, carol, poem, tanka, slander, defame",
+    "kunyomi": [
+      "うた",
+      "うた.う"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35596_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b0c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b0c.gif",
+    "uri": "https://jisho.org/search/%E8%AC%8C%23kanji"
+  }
+}

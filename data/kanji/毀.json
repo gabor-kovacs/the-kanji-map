@@ -1,1 +1,81 @@
-{"id":"毀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"毀","found":true,"taughtIn":"junior high","strokeCount":13,"meaning":"break, destroy, censure, be chipped, be scratched, be broken, be ruined","kunyomi":["こぼ.つ","こわ.す","こぼ.れる","こわ.れる","そし.る","やぶ.る"],"onyomi":["キ"],"onyomiExamples":[{"example":"毀損","reading":"キソン","meaning":"damage, injury, defamation, harm"},{"example":"毀壊","reading":"キカイ","meaning":"breaking, demolishing, smashing, destroying, wrecking, being broken, being ruined, being destroyed, being worn out"},{"example":"焼毀","reading":"ショウキ","meaning":"completely destroying by fire"},{"example":"誹毀","reading":"ヒキ","meaning":"defamation, libel, calumny, slander"}],"kunyomiExamples":[{"example":"毀つ","reading":"こぼつ","meaning":"to destroy, to break, to damage"},{"example":"壊す","reading":"こわす","meaning":"to break, to destroy, to demolish, to wreck, to ruin, to spoil, to damage, to break (a bill, etc.)"},{"example":"毀れる","reading":"こぼれる","meaning":"to be chipped, to be nicked"},{"example":"壊れる","reading":"こわれる","meaning":"to be broken, to break, to fall through, to come to nothing"}],"radical":{"symbol":"殳","meaning":"weapon, lance"},"parts":["几","又","土","殳","臼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27584_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bc0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bc0.gif","uri":"https://jisho.org/search/%E6%AF%80%23kanji"}}
+{
+  "id": "毀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "毀",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 13,
+    "meaning": "break, destroy, censure, be chipped, be scratched, be broken, be ruined",
+    "kunyomi": [
+      "こぼ.つ",
+      "こわ.す",
+      "こぼ.れる",
+      "こわ.れる",
+      "そし.る",
+      "やぶ.る"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "毀損",
+        "reading": "キソン",
+        "meaning": "damage, injury, defamation, harm"
+      },
+      {
+        "example": "毀壊",
+        "reading": "キカイ",
+        "meaning": "breaking, demolishing, smashing, destroying, wrecking, being broken, being ruined, being destroyed, being worn out"
+      },
+      {
+        "example": "焼毀",
+        "reading": "ショウキ",
+        "meaning": "completely destroying by fire"
+      },
+      {
+        "example": "誹毀",
+        "reading": "ヒキ",
+        "meaning": "defamation, libel, calumny, slander"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "毀つ",
+        "reading": "こぼつ",
+        "meaning": "to destroy, to break, to damage"
+      },
+      {
+        "example": "壊す",
+        "reading": "こわす",
+        "meaning": "to break, to destroy, to demolish, to wreck, to ruin, to spoil, to damage, to break (a bill, etc.)"
+      },
+      {
+        "example": "毀れる",
+        "reading": "こぼれる",
+        "meaning": "to be chipped, to be nicked"
+      },
+      {
+        "example": "壊れる",
+        "reading": "こわれる",
+        "meaning": "to be broken, to break, to fall apart, to collapse, to be destroyed, to be damaged, to break (down), to stop working, to fall through (of a plan, deal, etc.), to collapse, to break down (of a relationship, negotiations, etc.), to be broken off, to be ruined (of an atmosphere, one's image, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "殳",
+      "meaning": "weapon, lance"
+    },
+    "parts": [
+      "几",
+      "又",
+      "土",
+      "殳",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27584_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bc0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bc0.gif",
+    "uri": "https://jisho.org/search/%E6%AF%80%23kanji"
+  }
+}

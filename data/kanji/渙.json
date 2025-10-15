@@ -1,1 +1,47 @@
-{"id":"渙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"渙","found":true,"strokeCount":12,"meaning":"scatter","kunyomi":["あきらか"],"onyomi":["カン"],"onyomiExamples":[{"example":"渙散","reading":"カンサン","meaning":"lysis, to lyse"},{"example":"渙然","reading":"カンゼン","meaning":"untied, undone"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["儿","冂","大","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28185_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e19.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e19.gif","uri":"https://jisho.org/search/%E6%B8%99%23kanji"}}
+{
+  "id": "渙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渙",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "scatter",
+    "kunyomi": [
+      "あきらか"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渙散",
+        "reading": "カンサン",
+        "meaning": "lysis, to lyse"
+      },
+      {
+        "example": "渙然",
+        "reading": "カンゼン",
+        "meaning": "untied, undone"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "儿",
+      "冂",
+      "大",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28185_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e19.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e19.gif",
+    "uri": "https://jisho.org/search/%E6%B8%99%23kanji"
+  }
+}

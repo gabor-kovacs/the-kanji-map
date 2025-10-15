@@ -1,1 +1,53 @@
-{"id":"揉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"揉","found":true,"strokeCount":12,"meaning":"rub, massage, shampoo, debate vigorously, train, coach, worry, get in trouble","kunyomi":["も.む","も.める"],"onyomi":["ジュウ"],"onyomiExamples":[{"example":"揉捻","reading":"ジュウネン","meaning":"rolling freshly-picked tea-leaves, crushing tea"}],"kunyomiExamples":[{"example":"揉む","reading":"もむ","meaning":"to rub, to crumple, to massage, to argue, to have a heated discussion, to train, to coach, to jostle, to crowd, to shake, to rock, to have various experiences (out in the world)"},{"example":"揉める","reading":"もめる","meaning":"to disagree, to dispute, to fight (over)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["マ","扎","木","矛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25545_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063c9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63c9.gif","uri":"https://jisho.org/search/%E6%8F%89%23kanji"}}
+{
+  "id": "揉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "揉",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "rub, massage, shampoo, debate vigorously, train, coach, worry, get in trouble",
+    "kunyomi": [
+      "も.む",
+      "も.める"
+    ],
+    "onyomi": [
+      "ジュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "揉捻",
+        "reading": "ジュウネン",
+        "meaning": "rolling freshly picked tea-leaves, crushing tea"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "揉む",
+        "reading": "もむ",
+        "meaning": "to rub, to crumple, to massage, to argue, to have a heated discussion, to train, to coach, to jostle, to crowd, to shake, to rock, to have various experiences (out in the world)"
+      },
+      {
+        "example": "揉める",
+        "reading": "もめる",
+        "meaning": "to disagree, to dispute, to fight (over)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "マ",
+      "扎",
+      "木",
+      "矛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25545_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063c9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63c9.gif",
+    "uri": "https://jisho.org/search/%E6%8F%89%23kanji"
+  }
+}

@@ -1,1 +1,40 @@
-{"id":"錣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"錣","found":true,"strokeCount":16,"meaning":"armor neckplates","kunyomi":["しころ"],"onyomi":["テツ","テイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"錣","reading":"しころ","meaning":"series of articulated plates attached to the back and sides of a Japanese helmet"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["又","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37667_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09323.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9323.gif","uri":"https://jisho.org/search/%E9%8C%A3%23kanji"}}
+{
+  "id": "錣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "錣",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "armor neckplates",
+    "kunyomi": [
+      "しころ"
+    ],
+    "onyomi": [
+      "テツ",
+      "テイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "錣",
+        "reading": "しころ",
+        "meaning": "series of articulated plates attached to the back and sides of a Japanese helmet"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "又",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37667_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09323.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9323.gif",
+    "uri": "https://jisho.org/search/%E9%8C%A3%23kanji"
+  }
+}

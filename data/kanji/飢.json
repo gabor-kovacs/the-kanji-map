@@ -1,1 +1,53 @@
-{"id":"飢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"飢","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1659","strokeCount":10,"meaning":"hungry, starve","kunyomi":["う.える"],"onyomi":["キ"],"onyomiExamples":[{"example":"飢餓","reading":"キガ","meaning":"starvation, famine, hunger"},{"example":"飢饉","reading":"キキン","meaning":"famine, crop failure, chronic shortage (e.g. of water)"}],"kunyomiExamples":[{"example":"飢える","reading":"うえる","meaning":"to starve, to be famished, to be hungry, to be starved of (e.g. love), to be thirsty for (e.g. knowledge), to be hungry for"}],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":["几","食"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39138_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098e2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98e2.gif","uri":"https://jisho.org/search/%E9%A3%A2%23kanji"}}
+{
+  "id": "飢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "飢",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1659",
+    "strokeCount": 10,
+    "meaning": "hungry, starve",
+    "kunyomi": [
+      "う.える"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "飢餓",
+        "reading": "キガ",
+        "meaning": "starvation, famine, hunger"
+      },
+      {
+        "example": "飢饉",
+        "reading": "キキン",
+        "meaning": "famine, crop failure, chronic shortage (e.g. of water)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "飢える",
+        "reading": "うえる",
+        "meaning": "to starve, to be famished, to be hungry, to be starved of (e.g. love), to be thirsty for (e.g. knowledge), to be hungry for"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [
+      "几",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39138_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098e2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98e2.gif",
+    "uri": "https://jisho.org/search/%E9%A3%A2%23kanji"
+  }
+}

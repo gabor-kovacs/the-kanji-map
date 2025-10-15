@@ -1,1 +1,81 @@
-{"id":"翼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"翼","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1201","strokeCount":17,"meaning":"wing, plane, flank","kunyomi":["つばさ"],"onyomi":["ヨク"],"onyomiExamples":[{"example":"翼","reading":"ツバサ","meaning":"wing, Chinese \"Wings\" constellation (one of the 28 mansions), counter for birds or bird wings"},{"example":"翼下","reading":"ヨッカ","meaning":"under the wing (esp. of an aircraft), under one's wing, under one's control"},{"example":"左翼","reading":"サヨク","meaning":"left-wing (politics), left wing (of a bird, aircraft, formation, etc.), left flank, left field"},{"example":"右翼","reading":"ウヨク","meaning":"right-wing (politics), extreme right-wing group, right wing (bird, plane, etc.), right field, right flank, right wing, right fielder, high rank, high grade, A-student"}],"kunyomiExamples":[{"example":"翼","reading":"つばさ","meaning":"wing, Chinese \"Wings\" constellation (one of the 28 mansions), counter for birds or bird wings"},{"example":"翼沙魚","reading":"つばさはぜ","meaning":"loach goby (Rhyacichthys aspro)"},{"example":"片翼","reading":"かたよく","meaning":"one wing, single wing"},{"example":"虎に翼","reading":"とらにつばさ","meaning":"making the strong even stronger"}],"radical":{"symbol":"羽","meaning":"feather"},"parts":["ハ","一","二","井","冫","田","羽","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32764_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ffc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ffc.gif","uri":"https://jisho.org/search/%E7%BF%BC%23kanji"}}
+{
+  "id": "翼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "翼",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1201",
+    "strokeCount": 17,
+    "meaning": "wing, plane, flank",
+    "kunyomi": [
+      "つばさ"
+    ],
+    "onyomi": [
+      "ヨク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "翼",
+        "reading": "ツバサ",
+        "meaning": "wing, Chinese \"Wings\" constellation (one of the 28 mansions), counter for birds or bird wings"
+      },
+      {
+        "example": "翼下",
+        "reading": "ヨッカ",
+        "meaning": "under the wing (esp. of an aircraft), under one's wing, under one's control"
+      },
+      {
+        "example": "左翼",
+        "reading": "サヨク",
+        "meaning": "left wing (politics), left wing (of a bird or aircraft), left wing (of an army, building, etc.), left flank, left field, left fielder, left wing (in soccer, rugby, etc.)"
+      },
+      {
+        "example": "右翼",
+        "reading": "ウヨク",
+        "meaning": "right wing (politics), right wing (of a bird or aircraft), right wing (of an army, building, etc.), right flank, right field, right fielder, right wing (in soccer, rugby, etc.), high (academic) standing, high class ranking"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "翼",
+        "reading": "つばさ",
+        "meaning": "wing, Chinese \"Wings\" constellation (one of the 28 mansions), counter for birds or bird wings"
+      },
+      {
+        "example": "翼沙魚",
+        "reading": "つばさはぜ",
+        "meaning": "loach goby (Rhyacichthys aspro)"
+      },
+      {
+        "example": "片翼",
+        "reading": "かたよく",
+        "meaning": "one wing, single wing"
+      },
+      {
+        "example": "虎に翼",
+        "reading": "とらにつばさ",
+        "meaning": "making the strong even stronger"
+      }
+    ],
+    "radical": {
+      "symbol": "羽",
+      "meaning": "feather"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "二",
+      "井",
+      "冫",
+      "田",
+      "羽",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32764_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ffc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ffc.gif",
+    "uri": "https://jisho.org/search/%E7%BF%BC%23kanji"
+  }
+}

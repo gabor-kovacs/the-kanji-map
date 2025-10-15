@@ -1,1 +1,295 @@
-{"id":"倍","kanjialiveData":{"kanji":{"character":"倍","meaning":{"english":"times, double"},"strokes":{"count":10,"timings":[0,0.8,2.133333,3.133333,4,4.6,5.466667,6.6,7.4,8.6,11.533333],"images":["https://media.kanjialive.com/kanji_strokes/bai(ritsu)_1.svg","https://media.kanjialive.com/kanji_strokes/bai(ritsu)_2.svg","https://media.kanjialive.com/kanji_strokes/bai(ritsu)_3.svg","https://media.kanjialive.com/kanji_strokes/bai(ritsu)_4.svg","https://media.kanjialive.com/kanji_strokes/bai(ritsu)_5.svg","https://media.kanjialive.com/kanji_strokes/bai(ritsu)_6.svg","https://media.kanjialive.com/kanji_strokes/bai(ritsu)_7.svg","https://media.kanjialive.com/kanji_strokes/bai(ritsu)_8.svg","https://media.kanjialive.com/kanji_strokes/bai(ritsu)_9.svg","https://media.kanjialive.com/kanji_strokes/bai(ritsu)_10.svg"]},"onyomi":{"romaji":"bai","katakana":"バイ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/bai(ritsu)_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/bai(ritsu)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/bai(ritsu)_00.webm"}},"radical":{"character":"⺅","strokes":2,"image":"https://media.kanjialive.com/radical_character/ninben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"にんべん","romaji":"ninben"},"meaning":{"english":"person "},"animation":["https://media.kanjialive.com/rad_frames/ninben0.svg","https://media.kanjialive.com/rad_frames/ninben1.svg","https://media.kanjialive.com/rad_frames/ninben2.svg"]},"references":{"grade":3,"kodansha":"80","classic_nelson":"483"},"examples":[{"japanese":"百倍（ひゃくばい）","meaning":{"english":"hundredfold"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai(ritsu)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai(ritsu)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai(ritsu)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai(ritsu)_06_a.mp3"}},{"japanese":"倍率（ばいりつ）","meaning":{"english":"magnification rate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai(ritsu)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai(ritsu)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai(ritsu)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai(ritsu)_06_b.mp3"}},{"japanese":"倍数（ばいすう）","meaning":{"english":"multiple [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai(ritsu)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai(ritsu)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai(ritsu)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai(ritsu)_06_c.mp3"}},{"japanese":"倍増する（ばいぞうする）","meaning":{"english":"double"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/bai(ritsu)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/bai(ritsu)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/bai(ritsu)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/bai(ritsu)_06_d.mp3"}}]},"jishoData":{"query":"倍","found":true,"taughtIn":"grade 3","jlptLevel":"N2","newspaperFrequencyRank":"714","strokeCount":10,"meaning":"double, twice, times, fold","kunyomi":[],"onyomi":["バイ"],"onyomiExamples":[{"example":"倍","reading":"バイ","meaning":"double, twice (as much), times (as much), -fold, 1-nth, 1 to n, 1 in n"},{"example":"倍増","reading":"バイゾウ","meaning":"doubling, double"},{"example":"逓倍","reading":"テイバイ","meaning":"multiplication (e.g. of frequencies)"},{"example":"層倍","reading":"ソウバイ","meaning":"times"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","口","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20493_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0500d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/500d.gif","uri":"https://jisho.org/search/%E5%80%8D%23kanji"}}
+{
+  "id": "倍",
+  "kanjialiveData": {
+    "_id": "54317af6791eba5146ee4ad9",
+    "_rev": "12-d03fd8c8c4fc9436a4ae52949e91f4e1",
+    "rad_name_ja": "にんべん",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "times, double",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "百倍（ひゃくばい）",
+        "meaning": {
+          "english": "hundredfold"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai(ritsu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai(ritsu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai(ritsu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai(ritsu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "倍率（ばいりつ）",
+        "meaning": {
+          "english": "magnification rate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai(ritsu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai(ritsu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai(ritsu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai(ritsu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "倍数（ばいすう）",
+        "meaning": {
+          "english": "multiple [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai(ritsu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai(ritsu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai(ritsu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai(ritsu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "倍増する（ばいぞうする）",
+        "meaning": {
+          "english": "double"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai(ritsu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bai(ritsu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bai(ritsu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bai(ritsu)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "倍",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=倍",
+    "kname": "bai(ritsu)",
+    "rad_order": 11,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "28",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jt"
+      }
+    ],
+    "rad_name_search": [
+      "ninben"
+    ],
+    "rad_utf": "⺅",
+    "stroketimes": [
+      0,
+      0.8,
+      2.133333,
+      3.133333,
+      4,
+      4.6,
+      5.466667,
+      6.6,
+      7.4,
+      8.6,
+      11.533333
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "80",
+    "rad_name": "ninben",
+    "dicn": "483",
+    "mn_hint": "Person イ standing 立 up, advocating 口 for oneself, tends to get twice as much as others.",
+    "rad_stroke": 2,
+    "onyomi_ja": "バイ",
+    "rad_meaning": "person ",
+    "onyomi": "bai",
+    "ka_id": "ka_521",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "bai",
+      "bai"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "times",
+      "double",
+      "times, double"
+    ],
+    "onyomi_ja_search": [
+      "バイ",
+      "バイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にんべん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:8",
+      "ij:c8",
+      "kll",
+      "kll:28",
+      "kll:c28",
+      "ik1",
+      "ik1:7",
+      "ik1:c7",
+      "jt",
+      "jt:6",
+      "jt:c6"
+    ],
+    "rad_name_file": "ninben",
+    "kanji": {
+      "character": "倍",
+      "meaning": {
+        "english": "times, double"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          0.8,
+          2.133333,
+          3.133333,
+          4,
+          4.6,
+          5.466667,
+          6.6,
+          7.4,
+          8.6,
+          11.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bai",
+        "katakana": "バイ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/bai(ritsu)_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/bai(ritsu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/bai(ritsu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺅",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にんべん",
+        "romaji": "ninben"
+      },
+      "meaning": {
+        "english": "person "
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ninben0.svg",
+        "https://media.kanjialive.com/rad_frames/ninben1.svg",
+        "https://media.kanjialive.com/rad_frames/ninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "80",
+      "classic_nelson": "483"
+    }
+  },
+  "jishoData": {
+    "query": "倍",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "714",
+    "strokeCount": 10,
+    "meaning": "double, twice, times, fold",
+    "kunyomi": [],
+    "onyomi": [
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "倍",
+        "reading": "バイ",
+        "meaning": "double, twice (as much), times (as much), -fold, 1-nth, 1 to n, 1 in n"
+      },
+      {
+        "example": "倍増",
+        "reading": "バイゾウ",
+        "meaning": "doubling, double"
+      },
+      {
+        "example": "逓倍",
+        "reading": "テイバイ",
+        "meaning": "multiplication (e.g. of frequencies)"
+      },
+      {
+        "example": "倍々",
+        "reading": "バイバイ",
+        "meaning": "doubling (repeatedly), multiplying"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "口",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20493_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0500d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/500d.gif",
+    "uri": "https://jisho.org/search/%E5%80%8D%23kanji"
+  }
+}

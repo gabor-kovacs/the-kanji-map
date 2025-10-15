@@ -1,1 +1,37 @@
-{"id":"劔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"劔","found":true,"strokeCount":16,"meaning":"sword","kunyomi":["つるぎ"],"onyomi":["ケン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["一","个","丶","人","刀","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21140_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05294.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5294.gif","uri":"https://jisho.org/search/%E5%8A%94%23kanji"}}
+{
+  "id": "劔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "劔",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "sword",
+    "kunyomi": [
+      "つるぎ"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "一",
+      "个",
+      "丶",
+      "人",
+      "刀",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21140_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05294.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5294.gif",
+    "uri": "https://jisho.org/search/%E5%8A%94%23kanji"
+  }
+}

@@ -1,1 +1,58 @@
-{"id":"鞅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鞅","found":true,"strokeCount":14,"meaning":"martingale, breast harness, saddle girth, fetter, shackle, carry on back","kunyomi":["むながい"],"onyomi":["オウ","ヨウ"],"onyomiExamples":[{"example":"怏々","reading":"オウオウ","meaning":"discontented, unhappy"},{"example":"鞅掌","reading":"オウショウ","meaning":"being busy with"},{"example":"怏々","reading":"オウオウ","meaning":"discontented, unhappy"}],"kunyomiExamples":[{"example":"鞅","reading":"むながい","meaning":"martingale"}],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["人","冂","冖","凵","口","大","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38789_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09785.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9785.gif","uri":"https://jisho.org/search/%E9%9E%85%23kanji"}}
+{
+  "id": "鞅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞅",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "martingale, breast harness, saddle girth, fetter, shackle, carry on back",
+    "kunyomi": [
+      "むながい"
+    ],
+    "onyomi": [
+      "オウ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "怏々",
+        "reading": "オウオウ",
+        "meaning": "discontented, unhappy"
+      },
+      {
+        "example": "鞅掌",
+        "reading": "オウショウ",
+        "meaning": "being busy with"
+      },
+      {
+        "example": "怏々",
+        "reading": "オウオウ",
+        "meaning": "discontented, unhappy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鞅",
+        "reading": "むながい",
+        "meaning": "martingale"
+      }
+    ],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "人",
+      "冂",
+      "冖",
+      "凵",
+      "口",
+      "大",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38789_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09785.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9785.gif",
+    "uri": "https://jisho.org/search/%E9%9E%85%23kanji"
+  }
+}

@@ -1,1 +1,75 @@
-{"id":"柳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"柳","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1169","strokeCount":9,"meaning":"willow","kunyomi":["やなぎ"],"onyomi":["リュウ"],"onyomiExamples":[{"example":"柳","reading":"リュウ","meaning":"Chinese \"Willow\" constellation (one of the 28 mansions)"},{"example":"柳暗花明","reading":"リュウアンカメイ","meaning":"beautiful scenery of spring, red-light district"},{"example":"川柳","reading":"センリュウ","meaning":"senryū, comic haiku, humorous seventeen-mora poem"},{"example":"花柳","reading":"カリュウ","meaning":"red-light district"}],"kunyomiExamples":[{"example":"柳","reading":"やなぎ","meaning":"willow (any tree of genus Salix), weeping willow (Salix babylonica)"},{"example":"柳刃包丁","reading":"やなぎばぼうちょう","meaning":"kitchen knife for sashimi"},{"example":"青柳","reading":"あおやぎ","meaning":"green willow (i.e. one that has budded), meat of the trough shell (Mactra chinensis)"},{"example":"化粧柳","reading":"けしょうやなぎ","meaning":"chosenia (Chosenia arbutifolia)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["卩","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26611_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067f3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67f3.gif","uri":"https://jisho.org/search/%E6%9F%B3%23kanji"}}
+{
+  "id": "柳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柳",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1169",
+    "strokeCount": 9,
+    "meaning": "willow",
+    "kunyomi": [
+      "やなぎ"
+    ],
+    "onyomi": [
+      "リュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "柳",
+        "reading": "リュウ",
+        "meaning": "Chinese \"Willow\" constellation (one of the 28 mansions)"
+      },
+      {
+        "example": "柳暗花明",
+        "reading": "リュウアンカメイ",
+        "meaning": "beautiful scenery of spring, red-light district"
+      },
+      {
+        "example": "川柳",
+        "reading": "センリュウ",
+        "meaning": "senryū, comic haiku, humorous seventeen-mora poem"
+      },
+      {
+        "example": "花柳",
+        "reading": "カリュウ",
+        "meaning": "red-light district"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "柳",
+        "reading": "やなぎ",
+        "meaning": "willow (any tree of genus Salix), weeping willow (Salix babylonica)"
+      },
+      {
+        "example": "柳刃包丁",
+        "reading": "やなぎばぼうちょう",
+        "meaning": "kitchen knife for sashimi"
+      },
+      {
+        "example": "青柳",
+        "reading": "あおやぎ",
+        "meaning": "green willow (i.e. one that has budded), meat of the trough shell (Mactra chinensis)"
+      },
+      {
+        "example": "化粧柳",
+        "reading": "けしょうやなぎ",
+        "meaning": "chosenia (Chosenia arbutifolia)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "卩",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26611_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067f3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67f3.gif",
+    "uri": "https://jisho.org/search/%E6%9F%B3%23kanji"
+  }
+}

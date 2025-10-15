@@ -1,1 +1,33 @@
-{"id":"怐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"怐","found":true,"strokeCount":8,"meaning":"foolish, fear","kunyomi":[],"onyomi":["ク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["勹","口","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24592_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06010.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6010.gif","uri":"https://jisho.org/search/%E6%80%90%23kanji"}}
+{
+  "id": "怐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "怐",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "foolish, fear",
+    "kunyomi": [],
+    "onyomi": [
+      "ク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "勹",
+      "口",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24592_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06010.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6010.gif",
+    "uri": "https://jisho.org/search/%E6%80%90%23kanji"
+  }
+}

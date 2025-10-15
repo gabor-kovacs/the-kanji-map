@@ -1,1 +1,32 @@
-{"id":"弉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"弉","found":true,"strokeCount":10,"meaning":"large, powerful, stout, thick","kunyomi":["さかん"],"onyomi":["ジョウ","ソウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"廾","meaning":"two hands, twenty"},"parts":["士","廾","爿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24329_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f09.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f09.gif","uri":"https://jisho.org/search/%E5%BC%89%23kanji"}}
+{
+  "id": "弉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弉",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "large, powerful, stout, thick",
+    "kunyomi": [
+      "さかん"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "廾",
+      "meaning": "two hands, twenty"
+    },
+    "parts": [
+      "士",
+      "廾",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24329_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f09.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f09.gif",
+    "uri": "https://jisho.org/search/%E5%BC%89%23kanji"
+  }
+}

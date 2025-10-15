@@ -1,1 +1,59 @@
-{"id":"闕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"闕","found":true,"strokeCount":18,"meaning":"lack, gap, fail, imperial palace","kunyomi":["か.ける"],"onyomi":["ケツ"],"onyomiExamples":[{"example":"闕腋","reading":"ケッテキ","meaning":"unstitched, open side of some traditional Japanese clothing, clothing with such an open side, robe worn by military officials with a round collar, unstitched open sides and no ran"},{"example":"欠字","reading":"ケツジ","meaning":"omission of a character, omitted character, blank type, insertion of blank spaces before and after the names of dignitaries (as a sign of respect)"},{"example":"補欠","reading":"ホケツ","meaning":"filling a vacancy, supplementation, substitute, deputy, alternate, spare"},{"example":"帝闕","reading":"テイケツ","meaning":"imperial palace gate, imperial palace"}],"kunyomiExamples":[{"example":"欠ける","reading":"かける","meaning":"to chip, to be chipped, to break (off), to be damaged, to be missing (from a set, team, etc.), to be absent, to become lost, to be lacking (in), to be short (of), to be deficient, to be wanting (in), to wane (of the moon), to go into eclipse"}],"radical":{"symbol":"門","meaning":"gate"},"parts":["屮","并","欠","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38357_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095d5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95d5.gif","uri":"https://jisho.org/search/%E9%97%95%23kanji"}}
+{
+  "id": "闕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "闕",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "lack, gap, fail, imperial palace",
+    "kunyomi": [
+      "か.ける"
+    ],
+    "onyomi": [
+      "ケツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "欠員",
+        "reading": "ケツイン",
+        "meaning": "vacant position, vacancy, opening, unfilled position"
+      },
+      {
+        "example": "欠乏",
+        "reading": "ケツボウ",
+        "meaning": "deficiency, insufficiency, shortage, lack, want, dearth, scarcity"
+      },
+      {
+        "example": "補欠",
+        "reading": "ホケツ",
+        "meaning": "filling a vacancy, supplementation, substitute, deputy, alternate, spare"
+      },
+      {
+        "example": "帝闕",
+        "reading": "テイケツ",
+        "meaning": "imperial palace gate, imperial palace"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "欠ける",
+        "reading": "かける",
+        "meaning": "to chip, to be chipped, to break (off), to be damaged, to be missing (from a set, team, etc.), to be absent, to become lost, to be lacking (in), to be short (of), to be deficient, to be wanting (in), to wane (of the moon), to go into eclipse"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "屮",
+      "并",
+      "欠",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38357_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095d5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95d5.gif",
+    "uri": "https://jisho.org/search/%E9%97%95%23kanji"
+  }
+}

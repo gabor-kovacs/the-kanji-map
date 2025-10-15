@@ -1,1 +1,95 @@
-{"id":"斑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"斑","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2165","strokeCount":12,"meaning":"spot, blemish, speck, patches","kunyomi":["ふ","まだら"],"onyomi":["ハン"],"onyomiExamples":[{"example":"斑","reading":"ブチ","meaning":"spots, speckles, mottles"},{"example":"斑鳩","reading":"イカル","meaning":"Japanese grosbeak (Eophona personata)"},{"example":"水斑","reading":"スイハン","meaning":"water spot (e.g. dried on a dish after washing)"},{"example":"黄斑","reading":"オウハン","meaning":"macula, macule, macula lutea, yellow spot"}],"kunyomiExamples":[{"example":"斑","reading":"ぶち","meaning":"spots, speckles, mottles"},{"example":"斑入り","reading":"ふいり","meaning":"variegated, spotted"},{"example":"胡麻斑","reading":"ごまふ","meaning":"black speckles, small black spots (like sprinkled sesame)"},{"example":"白斑","reading":"はくはん","meaning":"white spot, bright spot, facula, vitiligo, leukoderma, leukoma"},{"example":"斑","reading":"まだら","meaning":"spots, speckles, mottles, speckled, spotted"},{"example":"斑海豚","reading":"まだらいるか","meaning":"pantropical spotted dolphin (Stenella attenuata)"},{"example":"浅葱斑","reading":"あさぎまだら","meaning":"chestnut tiger butterfly (Parantica sita)"},{"example":"鹿の子斑","reading":"かのこまだら","meaning":"pattern of white spots, dapples"}],"radical":{"symbol":"文","meaning":"script, literature"},"parts":["文","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26001_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06591.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6591.gif","uri":"https://jisho.org/search/%E6%96%91%23kanji"}}
+{
+  "id": "斑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斑",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2165",
+    "strokeCount": 12,
+    "meaning": "spot, blemish, speck, patches",
+    "kunyomi": [
+      "ふ",
+      "まだら"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斑",
+        "reading": "ブチ",
+        "meaning": "spots, speckles, mottles"
+      },
+      {
+        "example": "斑岩",
+        "reading": "ハンガン",
+        "meaning": "porphyry"
+      },
+      {
+        "example": "水斑",
+        "reading": "スイハン",
+        "meaning": "water spot (e.g. dried on a dish after washing)"
+      },
+      {
+        "example": "黄斑",
+        "reading": "オウハン",
+        "meaning": "macula, macula lutea, yellow spot"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "斑",
+        "reading": "ぶち",
+        "meaning": "spots, speckles, mottles"
+      },
+      {
+        "example": "斑入り",
+        "reading": "ふいり",
+        "meaning": "variegated, spotted"
+      },
+      {
+        "example": "胡麻斑",
+        "reading": "ごまふ",
+        "meaning": "black speckles, small black spots (like sprinkled sesame)"
+      },
+      {
+        "example": "白斑",
+        "reading": "はくはん",
+        "meaning": "white spot, bright spot, facula, vitiligo, leukoderma, leukoma"
+      },
+      {
+        "example": "斑",
+        "reading": "まだら",
+        "meaning": "spots, speckles, mottles, speckled, spotted"
+      },
+      {
+        "example": "斑海豚",
+        "reading": "まだらいるか",
+        "meaning": "pantropical spotted dolphin (Stenella attenuata)"
+      },
+      {
+        "example": "浅葱斑",
+        "reading": "あさぎまだら",
+        "meaning": "chestnut tiger butterfly (Parantica sita)"
+      },
+      {
+        "example": "鹿の子斑",
+        "reading": "かのこまだら",
+        "meaning": "pattern of white spots, dapples"
+      }
+    ],
+    "radical": {
+      "symbol": "文",
+      "meaning": "script, literature"
+    },
+    "parts": [
+      "文",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26001_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06591.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6591.gif",
+    "uri": "https://jisho.org/search/%E6%96%91%23kanji"
+  }
+}

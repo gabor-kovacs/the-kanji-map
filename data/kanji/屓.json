@@ -1,1 +1,41 @@
-{"id":"屓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"屓","found":true,"strokeCount":10,"meaning":"exerting strength","kunyomi":[],"onyomi":["キ"],"onyomiExamples":[{"example":"贔屓","reading":"ビイキ","meaning":"liking something, being partial to something, -phile"},{"example":"贔屓贔屓","reading":"ヒイキビイキ","meaning":"each person supporting (patronizing) his (her) own favorite"}],"kunyomiExamples":[],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["ハ","尸","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23635_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c53.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c53.gif","uri":"https://jisho.org/search/%E5%B1%93%23kanji"}}
+{
+  "id": "屓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屓",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "exerting strength",
+    "kunyomi": [],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "贔屓",
+        "reading": "ビイキ",
+        "meaning": "liking something, being partial to something, -phile"
+      },
+      {
+        "example": "贔屓贔屓",
+        "reading": "ヒイキビイキ",
+        "meaning": "each person supporting (patronizing) his (her) own favorite"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "ハ",
+      "尸",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23635_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c53.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c53.gif",
+    "uri": "https://jisho.org/search/%E5%B1%93%23kanji"
+  }
+}

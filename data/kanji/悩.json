@@ -1,1 +1,349 @@
-{"id":"悩","kanjialiveData":{"kanji":{"character":"悩","meaning":{"english":"suffer, be troubled, afflict"},"strokes":{"count":10,"timings":[0,1.133333,1.8,4.6,6.133333,7.133333,8.066667,9.466667,10.533333,12.866667,14.266667],"images":["https://media.kanjialive.com/kanji_strokes/naya(mu)_1.svg","https://media.kanjialive.com/kanji_strokes/naya(mu)_2.svg","https://media.kanjialive.com/kanji_strokes/naya(mu)_3.svg","https://media.kanjialive.com/kanji_strokes/naya(mu)_4.svg","https://media.kanjialive.com/kanji_strokes/naya(mu)_5.svg","https://media.kanjialive.com/kanji_strokes/naya(mu)_6.svg","https://media.kanjialive.com/kanji_strokes/naya(mu)_7.svg","https://media.kanjialive.com/kanji_strokes/naya(mu)_8.svg","https://media.kanjialive.com/kanji_strokes/naya(mu)_9.svg","https://media.kanjialive.com/kanji_strokes/naya(mu)_10.svg"]},"onyomi":{"romaji":"nou","katakana":"ノウ"},"kunyomi":{"romaji":"naya, nayamu, nayami, nayamasu","hiragana":"なや"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/naya(mu)_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/naya(mu)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/naya(mu)_00.webm"}},"radical":{"character":"⺖","strokes":3,"image":"https://media.kanjialive.com/radical_character/risshinben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"りっしんべん","romaji":"risshinben"},"meaning":{"english":"heart, mind, spirit"},"animation":["https://media.kanjialive.com/rad_frames/risshinben0.svg","https://media.kanjialive.com/rad_frames/risshinben1.svg","https://media.kanjialive.com/rad_frames/risshinben2.svg"]},"references":{"grade":null,"kodansha":"313","classic_nelson":"1698"},"examples":[{"japanese":"煩悩（ぼんのう）","meaning":{"english":"earthly desires, carnal desires"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_a.mp3"}},{"japanese":"苦悩する（くのうする）","meaning":{"english":"suffer, be anguished"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_b.mp3"}},{"japanese":"悩ます（なやます）","meaning":{"english":"afflict, torment, harass [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_c.mp3"}},{"japanese":"悩む（なやむ）","meaning":{"english":"be worried, be troubled [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_d.mp3"}},{"japanese":"悩み（なやみ）","meaning":{"english":"trouble, worry [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_e.mp3"}},{"japanese":"悩ましい（なやましい）","meaning":{"english":"seductive"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_f.mp3"}}]},"jishoData":{"query":"悩","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"1084","strokeCount":10,"meaning":"trouble, worry, in pain, distress, illness","kunyomi":["なや.む","なや.ます","なや.ましい","なやみ"],"onyomi":["ノウ"],"onyomiExamples":[{"example":"悩殺","reading":"ノウサツ","meaning":"fascinate, bewitch, enchant"},{"example":"悩乱","reading":"ノウラン","meaning":"worry, anguish"},{"example":"懊悩","reading":"オウノウ","meaning":"anguish, trouble, agony"},{"example":"煩悶懊悩","reading":"ハンモンオウノウ","meaning":"anguish, agony"}],"kunyomiExamples":[{"example":"悩む","reading":"なやむ","meaning":"to be worried, to be troubled"},{"example":"悩ます","reading":"なやます","meaning":"to afflict, to torment, to harass, to molest"},{"example":"悩ましい","reading":"なやましい","meaning":"seductive, carnal, enchanting, troubling, difficult, thorny, hard, anxious, uneasy"},{"example":"悩み","reading":"なやみ","meaning":"trouble, troubles, worry, distress, sorrows, anguish, agony, problem"},{"example":"悩み事","reading":"なやみごと","meaning":"matter causing distress, something causing worry"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["凵","尚","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24745_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a9.gif","uri":"https://jisho.org/search/%E6%82%A9%23kanji"}}
+{
+  "id": "悩",
+  "kanjialiveData": {
+    "_id": "54317add791eba5146ee48f9",
+    "_rev": "12-dfd987570d4c7db5fa25d1233e4d4ac6",
+    "rad_name_ja": "りっしんべん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "naya, nayamu, nayami, nayamasu",
+    "meaning": "suffer, be troubled, afflict",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "煩悩（ぼんのう）",
+        "meaning": {
+          "english": "earthly desires, carnal desires"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "苦悩する（くのうする）",
+        "meaning": {
+          "english": "suffer, be anguished"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "悩ます（なやます）",
+        "meaning": {
+          "english": "afflict, torment, harass [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "悩む（なやむ）",
+        "meaning": {
+          "english": "be worried, be troubled [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "悩み（なやみ）",
+        "meaning": {
+          "english": "trouble, worry [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "悩ましい（なやましい）",
+        "meaning": {
+          "english": "seductive"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/naya(mu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/naya(mu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/naya(mu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/naya(mu)_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "なや、なやむ、なやみ、なやます",
+    "ka_utf": "悩",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=悩",
+    "rad_name_search": [
+      "risshinben"
+    ],
+    "rad_order": 79,
+    "txt_books": [
+      {
+        "chapter": "15",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "2"
+      }
+    ],
+    "kname": "naya(mu)",
+    "rad_utf": "⺖",
+    "stroketimes": [
+      0,
+      1.133333,
+      1.8,
+      4.6,
+      6.133333,
+      7.133333,
+      8.066667,
+      9.466667,
+      10.533333,
+      12.866667,
+      14.266667
+    ],
+    "kunyomi_ka_display": "なや",
+    "dick": "313",
+    "rad_name": "risshinben",
+    "dicn": "1698",
+    "mn_hint": "Feeling 忄 troubled by thoughts ツ of one's misfortune 凶.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ノウ",
+    "rad_meaning": "heart, mind, spirit",
+    "onyomi": "nou",
+    "ka_id": "ka_1200",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "nou",
+      "nou"
+    ],
+    "kunyomi_search": [
+      "naya",
+      "nayamu",
+      "nayami",
+      "nayamasu",
+      "naya, nayamu, nayami, nayamasu"
+    ],
+    "meaning_search": [
+      "suffer",
+      "be troubled",
+      "be",
+      "troubled",
+      "afflict",
+      "suffer, be troubled, afflict"
+    ],
+    "onyomi_ja_search": [
+      "ノウ",
+      "ノウ"
+    ],
+    "kunyomi_ja_search": [
+      "なや",
+      "なやむ",
+      "なやみ",
+      "なやます",
+      "なや、なやむ、なやみ、なやます"
+    ],
+    "rad_meaning_search": [
+      "heart",
+      "mind",
+      "spirit",
+      "heart, mind, spirit"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "りっしんべん"
+    ],
+    "textbook_search": [
+      "jt",
+      "jt:15",
+      "jt:c15",
+      "mosr",
+      "mosr:2",
+      "mosr:c2"
+    ],
+    "rad_name_file": "risshinben",
+    "kanji": {
+      "character": "悩",
+      "meaning": {
+        "english": "suffer, be troubled, afflict"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          1.133333,
+          1.8,
+          4.6,
+          6.133333,
+          7.133333,
+          8.066667,
+          9.466667,
+          10.533333,
+          12.866667,
+          14.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/naya(mu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/naya(mu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/naya(mu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/naya(mu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/naya(mu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/naya(mu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/naya(mu)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/naya(mu)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/naya(mu)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/naya(mu)_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "nou",
+        "katakana": "ノウ"
+      },
+      "kunyomi": {
+        "romaji": "naya, nayamu, nayami, nayamasu",
+        "hiragana": "なや"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/naya(mu)_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/naya(mu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/naya(mu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺖",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/risshinben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "りっしんべん",
+        "romaji": "risshinben"
+      },
+      "meaning": {
+        "english": "heart, mind, spirit"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/risshinben0.svg",
+        "https://media.kanjialive.com/rad_frames/risshinben1.svg",
+        "https://media.kanjialive.com/rad_frames/risshinben2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "313",
+      "classic_nelson": "1698"
+    }
+  },
+  "jishoData": {
+    "query": "悩",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1084",
+    "strokeCount": 10,
+    "meaning": "trouble, worry, in pain, distress, illness",
+    "kunyomi": [
+      "なや.む",
+      "なや.ます",
+      "なや.ましい",
+      "なやみ"
+    ],
+    "onyomi": [
+      "ノウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悩殺",
+        "reading": "ノウサツ",
+        "meaning": "fascinate, bewitch, enchant"
+      },
+      {
+        "example": "悩乱",
+        "reading": "ノウラン",
+        "meaning": "worry, anguish"
+      },
+      {
+        "example": "苦悩",
+        "reading": "クノウ",
+        "meaning": "(mental) agony, anguish, suffering, distress"
+      },
+      {
+        "example": "懊悩",
+        "reading": "オウノウ",
+        "meaning": "anguish, trouble, agony"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "悩む",
+        "reading": "なやむ",
+        "meaning": "to be worried, to be troubled"
+      },
+      {
+        "example": "悩ます",
+        "reading": "なやます",
+        "meaning": "to afflict, to torment, to harass, to molest"
+      },
+      {
+        "example": "悩ましい",
+        "reading": "なやましい",
+        "meaning": "seductive, carnal, enchanting, troubling, difficult, thorny, hard, anxious, uneasy"
+      },
+      {
+        "example": "悩み",
+        "reading": "なやみ",
+        "meaning": "trouble, troubles, worry, distress, sorrows, anguish, agony, problem"
+      },
+      {
+        "example": "悩み事",
+        "reading": "なやみごと",
+        "meaning": "matter causing distress, something causing worry"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "凵",
+      "尚",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24745_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a9.gif",
+    "uri": "https://jisho.org/search/%E6%82%A9%23kanji"
+  }
+}

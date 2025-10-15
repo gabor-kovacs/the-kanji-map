@@ -1,1 +1,45 @@
-{"id":"晃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"晃","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1666","strokeCount":10,"meaning":"clear","kunyomi":["あきらか"],"onyomi":["コウ"],"onyomiExamples":[{"example":"煌々","reading":"コウコウ","meaning":"brilliant, bright, dazzling"},{"example":"晃曜","reading":"コウヨウ","meaning":"dazzling brightness"}],"kunyomiExamples":[],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["一","儿","尚","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26179_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06643.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6643.gif","uri":"https://jisho.org/search/%E6%99%83%23kanji"}}
+{
+  "id": "晃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "晃",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1666",
+    "strokeCount": 10,
+    "meaning": "clear",
+    "kunyomi": [
+      "あきらか"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "煌々",
+        "reading": "コウコウ",
+        "meaning": "brilliant, bright, dazzling"
+      },
+      {
+        "example": "晃曜",
+        "reading": "コウヨウ",
+        "meaning": "dazzling brightness"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "尚",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26179_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06643.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6643.gif",
+    "uri": "https://jisho.org/search/%E6%99%83%23kanji"
+  }
+}

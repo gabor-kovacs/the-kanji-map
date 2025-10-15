@@ -1,1 +1,53 @@
-{"id":"該","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"該","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1648","strokeCount":13,"meaning":"above-stated, the said, that specific","kunyomi":[],"onyomi":["ガイ"],"onyomiExamples":[{"example":"該","reading":"ガイ","meaning":"said, matter in question"},{"example":"該当","reading":"ガイトウ","meaning":"corresponding to, being applicable to, being relevant to, coming under, falling under, fulfilling (requirements), meeting (conditions), qualifying for"},{"example":"当該","reading":"トウガイ","meaning":"appropriate (e.g. authorities), concerned, relevant, said, aforementioned, competent, applicable, respective"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["ノ","丶","亠","人","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35442_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a72.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a72.gif","uri":"https://jisho.org/search/%E8%A9%B2%23kanji"}}
+{
+  "id": "該",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "該",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1648",
+    "strokeCount": 13,
+    "meaning": "above-stated, the said, that specific",
+    "kunyomi": [],
+    "onyomi": [
+      "ガイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "該",
+        "reading": "ガイ",
+        "meaning": "said, matter in question"
+      },
+      {
+        "example": "該当",
+        "reading": "ガイトウ",
+        "meaning": "corresponding to, being applicable to, being relevant to, coming under, falling under, fulfilling (requirements), meeting (conditions), qualifying for"
+      },
+      {
+        "example": "当該",
+        "reading": "トウガイ",
+        "meaning": "appropriate (e.g. authorities), concerned, relevant, said, aforementioned, competent, applicable, respective"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35442_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a72.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a72.gif",
+    "uri": "https://jisho.org/search/%E8%A9%B2%23kanji"
+  }
+}

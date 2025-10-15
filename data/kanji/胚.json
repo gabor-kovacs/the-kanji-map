@@ -1,1 +1,59 @@
-{"id":"胚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"胚","found":true,"newspaperFrequencyRank":"2471","strokeCount":9,"meaning":"embryo","kunyomi":["はらみ","はら.む"],"onyomi":["ハイ"],"onyomiExamples":[{"example":"胚","reading":"ハイ","meaning":"embryo, germ (e.g. wheat germ)"},{"example":"胚移植","reading":"ハイイショク","meaning":"embryo transfer, embryo transplant"},{"example":"胞胚","reading":"ホウハイ","meaning":"blastula, blastosphere"},{"example":"凍結胚","reading":"トウケツハイ","meaning":"frozen embryo"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["ノ","一","丶","月","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32986_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080da.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80da.gif","uri":"https://jisho.org/search/%E8%83%9A%23kanji"}}
+{
+  "id": "胚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胚",
+    "found": true,
+    "newspaperFrequencyRank": "2471",
+    "strokeCount": 9,
+    "meaning": "embryo",
+    "kunyomi": [
+      "はらみ",
+      "はら.む"
+    ],
+    "onyomi": [
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "胚",
+        "reading": "ハイ",
+        "meaning": "embryo, germ (e.g. wheat germ)"
+      },
+      {
+        "example": "胚移植",
+        "reading": "ハイイショク",
+        "meaning": "embryo transfer, embryo transplant"
+      },
+      {
+        "example": "胞胚",
+        "reading": "ホウハイ",
+        "meaning": "blastula, blastosphere"
+      },
+      {
+        "example": "凍結胚",
+        "reading": "トウケツハイ",
+        "meaning": "frozen embryo"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "丶",
+      "月",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32986_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080da.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80da.gif",
+    "uri": "https://jisho.org/search/%E8%83%9A%23kanji"
+  }
+}

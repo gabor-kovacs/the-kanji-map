@@ -1,1 +1,46 @@
-{"id":"冕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冕","found":true,"strokeCount":11,"meaning":"crown","kunyomi":["かんむり"],"onyomi":["ベン","メン"],"onyomiExamples":[{"example":"冕","reading":"ベン","meaning":"benkan (type of square ceremonial crown)"},{"example":"冕冠","reading":"ベンカン","meaning":"benkan, square-topped ceremonial crown with jeweled tassels"}],"kunyomiExamples":[],"radical":{"symbol":"冂","meaning":"open country"},"parts":["二","儿","免","冂","勹","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20885_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05195.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5195.gif","uri":"https://jisho.org/search/%E5%86%95%23kanji"}}
+{
+  "id": "冕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冕",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "crown",
+    "kunyomi": [
+      "かんむり"
+    ],
+    "onyomi": [
+      "ベン",
+      "メン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冕",
+        "reading": "ベン",
+        "meaning": "benkan (type of square ceremonial crown)"
+      },
+      {
+        "example": "冕冠",
+        "reading": "ベンカン",
+        "meaning": "benkan, square-topped ceremonial crown with jeweled tassels"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冂",
+      "meaning": "open country"
+    },
+    "parts": [
+      "二",
+      "儿",
+      "免",
+      "冂",
+      "勹",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20885_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05195.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5195.gif",
+    "uri": "https://jisho.org/search/%E5%86%95%23kanji"
+  }
+}

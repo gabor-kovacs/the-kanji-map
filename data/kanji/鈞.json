@@ -1,1 +1,40 @@
-{"id":"鈞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鈞","found":true,"strokeCount":12,"meaning":"equal, important point","kunyomi":["ひと.しい"],"onyomi":["キン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["冫","勹","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37406_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0921e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/921e.gif","uri":"https://jisho.org/search/%E9%88%9E%23kanji"}}
+{
+  "id": "鈞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鈞",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "equal, important point",
+    "kunyomi": [
+      "ひと.しい"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鈞",
+        "reading": "キン",
+        "meaning": "ancient Chinese unit of weight equivalent to 30 catties (15 kg)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "冫",
+      "勹",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37406_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0921e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/921e.gif",
+    "uri": "https://jisho.org/search/%E9%88%9E%23kanji"
+  }
+}

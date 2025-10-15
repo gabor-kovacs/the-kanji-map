@@ -1,1 +1,79 @@
-{"id":"雄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"雄","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"669","strokeCount":12,"meaning":"masculine, male, hero, leader, superiority, excellence","kunyomi":["お-","おす","おん"],"onyomi":["ユウ"],"onyomiExamples":[{"example":"雄","reading":"ユウ","meaning":"male, man, excellence, greatness, best (of), great person, leading figure"},{"example":"雄大","reading":"ユウダイ","meaning":"grand, magnificent, majestic, great, sublime"},{"example":"雌雄","reading":"シユウ","meaning":"male and female (animals), the two sexes, victory and defeat, strengths and weaknesses"},{"example":"両雄","reading":"リョウユウ","meaning":"two great men (rivals)"}],"kunyomiExamples":[{"example":"雄","reading":"おす","meaning":"male (animal, plant)"},{"example":"雄犬","reading":"おすいぬ","meaning":"male dog"},{"example":"雄","reading":"おす","meaning":"male (animal, plant)"},{"example":"雄鶏","reading":"おんどり","meaning":"cock, rooster, chanticleer"}],"radical":{"symbol":"隹","meaning":"small bird"},"parts":["ノ","一","厶","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38596_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c4.gif","uri":"https://jisho.org/search/%E9%9B%84%23kanji"}}
+{
+  "id": "雄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雄",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "669",
+    "strokeCount": 12,
+    "meaning": "masculine, male, hero, leader, superiority, excellence",
+    "kunyomi": [
+      "お-",
+      "おす",
+      "おん"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雄",
+        "reading": "ユウ",
+        "meaning": "male, man, excellence, greatness, best (of), great person, leading figure"
+      },
+      {
+        "example": "雄大",
+        "reading": "ユウダイ",
+        "meaning": "grand, magnificent, majestic, great, sublime"
+      },
+      {
+        "example": "雌雄",
+        "reading": "シユウ",
+        "meaning": "male and female (animals), the two sexes, victory and defeat, strengths and weaknesses"
+      },
+      {
+        "example": "両雄",
+        "reading": "リョウユウ",
+        "meaning": "two great men"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "雄",
+        "reading": "おす",
+        "meaning": "male (animal, plant)"
+      },
+      {
+        "example": "オス犬",
+        "reading": "おすいぬ",
+        "meaning": "male dog"
+      },
+      {
+        "example": "雄",
+        "reading": "おす",
+        "meaning": "male (animal, plant)"
+      },
+      {
+        "example": "雄鶏",
+        "reading": "おんどり",
+        "meaning": "male bird, cock, rooster"
+      }
+    ],
+    "radical": {
+      "symbol": "隹",
+      "meaning": "small bird"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "厶",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38596_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c4.gif",
+    "uri": "https://jisho.org/search/%E9%9B%84%23kanji"
+  }
+}

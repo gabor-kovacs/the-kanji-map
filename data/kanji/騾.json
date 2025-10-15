@@ -1,1 +1,38 @@
-{"id":"騾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"騾","found":true,"strokeCount":21,"meaning":"mule","kunyomi":[],"onyomi":["ラ"],"onyomiExamples":[{"example":"騾馬","reading":"ラバ","meaning":"mule"}],"kunyomiExamples":[],"radical":{"symbol":"馬","meaning":"horse"},"parts":["小","幺","杰","田","糸","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39486_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a3e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a3e.gif","uri":"https://jisho.org/search/%E9%A8%BE%23kanji"}}
+{
+  "id": "騾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "騾",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "mule",
+    "kunyomi": [],
+    "onyomi": [
+      "ラ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "【ラバ】",
+        "reading": "mule",
+        "meaning": ""
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "杰",
+      "田",
+      "糸",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39486_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a3e.gif",
+    "uri": "https://jisho.org/search/%E9%A8%BE%23kanji"
+  }
+}

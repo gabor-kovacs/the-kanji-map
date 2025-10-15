@@ -1,1 +1,39 @@
-{"id":"槧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"槧","found":true,"strokeCount":15,"meaning":"printed book","kunyomi":["ふだ"],"onyomi":["ザン","セン","サン"],"onyomiExamples":[{"example":"鉛槧","reading":"エンザン","meaning":"writing literature"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["斤","木","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27111_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069e7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69e7.gif","uri":"https://jisho.org/search/%E6%A7%A7%23kanji"}}
+{
+  "id": "槧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槧",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "printed book",
+    "kunyomi": [
+      "ふだ"
+    ],
+    "onyomi": [
+      "ザン",
+      "セン",
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鉛槧",
+        "reading": "エンザン",
+        "meaning": "writing literature"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "斤",
+      "木",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27111_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069e7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69e7.gif",
+    "uri": "https://jisho.org/search/%E6%A7%A7%23kanji"
+  }
+}

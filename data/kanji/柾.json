@@ -1,1 +1,58 @@
-{"id":"柾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"柾","found":true,"jlptLevel":"N1","strokeCount":9,"meaning":"straight grain, spindle tree, (kokuji)","kunyomi":["まさ","まさめ","まさき"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"正木","reading":"まさき","meaning":"Japanese spindletree (Euonymus japonicus)"},{"example":"真拆の葛","reading":"まさきのかずら","meaning":"Asiatic jasmine (Trachelospermum asiaticum), Asian jasmine"},{"example":"柾目","reading":"まさめ","meaning":"straight grain, quartersawn grain"},{"example":"正木","reading":"まさき","meaning":"Japanese spindletree (Euonymus japonicus)"},{"example":"真拆の葛","reading":"まさきのかずら","meaning":"Asiatic jasmine (Trachelospermum asiaticum), Asian jasmine"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","木","止"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26622_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067fe.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67fe.gif","uri":"https://jisho.org/search/%E6%9F%BE%23kanji"}}
+{
+  "id": "柾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柾",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 9,
+    "meaning": "straight grain, spindle tree, (kokuji)",
+    "kunyomi": [
+      "まさ",
+      "まさめ",
+      "まさき"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "正木",
+        "reading": "まさき",
+        "meaning": "Japanese spindletree (Euonymus japonicus)"
+      },
+      {
+        "example": "真拆の葛",
+        "reading": "まさきのかずら",
+        "meaning": "Asiatic jasmine (Trachelospermum asiaticum), Asian jasmine"
+      },
+      {
+        "example": "柾目",
+        "reading": "まさめ",
+        "meaning": "straight grain, quartersawn grain"
+      },
+      {
+        "example": "正木",
+        "reading": "まさき",
+        "meaning": "Japanese spindletree (Euonymus japonicus)"
+      },
+      {
+        "example": "真拆の葛",
+        "reading": "まさきのかずら",
+        "meaning": "Asiatic jasmine (Trachelospermum asiaticum), Asian jasmine"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "木",
+      "止"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26622_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067fe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67fe.gif",
+    "uri": "https://jisho.org/search/%E6%9F%BE%23kanji"
+  }
+}

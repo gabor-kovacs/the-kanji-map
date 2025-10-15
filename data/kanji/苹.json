@@ -1,1 +1,42 @@
-{"id":"苹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"苹","found":true,"strokeCount":8,"meaning":"duckweed, mugwort","kunyomi":["ほ"],"onyomi":["ヘイ","ビョウ","ホウ"],"onyomiExamples":[{"example":"林檎","reading":"リンゴ","meaning":"apple (fruit), apple tree (Malus pumila)"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ハ","干","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33529_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082f9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82f9.gif","uri":"https://jisho.org/search/%E8%8B%B9%23kanji"}}
+{
+  "id": "苹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苹",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "duckweed, mugwort",
+    "kunyomi": [
+      "ほ"
+    ],
+    "onyomi": [
+      "ヘイ",
+      "ビョウ",
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "苹果",
+        "reading": "ヒョウカ",
+        "meaning": "apple (fruit)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ハ",
+      "干",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33529_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82f9.gif",
+    "uri": "https://jisho.org/search/%E8%8B%B9%23kanji"
+  }
+}

@@ -1,1 +1,392 @@
-{"id":"元","kanjialiveData":{"kanji":{"character":"元","meaning":{"english":"origin"},"strokes":{"count":4,"timings":[0,2.266,3.466,4.733,6.066667],"images":["https://media.kanjialive.com/kanji_strokes/gen-moto_1.svg","https://media.kanjialive.com/kanji_strokes/gen-moto_2.svg","https://media.kanjialive.com/kanji_strokes/gen-moto_3.svg","https://media.kanjialive.com/kanji_strokes/gen-moto_4.svg"]},"onyomi":{"romaji":"gen, gan","katakana":"ゲン、ガン"},"kunyomi":{"romaji":"moto","hiragana":"もと"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/gen-moto_4.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/gen-moto_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/gen-moto_00.webm"}},"radical":{"character":"⼉","strokes":2,"image":"https://media.kanjialive.com/radical_character/hitoashi.svg","position":{"hiragana":"あし","romaji":"ashi","icon":"https://media.kanjialive.com/rad_positions/ashi.svg"},"name":{"hiragana":"ひとあし","romaji":"hitoashi"},"meaning":{"english":"human legs"},"animation":["https://media.kanjialive.com/rad_frames/hitoashi0.svg","https://media.kanjialive.com/rad_frames/hitoashi1.svg","https://media.kanjialive.com/rad_frames/hitoashi2.svg"]},"references":{"grade":2,"kodansha":"1226","classic_nelson":"275"},"examples":[{"japanese":"元気な（げんきな）","meaning":{"english":"energetic"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_a.mp3"}},{"japanese":"紀元前（きげんぜん）","meaning":{"english":"B.C.E."},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_b.mp3"}},{"japanese":"三次元（さんじげん）","meaning":{"english":"3 dimensions"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_c.mp3"}},{"japanese":"元祖（がんそ）","meaning":{"english":"founder, inventor"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_d.mp3"}},{"japanese":"元年（がんねん）","meaning":{"english":"first year (of a specific reign)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_e.mp3"}},{"japanese":"製造元（せいぞうもと）","meaning":{"english":"manufacturer"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_f.mp3"}},{"japanese":"地元（じもと）","meaning":{"english":"local"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_g.mp3"}},{"japanese":"身元（みもと）","meaning":{"english":"person's identity"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_h.mp3"}}]},"jishoData":{"query":"元","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"192","strokeCount":4,"meaning":"beginning, former time, origin","kunyomi":["もと"],"onyomi":["ゲン","ガン"],"onyomiExamples":[{"example":"元","reading":"ゲン","meaning":"unknown (e.g. in an equation), element (of a set), yuan (monetary unit of China), New Taiwan dollar, Yuan dynasty (of China; 1271-1368), Yüan dynasty, Mongol dynasty"},{"example":"原価","reading":"ゲンカ","meaning":"cost price"},{"example":"中元","reading":"チュウゲン","meaning":"15th day of the 7th lunar month, (last day of) Bon lantern festival, mid-year gift, summer gift, Bon Festival gifts"},{"example":"抗原","reading":"コウゲン","meaning":"antigen"},{"example":"元日","reading":"ガンジツ","meaning":"New Year's Day"},{"example":"元凶","reading":"ゲンキョウ","meaning":"ringleader, main culprit, main cause, source"}],"kunyomiExamples":[{"example":"元","reading":"もと","meaning":"origin, source, base, basis, foundation, root, cause, ingredient, material, base, mix, stock, (someone's) side, (someone's) location, original cost (or capital, principal, etc.), (plant) root, (tree) trunk, first section of a waka, counter for blades of grass, tree trunks, etc., and for falcons (in falconry), handle (chopsticks, brush, etc.), grip"},{"example":"元","reading":"もと","meaning":"former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before"},{"example":"家元","reading":"いえもと","meaning":"head of a school (of music, dance), head family of a school"},{"example":"胸元","reading":"むなもと","meaning":"breast, chest, pit of the stomach, solar plexus, epigastrium"}],"radical":{"symbol":"儿","meaning":"legs"},"parts":["二","儿","元"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20803_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05143.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5143.gif","uri":"https://jisho.org/search/%E5%85%83%23kanji"}}
+{
+  "id": "元",
+  "kanjialiveData": {
+    "_id": "54317ae2791eba5146ee495a",
+    "_rev": "10-38c5068f979df9b775de76d7a435771d",
+    "rad_name_ja": "ひとあし",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "moto",
+    "meaning": "origin",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "元気な（げんきな）",
+        "meaning": {
+          "english": "energetic"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "紀元前（きげんぜん）",
+        "meaning": {
+          "english": "B.C.E."
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "三次元（さんじげん）",
+        "meaning": {
+          "english": "3 dimensions"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "元祖（がんそ）",
+        "meaning": {
+          "english": "founder, inventor"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "元年（がんねん）",
+        "meaning": {
+          "english": "first year (of a specific reign)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "製造元（せいぞうもと）",
+        "meaning": {
+          "english": "manufacturer"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "地元（じもと）",
+        "meaning": {
+          "english": "local"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "身元（みもと）",
+        "meaning": {
+          "english": "person's identity"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gen-moto_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gen-moto_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gen-moto_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "もと",
+    "ka_utf": "元",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=元",
+    "kname": "gen-moto",
+    "rad_order": 13,
+    "txt_books": [
+      {
+        "chapter": "18",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "10"
+      }
+    ],
+    "rad_name_search": [
+      "hitoashi"
+    ],
+    "rad_utf": "⼉",
+    "stroketimes": [
+      0,
+      2.266,
+      3.466,
+      4.733,
+      6.066667
+    ],
+    "kunyomi_ka_display": "もと",
+    "dick": "1226",
+    "rad_name": "hitoashi",
+    "dicn": "275",
+    "mn_hint": "Where every person 一 and thing 一 comes 儿 <span class='note'>(orig. “legs”)</span> from.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ゲン、ガン",
+    "rad_meaning": "human legs",
+    "onyomi": "gen, gan",
+    "ka_id": "ka_177",
+    "rad_position": "ashi",
+    "rad_position_ja": "あし",
+    "rad_position_search": [
+      "ashi",
+      "ashi"
+    ],
+    "onyomi_search": [
+      "gen",
+      "gan",
+      "gen, gan"
+    ],
+    "kunyomi_search": [
+      "moto",
+      "moto"
+    ],
+    "meaning_search": [
+      "origin",
+      "origin"
+    ],
+    "onyomi_ja_search": [
+      "ゲン",
+      "ガン",
+      "ゲン、ガン"
+    ],
+    "kunyomi_ja_search": [
+      "もと",
+      "もと"
+    ],
+    "rad_meaning_search": [
+      "human legs",
+      "human",
+      "legs",
+      "human legs"
+    ],
+    "rad_position_ja_search": [
+      "あし",
+      "あし"
+    ],
+    "rad_name_ja_search": [
+      "ひとあし"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:18",
+      "cij:c18",
+      "bk",
+      "bk:16",
+      "bk:c16",
+      "aij3",
+      "aij3:3",
+      "aij3:c3",
+      "aij3:v3",
+      "aij3:v3:3",
+      "aij3:v3:c3",
+      "gen",
+      "gen:5",
+      "gen:c5",
+      "ap",
+      "ap:5",
+      "ap:c5",
+      "kll",
+      "kll:6",
+      "kll:c6",
+      "cijr",
+      "cijr:10",
+      "cijr:c10"
+    ],
+    "rad_name_file": "hitoashi",
+    "kanji": {
+      "character": "元",
+      "meaning": {
+        "english": "origin"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0,
+          2.266,
+          3.466,
+          4.733,
+          6.066667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/gen-moto_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/gen-moto_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/gen-moto_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/gen-moto_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "gen, gan",
+        "katakana": "ゲン、ガン"
+      },
+      "kunyomi": {
+        "romaji": "moto",
+        "hiragana": "もと"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/gen-moto_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/gen-moto_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/gen-moto_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼉",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/hitoashi.svg",
+      "position": {
+        "hiragana": "あし",
+        "romaji": "ashi",
+        "icon": "https://media.kanjialive.com/rad_positions/ashi.svg"
+      },
+      "name": {
+        "hiragana": "ひとあし",
+        "romaji": "hitoashi"
+      },
+      "meaning": {
+        "english": "human legs"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
+        "https://media.kanjialive.com/rad_frames/hitoashi1.svg",
+        "https://media.kanjialive.com/rad_frames/hitoashi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1226",
+      "classic_nelson": "275"
+    }
+  },
+  "jishoData": {
+    "query": "元",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "192",
+    "strokeCount": 4,
+    "meaning": "beginning, former time, origin",
+    "kunyomi": [
+      "もと"
+    ],
+    "onyomi": [
+      "ゲン",
+      "ガン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "元",
+        "reading": "ゲン",
+        "meaning": "unknown (e.g. in an equation), element (of a set), yuan (monetary unit of China), New Taiwan dollar, Yuan dynasty (of China; 1271-1368), Yüan dynasty, Mongol dynasty"
+      },
+      {
+        "example": "原価",
+        "reading": "ゲンカ",
+        "meaning": "cost price"
+      },
+      {
+        "example": "中元",
+        "reading": "チュウゲン",
+        "meaning": "15th day of the 7th lunar month, (last day of) Bon lantern festival, mid-year gift, summer gift, Bon Festival gifts"
+      },
+      {
+        "example": "抗原",
+        "reading": "コウゲン",
+        "meaning": "antigen"
+      },
+      {
+        "example": "元祖",
+        "reading": "ガンソ",
+        "meaning": "originator, pioneer, inventor, founder, progenitor, primogenitor, founder of a family line"
+      },
+      {
+        "example": "元日",
+        "reading": "ガンジツ",
+        "meaning": "New Year's Day"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "元",
+        "reading": "もと",
+        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+      },
+      {
+        "example": "元",
+        "reading": "もと",
+        "meaning": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before"
+      },
+      {
+        "example": "家元",
+        "reading": "いえもと",
+        "meaning": "head of a school (of music, dance), head family of a school"
+      },
+      {
+        "example": "大本",
+        "reading": "おおもと",
+        "meaning": "root, origin, source, cause, basis, foundation, Ōmoto (religion)"
+      }
+    ],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "legs"
+    },
+    "parts": [
+      "二",
+      "儿",
+      "元"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20803_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05143.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5143.gif",
+    "uri": "https://jisho.org/search/%E5%85%83%23kanji"
+  }
+}

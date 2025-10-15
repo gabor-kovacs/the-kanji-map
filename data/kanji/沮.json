@@ -1,1 +1,52 @@
-{"id":"沮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"沮","found":true,"strokeCount":8,"meaning":"stop, prevent, defeated, dejected","kunyomi":["はば.む"],"onyomi":["ソ","ショ"],"onyomiExamples":[{"example":"阻止","reading":"ソシ","meaning":"obstruction, check, hindrance, prevention, impediment, interdiction, preemption, blocking"},{"example":"沮害","reading":"ソガイ","meaning":"check, obstruction, hindrance, impediment"}],"kunyomiExamples":[{"example":"阻む","reading":"はばむ","meaning":"to keep someone from doing, to stop, to prevent, to check, to hinder, to obstruct, to oppose, to thwart"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["汁","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27822_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cae.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cae.gif","uri":"https://jisho.org/search/%E6%B2%AE%23kanji"}}
+{
+  "id": "沮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沮",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "stop, prevent, defeated, dejected",
+    "kunyomi": [
+      "はば.む"
+    ],
+    "onyomi": [
+      "ソ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "阻止",
+        "reading": "ソシ",
+        "meaning": "obstruction, prevention, hindrance, check, blocking, stopping"
+      },
+      {
+        "example": "沮害",
+        "reading": "ソガイ",
+        "meaning": "check, obstruction, hindrance, impediment"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "阻む",
+        "reading": "はばむ",
+        "meaning": "to keep someone from doing, to stop, to prevent, to check, to hinder, to obstruct, to oppose, to thwart"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "汁",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27822_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cae.gif",
+    "uri": "https://jisho.org/search/%E6%B2%AE%23kanji"
+  }
+}

@@ -1,1 +1,45 @@
-{"id":"擘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"擘","found":true,"strokeCount":17,"meaning":"tear up","kunyomi":["さ.く"],"onyomi":["ハク","ヒャク","ヘキ"],"onyomiExamples":[{"example":"巨擘","reading":"キョハク","meaning":"authority, big-shot, star"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["十","口","尸","手","立","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25816_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064d8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64d8.gif","uri":"https://jisho.org/search/%E6%93%98%23kanji"}}
+{
+  "id": "擘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擘",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "tear up",
+    "kunyomi": [
+      "さ.く"
+    ],
+    "onyomi": [
+      "ハク",
+      "ヒャク",
+      "ヘキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巨擘",
+        "reading": "キョハク",
+        "meaning": "authority, big-shot, star"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "手",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25816_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64d8.gif",
+    "uri": "https://jisho.org/search/%E6%93%98%23kanji"
+  }
+}

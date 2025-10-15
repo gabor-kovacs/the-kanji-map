@@ -1,1 +1,63 @@
-{"id":"於","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"於","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2113","strokeCount":8,"meaning":"at, in, on, as for","kunyomi":["おい.て","お.ける","ああ","より"],"onyomi":["オ","ヨ"],"onyomiExamples":[{"example":"於て","reading":"オイテ","meaning":"at, in, on"},{"example":"於かれましては","reading":"オカレマシテハ","meaning":"in respect of, in regards to, as for"}],"kunyomiExamples":[{"example":"於て","reading":"おいて","meaning":"at, in, on"},{"example":"於ける","reading":"おける","meaning":"in, at, for"},{"example":"嗚呼","reading":"ああ","meaning":"ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha"}],"radical":{"symbol":"方","meaning":"square"},"parts":["个","方"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26044_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065bc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65bc.gif","uri":"https://jisho.org/search/%E6%96%BC%23kanji"}}
+{
+  "id": "於",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "於",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2113",
+    "strokeCount": 8,
+    "meaning": "at, in, on, as for",
+    "kunyomi": [
+      "おい.て",
+      "お.ける",
+      "ああ",
+      "より"
+    ],
+    "onyomi": [
+      "オ",
+      "ヨ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "於いて",
+        "reading": "オイテ",
+        "meaning": "at (a time or place), in, on, in (a situation, matter, etc.), on (a point), when it comes to, regarding, with respect to, in (terms of), as to, as for, on the part of, under the authority of, in the name of"
+      },
+      {
+        "example": "於かれましては",
+        "reading": "オカレマシテハ",
+        "meaning": "in respect of, in regard to, as for"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "於いて",
+        "reading": "おいて",
+        "meaning": "at (a time or place), in, on, in (a situation, matter, etc.), on (a point), when it comes to, regarding, with respect to, in (terms of), as to, as for, on the part of, under the authority of, in the name of"
+      },
+      {
+        "example": "於ける",
+        "reading": "おける",
+        "meaning": "in, at, for"
+      },
+      {
+        "example": "【ああ】",
+        "reading": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "方",
+      "meaning": "square"
+    },
+    "parts": [
+      "个",
+      "方"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26044_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065bc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65bc.gif",
+    "uri": "https://jisho.org/search/%E6%96%BC%23kanji"
+  }
+}

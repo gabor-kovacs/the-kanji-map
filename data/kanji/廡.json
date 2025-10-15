@@ -1,1 +1,36 @@
-{"id":"廡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廡","found":true,"strokeCount":15,"meaning":"walking under the eaves","kunyomi":["しげ.る","ひさし"],"onyomi":["ブ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"广","meaning":"house on cliff"},"parts":["ノ","一","乞","广","杰","無","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24289_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ee1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ee1.gif","uri":"https://jisho.org/search/%E5%BB%A1%23kanji"}}
+{
+  "id": "廡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廡",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "walking under the eaves",
+    "kunyomi": [
+      "しげ.る",
+      "ひさし"
+    ],
+    "onyomi": [
+      "ブ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "广",
+      "meaning": "house on cliff"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "广",
+      "杰",
+      "無",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24289_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ee1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ee1.gif",
+    "uri": "https://jisho.org/search/%E5%BB%A1%23kanji"
+  }
+}

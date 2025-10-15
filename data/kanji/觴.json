@@ -1,1 +1,52 @@
-{"id":"觴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"觴","found":true,"strokeCount":18,"meaning":"cup","kunyomi":["さかずき"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"侑觴","reading":"ユウショウ","meaning":"urging one to drink more good wine during a banquet"},{"example":"濫觴","reading":"ランショウ","meaning":"source, beginning, origin"}],"kunyomiExamples":[{"example":"杯","reading":"さかずき","meaning":"sake cup, cup for alcoholic beverages"}],"radical":{"symbol":"角","meaning":"horn"},"parts":["ノ","一","乞","勹","勿","日","角"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35316_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089f4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89f4.gif","uri":"https://jisho.org/search/%E8%A7%B4%23kanji"}}
+{
+  "id": "觴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "觴",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "cup",
+    "kunyomi": [
+      "さかずき"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "侑觴",
+        "reading": "ユウショウ",
+        "meaning": "urging one to drink more good wine during a banquet"
+      },
+      {
+        "example": "濫觴",
+        "reading": "ランショウ",
+        "meaning": "source, beginning, origin"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "杯",
+        "reading": "さかずき",
+        "meaning": "sake cup, cup for alcoholic beverages"
+      }
+    ],
+    "radical": {
+      "symbol": "角",
+      "meaning": "horn"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "勹",
+      "勿",
+      "日",
+      "角"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35316_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089f4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89f4.gif",
+    "uri": "https://jisho.org/search/%E8%A7%B4%23kanji"
+  }
+}

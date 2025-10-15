@@ -1,1 +1,64 @@
-{"id":"薦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"薦","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1082","strokeCount":16,"meaning":"recommend, mat, advise, encourage, offer","kunyomi":["すす.める"],"onyomi":["セン"],"onyomiExamples":[{"example":"薦挙","reading":"センキョ","meaning":"recommendation"},{"example":"仙骨","reading":"センコツ","meaning":"sacrum, sacral bone, hermitry, appearance of a hermit, unworldliness, unusual physique, outstanding appearance"},{"example":"他薦","reading":"タセン","meaning":"recommendation (by others)"},{"example":"自薦","reading":"ジセン","meaning":"self-recommendation, self-nomination, putting oneself forward"}],"kunyomiExamples":[{"example":"勧める","reading":"すすめる","meaning":"to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["广","杰","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34214_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085a6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85a6.gif","uri":"https://jisho.org/search/%E8%96%A6%23kanji"}}
+{
+  "id": "薦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薦",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1082",
+    "strokeCount": 16,
+    "meaning": "recommend, mat, advise, encourage, offer",
+    "kunyomi": [
+      "すす.める"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "薦挙",
+        "reading": "センキョ",
+        "meaning": "recommendation"
+      },
+      {
+        "example": "仙骨",
+        "reading": "センコツ",
+        "meaning": "sacrum, sacral bone, hermitry, appearance of a hermit, unworldliness, unusual physique, outstanding appearance"
+      },
+      {
+        "example": "他薦",
+        "reading": "タセン",
+        "meaning": "recommendation (by others)"
+      },
+      {
+        "example": "自薦",
+        "reading": "ジセン",
+        "meaning": "self-recommendation, self-nomination, putting oneself forward"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "勧める",
+        "reading": "すすめる",
+        "meaning": "to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "广",
+      "杰",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34214_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085a6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85a6.gif",
+    "uri": "https://jisho.org/search/%E8%96%A6%23kanji"
+  }
+}

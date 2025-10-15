@@ -1,1 +1,42 @@
-{"id":"閂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"閂","found":true,"strokeCount":9,"meaning":"gate bar","kunyomi":["かんぬき"],"onyomi":["サン","セン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"閂","reading":"かんぬき","meaning":"bar, bolt (e.g. on door), latch, double-arm lock, (rope) cinching"},{"example":"閂止め","reading":"かんぬきどめ","meaning":"reinforcing \"bolt\" stitch across the bottom of a seam"}],"radical":{"symbol":"門","meaning":"gate"},"parts":["一","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38274_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09582.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9582.gif","uri":"https://jisho.org/search/%E9%96%82%23kanji"}}
+{
+  "id": "閂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閂",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "gate bar",
+    "kunyomi": [
+      "かんぬき"
+    ],
+    "onyomi": [
+      "サン",
+      "セン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "閂",
+        "reading": "かんぬき",
+        "meaning": "bar, bolt (e.g. on door), latch, double-arm lock, (rope) cinching"
+      },
+      {
+        "example": "閂止め",
+        "reading": "かんぬきどめ",
+        "meaning": "reinforcing \"bolt\" stitch across the bottom of a seam"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "一",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38274_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09582.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9582.gif",
+    "uri": "https://jisho.org/search/%E9%96%82%23kanji"
+  }
+}

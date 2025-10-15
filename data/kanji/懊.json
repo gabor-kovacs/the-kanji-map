@@ -1,1 +1,49 @@
-{"id":"懊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"懊","found":true,"strokeCount":16,"meaning":"in distress, provoking, irritating, impatient, vexed","kunyomi":["じれった.い","なや.む"],"onyomi":["オウ"],"onyomiExamples":[{"example":"懊悩","reading":"オウノウ","meaning":"anguish, trouble, agony"},{"example":"懊悩煩悶","reading":"オウノウハンモン","meaning":"anguish, agony"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["冂","大","忙","米","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25034_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061ca.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61ca.gif","uri":"https://jisho.org/search/%E6%87%8A%23kanji"}}
+{
+  "id": "懊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懊",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "in distress, provoking, irritating, impatient, vexed",
+    "kunyomi": [
+      "じれった.い",
+      "なや.む"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "懊悩",
+        "reading": "オウノウ",
+        "meaning": "anguish, trouble, agony"
+      },
+      {
+        "example": "懊悩煩悶",
+        "reading": "オウノウハンモン",
+        "meaning": "anguish, agony"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "冂",
+      "大",
+      "忙",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25034_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061ca.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61ca.gif",
+    "uri": "https://jisho.org/search/%E6%87%8A%23kanji"
+  }
+}

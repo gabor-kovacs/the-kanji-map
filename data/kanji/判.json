@@ -1,1 +1,358 @@
-{"id":"判","kanjialiveData":{"kanji":{"character":"判","meaning":{"english":"stamp, seal, judge"},"strokes":{"count":7,"timings":[0,0.733333,1.2,2.133333,2.933333,4.4,5.266667,7.133333],"images":["https://media.kanjialive.com/kanji_strokes/han(ketsu)_1.svg","https://media.kanjialive.com/kanji_strokes/han(ketsu)_2.svg","https://media.kanjialive.com/kanji_strokes/han(ketsu)_3.svg","https://media.kanjialive.com/kanji_strokes/han(ketsu)_4.svg","https://media.kanjialive.com/kanji_strokes/han(ketsu)_5.svg","https://media.kanjialive.com/kanji_strokes/han(ketsu)_6.svg","https://media.kanjialive.com/kanji_strokes/han(ketsu)_7.svg"]},"onyomi":{"romaji":"han, ban","katakana":"ハン、バン"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/han(ketsu)_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/han(ketsu)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/han(ketsu)_00.webm"}},"radical":{"character":"⺉","strokes":2,"image":"https://media.kanjialive.com/radical_character/rittou.svg","position":{"hiragana":"つくり","romaji":"tsukuri","icon":"https://media.kanjialive.com/rad_positions/tsukuri.svg"},"name":{"hiragana":"りっとう","romaji":"rittou"},"meaning":{"english":"knife, sword"},"animation":["https://media.kanjialive.com/rad_frames/rittou0.svg","https://media.kanjialive.com/rad_frames/rittou1.svg","https://media.kanjialive.com/rad_frames/rittou2.svg"]},"references":{"grade":5,"kodansha":"765","classic_nelson":"673"},"examples":[{"japanese":"判（はん）","meaning":{"english":"stamp [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_a.mp3"}},{"japanese":"判事（はんじ）","meaning":{"english":"judge [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_b.mp3"}},{"japanese":"判決（はんけつ）","meaning":{"english":"judicial decision"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_c.mp3"}},{"japanese":"判断する（はんだんする）","meaning":{"english":"judge, decipher"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_d.mp3"}},{"japanese":"判明する（はんめいする）","meaning":{"english":"prove, turn out"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_e.mp3"}},{"japanese":"批判する（ひはんする）","meaning":{"english":"criticize"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_f.mp3"}},{"japanese":"評判（ひょうばん）","meaning":{"english":"reputation"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_g.mp3"}},{"japanese":"裁判（さいばん）","meaning":{"english":"trial"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_h.mp3"}},{"japanese":"裁判所（さいばんしょ）","meaning":{"english":"court"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_i.mp3"}}]},"jishoData":{"query":"判","found":true,"taughtIn":"grade 5","jlptLevel":"N3","newspaperFrequencyRank":"197","strokeCount":7,"meaning":"judgement, signature, stamp, seal","kunyomi":["わか.る"],"onyomi":["ハン","バン"],"onyomiExamples":[{"example":"判","reading":"ハン","meaning":"seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"},{"example":"判決","reading":"ハンケツ","meaning":"judicial decision, judgement, judgment, sentence, decree"},{"example":"自己批判","reading":"ジコヒハン","meaning":"self-criticism"},{"example":"誤判","reading":"ゴハン","meaning":"misjudgement, misjudgment, erroneous judgement, miscarriage of justice"},{"example":"判","reading":"ハン","meaning":"seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"},{"example":"司法裁判","reading":"シホウサイバン","meaning":"judicial trial"},{"example":"大判","reading":"オオバン","meaning":"large size (paper, book, etc.), ōban, large oval gold coin used in the Edo period"}],"kunyomiExamples":[{"example":"分かる","reading":"わかる","meaning":"to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["二","刈","十","并","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21028_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05224.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5224.gif","uri":"https://jisho.org/search/%E5%88%A4%23kanji"}}
+{
+  "id": "判",
+  "kanjialiveData": {
+    "_id": "54317af8791eba5146ee4af6",
+    "_rev": "11-17cb6ed91e4e5f1b942639ea08bc5f24",
+    "rad_name_ja": "りっとう",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "stamp, seal, judge",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "判（はん）",
+        "meaning": {
+          "english": "stamp [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "判事（はんじ）",
+        "meaning": {
+          "english": "judge [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "判決（はんけつ）",
+        "meaning": {
+          "english": "judicial decision"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "判断する（はんだんする）",
+        "meaning": {
+          "english": "judge, decipher"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "判明する（はんめいする）",
+        "meaning": {
+          "english": "prove, turn out"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "批判する（ひはんする）",
+        "meaning": {
+          "english": "criticize"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "評判（ひょうばん）",
+        "meaning": {
+          "english": "reputation"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "裁判（さいばん）",
+        "meaning": {
+          "english": "trial"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "裁判所（さいばんしょ）",
+        "meaning": {
+          "english": "court"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/han(ketsu)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/han(ketsu)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/han(ketsu)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "判",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=判",
+    "rad_name_search": [
+      "rittou"
+    ],
+    "rad_order": 23,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "han(ketsu)",
+    "rad_utf": "⺉",
+    "stroketimes": [
+      0,
+      0.733333,
+      1.2,
+      2.133333,
+      2.933333,
+      4.4,
+      5.266667,
+      7.133333
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "765",
+    "rad_name": "rittou",
+    "dicn": "673",
+    "mn_hint": "One seal pressed across two identical documents; when the seal is cut刂separated in half 半, the documents are separated.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ハン、バン",
+    "rad_meaning": "knife, sword",
+    "onyomi": "han, ban",
+    "ka_id": "ka_548",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "han",
+      "ban",
+      "han, ban"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "stamp",
+      "seal",
+      "judge",
+      "stamp, seal, judge"
+    ],
+    "onyomi_ja_search": [
+      "ハン",
+      "バン",
+      "ハン、バン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "knife",
+      "sword",
+      "knife, sword"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "りっとう"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:9",
+      "ij:c9",
+      "jtr",
+      "jtr:9",
+      "jtr:c9"
+    ],
+    "rad_name_file": "rittou",
+    "kanji": {
+      "character": "判",
+      "meaning": {
+        "english": "stamp, seal, judge"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          0.733333,
+          1.2,
+          2.133333,
+          2.933333,
+          4.4,
+          5.266667,
+          7.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/han(ketsu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/han(ketsu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/han(ketsu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/han(ketsu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/han(ketsu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/han(ketsu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/han(ketsu)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "han, ban",
+        "katakana": "ハン、バン"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/han(ketsu)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/han(ketsu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/han(ketsu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺉",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/rittou.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "りっとう",
+        "romaji": "rittou"
+      },
+      "meaning": {
+        "english": "knife, sword"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/rittou0.svg",
+        "https://media.kanjialive.com/rad_frames/rittou1.svg",
+        "https://media.kanjialive.com/rad_frames/rittou2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "765",
+      "classic_nelson": "673"
+    }
+  },
+  "jishoData": {
+    "query": "判",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "197",
+    "strokeCount": 7,
+    "meaning": "judgement, judgment, signature, stamp, seal",
+    "kunyomi": [
+      "わか.る"
+    ],
+    "onyomi": [
+      "ハン",
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "判",
+        "reading": "ハン",
+        "meaning": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
+      },
+      {
+        "example": "判決",
+        "reading": "ハンケツ",
+        "meaning": "judicial decision, judgement, judgment, sentence, decree"
+      },
+      {
+        "example": "誤判",
+        "reading": "ゴハン",
+        "meaning": "misjudgement, misjudgment, erroneous judgement, miscarriage of justice"
+      },
+      {
+        "example": "木版",
+        "reading": "モクハン",
+        "meaning": "wood-block printing, wood engraving"
+      },
+      {
+        "example": "判",
+        "reading": "ハン",
+        "meaning": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
+      },
+      {
+        "example": "司法裁判",
+        "reading": "シホウサイバン",
+        "meaning": "judicial trial"
+      },
+      {
+        "example": "大判",
+        "reading": "オオバン",
+        "meaning": "large size (paper, book, etc.), ōban, large oval gold coin used in the Edo period"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "分かる",
+        "reading": "わかる",
+        "meaning": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "二",
+      "刈",
+      "十",
+      "并",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21028_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05224.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5224.gif",
+    "uri": "https://jisho.org/search/%E5%88%A4%23kanji"
+  }
+}

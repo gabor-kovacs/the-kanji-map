@@ -1,1 +1,37 @@
-{"id":"讙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"讙","found":true,"strokeCount":24,"meaning":"noisy, disputatious","kunyomi":["かまびす.しい"],"onyomi":["カン","ケン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["十","口","艾","言","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35737_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b99.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b99.gif","uri":"https://jisho.org/search/%E8%AE%99%23kanji"}}
+{
+  "id": "讙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "讙",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "noisy, disputatious",
+    "kunyomi": [
+      "かまびす.しい"
+    ],
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "十",
+      "口",
+      "艾",
+      "言",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35737_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b99.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b99.gif",
+    "uri": "https://jisho.org/search/%E8%AE%99%23kanji"
+  }
+}

@@ -1,1 +1,60 @@
-{"id":"抉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"抉","found":true,"strokeCount":7,"meaning":"gouge, hollow out, bore, pry","kunyomi":["えぐ.る","こじ.る","くじ.る"],"onyomi":["ケツ"],"onyomiExamples":[{"example":"剔抉","reading":"テッケツ","meaning":"gouging out, exposing (a scandal, fraud, etc.)"}],"kunyomiExamples":[{"example":"抉る","reading":"えぐる","meaning":"to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"},{"example":"抉る","reading":"こじる","meaning":"to pry, to prize, to prise"},{"example":"抉る","reading":"くじる","meaning":"to stick into and move around, to dig around in, to pick (i.e. one's teeth)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ユ","二","人","大","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25225_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06289.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6289.gif","uri":"https://jisho.org/search/%E6%8A%89%23kanji"}}
+{
+  "id": "抉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "抉",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "gouge, hollow out, bore, pry",
+    "kunyomi": [
+      "えぐ.る",
+      "こじ.る",
+      "くじ.る"
+    ],
+    "onyomi": [
+      "ケツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剔抉",
+        "reading": "テッケツ",
+        "meaning": "gouging out, exposing (a scandal, fraud, etc.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "抉る",
+        "reading": "えぐる",
+        "meaning": "to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"
+      },
+      {
+        "example": "抉る",
+        "reading": "こじる",
+        "meaning": "to pry, to prize, to prise"
+      },
+      {
+        "example": "抉る",
+        "reading": "くじる",
+        "meaning": "to stick into and move around, to dig around in, to pick (i.e. one's teeth)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ユ",
+      "二",
+      "人",
+      "大",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25225_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06289.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6289.gif",
+    "uri": "https://jisho.org/search/%E6%8A%89%23kanji"
+  }
+}

@@ -1,1 +1,51 @@
-{"id":"絽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"絽","found":true,"strokeCount":13,"meaning":"silk gauze","kunyomi":[],"onyomi":["ロ","リョ"],"onyomiExamples":[{"example":"絽","reading":"ロ","meaning":"silk gauze (esp. used in light clothing for high summer)"},{"example":"絽織","reading":"ロオリ","meaning":"gauze (fabric), gauze texture, gauze weave"},{"example":"黒絽","reading":"クロロ","meaning":"black \"ro\" silk gauze"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["ノ","口","小","幺","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32125_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d7d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d7d.gif","uri":"https://jisho.org/search/%E7%B5%BD%23kanji"}}
+{
+  "id": "絽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "絽",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "silk gauze",
+    "kunyomi": [],
+    "onyomi": [
+      "ロ",
+      "リョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "絽",
+        "reading": "ロ",
+        "meaning": "silk gauze (esp. used in light clothing for high summer)"
+      },
+      {
+        "example": "絽織",
+        "reading": "ロオリ",
+        "meaning": "gauze (fabric), gauze texture, gauze weave"
+      },
+      {
+        "example": "黒絽",
+        "reading": "クロロ",
+        "meaning": "black \"ro\" silk gauze"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "小",
+      "幺",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32125_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d7d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d7d.gif",
+    "uri": "https://jisho.org/search/%E7%B5%BD%23kanji"
+  }
+}

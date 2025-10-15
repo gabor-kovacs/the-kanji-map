@@ -1,1 +1,38 @@
-{"id":"畷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"畷","found":true,"strokeCount":13,"meaning":"rice field ridge path","kunyomi":["なわて"],"onyomi":["テツ","テイ","セイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"畷","reading":"なわて","meaning":"footpath between rice fields"}],"radical":{"symbol":"田","meaning":"field"},"parts":["又","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30071_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07577.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7577.gif","uri":"https://jisho.org/search/%E7%95%B7%23kanji"}}
+{
+  "id": "畷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "畷",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "rice field ridge path",
+    "kunyomi": [
+      "なわて"
+    ],
+    "onyomi": [
+      "テツ",
+      "テイ",
+      "セイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "縄手",
+        "reading": "なわて",
+        "meaning": "footpath between rice fields"
+      }
+    ],
+    "radical": {
+      "symbol": "田",
+      "meaning": "field"
+    },
+    "parts": [
+      "又",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30071_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07577.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7577.gif",
+    "uri": "https://jisho.org/search/%E7%95%B7%23kanji"
+  }
+}

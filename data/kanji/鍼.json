@@ -1,1 +1,64 @@
-{"id":"鍼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鍼","found":true,"newspaperFrequencyRank":"2338","strokeCount":17,"meaning":"needle","kunyomi":["はり","さ.す"],"onyomi":["シン"],"onyomiExamples":[{"example":"鍼灸","reading":"シンキュウ","meaning":"acupuncture and moxibustion"},{"example":"鍼灸院","reading":"シンキュウイン","meaning":"acupuncture and moxibustion clinic"},{"example":"金針","reading":"キンシン","meaning":"gold needle (esp. an acupuncture needle)"}],"kunyomiExamples":[{"example":"鍼","reading":"はり","meaning":"(acupuncture) needle, acupuncture"},{"example":"鍼医","reading":"はりい","meaning":"acupuncturist"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ノ","口","戈","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37756_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0937c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/937c.gif","uri":"https://jisho.org/search/%E9%8D%BC%23kanji"}}
+{
+  "id": "鍼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鍼",
+    "found": true,
+    "newspaperFrequencyRank": "2338",
+    "strokeCount": 17,
+    "meaning": "needle",
+    "kunyomi": [
+      "はり",
+      "さ.す"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鍼灸",
+        "reading": "シンキュウ",
+        "meaning": "acupuncture and moxibustion"
+      },
+      {
+        "example": "鍼医",
+        "reading": "ハリイ",
+        "meaning": "acupuncturist"
+      },
+      {
+        "example": "金針",
+        "reading": "キンシン",
+        "meaning": "gold needle (esp. an acupuncture needle)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鍼",
+        "reading": "はり",
+        "meaning": "(acupuncture) needle, acupuncture"
+      },
+      {
+        "example": "鍼医",
+        "reading": "はりい",
+        "meaning": "acupuncturist"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "戈",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37756_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0937c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/937c.gif",
+    "uri": "https://jisho.org/search/%E9%8D%BC%23kanji"
+  }
+}

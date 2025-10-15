@@ -1,1 +1,32 @@
-{"id":"嵒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嵒","found":true,"strokeCount":12,"meaning":"rock","kunyomi":["いわ","けわ.しい"],"onyomi":["ガン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["口","品","山"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23890_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d52.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d52.gif","uri":"https://jisho.org/search/%E5%B5%92%23kanji"}}
+{
+  "id": "嵒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嵒",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "rock",
+    "kunyomi": [
+      "いわ",
+      "けわ.しい"
+    ],
+    "onyomi": [
+      "ガン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "口",
+      "品",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23890_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d52.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d52.gif",
+    "uri": "https://jisho.org/search/%E5%B5%92%23kanji"
+  }
+}

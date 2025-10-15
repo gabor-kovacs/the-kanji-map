@@ -1,1 +1,28 @@
-{"id":"寉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"寉","found":true,"strokeCount":11,"meaning":"crane (bird)","kunyomi":["つる"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"宀","meaning":"roof"},"parts":["宀","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23497_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc9.gif","uri":"https://jisho.org/search/%E5%AF%89%23kanji"}}
+{
+  "id": "寉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寉",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "crane (bird)",
+    "kunyomi": [
+      "つる"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "宀",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23497_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc9.gif",
+    "uri": "https://jisho.org/search/%E5%AF%89%23kanji"
+  }
+}

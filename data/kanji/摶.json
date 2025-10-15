@@ -1,1 +1,38 @@
-{"id":"摶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"摶","found":true,"strokeCount":14,"meaning":"roll into a ball, slap","kunyomi":["まる.い"],"onyomi":["タン","セン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["十","厶","寸","扎","田","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25718_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06476.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6476.gif","uri":"https://jisho.org/search/%E6%91%B6%23kanji"}}
+{
+  "id": "摶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "摶",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "roll into a ball, slap",
+    "kunyomi": [
+      "まる.い"
+    ],
+    "onyomi": [
+      "タン",
+      "セン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "十",
+      "厶",
+      "寸",
+      "扎",
+      "田",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25718_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06476.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6476.gif",
+    "uri": "https://jisho.org/search/%E6%91%B6%23kanji"
+  }
+}

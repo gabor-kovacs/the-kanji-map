@@ -1,1 +1,45 @@
-{"id":"匡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"匡","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2176","strokeCount":6,"meaning":"correct, save, assist","kunyomi":["すく.う","ただ.す"],"onyomi":["キョウ","オウ"],"onyomiExamples":[{"example":"匡救","reading":"キョウキュウ","meaning":"delivering from sin, succor, succour"},{"example":"匡正","reading":"キョウセイ","meaning":"correction (of error, mistake, etc.), reform, training"}],"kunyomiExamples":[],"radical":{"symbol":"匚","meaning":"box"},"parts":["匚","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21281_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05321.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5321.gif","uri":"https://jisho.org/search/%E5%8C%A1%23kanji"}}
+{
+  "id": "匡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匡",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2176",
+    "strokeCount": 6,
+    "meaning": "correct, save, assist",
+    "kunyomi": [
+      "すく.う",
+      "ただ.す"
+    ],
+    "onyomi": [
+      "キョウ",
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匡救",
+        "reading": "キョウキュウ",
+        "meaning": "delivering from sin, succor, succour"
+      },
+      {
+        "example": "匡正",
+        "reading": "キョウセイ",
+        "meaning": "correction (of a fault, mistake, flaw, etc.), remedy, rectification, redress, reform"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "匚",
+      "meaning": "box"
+    },
+    "parts": [
+      "匚",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21281_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05321.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5321.gif",
+    "uri": "https://jisho.org/search/%E5%8C%A1%23kanji"
+  }
+}

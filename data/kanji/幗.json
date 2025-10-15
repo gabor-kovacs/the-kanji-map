@@ -1,1 +1,30 @@
-{"id":"幗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"幗","found":true,"strokeCount":14,"meaning":"woman's head covering, veil","kunyomi":[],"onyomi":["カク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["口","囗","巾","戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24151_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e57.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e57.gif","uri":"https://jisho.org/search/%E5%B9%97%23kanji"}}
+{
+  "id": "幗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幗",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "woman's head covering, veil",
+    "kunyomi": [],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "口",
+      "囗",
+      "巾",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24151_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e57.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e57.gif",
+    "uri": "https://jisho.org/search/%E5%B9%97%23kanji"
+  }
+}

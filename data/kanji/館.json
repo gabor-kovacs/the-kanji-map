@@ -1,1 +1,446 @@
-{"id":"館","kanjialiveData":{"kanji":{"character":"館","meaning":{"english":"public building"},"strokes":{"count":16,"timings":[0,1.932,2.799,3.799,5.4,6.132,6.867,8.199,8.932,10.333,11.067,12.133,13.333,14.732,15.399,16.867,17.533333],"images":["https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_1.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_2.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_3.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_4.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_5.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_6.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_7.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_8.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_9.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_10.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_11.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_12.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_13.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_14.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_15.svg","https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_16.svg"]},"onyomi":{"romaji":"kan","katakana":"カン"},"kunyomi":{"romaji":"tate","hiragana":"たて"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_16.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kan-tate(mono)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kan-tate(mono)_00.webm"}},"radical":{"character":"⻟","strokes":8,"image":"https://media.kanjialive.com/radical_character/shokuhen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"しょくへん","romaji":"shokuhen"},"meaning":{"english":"food, to eat"},"animation":["https://media.kanjialive.com/rad_frames/shokuhen0.svg","https://media.kanjialive.com/rad_frames/shokuhen1.svg","https://media.kanjialive.com/rad_frames/shokuhen2.svg"]},"references":{"grade":3,"kodansha":"1150","classic_nelson":"5174"},"examples":[{"japanese":"開館する（かいかんする）","meaning":{"english":"open a building"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_a.mp3"}},{"japanese":"閉館する（へいかんする）","meaning":{"english":"close a building"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_b.mp3"}},{"japanese":"休館する（きゅうかんする）","meaning":{"english":"close a library or museum"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_c.mp3"}},{"japanese":"図書館（としょかん）","meaning":{"english":"library"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_d.mp3"}},{"japanese":"映画館（えいがかん）","meaning":{"english":"movie theater"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_e.mp3"}},{"japanese":"体育館（たいいくかん）","meaning":{"english":"gym"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_f.mp3"}},{"japanese":"大使館（たいしかん）","meaning":{"english":"embassy"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_g.mp3"}},{"japanese":"旅館（りょかん）","meaning":{"english":"Japanese style hotel"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_h.mp3"}},{"japanese":"函館（はこだて）","meaning":{"english":"Hakodate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_i.mp3"}}]},"jishoData":{"query":"館","found":true,"taughtIn":"grade 3","jlptLevel":"N4","newspaperFrequencyRank":"613","strokeCount":16,"meaning":"building, mansion, large building, palace","kunyomi":["やかた","たて"],"onyomi":["カン"],"onyomiExamples":[{"example":"館","reading":"カン","meaning":"house, hall, building"},{"example":"館長","reading":"カンチョウ","meaning":"superintendent, director, curator, chief librarian"},{"example":"在外公館","reading":"ザイガイコウカン","meaning":"diplomatic mission, overseas diplomatic establishment"},{"example":"公館","reading":"コウカン","meaning":"official residence"}],"kunyomiExamples":[{"example":"館","reading":"やかた","meaning":"mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)"},{"example":"夏館","reading":"なつやかた","meaning":"villa arranged appropriately for summer, mansion arranged appropriately for summer"},{"example":"恐怖の館","reading":"きょうふのやかた","meaning":"house of horrors"},{"example":"館","reading":"やかた","meaning":"mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)"}],"radical":{"symbol":"食","forms":["飠"],"meaning":"eat, food"},"parts":["口","宀","食","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39208_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09928.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9928.gif","uri":"https://jisho.org/search/%E9%A4%A8%23kanji"}}
+{
+  "id": "館",
+  "kanjialiveData": {
+    "_id": "54317ae3791eba5146ee4963",
+    "_rev": "9-3873bf7e57e5013e9bf92672c276d7bc",
+    "rad_name_ja": "しょくへん",
+    "grade": 3,
+    "hint_group": 6,
+    "kunyomi": "tate",
+    "meaning": "public building",
+    "kstroke": 16,
+    "examples": [
+      {
+        "japanese": "開館する（かいかんする）",
+        "meaning": {
+          "english": "open a building"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "閉館する（へいかんする）",
+        "meaning": {
+          "english": "close a building"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "休館する（きゅうかんする）",
+        "meaning": {
+          "english": "close a library or museum"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "図書館（としょかん）",
+        "meaning": {
+          "english": "library"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "映画館（えいがかん）",
+        "meaning": {
+          "english": "movie theater"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "体育館（たいいくかん）",
+        "meaning": {
+          "english": "gym"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "大使館（たいしかん）",
+        "meaning": {
+          "english": "embassy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "旅館（りょかん）",
+        "meaning": {
+          "english": "Japanese style hotel"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "函館（はこだて）",
+        "meaning": {
+          "english": "Hakodate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-tate(mono)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kan-tate(mono)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kan-tate(mono)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kan-tate(mono)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "たて",
+    "ka_utf": "館",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=館",
+    "rad_name_search": [
+      "shokuhen"
+    ],
+    "rad_order": 221,
+    "txt_books": [
+      {
+        "chapter": "18",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "6"
+      }
+    ],
+    "kname": "kan-tate(mono)",
+    "rad_utf": "⻟",
+    "stroketimes": [
+      0,
+      1.932,
+      2.799,
+      3.799,
+      5.4,
+      6.132,
+      6.867,
+      8.199,
+      8.932,
+      10.333,
+      11.067,
+      12.133,
+      13.333,
+      14.732,
+      15.399,
+      16.867,
+      17.533333
+    ],
+    "kunyomi_ka_display": "たて",
+    "dick": "1150",
+    "rad_name": "shokuhen",
+    "dicn": "5174",
+    "mn_hint": "Where officials 官 go to eat [15].",
+    "rad_stroke": 8,
+    "onyomi_ja": "カン",
+    "rad_meaning": "food, to eat",
+    "onyomi": "kan",
+    "ka_id": "ka_185",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kan",
+      "kan"
+    ],
+    "kunyomi_search": [
+      "tate",
+      "tate"
+    ],
+    "meaning_search": [
+      "public building",
+      "public",
+      "building",
+      "public building"
+    ],
+    "onyomi_ja_search": [
+      "カン",
+      "カン"
+    ],
+    "kunyomi_ja_search": [
+      "たて",
+      "たて"
+    ],
+    "rad_meaning_search": [
+      "food",
+      "to eat",
+      "to",
+      "eat",
+      "food, to eat"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "しょくへん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:18",
+      "cij:c18",
+      "bk",
+      "bk:19",
+      "bk:c19",
+      "mac",
+      "mac:19",
+      "mac:c19",
+      "aij3",
+      "aij3:4",
+      "aij3:c4",
+      "aij3:v4",
+      "aij3:v4:4",
+      "aij3:v4:c4",
+      "gen",
+      "gen:18",
+      "gen:c18",
+      "ap",
+      "ap:3",
+      "ap:c3",
+      "kll",
+      "kll:18",
+      "kll:c18",
+      "cijr",
+      "cijr:6",
+      "cijr:c6"
+    ],
+    "rad_name_file": "shokuhen",
+    "kanji": {
+      "character": "館",
+      "meaning": {
+        "english": "public building"
+      },
+      "strokes": {
+        "count": 16,
+        "timings": [
+          0,
+          1.932,
+          2.799,
+          3.799,
+          5.4,
+          6.132,
+          6.867,
+          8.199,
+          8.932,
+          10.333,
+          11.067,
+          12.133,
+          13.333,
+          14.732,
+          15.399,
+          16.867,
+          17.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_14.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_15.svg",
+          "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_16.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kan",
+        "katakana": "カン"
+      },
+      "kunyomi": {
+        "romaji": "tate",
+        "hiragana": "たて"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kan-tate(mono)_16.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kan-tate(mono)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kan-tate(mono)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⻟",
+      "strokes": 8,
+      "image": "https://media.kanjialive.com/radical_character/shokuhen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "しょくへん",
+        "romaji": "shokuhen"
+      },
+      "meaning": {
+        "english": "food, to eat"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/shokuhen0.svg",
+        "https://media.kanjialive.com/rad_frames/shokuhen1.svg",
+        "https://media.kanjialive.com/rad_frames/shokuhen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "1150",
+      "classic_nelson": "5174"
+    }
+  },
+  "jishoData": {
+    "query": "館",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "613",
+    "strokeCount": 16,
+    "meaning": "building, mansion, large building, palace",
+    "kunyomi": [
+      "やかた",
+      "たて"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "館",
+        "reading": "カン",
+        "meaning": "(large) building, public building, hall"
+      },
+      {
+        "example": "館長",
+        "reading": "カンチョウ",
+        "meaning": "superintendent, director, curator, chief librarian"
+      },
+      {
+        "example": "在外公館",
+        "reading": "ザイガイコウカン",
+        "meaning": "diplomatic mission, overseas diplomatic establishment"
+      },
+      {
+        "example": "公館",
+        "reading": "コウカン",
+        "meaning": "official residence"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "館",
+        "reading": "やかた",
+        "meaning": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)"
+      },
+      {
+        "example": "夏館",
+        "reading": "なつやかた",
+        "meaning": "villa arranged appropriately for summer, mansion arranged appropriately for summer"
+      },
+      {
+        "example": "恐怖の館",
+        "reading": "きょうふのやかた",
+        "meaning": "house of horrors"
+      },
+      {
+        "example": "館",
+        "reading": "やかた",
+        "meaning": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "eat, food"
+    },
+    "parts": [
+      "口",
+      "宀",
+      "食",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39208_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09928.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9928.gif",
+    "uri": "https://jisho.org/search/%E9%A4%A8%23kanji"
+  }
+}

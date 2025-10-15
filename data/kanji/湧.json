@@ -1,1 +1,73 @@
-{"id":"湧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"湧","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2070","strokeCount":12,"meaning":"boil, ferment, seethe, uproar, breed","kunyomi":["わ.く"],"onyomi":["ユウ","ヨウ","ユ"],"onyomiExamples":[{"example":"湧水","reading":"ユウスイ","meaning":"spring, welling of water"},{"example":"湧出","reading":"ユウシュツ","meaning":"gushing out, welling up, springing up"},{"example":"湧出","reading":"ユウシュツ","meaning":"gushing out, welling up, springing up"},{"example":"湧水","reading":"ユウスイ","meaning":"spring, welling of water"},{"example":"湧出","reading":"ユウシュツ","meaning":"gushing out, welling up, springing up"}],"kunyomiExamples":[{"example":"湧く","reading":"わく","meaning":"to well (up), to gush forth (of water), to spring out, to surge, to appear (esp. suddenly) (sweat, tears, etc.), to feel emotions from (joy, bravery, etc.), to hatch (esp. of parasitic insects, etc.)"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["マ","力","汁","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28263_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e67.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e67.gif","uri":"https://jisho.org/search/%E6%B9%A7%23kanji"}}
+{
+  "id": "湧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "湧",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2070",
+    "strokeCount": 12,
+    "meaning": "boil, ferment, seethe, uproar, breed",
+    "kunyomi": [
+      "わ.く"
+    ],
+    "onyomi": [
+      "ユウ",
+      "ヨウ",
+      "ユ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "湧水",
+        "reading": "ユウスイ",
+        "meaning": "spring, welling of water"
+      },
+      {
+        "example": "湧出",
+        "reading": "ユウシュツ",
+        "meaning": "gushing out, welling up, springing up"
+      },
+      {
+        "example": "湧出",
+        "reading": "ユウシュツ",
+        "meaning": "gushing out, welling up, springing up"
+      },
+      {
+        "example": "湧水",
+        "reading": "ユウスイ",
+        "meaning": "spring, welling of water"
+      },
+      {
+        "example": "湧出",
+        "reading": "ユウシュツ",
+        "meaning": "gushing out, welling up, springing up"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "湧く",
+        "reading": "わく",
+        "meaning": "to well (up), to gush out (of water), to spring out, to surge, to appear (esp. suddenly) (sweat, tears, etc.), to sweat, to cry, to feel emotions (e.g. joy, bravery, etc.), to spring up (e.g. an idea, emotions, clouds), to well up, to arise, to hatch, to breed, to propagate, to be infested (esp. of parasitic insects, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "マ",
+      "力",
+      "汁",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28263_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e67.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e67.gif",
+    "uri": "https://jisho.org/search/%E6%B9%A7%23kanji"
+  }
+}

@@ -1,1 +1,60 @@
-{"id":"鏘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鏘","found":true,"strokeCount":19,"meaning":"tinkling of jade or metal pendants","kunyomi":[],"onyomi":["ソウ","ショウ"],"onyomiExamples":[{"example":"鏘々","reading":"ソウソウ","meaning":"lively, active, energetic, enthusiastic, tinkling (of metal, jewels, etc.), ringing brightly, crying (of a Chinese phoenix)"},{"example":"鏗鏘","reading":"コウソウ","meaning":"resounding (sound of bells, musical instruments, stones being struck, etc.)"},{"example":"鏘々","reading":"ソウソウ","meaning":"lively, active, energetic, enthusiastic, tinkling (of metal, jewels, etc.), ringing brightly, crying (of a Chinese phoenix)"},{"example":"鏘々","reading":"ソウソウ","meaning":"lively, active, energetic, enthusiastic, tinkling (of metal, jewels, etc.), ringing brightly, crying (of a Chinese phoenix)"},{"example":"鏘々","reading":"ソウソウ","meaning":"lively, active, energetic, enthusiastic, tinkling (of metal, jewels, etc.), ringing brightly, crying (of a Chinese phoenix)"}],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["夕","寸","爿","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37848_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093d8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93d8.gif","uri":"https://jisho.org/search/%E9%8F%98%23kanji"}}
+{
+  "id": "鏘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鏘",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "tinkling of jade or metal pendants",
+    "kunyomi": [],
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鏘々",
+        "reading": "ソウソウ",
+        "meaning": "lively, active, energetic, enthusiastic, tinkling (of metal, jewels, etc.), ringing brightly, crying (of a Chinese phoenix)"
+      },
+      {
+        "example": "鏗鏘",
+        "reading": "コウソウ",
+        "meaning": "resounding (sound of bells, musical instruments, stones being struck, etc.)"
+      },
+      {
+        "example": "鏘々",
+        "reading": "ソウソウ",
+        "meaning": "lively, active, energetic, enthusiastic, tinkling (of metal, jewels, etc.), ringing brightly, crying (of a Chinese phoenix)"
+      },
+      {
+        "example": "鏘々",
+        "reading": "ソウソウ",
+        "meaning": "lively, active, energetic, enthusiastic, tinkling (of metal, jewels, etc.), ringing brightly, crying (of a Chinese phoenix)"
+      },
+      {
+        "example": "鏘々",
+        "reading": "ソウソウ",
+        "meaning": "lively, active, energetic, enthusiastic, tinkling (of metal, jewels, etc.), ringing brightly, crying (of a Chinese phoenix)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "夕",
+      "寸",
+      "爿",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37848_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93d8.gif",
+    "uri": "https://jisho.org/search/%E9%8F%98%23kanji"
+  }
+}

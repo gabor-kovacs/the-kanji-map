@@ -1,1 +1,46 @@
-{"id":"豎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"豎","found":true,"strokeCount":16,"meaning":"vertical, child","kunyomi":["たて","た.てる","こども"],"onyomi":["ジュ"],"onyomiExamples":[{"example":"豎子","reading":"ジュシ","meaning":"child, young lad, stripling, greenhorn, inexperienced person"},{"example":"二豎","reading":"ニジュ","meaning":"demon of ill health, disease"}],"kunyomiExamples":[],"radical":{"symbol":"豆","meaning":"bean"},"parts":["又","口","并","臣","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35918_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c4e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c4e.gif","uri":"https://jisho.org/search/%E8%B1%8E%23kanji"}}
+{
+  "id": "豎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "豎",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "vertical, child",
+    "kunyomi": [
+      "たて",
+      "た.てる",
+      "こども"
+    ],
+    "onyomi": [
+      "ジュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "孺子",
+        "reading": "ジュシ",
+        "meaning": "child, young lad, stripling, greenhorn, inexperienced person"
+      },
+      {
+        "example": "二豎",
+        "reading": "ニジュ",
+        "meaning": "demon of ill health, disease"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "豆",
+      "meaning": "bean"
+    },
+    "parts": [
+      "又",
+      "口",
+      "并",
+      "臣",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35918_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c4e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c4e.gif",
+    "uri": "https://jisho.org/search/%E8%B1%8E%23kanji"
+  }
+}

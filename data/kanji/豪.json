@@ -1,1 +1,62 @@
-{"id":"豪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"豪","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1104","strokeCount":14,"meaning":"overpowering, great, powerful, excelling, Australia","kunyomi":["えら.い"],"onyomi":["ゴウ"],"onyomiExamples":[{"example":"豪","reading":"ゴウ","meaning":"Australia"},{"example":"剛","reading":"ゴウ","meaning":"strong, hard, manly"},{"example":"強豪","reading":"キョウゴウ","meaning":"overwhelming strength, extremely strong person, powerhouse, very strong player, very strong team"},{"example":"古豪","reading":"コゴウ","meaning":"veteran, old-timer, experienced person"}],"kunyomiExamples":[{"example":"偉い","reading":"えらい","meaning":"great, excellent, admirable, remarkable, distinguished, important, celebrated, famous, eminent, very troublesome, awful, terrible, tiring, tough, very, extremely"}],"radical":{"symbol":"豕","meaning":"pig"},"parts":["亠","冖","口","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35946_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c6a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c6a.gif","uri":"https://jisho.org/search/%E8%B1%AA%23kanji"}}
+{
+  "id": "豪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "豪",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1104",
+    "strokeCount": 14,
+    "meaning": "overpowering, great, powerful, excelling, Australia",
+    "kunyomi": [
+      "えら.い"
+    ],
+    "onyomi": [
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "豪",
+        "reading": "ゴウ",
+        "meaning": "Australia"
+      },
+      {
+        "example": "剛",
+        "reading": "ゴウ",
+        "meaning": "strength, toughness, bravery, boldness"
+      },
+      {
+        "example": "強豪",
+        "reading": "キョウゴウ",
+        "meaning": "overwhelming strength, extremely strong person, powerhouse, very strong player, very strong team"
+      },
+      {
+        "example": "古豪",
+        "reading": "コゴウ",
+        "meaning": "veteran, old-timer, experienced person"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "偉い",
+        "reading": "えらい",
+        "meaning": "great, excellent, admirable, commendable, laudable, honorable, wonderful, outstanding, extraordinary, distinguished, important, high-ranking, powerful, eminent, famous, awful, terrible, serious, tremendous, great, mighty, severe, tiring, tough, hard, very, extremely"
+      }
+    ],
+    "radical": {
+      "symbol": "豕",
+      "meaning": "pig"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "口",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35946_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c6a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c6a.gif",
+    "uri": "https://jisho.org/search/%E8%B1%AA%23kanji"
+  }
+}

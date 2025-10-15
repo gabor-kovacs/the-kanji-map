@@ -1,1 +1,64 @@
-{"id":"睨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"睨","found":true,"strokeCount":13,"meaning":"glaring at, authority, power, scowl at","kunyomi":["にら.む","にら.み"],"onyomi":["ゲイ"],"onyomiExamples":[{"example":"睥睨","reading":"ヘイゲイ","meaning":"glaring at, scowling at, looking contemptuously at, frowning down upon, domineering with a coercive look"}],"kunyomiExamples":[{"example":"睨む","reading":"にらむ","meaning":"to glare at, to scowl at, to glower at, to stare intensely at, to examine carefully, to estimate, to guess, to suspect, to judge, to keep an eye on someone (e.g. a suspicious or untrustworthy person), to watch, to take account of, to take into consideration"},{"example":"睨み","reading":"にらみ","meaning":"glare, sharp look"},{"example":"にらみ合い","reading":"にらみあい","meaning":"glaring at each other, confrontation, standoff, face-off"},{"example":"親睨","reading":"おやにらみ","meaning":"aucha perch (Coreoperca kawamebari)"},{"example":"高麗親睨","reading":"こうらいおやにらみ","meaning":"Coreoperca herzi (species of temperate perch)"}],"radical":{"symbol":"目","meaning":"eye"},"parts":["儿","目","臼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30568_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07768.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7768.gif","uri":"https://jisho.org/search/%E7%9D%A8%23kanji"}}
+{
+  "id": "睨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "睨",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "glaring at, authority, power, scowl at",
+    "kunyomi": [
+      "にら.む",
+      "にら.み"
+    ],
+    "onyomi": [
+      "ゲイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "睥睨",
+        "reading": "ヘイゲイ",
+        "meaning": "glaring at, scowling at, looking contemptuously at, frowning down upon, domineering with a coercive look"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "睨む",
+        "reading": "にらむ",
+        "meaning": "to glare at, to scowl at, to glower at, to stare intensely at, to examine carefully, to estimate, to guess, to suspect, to judge, to keep an eye on someone (e.g. a suspicious or untrustworthy person), to watch, to take account of, to take into consideration"
+      },
+      {
+        "example": "睨み",
+        "reading": "にらみ",
+        "meaning": "glare, sharp look"
+      },
+      {
+        "example": "にらみ合い",
+        "reading": "にらみあい",
+        "meaning": "glaring at each other, confrontation, standoff, face-off"
+      },
+      {
+        "example": "親睨",
+        "reading": "おやにらみ",
+        "meaning": "aucha perch (Coreoperca kawamebari)"
+      },
+      {
+        "example": "高麗親睨",
+        "reading": "こうらいおやにらみ",
+        "meaning": "Coreoperca herzi (species of temperate perch)"
+      }
+    ],
+    "radical": {
+      "symbol": "目",
+      "meaning": "eye"
+    },
+    "parts": [
+      "儿",
+      "目",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30568_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07768.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7768.gif",
+    "uri": "https://jisho.org/search/%E7%9D%A8%23kanji"
+  }
+}

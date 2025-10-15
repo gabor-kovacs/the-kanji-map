@@ -1,1 +1,64 @@
-{"id":"剤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"剤","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1151","strokeCount":10,"meaning":"dose, medicine, drug","kunyomi":["かる","けず.る"],"onyomi":["ザイ","スイ","セイ"],"onyomiExamples":[{"example":"剤","reading":"ザイ","meaning":"medicine, agent, (chemical) substance, drug, dose"},{"example":"剤形","reading":"ザイケイ","meaning":"dosage form"},{"example":"薬剤","reading":"ヤクザイ","meaning":"medicine, drug, chemical"},{"example":"覚醒剤","reading":"カクセイザイ","meaning":"stimulant (e.g. psychoactive drugs like methamphetamine, ritalin, etc.)"}],"kunyomiExamples":[],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["ノ","刈","廾","文","斉","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21092_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05264.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5264.gif","uri":"https://jisho.org/search/%E5%89%A4%23kanji"}}
+{
+  "id": "剤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "剤",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1151",
+    "strokeCount": 10,
+    "meaning": "dose, medicine, drug",
+    "kunyomi": [
+      "かる",
+      "けず.る"
+    ],
+    "onyomi": [
+      "ザイ",
+      "スイ",
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剤",
+        "reading": "ザイ",
+        "meaning": "medicine, agent, (chemical) substance, drug, dose"
+      },
+      {
+        "example": "剤形",
+        "reading": "ザイケイ",
+        "meaning": "dosage form"
+      },
+      {
+        "example": "薬剤",
+        "reading": "ヤクザイ",
+        "meaning": "medicine, drug, chemical"
+      },
+      {
+        "example": "覚醒剤",
+        "reading": "カクセイザイ",
+        "meaning": "stimulant (e.g. psychoactive drugs like methamphetamine, ritalin, etc.)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "ノ",
+      "刈",
+      "廾",
+      "文",
+      "斉",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21092_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05264.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5264.gif",
+    "uri": "https://jisho.org/search/%E5%89%A4%23kanji"
+  }
+}

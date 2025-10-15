@@ -1,1 +1,32 @@
-{"id":"釶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"釶","found":true,"strokeCount":11,"meaning":"halberd","kunyomi":[],"onyomi":["シ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["也","匕","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37366_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091f6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91f6.gif","uri":"https://jisho.org/search/%E9%87%B6%23kanji"}}
+{
+  "id": "釶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "釶",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "halberd",
+    "kunyomi": [],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "也",
+      "匕",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37366_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091f6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91f6.gif",
+    "uri": "https://jisho.org/search/%E9%87%B6%23kanji"
+  }
+}

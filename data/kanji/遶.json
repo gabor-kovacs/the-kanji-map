@@ -1,1 +1,37 @@
-{"id":"遶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遶","found":true,"strokeCount":16,"meaning":"surround","kunyomi":["めぐ.る"],"onyomi":["ニョウ","ジョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["儿","土","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36982_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09076.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9076.gif","uri":"https://jisho.org/search/%E9%81%B6%23kanji"}}
+{
+  "id": "遶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遶",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "surround",
+    "kunyomi": [
+      "めぐ.る"
+    ],
+    "onyomi": [
+      "ニョウ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36982_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09076.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9076.gif",
+    "uri": "https://jisho.org/search/%E9%81%B6%23kanji"
+  }
+}

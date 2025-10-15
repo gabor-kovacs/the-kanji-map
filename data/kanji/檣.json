@@ -1,1 +1,60 @@
-{"id":"檣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"檣","found":true,"strokeCount":17,"meaning":"mast","kunyomi":["ほばしら"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"檣楼","reading":"ショウロウ","meaning":"top"},{"example":"船檣","reading":"センショウ","meaning":"mast"},{"example":"帆檣","reading":"ハンショウ","meaning":"mast"}],"kunyomiExamples":[{"example":"帆柱","reading":"ほばしら","meaning":"mast"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["人","口","囗","土","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27299_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06aa3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6aa3.gif","uri":"https://jisho.org/search/%E6%AA%A3%23kanji"}}
+{
+  "id": "檣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "檣",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "mast",
+    "kunyomi": [
+      "ほばしら"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "檣頭",
+        "reading": "ショウトウ",
+        "meaning": "masthead (top of a mast)"
+      },
+      {
+        "example": "檣楼",
+        "reading": "ショウロウ",
+        "meaning": "top"
+      },
+      {
+        "example": "船檣",
+        "reading": "センショウ",
+        "meaning": "mast"
+      },
+      {
+        "example": "帆檣",
+        "reading": "ハンショウ",
+        "meaning": "mast"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "帆柱",
+        "reading": "ほばしら",
+        "meaning": "mast"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "人",
+      "口",
+      "囗",
+      "土",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27299_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06aa3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6aa3.gif",
+    "uri": "https://jisho.org/search/%E6%AA%A3%23kanji"
+  }
+}

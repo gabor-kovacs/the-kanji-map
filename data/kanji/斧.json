@@ -1,1 +1,72 @@
-{"id":"斧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"斧","found":true,"strokeCount":8,"meaning":"ax, hatchet","kunyomi":["おの"],"onyomi":["フ"],"onyomiExamples":[{"example":"斧鉞","reading":"フエツ","meaning":"axe"},{"example":"斧斤","reading":"フキン","meaning":"axe"},{"example":"石斧","reading":"セキフ","meaning":"stone axe (ax)"},{"example":"多頭石斧","reading":"タトウセキフ","meaning":"stone axe with multiple cutting edges (Jōmon period)"}],"kunyomiExamples":[{"example":"斧","reading":"おの","meaning":"axe, ax, hatchet"},{"example":"斧足類","reading":"ふそくるい","meaning":"pelecypods (i.e. bivalves)"},{"example":"戦斧","reading":"せんぷ","meaning":"battleaxe"},{"example":"手斧","reading":"ておの","meaning":"hatchet, adze, adz"}],"radical":{"symbol":"斤","meaning":"axe"},"parts":["斤","父"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26023_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065a7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65a7.gif","uri":"https://jisho.org/search/%E6%96%A7%23kanji"}}
+{
+  "id": "斧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斧",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "ax, hatchet",
+    "kunyomi": [
+      "おの"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斧鉞",
+        "reading": "フエツ",
+        "meaning": "axe"
+      },
+      {
+        "example": "斧斤",
+        "reading": "フキン",
+        "meaning": "axe"
+      },
+      {
+        "example": "石斧",
+        "reading": "セキフ",
+        "meaning": "stone axe (ax)"
+      },
+      {
+        "example": "多頭石斧",
+        "reading": "タトウセキフ",
+        "meaning": "stone axe with multiple cutting edges (Jōmon period)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "斧",
+        "reading": "おの",
+        "meaning": "axe, ax, hatchet"
+      },
+      {
+        "example": "斧足類",
+        "reading": "ふそくるい",
+        "meaning": "pelecypods (i.e. bivalves)"
+      },
+      {
+        "example": "戦斧",
+        "reading": "せんぷ",
+        "meaning": "battleaxe"
+      },
+      {
+        "example": "手斧",
+        "reading": "ておの",
+        "meaning": "hatchet, adze, adz"
+      }
+    ],
+    "radical": {
+      "symbol": "斤",
+      "meaning": "axe"
+    },
+    "parts": [
+      "斤",
+      "父"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26023_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065a7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65a7.gif",
+    "uri": "https://jisho.org/search/%E6%96%A7%23kanji"
+  }
+}

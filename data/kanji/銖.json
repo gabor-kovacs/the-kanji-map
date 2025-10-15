@@ -1,1 +1,43 @@
-{"id":"銖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"銖","found":true,"strokeCount":14,"meaning":"measuring unit, 1/16 of a ryou, percent, small, slight","kunyomi":[],"onyomi":["シュ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ノ","ハ","二","并","木","牛","金","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37526_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09296.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9296.gif","uri":"https://jisho.org/search/%E9%8A%96%23kanji"}}
+{
+  "id": "銖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "銖",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "measuring unit, 1/16 of a ryou, percent, small, slight",
+    "kunyomi": [],
+    "onyomi": [
+      "シュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "銖",
+        "reading": "シュ",
+        "meaning": "shu, unit of weight, 1/24th of a ryō, shu, Edo-period unit of currency, 1/16th of a ryō"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "二",
+      "并",
+      "木",
+      "牛",
+      "金",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37526_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09296.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9296.gif",
+    "uri": "https://jisho.org/search/%E9%8A%96%23kanji"
+  }
+}

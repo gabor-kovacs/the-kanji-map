@@ -1,1 +1,31 @@
-{"id":"貊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"貊","found":true,"strokeCount":13,"meaning":"barbarians","kunyomi":["えびす"],"onyomi":["ハク","ミャク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"豸","meaning":"cat, badger"},"parts":["白","豸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35978_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c8a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c8a.gif","uri":"https://jisho.org/search/%E8%B2%8A%23kanji"}}
+{
+  "id": "貊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "貊",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "barbarians",
+    "kunyomi": [
+      "えびす"
+    ],
+    "onyomi": [
+      "ハク",
+      "ミャク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "豸",
+      "meaning": "cat, badger"
+    },
+    "parts": [
+      "白",
+      "豸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35978_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c8a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c8a.gif",
+    "uri": "https://jisho.org/search/%E8%B2%8A%23kanji"
+  }
+}

@@ -1,1 +1,92 @@
-{"id":"籠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"籠","found":true,"taughtIn":"junior high","strokeCount":22,"meaning":"basket, devote oneself, seclude oneself, cage, coop, implied","kunyomi":["かご","こ.める","こも.る","こ.む"],"onyomi":["ロウ","ル"],"onyomiExamples":[{"example":"牢","reading":"ロウ","meaning":"prison, jail, gaol, firm, solid, strong"},{"example":"籠球","reading":"ロウキュウ","meaning":"basketball"},{"example":"蒸籠","reading":"セイロ","meaning":"bamboo steamer, steaming basket, wooden frame holder with reed base used to steam food over a pot, soba served on a small wickerwork tray, wickerwork tray (for serving soba)"},{"example":"灯籠","reading":"トウロウ","meaning":"garden lantern, hanging lantern"}],"kunyomiExamples":[{"example":"籠","reading":"かご","meaning":"basket (shopping, etc.), hamper, cage"},{"example":"籠で水を汲む","reading":"かごでみずをくむ","meaning":"to bail out the ocean with a teaspoon, to scoop water with a basket"},{"example":"相合駕籠","reading":"あいあいかご","meaning":"two people riding in a palanquin together (esp. a man and a woman)"},{"example":"ほい駕籠","reading":"ほいかご","meaning":"crude palanquin, street palanquin"},{"example":"込める","reading":"こめる","meaning":"to load (a gun, etc.), to charge, to put into (e.g. emotion, effort), to include (e.g. tax in a sales price), to hang over, to shroud, to enshroud, to envelop, to screen"},{"example":"篭る","reading":"こもる","meaning":"to shut oneself in (e.g. one's room), to be confined in, to seclude oneself, to hide away, to stay inside (one's shell), to be filled with (emotion, enthusiasm, etc.), to fill the room (of a gas, smell, etc.), to be heavy with (e.g. smoke), to be stuffy, to be dense, to be muffled (e.g. voice), to hold (a castle, fortress, etc.), to confine oneself in a temple to pray"}],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","月","立","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31840_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c60.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c60.gif","uri":"https://jisho.org/search/%E7%B1%A0%23kanji"}}
+{
+  "id": "籠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "籠",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 22,
+    "meaning": "basket, devote oneself, seclude oneself, cage, coop, implied",
+    "kunyomi": [
+      "かご",
+      "こ.める",
+      "こも.る",
+      "こ.む"
+    ],
+    "onyomi": [
+      "ロウ",
+      "ル"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "牢",
+        "reading": "ロウ",
+        "meaning": "prison, jail, gaol, firm, solid, strong"
+      },
+      {
+        "example": "籠球",
+        "reading": "ロウキュウ",
+        "meaning": "basketball"
+      },
+      {
+        "example": "蒸籠",
+        "reading": "セイロ",
+        "meaning": "bamboo steamer, steaming basket, wooden frame holder with reed base used to steam food over a pot, soba served on a small wickerwork tray, wickerwork tray (for serving soba)"
+      },
+      {
+        "example": "灯籠",
+        "reading": "トウロウ",
+        "meaning": "garden lantern, hanging lantern"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "籠",
+        "reading": "かご",
+        "meaning": "basket (shopping, etc.), hamper, cage"
+      },
+      {
+        "example": "籠で水を汲む",
+        "reading": "かごでみずをくむ",
+        "meaning": "to bail out the ocean with a teaspoon, to scoop water with a basket"
+      },
+      {
+        "example": "相合駕籠",
+        "reading": "あいあいかご",
+        "meaning": "two people riding in a palanquin together (esp. a man and a woman)"
+      },
+      {
+        "example": "ほい駕籠",
+        "reading": "ほいかご",
+        "meaning": "crude palanquin, street palanquin"
+      },
+      {
+        "example": "込める",
+        "reading": "こめる",
+        "meaning": "to load (a gun, etc.), to charge, to put into (e.g. emotion, effort), to include (e.g. tax in a sales price), to hang over, to shroud, to enshroud, to envelop, to screen"
+      },
+      {
+        "example": "籠もる",
+        "reading": "こもる",
+        "meaning": "to shut oneself in (e.g. one's room), to be confined in, to seclude oneself, to hide away, to stay inside (one's shell), to fill with (emotion, enthusiasm, power, etc.), to imbue with, to infuse with, to fill a space (of a gas, smell, etc.), to be heavy with (e.g. smoke), to be stuffy, to be dense, to be muffled (e.g. voice), to hold (a castle, fortress, etc.), to confine oneself in a temple to pray"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "月",
+      "立",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31840_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c60.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c60.gif",
+    "uri": "https://jisho.org/search/%E7%B1%A0%23kanji"
+  }
+}

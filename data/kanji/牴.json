@@ -1,1 +1,44 @@
-{"id":"牴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"牴","found":true,"strokeCount":9,"meaning":"touch","kunyomi":["ふ.れる"],"onyomi":["テイ"],"onyomiExamples":[{"example":"抵触","reading":"テイショク","meaning":"infringement (of a law, treaty, etc.), contravention, running afoul, conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction, collision, contact, touching"},{"example":"牴牾","reading":"テイゴ","meaning":"disagreement, conflict, clash, discrepancy, inconsistency"}],"kunyomiExamples":[],"radical":{"symbol":"牛","forms":["牜"],"meaning":"cow"},"parts":["氏","牛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29300_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07274.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7274.gif","uri":"https://jisho.org/search/%E7%89%B4%23kanji"}}
+{
+  "id": "牴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "牴",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "touch",
+    "kunyomi": [
+      "ふ.れる"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "抵触",
+        "reading": "テイショク",
+        "meaning": "infringement (of a law, treaty, etc.), contravention, running afoul, conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction, collision, contact, touching"
+      },
+      {
+        "example": "牴牾",
+        "reading": "テイゴ",
+        "meaning": "disagreement, conflict, clash, discrepancy, inconsistency"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "牛",
+      "forms": [
+        "牜"
+      ],
+      "meaning": "cow"
+    },
+    "parts": [
+      "氏",
+      "牛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29300_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07274.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7274.gif",
+    "uri": "https://jisho.org/search/%E7%89%B4%23kanji"
+  }
+}

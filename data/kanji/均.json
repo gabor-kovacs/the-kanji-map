@@ -1,1 +1,298 @@
-{"id":"均","kanjialiveData":{"kanji":{"character":"均","meaning":{"english":"even, equal"},"strokes":{"count":7,"timings":[0,0.8,2.4,3.266667,4.533333,6.4,7.266667,8.4],"images":["https://media.kanjialive.com/kanji_strokes/(hei)kin_1.svg","https://media.kanjialive.com/kanji_strokes/(hei)kin_2.svg","https://media.kanjialive.com/kanji_strokes/(hei)kin_3.svg","https://media.kanjialive.com/kanji_strokes/(hei)kin_4.svg","https://media.kanjialive.com/kanji_strokes/(hei)kin_5.svg","https://media.kanjialive.com/kanji_strokes/(hei)kin_6.svg","https://media.kanjialive.com/kanji_strokes/(hei)kin_7.svg"]},"onyomi":{"romaji":"kin","katakana":"キン"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(hei)kin_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(hei)kin_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(hei)kin_00.webm"}},"radical":{"character":"","strokes":3,"image":"https://media.kanjialive.com/radical_character/tsuchihen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"つちへん","romaji":"tsuchihen"},"meaning":{"english":"earth"},"animation":["https://media.kanjialive.com/rad_frames/tsuchihen0.svg","https://media.kanjialive.com/rad_frames/tsuchihen1.svg","https://media.kanjialive.com/rad_frames/tsuchihen2.svg"]},"references":{"grade":5,"kodansha":"173","classic_nelson":"1065"},"examples":[{"japanese":"均整（きんせい）","meaning":{"english":"symmetry, balance"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_a.mp3"}},{"japanese":"均衡（きんこう）","meaning":{"english":"equilibrium, balance"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_b.mp3"}},{"japanese":"平均（へいきん）","meaning":{"english":"average, mean [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_c.mp3"}},{"japanese":"均一な（きんいつな）","meaning":{"english":"uniform, equal"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_d.mp3"}},{"japanese":"均質な（きんしつな）","meaning":{"english":"homogeneous"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_e.mp3"}},{"japanese":"均等に（きんとうに）","meaning":{"english":"equally, uniformly, evenly"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_f.mp3"}}]},"jishoData":{"query":"均","found":true,"taughtIn":"grade 5","jlptLevel":"N2","newspaperFrequencyRank":"715","strokeCount":7,"meaning":"level, average","kunyomi":["なら.す"],"onyomi":["キン"],"onyomiExamples":[{"example":"均衡","reading":"キンコウ","meaning":"equilibrium, balance"},{"example":"均一","reading":"キンイツ","meaning":"uniformity, equality"},{"example":"１００均","reading":"ヒャッキン","meaning":"hundred-yen store, 100 yen shop"},{"example":"移動平均","reading":"イドウヘイキン","meaning":"moving average"}],"kunyomiExamples":[{"example":"均す","reading":"ならす","meaning":"to make even, to make smooth, to make level, to flatten, to average"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["二","冫","勹","土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22343_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05747.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5747.gif","uri":"https://jisho.org/search/%E5%9D%87%23kanji"}}
+{
+  "id": "均",
+  "kanjialiveData": {
+    "_id": "54317b12791eba5146ee4cd8",
+    "_rev": "11-daefab7b07f361cd4a280cdf49cedbcb",
+    "rad_name_ja": "つちへん",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "even, equal",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "均整（きんせい）",
+        "meaning": {
+          "english": "symmetry, balance"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "均衡（きんこう）",
+        "meaning": {
+          "english": "equilibrium, balance"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "平均（へいきん）",
+        "meaning": {
+          "english": "average, mean [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "均一な（きんいつな）",
+        "meaning": {
+          "english": "uniform, equal"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "均質な（きんしつな）",
+        "meaning": {
+          "english": "homogeneous"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "均等に（きんとうに）",
+        "meaning": {
+          "english": "equally, uniformly, evenly"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hei)kin_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hei)kin_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hei)kin_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "均",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=均",
+    "rad_name_search": [
+      "tsuchihen"
+    ],
+    "rad_order": 38,
+    "txt_books": [
+      {
+        "chapter": "4",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "(hei)kin",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      0.8,
+      2.4,
+      3.266667,
+      4.533333,
+      6.4,
+      7.266667,
+      8.4
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "173",
+    "rad_name": "tsuchihen",
+    "dicn": "1065",
+    "mn_hint": "Earth 土 wrapped 勹 in ice ン: it looks flat and even.",
+    "rad_stroke": 3,
+    "onyomi_ja": "キン",
+    "rad_meaning": "earth",
+    "onyomi": "kin",
+    "ka_id": "ka_982",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kin",
+      "kin"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "even",
+      "equal",
+      "even, equal"
+    ],
+    "onyomi_ja_search": [
+      "キン",
+      "キン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "earth",
+      "earth"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "つちへん"
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:4",
+      "ik1:c4",
+      "jtr",
+      "jtr:8",
+      "jtr:c8"
+    ],
+    "rad_name_file": "tsuchihen",
+    "kanji": {
+      "character": "均",
+      "meaning": {
+        "english": "even, equal"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          0.8,
+          2.4,
+          3.266667,
+          4.533333,
+          6.4,
+          7.266667,
+          8.4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(hei)kin_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hei)kin_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hei)kin_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hei)kin_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hei)kin_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hei)kin_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hei)kin_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kin",
+        "katakana": "キン"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(hei)kin_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(hei)kin_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(hei)kin_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tsuchihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "つちへん",
+        "romaji": "tsuchihen"
+      },
+      "meaning": {
+        "english": "earth"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchihen1.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "173",
+      "classic_nelson": "1065"
+    }
+  },
+  "jishoData": {
+    "query": "均",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "715",
+    "strokeCount": 7,
+    "meaning": "level, average",
+    "kunyomi": [
+      "なら.す"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "均衡",
+        "reading": "キンコウ",
+        "meaning": "equilibrium, balance"
+      },
+      {
+        "example": "均一",
+        "reading": "キンイツ",
+        "meaning": "uniformity, equality"
+      },
+      {
+        "example": "１００均",
+        "reading": "ヒャッキン",
+        "meaning": "hundred-yen store, 100 yen shop"
+      },
+      {
+        "example": "移動平均",
+        "reading": "イドウヘイキン",
+        "meaning": "moving average"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "均す",
+        "reading": "ならす",
+        "meaning": "to make even, to make smooth, to make level, to flatten, to average"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "二",
+      "冫",
+      "勹",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22343_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05747.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5747.gif",
+    "uri": "https://jisho.org/search/%E5%9D%87%23kanji"
+  }
+}

@@ -1,1 +1,236 @@
-{"id":"肯","kanjialiveData":{"kanji":{"character":"肯","meaning":{"english":"assent, agree to, consent"},"strokes":{"count":8,"timings":[0,0.866667,2.2,3.2,5.066667,6,8.266667,9.6,10.533333],"images":["https://media.kanjialive.com/kanji_strokes/kou(teiteki)_1.svg","https://media.kanjialive.com/kanji_strokes/kou(teiteki)_2.svg","https://media.kanjialive.com/kanji_strokes/kou(teiteki)_3.svg","https://media.kanjialive.com/kanji_strokes/kou(teiteki)_4.svg","https://media.kanjialive.com/kanji_strokes/kou(teiteki)_5.svg","https://media.kanjialive.com/kanji_strokes/kou(teiteki)_6.svg","https://media.kanjialive.com/kanji_strokes/kou(teiteki)_7.svg","https://media.kanjialive.com/kanji_strokes/kou(teiteki)_8.svg"]},"onyomi":{"romaji":"kou","katakana":"コウ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kou(teiteki)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kou(teiteki)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kou(teiteki)_00.webm"}},"radical":{"character":"⽉","strokes":4,"image":"https://media.kanjialive.com/radical_character/tsuki.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"つき","romaji":"tsuki"},"meaning":{"english":"moon, month, period"},"animation":["https://media.kanjialive.com/rad_frames/tsuki0.svg","https://media.kanjialive.com/rad_frames/tsuki1.svg","https://media.kanjialive.com/rad_frames/tsuki2.svg"]},"references":{"grade":null,"kodansha":"1567","classic_nelson":"2432"},"examples":[{"japanese":"肯定文（こうていぶん）","meaning":{"english":"affirmative sentence"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kou(teiteki)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kou(teiteki)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kou(teiteki)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kou(teiteki)_06_a.mp3"}},{"japanese":"肯定する（こうていする）","meaning":{"english":"affirm, agree"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kou(teiteki)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kou(teiteki)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kou(teiteki)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kou(teiteki)_06_b.mp3"}}]},"jishoData":{"query":"肯","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"1813","strokeCount":8,"meaning":"agreement, consent, comply with","kunyomi":["がえんじ.る"],"onyomi":["コウ"],"onyomiExamples":[{"example":"肯定","reading":"コウテイ","meaning":"affirmation, affirmative"},{"example":"肯綮","reading":"コウケイ","meaning":"the essential point"},{"example":"首肯","reading":"シュコウ","meaning":"assent, consent"}],"kunyomiExamples":[{"example":"肯んじる","reading":"がえんじる","meaning":"to consent, to allow, to accept, to agree"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["月","止"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32943_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080af.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80af.gif","uri":"https://jisho.org/search/%E8%82%AF%23kanji"}}
+{
+  "id": "肯",
+  "kanjialiveData": {
+    "_id": "54317ada791eba5146ee48c3",
+    "_rev": "10-77589e2e5b737aa5624449bbdd1f62a7",
+    "rad_name_ja": "つき",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "assent, agree to, consent",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "肯定文（こうていぶん）",
+        "meaning": {
+          "english": "affirmative sentence"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(teiteki)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou(teiteki)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou(teiteki)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou(teiteki)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "肯定する（こうていする）",
+        "meaning": {
+          "english": "affirm, agree"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou(teiteki)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou(teiteki)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou(teiteki)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou(teiteki)_06_b.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "肯",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=肯",
+    "rad_name_search": [
+      "tsuki"
+    ],
+    "rad_order": 95,
+    "txt_books": [],
+    "kname": "kou(teiteki)",
+    "rad_utf": "⽉",
+    "stroketimes": [
+      0,
+      0.866667,
+      2.2,
+      3.2,
+      5.066667,
+      6,
+      8.266667,
+      9.6,
+      10.533333
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1567",
+    "rad_name": "tsuki",
+    "dicn": "2432",
+    "mn_hint": "Affirming the beauty of life by stopping 止 to admire the moon 月.",
+    "rad_stroke": 4,
+    "onyomi_ja": "コウ",
+    "rad_meaning": "moon, month, period",
+    "onyomi": "kou",
+    "ka_id": "ka_1152",
+    "onyomi_search": [
+      "kou",
+      "kou"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "assent",
+      "agree to",
+      "agree",
+      "to",
+      "consent",
+      "assent, agree to, consent"
+    ],
+    "onyomi_ja_search": [
+      "コウ",
+      "コウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "moon",
+      "month",
+      "period",
+      "moon, month, period"
+    ],
+    "rad_name_ja_search": [
+      "つき"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [],
+    "rad_name_file": "tsuki",
+    "kanji": {
+      "character": "肯",
+      "meaning": {
+        "english": "assent, agree to, consent"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.866667,
+          2.2,
+          3.2,
+          5.066667,
+          6,
+          8.266667,
+          9.6,
+          10.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kou(teiteki)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(teiteki)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(teiteki)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(teiteki)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(teiteki)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(teiteki)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(teiteki)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou(teiteki)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kou",
+        "katakana": "コウ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kou(teiteki)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kou(teiteki)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kou(teiteki)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽉",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/tsuki.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "つき",
+        "romaji": "tsuki"
+      },
+      "meaning": {
+        "english": "moon, month, period"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsuki0.svg",
+        "https://media.kanjialive.com/rad_frames/tsuki1.svg",
+        "https://media.kanjialive.com/rad_frames/tsuki2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1567",
+      "classic_nelson": "2432"
+    }
+  },
+  "jishoData": {
+    "query": "肯",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1813",
+    "strokeCount": 8,
+    "meaning": "agreement, consent, comply with",
+    "kunyomi": [
+      "がえんじ.る"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肯定",
+        "reading": "コウテイ",
+        "meaning": "affirmation, affirmative"
+      },
+      {
+        "example": "肯綮",
+        "reading": "コウケイ",
+        "meaning": "the essential point"
+      },
+      {
+        "example": "首肯",
+        "reading": "シュコウ",
+        "meaning": "assent, consent"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "肯んじる",
+        "reading": "がえんじる",
+        "meaning": "to consent, to allow, to accept, to agree"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "月",
+      "止"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32943_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080af.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80af.gif",
+    "uri": "https://jisho.org/search/%E8%82%AF%23kanji"
+  }
+}

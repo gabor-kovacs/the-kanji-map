@@ -1,1 +1,37 @@
-{"id":"塋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"塋","found":true,"strokeCount":13,"meaning":"cemetery","kunyomi":["はか"],"onyomi":["エイ"],"onyomiExamples":[{"example":"墳塋","reading":"フンエイ","meaning":"grave, tomb, graveyard"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["冖","土","火"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22603_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0584b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/584b.gif","uri":"https://jisho.org/search/%E5%A1%8B%23kanji"}}
+{
+  "id": "塋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "塋",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "cemetery",
+    "kunyomi": [
+      "はか"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "墳塋",
+        "reading": "フンエイ",
+        "meaning": "grave, tomb, graveyard"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "冖",
+      "土",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22603_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0584b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/584b.gif",
+    "uri": "https://jisho.org/search/%E5%A1%8B%23kanji"
+  }
+}

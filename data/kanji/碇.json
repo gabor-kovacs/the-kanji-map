@@ -1,1 +1,54 @@
-{"id":"碇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"碇","found":true,"strokeCount":13,"meaning":"anchor, grapnel","kunyomi":["いかり"],"onyomi":["テイ"],"onyomiExamples":[{"example":"停泊","reading":"テイハク","meaning":"anchorage, anchoring, mooring"},{"example":"碇置","reading":"テイチ","meaning":"anchorage"}],"kunyomiExamples":[{"example":"錨","reading":"いかり","meaning":"anchor"},{"example":"碇草","reading":"いかりそう","meaning":"horny goat weed (Epimedium grandiflorum var. thunbergianum)"}],"radical":{"symbol":"石","meaning":"stone"},"parts":["口","宀","疋","石"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30855_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07887.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7887.gif","uri":"https://jisho.org/search/%E7%A2%87%23kanji"}}
+{
+  "id": "碇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "碇",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "anchor, grapnel",
+    "kunyomi": [
+      "いかり"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "停泊",
+        "reading": "テイハク",
+        "meaning": "anchorage, anchoring, mooring"
+      },
+      {
+        "example": "碇置",
+        "reading": "テイチ",
+        "meaning": "anchorage"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "錨",
+        "reading": "いかり",
+        "meaning": "anchor"
+      },
+      {
+        "example": "【イカリソウ】",
+        "reading": "horny goat weed (Epimedium grandiflorum var. thunbergianum)",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "石",
+      "meaning": "stone"
+    },
+    "parts": [
+      "口",
+      "宀",
+      "疋",
+      "石"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30855_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07887.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7887.gif",
+    "uri": "https://jisho.org/search/%E7%A2%87%23kanji"
+  }
+}

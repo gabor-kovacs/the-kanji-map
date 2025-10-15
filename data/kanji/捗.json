@@ -1,1 +1,49 @@
-{"id":"捗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"捗","found":true,"taughtIn":"junior high","strokeCount":10,"meaning":"make progress","kunyomi":["はかど.る"],"onyomi":["チョク","ホ"],"onyomiExamples":[{"example":"進捗","reading":"シンチョク","meaning":"progress, being under way"}],"kunyomiExamples":[{"example":"捗る","reading":"はかどる","meaning":"to make (good) progress, to move right ahead (with the work), to advance"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ノ","小","扎","止"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25431_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06357.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6357.gif","uri":"https://jisho.org/search/%E6%8D%97%23kanji"}}
+{
+  "id": "捗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捗",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 10,
+    "meaning": "make progress",
+    "kunyomi": [
+      "はかど.る"
+    ],
+    "onyomi": [
+      "チョク",
+      "ホ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "進捗",
+        "reading": "シンチョク",
+        "meaning": "progress, advance, making (good) progress"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捗る",
+        "reading": "はかどる",
+        "meaning": "to make (good) progress, to move right ahead (with the work), to advance"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "扎",
+      "止"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25431_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06357.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6357.gif",
+    "uri": "https://jisho.org/search/%E6%8D%97%23kanji"
+  }
+}

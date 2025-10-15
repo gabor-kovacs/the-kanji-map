@@ -1,1 +1,31 @@
-{"id":"劭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"劭","found":true,"strokeCount":7,"meaning":"recommend, work hard, beautiful","kunyomi":["つと.める"],"onyomi":["ショウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"力","meaning":"power, force"},"parts":["刀","力","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21165_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052ad.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52ad.gif","uri":"https://jisho.org/search/%E5%8A%AD%23kanji"}}
+{
+  "id": "劭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "劭",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "recommend, work hard, beautiful",
+    "kunyomi": [
+      "つと.める"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "刀",
+      "力",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21165_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052ad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52ad.gif",
+    "uri": "https://jisho.org/search/%E5%8A%AD%23kanji"
+  }
+}

@@ -1,1 +1,48 @@
-{"id":"湫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"湫","found":true,"strokeCount":12,"meaning":"wetlands, marsh","kunyomi":["くて","くで"],"onyomi":["シュウ","ショウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"湫","reading":"くで","meaning":"wetland, marsh"},{"example":"湫","reading":"くで","meaning":"wetland, marsh"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["汁","火","禾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28267_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e6b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e6b.gif","uri":"https://jisho.org/search/%E6%B9%AB%23kanji"}}
+{
+  "id": "湫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "湫",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "wetlands, marsh",
+    "kunyomi": [
+      "くて",
+      "くで"
+    ],
+    "onyomi": [
+      "シュウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "湫",
+        "reading": "くで",
+        "meaning": "wetland, marsh"
+      },
+      {
+        "example": "湫",
+        "reading": "くで",
+        "meaning": "wetland, marsh"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "汁",
+      "火",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28267_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e6b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e6b.gif",
+    "uri": "https://jisho.org/search/%E6%B9%AB%23kanji"
+  }
+}

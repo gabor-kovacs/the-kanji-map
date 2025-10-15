@@ -1,1 +1,32 @@
-{"id":"驃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"驃","found":true,"strokeCount":21,"meaning":"white horse","kunyomi":[],"onyomi":["ヒョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"馬","meaning":"horse"},"parts":["二","小","杰","示","西","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39491_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a43.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a43.gif","uri":"https://jisho.org/search/%E9%A9%83%23kanji"}}
+{
+  "id": "驃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "驃",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "white horse",
+    "kunyomi": [],
+    "onyomi": [
+      "ヒョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "二",
+      "小",
+      "杰",
+      "示",
+      "西",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39491_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a43.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a43.gif",
+    "uri": "https://jisho.org/search/%E9%A9%83%23kanji"
+  }
+}

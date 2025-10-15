@@ -1,1 +1,47 @@
-{"id":"絢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"絢","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2315","strokeCount":12,"meaning":"brilliant fabric design","kunyomi":[],"onyomi":["ケン"],"onyomiExamples":[{"example":"絢爛","reading":"ケンラン","meaning":"gorgeous, brilliant, dazzling, ornate, gaudy, flowery"},{"example":"絢文","reading":"ケンブン","meaning":"colorful pattern, colourful pattern"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["勹","小","幺","日","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32098_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d62.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d62.gif","uri":"https://jisho.org/search/%E7%B5%A2%23kanji"}}
+{
+  "id": "絢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "絢",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2315",
+    "strokeCount": 12,
+    "meaning": "brilliant fabric design",
+    "kunyomi": [],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "絢爛",
+        "reading": "ケンラン",
+        "meaning": "gorgeous, brilliant, dazzling, ornate, gaudy, flowery"
+      },
+      {
+        "example": "絢文",
+        "reading": "ケンブン",
+        "meaning": "colorful pattern, colourful pattern"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "勹",
+      "小",
+      "幺",
+      "日",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32098_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d62.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d62.gif",
+    "uri": "https://jisho.org/search/%E7%B5%A2%23kanji"
+  }
+}

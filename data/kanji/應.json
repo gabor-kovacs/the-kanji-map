@@ -1,1 +1,45 @@
-{"id":"應","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"應","found":true,"strokeCount":17,"meaning":"answer, yes, OK, reply, accept","kunyomi":["あた.る","まさに","こた.える"],"onyomi":["オウ","ヨウ"],"onyomiExamples":[{"example":"応需","reading":"オウジュ","meaning":"responding to a demand, answering a request"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["化","广","心","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25033_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061c9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61c9.gif","uri":"https://jisho.org/search/%E6%87%89%23kanji"}}
+{
+  "id": "應",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "應",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "answer, yes, OK, reply, accept",
+    "kunyomi": [
+      "あた.る",
+      "まさに",
+      "こた.える"
+    ],
+    "onyomi": [
+      "オウ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "応需",
+        "reading": "オウジュ",
+        "meaning": "responding to a demand, answering a request"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "化",
+      "广",
+      "心",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25033_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061c9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61c9.gif",
+    "uri": "https://jisho.org/search/%E6%87%89%23kanji"
+  }
+}

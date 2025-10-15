@@ -1,1 +1,95 @@
-{"id":"竜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"竜","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1195","strokeCount":10,"meaning":"dragon, imperial","kunyomi":["たつ","いせ"],"onyomi":["リュウ","リョウ","ロウ"],"onyomiExamples":[{"example":"竜","reading":"リュウ","meaning":"dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"},{"example":"竜王","reading":"リュウオウ","meaning":"Dragon King, promoted rook"},{"example":"鎧竜","reading":"ガイリュウ","meaning":"ankylosaur (any dinosaur of infraorder Ankylosauria)"},{"example":"青龍","reading":"セイリョウ","meaning":"blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"},{"example":"竜","reading":"リュウ","meaning":"dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"},{"example":"竜駕","reading":"リョウガ","meaning":"imperial carriage"},{"example":"青龍","reading":"セイリョウ","meaning":"blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"},{"example":"蛟竜","reading":"コウリョウ","meaning":"mizuchi, mythical dragon-like beast, believed to ascend to the heavens through rain, unfulfilled genius, dormant talent"}],"kunyomiExamples":[{"example":"竜","reading":"りゅう","meaning":"dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"},{"example":"竜巻","reading":"たつまき","meaning":"tornado, waterspout"},{"example":"伊勢海老","reading":"いせえび","meaning":"spiny lobster (esp. Japanese spiny lobster, Panulirus japonicus)"}],"radical":{"symbol":"立","meaning":"stand, erect"},"parts":["乙","田","立","竜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31452_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07adc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7adc.gif","uri":"https://jisho.org/search/%E7%AB%9C%23kanji"}}
+{
+  "id": "竜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "竜",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1195",
+    "strokeCount": 10,
+    "meaning": "dragon, imperial",
+    "kunyomi": [
+      "たつ",
+      "いせ"
+    ],
+    "onyomi": [
+      "リュウ",
+      "リョウ",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "竜",
+        "reading": "リュウ",
+        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+      },
+      {
+        "example": "竜王",
+        "reading": "リュウオウ",
+        "meaning": "Dragon King, promoted rook"
+      },
+      {
+        "example": "鎧竜",
+        "reading": "ガイリュウ",
+        "meaning": "ankylosaur (any dinosaur of infraorder Ankylosauria)"
+      },
+      {
+        "example": "青龍",
+        "reading": "セイリョウ",
+        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+      },
+      {
+        "example": "竜",
+        "reading": "リュウ",
+        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+      },
+      {
+        "example": "竜駕",
+        "reading": "リョウガ",
+        "meaning": "imperial carriage"
+      },
+      {
+        "example": "青龍",
+        "reading": "セイリョウ",
+        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+      },
+      {
+        "example": "蛟竜",
+        "reading": "コウリョウ",
+        "meaning": "mizuchi, aquatic, dragon-like beast with four feet, horns and poisonous breath, unfulfilled genius, dormant talent"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "竜",
+        "reading": "りゅう",
+        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+      },
+      {
+        "example": "竜巻",
+        "reading": "たつまき",
+        "meaning": "tornado, whirlwind, waterspout, twister"
+      },
+      {
+        "example": "伊勢海老",
+        "reading": "いせえび",
+        "meaning": "spiny lobster (esp. Japanese spiny lobster, Panulirus japonicus)"
+      }
+    ],
+    "radical": {
+      "symbol": "立",
+      "meaning": "stand, erect"
+    },
+    "parts": [
+      "乙",
+      "田",
+      "立",
+      "竜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31452_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07adc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7adc.gif",
+    "uri": "https://jisho.org/search/%E7%AB%9C%23kanji"
+  }
+}

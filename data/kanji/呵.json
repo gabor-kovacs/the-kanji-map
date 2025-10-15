@@ -1,1 +1,59 @@
-{"id":"呵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"呵","found":true,"strokeCount":8,"meaning":"scold, blow on, reprove","kunyomi":["か.す","しか.る","わら.う"],"onyomi":["カ"],"onyomiExamples":[{"example":"呵呵","reading":"カカ","meaning":"sound of laughter"},{"example":"呵々大笑","reading":"カカタイショウ","meaning":"laughing a ringing laugh, having a hearty laugh, roaring with laughter"},{"example":"呵呵","reading":"カカ","meaning":"sound of laughter"},{"example":"啖呵","reading":"タンカ","meaning":"caustic words"}],"kunyomiExamples":[{"example":"叱る","reading":"しかる","meaning":"to scold, to chide, to rebuke, to reprimand"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["亅","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21621_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05475.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5475.gif","uri":"https://jisho.org/search/%E5%91%B5%23kanji"}}
+{
+  "id": "呵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呵",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "scold, blow on, reprove",
+    "kunyomi": [
+      "か.す",
+      "しか.る",
+      "わら.う"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呵呵",
+        "reading": "カカ",
+        "meaning": "sound of laughter"
+      },
+      {
+        "example": "呵々大笑",
+        "reading": "カカタイショウ",
+        "meaning": "laughing a ringing laugh, having a hearty laugh, roaring with laughter"
+      },
+      {
+        "example": "呵呵",
+        "reading": "カカ",
+        "meaning": "sound of laughter"
+      },
+      {
+        "example": "啖呵",
+        "reading": "タンカ",
+        "meaning": "caustic words, defiant words"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "叱る",
+        "reading": "しかる",
+        "meaning": "to scold, to chide, to rebuke, to reprimand"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "亅",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21621_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05475.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5475.gif",
+    "uri": "https://jisho.org/search/%E5%91%B5%23kanji"
+  }
+}

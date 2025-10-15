@@ -1,1 +1,48 @@
-{"id":"悚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"悚","found":true,"strokeCount":10,"meaning":"fear","kunyomi":["おそ.れる"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"悚然","reading":"ショウゼン","meaning":"terrified, horrified"},{"example":"恐悚","reading":"キョウショウ","meaning":"feeling obliged, being grateful, being thankful, being sorry, being ashamed"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ハ","口","忙","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24730_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0609a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/609a.gif","uri":"https://jisho.org/search/%E6%82%9A%23kanji"}}
+{
+  "id": "悚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悚",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "fear",
+    "kunyomi": [
+      "おそ.れる"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悚然",
+        "reading": "ショウゼン",
+        "meaning": "terrified, horrified"
+      },
+      {
+        "example": "恐悚",
+        "reading": "キョウショウ",
+        "meaning": "shrinking back in fear, feeling sorry (for troubling someone), feeling embarrassed (e.g. by a compliment), feeling ashamed, feeling (much) obliged"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "忙",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24730_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0609a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/609a.gif",
+    "uri": "https://jisho.org/search/%E6%82%9A%23kanji"
+  }
+}

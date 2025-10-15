@@ -1,1 +1,75 @@
-{"id":"汐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"汐","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2314","strokeCount":6,"meaning":"eventide, tide, salt water, opportunity","kunyomi":["しお","うしお","せい"],"onyomi":["セキ"],"onyomiExamples":[{"example":"潮汐","reading":"チョウセキ","meaning":"tide"}],"kunyomiExamples":[{"example":"潮","reading":"しお","meaning":"tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"},{"example":"潮干狩り","reading":"しおひがり","meaning":"shell gathering (at low tide), clamming"},{"example":"夕潮","reading":"ゆうしお","meaning":"evening tide"},{"example":"引き潮","reading":"ひきしお","meaning":"ebb tide"},{"example":"潮","reading":"しお","meaning":"tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"},{"example":"夕潮","reading":"ゆうしお","meaning":"evening tide"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["夕","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27728_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c50.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c50.gif","uri":"https://jisho.org/search/%E6%B1%90%23kanji"}}
+{
+  "id": "汐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "汐",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2314",
+    "strokeCount": 6,
+    "meaning": "eventide, tide, salt water, opportunity",
+    "kunyomi": [
+      "しお",
+      "うしお",
+      "せい"
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "潮汐",
+        "reading": "チョウセキ",
+        "meaning": "tide"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "潮",
+        "reading": "しお",
+        "meaning": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+      },
+      {
+        "example": "潮時",
+        "reading": "しおどき",
+        "meaning": "tidal hour, right time (to do something), opportunity, chance"
+      },
+      {
+        "example": "夕潮",
+        "reading": "ゆうしお",
+        "meaning": "evening tide"
+      },
+      {
+        "example": "引き潮",
+        "reading": "ひきしお",
+        "meaning": "ebb tide"
+      },
+      {
+        "example": "潮",
+        "reading": "しお",
+        "meaning": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+      },
+      {
+        "example": "夕潮",
+        "reading": "ゆうしお",
+        "meaning": "evening tide"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "夕",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27728_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c50.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c50.gif",
+    "uri": "https://jisho.org/search/%E6%B1%90%23kanji"
+  }
+}

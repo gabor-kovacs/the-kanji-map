@@ -1,1 +1,40 @@
-{"id":"驪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"驪","found":true,"strokeCount":29,"meaning":"black horse","kunyomi":[],"onyomi":["リ","レイ"],"onyomiExamples":[{"example":"驪竜","reading":"リリョウ","meaning":"black dragon"}],"kunyomiExamples":[],"radical":{"symbol":"馬","meaning":"horse"},"parts":["亠","冂","广","杰","比","馬","鹿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39530_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a6a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a6a.gif","uri":"https://jisho.org/search/%E9%A9%AA%23kanji"}}
+{
+  "id": "驪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "驪",
+    "found": true,
+    "strokeCount": 29,
+    "meaning": "black horse",
+    "kunyomi": [],
+    "onyomi": [
+      "リ",
+      "レイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "驪竜",
+        "reading": "リリョウ",
+        "meaning": "black dragon"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "亠",
+      "冂",
+      "广",
+      "杰",
+      "比",
+      "馬",
+      "鹿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39530_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a6a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a6a.gif",
+    "uri": "https://jisho.org/search/%E9%A9%AA%23kanji"
+  }
+}

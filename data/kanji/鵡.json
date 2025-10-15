@@ -1,1 +1,43 @@
-{"id":"鵡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鵡","found":true,"strokeCount":19,"meaning":"cockatoo","kunyomi":[],"onyomi":["ブ","ム"],"onyomiExamples":[{"example":"梟鸚鵡","reading":"フクロウオウム","meaning":"kakapo (Strigops habroptila), owl parrot"},{"example":"車冠鸚鵡","reading":"クルマサカオウム","meaning":"Major Mitchell's cockatoo (Cacatua leadbeateri), Leadbeater's cockatoo"}],"kunyomiExamples":[],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["弋","戈","杰","止","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40289_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d61.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d61.gif","uri":"https://jisho.org/search/%E9%B5%A1%23kanji"}}
+{
+  "id": "鵡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鵡",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "cockatoo",
+    "kunyomi": [],
+    "onyomi": [
+      "ブ",
+      "ム"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梟鸚鵡",
+        "reading": "フクロウオウム",
+        "meaning": "kakapo (Strigops habroptila), owl parrot"
+      },
+      {
+        "example": "車冠鸚鵡",
+        "reading": "クルマサカオウム",
+        "meaning": "Major Mitchell's cockatoo (Cacatua leadbeateri), Leadbeater's cockatoo"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "弋",
+      "戈",
+      "杰",
+      "止",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40289_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d61.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d61.gif",
+    "uri": "https://jisho.org/search/%E9%B5%A1%23kanji"
+  }
+}

@@ -1,1 +1,42 @@
-{"id":"盡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"盡","found":true,"strokeCount":14,"meaning":"exhaust, use up, run out of, deplete, befriend, serve","kunyomi":["つ.くす","つ.きる","つ.かす","さかづき","ことごと.く"],"onyomi":["ジン","サン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"尽くす","reading":"つくす","meaning":"to use up, to exhaust, to run out of, to devote oneself (to), to do one's utmost (for), to serve, to work (for a cause), to do to exhaustion, to do completely, to do fully"}],"radical":{"symbol":"皿","meaning":"dish"},"parts":["ヨ","皿","聿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30433_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076e1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76e1.gif","uri":"https://jisho.org/search/%E7%9B%A1%23kanji"}}
+{
+  "id": "盡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "盡",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "exhaust, use up, run out of, deplete, befriend, serve",
+    "kunyomi": [
+      "つ.くす",
+      "つ.きる",
+      "つ.かす",
+      "さかづき",
+      "ことごと.く"
+    ],
+    "onyomi": [
+      "ジン",
+      "サン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "尽くす",
+        "reading": "つくす",
+        "meaning": "to use up, to exhaust, to run out of, to devote oneself (to), to do one's utmost (for), to serve, to work (for a cause), to do to exhaustion, to do completely, to do fully"
+      }
+    ],
+    "radical": {
+      "symbol": "皿",
+      "meaning": "dish"
+    },
+    "parts": [
+      "ヨ",
+      "皿",
+      "聿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30433_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076e1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76e1.gif",
+    "uri": "https://jisho.org/search/%E7%9B%A1%23kanji"
+  }
+}

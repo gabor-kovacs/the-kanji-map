@@ -1,1 +1,41 @@
-{"id":"苅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"苅","found":true,"newspaperFrequencyRank":"2178","strokeCount":7,"meaning":"cutting (grass)","kunyomi":["か.る"],"onyomi":["ガイ","カイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"刈る","reading":"かる","meaning":"to cut (grass, hair, etc.), to mow, to clip, to trim, to prune, to shear, to reap, to harvest"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["刈","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33477_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082c5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82c5.gif","uri":"https://jisho.org/search/%E8%8B%85%23kanji"}}
+{
+  "id": "苅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苅",
+    "found": true,
+    "newspaperFrequencyRank": "2178",
+    "strokeCount": 7,
+    "meaning": "cutting (grass)",
+    "kunyomi": [
+      "か.る"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "刈る",
+        "reading": "かる",
+        "meaning": "to cut (grass, hair, etc.), to mow, to clip, to trim, to prune, to shear, to reap, to harvest"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "刈",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33477_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82c5.gif",
+    "uri": "https://jisho.org/search/%E8%8B%85%23kanji"
+  }
+}

@@ -1,1 +1,302 @@
-{"id":"査","kanjialiveData":{"kanji":{"character":"査","meaning":{"english":"look into, investigate"},"strokes":{"count":9,"timings":[0.68,1.556,2.427,3.229,4.034,5.173,6.513,7.517,8.456,9.586592],"images":["https://media.kanjialive.com/kanji_strokes/(shin)sa_1.svg","https://media.kanjialive.com/kanji_strokes/(shin)sa_2.svg","https://media.kanjialive.com/kanji_strokes/(shin)sa_3.svg","https://media.kanjialive.com/kanji_strokes/(shin)sa_4.svg","https://media.kanjialive.com/kanji_strokes/(shin)sa_5.svg","https://media.kanjialive.com/kanji_strokes/(shin)sa_6.svg","https://media.kanjialive.com/kanji_strokes/(shin)sa_7.svg","https://media.kanjialive.com/kanji_strokes/(shin)sa_8.svg","https://media.kanjialive.com/kanji_strokes/(shin)sa_9.svg"]},"onyomi":{"romaji":"sa","katakana":"サ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(shin)sa_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(shin)sa_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(shin)sa_00.webm"}},"radical":{"character":"⽊","strokes":4,"image":"https://media.kanjialive.com/radical_character/ki.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"き","romaji":"ki"},"meaning":{"english":"tree, wood"},"animation":["https://media.kanjialive.com/rad_frames/ki0.svg","https://media.kanjialive.com/rad_frames/ki1.svg","https://media.kanjialive.com/rad_frames/ki2.svg"]},"references":{"grade":5,"kodansha":"1580","classic_nelson":"2235"},"examples":[{"japanese":"検査する（けんさする）","meaning":{"english":"inspect"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(shin)sa_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(shin)sa_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(shin)sa_06_a.mp3"}},{"japanese":"調査する（ちょうさする）","meaning":{"english":"research, investigate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(shin)sa_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(shin)sa_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(shin)sa_06_b.mp3"}},{"japanese":"捜査する（そうさする）","meaning":{"english":"investigate (criminal case)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(shin)sa_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(shin)sa_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(shin)sa_06_c.mp3"}},{"japanese":"審査する（しんさする）","meaning":{"english":"examine"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(shin)sa_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(shin)sa_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(shin)sa_06_d.mp3"}},{"japanese":"巡査（じゅんさ）","meaning":{"english":"policeman"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(shin)sa_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(shin)sa_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(shin)sa_06_e.mp3"}}]},"jishoData":{"query":"査","found":true,"taughtIn":"grade 5","jlptLevel":"N2","newspaperFrequencyRank":"184","strokeCount":9,"meaning":"investigate","kunyomi":[],"onyomi":["サ"],"onyomiExamples":[{"example":"査証","reading":"サショウ","meaning":"visa, endorsing (e.g. a passport), stamping"},{"example":"査察","reading":"ササツ","meaning":"inspection (for compliance), investigation (tax, etc.)"},{"example":"主査","reading":"シュサ","meaning":"chief examiner or investigator"},{"example":"実態調査","reading":"ジッタイチョウサ","meaning":"fact-finding investigation, investigation into actual conditions, fact-finding survey"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","木","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26619_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067fb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67fb.gif","uri":"https://jisho.org/search/%E6%9F%BB%23kanji"}}
+{
+  "id": "査",
+  "kanjialiveData": {
+    "_id": "54317aef791eba5146ee4a50",
+    "_rev": "11-d88e1481b06dd4e239e70ac9445fff5a",
+    "rad_name_ja": "き",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "look into, investigate",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "検査する（けんさする）",
+        "meaning": {
+          "english": "inspect"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(shin)sa_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(shin)sa_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(shin)sa_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "調査する（ちょうさする）",
+        "meaning": {
+          "english": "research, investigate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(shin)sa_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(shin)sa_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(shin)sa_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "捜査する（そうさする）",
+        "meaning": {
+          "english": "investigate (criminal case)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(shin)sa_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(shin)sa_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(shin)sa_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "審査する（しんさする）",
+        "meaning": {
+          "english": "examine"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(shin)sa_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(shin)sa_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(shin)sa_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "巡査（じゅんさ）",
+        "meaning": {
+          "english": "policeman"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shin)sa_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(shin)sa_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(shin)sa_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(shin)sa_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "査",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=査",
+    "rad_name_search": [
+      "ki"
+    ],
+    "rad_order": 97,
+    "txt_books": [
+      {
+        "chapter": "1",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "23",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "31",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "(shin)sa",
+    "rad_utf": "⽊",
+    "stroketimes": [
+      0.68,
+      1.556,
+      2.427,
+      3.229,
+      4.034,
+      5.173,
+      6.513,
+      7.517,
+      8.456,
+      9.586592
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1580",
+    "rad_name": "ki",
+    "dicn": "2235",
+    "mn_hint": "Inspect an antique wooden 木 altar 且 at auction.",
+    "rad_stroke": 4,
+    "onyomi_ja": "サ",
+    "rad_meaning": "tree, wood",
+    "onyomi": "sa",
+    "ka_id": "ka_399",
+    "onyomi_search": [
+      "sa",
+      "sa"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "look into",
+      "look",
+      "into",
+      "investigate",
+      "look into, investigate"
+    ],
+    "onyomi_ja_search": [
+      "サ",
+      "サ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_name_ja_search": [
+      "き"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:1",
+      "ij:c1",
+      "gen",
+      "gen:23",
+      "gen:c23",
+      "kll",
+      "kll:31",
+      "kll:c31",
+      "jt",
+      "jt:6",
+      "jt:c6"
+    ],
+    "rad_name_file": "ki",
+    "kanji": {
+      "character": "査",
+      "meaning": {
+        "english": "look into, investigate"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0.68,
+          1.556,
+          2.427,
+          3.229,
+          4.034,
+          5.173,
+          6.513,
+          7.517,
+          8.456,
+          9.586592
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(shin)sa_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(shin)sa_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(shin)sa_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(shin)sa_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(shin)sa_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(shin)sa_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(shin)sa_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(shin)sa_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(shin)sa_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sa",
+        "katakana": "サ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(shin)sa_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(shin)sa_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(shin)sa_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽊",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/ki.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "き",
+        "romaji": "ki"
+      },
+      "meaning": {
+        "english": "tree, wood"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ki0.svg",
+        "https://media.kanjialive.com/rad_frames/ki1.svg",
+        "https://media.kanjialive.com/rad_frames/ki2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1580",
+      "classic_nelson": "2235"
+    }
+  },
+  "jishoData": {
+    "query": "査",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "184",
+    "strokeCount": 9,
+    "meaning": "investigate",
+    "kunyomi": [],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "査証",
+        "reading": "サショウ",
+        "meaning": "visa, endorsing (e.g. a passport), stamping"
+      },
+      {
+        "example": "査察",
+        "reading": "ササツ",
+        "meaning": "inspection (for compliance), investigation (tax, etc.)"
+      },
+      {
+        "example": "主査",
+        "reading": "シュサ",
+        "meaning": "chief examiner or investigator"
+      },
+      {
+        "example": "実態調査",
+        "reading": "ジッタイチョウサ",
+        "meaning": "fact-finding investigation, investigation into actual conditions, fact-finding survey"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "木",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26619_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67fb.gif",
+    "uri": "https://jisho.org/search/%E6%9F%BB%23kanji"
+  }
+}

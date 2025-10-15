@@ -1,1 +1,31 @@
-{"id":"樊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"樊","found":true,"strokeCount":15,"meaning":"cage, fence, pen, enclosure","kunyomi":["まがき"],"onyomi":["ハン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["大","木","爻"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27146_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a0a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a0a.gif","uri":"https://jisho.org/search/%E6%A8%8A%23kanji"}}
+{
+  "id": "樊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樊",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "cage, fence, pen, enclosure",
+    "kunyomi": [
+      "まがき"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "大",
+      "木",
+      "爻"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27146_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a0a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a0a.gif",
+    "uri": "https://jisho.org/search/%E6%A8%8A%23kanji"
+  }
+}

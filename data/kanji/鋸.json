@@ -1,1 +1,99 @@
-{"id":"鋸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鋸","found":true,"strokeCount":16,"meaning":"saw (cuts wood)","kunyomi":["のこ","のこぎり"],"onyomi":["キョ","コ"],"onyomiExamples":[{"example":"鋸歯","reading":"キョシ","meaning":"teeth of a saw, serration"},{"example":"鋸屑","reading":"ノコクズ","meaning":"sawdust"},{"example":"胴付鋸","reading":"ドウツキノコ","meaning":"saw with a spine, tenon saw, back saw"},{"example":"縦挽き鋸","reading":"タテビキノコ","meaning":"ripsaw"}],"kunyomiExamples":[{"example":"鋸","reading":"のこぎり","meaning":"saw, musical saw"},{"example":"鋸鱝","reading":"のこぎりえい","meaning":"sawfish (Pristidae spp.)"},{"example":"胴付鋸","reading":"どうつきのこ","meaning":"saw with a spine, tenon saw, back saw"},{"example":"縦挽き鋸","reading":"たてびきのこ","meaning":"ripsaw"},{"example":"鋸","reading":"のこぎり","meaning":"saw, musical saw"},{"example":"鋸鱝","reading":"のこぎりえい","meaning":"sawfish (Pristidae spp.)"},{"example":"胴付鋸","reading":"どうつきのこ","meaning":"saw with a spine, tenon saw, back saw"},{"example":"回し引き鋸","reading":"まわしびきのこぎり","meaning":"bracket saw, sabre saw, saber saw"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["十","口","尸","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37624_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092f8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92f8.gif","uri":"https://jisho.org/search/%E9%8B%B8%23kanji"}}
+{
+  "id": "鋸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鋸",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "saw (cuts wood)",
+    "kunyomi": [
+      "のこ",
+      "のこぎり"
+    ],
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鋸歯",
+        "reading": "キョシ",
+        "meaning": "teeth of a saw, serration"
+      },
+      {
+        "example": "鋸屑",
+        "reading": "ノコクズ",
+        "meaning": "sawdust"
+      },
+      {
+        "example": "胴付鋸",
+        "reading": "ドウツキノコ",
+        "meaning": "saw with a spine, tenon saw, back saw"
+      },
+      {
+        "example": "縦挽き鋸",
+        "reading": "タテビキノコ",
+        "meaning": "ripsaw"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鋸",
+        "reading": "のこぎり",
+        "meaning": "saw, musical saw"
+      },
+      {
+        "example": "鋸鱝",
+        "reading": "のこぎりえい",
+        "meaning": "sawfish (Pristidae spp.)"
+      },
+      {
+        "example": "胴付鋸",
+        "reading": "どうつきのこ",
+        "meaning": "saw with a spine, tenon saw, back saw"
+      },
+      {
+        "example": "縦挽き鋸",
+        "reading": "たてびきのこ",
+        "meaning": "ripsaw"
+      },
+      {
+        "example": "鋸",
+        "reading": "のこぎり",
+        "meaning": "saw, musical saw"
+      },
+      {
+        "example": "鋸鱝",
+        "reading": "のこぎりえい",
+        "meaning": "sawfish (Pristidae spp.)"
+      },
+      {
+        "example": "胴付鋸",
+        "reading": "どうつきのこぎり",
+        "meaning": "saw with a spine, tenon saw, back saw"
+      },
+      {
+        "example": "回し引き鋸",
+        "reading": "まわしびきのこぎり",
+        "meaning": "bracket saw, sabre saw, saber saw"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37624_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092f8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92f8.gif",
+    "uri": "https://jisho.org/search/%E9%8B%B8%23kanji"
+  }
+}

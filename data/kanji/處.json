@@ -1,1 +1,48 @@
-{"id":"處","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"處","found":true,"strokeCount":11,"meaning":"place, locale, department","kunyomi":["ところ","-こ","お.る"],"onyomi":["ショ"],"onyomiExamples":[{"example":"他所","reading":"タショ","meaning":"another place, somewhere else, elsewhere, moving (to another place)"}],"kunyomiExamples":[{"example":"所","reading":"ところ","meaning":"place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing"}],"radical":{"symbol":"虍","meaning":"tiger stripes"},"parts":["几","匕","卜","厂","夂","虍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34389_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08655.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8655.gif","uri":"https://jisho.org/search/%E8%99%95%23kanji"}}
+{
+  "id": "處",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "處",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "place, locale, department",
+    "kunyomi": [
+      "ところ",
+      "-こ",
+      "お.る"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "他所",
+        "reading": "タショ",
+        "meaning": "another place, somewhere else, elsewhere, moving (to another place)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "所",
+        "reading": "ところ",
+        "meaning": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "tiger stripes"
+    },
+    "parts": [
+      "几",
+      "匕",
+      "卜",
+      "厂",
+      "夂",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34389_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08655.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8655.gif",
+    "uri": "https://jisho.org/search/%E8%99%95%23kanji"
+  }
+}

@@ -1,1 +1,64 @@
-{"id":"涎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"涎","found":true,"strokeCount":10,"meaning":"saliva, slobber","kunyomi":["よだれ"],"onyomi":["セン","エン"],"onyomiExamples":[{"example":"垂涎","reading":"スイゼン","meaning":"avid desire, craving, thirst, envy, watering at the mouth, drooling"},{"example":"垂涎","reading":"スイゼン","meaning":"avid desire, craving, thirst, envy, watering at the mouth, drooling"}],"kunyomiExamples":[{"example":"涎","reading":"よだれ","meaning":"drool"},{"example":"涎掛け","reading":"よだれかけ","meaning":"bib, drool bib"},{"example":"商いは牛のよだれ","reading":"あきないはうしのよだれ","meaning":"one should not rush to make a profit, business is (best run when sales flow like) a cow's drool (i.e. long and thin)"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ノ","廴","止","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28046_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d8e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d8e.gif","uri":"https://jisho.org/search/%E6%B6%8E%23kanji"}}
+{
+  "id": "涎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "涎",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "saliva, slobber",
+    "kunyomi": [
+      "よだれ"
+    ],
+    "onyomi": [
+      "セン",
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "垂涎",
+        "reading": "スイゼン",
+        "meaning": "avid desire, craving, thirst, envy, watering at the mouth, drooling"
+      },
+      {
+        "example": "垂涎",
+        "reading": "スイゼン",
+        "meaning": "avid desire, craving, thirst, envy, watering at the mouth, drooling"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "涎",
+        "reading": "よだれ",
+        "meaning": "drool"
+      },
+      {
+        "example": "涎掛け",
+        "reading": "よだれかけ",
+        "meaning": "bib, drool bib"
+      },
+      {
+        "example": "商いは牛のよだれ",
+        "reading": "あきないはうしのよだれ",
+        "meaning": "one should not rush to make a profit, business is (best run when sales flow like) a cow's drool (i.e. long and thin)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ノ",
+      "廴",
+      "止",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28046_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d8e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d8e.gif",
+    "uri": "https://jisho.org/search/%E6%B6%8E%23kanji"
+  }
+}

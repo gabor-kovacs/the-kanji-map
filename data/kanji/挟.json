@@ -1,1 +1,281 @@
-{"id":"挟","kanjialiveData":{"kanji":{"character":"挟","meaning":{"english":"hold between, interpose"},"strokes":{"count":9,"timings":[0,1,2.933333,3.866667,5.4,6.4,7.533333,8.666667,10.266667,11],"images":["https://media.kanjialive.com/kanji_strokes/hasa(maru)_1.svg","https://media.kanjialive.com/kanji_strokes/hasa(maru)_2.svg","https://media.kanjialive.com/kanji_strokes/hasa(maru)_3.svg","https://media.kanjialive.com/kanji_strokes/hasa(maru)_4.svg","https://media.kanjialive.com/kanji_strokes/hasa(maru)_5.svg","https://media.kanjialive.com/kanji_strokes/hasa(maru)_6.svg","https://media.kanjialive.com/kanji_strokes/hasa(maru)_7.svg","https://media.kanjialive.com/kanji_strokes/hasa(maru)_8.svg","https://media.kanjialive.com/kanji_strokes/hasa(maru)_9.svg"]},"onyomi":{"romaji":"kyou","katakana":"キョウ"},"kunyomi":{"romaji":"hasa, hasamu, hasamaru","hiragana":"はさ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/hasa(maru)_9.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/hasa(maru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/hasa(maru)_00.webm"}},"radical":{"character":"⺘","strokes":3,"image":"https://media.kanjialive.com/radical_character/tehen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"てへん","romaji":"tehen"},"meaning":{"english":"hand"},"animation":["https://media.kanjialive.com/rad_frames/tehen0.svg","https://media.kanjialive.com/rad_frames/tehen1.svg","https://media.kanjialive.com/rad_frames/tehen2.svg"]},"references":{"grade":null,"kodansha":"277","classic_nelson":"1915"},"examples":[{"japanese":"挟撃（きょうげき）","meaning":{"english":"pincer movement"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hasa(maru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hasa(maru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hasa(maru)_06_a.mp3"}},{"japanese":"挟む（はさむ）","meaning":{"english":"interpose, insert, pinch [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hasa(maru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hasa(maru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hasa(maru)_06_b.mp3"}},{"japanese":"挟み撃ち（はさみうち）","meaning":{"english":"pincer attack"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hasa(maru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hasa(maru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hasa(maru)_06_c.mp3"}},{"japanese":"挟まる（はさまる）","meaning":{"english":"get between, be caught in [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hasa(maru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hasa(maru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hasa(maru)_06_d.mp3"}}]},"jishoData":{"query":"挟","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"1870","strokeCount":9,"meaning":"pinch, between","kunyomi":["はさ.む","はさ.まる","わきばさ.む","さしはさ.む"],"onyomi":["キョウ","ショウ"],"onyomiExamples":[{"example":"挟殺","reading":"キョウサツ","meaning":"rundown"},{"example":"挟瞼器","reading":"キョウケンキ","meaning":"entropion forceps"}],"kunyomiExamples":[{"example":"挟む","reading":"はさむ","meaning":"to hold between (e.g. one's fingers, chopsticks), to grip (from both sides), to put between, to sandwich between, to insert, to interpose, to catch (e.g. a finger in a door), to trap, to pinch, to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke), to be on either side of (a road, table, etc.), to have between each other, to be across (a street, river, etc.), to harbour (feelings), to cast (e.g. doubt)"},{"example":"挟まる","reading":"はさまる","meaning":"to get between, to be caught in"},{"example":"差し挟む","reading":"さしはさむ","meaning":"to insert, to interrupt, to slip in a word, to harbor (e.g. doubts), to harbour, to entertain (e.g. a theory)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["丶","二","亠","人","大","并","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25375_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0631f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/631f.gif","uri":"https://jisho.org/search/%E6%8C%9F%23kanji"}}
+{
+  "id": "挟",
+  "kanjialiveData": {
+    "_id": "54317ad9791eba5146ee48b9",
+    "_rev": "11-0eff870ee1e8357a4857c86b2ed3e27e",
+    "rad_name_ja": "てへん",
+    "grade": null,
+    "hint_group": 6,
+    "kunyomi": "hasa, hasamu, hasamaru",
+    "meaning": "hold between, interpose",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "挟撃（きょうげき）",
+        "meaning": {
+          "english": "pincer movement"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hasa(maru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hasa(maru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hasa(maru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "挟む（はさむ）",
+        "meaning": {
+          "english": "interpose, insert, pinch [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hasa(maru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hasa(maru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hasa(maru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "挟み撃ち（はさみうち）",
+        "meaning": {
+          "english": "pincer attack"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hasa(maru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hasa(maru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hasa(maru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "挟まる（はさまる）",
+        "meaning": {
+          "english": "get between, be caught in [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hasa(maru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hasa(maru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hasa(maru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hasa(maru)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "はさ、はさむ、はさまる",
+    "ka_utf": "挟",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=挟",
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_order": 77,
+    "txt_books": [],
+    "kname": "hasa(maru)",
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      1,
+      2.933333,
+      3.866667,
+      5.4,
+      6.4,
+      7.533333,
+      8.666667,
+      10.266667,
+      11
+    ],
+    "kunyomi_ka_display": "はさ",
+    "dick": "277",
+    "rad_name": "tehen",
+    "dicn": "1915",
+    "mn_hint": "Person's 人 hand 扌 holding something [11] between 二 chopsticks.",
+    "rad_stroke": 3,
+    "onyomi_ja": "キョウ",
+    "rad_meaning": "hand",
+    "onyomi": "kyou",
+    "ka_id": "ka_1143",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kyou",
+      "kyou"
+    ],
+    "kunyomi_search": [
+      "hasa",
+      "hasamu",
+      "hasamaru",
+      "hasa, hasamu, hasamaru"
+    ],
+    "meaning_search": [
+      "hold between",
+      "hold",
+      "between",
+      "interpose",
+      "hold between, interpose"
+    ],
+    "onyomi_ja_search": [
+      "キョウ",
+      "キョウ"
+    ],
+    "kunyomi_ja_search": [
+      "はさ",
+      "はさむ",
+      "はさまる",
+      "はさ、はさむ、はさまる"
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "挟",
+      "meaning": {
+        "english": "hold between, interpose"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1,
+          2.933333,
+          3.866667,
+          5.4,
+          6.4,
+          7.533333,
+          8.666667,
+          10.266667,
+          11
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hasa(maru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hasa(maru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/hasa(maru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/hasa(maru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/hasa(maru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/hasa(maru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/hasa(maru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/hasa(maru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/hasa(maru)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kyou",
+        "katakana": "キョウ"
+      },
+      "kunyomi": {
+        "romaji": "hasa, hasamu, hasamaru",
+        "hiragana": "はさ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hasa(maru)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hasa(maru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hasa(maru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "hand"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "277",
+      "classic_nelson": "1915"
+    }
+  },
+  "jishoData": {
+    "query": "挟",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1870",
+    "strokeCount": 9,
+    "meaning": "pinch, between",
+    "kunyomi": [
+      "はさ.む",
+      "はさ.まる",
+      "わきばさ.む",
+      "さしはさ.む"
+    ],
+    "onyomi": [
+      "キョウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "挟殺",
+        "reading": "キョウサツ",
+        "meaning": "rundown"
+      },
+      {
+        "example": "挟瞼器",
+        "reading": "キョウケンキ",
+        "meaning": "entropion forceps"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "挟む",
+        "reading": "はさむ",
+        "meaning": "to hold between (e.g. one's fingers, chopsticks), to grip (from both sides), to put between, to sandwich between, to insert, to interpose, to catch (e.g. a finger in a door), to trap, to pinch, to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke), to be on either side of (a road, table, etc.), to have between each other, to be across (a street, river, etc.), to harbour (feelings), to cast (e.g. doubt)"
+      },
+      {
+        "example": "挟まる",
+        "reading": "はさまる",
+        "meaning": "to get between, to be caught in"
+      },
+      {
+        "example": "差し挟む",
+        "reading": "さしはさむ",
+        "meaning": "to insert, to interrupt, to slip in a word, to harbor (e.g. doubts), to harbour, to entertain (e.g. a theory)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "丶",
+      "二",
+      "亠",
+      "人",
+      "大",
+      "并",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25375_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0631f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/631f.gif",
+    "uri": "https://jisho.org/search/%E6%8C%9F%23kanji"
+  }
+}

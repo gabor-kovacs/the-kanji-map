@@ -1,1 +1,97 @@
-{"id":"沙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"沙","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1897","strokeCount":7,"meaning":"sand","kunyomi":["すな","よなげる"],"onyomi":["サ","シャ"],"onyomiExamples":[{"example":"沙","reading":"シャ","meaning":"one hundred-millionth"},{"example":"砂漠","reading":"サバク","meaning":"desert"},{"example":"秋沙","reading":"アイサ","meaning":"merganser (any duck of genus Mergus)"},{"example":"海秋沙","reading":"ウミアイサ","meaning":"red-breasted merganser"},{"example":"沙","reading":"シャ","meaning":"one hundred-millionth"},{"example":"砂丘","reading":"サキュウ","meaning":"sand dune, sand hill"},{"example":"泥砂","reading":"デイサ","meaning":"mud and sand"},{"example":"恒河沙","reading":"ゴウガシャ","meaning":"10^52 (or 10^56), innumerable"}],"kunyomiExamples":[{"example":"砂","reading":"すな","meaning":"sand, grit"},{"example":"砂子","reading":"すなご","meaning":"gold dust, silver dust, sand, grit"},{"example":"白砂","reading":"はくしゃ","meaning":"white sand"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ノ","小","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27801_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c99.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c99.gif","uri":"https://jisho.org/search/%E6%B2%99%23kanji"}}
+{
+  "id": "沙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沙",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1897",
+    "strokeCount": 7,
+    "meaning": "sand",
+    "kunyomi": [
+      "すな",
+      "よなげる"
+    ],
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "沙",
+        "reading": "シャ",
+        "meaning": "one hundred-millionth"
+      },
+      {
+        "example": "砂漠",
+        "reading": "サバク",
+        "meaning": "desert"
+      },
+      {
+        "example": "流砂",
+        "reading": "リュウサ",
+        "meaning": "quicksand"
+      },
+      {
+        "example": "秋沙",
+        "reading": "アイサ",
+        "meaning": "merganser (any duck of genus Mergus)"
+      },
+      {
+        "example": "沙",
+        "reading": "シャ",
+        "meaning": "one hundred-millionth"
+      },
+      {
+        "example": "砂丘",
+        "reading": "サキュウ",
+        "meaning": "sand dune, sand hill"
+      },
+      {
+        "example": "流砂",
+        "reading": "リュウサ",
+        "meaning": "quicksand"
+      },
+      {
+        "example": "泥砂",
+        "reading": "デイサ",
+        "meaning": "mud and sand"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "砂",
+        "reading": "すな",
+        "meaning": "sand, grit"
+      },
+      {
+        "example": "砂子",
+        "reading": "すなご",
+        "meaning": "gold dust, silver dust, sand, grit"
+      },
+      {
+        "example": "白砂",
+        "reading": "はくしゃ",
+        "meaning": "white sand"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27801_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c99.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c99.gif",
+    "uri": "https://jisho.org/search/%E6%B2%99%23kanji"
+  }
+}

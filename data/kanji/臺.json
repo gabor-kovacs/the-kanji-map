@@ -1,1 +1,53 @@
-{"id":"臺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"臺","found":true,"strokeCount":14,"meaning":"stand, counter for vehicles","kunyomi":["うてな","われ","つかさ"],"onyomi":["ダイ","タイ"],"onyomiExamples":[{"example":"台所","reading":"ダイドコロ","meaning":"kitchen, financial situation"},{"example":"台無し","reading":"ダイナシ","meaning":"mess, spoiled, spoilt, (come to) nothing, ruin"},{"example":"台湾","reading":"タイワン","meaning":"Taiwan"}],"kunyomiExamples":[],"radical":{"symbol":"至","meaning":"arrive"},"parts":["冖","厶","口","土","士","至"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33274_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081fa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81fa.gif","uri":"https://jisho.org/search/%E8%87%BA%23kanji"}}
+{
+  "id": "臺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臺",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "stand, counter for vehicles",
+    "kunyomi": [
+      "うてな",
+      "われ",
+      "つかさ"
+    ],
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "台所",
+        "reading": "ダイドコロ",
+        "meaning": "kitchen, financial situation, finances"
+      },
+      {
+        "example": "仙台",
+        "reading": "センダイ",
+        "meaning": "Sendai (city in Miyagi)"
+      },
+      {
+        "example": "台湾",
+        "reading": "タイワン",
+        "meaning": "Taiwan"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "至",
+      "meaning": "arrive"
+    },
+    "parts": [
+      "冖",
+      "厶",
+      "口",
+      "土",
+      "士",
+      "至"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33274_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081fa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81fa.gif",
+    "uri": "https://jisho.org/search/%E8%87%BA%23kanji"
+  }
+}

@@ -1,1 +1,84 @@
-{"id":"臭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"臭","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1760","strokeCount":9,"meaning":"stinking, ill-smelling, suspicious looking, odor, savor, fragrance, be fragrant, stink, glow, be bright","kunyomi":["くさ.い","-くさ.い","にお.う","にお.い"],"onyomi":["シュウ"],"onyomiExamples":[{"example":"臭","reading":"シュウ","meaning":"-smell, stinking of, smacking of, hinting of"},{"example":"臭覚","reading":"シュウカク","meaning":"the sense of smell"},{"example":"体臭","reading":"タイシュウ","meaning":"body odor, body odour, personal odor, personal odour, characteristic (of someone)"},{"example":"異臭","reading":"イシュウ","meaning":"offensive smell, off-flavor, off-flavour"}],"kunyomiExamples":[{"example":"臭い","reading":"くさい","meaning":"stinking, smelly, suspicious, fishy, clumsy, unskilled, smelling of, looking like, appearing like, smacking of, -ish"},{"example":"臭い玉","reading":"においだま","meaning":"tonsil stone, tonsillolith, scent ball"},{"example":"匂う","reading":"におう","meaning":"to be fragrant, to smell (good), to stink, to smell (bad), to glow, to be bright, to smack of, to show hints of"},{"example":"匂い","reading":"におい","meaning":"odour, odor, scent, smell, stench, aura, whiff, smacks of ..., sense, flavour, flavor"},{"example":"匂いがする","reading":"においがする","meaning":"to smell, to smell of, to have a smell"}],"radical":{"symbol":"自","meaning":"self"},"parts":["大","目","自"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33261_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081ed.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81ed.gif","uri":"https://jisho.org/search/%E8%87%AD%23kanji"}}
+{
+  "id": "臭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臭",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1760",
+    "strokeCount": 9,
+    "meaning": "stinking, ill-smelling, suspicious looking, odor, savor, fragrance, be fragrant, stink, glow, be bright",
+    "kunyomi": [
+      "くさ.い",
+      "-くさ.い",
+      "にお.う",
+      "にお.い"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "臭",
+        "reading": "シュウ",
+        "meaning": "-smell, stinking of, smacking of, hinting of"
+      },
+      {
+        "example": "臭覚",
+        "reading": "シュウカク",
+        "meaning": "the sense of smell"
+      },
+      {
+        "example": "体臭",
+        "reading": "タイシュウ",
+        "meaning": "body odor, body odour, personal odor, personal odour, characteristic (of someone)"
+      },
+      {
+        "example": "異臭",
+        "reading": "イシュウ",
+        "meaning": "offensive smell, bad smell, foul smell, stench"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "臭い",
+        "reading": "くさい",
+        "meaning": "stinking, smelly, suspicious, fishy, clumsy, unskilled, smelling of, looking like, appearing like, smacking of, -ish"
+      },
+      {
+        "example": "臭い玉",
+        "reading": "においだま",
+        "meaning": "tonsil stone, tonsillolith, scent ball"
+      },
+      {
+        "example": "匂う",
+        "reading": "におう",
+        "meaning": "to be fragrant, to smell (good), to stink, to smell (bad), to glow, to be bright, to smack of, to show hints of"
+      },
+      {
+        "example": "匂い",
+        "reading": "におい",
+        "meaning": "smell, scent, odour, odor, stench, aura, whiff, smack, flavour, flavor, mood, faint, mist-like pattern along the temper line of a Japanese sword"
+      },
+      {
+        "example": "匂いがする",
+        "reading": "においがする",
+        "meaning": "to smell, to smell of, to have a smell"
+      }
+    ],
+    "radical": {
+      "symbol": "自",
+      "meaning": "self"
+    },
+    "parts": [
+      "大",
+      "目",
+      "自"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33261_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081ed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81ed.gif",
+    "uri": "https://jisho.org/search/%E8%87%AD%23kanji"
+  }
+}

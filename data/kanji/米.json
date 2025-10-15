@@ -1,1 +1,440 @@
-{"id":"米","kanjialiveData":{"kanji":{"character":"米","meaning":{"english":"rice, America"},"strokes":{"count":6,"timings":[0,0.6,1.733333,2.933333,4.466667,5.466667,6.8],"images":["https://media.kanjialive.com/kanji_strokes/kome_1.svg","https://media.kanjialive.com/kanji_strokes/kome_2.svg","https://media.kanjialive.com/kanji_strokes/kome_3.svg","https://media.kanjialive.com/kanji_strokes/kome_4.svg","https://media.kanjialive.com/kanji_strokes/kome_5.svg","https://media.kanjialive.com/kanji_strokes/kome_6.svg"]},"onyomi":{"romaji":"bei, mai","katakana":"ベイ、マイ"},"kunyomi":{"romaji":"kome","hiragana":"こめ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kome_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kome_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kome_00.webm"}},"radical":{"character":"⽶","strokes":6,"image":"https://media.kanjialive.com/radical_character/kome.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"こめ","romaji":"kome"},"meaning":{"english":"rice"},"animation":["https://media.kanjialive.com/rad_frames/kome0.svg","https://media.kanjialive.com/rad_frames/kome1.svg","https://media.kanjialive.com/rad_frames/kome2.svg"]},"references":{"grade":2,"kodansha":"2198","classic_nelson":"3461"},"examples":[{"japanese":"米価（べいか）","meaning":{"english":"rice price"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_a.mp3"}},{"japanese":"米国（べいこく）","meaning":{"english":"America, U.S.A."},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_b.mp3"}},{"japanese":"米軍（べいぐん）","meaning":{"english":"the US armed forces"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_c.mp3"}},{"japanese":"欧米（おうべい）","meaning":{"english":"Europe and America, the West"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_d.mp3"}},{"japanese":"北米（ほくべい）","meaning":{"english":"North America"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_e.mp3"}},{"japanese":"南米（なんべい）","meaning":{"english":"South America"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_f.mp3"}},{"japanese":"日米（にちべい）","meaning":{"english":"Japan-America"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_g.mp3"}},{"japanese":"渡米する（とべいする）","meaning":{"english":"go to U.S.A."},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_h.mp3"}},{"japanese":"玄米（げんまい）","meaning":{"english":"unpolished rice, unmilled rice"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_i.mp3"}},{"japanese":"精米（せいまい）","meaning":{"english":"polished rice"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_j.mp3"}},{"japanese":"米（こめ）","meaning":{"english":"uncooked rice"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_k.mp3"}},{"japanese":"米屋（こめや）","meaning":{"english":"rice shop, rice dealer"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kome_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kome_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_l.mp3"}}]},"jishoData":{"query":"米","found":true,"taughtIn":"grade 2","jlptLevel":"N3","newspaperFrequencyRank":"61","strokeCount":6,"meaning":"rice, USA, metre","kunyomi":["こめ","よね"],"onyomi":["ベイ","マイ","メエトル"],"onyomiExamples":[{"example":"米","reading":"ベイ","meaning":"(United States of) America, USA"},{"example":"米価","reading":"ベイカ","meaning":"rice price"},{"example":"在米","reading":"ザイベイ","meaning":"being in the United States, staying in the United States, residing in the United States"},{"example":"対米","reading":"タイベイ","meaning":"relating to the USA, toward America, with America"},{"example":"精米","reading":"セイマイ","meaning":"rice polishing, polished rice"},{"example":"白米","reading":"ハクマイ","meaning":"polished rice, (uncooked) white rice"}],"kunyomiExamples":[{"example":"米","reading":"こめ","meaning":"(husked grains of) rice, staple (product, etc.), necessity"},{"example":"米倉","reading":"こめぐら","meaning":"rice granary"},{"example":"お米","reading":"おこめ","meaning":"(husked grains of) rice"},{"example":"アルボリオ米","reading":"アルボリオこめ","meaning":"arborio rice (Italian variety)"},{"example":"米","reading":"よね","meaning":"88 years old, rice"},{"example":"米沢牛","reading":"よねざわぎゅう","meaning":"Yonezawa beef"},{"example":"白米","reading":"はくまい","meaning":"polished rice, (uncooked) white rice"}],"radical":{"symbol":"米","meaning":"rice"},"parts":["米"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31859_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c73.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c73.gif","uri":"https://jisho.org/search/%E7%B1%B3%23kanji"}}
+{
+  "id": "米",
+  "kanjialiveData": {
+    "_id": "54317b0b791eba5146ee4c60",
+    "_rev": "13-c22e8270715ef85c584ca15314a7c8d6",
+    "rad_name_ja": "こめ",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "kome",
+    "meaning": "rice, America",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "米価（べいか）",
+        "meaning": {
+          "english": "rice price"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "米国（べいこく）",
+        "meaning": {
+          "english": "America, U.S.A."
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "米軍（べいぐん）",
+        "meaning": {
+          "english": "the US armed forces"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "欧米（おうべい）",
+        "meaning": {
+          "english": "Europe and America, the West"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "北米（ほくべい）",
+        "meaning": {
+          "english": "North America"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "南米（なんべい）",
+        "meaning": {
+          "english": "South America"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "日米（にちべい）",
+        "meaning": {
+          "english": "Japan-America"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "渡米する（とべいする）",
+        "meaning": {
+          "english": "go to U.S.A."
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "玄米（げんまい）",
+        "meaning": {
+          "english": "unpolished rice, unmilled rice"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "精米（せいまい）",
+        "meaning": {
+          "english": "polished rice"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "米（こめ）",
+        "meaning": {
+          "english": "uncooked rice"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "米屋（こめや）",
+        "meaning": {
+          "english": "rice shop, rice dealer"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kome_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kome_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kome_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kome_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "こめ",
+    "ka_utf": "米",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=米",
+    "kname": "kome",
+    "rad_order": 155,
+    "txt_books": [
+      {
+        "chapter": "6",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "jt"
+      }
+    ],
+    "rad_name_search": [
+      "kome"
+    ],
+    "rad_utf": "⽶",
+    "stroketimes": [
+      0,
+      0.6,
+      1.733333,
+      2.933333,
+      4.466667,
+      5.466667,
+      6.8
+    ],
+    "kunyomi_ka_display": "こめ",
+    "dick": "2198",
+    "rad_name": "kome",
+    "dicn": "3461",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 6,
+    "onyomi_ja": "ベイ、マイ",
+    "rad_meaning": "rice",
+    "onyomi": "bei, mai",
+    "ka_id": "ka_874",
+    "onyomi_search": [
+      "bei",
+      "mai",
+      "bei, mai"
+    ],
+    "kunyomi_search": [
+      "kome",
+      "kome"
+    ],
+    "meaning_search": [
+      "rice",
+      "America",
+      "rice, America"
+    ],
+    "onyomi_ja_search": [
+      "ベイ",
+      "マイ",
+      "ベイ、マイ"
+    ],
+    "kunyomi_ja_search": [
+      "こめ",
+      "こめ"
+    ],
+    "rad_meaning_search": [
+      "rice",
+      "rice"
+    ],
+    "rad_name_ja_search": [
+      "こめ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "bk",
+      "bk:6",
+      "bk:c6",
+      "mac",
+      "mac:12",
+      "mac:c12",
+      "aij3",
+      "aij3:10",
+      "aij3:c10",
+      "aij3:v2",
+      "aij3:v2:10",
+      "aij3:v2:c10",
+      "kll",
+      "kll:5",
+      "kll:c5",
+      "jt",
+      "jt:5",
+      "jt:c5"
+    ],
+    "rad_name_file": "kome",
+    "kanji": {
+      "character": "米",
+      "meaning": {
+        "english": "rice, America"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          0.6,
+          1.733333,
+          2.933333,
+          4.466667,
+          5.466667,
+          6.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kome_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kome_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kome_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kome_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kome_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kome_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bei, mai",
+        "katakana": "ベイ、マイ"
+      },
+      "kunyomi": {
+        "romaji": "kome",
+        "hiragana": "こめ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kome_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kome_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kome_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽶",
+      "strokes": 6,
+      "image": "https://media.kanjialive.com/radical_character/kome.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "こめ",
+        "romaji": "kome"
+      },
+      "meaning": {
+        "english": "rice"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kome0.svg",
+        "https://media.kanjialive.com/rad_frames/kome1.svg",
+        "https://media.kanjialive.com/rad_frames/kome2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "2198",
+      "classic_nelson": "3461"
+    }
+  },
+  "jishoData": {
+    "query": "米",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "61",
+    "strokeCount": 6,
+    "meaning": "rice, USA, metre",
+    "kunyomi": [
+      "こめ",
+      "よね"
+    ],
+    "onyomi": [
+      "ベイ",
+      "マイ",
+      "メエトル"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "米",
+        "reading": "ベイ",
+        "meaning": "(United States of) America, USA"
+      },
+      {
+        "example": "米価",
+        "reading": "ベイカ",
+        "meaning": "rice price"
+      },
+      {
+        "example": "在米",
+        "reading": "ザイベイ",
+        "meaning": "staying in the United States, residing in the United States, being situated in the United States (of a foreign embassy, company, etc.)"
+      },
+      {
+        "example": "対米",
+        "reading": "タイベイ",
+        "meaning": "relating to the USA, toward America, with America"
+      },
+      {
+        "example": "精米",
+        "reading": "セイマイ",
+        "meaning": "rice polishing, polished rice"
+      },
+      {
+        "example": "白米",
+        "reading": "ハクマイ",
+        "meaning": "polished rice, (uncooked) white rice"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "米",
+        "reading": "こめ",
+        "meaning": "(husked grains of) rice, staple (product, etc.), necessity, (online) comment"
+      },
+      {
+        "example": "米倉",
+        "reading": "こめぐら",
+        "meaning": "rice granary"
+      },
+      {
+        "example": "お米",
+        "reading": "おこめ",
+        "meaning": "(husked grains of) rice"
+      },
+      {
+        "example": "アルボリオ米",
+        "reading": "アルボリオこめ",
+        "meaning": "arborio rice (Italian variety)"
+      },
+      {
+        "example": "米",
+        "reading": "よね",
+        "meaning": "88 years old, rice"
+      },
+      {
+        "example": "米沢牛",
+        "reading": "よねざわぎゅう",
+        "meaning": "Yonezawa beef"
+      },
+      {
+        "example": "白米",
+        "reading": "はくまい",
+        "meaning": "polished rice, (uncooked) white rice"
+      }
+    ],
+    "radical": {
+      "symbol": "米",
+      "meaning": "rice"
+    },
+    "parts": [
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31859_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c73.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c73.gif",
+    "uri": "https://jisho.org/search/%E7%B1%B3%23kanji"
+  }
+}

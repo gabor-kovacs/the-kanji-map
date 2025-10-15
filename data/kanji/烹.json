@@ -1,1 +1,52 @@
-{"id":"烹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"烹","found":true,"strokeCount":11,"meaning":"boil, cook","kunyomi":["に.る"],"onyomi":["ホウ"],"onyomiExamples":[{"example":"烹炊","reading":"ホウスイ","meaning":"cooking by boiling"},{"example":"烹炊煙突","reading":"ホウスイエントツ","meaning":"galley stovepipe"}],"kunyomiExamples":[{"example":"煮る","reading":"にる","meaning":"to boil, to simmer, to stew, to seethe"}],"radical":{"symbol":"火","forms":["灬"],"meaning":"fire"},"parts":["亅","亠","口","杰"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28921_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/070f9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/70f9.gif","uri":"https://jisho.org/search/%E7%83%B9%23kanji"}}
+{
+  "id": "烹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "烹",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "boil, cook",
+    "kunyomi": [
+      "に.る"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "烹炊",
+        "reading": "ホウスイ",
+        "meaning": "cooking by boiling"
+      },
+      {
+        "example": "烹炊煙突",
+        "reading": "ホウスイエントツ",
+        "meaning": "galley stovepipe"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "煮る",
+        "reading": "にる",
+        "meaning": "to boil, to simmer, to stew, to seethe"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "fire"
+    },
+    "parts": [
+      "亅",
+      "亠",
+      "口",
+      "杰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28921_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/070f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/70f9.gif",
+    "uri": "https://jisho.org/search/%E7%83%B9%23kanji"
+  }
+}

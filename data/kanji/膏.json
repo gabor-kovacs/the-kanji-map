@@ -1,1 +1,68 @@
-{"id":"膏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膏","found":true,"strokeCount":14,"meaning":"fat, grease, lard, paste, ointment, plaster","kunyomi":["あぶら"],"onyomi":["コウ"],"onyomiExamples":[{"example":"膏血","reading":"コウケツ","meaning":"(hard-earned rewards of) sweat and blood"},{"example":"膏肓","reading":"コウコウ","meaning":"innermost part of the body (where a disease cannot be treated)"},{"example":"硬膏","reading":"コウコウ","meaning":"plaster (type of bandage)"},{"example":"石膏","reading":"セッコウ","meaning":"plaster, gypsum, calcium sulphate (sulfate)"}],"kunyomiExamples":[{"example":"脂","reading":"あぶら","meaning":"fat, tallow, lard, grease"},{"example":"脂汗","reading":"あぶらあせ","meaning":"cold sweat, greasy sweat"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["亠","冖","口","月","高"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33167_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0818f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/818f.gif","uri":"https://jisho.org/search/%E8%86%8F%23kanji"}}
+{
+  "id": "膏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膏",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "fat, grease, lard, paste, ointment, plaster",
+    "kunyomi": [
+      "あぶら"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膏血",
+        "reading": "コウケツ",
+        "meaning": "(hard-earned rewards of) sweat and blood"
+      },
+      {
+        "example": "膏肓",
+        "reading": "コウコウ",
+        "meaning": "innermost part of the body (where a disease cannot be treated)"
+      },
+      {
+        "example": "硬膏",
+        "reading": "コウコウ",
+        "meaning": "plaster (type of bandage)"
+      },
+      {
+        "example": "石膏",
+        "reading": "セッコウ",
+        "meaning": "plaster, gypsum, calcium sulphate (sulfate)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脂",
+        "reading": "あぶら",
+        "meaning": "fat, tallow, lard, grease"
+      },
+      {
+        "example": "脂汗",
+        "reading": "あぶらあせ",
+        "meaning": "cold sweat, greasy sweat"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "口",
+      "月",
+      "高"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33167_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0818f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/818f.gif",
+    "uri": "https://jisho.org/search/%E8%86%8F%23kanji"
+  }
+}

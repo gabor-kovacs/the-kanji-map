@@ -1,1 +1,295 @@
-{"id":"刷","kanjialiveData":{"kanji":{"character":"刷","meaning":{"english":"print"},"strokes":{"count":8,"timings":[0,1.933333,3.266667,4.533333,5.6,7.6,8.8,10.333333,12.866667],"images":["https://media.kanjialive.com/kanji_strokes/(in)satsu_1.svg","https://media.kanjialive.com/kanji_strokes/(in)satsu_2.svg","https://media.kanjialive.com/kanji_strokes/(in)satsu_3.svg","https://media.kanjialive.com/kanji_strokes/(in)satsu_4.svg","https://media.kanjialive.com/kanji_strokes/(in)satsu_5.svg","https://media.kanjialive.com/kanji_strokes/(in)satsu_6.svg","https://media.kanjialive.com/kanji_strokes/(in)satsu_7.svg","https://media.kanjialive.com/kanji_strokes/(in)satsu_8.svg"]},"onyomi":{"romaji":"satsu","katakana":"サツ"},"kunyomi":{"romaji":"su, suru","hiragana":"す"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(in)satsu_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(in)satsu_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(in)satsu_00.webm"}},"radical":{"character":"⺉","strokes":2,"image":"https://media.kanjialive.com/radical_character/rittou.svg","position":{"hiragana":"つくり","romaji":"tsukuri","icon":"https://media.kanjialive.com/rad_positions/tsukuri.svg"},"name":{"hiragana":"りっとう","romaji":"rittou"},"meaning":{"english":"knife, sword"},"animation":["https://media.kanjialive.com/rad_frames/rittou0.svg","https://media.kanjialive.com/rad_frames/rittou1.svg","https://media.kanjialive.com/rad_frames/rittou2.svg"]},"references":{"grade":4,"kodansha":"853","classic_nelson":"210"},"examples":[{"japanese":"刷新する（さっしんする）","meaning":{"english":"reform, renovate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(in)satsu_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(in)satsu_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(in)satsu_06_a.mp3"}},{"japanese":"印刷する（いんさつする）","meaning":{"english":"print"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(in)satsu_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(in)satsu_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(in)satsu_06_b.mp3"}},{"japanese":"縮刷する（しゅくさつする）","meaning":{"english":"print in reduced size"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(in)satsu_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(in)satsu_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(in)satsu_06_c.mp3"}},{"japanese":"増刷する（ぞうさつする）","meaning":{"english":"reprint"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(in)satsu_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(in)satsu_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(in)satsu_06_d.mp3"}},{"japanese":"刷る（する）","meaning":{"english":"print [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(in)satsu_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(in)satsu_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(in)satsu_06_e.mp3"}}]},"jishoData":{"query":"刷","found":true,"taughtIn":"grade 4","jlptLevel":"N2","newspaperFrequencyRank":"1352","strokeCount":8,"meaning":"printing, print, brush","kunyomi":["す.る","-ず.り","-ずり","は.く"],"onyomi":["サツ"],"onyomiExamples":[{"example":"刷","reading":"サツ","meaning":"printing, impression, issue"},{"example":"刷数","reading":"サツスウ","meaning":"number (of books) printed"},{"example":"凸版印刷","reading":"トッパンインサツ","meaning":"letterpress, relief printing"},{"example":"増刷","reading":"ゾウサツ","meaning":"additional printing (esp. of books, etc.), additional run"}],"kunyomiExamples":[{"example":"刷る","reading":"する","meaning":"to print, to color or pattern fabric using a wooden mold"},{"example":"刷く","reading":"はく","meaning":"to daub, to brush, to touch up"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["刈","尸","巾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21047_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05237.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5237.gif","uri":"https://jisho.org/search/%E5%88%B7%23kanji"}}
+{
+  "id": "刷",
+  "kanjialiveData": {
+    "_id": "54317b00791eba5146ee4b96",
+    "_rev": "9-6c7f9b8b449b29f33d0afbe8f193a650",
+    "rad_name_ja": "りっとう",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "su, suru",
+    "meaning": "print",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "刷新する（さっしんする）",
+        "meaning": {
+          "english": "reform, renovate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(in)satsu_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(in)satsu_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(in)satsu_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "印刷する（いんさつする）",
+        "meaning": {
+          "english": "print"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(in)satsu_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(in)satsu_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(in)satsu_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "縮刷する（しゅくさつする）",
+        "meaning": {
+          "english": "print in reduced size"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(in)satsu_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(in)satsu_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(in)satsu_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "増刷する（ぞうさつする）",
+        "meaning": {
+          "english": "reprint"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(in)satsu_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(in)satsu_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(in)satsu_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "刷る（する）",
+        "meaning": {
+          "english": "print [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(in)satsu_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(in)satsu_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(in)satsu_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "す、する",
+    "ka_utf": "刷",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=刷",
+    "rad_name_search": [
+      "rittou"
+    ],
+    "rad_order": 23,
+    "txt_books": [
+      {
+        "chapter": "14",
+        "txt_bk": "txtIntermJpn"
+      }
+    ],
+    "kname": "(in)satsu",
+    "rad_utf": "⺉",
+    "stroketimes": [
+      0,
+      1.933333,
+      3.266667,
+      4.533333,
+      5.6,
+      7.6,
+      8.8,
+      10.333333,
+      12.866667
+    ],
+    "kunyomi_ka_display": "す",
+    "dick": "853",
+    "rad_name": "rittou",
+    "dicn": "210",
+    "mn_hint": "Person 尸 with a knife刂carving designs on a woodblock to print it on a cloth 巾.",
+    "rad_stroke": 2,
+    "onyomi_ja": "サツ",
+    "rad_meaning": "knife, sword",
+    "onyomi": "satsu",
+    "ka_id": "ka_692",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "satsu",
+      "satsu"
+    ],
+    "kunyomi_search": [
+      "su",
+      "suru",
+      "su, suru"
+    ],
+    "meaning_search": [
+      "print",
+      "print"
+    ],
+    "onyomi_ja_search": [
+      "サツ",
+      "サツ"
+    ],
+    "kunyomi_ja_search": [
+      "す",
+      "する",
+      "す、する"
+    ],
+    "rad_meaning_search": [
+      "knife",
+      "sword",
+      "knife, sword"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "りっとう"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:14",
+      "ij:c14"
+    ],
+    "rad_name_file": "rittou",
+    "kanji": {
+      "character": "刷",
+      "meaning": {
+        "english": "print"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.933333,
+          3.266667,
+          4.533333,
+          5.6,
+          7.6,
+          8.8,
+          10.333333,
+          12.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(in)satsu_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(in)satsu_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(in)satsu_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(in)satsu_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(in)satsu_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(in)satsu_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(in)satsu_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(in)satsu_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "satsu",
+        "katakana": "サツ"
+      },
+      "kunyomi": {
+        "romaji": "su, suru",
+        "hiragana": "す"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(in)satsu_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(in)satsu_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(in)satsu_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺉",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/rittou.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "りっとう",
+        "romaji": "rittou"
+      },
+      "meaning": {
+        "english": "knife, sword"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/rittou0.svg",
+        "https://media.kanjialive.com/rad_frames/rittou1.svg",
+        "https://media.kanjialive.com/rad_frames/rittou2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "853",
+      "classic_nelson": "210"
+    }
+  },
+  "jishoData": {
+    "query": "刷",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1352",
+    "strokeCount": 8,
+    "meaning": "printing, print, brush",
+    "kunyomi": [
+      "す.る",
+      "-ず.り",
+      "-ずり",
+      "は.く"
+    ],
+    "onyomi": [
+      "サツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "刷",
+        "reading": "サツ",
+        "meaning": "printing, impression, issue"
+      },
+      {
+        "example": "刷数",
+        "reading": "サツスウ",
+        "meaning": "number (of books) printed"
+      },
+      {
+        "example": "凸版印刷",
+        "reading": "トッパンインサツ",
+        "meaning": "letterpress, relief printing"
+      },
+      {
+        "example": "増刷",
+        "reading": "ゾウサツ",
+        "meaning": "additional printing (esp. of books, etc.), additional run"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "刷る",
+        "reading": "する",
+        "meaning": "to print, to color or pattern fabric using a wooden mold"
+      },
+      {
+        "example": "刷く",
+        "reading": "はく",
+        "meaning": "to daub, to brush, to touch up"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "刈",
+      "尸",
+      "巾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21047_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05237.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5237.gif",
+    "uri": "https://jisho.org/search/%E5%88%B7%23kanji"
+  }
+}

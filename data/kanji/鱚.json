@@ -1,1 +1,40 @@
-{"id":"鱚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鱚","found":true,"strokeCount":23,"meaning":"sillaginoid, (kokuji)","kunyomi":["きす"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"鱚","reading":"きす","meaning":"sillago (any fish of genus Sillago, esp. the Japanese whiting, Sillago japonica)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["十","口","士","并","杰","田","豆","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40026_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c5a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c5a.gif","uri":"https://jisho.org/search/%E9%B1%9A%23kanji"}}
+{
+  "id": "鱚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鱚",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "sillaginoid, (kokuji)",
+    "kunyomi": [
+      "きす"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鱚",
+        "reading": "きす",
+        "meaning": "sillago (any fish of genus Sillago, esp. the Japanese whiting, Sillago japonica)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "十",
+      "口",
+      "士",
+      "并",
+      "杰",
+      "田",
+      "豆",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40026_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c5a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c5a.gif",
+    "uri": "https://jisho.org/search/%E9%B1%9A%23kanji"
+  }
+}

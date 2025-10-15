@@ -1,1 +1,80 @@
-{"id":"臼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"臼","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2048","strokeCount":6,"meaning":"mortar","kunyomi":["うす","うすづ.く"],"onyomi":["キュウ","グ"],"onyomiExamples":[{"example":"臼蓋","reading":"キュウガイ","meaning":"acetabular roof"},{"example":"臼蓋形成不全","reading":"キュウガイケイセイフゼン","meaning":"acetabular dysplasia"},{"example":"亜脱臼","reading":"アダッキュウ","meaning":"subluxation"},{"example":"頸椎脱臼","reading":"ケイツイダッキュウ","meaning":"cervical dislocation"}],"kunyomiExamples":[{"example":"臼","reading":"うす","meaning":"millstone, mortar"},{"example":"臼茸","reading":"うすたけ","meaning":"shaggy chanterelle (Turbinellus floccosus), scaly chanterelle, woolly chanterelle"},{"example":"提宇子","reading":"ダイウス","meaning":"God"},{"example":"搗き臼","reading":"つきうす","meaning":"mortar (for pounding rice)"},{"example":"臼搗く","reading":"うすづく","meaning":"to pound (rice, etc.)"}],"radical":{"symbol":"臼","meaning":"mortar"},"parts":["臼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33276_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081fc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81fc.gif","uri":"https://jisho.org/search/%E8%87%BC%23kanji"}}
+{
+  "id": "臼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臼",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2048",
+    "strokeCount": 6,
+    "meaning": "mortar",
+    "kunyomi": [
+      "うす",
+      "うすづ.く"
+    ],
+    "onyomi": [
+      "キュウ",
+      "グ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "臼蓋",
+        "reading": "キュウガイ",
+        "meaning": "acetabular roof"
+      },
+      {
+        "example": "臼蓋形成不全",
+        "reading": "キュウガイケイセイフゼン",
+        "meaning": "acetabular dysplasia"
+      },
+      {
+        "example": "烏臼",
+        "reading": "ウキュウ",
+        "meaning": "Chinese tallow (as an ingredient in Chinese medicine)"
+      },
+      {
+        "example": "亜脱臼",
+        "reading": "アダッキュウ",
+        "meaning": "subluxation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "臼",
+        "reading": "うす",
+        "meaning": "millstone, mortar"
+      },
+      {
+        "example": "臼茸",
+        "reading": "うすたけ",
+        "meaning": "shaggy chanterelle (Turbinellus floccosus), scaly chanterelle, woolly chanterelle"
+      },
+      {
+        "example": "提宇子",
+        "reading": "ダイウス",
+        "meaning": "God"
+      },
+      {
+        "example": "搗き臼",
+        "reading": "つきうす",
+        "meaning": "mortar (for pounding rice)"
+      },
+      {
+        "example": "臼搗く",
+        "reading": "うすづく",
+        "meaning": "to pound (rice, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "臼",
+      "meaning": "mortar"
+    },
+    "parts": [
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33276_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081fc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81fc.gif",
+    "uri": "https://jisho.org/search/%E8%87%BC%23kanji"
+  }
+}

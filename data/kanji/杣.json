@@ -1,1 +1,28 @@
-{"id":"杣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"杣","found":true,"strokeCount":7,"meaning":"timber, lumber, woodcutter, (kokuji)","kunyomi":["そま"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["山","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26467_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06763.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6763.gif","uri":"https://jisho.org/search/%E6%9D%A3%23kanji"}}
+{
+  "id": "杣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杣",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "timber, lumber, woodcutter, (kokuji)",
+    "kunyomi": [
+      "そま"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "山",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26467_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06763.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6763.gif",
+    "uri": "https://jisho.org/search/%E6%9D%A3%23kanji"
+  }
+}

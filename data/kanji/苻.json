@@ -1,1 +1,32 @@
-{"id":"苻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"苻","found":true,"strokeCount":8,"meaning":"kudzu-like plant","kunyomi":[],"onyomi":["フ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["化","寸","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33531_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082fb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82fb.gif","uri":"https://jisho.org/search/%E8%8B%BB%23kanji"}}
+{
+  "id": "苻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苻",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "kudzu-like plant",
+    "kunyomi": [],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "化",
+      "寸",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33531_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82fb.gif",
+    "uri": "https://jisho.org/search/%E8%8B%BB%23kanji"
+  }
+}

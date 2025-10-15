@@ -1,1 +1,45 @@
-{"id":"囓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"囓","found":true,"strokeCount":24,"meaning":"gnaw","kunyomi":["かじ.る","か.む"],"onyomi":["ゲツ","ケツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"齧る","reading":"かじる","meaning":"to gnaw, to nibble, to bite, to munch, to crunch, to dabble in, to have a smattering of"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["二","亠","凵","刀","口","土","止","歯","米"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22227_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056d3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56d3.gif","uri":"https://jisho.org/search/%E5%9B%93%23kanji"}}
+{
+  "id": "囓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "囓",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "gnaw",
+    "kunyomi": [
+      "かじ.る",
+      "か.む"
+    ],
+    "onyomi": [
+      "ゲツ",
+      "ケツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "齧る",
+        "reading": "かじる",
+        "meaning": "to gnaw, to nibble, to bite, to munch, to crunch, to dabble in, to know a little bit about, to learn a little of, to have a smattering of"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "凵",
+      "刀",
+      "口",
+      "土",
+      "止",
+      "歯",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22227_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056d3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56d3.gif",
+    "uri": "https://jisho.org/search/%E5%9B%93%23kanji"
+  }
+}

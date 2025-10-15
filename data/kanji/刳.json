@@ -1,1 +1,47 @@
-{"id":"刳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"刳","found":true,"strokeCount":8,"meaning":"clear, serene, cold","kunyomi":["く.る","えぐ.る"],"onyomi":["コ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"抉る","reading":"えぐる","meaning":"to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"},{"example":"抉る","reading":"えぐる","meaning":"to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["二","刈","勹","大"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21043_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05233.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5233.gif","uri":"https://jisho.org/search/%E5%88%B3%23kanji"}}
+{
+  "id": "刳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "刳",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "clear, serene, cold",
+    "kunyomi": [
+      "く.る",
+      "えぐ.る"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "抉る",
+        "reading": "えぐる",
+        "meaning": "to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"
+      },
+      {
+        "example": "抉る",
+        "reading": "えぐる",
+        "meaning": "to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "二",
+      "刈",
+      "勹",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21043_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05233.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5233.gif",
+    "uri": "https://jisho.org/search/%E5%88%B3%23kanji"
+  }
+}

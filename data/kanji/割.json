@@ -1,1 +1,456 @@
-{"id":"割","kanjialiveData":{"kanji":{"character":"割","meaning":{"english":"divide, split"},"strokes":{"count":12,"timings":[0,1.066667,1.733333,3.2,4.266667,5.733333,6.866667,8.2,9.066667,10.466667,11.533333,13.4,15.2],"images":["https://media.kanjialive.com/kanji_strokes/wa(ru)_1.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_2.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_3.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_4.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_5.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_6.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_7.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_8.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_9.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_10.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_11.svg","https://media.kanjialive.com/kanji_strokes/wa(ru)_12.svg"]},"onyomi":{"romaji":"katsu","katakana":"カツ"},"kunyomi":{"romaji":"wa, waru, wari, wareru, sa, saku","hiragana":"わ、わり、さ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/wa(ru)_12.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/wa(ru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/wa(ru)_00.webm"}},"radical":{"character":"⺉","strokes":2,"image":"https://media.kanjialive.com/radical_character/rittou.svg","position":{"hiragana":"つくり","romaji":"tsukuri","icon":"https://media.kanjialive.com/rad_positions/tsukuri.svg"},"name":{"hiragana":"りっとう","romaji":"rittou"},"meaning":{"english":"knife, sword"},"animation":["https://media.kanjialive.com/rad_frames/rittou0.svg","https://media.kanjialive.com/rad_frames/rittou1.svg","https://media.kanjialive.com/rad_frames/rittou2.svg"]},"references":{"grade":6,"kodansha":"1180","classic_nelson":"703"},"examples":[{"japanese":"割愛する（かつあいする）","meaning":{"english":"omit, leave out, spare"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_a.mp3"}},{"japanese":"分割する（ぶんかつする）","meaning":{"english":"partition, divide, separate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_b.mp3"}},{"japanese":"割る（わる）","meaning":{"english":"divide, break, crack [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_c.mp3"}},{"japanese":"割れる（われる）","meaning":{"english":"break, split, crack [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_d.mp3"}},{"japanese":"割り勘（わりかん）","meaning":{"english":"shared expenses"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_e.mp3"}},{"japanese":"割り算（わりざん）","meaning":{"english":"division"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_f.mp3"}},{"japanese":"割り引く（わりびく）","meaning":{"english":"discount [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_g.mp3"}},{"japanese":"割合（わりあい）","meaning":{"english":"rate, ratio, proportion"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_h.mp3"}},{"japanese":"一割（いちわり）","meaning":{"english":"ten percent"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_i.mp3"}},{"japanese":"役割（やくわり）","meaning":{"english":"part, role, duties"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_j.mp3"}},{"japanese":"割と（わりと）","meaning":{"english":"relatively, comparatively"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_k.mp3"}},{"japanese":"割く（さく）","meaning":{"english":"split, rend, cut, spare (time)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_l.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_l.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_l.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_l.mp3"}}]},"jishoData":{"query":"割","found":true,"taughtIn":"grade 6","jlptLevel":"N3","newspaperFrequencyRank":"318","strokeCount":12,"meaning":"proportion, comparatively, divide, cut, separate, split","kunyomi":["わ.る","わり","わ.り","わ.れる","さ.く"],"onyomi":["カツ"],"onyomiExamples":[{"example":"割愛","reading":"カツアイ","meaning":"omitting (reluctantly), leaving out, dropping, giving up (reluctantly), parting with, sharing, sparing"},{"example":"割譲","reading":"カツジョウ","meaning":"cession (of territory)"},{"example":"正割","reading":"セイカツ","meaning":"secant (trigonometric function)"},{"example":"等割","reading":"トウカツ","meaning":"equal cleavage (embryology)"}],"kunyomiExamples":[{"example":"割る","reading":"わる","meaning":"to divide, to cut, to halve, to separate, to split, to rip, to break, to crack, to smash, to dilute, to fall below, to discount, to step over (a line, etc.)"},{"example":"割り","reading":"わり","meaning":"rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"},{"example":"割合","reading":"わりあい","meaning":"rate, ratio, percentage, proportion, comparatively, contrary to expectations"},{"example":"学割","reading":"がくわり","meaning":"student discount"},{"example":"手合割","reading":"てあいわり","meaning":"handicap (go, shogi)"},{"example":"割り","reading":"わり","meaning":"rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"},{"example":"割合","reading":"わりあい","meaning":"rate, ratio, percentage, proportion, comparatively, contrary to expectations"},{"example":"学割","reading":"がくわり","meaning":"student discount"},{"example":"手合割","reading":"てあいわり","meaning":"handicap (go, shogi)"},{"example":"割れる","reading":"われる","meaning":"to break, to be smashed, to split, to crack, to fissure, to be torn, to be divided (opinion, vote, etc.), to split (e.g. of a party), to come to light, to become clear, to be identified, to be revealed, to become distorted (of sound), to clip, to be divisible (without a remainder), to drop below a minimum"},{"example":"裂く","reading":"さく","meaning":"to tear, to rip up, to cut up, to cleave, to cut open (esp. the abdomen), to forcibly separate (e.g. two lovers), to spare (time, money, etc.), to use part of something, to have a tattoo in the corner of one's eye"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["二","亠","刈","口","土","宀"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21106_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05272.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5272.gif","uri":"https://jisho.org/search/%E5%89%B2%23kanji"}}
+{
+  "id": "割",
+  "kanjialiveData": {
+    "_id": "54317ad2791eba5146ee4842",
+    "_rev": "10-83928c6054f6574700855a7aeb10a0c0",
+    "rad_name_ja": "りっとう",
+    "grade": 6,
+    "hint_group": 5,
+    "kunyomi": "wa, waru, wari, wareru, sa, saku",
+    "meaning": "divide, split",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "割愛する（かつあいする）",
+        "meaning": {
+          "english": "omit, leave out, spare"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "分割する（ぶんかつする）",
+        "meaning": {
+          "english": "partition, divide, separate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "割る（わる）",
+        "meaning": {
+          "english": "divide, break, crack [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "割れる（われる）",
+        "meaning": {
+          "english": "break, split, crack [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "割り勘（わりかん）",
+        "meaning": {
+          "english": "shared expenses"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "割り算（わりざん）",
+        "meaning": {
+          "english": "division"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "割り引く（わりびく）",
+        "meaning": {
+          "english": "discount [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "割合（わりあい）",
+        "meaning": {
+          "english": "rate, ratio, proportion"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "一割（いちわり）",
+        "meaning": {
+          "english": "ten percent"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "役割（やくわり）",
+        "meaning": {
+          "english": "part, role, duties"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "割と（わりと）",
+        "meaning": {
+          "english": "relatively, comparatively"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "割く（さく）",
+        "meaning": {
+          "english": "split, rend, cut, spare (time)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/wa(ru)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/wa(ru)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/wa(ru)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "わ、わる、わり、われる、さ、さく",
+    "ka_utf": "割",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=割",
+    "kname": "wa(ru)",
+    "rad_order": 23,
+    "txt_books": [
+      {
+        "chapter": "33",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "rittou"
+    ],
+    "rad_utf": "⺉",
+    "stroketimes": [
+      0,
+      1.066667,
+      1.733333,
+      3.2,
+      4.266667,
+      5.733333,
+      6.866667,
+      8.2,
+      9.066667,
+      10.466667,
+      11.533333,
+      13.4,
+      15.2
+    ],
+    "kunyomi_ka_display": "わ、わり、さ",
+    "dick": "1180",
+    "rad_name": "rittou",
+    "dicn": "703",
+    "mn_hint": "Master [69] of the house 宀 dividing刂provisions 口 to household members.",
+    "rad_stroke": 2,
+    "onyomi_ja": "カツ",
+    "rad_meaning": "knife, sword",
+    "onyomi": "katsu",
+    "ka_id": "ka_1036",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "katsu",
+      "katsu"
+    ],
+    "kunyomi_search": [
+      "wa",
+      "waru",
+      "wari",
+      "wareru",
+      "sa",
+      "saku",
+      "wa, waru, wari, wareru, sa, saku"
+    ],
+    "meaning_search": [
+      "divide",
+      "split",
+      "divide, split"
+    ],
+    "onyomi_ja_search": [
+      "カツ",
+      "カツ"
+    ],
+    "kunyomi_ja_search": [
+      "わ",
+      "わる",
+      "わり",
+      "われる",
+      "さ",
+      "さく",
+      "わ、わる、わり、われる、さ、さく"
+    ],
+    "rad_meaning_search": [
+      "knife",
+      "sword",
+      "knife, sword"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "りっとう"
+    ],
+    "textbook_search": [
+      "bk",
+      "bk:33",
+      "bk:c33",
+      "jtr",
+      "jtr:6",
+      "jtr:c6"
+    ],
+    "rad_name_file": "rittou",
+    "kanji": {
+      "character": "割",
+      "meaning": {
+        "english": "divide, split"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          1.066667,
+          1.733333,
+          3.2,
+          4.266667,
+          5.733333,
+          6.866667,
+          8.2,
+          9.066667,
+          10.466667,
+          11.533333,
+          13.4,
+          15.2
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/wa(ru)_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "katsu",
+        "katakana": "カツ"
+      },
+      "kunyomi": {
+        "romaji": "wa, waru, wari, wareru, sa, saku",
+        "hiragana": "わ、わり、さ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/wa(ru)_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/wa(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/wa(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺉",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/rittou.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "りっとう",
+        "romaji": "rittou"
+      },
+      "meaning": {
+        "english": "knife, sword"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/rittou0.svg",
+        "https://media.kanjialive.com/rad_frames/rittou1.svg",
+        "https://media.kanjialive.com/rad_frames/rittou2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1180",
+      "classic_nelson": "703"
+    }
+  },
+  "jishoData": {
+    "query": "割",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "318",
+    "strokeCount": 12,
+    "meaning": "proportion, comparatively, divide, cut, separate, split",
+    "kunyomi": [
+      "わ.る",
+      "わり",
+      "わ.り",
+      "わ.れる",
+      "さ.く"
+    ],
+    "onyomi": [
+      "カツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "割愛",
+        "reading": "カツアイ",
+        "meaning": "omitting (reluctantly), leaving out, dropping, giving up (reluctantly), parting with, sharing, sparing"
+      },
+      {
+        "example": "割譲",
+        "reading": "カツジョウ",
+        "meaning": "cession (of territory)"
+      },
+      {
+        "example": "正割",
+        "reading": "セイカツ",
+        "meaning": "secant (trigonometric function)"
+      },
+      {
+        "example": "等割",
+        "reading": "トウカツ",
+        "meaning": "equal cleavage (embryology)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "割る",
+        "reading": "わる",
+        "meaning": "to divide, to cut, to halve, to separate, to split, to rip, to break, to crack, to smash, to dilute, to fall below, to discount, to step over (a line, etc.)"
+      },
+      {
+        "example": "割り",
+        "reading": "わり",
+        "meaning": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"
+      },
+      {
+        "example": "割合",
+        "reading": "わりあい",
+        "meaning": "rate, ratio, percentage, proportion, comparatively, contrary to expectations"
+      },
+      {
+        "example": "学割",
+        "reading": "がくわり",
+        "meaning": "student discount"
+      },
+      {
+        "example": "手合割",
+        "reading": "てあいわり",
+        "meaning": "handicap (go, shogi)"
+      },
+      {
+        "example": "割り",
+        "reading": "わり",
+        "meaning": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"
+      },
+      {
+        "example": "割合",
+        "reading": "わりあい",
+        "meaning": "rate, ratio, percentage, proportion, comparatively, contrary to expectations"
+      },
+      {
+        "example": "学割",
+        "reading": "がくわり",
+        "meaning": "student discount"
+      },
+      {
+        "example": "手合割",
+        "reading": "てあいわり",
+        "meaning": "handicap (go, shogi)"
+      },
+      {
+        "example": "割れる",
+        "reading": "われる",
+        "meaning": "to break, to be smashed, to split, to crack, to fissure, to be torn, to be divided (opinion, vote, etc.), to split (e.g. of a party), to come to light, to become clear, to be identified, to be revealed, to become distorted (of sound), to clip, to be divisible (without a remainder), to drop below a minimum"
+      },
+      {
+        "example": "裂く",
+        "reading": "さく",
+        "meaning": "to tear, to rip up, to cut up, to cleave, to cut open (esp. the abdomen), to forcibly separate (e.g. two lovers), to spare (time, money, etc.), to use part of something, to have a tattoo in the corner of one's eye"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "刈",
+      "口",
+      "土",
+      "宀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21106_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05272.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5272.gif",
+    "uri": "https://jisho.org/search/%E5%89%B2%23kanji"
+  }
+}

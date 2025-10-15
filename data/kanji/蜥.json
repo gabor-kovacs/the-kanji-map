@@ -1,1 +1,43 @@
-{"id":"蜥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蜥","found":true,"strokeCount":14,"meaning":"a lizard","kunyomi":["とかげ"],"onyomi":["シャク","セキ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蜥蜴","reading":"とかげ","meaning":"lizard, skink lizard (Scincidae spp.)"},{"example":"蜥蜴座","reading":"とかげざ","meaning":"Lacerta (constellation), the Lizard"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["斤","木","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34597_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08725.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8725.gif","uri":"https://jisho.org/search/%E8%9C%A5%23kanji"}}
+{
+  "id": "蜥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜥",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "a lizard",
+    "kunyomi": [
+      "とかげ"
+    ],
+    "onyomi": [
+      "シャク",
+      "セキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "【トカゲ】",
+        "reading": "lizard, skink lizard (Scincidae spp.)",
+        "meaning": ""
+      },
+      {
+        "example": "蜥蜴座",
+        "reading": "とかげざ",
+        "meaning": "Lacerta (constellation), the Lizard"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "斤",
+      "木",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34597_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08725.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8725.gif",
+    "uri": "https://jisho.org/search/%E8%9C%A5%23kanji"
+  }
+}

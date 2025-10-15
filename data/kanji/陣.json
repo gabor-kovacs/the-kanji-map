@@ -1,1 +1,55 @@
-{"id":"陣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"陣","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"828","strokeCount":10,"meaning":"camp, battle array, ranks, position, sudden, brief time","kunyomi":[],"onyomi":["ジン"],"onyomiExamples":[{"example":"陣","reading":"ジン","meaning":"battle formation, camp, encampment, position, group, gang, party, corps, war, battle, campaign"},{"example":"陣営","reading":"ジンエイ","meaning":"camp (supporters of a doctrine, party, etc.), faction (of a party), military camp, encampment, cantonment"},{"example":"布陣","reading":"フジン","meaning":"battle formation, lineup (e.g. for a game)"},{"example":"出陣","reading":"シュツジン","meaning":"going into battle, departure for the front, appearing (in a match), starting an election campaign"}],"kunyomiExamples":[],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["車","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38499_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09663.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9663.gif","uri":"https://jisho.org/search/%E9%99%A3%23kanji"}}
+{
+  "id": "陣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陣",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "828",
+    "strokeCount": 10,
+    "meaning": "camp, battle array, ranks, position, sudden, brief time",
+    "kunyomi": [],
+    "onyomi": [
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陣",
+        "reading": "ジン",
+        "meaning": "battle formation, camp, encampment, position, group, gang, party, corps, war, battle, campaign"
+      },
+      {
+        "example": "陣営",
+        "reading": "ジンエイ",
+        "meaning": "camp (supporters of a doctrine, party, etc.), faction (of a party), military camp, encampment, cantonment"
+      },
+      {
+        "example": "布陣",
+        "reading": "フジン",
+        "meaning": "battle formation, lineup (e.g. for a game)"
+      },
+      {
+        "example": "出陣",
+        "reading": "シュツジン",
+        "meaning": "going into battle, departure for the front, appearing (in a match), starting an election campaign"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "車",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38499_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09663.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9663.gif",
+    "uri": "https://jisho.org/search/%E9%99%A3%23kanji"
+  }
+}

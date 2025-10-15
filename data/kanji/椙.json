@@ -1,1 +1,40 @@
-{"id":"椙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"椙","found":true,"newspaperFrequencyRank":"2437","strokeCount":12,"meaning":"Japanese cedar, cryptomeria, (kokuji)","kunyomi":["すぎ"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"杉","reading":"すぎ","meaning":"Japanese cedar (Cryptomeria japonica)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["日","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26905_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06919.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6919.gif","uri":"https://jisho.org/search/%E6%A4%99%23kanji"}}
+{
+  "id": "椙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椙",
+    "found": true,
+    "newspaperFrequencyRank": "2437",
+    "strokeCount": 12,
+    "meaning": "Japanese cedar, cryptomeria, (kokuji)",
+    "kunyomi": [
+      "すぎ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "杉",
+        "reading": "すぎ",
+        "meaning": "Japanese cedar (Cryptomeria japonica)"
+      },
+      {
+        "example": "椙山女学園大学",
+        "reading": "すぎやまじょがくえんだいがく",
+        "meaning": "Sugiyama Jogakuen University"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "日",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26905_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06919.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6919.gif",
+    "uri": "https://jisho.org/search/%E6%A4%99%23kanji"
+  }
+}

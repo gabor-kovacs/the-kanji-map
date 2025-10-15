@@ -1,1 +1,81 @@
-{"id":"孔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"孔","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2052","strokeCount":4,"meaning":"cavity, hole, slit, very, great, exceedingly","kunyomi":["あな"],"onyomi":["コウ","ク"],"onyomiExamples":[{"example":"孔子","reading":"コウシ","meaning":"Confucius"},{"example":"孔隙率","reading":"コウゲキリツ","meaning":"porosity"},{"example":"瞳孔","reading":"ドウコウ","meaning":"pupil (of the eye)"},{"example":"細孔","reading":"サイコウ","meaning":"pore, small cavity, puncture"},{"example":"孔雀","reading":"クジャク","meaning":"peafowl (incl. the male peacock, female peahen, and young peachick)"},{"example":"孔子","reading":"コウシ","meaning":"Confucius"}],"kunyomiExamples":[{"example":"穴","reading":"あな","meaning":"hole, opening, perforation, pit, hollow, hole (in the ground, etc.), burrow, den, lair, holt, hole, deficit, shortage, missing person (in a team, meeting, etc.), vacancy, opening, flaw, well-kept secret place, upset victory (with a large payoff), pit (of a theater), hiding place, hideout, underbelly (of society, etc.)"},{"example":"巣穴","reading":"すあな","meaning":"nesting hole, burrow, den"},{"example":"音孔","reading":"おとあな","meaning":"tone hole"}],"radical":{"symbol":"子","meaning":"child, seed"},"parts":["乙","子"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23380_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b54.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b54.gif","uri":"https://jisho.org/search/%E5%AD%94%23kanji"}}
+{
+  "id": "孔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "孔",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2052",
+    "strokeCount": 4,
+    "meaning": "cavity, hole, slit, very, great, exceedingly",
+    "kunyomi": [
+      "あな"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "孔子",
+        "reading": "コウシ",
+        "meaning": "Confucius"
+      },
+      {
+        "example": "孔隙率",
+        "reading": "コウゲキリツ",
+        "meaning": "porosity"
+      },
+      {
+        "example": "瞳孔",
+        "reading": "ドウコウ",
+        "meaning": "pupil (of the eye)"
+      },
+      {
+        "example": "鰓孔",
+        "reading": "エラアナ",
+        "meaning": "gill slit, pharyngeal slit"
+      },
+      {
+        "example": "孔雀",
+        "reading": "クジャク",
+        "meaning": "peafowl (incl. the male peacock, female peahen, and young peachick)"
+      },
+      {
+        "example": "孔子",
+        "reading": "コウシ",
+        "meaning": "Confucius"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "穴",
+        "reading": "あな",
+        "meaning": "hole, opening, orifice, perforation, pit, hollow, cavity, hole (e.g. in the ground), burrow, den, lair, holt, hole, deficit, shortage, (financial) hole, loss, gap (left by a missing employee, team member, etc.), vacancy, opening, flaw, fault, defect, weak point, hole (in a theory, plan, etc.), loophole, good place not many people know about, well-kept secret, upset victory (with a large payoff), long shot, dark horse, (partitioned) box (type of floor seating in a traditional Japanese theatre), hiding place, hideout"
+      },
+      {
+        "example": "鍵穴",
+        "reading": "かぎあな",
+        "meaning": "keyhole"
+      },
+      {
+        "example": "巣穴",
+        "reading": "すあな",
+        "meaning": "nesting hole, burrow, den"
+      }
+    ],
+    "radical": {
+      "symbol": "子",
+      "meaning": "child, seed"
+    },
+    "parts": [
+      "乙",
+      "子"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23380_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b54.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b54.gif",
+    "uri": "https://jisho.org/search/%E5%AD%94%23kanji"
+  }
+}

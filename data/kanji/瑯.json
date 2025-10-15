@@ -1,1 +1,38 @@
-{"id":"瑯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"瑯","found":true,"strokeCount":14,"meaning":"precious stone","kunyomi":[],"onyomi":["ロウ"],"onyomiExamples":[{"example":"琺瑯","reading":"ホウロウ","meaning":"enamel, enamelled metalware (sinks, pots, etc.)"}],"kunyomiExamples":[],"radical":{"symbol":"玉","forms":["王"],"meaning":"jade (king)"},"parts":["王","艮","邦"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29807_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0746f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/746f.gif","uri":"https://jisho.org/search/%E7%91%AF%23kanji"}}
+{
+  "id": "瑯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "瑯",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "precious stone",
+    "kunyomi": [],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "琺瑯",
+        "reading": "ホウロウ",
+        "meaning": "enamel, enamelled metalware (sinks, pots, etc.)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "玉",
+      "forms": [
+        "王"
+      ],
+      "meaning": "jade (king)"
+    },
+    "parts": [
+      "王",
+      "艮",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29807_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0746f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/746f.gif",
+    "uri": "https://jisho.org/search/%E7%91%AF%23kanji"
+  }
+}

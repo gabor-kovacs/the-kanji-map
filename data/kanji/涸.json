@@ -1,1 +1,56 @@
-{"id":"涸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"涸","found":true,"strokeCount":11,"meaning":"dry up, mature","kunyomi":["か.れる","か.らす","こお.る"],"onyomi":["コ","カク"],"onyomiExamples":[{"example":"枯渇","reading":"コカツ","meaning":"drying up, running dry, running out, being exhausted, being drained"}],"kunyomiExamples":[{"example":"涸れる","reading":"かれる","meaning":"to dry up (spring, pond, etc.), to run out"},{"example":"涸らす","reading":"からす","meaning":"to dry up, to exhaust (e.g. resources, talent)"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["十","口","囗","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28088_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06db8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6db8.gif","uri":"https://jisho.org/search/%E6%B6%B8%23kanji"}}
+{
+  "id": "涸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "涸",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "dry up, mature",
+    "kunyomi": [
+      "か.れる",
+      "か.らす",
+      "こお.る"
+    ],
+    "onyomi": [
+      "コ",
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "枯渇",
+        "reading": "コカツ",
+        "meaning": "drying up, running dry, running out, being exhausted, being drained"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "涸れる",
+        "reading": "かれる",
+        "meaning": "to dry up (spring, pond, etc.), to run out"
+      },
+      {
+        "example": "涸らす",
+        "reading": "からす",
+        "meaning": "to dry up, to exhaust (e.g. resources, talent)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "十",
+      "口",
+      "囗",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28088_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06db8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6db8.gif",
+    "uri": "https://jisho.org/search/%E6%B6%B8%23kanji"
+  }
+}

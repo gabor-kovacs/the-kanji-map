@@ -1,1 +1,43 @@
-{"id":"麝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"麝","found":true,"strokeCount":21,"meaning":"musk deer","kunyomi":[],"onyomi":["ジャ","シャ"],"onyomiExamples":[{"example":"麝香","reading":"ジャコウ","meaning":"musk"},{"example":"麝香揚羽","reading":"ジャコウアゲハ","meaning":"Chinese windmill (species of red-bodied swallowtail butterfly, Atrophaneura alcinous)"}],"kunyomiExamples":[],"radical":{"symbol":"鹿","meaning":"deer"},"parts":["寸","广","比","身","鹿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40605_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e9d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e9d.gif","uri":"https://jisho.org/search/%E9%BA%9D%23kanji"}}
+{
+  "id": "麝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麝",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "musk deer",
+    "kunyomi": [],
+    "onyomi": [
+      "ジャ",
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麝香",
+        "reading": "ジャコウ",
+        "meaning": "musk"
+      },
+      {
+        "example": "麝香揚羽",
+        "reading": "ジャコウアゲハ",
+        "meaning": "Chinese windmill (species of red-bodied swallowtail butterfly, Atrophaneura alcinous)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鹿",
+      "meaning": "deer"
+    },
+    "parts": [
+      "寸",
+      "广",
+      "比",
+      "身",
+      "鹿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40605_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e9d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e9d.gif",
+    "uri": "https://jisho.org/search/%E9%BA%9D%23kanji"
+  }
+}

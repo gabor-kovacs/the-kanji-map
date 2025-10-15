@@ -1,1 +1,56 @@
-{"id":"衷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"衷","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2229","strokeCount":9,"meaning":"inmost, heart, mind, inside","kunyomi":[],"onyomi":["チュウ"],"onyomiExamples":[{"example":"衷心","reading":"チュウシン","meaning":"innermost feelings"},{"example":"衷情","reading":"チュウジョウ","meaning":"true heart, inner feelings"},{"example":"折衷","reading":"セッチュウ","meaning":"compromise, cross, blending, eclecticism"},{"example":"苦衷","reading":"クチュウ","meaning":"distress, anguish, mental suffering"}],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["十","口","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34935_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08877.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8877.gif","uri":"https://jisho.org/search/%E8%A1%B7%23kanji"}}
+{
+  "id": "衷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衷",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2229",
+    "strokeCount": 9,
+    "meaning": "inmost, heart, mind, inside",
+    "kunyomi": [],
+    "onyomi": [
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "衷心",
+        "reading": "チュウシン",
+        "meaning": "innermost feelings"
+      },
+      {
+        "example": "衷情",
+        "reading": "チュウジョウ",
+        "meaning": "true heart, inner feelings"
+      },
+      {
+        "example": "折衷",
+        "reading": "セッチュウ",
+        "meaning": "compromise, cross, blending, eclecticism"
+      },
+      {
+        "example": "苦衷",
+        "reading": "クチュウ",
+        "meaning": "distress, anguish, mental suffering"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "十",
+      "口",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34935_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08877.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8877.gif",
+    "uri": "https://jisho.org/search/%E8%A1%B7%23kanji"
+  }
+}

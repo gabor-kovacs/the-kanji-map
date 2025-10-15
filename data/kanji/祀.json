@@ -1,1 +1,56 @@
-{"id":"祀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"祀","found":true,"strokeCount":8,"meaning":"enshrine, worship","kunyomi":["まつ.る","まつり"],"onyomi":["シ"],"onyomiExamples":[{"example":"祭祀","reading":"サイシ","meaning":"ritual, religious service, festival"},{"example":"合祀","reading":"ゴウシ","meaning":"enshrining together"}],"kunyomiExamples":[{"example":"祭る","reading":"まつる","meaning":"to deify, to enshrine, to pray, to worship"},{"example":"お祭り","reading":"おまつり","meaning":"festival, feast, carnival"}],"radical":{"symbol":"示","forms":["礻"],"meaning":"sign"},"parts":["已","礼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31040_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07940.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7940.gif","uri":"https://jisho.org/search/%E7%A5%80%23kanji"}}
+{
+  "id": "祀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "祀",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "enshrine, worship",
+    "kunyomi": [
+      "まつ.る",
+      "まつり"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "祭祀",
+        "reading": "サイシ",
+        "meaning": "ritual, religious service, festival"
+      },
+      {
+        "example": "合祀",
+        "reading": "ゴウシ",
+        "meaning": "enshrining together"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "祭る",
+        "reading": "まつる",
+        "meaning": "to deify, to enshrine, to pray, to worship"
+      },
+      {
+        "example": "お祭り",
+        "reading": "おまつり",
+        "meaning": "festival, feast, carnival, matsuri"
+      }
+    ],
+    "radical": {
+      "symbol": "示",
+      "forms": [
+        "礻"
+      ],
+      "meaning": "sign"
+    },
+    "parts": [
+      "已",
+      "礼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31040_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07940.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7940.gif",
+    "uri": "https://jisho.org/search/%E7%A5%80%23kanji"
+  }
+}

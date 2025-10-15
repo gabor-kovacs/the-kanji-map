@@ -1,1 +1,43 @@
-{"id":"陟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"陟","found":true,"strokeCount":11,"meaning":"climb, rise","kunyomi":["すす.む","のぼ.る"],"onyomi":["チョク","トク"],"onyomiExamples":[{"example":"進捗","reading":"シンチョク","meaning":"progress, being under way"}],"kunyomiExamples":[],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["ノ","小","止","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38495_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0965f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/965f.gif","uri":"https://jisho.org/search/%E9%99%9F%23kanji"}}
+{
+  "id": "陟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陟",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "climb, rise",
+    "kunyomi": [
+      "すす.む",
+      "のぼ.る"
+    ],
+    "onyomi": [
+      "チョク",
+      "トク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "進捗",
+        "reading": "シンチョク",
+        "meaning": "progress, advance, making (good) progress"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "止",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38495_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0965f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/965f.gif",
+    "uri": "https://jisho.org/search/%E9%99%9F%23kanji"
+  }
+}

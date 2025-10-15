@@ -1,1 +1,92 @@
-{"id":"拳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"拳","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1935","strokeCount":10,"meaning":"fist","kunyomi":["こぶし"],"onyomi":["ケン","ゲン"],"onyomiExamples":[{"example":"拳","reading":"ケン","meaning":"hand game (e.g. rock-paper-scissors)"},{"example":"拳銃","reading":"ケンジュウ","meaning":"pistol, handgun, revolver"},{"example":"形意拳","reading":"ケイイケン","meaning":"shape-of-the-mind fist, Hsing I Chuan"},{"example":"五形拳","reading":"ゴケイケン","meaning":"Wu Xing Fist, Five Form Fist (Dragon, Snake, Tiger, Crane, Leopard)"},{"example":"拳骨","reading":"ゲンコツ","meaning":"(clenched) fist, knuckles"},{"example":"拳固","reading":"ゲンコ","meaning":"fist"}],"kunyomiExamples":[{"example":"拳","reading":"こぶし","meaning":"fist"},{"example":"こぶし大","reading":"こぶしだい","meaning":"fist-sized"},{"example":"力拳","reading":"ちからこぶし","meaning":"clenched fist"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["一","二","大","并","手"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25331_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062f3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62f3.gif","uri":"https://jisho.org/search/%E6%8B%B3%23kanji"}}
+{
+  "id": "拳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拳",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1935",
+    "strokeCount": 10,
+    "meaning": "fist",
+    "kunyomi": [
+      "こぶし"
+    ],
+    "onyomi": [
+      "ケン",
+      "ゲン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拳",
+        "reading": "ケン",
+        "meaning": "hand game (e.g. rock-paper-scissors)"
+      },
+      {
+        "example": "拳銃",
+        "reading": "ケンジュウ",
+        "meaning": "pistol, handgun"
+      },
+      {
+        "example": "形意拳",
+        "reading": "ケイイケン",
+        "meaning": "shape-of-the-mind fist, Hsing I Chuan"
+      },
+      {
+        "example": "五形拳",
+        "reading": "ゴケイケン",
+        "meaning": "Wu Xing Fist, Five Form Fist (Dragon, Snake, Tiger, Crane, Leopard)"
+      },
+      {
+        "example": "拳骨",
+        "reading": "ゲンコツ",
+        "meaning": "(clenched) fist, knuckles"
+      },
+      {
+        "example": "拳固",
+        "reading": "ゲンコ",
+        "meaning": "fist"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "拳",
+        "reading": "こぶし",
+        "meaning": "fist"
+      },
+      {
+        "example": "こぶし大",
+        "reading": "こぶしだい",
+        "meaning": "fist-sized"
+      },
+      {
+        "example": "【ツノナガコブシ】",
+        "reading": "pebble crab (Leucosia anatum)",
+        "meaning": ""
+      },
+      {
+        "example": "力拳",
+        "reading": "ちからこぶし",
+        "meaning": "clenched fist"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "一",
+      "二",
+      "大",
+      "并",
+      "手"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25331_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062f3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62f3.gif",
+    "uri": "https://jisho.org/search/%E6%8B%B3%23kanji"
+  }
+}

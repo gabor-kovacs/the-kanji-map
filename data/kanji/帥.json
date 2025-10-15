@@ -1,1 +1,43 @@
-{"id":"帥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"帥","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2016","strokeCount":9,"meaning":"commander, leading troops, governor","kunyomi":[],"onyomi":["スイ"],"onyomiExamples":[{"example":"元帥","reading":"ゲンスイ","meaning":"(field) marshal, (fleet) admiral, general of the army"},{"example":"総帥","reading":"ソウスイ","meaning":"commander-in-chief, leader, head of a group of companies"}],"kunyomiExamples":[],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["口","巾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24101_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e25.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e25.gif","uri":"https://jisho.org/search/%E5%B8%A5%23kanji"}}
+{
+  "id": "帥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "帥",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2016",
+    "strokeCount": 9,
+    "meaning": "commander, leading troops, governor",
+    "kunyomi": [],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "元帥",
+        "reading": "ゲンスイ",
+        "meaning": "(field) marshal, (fleet) admiral, general of the army"
+      },
+      {
+        "example": "総帥",
+        "reading": "ソウスイ",
+        "meaning": "commander-in-chief, leader, head of a group of companies"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "口",
+      "巾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24101_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e25.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e25.gif",
+    "uri": "https://jisho.org/search/%E5%B8%A5%23kanji"
+  }
+}

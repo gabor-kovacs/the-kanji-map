@@ -1,1 +1,80 @@
-{"id":"頬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"頬","found":true,"newspaperFrequencyRank":"2424","strokeCount":15,"meaning":"cheeks, jaw","kunyomi":["ほお","ほほ"],"onyomi":["キョウ"],"onyomiExamples":[{"example":"頬筋","reading":"キョウキン","meaning":"buccinator muscle"},{"example":"頬骨","reading":"ホオボネ","meaning":"cheekbones, zygomatic bone, malar bone"},{"example":"双頬","reading":"ソウキョウ","meaning":"both cheeks"},{"example":"豊頬","reading":"ホウキョウ","meaning":"plump cheeks, attractive cheeks"}],"kunyomiExamples":[{"example":"頬","reading":"ほお","meaning":"cheek (of face)"},{"example":"微笑み","reading":"ほほえみ","meaning":"smile"},{"example":"赤い頬","reading":"あかいほお","meaning":"red cheeks, apple cheeks"},{"example":"頬","reading":"ほお","meaning":"cheek (of face)"},{"example":"微笑む","reading":"ほほえむ","meaning":"to smile"}],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ハ","二","人","大","并","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38956_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0982c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/982c.gif","uri":"https://jisho.org/search/%E9%A0%AC%23kanji"}}
+{
+  "id": "頬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頬",
+    "found": true,
+    "newspaperFrequencyRank": "2424",
+    "strokeCount": 15,
+    "meaning": "cheeks, jaw",
+    "kunyomi": [
+      "ほお",
+      "ほほ"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頬筋",
+        "reading": "キョウキン",
+        "meaning": "buccinator muscle"
+      },
+      {
+        "example": "頬骨",
+        "reading": "ホオボネ",
+        "meaning": "cheekbone, zygomatic bone, malar bone"
+      },
+      {
+        "example": "双頬",
+        "reading": "ソウキョウ",
+        "meaning": "both cheeks"
+      },
+      {
+        "example": "豊頬",
+        "reading": "ホウキョウ",
+        "meaning": "plump cheeks, attractive cheeks"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頬",
+        "reading": "ほお",
+        "meaning": "cheek (of the face)"
+      },
+      {
+        "example": "微笑む",
+        "reading": "ほほえむ",
+        "meaning": "to smile"
+      },
+      {
+        "example": "頬",
+        "reading": "ほお",
+        "meaning": "cheek (of the face)"
+      },
+      {
+        "example": "微笑む",
+        "reading": "ほほえむ",
+        "meaning": "to smile"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "人",
+      "大",
+      "并",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38956_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0982c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/982c.gif",
+    "uri": "https://jisho.org/search/%E9%A0%AC%23kanji"
+  }
+}

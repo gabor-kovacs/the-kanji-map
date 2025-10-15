@@ -1,1 +1,71 @@
-{"id":"洞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"洞","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1618","strokeCount":9,"meaning":"den, cave, excavation","kunyomi":["ほら"],"onyomi":["ドウ"],"onyomiExamples":[{"example":"洞","reading":"ドウ","meaning":"sinus, cavity, antrum, neighborhood (administrative division in North Korea)"},{"example":"洞察","reading":"ドウサツ","meaning":"discernment, insight"},{"example":"空洞","reading":"クウドウ","meaning":"cave, hollow, cavity, hollow"},{"example":"風洞","reading":"フウドウ","meaning":"wind tunnel"}],"kunyomiExamples":[{"example":"洞","reading":"ほら","meaning":"hollow, cavity, hole, cave"},{"example":"洞穴","reading":"ほらあな","meaning":"cave, cavern, den, grotto"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","冂","口","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27934_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d1e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d1e.gif","uri":"https://jisho.org/search/%E6%B4%9E%23kanji"}}
+{
+  "id": "洞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "洞",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1618",
+    "strokeCount": 9,
+    "meaning": "den, cave, excavation",
+    "kunyomi": [
+      "ほら"
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "洞",
+        "reading": "ドウ",
+        "meaning": "sinus, cavity, antrum, neighborhood (administrative division in North Korea)"
+      },
+      {
+        "example": "洞察",
+        "reading": "ドウサツ",
+        "meaning": "discernment, insight"
+      },
+      {
+        "example": "空洞",
+        "reading": "クウドウ",
+        "meaning": "cavity, hollow, cave, cavern, hollow"
+      },
+      {
+        "example": "風洞",
+        "reading": "フウドウ",
+        "meaning": "wind tunnel"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "洞",
+        "reading": "ほら",
+        "meaning": "hollow, cavity, hole, cave"
+      },
+      {
+        "example": "洞穴",
+        "reading": "ほらあな",
+        "meaning": "cave, cavern, den, grotto"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "口",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27934_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d1e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d1e.gif",
+    "uri": "https://jisho.org/search/%E6%B4%9E%23kanji"
+  }
+}

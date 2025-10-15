@@ -1,1 +1,53 @@
-{"id":"寵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"寵","found":true,"strokeCount":19,"meaning":"affection, love, patronage","kunyomi":["めぐ.み","めぐ.む"],"onyomi":["チョウ"],"onyomiExamples":[{"example":"寵","reading":"チョウ","meaning":"favor, favour, affection"},{"example":"寵愛","reading":"チョウアイ","meaning":"favor, favour, affection"},{"example":"愛寵","reading":"アイチョウ","meaning":"favor, favour"},{"example":"聖寵","reading":"セイチョウ","meaning":"grace (of God)"}],"kunyomiExamples":[],"radical":{"symbol":"宀","meaning":"roof"},"parts":["宀","月","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23541_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bf5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bf5.gif","uri":"https://jisho.org/search/%E5%AF%B5%23kanji"}}
+{
+  "id": "寵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寵",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "affection, love, patronage",
+    "kunyomi": [
+      "めぐ.み",
+      "めぐ.む"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寵",
+        "reading": "チョウ",
+        "meaning": "favor, favour, affection"
+      },
+      {
+        "example": "寵愛",
+        "reading": "チョウアイ",
+        "meaning": "favor, favour, affection"
+      },
+      {
+        "example": "愛寵",
+        "reading": "アイチョウ",
+        "meaning": "favor, favour"
+      },
+      {
+        "example": "聖寵",
+        "reading": "セイチョウ",
+        "meaning": "grace (of God)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "宀",
+      "月",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23541_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bf5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bf5.gif",
+    "uri": "https://jisho.org/search/%E5%AF%B5%23kanji"
+  }
+}

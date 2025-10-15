@@ -1,1 +1,47 @@
-{"id":"貘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"貘","found":true,"strokeCount":17,"meaning":"tapir","kunyomi":[],"onyomi":["バク","ミャク"],"onyomiExamples":[{"example":"獏","reading":"バク","meaning":"tapir (Tapirus spp.), mo (mythological Chinese chimera similar to a tapir, said to devour bad dreams)"},{"example":"アメリカ貘","reading":"アメリカバク","meaning":"Brazilian tapir (Tapir tapirus), lowland tapir"},{"example":"ベアード獏","reading":"ベアードバク","meaning":"Baird's tapir (Tapirus bairdii)"}],"kunyomiExamples":[],"radical":{"symbol":"豸","meaning":"cat, badger"},"parts":["大","日","艾","豸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35992_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c98.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c98.gif","uri":"https://jisho.org/search/%E8%B2%98%23kanji"}}
+{
+  "id": "貘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "貘",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "tapir",
+    "kunyomi": [],
+    "onyomi": [
+      "バク",
+      "ミャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "獏",
+        "reading": "バク",
+        "meaning": "tapir (Tapirus spp.), mo (mythological Chinese chimera similar to a tapir, said to devour bad dreams)"
+      },
+      {
+        "example": "アメリカ貘",
+        "reading": "アメリカバク",
+        "meaning": "Brazilian tapir (Tapirus terrestris), lowland tapir"
+      },
+      {
+        "example": "ベアード獏",
+        "reading": "ベアードバク",
+        "meaning": "Baird's tapir (Tapirus bairdii)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "豸",
+      "meaning": "cat, badger"
+    },
+    "parts": [
+      "大",
+      "日",
+      "艾",
+      "豸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35992_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c98.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c98.gif",
+    "uri": "https://jisho.org/search/%E8%B2%98%23kanji"
+  }
+}

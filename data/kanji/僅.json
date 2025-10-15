@@ -1,1 +1,66 @@
-{"id":"僅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"僅","found":true,"taughtIn":"junior high","strokeCount":12,"meaning":"a wee bit","kunyomi":["わず.か"],"onyomi":["キン","ゴン"],"onyomiExamples":[{"example":"僅々","reading":"キンキン","meaning":"only, just, merely, no more than"},{"example":"僅差","reading":"キンサ","meaning":"narrow margin, slim margin"},{"example":"僅々","reading":"キンキン","meaning":"only, just, merely, no more than"}],"kunyomiExamples":[{"example":"僅か","reading":"わずか","meaning":"a little, a few, small, slight, trifling, meagre, meager, narrow (margin), only, just, merely, no more than"},{"example":"僅かしか","reading":"わずかしか","meaning":"(nothing) but a little"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["一","二","化","口","土","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20677_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050c5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50c5.gif","uri":"https://jisho.org/search/%E5%83%85%23kanji"}}
+{
+  "id": "僅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "僅",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 12,
+    "meaning": "a wee bit",
+    "kunyomi": [
+      "わず.か"
+    ],
+    "onyomi": [
+      "キン",
+      "ゴン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "僅々",
+        "reading": "キンキン",
+        "meaning": "only, just, merely, no more than"
+      },
+      {
+        "example": "僅差",
+        "reading": "キンサ",
+        "meaning": "narrow margin, slim margin"
+      },
+      {
+        "example": "僅々",
+        "reading": "キンキン",
+        "meaning": "only, just, merely, no more than"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "僅か",
+        "reading": "わずか",
+        "meaning": "a little, a few, small, slight, trifling, meagre, meager, narrow (margin), only, just, merely, no more than"
+      },
+      {
+        "example": "僅かしか",
+        "reading": "わずかしか",
+        "meaning": "(nothing) but a little"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "一",
+      "二",
+      "化",
+      "口",
+      "土",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20677_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50c5.gif",
+    "uri": "https://jisho.org/search/%E5%83%85%23kanji"
+  }
+}

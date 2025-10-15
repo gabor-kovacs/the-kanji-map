@@ -1,1 +1,58 @@
-{"id":"訣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"訣","found":true,"strokeCount":11,"meaning":"separation, part, secret","kunyomi":["わかれ","わかれ.る"],"onyomi":["ケツ"],"onyomiExamples":[{"example":"決別","reading":"ケツベツ","meaning":"separation, farewell, parting"},{"example":"訣辞","reading":"ケツジ","meaning":"words of parting, farewells, goodbyes"},{"example":"永訣","reading":"エイケツ","meaning":"last farewell"},{"example":"要訣","reading":"ヨウケツ","meaning":"main point"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["ユ","二","人","大","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35363_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a23.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a23.gif","uri":"https://jisho.org/search/%E8%A8%A3%23kanji"}}
+{
+  "id": "訣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "訣",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "separation, part, secret",
+    "kunyomi": [
+      "わかれ",
+      "わかれ.る"
+    ],
+    "onyomi": [
+      "ケツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "決別",
+        "reading": "ケツベツ",
+        "meaning": "separation, farewell, parting"
+      },
+      {
+        "example": "訣辞",
+        "reading": "ケツジ",
+        "meaning": "words of parting, farewells, goodbyes"
+      },
+      {
+        "example": "永訣",
+        "reading": "エイケツ",
+        "meaning": "last farewell"
+      },
+      {
+        "example": "要訣",
+        "reading": "ヨウケツ",
+        "meaning": "main point"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "ユ",
+      "二",
+      "人",
+      "大",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35363_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a23.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a23.gif",
+    "uri": "https://jisho.org/search/%E8%A8%A3%23kanji"
+  }
+}

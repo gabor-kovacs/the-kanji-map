@@ -1,1 +1,42 @@
-{"id":"鑠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鑠","found":true,"strokeCount":23,"meaning":"melt, be charmed, captivated","kunyomi":["とろ.かす","と.かす"],"onyomi":["シャク"],"onyomiExamples":[{"example":"矍鑠","reading":"カクシャク","meaning":"vigorous (in old age), hale and hearty"}],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["冫","木","白","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37984_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09460.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9460.gif","uri":"https://jisho.org/search/%E9%91%A0%23kanji"}}
+{
+  "id": "鑠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑠",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "melt, be charmed, captivated",
+    "kunyomi": [
+      "とろ.かす",
+      "と.かす"
+    ],
+    "onyomi": [
+      "シャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "矍鑠",
+        "reading": "カクシャク",
+        "meaning": "vigorous (in old age), hale and hearty"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "冫",
+      "木",
+      "白",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37984_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09460.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9460.gif",
+    "uri": "https://jisho.org/search/%E9%91%A0%23kanji"
+  }
+}

@@ -1,1 +1,38 @@
-{"id":"忤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"忤","found":true,"strokeCount":7,"meaning":"insubordinate, stubborn, wrong","kunyomi":["さから.う","もと.る"],"onyomi":["ゴ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ノ","乞","十","干","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24548_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fe4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fe4.gif","uri":"https://jisho.org/search/%E5%BF%A4%23kanji"}}
+{
+  "id": "忤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "忤",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "insubordinate, stubborn, wrong",
+    "kunyomi": [
+      "さから.う",
+      "もと.る"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "十",
+      "干",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24548_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fe4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fe4.gif",
+    "uri": "https://jisho.org/search/%E5%BF%A4%23kanji"
+  }
+}

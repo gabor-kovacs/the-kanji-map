@@ -1,1 +1,58 @@
-{"id":"霖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霖","found":true,"strokeCount":16,"meaning":"long rainy spell","kunyomi":["ながあめ","ながめ"],"onyomi":["リン"],"onyomiExamples":[{"example":"霖雨","reading":"リンウ","meaning":"long spell of rain"},{"example":"梅霖","reading":"バイリン","meaning":"rainy season"},{"example":"秋霖","reading":"シュウリン","meaning":"long autumn rains, stationary autumn front"}],"kunyomiExamples":[{"example":"長雨","reading":"ながあめ","meaning":"long spell of rain"},{"example":"長雨","reading":"ながあめ","meaning":"long spell of rain"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["木","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38678_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09716.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9716.gif","uri":"https://jisho.org/search/%E9%9C%96%23kanji"}}
+{
+  "id": "霖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霖",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "long rainy spell",
+    "kunyomi": [
+      "ながあめ",
+      "ながめ"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霖雨",
+        "reading": "リンウ",
+        "meaning": "long spell of rain"
+      },
+      {
+        "example": "梅霖",
+        "reading": "バイリン",
+        "meaning": "rainy season"
+      },
+      {
+        "example": "秋霖",
+        "reading": "シュウリン",
+        "meaning": "long autumn rains, stationary autumn front"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "長雨",
+        "reading": "ながあめ",
+        "meaning": "long spell of rain"
+      },
+      {
+        "example": "長雨",
+        "reading": "ながあめ",
+        "meaning": "long spell of rain"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "木",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38678_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09716.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9716.gif",
+    "uri": "https://jisho.org/search/%E9%9C%96%23kanji"
+  }
+}

@@ -1,1 +1,48 @@
-{"id":"舅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"舅","found":true,"strokeCount":13,"meaning":"father-in-law","kunyomi":["しゅうと"],"onyomi":["キュウ"],"onyomiExamples":[{"example":"舅姑","reading":"キュウコ","meaning":"parents-in-law"},{"example":"外舅","reading":"ガイキュウ","meaning":"father-in-law (of the husband)"}],"kunyomiExamples":[{"example":"舅","reading":"しゅうと","meaning":"father-in-law"}],"radical":{"symbol":"臼","meaning":"mortar"},"parts":["力","田","臼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33285_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08205.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8205.gif","uri":"https://jisho.org/search/%E8%88%85%23kanji"}}
+{
+  "id": "舅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "舅",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "father-in-law",
+    "kunyomi": [
+      "しゅうと"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舅姑",
+        "reading": "キュウコ",
+        "meaning": "parents-in-law"
+      },
+      {
+        "example": "外舅",
+        "reading": "ガイキュウ",
+        "meaning": "father-in-law (of the husband)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "舅",
+        "reading": "しゅうと",
+        "meaning": "father-in-law"
+      }
+    ],
+    "radical": {
+      "symbol": "臼",
+      "meaning": "mortar"
+    },
+    "parts": [
+      "力",
+      "田",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33285_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08205.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8205.gif",
+    "uri": "https://jisho.org/search/%E8%88%85%23kanji"
+  }
+}

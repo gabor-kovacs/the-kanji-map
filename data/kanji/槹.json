@@ -1,1 +1,30 @@
-{"id":"槹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"槹","found":true,"strokeCount":15,"meaning":"well sweep","kunyomi":[],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["十","斗","木","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27129_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069f9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69f9.gif","uri":"https://jisho.org/search/%E6%A7%B9%23kanji"}}
+{
+  "id": "槹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槹",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "well sweep",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "十",
+      "斗",
+      "木",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27129_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69f9.gif",
+    "uri": "https://jisho.org/search/%E6%A7%B9%23kanji"
+  }
+}

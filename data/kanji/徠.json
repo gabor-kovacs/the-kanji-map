@@ -1,1 +1,35 @@
-{"id":"徠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"徠","found":true,"strokeCount":11,"meaning":"induce, encourage to come","kunyomi":["きた.す","きた.る","く.る"],"onyomi":["ライ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"彳","meaning":"step"},"parts":["ハ","人","彳","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24480_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fa0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fa0.gif","uri":"https://jisho.org/search/%E5%BE%A0%23kanji"}}
+{
+  "id": "徠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "徠",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "induce, encourage to come",
+    "kunyomi": [
+      "きた.す",
+      "きた.る",
+      "く.る"
+    ],
+    "onyomi": [
+      "ライ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "step"
+    },
+    "parts": [
+      "ハ",
+      "人",
+      "彳",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24480_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fa0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fa0.gif",
+    "uri": "https://jisho.org/search/%E5%BE%A0%23kanji"
+  }
+}

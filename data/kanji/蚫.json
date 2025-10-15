@@ -1,1 +1,37 @@
-{"id":"蚫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蚫","found":true,"strokeCount":11,"meaning":"abalone, dried fish, surname","kunyomi":["あわび"],"onyomi":["ホウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鮑","reading":"あわび","meaning":"abalone, ear shell"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["勹","已","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34475_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086ab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86ab.gif","uri":"https://jisho.org/search/%E8%9A%AB%23kanji"}}
+{
+  "id": "蚫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蚫",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "abalone, dried fish, surname",
+    "kunyomi": [
+      "あわび"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鮑",
+        "reading": "あわび",
+        "meaning": "abalone, ear shell"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "勹",
+      "已",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34475_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86ab.gif",
+    "uri": "https://jisho.org/search/%E8%9A%AB%23kanji"
+  }
+}

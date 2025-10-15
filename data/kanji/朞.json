@@ -1,1 +1,31 @@
-{"id":"朞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"朞","found":true,"strokeCount":12,"meaning":"one period","kunyomi":[],"onyomi":["キ","ゴ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"月","meaning":"moon, month"},"parts":["ハ","一","月","甘"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26398_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0671e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/671e.gif","uri":"https://jisho.org/search/%E6%9C%9E%23kanji"}}
+{
+  "id": "朞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朞",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "one period",
+    "kunyomi": [],
+    "onyomi": [
+      "キ",
+      "ゴ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "月",
+      "meaning": "moon, month"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "月",
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26398_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0671e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/671e.gif",
+    "uri": "https://jisho.org/search/%E6%9C%9E%23kanji"
+  }
+}

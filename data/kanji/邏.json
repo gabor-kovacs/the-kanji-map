@@ -1,1 +1,55 @@
-{"id":"邏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"邏","found":true,"strokeCount":23,"meaning":"go around, conceal","kunyomi":["めぐ.る"],"onyomi":["ラ"],"onyomiExamples":[{"example":"邏卒","reading":"ラソツ","meaning":"serviceman on patrol, policeman (early Meiji era)"},{"example":"警ら","reading":"ケイラ","meaning":"patrol"},{"example":"巡邏","reading":"ジュンラ","meaning":"patrolling, making one's rounds"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["小","幺","糸","買","込","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37007_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0908f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/908f.gif","uri":"https://jisho.org/search/%E9%82%8F%23kanji"}}
+{
+  "id": "邏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "邏",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "go around, conceal",
+    "kunyomi": [
+      "めぐ.る"
+    ],
+    "onyomi": [
+      "ラ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "邏卒",
+        "reading": "ラソツ",
+        "meaning": "serviceman on patrol, policeman (early Meiji era)"
+      },
+      {
+        "example": "警ら",
+        "reading": "ケイラ",
+        "meaning": "patrol"
+      },
+      {
+        "example": "巡邏",
+        "reading": "ジュンラ",
+        "meaning": "patrolling, making one's rounds"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "糸",
+      "買",
+      "込",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37007_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0908f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/908f.gif",
+    "uri": "https://jisho.org/search/%E9%82%8F%23kanji"
+  }
+}

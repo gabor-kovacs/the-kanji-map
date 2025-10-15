@@ -1,1 +1,349 @@
-{"id":"火","kanjialiveData":{"kanji":{"character":"火","meaning":{"english":"fire"},"strokes":{"count":4,"timings":[1.445,2.066,2.999,4.733,5.333333],"images":["https://media.kanjialive.com/kanji_strokes/ka-hi_1.svg","https://media.kanjialive.com/kanji_strokes/ka-hi_2.svg","https://media.kanjialive.com/kanji_strokes/ka-hi_3.svg","https://media.kanjialive.com/kanji_strokes/ka-hi_4.svg"]},"onyomi":{"romaji":"ka","katakana":"カ"},"kunyomi":{"romaji":"hi","hiragana":"ひ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ka-hi_4.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ka-hi_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ka-hi_00.webm"}},"radical":{"character":"⽕","strokes":4,"image":"https://media.kanjialive.com/radical_character/hi-fire.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"ひ","romaji":"hi"},"meaning":{"english":"fire"},"animation":["https://media.kanjialive.com/rad_frames/hi-fire0.svg","https://media.kanjialive.com/rad_frames/hi-fire1.svg","https://media.kanjialive.com/rad_frames/hi-fire2.svg"]},"references":{"grade":1,"kodansha":"2159","classic_nelson":"2743"},"examples":[{"japanese":"火事（かじ）","meaning":{"english":"fire"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka-hi_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka-hi_06_a.mp3"}},{"japanese":"火力（かりょく）","meaning":{"english":"thermal power"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka-hi_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka-hi_06_b.mp3"}},{"japanese":"火曜日（かようび）","meaning":{"english":"Tuesday"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka-hi_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka-hi_06_c.mp3"}},{"japanese":"火（ひ）","meaning":{"english":"flame, fire"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka-hi_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka-hi_06_d.mp3"}},{"japanese":"花火（はなび）","meaning":{"english":"fireworks"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ka-hi_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ka-hi_06_e.mp3"}}]},"jishoData":{"query":"火","found":true,"taughtIn":"grade 1","jlptLevel":"N5","newspaperFrequencyRank":"574","strokeCount":4,"meaning":"fire","kunyomi":["ひ","-び","ほ-"],"onyomi":["カ"],"onyomiExamples":[{"example":"火","reading":"カ","meaning":"Tuesday, fire (second of the five elements)"},{"example":"火炎瓶","reading":"カエンビン","meaning":"Molotov cocktail, petrol bomb, gasoline bomb"},{"example":"発火","reading":"ハッカ","meaning":"ignition, catching fire, firing (e.g. gun), discharging"},{"example":"小火","reading":"ボヤ","meaning":"small fire"}],"kunyomiExamples":[{"example":"火","reading":"ひ","meaning":"fire, flame, blaze"},{"example":"火を見るより明らかである","reading":"ひをみるよりあきらかである","meaning":"to be as plain as daylight, to be as clear as day"},{"example":"飛び火","reading":"とびひ","meaning":"leaping flames, flying sparks, spread of fire (due to leaping flames), repercussions in unanticipated areas, spilling over, effects of an incident spreading to those seemingly uninvolved, impetigo contagiosa"},{"example":"不知火","reading":"しらぬい","meaning":"phosphorescent light, mysterious lights on the sea, sea fire"}],"radical":{"symbol":"火","forms":["灬"],"meaning":"fire"},"parts":["火"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28779_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0706b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/706b.gif","uri":"https://jisho.org/search/%E7%81%AB%23kanji"}}
+{
+  "id": "火",
+  "kanjialiveData": {
+    "_id": "54317ae9791eba5146ee49d7",
+    "_rev": "10-73a52fbc901abf817c7e209fc24df9f5",
+    "rad_name_ja": "ひ",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "hi",
+    "meaning": "fire",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "火事（かじ）",
+        "meaning": {
+          "english": "fire"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka-hi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka-hi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "火力（かりょく）",
+        "meaning": {
+          "english": "thermal power"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka-hi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka-hi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "火曜日（かようび）",
+        "meaning": {
+          "english": "Tuesday"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka-hi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka-hi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "火（ひ）",
+        "meaning": {
+          "english": "flame, fire"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka-hi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka-hi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "花火（はなび）",
+        "meaning": {
+          "english": "fireworks"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ka-hi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ka-hi_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ひ",
+    "ka_utf": "火",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=火",
+    "rad_name_search": [
+      "hi"
+    ],
+    "rad_order": 110,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAd1"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAP"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "5"
+      },
+      {
+        "txt_bk": "txtLookLearn",
+        "chapter": "2"
+      }
+    ],
+    "kname": "ka-hi",
+    "rad_utf": "⽕",
+    "stroketimes": [
+      1.445,
+      2.066,
+      2.999,
+      4.733,
+      5.333333
+    ],
+    "kunyomi_ka_display": "ひ",
+    "dick": "2159",
+    "rad_name": "hi",
+    "dicn": "2743",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 4,
+    "onyomi_ja": "カ",
+    "rad_meaning": "fire",
+    "onyomi": "ka",
+    "ka_id": "ka_29",
+    "onyomi_search": [
+      "ka",
+      "ka"
+    ],
+    "kunyomi_search": [
+      "hi",
+      "hi"
+    ],
+    "meaning_search": [
+      "fire",
+      "fire"
+    ],
+    "onyomi_ja_search": [
+      "カ",
+      "カ"
+    ],
+    "kunyomi_ja_search": [
+      "ひ",
+      "ひ"
+    ],
+    "rad_meaning_search": [
+      "fire",
+      "fire"
+    ],
+    "rad_name_ja_search": [
+      "ひ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:8",
+      "cij:c8",
+      "bk",
+      "bk:2",
+      "bk:c2",
+      "aij3",
+      "aij3:15",
+      "aij3:c15",
+      "aij3:v1",
+      "aij3:v1:15",
+      "aij3:v1:c15",
+      "kll",
+      "kll:2",
+      "kll:c2",
+      "gen",
+      "gen:4",
+      "gen:c4",
+      "ap",
+      "ap:2",
+      "ap:c2",
+      "aij4",
+      "aij4:5",
+      "aij4:c5",
+      "aij4:v1",
+      "aij4:v1:5",
+      "aij4:v1:c5"
+    ],
+    "rad_name_file": "hi-fire",
+    "kanji": {
+      "character": "火",
+      "meaning": {
+        "english": "fire"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          1.445,
+          2.066,
+          2.999,
+          4.733,
+          5.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ka-hi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka-hi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka-hi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ka-hi_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ka",
+        "katakana": "カ"
+      },
+      "kunyomi": {
+        "romaji": "hi",
+        "hiragana": "ひ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ka-hi_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ka-hi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ka-hi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽕",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/hi-fire.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ひ",
+        "romaji": "hi"
+      },
+      "meaning": {
+        "english": "fire"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hi-fire0.svg",
+        "https://media.kanjialive.com/rad_frames/hi-fire1.svg",
+        "https://media.kanjialive.com/rad_frames/hi-fire2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "2159",
+      "classic_nelson": "2743"
+    }
+  },
+  "jishoData": {
+    "query": "火",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "574",
+    "strokeCount": 4,
+    "meaning": "fire",
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "ほ-"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "火",
+        "reading": "カ",
+        "meaning": "Tuesday, fire (second of the five elements)"
+      },
+      {
+        "example": "火炎瓶",
+        "reading": "カエンビン",
+        "meaning": "Molotov cocktail, petrol bomb, gasoline bomb"
+      },
+      {
+        "example": "発火",
+        "reading": "ハッカ",
+        "meaning": "ignition, combustion, catching fire, firing a blank cartridge, discharge of a gun without bullets, firing (of an event), triggering"
+      },
+      {
+        "example": "点火",
+        "reading": "テンカ",
+        "meaning": "ignition, lighting, firing, setting off"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "火",
+        "reading": "ひ",
+        "meaning": "fire, flame, blaze"
+      },
+      {
+        "example": "火口",
+        "reading": "ひぐち",
+        "meaning": "burner, nozzle, origin of a fire"
+      },
+      {
+        "example": "飛び火",
+        "reading": "とびひ",
+        "meaning": "leaping flames, flying sparks, spread of fire (due to leaping flames), repercussions in unanticipated areas, spilling over, effects of an incident spreading to those seemingly uninvolved, impetigo contagiosa"
+      },
+      {
+        "example": "不知火",
+        "reading": "しらぬい",
+        "meaning": "phosphorescent light, mysterious lights on the sea, sea fire"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "fire"
+    },
+    "parts": [
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28779_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0706b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/706b.gif",
+    "uri": "https://jisho.org/search/%E7%81%AB%23kanji"
+  }
+}

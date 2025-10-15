@@ -1,1 +1,64 @@
-{"id":"桁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"桁","found":true,"taughtIn":"junior high","strokeCount":10,"meaning":"beam, girder, spar, unit or column (accounting)","kunyomi":["けた"],"onyomi":["コウ"],"onyomiExamples":[{"example":"桁端","reading":"コウタン","meaning":"yardarm"},{"example":"衣桁","reading":"イコウ","meaning":"clothes rack"}],"kunyomiExamples":[{"example":"桁","reading":"けた","meaning":"column, beam, girder, crossbeam, spar, yard, digit, decade, order of magnitude"},{"example":"桁上り","reading":"けたあがり","meaning":"carry (of digit, bit, etc.)"},{"example":"有効桁","reading":"ゆうこうけた","meaning":"significant digit"},{"example":"五桁","reading":"ごけた","meaning":"five-digit number, \"ten thousands\" column"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["彳","木","行"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26689_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06841.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6841.gif","uri":"https://jisho.org/search/%E6%A1%81%23kanji"}}
+{
+  "id": "桁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桁",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 10,
+    "meaning": "beam, girder, spar, unit or column (accounting)",
+    "kunyomi": [
+      "けた"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桁端",
+        "reading": "コウタン",
+        "meaning": "yardarm"
+      },
+      {
+        "example": "衣桁",
+        "reading": "イコウ",
+        "meaning": "clothes rack"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "桁",
+        "reading": "けた",
+        "meaning": "column, beam, girder, crossbeam, spar, yard, digit, decade, order of magnitude"
+      },
+      {
+        "example": "桁上り",
+        "reading": "けたあがり",
+        "meaning": "carry (of digit, bit, etc.)"
+      },
+      {
+        "example": "有効桁",
+        "reading": "ゆうこうけた",
+        "meaning": "significant digit"
+      },
+      {
+        "example": "翼桁",
+        "reading": "よくけた",
+        "meaning": "(wing) spar"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "彳",
+      "木",
+      "行"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26689_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06841.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6841.gif",
+    "uri": "https://jisho.org/search/%E6%A1%81%23kanji"
+  }
+}

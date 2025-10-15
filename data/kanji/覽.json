@@ -1,1 +1,32 @@
-{"id":"覽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"覽","found":true,"strokeCount":22,"meaning":"look at, inspect, perceive","kunyomi":["み.る"],"onyomi":["ラン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"見","meaning":"see"},"parts":["乞","臣","見","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35261_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089bd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89bd.gif","uri":"https://jisho.org/search/%E8%A6%BD%23kanji"}}
+{
+  "id": "覽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覽",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "look at, inspect, perceive",
+    "kunyomi": [
+      "み.る"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "見",
+      "meaning": "see"
+    },
+    "parts": [
+      "乞",
+      "臣",
+      "見",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35261_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089bd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89bd.gif",
+    "uri": "https://jisho.org/search/%E8%A6%BD%23kanji"
+  }
+}

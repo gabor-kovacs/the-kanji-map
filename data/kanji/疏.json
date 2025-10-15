@@ -1,1 +1,73 @@
-{"id":"疏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"疏","found":true,"strokeCount":12,"meaning":"pass through, note, commentary, estrangement, sparseness, neglect, penetrate","kunyomi":["あら.い","うと.い","うと.む","とお.る","とお.す","まばら"],"onyomi":["ソ","ショ"],"onyomiExamples":[{"example":"疏","reading":"ソ","meaning":"detailed commentary, explanation, annotation, memorial to the throne (esp. itemized)"},{"example":"疎通","reading":"ソツウ","meaning":"(mutual) understanding, communication, passing without obstruction"},{"example":"注疏","reading":"チュウソ","meaning":"(detailed) commentary, notes, comments"},{"example":"上疏","reading":"ジョウソ","meaning":"reporting to the emperor"},{"example":"疏","reading":"ソ","meaning":"detailed commentary, explanation, annotation, memorial to the throne (esp. itemized)"}],"kunyomiExamples":[{"example":"疎ら","reading":"まばら","meaning":"sparse, thin, scattered, straggling, sporadic"}],"radical":{"symbol":"疋","forms":["⺪"],"meaning":"bolt of cloth"},"parts":["亠","厶","川","止"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30095_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0758f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/758f.gif","uri":"https://jisho.org/search/%E7%96%8F%23kanji"}}
+{
+  "id": "疏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "疏",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "pass through, note, commentary, estrangement, sparseness, neglect, penetrate",
+    "kunyomi": [
+      "あら.い",
+      "うと.い",
+      "うと.む",
+      "とお.る",
+      "とお.す",
+      "まばら"
+    ],
+    "onyomi": [
+      "ソ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "疏",
+        "reading": "ソ",
+        "meaning": "detailed commentary, explanation, annotation, memorial to the throne (esp. itemized)"
+      },
+      {
+        "example": "疎通",
+        "reading": "ソツウ",
+        "meaning": "(mutual) understanding, communication, passing without obstruction"
+      },
+      {
+        "example": "注疏",
+        "reading": "チュウソ",
+        "meaning": "(detailed) commentary, notes, comments"
+      },
+      {
+        "example": "上疏",
+        "reading": "ジョウソ",
+        "meaning": "reporting to the emperor"
+      },
+      {
+        "example": "疏",
+        "reading": "ソ",
+        "meaning": "detailed commentary, explanation, annotation, memorial to the throne (esp. itemized)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "疎ら",
+        "reading": "まばら",
+        "meaning": "sparse, thin, scattered, straggling, sporadic"
+      }
+    ],
+    "radical": {
+      "symbol": "疋",
+      "forms": [
+        "⺪"
+      ],
+      "meaning": "bolt of cloth"
+    },
+    "parts": [
+      "亠",
+      "厶",
+      "川",
+      "止"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30095_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0758f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/758f.gif",
+    "uri": "https://jisho.org/search/%E7%96%8F%23kanji"
+  }
+}

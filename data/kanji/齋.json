@@ -1,1 +1,42 @@
-{"id":"齋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"齋","found":true,"strokeCount":17,"meaning":"Buddhist food, room, religious purification, worship, avoid, alike","kunyomi":["つつし.む","とき","ものいみ"],"onyomi":["サイ"],"onyomiExamples":[{"example":"羅漢斎","reading":"ラカンサイ","meaning":"Buddha's delight (vegetarian dish)"}],"kunyomiExamples":[],"radical":{"symbol":"齊","meaning":"even, uniformly"},"parts":["元","刀","小","廾","氏","齊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40779_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f4b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f4b.gif","uri":"https://jisho.org/search/%E9%BD%8B%23kanji"}}
+{
+  "id": "齋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齋",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "Buddhist food, room, religious purification, worship, avoid, alike",
+    "kunyomi": [
+      "つつし.む",
+      "とき",
+      "ものいみ"
+    ],
+    "onyomi": [
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "羅漢斎",
+        "reading": "ラカンサイ",
+        "meaning": "Buddha's delight (vegetarian dish)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "齊",
+      "meaning": "even, uniformly"
+    },
+    "parts": [
+      "元",
+      "刀",
+      "小",
+      "廾",
+      "氏",
+      "齊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40779_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f4b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f4b.gif",
+    "uri": "https://jisho.org/search/%E9%BD%8B%23kanji"
+  }
+}

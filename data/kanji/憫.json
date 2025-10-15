@@ -1,1 +1,69 @@
-{"id":"憫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"憫","found":true,"strokeCount":15,"meaning":"anxiety, mercy","kunyomi":["あわれ.む","うれ.える"],"onyomi":["ビン","ミン"],"onyomiExamples":[{"example":"憫察","reading":"ビンサツ","meaning":"taking pity upon, sympathy, compassion"},{"example":"憫笑","reading":"ビンショウ","meaning":"smiling with pity"},{"example":"哀愍","reading":"アイビン","meaning":"pity"},{"example":"不憫","reading":"フビン","meaning":"poor, pitiful, piteous, pitiable"},{"example":"哀愍","reading":"アイビン","meaning":"pity"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["忙","文","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25003_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061ab.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61ab.gif","uri":"https://jisho.org/search/%E6%86%AB%23kanji"}}
+{
+  "id": "憫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憫",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "anxiety, mercy",
+    "kunyomi": [
+      "あわれ.む",
+      "うれ.える"
+    ],
+    "onyomi": [
+      "ビン",
+      "ミン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憫察",
+        "reading": "ビンサツ",
+        "meaning": "taking pity upon, sympathy, compassion"
+      },
+      {
+        "example": "憫笑",
+        "reading": "ビンショウ",
+        "meaning": "smiling with pity"
+      },
+      {
+        "example": "哀愍",
+        "reading": "アイビン",
+        "meaning": "pity"
+      },
+      {
+        "example": "不憫",
+        "reading": "フビン",
+        "meaning": "poor, pitiful, piteous, pitiable"
+      },
+      {
+        "example": "哀愍",
+        "reading": "アイビン",
+        "meaning": "pity"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "哀れむ",
+        "reading": "あわれむ",
+        "meaning": "to pity, to feel sympathy for, to sympathize with, to sympathise with, to commiserate with, to have mercy on, to enjoy the beauty of, to appreciate, to admire"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "忙",
+      "文",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25003_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61ab.gif",
+    "uri": "https://jisho.org/search/%E6%86%AB%23kanji"
+  }
+}

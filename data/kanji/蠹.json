@@ -1,1 +1,40 @@
-{"id":"蠹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蠹","found":true,"strokeCount":24,"meaning":"moth, insects which eat into clot","kunyomi":["きくいむし"],"onyomi":["ト"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["一","冖","口","石","虫","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34873_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08839.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8839.gif","uri":"https://jisho.org/search/%E8%A0%B9%23kanji"}}
+{
+  "id": "蠹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蠹",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "moth, insects which eat into clot",
+    "kunyomi": [
+      "きくいむし"
+    ],
+    "onyomi": [
+      "ト"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "木食い虫",
+        "reading": "きくいむし",
+        "meaning": "bark beetle (Scolytidae spp.), gribble (Limnoria lignorum), grain borer, wood borer"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "一",
+      "冖",
+      "口",
+      "石",
+      "虫",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34873_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08839.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8839.gif",
+    "uri": "https://jisho.org/search/%E8%A0%B9%23kanji"
+  }
+}

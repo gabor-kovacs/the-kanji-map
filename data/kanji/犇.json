@@ -1,1 +1,45 @@
-{"id":"犇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"犇","found":true,"strokeCount":12,"meaning":"clamour, crowded","kunyomi":["ひし.めく","ひしひし","はし.る"],"onyomi":["ホン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"犇めく","reading":"ひしめく","meaning":"to clamour, to crowd, to jostle"},{"example":"犇犇","reading":"ひしひし","meaning":"acutely (feel), keenly, severely, tightly, hard"}],"radical":{"symbol":"牛","forms":["牜"],"meaning":"cow"},"parts":["牛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29319_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07287.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7287.gif","uri":"https://jisho.org/search/%E7%8A%87%23kanji"}}
+{
+  "id": "犇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "犇",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "clamour, crowded",
+    "kunyomi": [
+      "ひし.めく",
+      "ひしひし",
+      "はし.る"
+    ],
+    "onyomi": [
+      "ホン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "犇めく",
+        "reading": "ひしめく",
+        "meaning": "to clamour, to crowd, to jostle"
+      },
+      {
+        "example": "犇々",
+        "reading": "ひしひし",
+        "meaning": "acutely (feel), keenly, severely, tightly, hard"
+      }
+    ],
+    "radical": {
+      "symbol": "牛",
+      "forms": [
+        "牜"
+      ],
+      "meaning": "cow"
+    },
+    "parts": [
+      "牛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29319_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07287.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7287.gif",
+    "uri": "https://jisho.org/search/%E7%8A%87%23kanji"
+  }
+}

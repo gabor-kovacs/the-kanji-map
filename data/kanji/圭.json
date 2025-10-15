@@ -1,1 +1,61 @@
-{"id":"圭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"圭","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1837","strokeCount":6,"meaning":"square jewel, corner, angle, edge","kunyomi":[],"onyomi":["ケイ","ケ"],"onyomiExamples":[{"example":"圭角","reading":"ケイカク","meaning":"rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"},{"example":"圭璧","reading":"ケイヘキ","meaning":"ritual jades worn by feudal lords in ancient China"},{"example":"刀圭","reading":"トウケイ","meaning":"doctor"},{"example":"尖形","reading":"センケイ","meaning":"pointed, pointy, acuminate"},{"example":"圭角","reading":"ケイカク","meaning":"rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"},{"example":"圭璧","reading":"ケイヘキ","meaning":"ritual jades worn by feudal lords in ancient China"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22317_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0572d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/572d.gif","uri":"https://jisho.org/search/%E5%9C%AD%23kanji"}}
+{
+  "id": "圭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "圭",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1837",
+    "strokeCount": 6,
+    "meaning": "square jewel, corner, angle, edge",
+    "kunyomi": [],
+    "onyomi": [
+      "ケイ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "圭角",
+        "reading": "ケイカク",
+        "meaning": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"
+      },
+      {
+        "example": "圭璧",
+        "reading": "ケイヘキ",
+        "meaning": "ritual jades worn by feudal lords in ancient China"
+      },
+      {
+        "example": "刀圭",
+        "reading": "トウケイ",
+        "meaning": "medicine, art of medicine, doctor, dispensing spoon"
+      },
+      {
+        "example": "尖形",
+        "reading": "センケイ",
+        "meaning": "pointed, pointy, acuminate"
+      },
+      {
+        "example": "圭角",
+        "reading": "ケイカク",
+        "meaning": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"
+      },
+      {
+        "example": "圭璧",
+        "reading": "ケイヘキ",
+        "meaning": "ritual jades worn by feudal lords in ancient China"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22317_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0572d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/572d.gif",
+    "uri": "https://jisho.org/search/%E5%9C%AD%23kanji"
+  }
+}

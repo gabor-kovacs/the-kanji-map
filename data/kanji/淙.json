@@ -1,1 +1,46 @@
-{"id":"淙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"淙","found":true,"strokeCount":11,"meaning":"sound of running water","kunyomi":[],"onyomi":["ソウ"],"onyomiExamples":[{"example":"淙々","reading":"ソウソウ","meaning":"gurgling, babbling, murmuring (stream, brook, etc...)"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["二","宀","小","汁","示"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28121_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dd9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dd9.gif","uri":"https://jisho.org/search/%E6%B7%99%23kanji"}}
+{
+  "id": "淙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淙",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "sound of running water",
+    "kunyomi": [],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淙々",
+        "reading": "ソウソウ",
+        "meaning": "murmuring (stream, brook, etc.), gurgling, babbling"
+      },
+      {
+        "example": "淙々",
+        "reading": "ソウソウ",
+        "meaning": "murmuring (stream, brook, etc.), gurgling, babbling"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "二",
+      "宀",
+      "小",
+      "汁",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28121_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dd9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dd9.gif",
+    "uri": "https://jisho.org/search/%E6%B7%99%23kanji"
+  }
+}

@@ -1,1 +1,49 @@
-{"id":"枉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"枉","found":true,"strokeCount":8,"meaning":"bend, curve, crooked, perverse, lean, forcibly, against one's will","kunyomi":["ま.げる","ま.がる","ま.げて"],"onyomi":["オウ"],"onyomiExamples":[{"example":"枉惑","reading":"オウワク","meaning":"trickery"},{"example":"冤枉","reading":"エンオウ","meaning":"false charge"}],"kunyomiExamples":[{"example":"曲げる","reading":"まげる","meaning":"to bend, to crook, to bow, to curve, to curl, to lean, to tilt, to incline, to slant, to bend (the truth), to distort, to twist, to pervert, to yield (a point), to depart (from a principle), to ignore (what one really thinks), to pawn"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["木","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26505_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06789.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6789.gif","uri":"https://jisho.org/search/%E6%9E%89%23kanji"}}
+{
+  "id": "枉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "枉",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "bend, curve, crooked, perverse, lean, forcibly, against one's will",
+    "kunyomi": [
+      "ま.げる",
+      "ま.がる",
+      "ま.げて"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "枉惑",
+        "reading": "オウワク",
+        "meaning": "trickery"
+      },
+      {
+        "example": "冤枉",
+        "reading": "エンオウ",
+        "meaning": "false charge"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "曲げる",
+        "reading": "まげる",
+        "meaning": "to bend, to crook, to bow, to curve, to curl, to lean, to tilt, to incline, to slant, to bend (the truth), to distort, to twist, to pervert, to yield (a point), to depart (from a principle), to ignore (what one really thinks), to pawn"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "木",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26505_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06789.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6789.gif",
+    "uri": "https://jisho.org/search/%E6%9E%89%23kanji"
+  }
+}

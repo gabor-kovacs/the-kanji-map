@@ -1,1 +1,60 @@
-{"id":"丼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"丼","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2088","strokeCount":5,"meaning":"bowl, bowl of food","kunyomi":["どんぶり"],"onyomi":["トン","タン","ショウ","セイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"丼","reading":"どんぶり","meaning":"porcelain bowl, donburi, bowl of meat, fish, etc. served over rice"},{"example":"どんぶり勘定","reading":"どんぶりかんじょう","meaning":"rough estimate, sloppy accounting, slapdash bookkeeping"},{"example":"開化丼","reading":"かいかどんぶり","meaning":"beef (or pork) and egg on rice"},{"example":"中華丼","reading":"ちゅうかどんぶり","meaning":"bowl of rice with a chop-suey-like mixture on it"}],"radical":{"symbol":"丶","meaning":"dot"},"parts":["ノ","丶","二","井","廾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20028_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e3c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e3c.gif","uri":"https://jisho.org/search/%E4%B8%BC%23kanji"}}
+{
+  "id": "丼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "丼",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2088",
+    "strokeCount": 5,
+    "meaning": "bowl, bowl of food",
+    "kunyomi": [
+      "どんぶり"
+    ],
+    "onyomi": [
+      "トン",
+      "タン",
+      "ショウ",
+      "セイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "丼",
+        "reading": "どんぶり",
+        "meaning": "porcelain bowl, donburi, bowl of meat, fish, etc. served over rice"
+      },
+      {
+        "example": "どんぶり勘定",
+        "reading": "どんぶりかんじょう",
+        "meaning": "rough estimate, sloppy accounting, slapdash bookkeeping"
+      },
+      {
+        "example": "開化丼",
+        "reading": "かいかどん",
+        "meaning": "bowl of rice topped with beef (or pork) and egg"
+      },
+      {
+        "example": "中華丼",
+        "reading": "ちゅうかどん",
+        "meaning": "bowl of rice topped with a chop-suey-like mixture"
+      }
+    ],
+    "radical": {
+      "symbol": "丶",
+      "meaning": "dot"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "二",
+      "井",
+      "廾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20028_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e3c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e3c.gif",
+    "uri": "https://jisho.org/search/%E4%B8%BC%23kanji"
+  }
+}

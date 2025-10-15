@@ -1,1 +1,54 @@
-{"id":"薙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"薙","found":true,"strokeCount":16,"meaning":"mow down (the enemy)","kunyomi":["な.ぐ","なぎ","か.る"],"onyomi":["テイ","チ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"薙ぐ","reading":"なぐ","meaning":"to mow down, to scythe down, to knock someone off their feet"},{"example":"なぎ倒す","reading":"なぎたおす","meaning":"to mow down, to cut down, to knock down, to defeat, to beat"},{"example":"薙刀","reading":"なぎなた","meaning":"naginata, polearm with a curved single-edged blade (similar to a glaive), naginata, martial art of wielding the naginata"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["乞","矢","艾","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34201_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08599.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8599.gif","uri":"https://jisho.org/search/%E8%96%99%23kanji"}}
+{
+  "id": "薙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薙",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "mow down (the enemy)",
+    "kunyomi": [
+      "な.ぐ",
+      "なぎ",
+      "か.る"
+    ],
+    "onyomi": [
+      "テイ",
+      "チ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "薙ぐ",
+        "reading": "なぐ",
+        "meaning": "to cut down (grass, etc.; by swinging a sickle, scythe, etc.), to mow"
+      },
+      {
+        "example": "なぎ倒す",
+        "reading": "なぎたおす",
+        "meaning": "to mow down, to cut down, to knock down, to defeat, to beat"
+      },
+      {
+        "example": "薙刀",
+        "reading": "なぎなた",
+        "meaning": "naginata, polearm with a curved single-edged blade (similar to a glaive), naginata, martial art of wielding the naginata"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "乞",
+      "矢",
+      "艾",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34201_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08599.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8599.gif",
+    "uri": "https://jisho.org/search/%E8%96%99%23kanji"
+  }
+}

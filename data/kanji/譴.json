@@ -1,1 +1,47 @@
-{"id":"譴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"譴","found":true,"strokeCount":21,"meaning":"reproach","kunyomi":["せめ.る"],"onyomi":["ケン"],"onyomiExamples":[{"example":"譴責","reading":"ケンセキ","meaning":"reprimand, rebuke, censure, reproof"},{"example":"天譴","reading":"テンケン","meaning":"divine punishment"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["一","口","言","込","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35700_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b74.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b74.gif","uri":"https://jisho.org/search/%E8%AD%B4%23kanji"}}
+{
+  "id": "譴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "譴",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "reproach",
+    "kunyomi": [
+      "せめ.る"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "譴責",
+        "reading": "ケンセキ",
+        "meaning": "reprimand, rebuke, censure, reproof"
+      },
+      {
+        "example": "天譴",
+        "reading": "テンケン",
+        "meaning": "divine punishment"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "一",
+      "口",
+      "言",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35700_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b74.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b74.gif",
+    "uri": "https://jisho.org/search/%E8%AD%B4%23kanji"
+  }
+}

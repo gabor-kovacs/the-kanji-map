@@ -1,1 +1,47 @@
-{"id":"浣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"浣","found":true,"strokeCount":10,"meaning":"wash","kunyomi":["あら.う"],"onyomi":["カン"],"onyomiExamples":[{"example":"浣腸","reading":"カンチョウ","meaning":"(giving an) enema"},{"example":"浣腸液","reading":"カンチョウエキ","meaning":"enema (solution)"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["二","儿","宀","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28003_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d63.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d63.gif","uri":"https://jisho.org/search/%E6%B5%A3%23kanji"}}
+{
+  "id": "浣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "浣",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "wash",
+    "kunyomi": [
+      "あら.う"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浣腸",
+        "reading": "カンチョウ",
+        "meaning": "enema"
+      },
+      {
+        "example": "浣腸液",
+        "reading": "カンチョウエキ",
+        "meaning": "enema (solution)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "二",
+      "儿",
+      "宀",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28003_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d63.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d63.gif",
+    "uri": "https://jisho.org/search/%E6%B5%A3%23kanji"
+  }
+}

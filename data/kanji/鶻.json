@@ -1,1 +1,41 @@
-{"id":"鶻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鶻","found":true,"strokeCount":21,"meaning":"falcon, eagle","kunyomi":["はやぶさ"],"onyomi":["コツ","カツ"],"onyomiExamples":[{"example":"回鶻","reading":"カイコツ","meaning":"Uighur, Uigur, Uygur"}],"kunyomiExamples":[],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["冂","冖","月","杰","骨","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40379_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dbb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dbb.gif","uri":"https://jisho.org/search/%E9%B6%BB%23kanji"}}
+{
+  "id": "鶻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鶻",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "falcon, eagle",
+    "kunyomi": [
+      "はやぶさ"
+    ],
+    "onyomi": [
+      "コツ",
+      "カツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "回鶻",
+        "reading": "カイコツ",
+        "meaning": "Uighur, Uigur, Uygur"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "冂",
+      "冖",
+      "月",
+      "杰",
+      "骨",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40379_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dbb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dbb.gif",
+    "uri": "https://jisho.org/search/%E9%B6%BB%23kanji"
+  }
+}

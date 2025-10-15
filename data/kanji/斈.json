@@ -1,1 +1,30 @@
-{"id":"斈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"斈","found":true,"strokeCount":7,"meaning":"learning, knowledge, school","kunyomi":["まな.ぶ"],"onyomi":["ガク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"文","meaning":"script, literature"},"parts":["子","文"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25992_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06588.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6588.gif","uri":"https://jisho.org/search/%E6%96%88%23kanji"}}
+{
+  "id": "斈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斈",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "learning, knowledge, school",
+    "kunyomi": [
+      "まな.ぶ"
+    ],
+    "onyomi": [
+      "ガク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "文",
+      "meaning": "script, literature"
+    },
+    "parts": [
+      "子",
+      "文"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25992_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06588.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6588.gif",
+    "uri": "https://jisho.org/search/%E6%96%88%23kanji"
+  }
+}

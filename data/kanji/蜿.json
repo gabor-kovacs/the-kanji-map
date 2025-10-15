@@ -1,1 +1,42 @@
-{"id":"蜿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蜿","found":true,"strokeCount":14,"meaning":"meandering","kunyomi":[],"onyomi":["エン","ワン"],"onyomiExamples":[{"example":"延々","reading":"エンエン","meaning":"forever, endlessly, on and on, meandering, wandering, winding, sinuous, serpentine, zigzagging"},{"example":"蜿々長蛇","reading":"エンエンチョウダ","meaning":"(a line, queue) being long and serpentine"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["卩","夕","宀","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34623_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0873f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/873f.gif","uri":"https://jisho.org/search/%E8%9C%BF%23kanji"}}
+{
+  "id": "蜿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜿",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "meandering",
+    "kunyomi": [],
+    "onyomi": [
+      "エン",
+      "ワン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "延々",
+        "reading": "エンエン",
+        "meaning": "endlessly, continuously, (going) on and on, meandering, winding, sinuous, serpentine"
+      },
+      {
+        "example": "蜿蜿長蛇",
+        "reading": "エンエンチョウダ",
+        "meaning": "long and serpentine (line, queue, etc.)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "卩",
+      "夕",
+      "宀",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34623_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0873f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/873f.gif",
+    "uri": "https://jisho.org/search/%E8%9C%BF%23kanji"
+  }
+}

@@ -1,1 +1,52 @@
-{"id":"厘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"厘","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1835","strokeCount":9,"meaning":"rin, 1/10 sen, 1/10 bu","kunyomi":[],"onyomi":["リン"],"onyomiExamples":[{"example":"厘","reading":"リン","meaning":"one-hundredth, 0.3 mm (one-hundredth of a sun), 0.1 percent (one-hundredth of a wari), 0.0375 grams (one-hundredth of a monme), rin (monetary unit; 0.001 yen)"},{"example":"厘毛","reading":"リンモウ","meaning":"farthing, trifle"},{"example":"毫釐","reading":"ゴウリ","meaning":"very small quantity"},{"example":"九分九厘","reading":"クブクリン","meaning":"ten to one, nine cases out of ten"}],"kunyomiExamples":[],"radical":{"symbol":"厂","meaning":"cliff"},"parts":["厂","里"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21400_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05398.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5398.gif","uri":"https://jisho.org/search/%E5%8E%98%23kanji"}}
+{
+  "id": "厘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "厘",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1835",
+    "strokeCount": 9,
+    "meaning": "rin, 1/10 sen, 1/10 bu",
+    "kunyomi": [],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "厘",
+        "reading": "リン",
+        "meaning": "one-hundredth, 0.3 mm (one-hundredth of a sun), 0.1 percent (one-hundredth of a wari), 0.0375 grams (one-hundredth of a monme), rin (monetary unit; 0.001 yen)"
+      },
+      {
+        "example": "厘毛",
+        "reading": "リンモウ",
+        "meaning": "farthing, trifle"
+      },
+      {
+        "example": "毫釐",
+        "reading": "ゴウリ",
+        "meaning": "very small quantity"
+      },
+      {
+        "example": "九分九厘",
+        "reading": "クブクリン",
+        "meaning": "almost certainly, in all probability, ten to one, in ninety-nine cases out of a hundred, near-completeness, near-perfection, ninety-nine percent (finished, etc.)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "厂",
+      "meaning": "cliff"
+    },
+    "parts": [
+      "厂",
+      "里"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21400_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05398.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5398.gif",
+    "uri": "https://jisho.org/search/%E5%8E%98%23kanji"
+  }
+}

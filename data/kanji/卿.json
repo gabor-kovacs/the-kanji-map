@@ -1,1 +1,73 @@
-{"id":"卿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"卿","found":true,"newspaperFrequencyRank":"2138","strokeCount":12,"meaning":"you, lord, secretary, state minister","kunyomi":["きみ"],"onyomi":["ケイ","キョウ"],"onyomiExamples":[{"example":"卿","reading":"キョウ","meaning":"Lord, Sir, state minister (under the ritsuryō system), you (in reference to someone of lower status)"},{"example":"慶雲","reading":"ケイウン","meaning":"auspicious cloud, Keiun era (704.5.10-708.1.11), Kyōun era"},{"example":"枢機卿","reading":"スウキキョウ","meaning":"cardinal (Catholic church)"},{"example":"公卿","reading":"クギョウ","meaning":"high-ranking court noble, senior court official, kugyō, three lords and nine ministers (of the ancient Chinese government)"},{"example":"卿","reading":"キョウ","meaning":"Lord, Sir, state minister (under the ritsuryō system), you (in reference to someone of lower status)"},{"example":"慶雲","reading":"ケイウン","meaning":"auspicious cloud, Keiun era (704.5.10-708.1.11), Kyōun era"},{"example":"枢機卿","reading":"スウキキョウ","meaning":"cardinal (Catholic church)"},{"example":"三卿","reading":"サンキョウ","meaning":"three secondary Tokugawa branch families (Tayasu, Shimizu, and Hitotsubashi)"}],"kunyomiExamples":[],"radical":{"symbol":"卩","meaning":"kneel"},"parts":["卩","艮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21375_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0537f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/537f.gif","uri":"https://jisho.org/search/%E5%8D%BF%23kanji"}}
+{
+  "id": "卿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卿",
+    "found": true,
+    "newspaperFrequencyRank": "2138",
+    "strokeCount": 12,
+    "meaning": "you, lord, secretary, state minister",
+    "kunyomi": [
+      "きみ"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "卿",
+        "reading": "ケイ",
+        "meaning": "you, you"
+      },
+      {
+        "example": "慶雲",
+        "reading": "ケイウン",
+        "meaning": "auspicious cloud, Keiun era (704.5.10-708.1.11), Kyōun era"
+      },
+      {
+        "example": "枢機卿",
+        "reading": "スウキキョウ",
+        "meaning": "cardinal (Catholic church)"
+      },
+      {
+        "example": "公卿",
+        "reading": "クギョウ",
+        "meaning": "high-ranking court noble, senior court official, kugyō, three lords and nine ministers (of the ancient Chinese government)"
+      },
+      {
+        "example": "卿",
+        "reading": "キョウ",
+        "meaning": "Lord, Sir, state minister (under the ritsuryō system)"
+      },
+      {
+        "example": "慶雲",
+        "reading": "ケイウン",
+        "meaning": "auspicious cloud, Keiun era (704.5.10-708.1.11), Kyōun era"
+      },
+      {
+        "example": "枢機卿",
+        "reading": "スウキキョウ",
+        "meaning": "cardinal (Catholic church)"
+      },
+      {
+        "example": "三卿",
+        "reading": "サンキョウ",
+        "meaning": "three secondary Tokugawa branch families (Tayasu, Shimizu, and Hitotsubashi)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "卩",
+      "meaning": "kneel"
+    },
+    "parts": [
+      "卩",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21375_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0537f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/537f.gif",
+    "uri": "https://jisho.org/search/%E5%8D%BF%23kanji"
+  }
+}

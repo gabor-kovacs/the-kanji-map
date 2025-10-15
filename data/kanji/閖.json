@@ -1,1 +1,30 @@
-{"id":"閖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"閖","found":true,"strokeCount":12,"meaning":"shake while rinsing, pan for gold, (kokuji)","kunyomi":["ゆり","ゆ.る","ゆ.れる"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"門","meaning":"gate"},"parts":["水","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38294_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09596.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9596.gif","uri":"https://jisho.org/search/%E9%96%96%23kanji"}}
+{
+  "id": "閖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閖",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "shake while rinsing, pan for gold, (kokuji)",
+    "kunyomi": [
+      "ゆり",
+      "ゆ.る",
+      "ゆ.れる"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "水",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38294_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09596.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9596.gif",
+    "uri": "https://jisho.org/search/%E9%96%96%23kanji"
+  }
+}

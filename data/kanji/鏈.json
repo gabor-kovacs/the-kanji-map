@@ -1,1 +1,40 @@
-{"id":"鏈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鏈","found":true,"strokeCount":19,"meaning":"chain, irons, connection","kunyomi":["くさり"],"onyomi":["レン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鎖","reading":"くさり","meaning":"chain, chains"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["車","込","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37832_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093c8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93c8.gif","uri":"https://jisho.org/search/%E9%8F%88%23kanji"}}
+{
+  "id": "鏈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鏈",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "chain, irons, connection",
+    "kunyomi": [
+      "くさり"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鎖",
+        "reading": "くさり",
+        "meaning": "chain, chains"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "車",
+      "込",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37832_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093c8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93c8.gif",
+    "uri": "https://jisho.org/search/%E9%8F%88%23kanji"
+  }
+}

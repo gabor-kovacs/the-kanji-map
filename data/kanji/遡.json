@@ -1,1 +1,61 @@
-{"id":"遡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遡","found":true,"taughtIn":"junior high","strokeCount":13,"meaning":"go upstream, retrace the past","kunyomi":["さかのぼ.る"],"onyomi":["ソ","サク"],"onyomiExamples":[{"example":"遡河魚","reading":"ソカギョ","meaning":"anadromous fish (fish that migrates upstream, e.g. salmon)"},{"example":"遡及","reading":"ソキュウ","meaning":"tracing back, retroactivity"},{"example":"遡源","reading":"サクゲン","meaning":"returning to the origin, going back to the beginning, retracing"}],"kunyomiExamples":[{"example":"遡る","reading":"さかのぼる","meaning":"to go upstream, to go back (in time, to origin), to date back to, to trace back to, to make retroactive"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["屮","并","月","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36961_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09061.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9061.gif","uri":"https://jisho.org/search/%E9%81%A1%23kanji"}}
+{
+  "id": "遡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遡",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 13,
+    "meaning": "go upstream, retrace the past",
+    "kunyomi": [
+      "さかのぼ.る"
+    ],
+    "onyomi": [
+      "ソ",
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遡河魚",
+        "reading": "ソカギョ",
+        "meaning": "anadromous fish (fish that migrates upstream, e.g. salmon)"
+      },
+      {
+        "example": "遡及",
+        "reading": "ソキュウ",
+        "meaning": "retroactivity, retroaction, being retroactive (to)"
+      },
+      {
+        "example": "遡源",
+        "reading": "サクゲン",
+        "meaning": "going to the source, tracing to the origin"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "遡る",
+        "reading": "さかのぼる",
+        "meaning": "to go upstream, to go up (a river), to go back (to the past or origin), to date back (to), to trace back (to), to be retroactive (to)"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "屮",
+      "并",
+      "月",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36961_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09061.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9061.gif",
+    "uri": "https://jisho.org/search/%E9%81%A1%23kanji"
+  }
+}

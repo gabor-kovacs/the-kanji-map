@@ -1,1 +1,79 @@
-{"id":"暁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"暁","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1924","strokeCount":12,"meaning":"daybreak, dawn, in the event","kunyomi":["あかつき","さと.る"],"onyomi":["ギョウ","キョウ"],"onyomiExamples":[{"example":"暁星","reading":"ギョウセイ","meaning":"morning star, Venus, rarity"},{"example":"暁鴉","reading":"ギョウア","meaning":"crow cawing in the morning, crows crying in the morning"},{"example":"早暁","reading":"ソウギョウ","meaning":"daybreak, dawn"},{"example":"通暁","reading":"ツウギョウ","meaning":"well versed, thorough knowledge"},{"example":"寒暁","reading":"カンギョウ","meaning":"cold winter dawn"}],"kunyomiExamples":[{"example":"暁","reading":"あかつき","meaning":"dawn, daybreak, event (e.g. \"in the event of ...\"), occasion, occurrence"},{"example":"暁起き","reading":"あかつきおき","meaning":"waking up just before daybreak"}],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["儿","十","廾","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26241_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06681.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6681.gif","uri":"https://jisho.org/search/%E6%9A%81%23kanji"}}
+{
+  "id": "暁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "暁",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1924",
+    "strokeCount": 12,
+    "meaning": "daybreak, dawn, in the event",
+    "kunyomi": [
+      "あかつき",
+      "さと.る"
+    ],
+    "onyomi": [
+      "ギョウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "暁星",
+        "reading": "ギョウセイ",
+        "meaning": "morning star, Venus, rarity"
+      },
+      {
+        "example": "暁鴉",
+        "reading": "ギョウア",
+        "meaning": "crow cawing in the morning, crows crying in the morning"
+      },
+      {
+        "example": "早暁",
+        "reading": "ソウギョウ",
+        "meaning": "daybreak, dawn"
+      },
+      {
+        "example": "通暁",
+        "reading": "ツウギョウ",
+        "meaning": "well versed, thorough knowledge"
+      },
+      {
+        "example": "払暁",
+        "reading": "フツギョウ",
+        "meaning": "dawn, daybreak"
+      },
+      {
+        "example": "寒暁",
+        "reading": "カンギョウ",
+        "meaning": "cold winter dawn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "暁",
+        "reading": "あかつき",
+        "meaning": "dawn, daybreak, event (e.g. \"in the event of ...\"), occasion, occurrence"
+      },
+      {
+        "example": "暁起き",
+        "reading": "あかつきおき",
+        "meaning": "waking up just before daybreak"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "儿",
+      "十",
+      "廾",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26241_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06681.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6681.gif",
+    "uri": "https://jisho.org/search/%E6%9A%81%23kanji"
+  }
+}

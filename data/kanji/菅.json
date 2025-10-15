@@ -1,1 +1,58 @@
-{"id":"菅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"菅","found":true,"newspaperFrequencyRank":"1562","strokeCount":11,"meaning":"sedge","kunyomi":["すげ"],"onyomi":["カン","ケン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"菅","reading":"すげ","meaning":"sedge (Cyperaceae spp., esp. members of genus Carex)"},{"example":"菅笠","reading":"すげがさ","meaning":"sedge-woven (bamboo) hat"},{"example":"夕菅","reading":"ゆうすげ","meaning":"daily lily"},{"example":"日光黄菅","reading":"にっこうきすげ","meaning":"day lily (Hemerocallis dumortierii), orange-yellow day lily, Nikko day lily"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["口","宀","艾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33733_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083c5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83c5.gif","uri":"https://jisho.org/search/%E8%8F%85%23kanji"}}
+{
+  "id": "菅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "菅",
+    "found": true,
+    "newspaperFrequencyRank": "1562",
+    "strokeCount": 11,
+    "meaning": "sedge",
+    "kunyomi": [
+      "すげ"
+    ],
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "菅",
+        "reading": "すげ",
+        "meaning": "sedge (Cyperaceae spp., esp. members of genus Carex)"
+      },
+      {
+        "example": "菅笠",
+        "reading": "すげがさ",
+        "meaning": "sedge-woven (bamboo) hat"
+      },
+      {
+        "example": "夕菅",
+        "reading": "ゆうすげ",
+        "meaning": "daily lily"
+      },
+      {
+        "example": "日光黄菅",
+        "reading": "にっこうきすげ",
+        "meaning": "day lily (Hemerocallis dumortierii), orange-yellow day lily, Nikko day lily"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "口",
+      "宀",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33733_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83c5.gif",
+    "uri": "https://jisho.org/search/%E8%8F%85%23kanji"
+  }
+}

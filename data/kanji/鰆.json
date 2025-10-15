@@ -1,1 +1,46 @@
-{"id":"鰆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鰆","found":true,"strokeCount":20,"meaning":"Spanish mackerel","kunyomi":["さわら"],"onyomi":["シュン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鰆","reading":"さわら","meaning":"Japanese Spanish mackerel (Scomberomorus niphonius)"},{"example":"梭子魚鰆","reading":"かますさわら","meaning":"wahoo (species of fish, Acanthocybium solandri)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["二","人","大","日","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39942_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c06.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c06.gif","uri":"https://jisho.org/search/%E9%B0%86%23kanji"}}
+{
+  "id": "鰆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰆",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "Spanish mackerel",
+    "kunyomi": [
+      "さわら"
+    ],
+    "onyomi": [
+      "シュン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鰆",
+        "reading": "さわら",
+        "meaning": "Japanese Spanish mackerel (Scomberomorus niphonius)"
+      },
+      {
+        "example": "【カマスサワラ】",
+        "reading": "wahoo (Acanthocybium solandri)",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "二",
+      "人",
+      "大",
+      "日",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39942_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c06.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c06.gif",
+    "uri": "https://jisho.org/search/%E9%B0%86%23kanji"
+  }
+}

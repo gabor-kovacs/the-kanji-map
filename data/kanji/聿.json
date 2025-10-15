@@ -1,1 +1,40 @@
-{"id":"聿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"聿","found":true,"strokeCount":6,"meaning":"brush, finally, self, relate, follow, here, fast, writing brush radical (no. 129)","kunyomi":["ふで","ここに"],"onyomi":["イチ","イツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"聿旁","reading":"ふでづくり","meaning":"kanji \"brush\" radical"}],"radical":{"symbol":"聿","forms":["⺻"],"meaning":"brush"},"parts":["聿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32895_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0807f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/807f.gif","uri":"https://jisho.org/search/%E8%81%BF%23kanji"}}
+{
+  "id": "聿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "聿",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "brush, finally, self, relate, follow, here, fast, writing brush radical (no. 129)",
+    "kunyomi": [
+      "ふで",
+      "ここに"
+    ],
+    "onyomi": [
+      "イチ",
+      "イツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "聿旁",
+        "reading": "ふでづくり",
+        "meaning": "kanji \"brush\" radical"
+      }
+    ],
+    "radical": {
+      "symbol": "聿",
+      "forms": [
+        "⺻"
+      ],
+      "meaning": "brush"
+    },
+    "parts": [
+      "聿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32895_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0807f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/807f.gif",
+    "uri": "https://jisho.org/search/%E8%81%BF%23kanji"
+  }
+}

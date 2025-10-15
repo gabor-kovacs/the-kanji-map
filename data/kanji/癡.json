@@ -1,1 +1,55 @@
-{"id":"癡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"癡","found":true,"strokeCount":19,"meaning":"foolish","kunyomi":["し.れる","おろか"],"onyomi":["チ"],"onyomiExamples":[{"example":"痴","reading":"チ","meaning":"foolishness, fool, moha (ignorance, folly)"},{"example":"愚痴","reading":"グチ","meaning":"idle complaint, grumble, moha (ignorance, folly)"},{"example":"無癡","reading":"ムチ","meaning":"no delusion"}],"kunyomiExamples":[],"radical":{"symbol":"疒","meaning":"sickness"},"parts":["乞","匕","疋","疔","矢"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30305_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07661.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7661.gif","uri":"https://jisho.org/search/%E7%99%A1%23kanji"}}
+{
+  "id": "癡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "癡",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "foolish",
+    "kunyomi": [
+      "し.れる",
+      "おろか"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "痴",
+        "reading": "チ",
+        "meaning": "foolishness, fool, moha (ignorance, folly)"
+      },
+      {
+        "example": "痴呆",
+        "reading": "チホウ",
+        "meaning": "dementia, stupidity, foolishness, fool, idiot"
+      },
+      {
+        "example": "愚痴",
+        "reading": "グチ",
+        "meaning": "idle complaint, grumble, moha (ignorance, folly)"
+      },
+      {
+        "example": "白痴",
+        "reading": "ハクチ",
+        "meaning": "idiot, idiocy, profound mental retardation"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "sickness"
+    },
+    "parts": [
+      "乞",
+      "匕",
+      "疋",
+      "疔",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30305_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07661.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7661.gif",
+    "uri": "https://jisho.org/search/%E7%99%A1%23kanji"
+  }
+}

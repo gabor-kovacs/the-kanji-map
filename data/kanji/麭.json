@@ -1,1 +1,39 @@
-{"id":"麭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"麭","found":true,"strokeCount":12,"meaning":"sticky rice ball","kunyomi":["こなもち"],"onyomi":["ホウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"麭","reading":"こなもち","meaning":"round dumpling (made of rice flour, etc.)"}],"radical":{"symbol":"麥","meaning":"wheat"},"parts":["人","勹","十","夂","已"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40621_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ead.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ead.gif","uri":"https://jisho.org/search/%E9%BA%AD%23kanji"}}
+{
+  "id": "麭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麭",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "sticky rice ball",
+    "kunyomi": [
+      "こなもち"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "麭",
+        "reading": "こなもち",
+        "meaning": "round dumpling (made of rice flour, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "麥",
+      "meaning": "wheat"
+    },
+    "parts": [
+      "人",
+      "勹",
+      "十",
+      "夂",
+      "已"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40621_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ead.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ead.gif",
+    "uri": "https://jisho.org/search/%E9%BA%AD%23kanji"
+  }
+}

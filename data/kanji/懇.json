@@ -1,1 +1,72 @@
-{"id":"懇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"懇","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1135","strokeCount":17,"meaning":"sociable, kind, courteous, hospitable, cordial","kunyomi":["ねんご.ろ"],"onyomi":["コン"],"onyomiExamples":[{"example":"懇談","reading":"コンダン","meaning":"informal talk"},{"example":"懇親","reading":"コンシン","meaning":"friendship, intimacy"},{"example":"米懇","reading":"ベイコン","meaning":"Round Table Conference on Rice Price"},{"example":"昵懇","reading":"ジッコン","meaning":"intimacy, familiarity, closeness"}],"kunyomiExamples":[{"example":"懇ろ","reading":"ねんごろ","meaning":"kind, courteous, hospitable, warmly respectful, intimate, becoming intimate, having an intimate relationship (sometimes esp. a homosexual relationship)"},{"example":"懇ろになる","reading":"ねんごろになる","meaning":"to become intimate with (e.g. a woman), to become acquainted"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["心","爪","犯","艮","豸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25031_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061c7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61c7.gif","uri":"https://jisho.org/search/%E6%87%87%23kanji"}}
+{
+  "id": "懇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懇",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1135",
+    "strokeCount": 17,
+    "meaning": "sociable, kind, courteous, hospitable, cordial",
+    "kunyomi": [
+      "ねんご.ろ"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "懇談",
+        "reading": "コンダン",
+        "meaning": "friendly chat, relaxed conversation, informal meeting"
+      },
+      {
+        "example": "懇親",
+        "reading": "コンシン",
+        "meaning": "friendship, intimacy"
+      },
+      {
+        "example": "米懇",
+        "reading": "ベイコン",
+        "meaning": "round table conference on rice price"
+      },
+      {
+        "example": "昵懇",
+        "reading": "ジッコン",
+        "meaning": "intimacy, familiarity, closeness"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "懇ろ",
+        "reading": "ねんごろ",
+        "meaning": "kind, courteous, hospitable, warmly respectful, intimate, becoming intimate, having an intimate relationship (sometimes esp. a homosexual relationship)"
+      },
+      {
+        "example": "懇ろになる",
+        "reading": "ねんごろになる",
+        "meaning": "to become intimate with (e.g. a woman), to become acquainted"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "心",
+      "爪",
+      "犯",
+      "艮",
+      "豸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25031_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061c7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61c7.gif",
+    "uri": "https://jisho.org/search/%E6%87%87%23kanji"
+  }
+}

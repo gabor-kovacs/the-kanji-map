@@ -1,1 +1,31 @@
-{"id":"垰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"垰","found":true,"strokeCount":9,"meaning":"mountain pass, ancient kuni, low ground, (kokuji)","kunyomi":["たわ","とうげ","たお","あくつ"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["卜","土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22448_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057b0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57b0.gif","uri":"https://jisho.org/search/%E5%9E%B0%23kanji"}}
+{
+  "id": "垰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "垰",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "mountain pass, ancient kuni, low ground, (kokuji)",
+    "kunyomi": [
+      "たわ",
+      "とうげ",
+      "たお",
+      "あくつ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "卜",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22448_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057b0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57b0.gif",
+    "uri": "https://jisho.org/search/%E5%9E%B0%23kanji"
+  }
+}

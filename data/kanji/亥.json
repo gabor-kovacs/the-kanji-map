@@ -1,1 +1,71 @@
-{"id":"亥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"亥","found":true,"jlptLevel":"N1","strokeCount":6,"meaning":"sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac","kunyomi":["い"],"onyomi":["ガイ","カイ"],"onyomiExamples":[{"example":"亥月","reading":"ガイゲツ","meaning":"tenth month of the lunar calendar"},{"example":"丁亥","reading":"テイガイ","meaning":"Fire Boar (24th term of the sexagenary cycle, e.g. 1947, 2007, 2067)"},{"example":"己亥","reading":"ツチノトイ","meaning":"Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"}],"kunyomiExamples":[{"example":"亥","reading":"い","meaning":"the Boar (twelfth sign of the Chinese zodiac), the Pig, hour of the Boar (around 10pm, 9-11pm, or 10pm to 12 midnight), north-northwest, tenth month of the lunar calendar"},{"example":"亥年","reading":"いどし","meaning":"year of the Boar, year of the Pig"},{"example":"丁亥","reading":"ていがい","meaning":"Fire Boar (24th term of the sexagenary cycle, e.g. 1947, 2007, 2067)"},{"example":"己亥","reading":"つちのとい","meaning":"Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"}],"radical":{"symbol":"亠","meaning":"lid"},"parts":["ノ","丶","亠","人"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20133_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ea5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ea5.gif","uri":"https://jisho.org/search/%E4%BA%A5%23kanji"}}
+{
+  "id": "亥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "亥",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 6,
+    "meaning": "sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac",
+    "kunyomi": [
+      "い"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "亥月",
+        "reading": "ガイゲツ",
+        "meaning": "tenth month of the lunar calendar"
+      },
+      {
+        "example": "丁亥",
+        "reading": "テイガイ",
+        "meaning": "Fire Boar (24th term of the sexagenary cycle, e.g. 1947, 2007, 2067)"
+      },
+      {
+        "example": "己亥",
+        "reading": "ツチノトイ",
+        "meaning": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "亥",
+        "reading": "い",
+        "meaning": "the Boar (twelfth sign of the Chinese zodiac), the Pig, hour of the Boar (around 10pm, 9-11pm, or 10pm to 12 midnight), north-northwest, tenth month of the lunar calendar"
+      },
+      {
+        "example": "亥年",
+        "reading": "いどし",
+        "meaning": "year of the Boar, year of the Pig"
+      },
+      {
+        "example": "丁亥",
+        "reading": "ていがい",
+        "meaning": "Fire Boar (24th term of the sexagenary cycle, e.g. 1947, 2007, 2067)"
+      },
+      {
+        "example": "己亥",
+        "reading": "つちのとい",
+        "meaning": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+      }
+    ],
+    "radical": {
+      "symbol": "亠",
+      "meaning": "lid"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20133_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ea5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ea5.gif",
+    "uri": "https://jisho.org/search/%E4%BA%A5%23kanji"
+  }
+}

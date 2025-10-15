@@ -1,1 +1,45 @@
-{"id":"楝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"楝","found":true,"strokeCount":13,"meaning":"Japanese bead tree","kunyomi":["おおち","おうち"],"onyomi":["レン"],"onyomiExamples":[{"example":"馬連","reading":"バレン","meaning":"baren, disk-shaped rubbing pad for pressing paper when making a print from a wood block"}],"kunyomiExamples":[{"example":"楝","reading":"おうち","meaning":"chinaberry, Japanese bead tree (Melia azedarach), light purple outside, green inside, purple outside, light purple inside, type of garment layering color scheme, worn in April and May"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ハ","亠","巾","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26973_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0695d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/695d.gif","uri":"https://jisho.org/search/%E6%A5%9D%23kanji"}}
+{
+  "id": "楝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楝",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "Japanese bead tree",
+    "kunyomi": [
+      "おおち",
+      "おうち"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "馬連",
+        "reading": "バレン",
+        "meaning": "baren, disk-shaped rubbing pad for pressing paper when making a print from a wood block"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "楝",
+        "reading": "おうち",
+        "meaning": "chinaberry, Japanese bead tree (Melia azedarach), light purple outside, green inside, purple outside, light purple inside, type of garment layering color scheme, worn in April and May"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "巾",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26973_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0695d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/695d.gif",
+    "uri": "https://jisho.org/search/%E6%A5%9D%23kanji"
+  }
+}

@@ -1,1 +1,43 @@
-{"id":"麁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"麁","found":true,"strokeCount":13,"meaning":"rough, crude, coarse","kunyomi":["あら.い"],"onyomi":["ソ"],"onyomiExamples":[{"example":"粗","reading":"ソ","meaning":"coarse, rough, crude, raw, unrefined"},{"example":"粗品","reading":"ソシナ","meaning":"small present, trifling gift, gift given out by companies to customers as a token of gratitude, marketing incentive, inferior goods, low-quality article"}],"kunyomiExamples":[],"radical":{"symbol":"鹿","meaning":"deer"},"parts":["勹","广","比","鹿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40577_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e81.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e81.gif","uri":"https://jisho.org/search/%E9%BA%81%23kanji"}}
+{
+  "id": "麁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麁",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "rough, crude, coarse",
+    "kunyomi": [
+      "あら.い"
+    ],
+    "onyomi": [
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "粗",
+        "reading": "ソ",
+        "meaning": "coarse, rough, crude, raw, unrefined"
+      },
+      {
+        "example": "粗品",
+        "reading": "ソシナ",
+        "meaning": "small present, trifling gift, gift given out by companies to customers as a token of gratitude, marketing incentive, inferior goods, low-quality article"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鹿",
+      "meaning": "deer"
+    },
+    "parts": [
+      "勹",
+      "广",
+      "比",
+      "鹿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40577_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e81.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e81.gif",
+    "uri": "https://jisho.org/search/%E9%BA%81%23kanji"
+  }
+}

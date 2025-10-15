@@ -1,1 +1,50 @@
-{"id":"兌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"兌","found":true,"strokeCount":7,"meaning":"exchange","kunyomi":["よろこ.ぶ"],"onyomi":["ダ","エイ","エツ","タイ"],"onyomiExamples":[{"example":"兌","reading":"ダ","meaning":"dui (one of the trigrams of the I Ching: swamp, west)"},{"example":"兌換","reading":"ダカン","meaning":"conversion (of paper money, esp. into specie)"},{"example":"発兌","reading":"ハツダ","meaning":"publication, printing"}],"kunyomiExamples":[],"radical":{"symbol":"儿","meaning":"legs"},"parts":["儿","口","并"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20812_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514c.gif","uri":"https://jisho.org/search/%E5%85%8C%23kanji"}}
+{
+  "id": "兌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "兌",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "exchange",
+    "kunyomi": [
+      "よろこ.ぶ"
+    ],
+    "onyomi": [
+      "ダ",
+      "エイ",
+      "エツ",
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "兌",
+        "reading": "ダ",
+        "meaning": "dui (one of the trigrams of the I Ching: swamp, west)"
+      },
+      {
+        "example": "兌換",
+        "reading": "ダカン",
+        "meaning": "conversion (of paper money, esp. into specie)"
+      },
+      {
+        "example": "発兌",
+        "reading": "ハツダ",
+        "meaning": "publication, printing"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "legs"
+    },
+    "parts": [
+      "儿",
+      "口",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20812_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514c.gif",
+    "uri": "https://jisho.org/search/%E5%85%8C%23kanji"
+  }
+}

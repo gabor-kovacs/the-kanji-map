@@ -1,1 +1,39 @@
-{"id":"沛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"沛","found":true,"strokeCount":8,"meaning":"big rain, swamp","kunyomi":[],"onyomi":["ハイ"],"onyomiExamples":[{"example":"沛然","reading":"ハイゼン","meaning":"torrential (rain)"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["亠","巾","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27803_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c9b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c9b.gif","uri":"https://jisho.org/search/%E6%B2%9B%23kanji"}}
+{
+  "id": "沛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沛",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "big rain, swamp",
+    "kunyomi": [],
+    "onyomi": [
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "沛然",
+        "reading": "ハイゼン",
+        "meaning": "torrential (rain)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "亠",
+      "巾",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27803_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c9b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c9b.gif",
+    "uri": "https://jisho.org/search/%E6%B2%9B%23kanji"
+  }
+}

@@ -1,1 +1,38 @@
-{"id":"彭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"彭","found":true,"newspaperFrequencyRank":"2409","strokeCount":12,"meaning":"swelling, sound of drum","kunyomi":[],"onyomi":["ホウ"],"onyomiExamples":[{"example":"澎湃","reading":"ホウハイ","meaning":"as the sound of surging water, vigorous, surging, welling"}],"kunyomiExamples":[],"radical":{"symbol":"彡","meaning":"bristle, beard"},"parts":["口","土","并","彡","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24429_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f6d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f6d.gif","uri":"https://jisho.org/search/%E5%BD%AD%23kanji"}}
+{
+  "id": "彭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彭",
+    "found": true,
+    "newspaperFrequencyRank": "2409",
+    "strokeCount": 12,
+    "meaning": "swelling, sound of drum",
+    "kunyomi": [],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "澎湃",
+        "reading": "ホウハイ",
+        "meaning": "as the sound of surging water, vigorous, surging, welling"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彡",
+      "meaning": "bristle, beard"
+    },
+    "parts": [
+      "口",
+      "土",
+      "并",
+      "彡",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24429_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f6d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f6d.gif",
+    "uri": "https://jisho.org/search/%E5%BD%AD%23kanji"
+  }
+}

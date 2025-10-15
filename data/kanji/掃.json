@@ -1,1 +1,300 @@
-{"id":"掃","kanjialiveData":{"kanji":{"character":"掃","meaning":{"english":"sweep"},"strokes":{"count":11,"timings":[0,1.4,3.2,4.6,6.333333,8.266667,9.733333,10.6,11.866667,13.333333,15.266667,17.6],"images":["https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_1.svg","https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_2.svg","https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_3.svg","https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_4.svg","https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_5.svg","https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_6.svg","https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_7.svg","https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_8.svg","https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_9.svg","https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_10.svg","https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_11.svg"]},"onyomi":{"romaji":"sou","katakana":"ソウ"},"kunyomi":{"romaji":"ha, haku","hiragana":"は"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/sou-ha(ku)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/sou-ha(ku)_00.webm"}},"radical":{"character":"⺘","strokes":3,"image":"https://media.kanjialive.com/radical_character/tehen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"てへん","romaji":"tehen"},"meaning":{"english":"hand"},"animation":["https://media.kanjialive.com/rad_frames/tehen0.svg","https://media.kanjialive.com/rad_frames/tehen1.svg","https://media.kanjialive.com/rad_frames/tehen2.svg"]},"references":{"grade":null,"kodansha":"372","classic_nelson":"1945"},"examples":[{"japanese":"掃除機（そうじき）","meaning":{"english":"vacuum cleaner"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_a.mp3"}},{"japanese":"掃除婦（そうじふ）","meaning":{"english":"cleaning lady"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_b.mp3"}},{"japanese":"掃除する（そうじする）","meaning":{"english":"clean [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_c.mp3"}},{"japanese":"清掃する（せいそうする）","meaning":{"english":"clean [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_d.mp3"}},{"japanese":"一掃する（いっそうする）","meaning":{"english":"make a clean sweep"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_e.mp3"}},{"japanese":"掃く（はく）","meaning":{"english":"sweep, brush"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_f.mp3"}}]},"jishoData":{"query":"掃","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"1255","strokeCount":11,"meaning":"sweep, brush","kunyomi":["は.く"],"onyomi":["ソウ","シュ"],"onyomiExamples":[{"example":"掃除","reading":"ソウジ","meaning":"cleaning, sweeping, dusting, scrubbing"},{"example":"掃海","reading":"ソウカイ","meaning":"sweeping the sea for mines, dragging for mines"}],"kunyomiExamples":[{"example":"掃く","reading":"はく","meaning":"to sweep, to brush, to clean, to gather silkworms"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ヨ","冖","巾","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25475_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06383.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6383.gif","uri":"https://jisho.org/search/%E6%8E%83%23kanji"}}
+{
+  "id": "掃",
+  "kanjialiveData": {
+    "_id": "54317adc791eba5146ee48e0",
+    "_rev": "11-082fe39e54749ca2f1a6beacaceaf88b",
+    "rad_name_ja": "てへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "ha, haku",
+    "meaning": "sweep",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "掃除機（そうじき）",
+        "meaning": {
+          "english": "vacuum cleaner"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "掃除婦（そうじふ）",
+        "meaning": {
+          "english": "cleaning lady"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "掃除する（そうじする）",
+        "meaning": {
+          "english": "clean [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "清掃する（せいそうする）",
+        "meaning": {
+          "english": "clean [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "一掃する（いっそうする）",
+        "meaning": {
+          "english": "make a clean sweep"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "掃く（はく）",
+        "meaning": {
+          "english": "sweep, brush"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-ha(ku)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-ha(ku)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-ha(ku)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-ha(ku)_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "は、はく",
+    "ka_utf": "掃",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=掃",
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_order": 77,
+    "txt_books": [],
+    "kname": "sou-ha(ku)",
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      1.4,
+      3.2,
+      4.6,
+      6.333333,
+      8.266667,
+      9.733333,
+      10.6,
+      11.866667,
+      13.333333,
+      15.266667,
+      17.6
+    ],
+    "kunyomi_ka_display": "は",
+    "dick": "372",
+    "rad_name": "tehen",
+    "dicn": "1945",
+    "mn_hint": "Activity 扌 with a broom 帚.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ソウ",
+    "rad_meaning": "hand",
+    "onyomi": "sou",
+    "ka_id": "ka_1179",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "sou",
+      "sou"
+    ],
+    "kunyomi_search": [
+      "ha",
+      "haku",
+      "ha, haku"
+    ],
+    "meaning_search": [
+      "sweep",
+      "sweep"
+    ],
+    "onyomi_ja_search": [
+      "ソウ",
+      "ソウ"
+    ],
+    "kunyomi_ja_search": [
+      "は",
+      "はく",
+      "は、はく"
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "掃",
+      "meaning": {
+        "english": "sweep"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1.4,
+          3.2,
+          4.6,
+          6.333333,
+          8.266667,
+          9.733333,
+          10.6,
+          11.866667,
+          13.333333,
+          15.266667,
+          17.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sou",
+        "katakana": "ソウ"
+      },
+      "kunyomi": {
+        "romaji": "ha, haku",
+        "hiragana": "は"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sou-ha(ku)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sou-ha(ku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sou-ha(ku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "hand"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "372",
+      "classic_nelson": "1945"
+    }
+  },
+  "jishoData": {
+    "query": "掃",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1255",
+    "strokeCount": 11,
+    "meaning": "sweep, brush",
+    "kunyomi": [
+      "は.く"
+    ],
+    "onyomi": [
+      "ソウ",
+      "シュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "掃除",
+        "reading": "ソウジ",
+        "meaning": "cleaning, sweeping, dusting, scrubbing"
+      },
+      {
+        "example": "掃海",
+        "reading": "ソウカイ",
+        "meaning": "sweeping the sea for mines, dragging for mines"
+      },
+      {
+        "example": "洒掃",
+        "reading": "サイソウ",
+        "meaning": "scrubbing (with water), cleaning"
+      },
+      {
+        "example": "特殊清掃",
+        "reading": "トクシュセイソウ",
+        "meaning": "special cleaning and disinfection (esp. after an accident or death), biohazard cleanup, crime scene cleanup"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "掃く",
+        "reading": "はく",
+        "meaning": "to sweep, to brush, to clean, to gather silkworms"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ヨ",
+      "冖",
+      "巾",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25475_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06383.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6383.gif",
+    "uri": "https://jisho.org/search/%E6%8E%83%23kanji"
+  }
+}

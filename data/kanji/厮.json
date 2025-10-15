@@ -1,1 +1,32 @@
-{"id":"厮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"厮","found":true,"strokeCount":14,"meaning":"cut, divide, companion, follower","kunyomi":["こもの"],"onyomi":["シ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"厂","meaning":"cliff"},"parts":["ハ","厂","斤","甘"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21422_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ae.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ae.gif","uri":"https://jisho.org/search/%E5%8E%AE%23kanji"}}
+{
+  "id": "厮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "厮",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "cut, divide, companion, follower",
+    "kunyomi": [
+      "こもの"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "厂",
+      "meaning": "cliff"
+    },
+    "parts": [
+      "ハ",
+      "厂",
+      "斤",
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21422_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ae.gif",
+    "uri": "https://jisho.org/search/%E5%8E%AE%23kanji"
+  }
+}

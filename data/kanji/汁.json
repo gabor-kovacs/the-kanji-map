@@ -1,1 +1,96 @@
-{"id":"汁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"汁","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1843","strokeCount":5,"meaning":"soup, juice, broth, sap, gravy, pus","kunyomi":["しる","-しる","つゆ"],"onyomi":["ジュウ"],"onyomiExamples":[{"example":"汁液","reading":"ジュウエキ","meaning":"juice"},{"example":"果汁","reading":"カジュウ","meaning":"fruit juice"},{"example":"胆汁","reading":"タンジュウ","meaning":"bile, gall"}],"kunyomiExamples":[{"example":"汁","reading":"しる","meaning":"juice, sap, soup, broth, (dipping) sauce"},{"example":"汁気","reading":"しるけ","meaning":"juice"},{"example":"魚汁","reading":"いしる","meaning":"ishiru, ishiri, fish sauce made of salted and fermented sardines, mackerel, or squid; specialty of the Noto Peninsula"},{"example":"藍汁","reading":"あいしる","meaning":"mixture of lime and fermented indigo leaves after the indigo dye has precipitated from the leaves (byproduct in the process of creating indigo dye)"},{"example":"汁","reading":"しる","meaning":"juice, sap, soup, broth, (dipping) sauce"},{"example":"汁だく","reading":"つゆだく","meaning":"soupy, containing more broth or sauce than usual (of gyudon, etc.)"},{"example":"お汁","reading":"おつゆ","meaning":"broth, soup (esp. miso soup)"},{"example":"蕎麦つゆ","reading":"そばつゆ","meaning":"soba dipping sauce"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["十","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27713_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c41.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c41.gif","uri":"https://jisho.org/search/%E6%B1%81%23kanji"}}
+{
+  "id": "汁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "汁",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1843",
+    "strokeCount": 5,
+    "meaning": "soup, juice, broth, sap, gravy, pus",
+    "kunyomi": [
+      "しる",
+      "-しる",
+      "つゆ"
+    ],
+    "onyomi": [
+      "ジュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "汁液",
+        "reading": "ジュウエキ",
+        "meaning": "juice"
+      },
+      {
+        "example": "果汁",
+        "reading": "カジュウ",
+        "meaning": "fruit juice"
+      },
+      {
+        "example": "胆汁",
+        "reading": "タンジュウ",
+        "meaning": "bile, gall"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "汁",
+        "reading": "しる",
+        "meaning": "juice, sap, soup, broth, (dipping) sauce"
+      },
+      {
+        "example": "汁気",
+        "reading": "しるけ",
+        "meaning": "juice"
+      },
+      {
+        "example": "煮汁",
+        "reading": "にじる",
+        "meaning": "broth"
+      },
+      {
+        "example": "魚汁",
+        "reading": "いしる",
+        "meaning": "ishiru, ishiri, fish sauce made of salted and fermented sardines, mackerel, or squid; specialty of the Noto Peninsula"
+      },
+      {
+        "example": "汁",
+        "reading": "しる",
+        "meaning": "juice, sap, soup, broth, (dipping) sauce"
+      },
+      {
+        "example": "汁だく",
+        "reading": "つゆだく",
+        "meaning": "soupy, containing more broth or sauce than usual (of gyudon, etc.)"
+      },
+      {
+        "example": "お汁",
+        "reading": "おつゆ",
+        "meaning": "broth, soup (esp. miso soup)"
+      },
+      {
+        "example": "蕎麦つゆ",
+        "reading": "そばつゆ",
+        "meaning": "soba dipping sauce"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "十",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27713_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c41.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c41.gif",
+    "uri": "https://jisho.org/search/%E6%B1%81%23kanji"
+  }
+}

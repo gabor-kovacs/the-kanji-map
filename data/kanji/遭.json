@@ -1,1 +1,63 @@
-{"id":"遭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遭","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1554","strokeCount":14,"meaning":"encounter, meet, party, association, interview, join","kunyomi":["あ.う","あ.わせる"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"遭難","reading":"ソウナン","meaning":"disaster, accident, shipwreck, distress"},{"example":"遭遇","reading":"ソウグウ","meaning":"encounter, being confronted with (e.g. difficulty), meeting with (e.g. accident)"}],"kunyomiExamples":[{"example":"会う","reading":"あう","meaning":"to meet, to encounter, to see, to have an accident, to have a bad experience"},{"example":"会わせる","reading":"あわせる","meaning":"to make (someone) to meet, to let (someone) meet, to expose to, to subject to"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["一","日","込","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36973_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0906d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/906d.gif","uri":"https://jisho.org/search/%E9%81%AD%23kanji"}}
+{
+  "id": "遭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遭",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1554",
+    "strokeCount": 14,
+    "meaning": "encounter, meet, party, association, interview, join",
+    "kunyomi": [
+      "あ.う",
+      "あ.わせる"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遭難",
+        "reading": "ソウナン",
+        "meaning": "(meeting with) disaster, (having an) accident, mishap, shipwreck, distress"
+      },
+      {
+        "example": "遭遇",
+        "reading": "ソウグウ",
+        "meaning": "encounter, running into, meeting with (e.g. an accident), being confronted with (e.g. a difficulty)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "会う",
+        "reading": "あう",
+        "meaning": "to meet, to encounter, to see, to have an accident, to have a bad experience"
+      },
+      {
+        "example": "会わせる",
+        "reading": "あわせる",
+        "meaning": "to make (someone) to meet, to let (someone) meet, to expose to, to subject to"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "一",
+      "日",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36973_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0906d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/906d.gif",
+    "uri": "https://jisho.org/search/%E9%81%AD%23kanji"
+  }
+}

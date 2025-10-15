@@ -1,1 +1,55 @@
-{"id":"頑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"頑","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1247","strokeCount":13,"meaning":"stubborn, foolish, firmly","kunyomi":["かたく.な"],"onyomi":["ガン"],"onyomiExamples":[{"example":"頑張って","reading":"ガンバッテ","meaning":"do your best, go for it, hang in there, keep at it"},{"example":"頑固","reading":"ガンコ","meaning":"stubborn, obstinate, pigheaded"}],"kunyomiExamples":[{"example":"頑な","reading":"かたくな","meaning":"obstinate, stubborn, mulish, die-hard, bigoted"}],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ハ","二","儿","元","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38929_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09811.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9811.gif","uri":"https://jisho.org/search/%E9%A0%91%23kanji"}}
+{
+  "id": "頑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頑",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1247",
+    "strokeCount": 13,
+    "meaning": "stubborn, foolish, firmly",
+    "kunyomi": [
+      "かたく.な"
+    ],
+    "onyomi": [
+      "ガン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頑張って",
+        "reading": "ガンバッテ",
+        "meaning": "do your best, go for it, hang in there, keep at it"
+      },
+      {
+        "example": "頑固",
+        "reading": "ガンコ",
+        "meaning": "stubborn, obstinate, pigheaded"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頑な",
+        "reading": "かたくな",
+        "meaning": "obstinate, stubborn, mulish, die-hard, bigoted"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "儿",
+      "元",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38929_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09811.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9811.gif",
+    "uri": "https://jisho.org/search/%E9%A0%91%23kanji"
+  }
+}

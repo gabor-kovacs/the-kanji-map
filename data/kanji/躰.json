@@ -1,1 +1,39 @@
-{"id":"躰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"躰","found":true,"strokeCount":12,"meaning":"the body, substance, object, reality","kunyomi":["からだ","かたち"],"onyomi":["タイ","テイ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"体","reading":"からだ","meaning":"body, torso, trunk, build, physique, frame, figure, health, constitution, corpse, dead body"}],"radical":{"symbol":"身","meaning":"body"},"parts":["木","身","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36528_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08eb0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8eb0.gif","uri":"https://jisho.org/search/%E8%BA%B0%23kanji"}}
+{
+  "id": "躰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "躰",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "the body, substance, object, reality",
+    "kunyomi": [
+      "からだ",
+      "かたち"
+    ],
+    "onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "体",
+        "reading": "からだ",
+        "meaning": "body, torso, trunk, build, physique, frame, figure, health, constitution"
+      }
+    ],
+    "radical": {
+      "symbol": "身",
+      "meaning": "body"
+    },
+    "parts": [
+      "木",
+      "身",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36528_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08eb0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8eb0.gif",
+    "uri": "https://jisho.org/search/%E8%BA%B0%23kanji"
+  }
+}

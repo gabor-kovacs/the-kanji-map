@@ -1,1 +1,54 @@
-{"id":"轄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"轄","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1771","strokeCount":17,"meaning":"control, wedge","kunyomi":["くさび"],"onyomi":["カツ"],"onyomiExamples":[{"example":"直轄","reading":"チョッカツ","meaning":"direct control"},{"example":"車轄","reading":"シャカツ","meaning":"linchpin"}],"kunyomiExamples":[{"example":"楔","reading":"くさび","meaning":"wedge, chock, linchpin, lynchpin, tie, bond"}],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["二","亠","口","土","宀","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36676_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f44.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f44.gif","uri":"https://jisho.org/search/%E8%BD%84%23kanji"}}
+{
+  "id": "轄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "轄",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1771",
+    "strokeCount": 17,
+    "meaning": "control, wedge",
+    "kunyomi": [
+      "くさび"
+    ],
+    "onyomi": [
+      "カツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "直轄",
+        "reading": "チョッカツ",
+        "meaning": "direct control, direct supervision"
+      },
+      {
+        "example": "車轄",
+        "reading": "シャカツ",
+        "meaning": "linchpin"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "楔",
+        "reading": "くさび",
+        "meaning": "wedge, chock, linchpin, lynchpin, tie, bond"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "口",
+      "土",
+      "宀",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36676_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f44.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f44.gif",
+    "uri": "https://jisho.org/search/%E8%BD%84%23kanji"
+  }
+}

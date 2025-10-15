@@ -1,1 +1,60 @@
-{"id":"奠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"奠","found":true,"strokeCount":12,"meaning":"decision","kunyomi":["さだ.める","まつ.る"],"onyomi":["テン","デン","テイ"],"onyomiExamples":[{"example":"奠都","reading":"テント","meaning":"transferring the capital"},{"example":"奉奠","reading":"ホウテン","meaning":"humbly presenting something, reverently offering"},{"example":"玉串奉奠","reading":"タマグシホウテン","meaning":"reverentially offering a branch of the sacred tree"},{"example":"香典","reading":"コウデン","meaning":"gift brought to a funeral (usu. money), funeral offering, condolence gift, incense money"},{"example":"乞巧奠","reading":"キッコウデン","meaning":"Festival to Plead for Skills (progenitor festival of Tanabata)"}],"kunyomiExamples":[],"radical":{"symbol":"大","meaning":"big, very"},"parts":["大","并","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22880_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05960.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5960.gif","uri":"https://jisho.org/search/%E5%A5%A0%23kanji"}}
+{
+  "id": "奠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奠",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "decision",
+    "kunyomi": [
+      "さだ.める",
+      "まつ.る"
+    ],
+    "onyomi": [
+      "テン",
+      "デン",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奠都",
+        "reading": "テント",
+        "meaning": "transferring the capital"
+      },
+      {
+        "example": "奉奠",
+        "reading": "ホウテン",
+        "meaning": "humbly presenting something, reverently offering"
+      },
+      {
+        "example": "玉串奉奠",
+        "reading": "タマグシホウテン",
+        "meaning": "reverentially offering a branch of the sacred tree"
+      },
+      {
+        "example": "香典",
+        "reading": "コウデン",
+        "meaning": "gift brought to a funeral (usu. money), funeral offering, condolence gift, incense money"
+      },
+      {
+        "example": "乞巧奠",
+        "reading": "キッコウデン",
+        "meaning": "Festival to Plead for Skills (progenitor festival of Tanabata)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "大",
+      "并",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22880_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05960.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5960.gif",
+    "uri": "https://jisho.org/search/%E5%A5%A0%23kanji"
+  }
+}

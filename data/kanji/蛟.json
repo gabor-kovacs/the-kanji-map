@@ -1,1 +1,44 @@
-{"id":"蛟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蛟","found":true,"strokeCount":12,"meaning":"dragon","kunyomi":["みずち"],"onyomi":["コウ","キョウ"],"onyomiExamples":[{"example":"蛟竜","reading":"コウリョウ","meaning":"mizuchi, mythical dragon-like beast, believed to ascend to the heavens through rain, unfulfilled genius, dormant talent"}],"kunyomiExamples":[{"example":"蛟","reading":"みずち","meaning":"mizuchi, mythical dragon-like beast"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["亠","父","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34527_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086df.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86df.gif","uri":"https://jisho.org/search/%E8%9B%9F%23kanji"}}
+{
+  "id": "蛟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛟",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "dragon",
+    "kunyomi": [
+      "みずち"
+    ],
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛟竜",
+        "reading": "コウリョウ",
+        "meaning": "mizuchi, aquatic, dragon-like beast with four feet, horns and poisonous breath, unfulfilled genius, dormant talent"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蛟",
+        "reading": "みずち",
+        "meaning": "mizuchi, aquatic, dragon-like beast with four feet, horns and poisonous breath"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "亠",
+      "父",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34527_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86df.gif",
+    "uri": "https://jisho.org/search/%E8%9B%9F%23kanji"
+  }
+}

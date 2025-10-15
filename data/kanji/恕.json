@@ -1,1 +1,58 @@
-{"id":"恕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"恕","found":true,"jlptLevel":"N1","strokeCount":10,"meaning":"excuse, tolerate, forgive","kunyomi":["ゆる.す"],"onyomi":["ジョ","ショ"],"onyomiExamples":[{"example":"恕","reading":"ジョ","meaning":"consideration, sympathy, compassion"},{"example":"恕する","reading":"ジョスル","meaning":"to forgive, to pardon, to excuse"},{"example":"海恕","reading":"カイジョ","meaning":"magnanimity, forgiveness, generosity"},{"example":"忠恕","reading":"チュウジョ","meaning":"sincerity and consideration"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["口","女","心"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24661_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06055.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6055.gif","uri":"https://jisho.org/search/%E6%81%95%23kanji"}}
+{
+  "id": "恕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恕",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 10,
+    "meaning": "excuse, tolerate, forgive",
+    "kunyomi": [
+      "ゆる.す"
+    ],
+    "onyomi": [
+      "ジョ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "恕",
+        "reading": "ジョ",
+        "meaning": "consideration, sympathy, compassion"
+      },
+      {
+        "example": "恕する",
+        "reading": "ジョスル",
+        "meaning": "to forgive, to pardon, to excuse"
+      },
+      {
+        "example": "海恕",
+        "reading": "カイジョ",
+        "meaning": "magnanimity, forgiveness, generosity"
+      },
+      {
+        "example": "忠恕",
+        "reading": "チュウジョ",
+        "meaning": "sincerity and consideration"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "口",
+      "女",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24661_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06055.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6055.gif",
+    "uri": "https://jisho.org/search/%E6%81%95%23kanji"
+  }
+}

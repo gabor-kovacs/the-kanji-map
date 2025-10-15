@@ -1,1 +1,48 @@
-{"id":"蛸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蛸","found":true,"strokeCount":13,"meaning":"octopus","kunyomi":["たこ"],"onyomi":["ソウ","ショウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蛸","reading":"たこ","meaning":"octopus"},{"example":"蛸足","reading":"たこあし","meaning":"many-legged, octopus-like"},{"example":"茹蛸","reading":"ゆでだこ","meaning":"boiled octopus, person as red as a lobster"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["尚","月","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34552_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086f8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86f8.gif","uri":"https://jisho.org/search/%E8%9B%B8%23kanji"}}
+{
+  "id": "蛸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛸",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "octopus",
+    "kunyomi": [
+      "たこ"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蛸",
+        "reading": "たこ",
+        "meaning": "octopus, fool, idiot"
+      },
+      {
+        "example": "たこ焼き",
+        "reading": "たこやき",
+        "meaning": "takoyaki, octopus dumplings"
+      },
+      {
+        "example": "茹で蛸",
+        "reading": "ゆでだこ",
+        "meaning": "boiled octopus, person with red flushed skin"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "尚",
+      "月",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34552_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086f8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86f8.gif",
+    "uri": "https://jisho.org/search/%E8%9B%B8%23kanji"
+  }
+}

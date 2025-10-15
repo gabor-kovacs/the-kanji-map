@@ -1,1 +1,23 @@
-{"id":"复","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"复","found":true,"strokeCount":9,"meaning":"return, repeat, repeatedly","kunyomi":[],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"夊","meaning":"go slowly"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22797_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0590d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/590d.gif","uri":"https://jisho.org/search/%E5%A4%8D%23kanji"}}
+{
+  "id": "复",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "复",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "return, repeat, repeatedly",
+    "kunyomi": [],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "夊",
+      "meaning": "go slowly"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22797_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0590d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/590d.gif",
+    "uri": "https://jisho.org/search/%E5%A4%8D%23kanji"
+  }
+}

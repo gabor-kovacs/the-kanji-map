@@ -1,1 +1,27 @@
-{"id":"寍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"寍","found":true,"strokeCount":12,"meaning":"used as a term of comparison","kunyomi":["むし.ろ"],"onyomi":["ネイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"宀","meaning":"roof"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23501_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bcd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bcd.gif","uri":"https://jisho.org/search/%E5%AF%8D%23kanji"}}
+{
+  "id": "寍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寍",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "used as a term of comparison",
+    "kunyomi": [
+      "むし.ろ"
+    ],
+    "onyomi": [
+      "ネイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23501_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bcd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bcd.gif",
+    "uri": "https://jisho.org/search/%E5%AF%8D%23kanji"
+  }
+}

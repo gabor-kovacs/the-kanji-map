@@ -1,1 +1,366 @@
-{"id":"彼","kanjialiveData":{"kanji":{"character":"彼","meaning":{"english":"third person pronoun, that"},"strokes":{"count":8,"timings":[0,1.665,2.199,3.199,4.132,5.865,6.665,7.865,8.666667],"images":["https://media.kanjialive.com/kanji_strokes/kare_1.svg","https://media.kanjialive.com/kanji_strokes/kare_2.svg","https://media.kanjialive.com/kanji_strokes/kare_3.svg","https://media.kanjialive.com/kanji_strokes/kare_4.svg","https://media.kanjialive.com/kanji_strokes/kare_5.svg","https://media.kanjialive.com/kanji_strokes/kare_6.svg","https://media.kanjialive.com/kanji_strokes/kare_7.svg","https://media.kanjialive.com/kanji_strokes/kare_8.svg"]},"onyomi":{"romaji":"hi","katakana":"ヒ"},"kunyomi":{"romaji":"kare, kano","hiragana":"かれ、かの"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kare_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kare_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kare_00.webm"}},"radical":{"character":"⼻","strokes":3,"image":"https://media.kanjialive.com/radical_character/gyouninben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"ぎょうにんべん","romaji":"gyouninben"},"meaning":{"english":"step, stride, street, to go"},"animation":["https://media.kanjialive.com/rad_frames/gyouninben0.svg","https://media.kanjialive.com/rad_frames/gyouninben1.svg","https://media.kanjialive.com/rad_frames/gyouninben2.svg"]},"references":{"grade":null,"kodansha":"215","classic_nelson":"1604"},"examples":[{"japanese":"彼岸（ひがん）","meaning":{"english":"equinoctial week"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kare_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kare_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kare_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kare_06_a.mp3"}},{"japanese":"彼（かれ）","meaning":{"english":"he, boyfriend"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kare_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kare_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kare_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kare_06_b.mp3"}},{"japanese":"彼等（かれら）","meaning":{"english":"they"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kare_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kare_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kare_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kare_06_c.mp3"}},{"japanese":"彼氏（かれし）","meaning":{"english":"boyfriend"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kare_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kare_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kare_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kare_06_d.mp3"}},{"japanese":"彼女（かのじょ）","meaning":{"english":"she, girl friend"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kare_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kare_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kare_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kare_06_e.mp3"}}]},"jishoData":{"query":"彼","found":true,"taughtIn":"junior high","jlptLevel":"N3","newspaperFrequencyRank":"648","strokeCount":8,"meaning":"he, that, the","kunyomi":["かれ","かの","か.の"],"onyomi":["ヒ"],"onyomiExamples":[{"example":"彼岸","reading":"ヒガン","meaning":"equinoctial week (when Buddhist services are held), Buddhist services during the equinoctial week, nirvana"},{"example":"彼是","reading":"アレコレ","meaning":"this and that, this or that, one thing or another, this way and that, around, about, round about, roughly, nearly, almost"}],"kunyomiExamples":[{"example":"彼","reading":"かれ","meaning":"he, him, boyfriend"},{"example":"彼ら","reading":"かれら","meaning":"they, them"},{"example":"前彼","reading":"まえかれ","meaning":"former boyfriend, ex-boyfriend"},{"example":"元彼","reading":"もとかれ","meaning":"former boyfriend, ex-boyfriend"},{"example":"彼の","reading":"かの","meaning":"that well-known ..."},{"example":"彼女","reading":"かのじょ","meaning":"she, her, girlfriend"},{"example":"彼の","reading":"かの","meaning":"that well-known ..."},{"example":"彼女","reading":"かのじょ","meaning":"she, her, girlfriend"}],"radical":{"symbol":"彳","meaning":"step"},"parts":["又","彳","皮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24444_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f7c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f7c.gif","uri":"https://jisho.org/search/%E5%BD%BC%23kanji"}}
+{
+  "id": "彼",
+  "kanjialiveData": {
+    "_id": "54317ae9791eba5146ee49d9",
+    "_rev": "12-39797a07b2a5af9c9d6489475c1558f3",
+    "rad_name_ja": "ぎょうにんべん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "kare, kano",
+    "meaning": "third person pronoun, that",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "彼岸（ひがん）",
+        "meaning": {
+          "english": "equinoctial week"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kare_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kare_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kare_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "彼（かれ）",
+        "meaning": {
+          "english": "he, boyfriend"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kare_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kare_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kare_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "彼等（かれら）",
+        "meaning": {
+          "english": "they"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kare_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kare_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kare_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "彼氏（かれし）",
+        "meaning": {
+          "english": "boyfriend"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kare_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kare_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kare_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "彼女（かのじょ）",
+        "meaning": {
+          "english": "she, girl friend"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kare_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kare_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kare_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "かれ、かの",
+    "ka_utf": "彼",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=彼",
+    "rad_name_search": [
+      "gyouninben"
+    ],
+    "rad_order": 70,
+    "txt_books": [
+      {
+        "chapter": "26",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "23",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "7"
+      }
+    ],
+    "kname": "kare",
+    "rad_utf": "⼻",
+    "stroketimes": [
+      0,
+      1.665,
+      2.199,
+      3.199,
+      4.132,
+      5.865,
+      6.665,
+      7.865,
+      8.666667
+    ],
+    "kunyomi_ka_display": "かれ、かの",
+    "dick": "215",
+    "rad_name": "gyouninben",
+    "dicn": "1604",
+    "mn_hint": "That walking 彳 skin 皮.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ヒ",
+    "rad_meaning": "step, stride, street, to go",
+    "onyomi": "hi",
+    "ka_id": "ka_291",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "hi",
+      "hi"
+    ],
+    "kunyomi_search": [
+      "kare",
+      "kano",
+      "kare, kano"
+    ],
+    "meaning_search": [
+      "third person pronoun",
+      "third",
+      "person",
+      "pronoun",
+      "that",
+      "third person pronoun, that"
+    ],
+    "onyomi_ja_search": [
+      "ヒ",
+      "ヒ"
+    ],
+    "kunyomi_ja_search": [
+      "かれ",
+      "かの",
+      "かれ、かの"
+    ],
+    "rad_meaning_search": [
+      "step",
+      "stride",
+      "street",
+      "to go",
+      "to",
+      "go",
+      "step, stride, street, to go"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ぎょうにんべん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:26",
+      "cij:c26",
+      "bk",
+      "bk:15",
+      "bk:c15",
+      "gen",
+      "gen:14",
+      "gen:c14",
+      "kll",
+      "kll:23",
+      "kll:c23",
+      "jt",
+      "jt:4",
+      "jt:c4",
+      "cijr",
+      "cijr:7",
+      "cijr:c7"
+    ],
+    "rad_name_file": "gyouninben",
+    "kanji": {
+      "character": "彼",
+      "meaning": {
+        "english": "third person pronoun, that"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.665,
+          2.199,
+          3.199,
+          4.132,
+          5.865,
+          6.665,
+          7.865,
+          8.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kare_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kare_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kare_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kare_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kare_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kare_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kare_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kare_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "hi",
+        "katakana": "ヒ"
+      },
+      "kunyomi": {
+        "romaji": "kare, kano",
+        "hiragana": "かれ、かの"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kare_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kare_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kare_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼻",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/gyouninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ぎょうにんべん",
+        "romaji": "gyouninben"
+      },
+      "meaning": {
+        "english": "step, stride, street, to go"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben1.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "215",
+      "classic_nelson": "1604"
+    }
+  },
+  "jishoData": {
+    "query": "彼",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "648",
+    "strokeCount": 8,
+    "meaning": "he, that, the",
+    "kunyomi": [
+      "かれ",
+      "かの",
+      "か.の"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彼岸",
+        "reading": "ヒガン",
+        "meaning": "equinoctial week (when Buddhist services are held), Buddhist services during the equinoctial week, nirvana, opposite bank, opposite shore, shore on the other side"
+      },
+      {
+        "example": "彼是",
+        "reading": "アレコレ",
+        "meaning": "this and that, this or that, one thing or another, this way and that, around, about, round about, roughly, nearly, almost"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "彼",
+        "reading": "かれ",
+        "meaning": "he, him, boyfriend"
+      },
+      {
+        "example": "彼ら",
+        "reading": "かれら",
+        "meaning": "they, them"
+      },
+      {
+        "example": "前彼",
+        "reading": "まえかれ",
+        "meaning": "former boyfriend, ex-boyfriend"
+      },
+      {
+        "example": "元彼",
+        "reading": "もとかれ",
+        "meaning": "former boyfriend, ex-boyfriend"
+      },
+      {
+        "example": "彼の",
+        "reading": "かの",
+        "meaning": "that well-known ..., the one and only ..., that, those, the"
+      },
+      {
+        "example": "彼女",
+        "reading": "かのじょ",
+        "meaning": "she, her, girlfriend"
+      },
+      {
+        "example": "彼の",
+        "reading": "かの",
+        "meaning": "that well-known ..., the one and only ..., that, those, the"
+      },
+      {
+        "example": "彼女",
+        "reading": "かのじょ",
+        "meaning": "she, her, girlfriend"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "step"
+    },
+    "parts": [
+      "又",
+      "彳",
+      "皮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24444_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f7c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f7c.gif",
+    "uri": "https://jisho.org/search/%E5%BD%BC%23kanji"
+  }
+}

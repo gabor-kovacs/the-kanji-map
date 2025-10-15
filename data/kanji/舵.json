@@ -1,1 +1,75 @@
-{"id":"舵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"舵","found":true,"newspaperFrequencyRank":"2225","strokeCount":11,"meaning":"rudder, helm, wheel","kunyomi":["かじ"],"onyomi":["ダ","タ"],"onyomiExamples":[{"example":"舵手","reading":"ダシュ","meaning":"helmsman, coxswain"},{"example":"舵柄","reading":"カジヅカ","meaning":"helm, yoke"},{"example":"方向舵","reading":"ホウコウダ","meaning":"rudder"},{"example":"昇降舵","reading":"ショウコウダ","meaning":"elevator (aviation)"}],"kunyomiExamples":[{"example":"舵","reading":"かじ","meaning":"rudder, helm"},{"example":"舵付き","reading":"かじつき","meaning":"coxed (rowing), having a coxswain"},{"example":"上げ舵","reading":"あげかじ","meaning":"pull on the control stick"},{"example":"下げ舵","reading":"さげかじ","meaning":"push on the control stick"}],"radical":{"symbol":"舟","meaning":"boat"},"parts":["匕","宀","舟"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33333_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08235.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8235.gif","uri":"https://jisho.org/search/%E8%88%B5%23kanji"}}
+{
+  "id": "舵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "舵",
+    "found": true,
+    "newspaperFrequencyRank": "2225",
+    "strokeCount": 11,
+    "meaning": "rudder, helm, wheel",
+    "kunyomi": [
+      "かじ"
+    ],
+    "onyomi": [
+      "ダ",
+      "タ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舵手",
+        "reading": "ダシュ",
+        "meaning": "helmsman, steersman, coxswain, cox"
+      },
+      {
+        "example": "舵柄",
+        "reading": "カジヅカ",
+        "meaning": "helm, yoke"
+      },
+      {
+        "example": "方向舵",
+        "reading": "ホウコウダ",
+        "meaning": "rudder"
+      },
+      {
+        "example": "昇降舵",
+        "reading": "ショウコウダ",
+        "meaning": "elevator"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "舵",
+        "reading": "かじ",
+        "meaning": "rudder, helm"
+      },
+      {
+        "example": "舵付き",
+        "reading": "かじつき",
+        "meaning": "coxed (rowing), having a coxswain"
+      },
+      {
+        "example": "上げ舵",
+        "reading": "あげかじ",
+        "meaning": "pull on the control stick"
+      },
+      {
+        "example": "下げ舵",
+        "reading": "さげかじ",
+        "meaning": "push on the control stick"
+      }
+    ],
+    "radical": {
+      "symbol": "舟",
+      "meaning": "boat"
+    },
+    "parts": [
+      "匕",
+      "宀",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33333_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08235.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8235.gif",
+    "uri": "https://jisho.org/search/%E8%88%B5%23kanji"
+  }
+}

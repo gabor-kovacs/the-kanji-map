@@ -1,1 +1,56 @@
-{"id":"痩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"痩","found":true,"taughtIn":"junior high","strokeCount":12,"meaning":"get thin","kunyomi":["や.せる"],"onyomi":["ソウ","チュウ","シュウ","シュ"],"onyomiExamples":[{"example":"痩身","reading":"ソウシン","meaning":"slim figure, lean figure, weight reduction"},{"example":"痩果","reading":"ソウカ","meaning":"achene, akene, achenium"},{"example":"羸痩","reading":"ルイソウ","meaning":"emaciation, weight loss"}],"kunyomiExamples":[{"example":"痩せる","reading":"やせる","meaning":"to become thin, to lose weight, to reduce (one's) weight, to slim, to be barren, to be infertile, to be sterile"}],"radical":{"symbol":"疒","meaning":"sickness"},"parts":["又","疔"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30185_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075e9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75e9.gif","uri":"https://jisho.org/search/%E7%97%A9%23kanji"}}
+{
+  "id": "痩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "痩",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 12,
+    "meaning": "get thin",
+    "kunyomi": [
+      "や.せる"
+    ],
+    "onyomi": [
+      "ソウ",
+      "チュウ",
+      "シュウ",
+      "シュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "痩身",
+        "reading": "ソウシン",
+        "meaning": "slim figure, slender body, slimming, weight reduction"
+      },
+      {
+        "example": "痩果",
+        "reading": "ソウカ",
+        "meaning": "achene, akene, achenium"
+      },
+      {
+        "example": "羸痩",
+        "reading": "ルイソウ",
+        "meaning": "emaciation, severe weight loss"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "痩せる",
+        "reading": "やせる",
+        "meaning": "to become thin, to lose weight, to slim, to become impoverished (of soil), to become sterile, to become infertile, to become barren"
+      }
+    ],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "sickness"
+    },
+    "parts": [
+      "又",
+      "疔"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30185_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075e9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75e9.gif",
+    "uri": "https://jisho.org/search/%E7%97%A9%23kanji"
+  }
+}

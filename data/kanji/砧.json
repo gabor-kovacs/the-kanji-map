@@ -1,1 +1,58 @@
-{"id":"砧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"砧","found":true,"strokeCount":10,"meaning":"fulling block","kunyomi":["きぬた"],"onyomi":["チン"],"onyomiExamples":[{"example":"砧骨","reading":"キヌタコツ","meaning":"incus, anvil"},{"example":"砧声","reading":"チンセイ","meaning":"sound of fulling blocks pounding cloth"},{"example":"金床","reading":"カナトコ","meaning":"anvil"}],"kunyomiExamples":[{"example":"砧","reading":"きぬた","meaning":"fulling block, wooden or stone block for beating cloth"},{"example":"砧骨","reading":"きぬたこつ","meaning":"incus, anvil"}],"radical":{"symbol":"石","meaning":"stone"},"parts":["卜","口","石"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30759_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07827.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7827.gif","uri":"https://jisho.org/search/%E7%A0%A7%23kanji"}}
+{
+  "id": "砧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "砧",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "fulling block",
+    "kunyomi": [
+      "きぬた"
+    ],
+    "onyomi": [
+      "チン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "砧骨",
+        "reading": "キヌタコツ",
+        "meaning": "incus (bone of the ear), anvil"
+      },
+      {
+        "example": "砧声",
+        "reading": "チンセイ",
+        "meaning": "sound of fulling blocks pounding cloth"
+      },
+      {
+        "example": "金床",
+        "reading": "カナトコ",
+        "meaning": "anvil"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "砧",
+        "reading": "きぬた",
+        "meaning": "fulling block, wooden or stone block for beating cloth"
+      },
+      {
+        "example": "砧骨",
+        "reading": "きぬたこつ",
+        "meaning": "incus (bone of the ear), anvil"
+      }
+    ],
+    "radical": {
+      "symbol": "石",
+      "meaning": "stone"
+    },
+    "parts": [
+      "卜",
+      "口",
+      "石"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30759_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07827.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7827.gif",
+    "uri": "https://jisho.org/search/%E7%A0%A7%23kanji"
+  }
+}

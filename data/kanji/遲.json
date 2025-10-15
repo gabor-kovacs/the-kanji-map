@@ -1,1 +1,45 @@
-{"id":"遲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遲","found":true,"strokeCount":16,"meaning":"late, tardy, slow, delay","kunyomi":["おく.れる","おく.らす","おそ.い"],"onyomi":["チ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"遅い","reading":"おそい","meaning":"slow, time-consuming, sluggish, late (in the day), towards the end (of the day or night), until a time far into the day or night, later (than expected or usual), late, behind schedule, behind time, tardy, overdue, unpunctual, too late, having missed the boat, dull, stupid"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["尸","水","牛","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36978_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09072.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9072.gif","uri":"https://jisho.org/search/%E9%81%B2%23kanji"}}
+{
+  "id": "遲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遲",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "late, tardy, slow, delay",
+    "kunyomi": [
+      "おく.れる",
+      "おく.らす",
+      "おそ.い"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "遅い",
+        "reading": "おそい",
+        "meaning": "slow, late, too late"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "尸",
+      "水",
+      "牛",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36978_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09072.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9072.gif",
+    "uri": "https://jisho.org/search/%E9%81%B2%23kanji"
+  }
+}

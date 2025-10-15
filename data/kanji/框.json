@@ -1,1 +1,42 @@
-{"id":"框","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"框","found":true,"strokeCount":10,"meaning":"framework","kunyomi":["かまち"],"onyomi":["キョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"框","reading":"かまち","meaning":"door frame, window frame, frame sections of the door or window that provide most of its structural integrity"},{"example":"上がり框","reading":"あがりがまち","meaning":"piece of wood at front edge of entranceway floor, agarikamachi"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["匚","木","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26694_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06846.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6846.gif","uri":"https://jisho.org/search/%E6%A1%86%23kanji"}}
+{
+  "id": "框",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "框",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "framework",
+    "kunyomi": [
+      "かまち"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "框",
+        "reading": "かまち",
+        "meaning": "door frame, window frame, frame sections of the door or window that provide most of its structural integrity"
+      },
+      {
+        "example": "上がり框",
+        "reading": "あがりがまち",
+        "meaning": "piece of wood at the front edge of an entranceway floor, front portion of the floor of the genkan"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "匚",
+      "木",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26694_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06846.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6846.gif",
+    "uri": "https://jisho.org/search/%E6%A1%86%23kanji"
+  }
+}

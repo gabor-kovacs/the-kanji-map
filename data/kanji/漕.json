@@ -1,1 +1,65 @@
-{"id":"漕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"漕","found":true,"newspaperFrequencyRank":"2354","strokeCount":14,"meaning":"rowing, scull, paddle","kunyomi":["こ.ぐ","はこ.ぶ"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"漕艇","reading":"ソウテイ","meaning":"rowing, boating"},{"example":"漕艇場","reading":"ソウテイジョウ","meaning":"rowing course, rowing centre (center)"},{"example":"運送","reading":"ウンソウ","meaning":"transport, freight, shipping"},{"example":"回漕","reading":"カイソウ","meaning":"shipping"}],"kunyomiExamples":[{"example":"漕ぐ","reading":"こぐ","meaning":"to row, to scull, to paddle, to pedal (e.g. bicycle), to swing (on a swing), to operate a hand pump, to push through (deep snow, the jungle, etc.)"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","日","汁","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28437_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f15.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f15.gif","uri":"https://jisho.org/search/%E6%BC%95%23kanji"}}
+{
+  "id": "漕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漕",
+    "found": true,
+    "newspaperFrequencyRank": "2354",
+    "strokeCount": 14,
+    "meaning": "rowing, scull, paddle",
+    "kunyomi": [
+      "こ.ぐ",
+      "はこ.ぶ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "漕艇",
+        "reading": "ソウテイ",
+        "meaning": "rowing, boating"
+      },
+      {
+        "example": "漕艇場",
+        "reading": "ソウテイジョウ",
+        "meaning": "rowing course, rowing centre (center)"
+      },
+      {
+        "example": "回漕",
+        "reading": "カイソウ",
+        "meaning": "shipping, transport by sea"
+      },
+      {
+        "example": "サバニ帆漕",
+        "reading": "サバニハンソウ",
+        "meaning": "sabani sailing and paddling regatta (Okinawa)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漕ぐ",
+        "reading": "こぐ",
+        "meaning": "to row, to paddle, to scull, to pull (the oars), to pedal (a bicycle, etc.), to swing (on a swing), to work (a hand pump), to push through (a thicket, deep snow, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "日",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28437_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f15.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f15.gif",
+    "uri": "https://jisho.org/search/%E6%BC%95%23kanji"
+  }
+}

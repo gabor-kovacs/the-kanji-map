@@ -1,1 +1,53 @@
-{"id":"摸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"摸","found":true,"strokeCount":13,"meaning":"search, imitate, copy","kunyomi":[],"onyomi":["モ","モウ","バク","ボ","マク"],"onyomiExamples":[{"example":"模擬","reading":"モギ","meaning":"imitation"},{"example":"模索","reading":"モサク","meaning":"groping (for), fumbling around (for), searching (for an answer, solution, etc.), trying to find"},{"example":"自摸","reading":"ツモ","meaning":"drawing a tile from the wall, win with a self-drawn tile, winning off a self-drawn tile while completely concealed (meld), winning off a self-drawn tile without having called any tiles"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["大","扎","日","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25720_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06478.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6478.gif","uri":"https://jisho.org/search/%E6%91%B8%23kanji"}}
+{
+  "id": "摸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "摸",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "search, imitate, copy",
+    "kunyomi": [],
+    "onyomi": [
+      "モ",
+      "モウ",
+      "バク",
+      "ボ",
+      "マク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "模擬",
+        "reading": "モギ",
+        "meaning": "imitation"
+      },
+      {
+        "example": "模索",
+        "reading": "モサク",
+        "meaning": "groping (for), fumbling around (for), searching (for an answer, solution, etc.), trying to find"
+      },
+      {
+        "example": "自摸",
+        "reading": "ツモ",
+        "meaning": "drawing a tile from the wall, win with a self-drawn tile, winning off a self-drawn tile while completely concealed (meld), winning off a self-drawn tile without having called any tiles"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "大",
+      "扎",
+      "日",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25720_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06478.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6478.gif",
+    "uri": "https://jisho.org/search/%E6%91%B8%23kanji"
+  }
+}

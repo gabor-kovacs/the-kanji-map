@@ -1,1 +1,310 @@
-{"id":"岩","kanjialiveData":{"kanji":{"character":"岩","meaning":{"english":"rock"},"strokes":{"count":8,"timings":[0,0.733333,2.933333,3.866667,5.266667,6.133333,7.133333,8.666667,10.733333],"images":["https://media.kanjialive.com/kanji_strokes/gan-iwa_1.svg","https://media.kanjialive.com/kanji_strokes/gan-iwa_2.svg","https://media.kanjialive.com/kanji_strokes/gan-iwa_3.svg","https://media.kanjialive.com/kanji_strokes/gan-iwa_4.svg","https://media.kanjialive.com/kanji_strokes/gan-iwa_5.svg","https://media.kanjialive.com/kanji_strokes/gan-iwa_6.svg","https://media.kanjialive.com/kanji_strokes/gan-iwa_7.svg","https://media.kanjialive.com/kanji_strokes/gan-iwa_8.svg"]},"onyomi":{"romaji":"gan","katakana":"ガン"},"kunyomi":{"romaji":"iwa","hiragana":"いわ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/gan-iwa_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/gan-iwa_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/gan-iwa_00.webm"}},"radical":{"character":"","strokes":3,"image":"https://media.kanjialive.com/radical_character/yamakanmuri.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"やまかんむり","romaji":"yamakanmuri"},"meaning":{"english":"mountain"},"animation":["https://media.kanjialive.com/rad_frames/yamakanmuri0.svg","https://media.kanjialive.com/rad_frames/yamakanmuri1.svg","https://media.kanjialive.com/rad_frames/yamakanmuri2.svg"]},"references":{"grade":2,"kodansha":"1423","classic_nelson":"1414"},"examples":[{"japanese":"岩石（がんせき）","meaning":{"english":"rock [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gan-iwa_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gan-iwa_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gan-iwa_06_a.mp3"}},{"japanese":"岩塩（がんえん）","meaning":{"english":"rock salt"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gan-iwa_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gan-iwa_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gan-iwa_06_b.mp3"}},{"japanese":"火山岩（かざんがん）","meaning":{"english":"volcanic rock, igneous rock"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gan-iwa_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gan-iwa_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gan-iwa_06_c.mp3"}},{"japanese":"岩（いわ）","meaning":{"english":"rock, crag"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gan-iwa_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gan-iwa_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gan-iwa_06_d.mp3"}},{"japanese":"岩山（いわやま）","meaning":{"english":"rocky mountain"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/gan-iwa_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/gan-iwa_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/gan-iwa_06_e.mp3"}}]},"jishoData":{"query":"岩","found":true,"taughtIn":"grade 2","jlptLevel":"N2","newspaperFrequencyRank":"787","strokeCount":8,"meaning":"boulder, rock, cliff","kunyomi":["いわ"],"onyomi":["ガン"],"onyomiExamples":[{"example":"岩盤","reading":"ガンバン","meaning":"bedrock"},{"example":"岩石","reading":"ガンセキ","meaning":"rock"},{"example":"砂岩","reading":"サガン","meaning":"sandstone"},{"example":"石灰岩","reading":"セッカイガン","meaning":"limestone"}],"kunyomiExamples":[{"example":"岩","reading":"いわ","meaning":"rock, boulder, crag, cliff, anchor"},{"example":"岩間","reading":"いわま","meaning":"among rocks"},{"example":"一枚岩","reading":"いちまいいわ","meaning":"monolith, large slab of rock"},{"example":"浮岩","reading":"うきいわ","meaning":"rock partially submerged in water, rock partially emerging from the water, pumice stone"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["口","山","石"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23721_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ca9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ca9.gif","uri":"https://jisho.org/search/%E5%B2%A9%23kanji"}}
+{
+  "id": "岩",
+  "kanjialiveData": {
+    "_id": "54317b0a791eba5146ee4c4f",
+    "_rev": "10-aa8166520e87d78cd8f0c76cf59311fc",
+    "rad_name_ja": "やまかんむり",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "iwa",
+    "meaning": "rock",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "岩石（がんせき）",
+        "meaning": {
+          "english": "rock [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gan-iwa_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gan-iwa_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gan-iwa_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "岩塩（がんえん）",
+        "meaning": {
+          "english": "rock salt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gan-iwa_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gan-iwa_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gan-iwa_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "火山岩（かざんがん）",
+        "meaning": {
+          "english": "volcanic rock, igneous rock"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gan-iwa_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gan-iwa_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gan-iwa_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "岩（いわ）",
+        "meaning": {
+          "english": "rock, crag"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gan-iwa_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gan-iwa_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gan-iwa_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "岩山（いわやま）",
+        "meaning": {
+          "english": "rocky mountain"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gan-iwa_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gan-iwa_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gan-iwa_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いわ",
+    "ka_utf": "岩",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=岩",
+    "kname": "gan-iwa",
+    "rad_order": 55,
+    "txt_books": [
+      {
+        "chapter": "5",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "yamakanmuri"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      0.733333,
+      2.933333,
+      3.866667,
+      5.266667,
+      6.133333,
+      7.133333,
+      8.666667,
+      10.733333
+    ],
+    "kunyomi_ka_display": "いわ",
+    "dick": "1423",
+    "rad_name": "yamakanmuri",
+    "dicn": "1414",
+    "mn_hint": "Mountain 山 rock 石.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ガン",
+    "rad_meaning": "mountain",
+    "onyomi": "gan",
+    "ka_id": "ka_859",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "gan",
+      "gan"
+    ],
+    "kunyomi_search": [
+      "iwa",
+      "iwa"
+    ],
+    "meaning_search": [
+      "rock",
+      "rock"
+    ],
+    "onyomi_ja_search": [
+      "ガン",
+      "ガン"
+    ],
+    "kunyomi_ja_search": [
+      "いわ",
+      "いわ"
+    ],
+    "rad_meaning_search": [
+      "mountain",
+      "mountain"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "やまかんむり"
+    ],
+    "textbook_search": [
+      "bk",
+      "bk:5",
+      "bk:c5",
+      "mac",
+      "mac:21",
+      "mac:c21",
+      "jtr",
+      "jtr:6",
+      "jtr:c6"
+    ],
+    "rad_name_file": "yamakanmuri",
+    "kanji": {
+      "character": "岩",
+      "meaning": {
+        "english": "rock"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.733333,
+          2.933333,
+          3.866667,
+          5.266667,
+          6.133333,
+          7.133333,
+          8.666667,
+          10.733333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/gan-iwa_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/gan-iwa_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/gan-iwa_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/gan-iwa_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/gan-iwa_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/gan-iwa_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/gan-iwa_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/gan-iwa_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "gan",
+        "katakana": "ガン"
+      },
+      "kunyomi": {
+        "romaji": "iwa",
+        "hiragana": "いわ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/gan-iwa_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/gan-iwa_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/gan-iwa_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/yamakanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "やまかんむり",
+        "romaji": "yamakanmuri"
+      },
+      "meaning": {
+        "english": "mountain"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/yamakanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/yamakanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/yamakanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1423",
+      "classic_nelson": "1414"
+    }
+  },
+  "jishoData": {
+    "query": "岩",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "787",
+    "strokeCount": 8,
+    "meaning": "boulder, rock, cliff",
+    "kunyomi": [
+      "いわ"
+    ],
+    "onyomi": [
+      "ガン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "岩盤",
+        "reading": "ガンバン",
+        "meaning": "bedrock"
+      },
+      {
+        "example": "岩石",
+        "reading": "ガンセキ",
+        "meaning": "rock"
+      },
+      {
+        "example": "砂岩",
+        "reading": "サガン",
+        "meaning": "sandstone"
+      },
+      {
+        "example": "石灰岩",
+        "reading": "セッカイガン",
+        "meaning": "limestone"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "岩",
+        "reading": "いわ",
+        "meaning": "rock, boulder, crag"
+      },
+      {
+        "example": "岩間",
+        "reading": "いわま",
+        "meaning": "among rocks"
+      },
+      {
+        "example": "一枚岩",
+        "reading": "いちまいいわ",
+        "meaning": "monolith, large slab of rock, unity (of a group, organization, etc.), unanimity, solidarity"
+      },
+      {
+        "example": "浮岩",
+        "reading": "うきいわ",
+        "meaning": "rock partially submerged in water, rock partially emerging from the water, pumice stone"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "口",
+      "山",
+      "石"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23721_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ca9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ca9.gif",
+    "uri": "https://jisho.org/search/%E5%B2%A9%23kanji"
+  }
+}

@@ -1,1 +1,40 @@
-{"id":"鮹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鮹","found":true,"strokeCount":18,"meaning":"octopus","kunyomi":["たこ"],"onyomi":["ショウ","ソウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"蛸","reading":"たこ","meaning":"octopus"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["尚","月","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39865_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bb9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bb9.gif","uri":"https://jisho.org/search/%E9%AE%B9%23kanji"}}
+{
+  "id": "鮹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鮹",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "octopus",
+    "kunyomi": [
+      "たこ"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蛸",
+        "reading": "たこ",
+        "meaning": "octopus, fool, idiot"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "尚",
+      "月",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39865_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bb9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bb9.gif",
+    "uri": "https://jisho.org/search/%E9%AE%B9%23kanji"
+  }
+}

@@ -1,1 +1,54 @@
-{"id":"躙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"躙","found":true,"strokeCount":23,"meaning":"edge forward, trample","kunyomi":["にじ.る","ふ.む"],"onyomi":["リン"],"onyomiExamples":[{"example":"蹂躙","reading":"ジュウリン","meaning":"trampling down, overrunning, infringement, violation"},{"example":"人道蹂躙","reading":"ジンドウジュウリン","meaning":"outrage against humanity"}],"kunyomiExamples":[{"example":"躙る","reading":"にじる","meaning":"to shuffle one's feet, to trample underfoot"}],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["口","止","足","門","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36505_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e99.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e99.gif","uri":"https://jisho.org/search/%E8%BA%99%23kanji"}}
+{
+  "id": "躙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "躙",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "edge forward, trample",
+    "kunyomi": [
+      "にじ.る",
+      "ふ.む"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蹂躙",
+        "reading": "ジュウリン",
+        "meaning": "trampling down, overrunning, infringement, violation"
+      },
+      {
+        "example": "人道蹂躙",
+        "reading": "ジンドウジュウリン",
+        "meaning": "outrage against humanity"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "躙る",
+        "reading": "にじる",
+        "meaning": "to shuffle one's feet, to trample underfoot"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "口",
+      "止",
+      "足",
+      "門",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36505_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e99.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e99.gif",
+    "uri": "https://jisho.org/search/%E8%BA%99%23kanji"
+  }
+}

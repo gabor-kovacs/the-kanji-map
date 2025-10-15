@@ -1,1 +1,36 @@
-{"id":"梺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梺","found":true,"strokeCount":11,"meaning":"base of a mountain, (kokuji)","kunyomi":["ふむと","ふもと"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"麓","reading":"ふもと","meaning":"foot (of a mountain or hill), bottom, base"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","卜","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26810_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068ba.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68ba.gif","uri":"https://jisho.org/search/%E6%A2%BA%23kanji"}}
+{
+  "id": "梺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梺",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "base of a mountain, (kokuji)",
+    "kunyomi": [
+      "ふむと",
+      "ふもと"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "麓",
+        "reading": "ふもと",
+        "meaning": "foot (of a mountain or hill), bottom, base"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "卜",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26810_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068ba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68ba.gif",
+    "uri": "https://jisho.org/search/%E6%A2%BA%23kanji"
+  }
+}

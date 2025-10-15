@@ -1,1 +1,50 @@
-{"id":"岨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"岨","found":true,"strokeCount":8,"meaning":"a rocky mountain","kunyomi":["いしやま","そば"],"onyomi":["ソ","ショ"],"onyomiExamples":[{"example":"岨道","reading":"ソバミチ","meaning":"steep mountain road, dangerous mountain path"},{"example":"険阻","reading":"ケンソ","meaning":"precipice, steep (e.g. mountain pass)"}],"kunyomiExamples":[{"example":"岨道","reading":"そばみち","meaning":"steep mountain road, dangerous mountain path"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["一","山","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23720_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ca8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ca8.gif","uri":"https://jisho.org/search/%E5%B2%A8%23kanji"}}
+{
+  "id": "岨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "岨",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "a rocky mountain",
+    "kunyomi": [
+      "いしやま",
+      "そば"
+    ],
+    "onyomi": [
+      "ソ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "岨道",
+        "reading": "ソバミチ",
+        "meaning": "steep mountain road, dangerous mountain path"
+      },
+      {
+        "example": "険阻",
+        "reading": "ケンソ",
+        "meaning": "steep (terrain), precipitous, precipice, steep place"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "岨道",
+        "reading": "そばみち",
+        "meaning": "steep mountain road, dangerous mountain path"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "一",
+      "山",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23720_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ca8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ca8.gif",
+    "uri": "https://jisho.org/search/%E5%B2%A8%23kanji"
+  }
+}

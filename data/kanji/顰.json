@@ -1,1 +1,60 @@
-{"id":"顰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"顰","found":true,"strokeCount":24,"meaning":"scowl, raise eyebrows","kunyomi":["ひそ.める","しか.める"],"onyomi":["ヒン"],"onyomiExamples":[{"example":"顰み","reading":"ヒソミ","meaning":"knitted brows, frown"},{"example":"顰蹙","reading":"ヒンシュク","meaning":"frowning on, looking on with scorn, showing disapproval"}],"kunyomiExamples":[{"example":"顰める","reading":"ひそめる","meaning":"to knit (one's eyebrows), to furrow, to contract"},{"example":"顰める","reading":"しかめる","meaning":"to screw up (one's face), to scrunch up, to pucker up, to furrow (one's brow), to wrinkle"}],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ノ","ハ","十","小","止","田","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39024_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09870.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9870.gif","uri":"https://jisho.org/search/%E9%A1%B0%23kanji"}}
+{
+  "id": "顰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "顰",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "scowl, raise eyebrows",
+    "kunyomi": [
+      "ひそ.める",
+      "しか.める"
+    ],
+    "onyomi": [
+      "ヒン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "顰み",
+        "reading": "ヒソミ",
+        "meaning": "knitted brows, frown"
+      },
+      {
+        "example": "顰蹙",
+        "reading": "ヒンシュク",
+        "meaning": "frowning on, looking on with scorn, showing disapproval"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "顰める",
+        "reading": "ひそめる",
+        "meaning": "to knit (one's eyebrows), to furrow, to contract"
+      },
+      {
+        "example": "顰める",
+        "reading": "しかめる",
+        "meaning": "to screw up (one's face), to scrunch up, to pucker up, to furrow (one's brow), to wrinkle"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "十",
+      "小",
+      "止",
+      "田",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39024_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09870.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9870.gif",
+    "uri": "https://jisho.org/search/%E9%A1%B0%23kanji"
+  }
+}

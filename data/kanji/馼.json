@@ -1,1 +1,30 @@
-{"id":"馼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"馼","found":true,"strokeCount":14,"meaning":"zebra with yellow eyes and red mane","kunyomi":[],"onyomi":["ブン","モン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"馬","meaning":"horse"},"parts":["文","杰","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39356_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099bc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99bc.gif","uri":"https://jisho.org/search/%E9%A6%BC%23kanji"}}
+{
+  "id": "馼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "馼",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "zebra with yellow eyes and red mane",
+    "kunyomi": [],
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "文",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39356_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099bc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99bc.gif",
+    "uri": "https://jisho.org/search/%E9%A6%BC%23kanji"
+  }
+}

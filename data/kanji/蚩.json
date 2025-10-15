@@ -1,1 +1,41 @@
-{"id":"蚩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蚩","found":true,"strokeCount":10,"meaning":"fool, make a fool of","kunyomi":[],"onyomi":["シ"],"onyomiExamples":[{"example":"鴟尾","reading":"シビ","meaning":"ornamental ridge-end tile"},{"example":"蚩尤","reading":"シユウ","meaning":"Chinese god of war"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["一","屮","山","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34473_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086a9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86a9.gif","uri":"https://jisho.org/search/%E8%9A%A9%23kanji"}}
+{
+  "id": "蚩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蚩",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "fool, make a fool of",
+    "kunyomi": [],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鴟尾",
+        "reading": "シビ",
+        "meaning": "ornamental ridge-end tile"
+      },
+      {
+        "example": "蚩尤",
+        "reading": "シユウ",
+        "meaning": "Chiyou (Chinese god of war)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "一",
+      "屮",
+      "山",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34473_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086a9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86a9.gif",
+    "uri": "https://jisho.org/search/%E8%9A%A9%23kanji"
+  }
+}

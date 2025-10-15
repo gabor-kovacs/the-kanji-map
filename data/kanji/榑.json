@@ -1,1 +1,50 @@
-{"id":"榑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"榑","found":true,"strokeCount":14,"meaning":"unbarked lumber","kunyomi":["くれ"],"onyomi":["フ"],"onyomiExamples":[{"example":"扶桑","reading":"フソウ","meaning":"divine tree or island east of China (in Chinese mythology), Fusang, Japan, Chinese hibiscus (Hibiscus rosa-sinensis)"}],"kunyomiExamples":[{"example":"節榑","reading":"ふしくれ","meaning":"knotty wood or tree"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["丶","十","寸","木","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27025_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06991.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6991.gif","uri":"https://jisho.org/search/%E6%A6%91%23kanji"}}
+{
+  "id": "榑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "榑",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "unbarked lumber",
+    "kunyomi": [
+      "くれ"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "扶桑",
+        "reading": "フソウ",
+        "meaning": "divine tree or island east of China, Fusang, Japan, Chinese hibiscus (Hibiscus rosa-sinensis)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "くれ縁",
+        "reading": "くれえん",
+        "meaning": "open-air veranda with thin boards running the length of it"
+      },
+      {
+        "example": "節榑",
+        "reading": "ふしくれ",
+        "meaning": "knotty wood or tree"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "寸",
+      "木",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27025_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06991.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6991.gif",
+    "uri": "https://jisho.org/search/%E6%A6%91%23kanji"
+  }
+}

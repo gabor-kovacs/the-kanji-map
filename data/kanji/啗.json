@@ -1,1 +1,33 @@
-{"id":"啗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"啗","found":true,"strokeCount":11,"meaning":"allure, entice","kunyomi":["く.らわす","く.う","く.らう"],"onyomi":["タン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["勹","口","臼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21847_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05557.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5557.gif","uri":"https://jisho.org/search/%E5%95%97%23kanji"}}
+{
+  "id": "啗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "啗",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "allure, entice",
+    "kunyomi": [
+      "く.らわす",
+      "く.う",
+      "く.らう"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "勹",
+      "口",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21847_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05557.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5557.gif",
+    "uri": "https://jisho.org/search/%E5%95%97%23kanji"
+  }
+}

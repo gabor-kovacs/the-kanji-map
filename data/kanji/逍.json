@@ -1,1 +1,45 @@
-{"id":"逍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"逍","found":true,"strokeCount":11,"meaning":"saunter, loaf","kunyomi":[],"onyomi":["ショウ"],"onyomiExamples":[{"example":"逍遥","reading":"ショウヨウ","meaning":"ramble, saunter, walk, wander, stroll"},{"example":"逍遥学派","reading":"ショウヨウガクハ","meaning":"Peripatetic school (of philosophy)"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["尚","月","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36877_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0900d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/900d.gif","uri":"https://jisho.org/search/%E9%80%8D%23kanji"}}
+{
+  "id": "逍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逍",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "saunter, loaf",
+    "kunyomi": [],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "逍遥",
+        "reading": "ショウヨウ",
+        "meaning": "ramble, saunter, walk, wander, stroll"
+      },
+      {
+        "example": "逍遥学派",
+        "reading": "ショウヨウガクハ",
+        "meaning": "Peripatetic school"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "尚",
+      "月",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36877_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0900d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/900d.gif",
+    "uri": "https://jisho.org/search/%E9%80%8D%23kanji"
+  }
+}

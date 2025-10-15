@@ -1,1 +1,35 @@
-{"id":"楾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"楾","found":true,"strokeCount":13,"meaning":"container for pouring water, (kokuji)","kunyomi":["はんぞう"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"半挿","reading":"はんぞう","meaning":"teapot-like object made typically of lacquerware and used to pour hot and cold liquids, basin of water with two handles on either side used for washing one's face or hands"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["木","水","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27006_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0697e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/697e.gif","uri":"https://jisho.org/search/%E6%A5%BE%23kanji"}}
+{
+  "id": "楾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楾",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "container for pouring water, (kokuji)",
+    "kunyomi": [
+      "はんぞう"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "半挿",
+        "reading": "はんぞう",
+        "meaning": "teapot-like object made typically of lacquerware and used to pour hot and cold liquids, basin of water with two handles on either side used for washing one's face or hands"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "木",
+      "水",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27006_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0697e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/697e.gif",
+    "uri": "https://jisho.org/search/%E6%A5%BE%23kanji"
+  }
+}

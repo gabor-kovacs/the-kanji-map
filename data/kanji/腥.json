@@ -1,1 +1,41 @@
-{"id":"腥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"腥","found":true,"strokeCount":13,"meaning":"bloody, smelling of fish, raw smelling","kunyomi":["なまぐさ.い"],"onyomi":["セイ","ショウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"生臭い","reading":"なまぐさい","meaning":"smelling of fish, fishy, smelling of blood, bloody, degenerate (of a monk), depraved, corrupt, fallen, worldly, mundane, secular, common, ordinary, fishy, suspicious, questionable"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["日","月","生"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33125_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08165.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8165.gif","uri":"https://jisho.org/search/%E8%85%A5%23kanji"}}
+{
+  "id": "腥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腥",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "bloody, smelling of fish, raw smelling",
+    "kunyomi": [
+      "なまぐさ.い"
+    ],
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "生臭い",
+        "reading": "なまぐさい",
+        "meaning": "smelling of fish, fishy, smelling of blood, bloody, degenerate (of a monk), depraved, corrupt, fallen, worldly, mundane, secular, common, ordinary, fishy, suspicious, questionable"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "日",
+      "月",
+      "生"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33125_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08165.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8165.gif",
+    "uri": "https://jisho.org/search/%E8%85%A5%23kanji"
+  }
+}

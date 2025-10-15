@@ -1,1 +1,57 @@
-{"id":"鬘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鬘","found":true,"strokeCount":21,"meaning":"wig, hair piece","kunyomi":["かつら"],"onyomi":["バン","マン"],"onyomiExamples":[{"example":"華鬘","reading":"ケマン","meaning":"Buddhist decoration engraved with various motifs, often made from gilt copper (e.g. for adorning the inner shrine of a temple)"}],"kunyomiExamples":[{"example":"鬘","reading":"かつら","meaning":"wig, hairpiece, toupee"},{"example":"百日鬘","reading":"ひゃくにちかずら","meaning":"long-haired wig used in kabuki (used metaphorically to refer to a thick growth)"},{"example":"全かつら","reading":"ぜんかつら","meaning":"full wig, whole wig"}],"radical":{"symbol":"髟","meaning":"long hair"},"parts":["又","彡","日","買","長","髟"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39704_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b18.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b18.gif","uri":"https://jisho.org/search/%E9%AC%98%23kanji"}}
+{
+  "id": "鬘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鬘",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "wig, hair piece",
+    "kunyomi": [
+      "かつら"
+    ],
+    "onyomi": [
+      "バン",
+      "マン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "華鬘",
+        "reading": "ケマン",
+        "meaning": "Buddhist decoration engraved with various motifs, often made from gilt copper (e.g. for adorning the inner shrine of a temple)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鬘",
+        "reading": "かつら",
+        "meaning": "wig, hairpiece, toupee"
+      },
+      {
+        "example": "百日鬘",
+        "reading": "ひゃくにちかずら",
+        "meaning": "long-haired wig used in kabuki (used metaphorically to refer to a thick growth)"
+      },
+      {
+        "example": "全かつら",
+        "reading": "ぜんかつら",
+        "meaning": "full wig, whole wig"
+      }
+    ],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "long hair"
+    },
+    "parts": [
+      "又",
+      "彡",
+      "日",
+      "買",
+      "長",
+      "髟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39704_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b18.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b18.gif",
+    "uri": "https://jisho.org/search/%E9%AC%98%23kanji"
+  }
+}

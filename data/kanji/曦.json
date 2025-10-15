@@ -1,1 +1,33 @@
-{"id":"曦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"曦","found":true,"strokeCount":20,"meaning":"the sun","kunyomi":[],"onyomi":["ギ","キ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["亅","并","戈","日","王","羊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26342_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066e6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66e6.gif","uri":"https://jisho.org/search/%E6%9B%A6%23kanji"}}
+{
+  "id": "曦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "曦",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "the sun",
+    "kunyomi": [],
+    "onyomi": [
+      "ギ",
+      "キ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "亅",
+      "并",
+      "戈",
+      "日",
+      "王",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26342_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066e6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66e6.gif",
+    "uri": "https://jisho.org/search/%E6%9B%A6%23kanji"
+  }
+}

@@ -1,1 +1,38 @@
-{"id":"據","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"據","found":true,"strokeCount":16,"meaning":"to occupy, take possession of, a base","kunyomi":["よ.る"],"onyomi":["キョ","コ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["匕","卜","厂","扎","虍","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25818_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064da.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64da.gif","uri":"https://jisho.org/search/%E6%93%9A%23kanji"}}
+{
+  "id": "據",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "據",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "to occupy, take possession of, a base",
+    "kunyomi": [
+      "よ.る"
+    ],
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "匕",
+      "卜",
+      "厂",
+      "扎",
+      "虍",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25818_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064da.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64da.gif",
+    "uri": "https://jisho.org/search/%E6%93%9A%23kanji"
+  }
+}

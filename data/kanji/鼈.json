@@ -1,1 +1,57 @@
-{"id":"鼈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鼈","found":true,"strokeCount":25,"meaning":"snapping turtle, fresh-water turtle","kunyomi":["すっぽん"],"onyomi":["ベツ","ヘツ"],"onyomiExamples":[{"example":"鼈","reading":"スッポン","meaning":"Chinese soft-shelled turtle (Pelodiscus sinensis), soft-shelled turtle (Trionychidae), trap door located on the walkway in a kabuki theatre, bilge pump (used on traditional Japanese ships)"}],"kunyomiExamples":[{"example":"鼈","reading":"すっぽん","meaning":"Chinese soft-shelled turtle (Pelodiscus sinensis), soft-shelled turtle (Trionychidae), trap door located on the walkway in a kabuki theatre, bilge pump (used on traditional Japanese ships)"},{"example":"鼈茸","reading":"すっぽんたけ","meaning":"common stinkhorn (Phallus impudicus)"},{"example":"月とスッポン","reading":"つきとスッポン","meaning":"two things that superficially similar but completely different, night and day, chalk and cheese, the Moon and a turtle"}],"radical":{"symbol":"黽","meaning":"frog, amphibian"},"parts":["乞","冂","小","尚","攵","黽"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40712_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f08.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f08.gif","uri":"https://jisho.org/search/%E9%BC%88%23kanji"}}
+{
+  "id": "鼈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鼈",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "snapping turtle, fresh-water turtle",
+    "kunyomi": [
+      "すっぽん"
+    ],
+    "onyomi": [
+      "ベツ",
+      "ヘツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鼈",
+        "reading": "スッポン",
+        "meaning": "Chinese soft-shelled turtle (Pelodiscus sinensis), soft-shelled turtle (Trionychidae), trap door located on the walkway in a kabuki theatre, bilge pump (used on traditional Japanese ships)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鼈",
+        "reading": "すっぽん",
+        "meaning": "Chinese soft-shelled turtle (Pelodiscus sinensis), soft-shelled turtle (Trionychidae), trap door located on the walkway in a kabuki theatre, bilge pump (used on traditional Japanese ships)"
+      },
+      {
+        "example": "鼈茸",
+        "reading": "すっぽんたけ",
+        "meaning": "common stinkhorn (Phallus impudicus)"
+      },
+      {
+        "example": "月とスッポン",
+        "reading": "つきとすっぽん",
+        "meaning": "two things that are superficially similar but completely different, night and day, chalk and cheese, the Moon and a turtle"
+      }
+    ],
+    "radical": {
+      "symbol": "黽",
+      "meaning": "frog, amphibian"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "小",
+      "尚",
+      "攵",
+      "黽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40712_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f08.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f08.gif",
+    "uri": "https://jisho.org/search/%E9%BC%88%23kanji"
+  }
+}

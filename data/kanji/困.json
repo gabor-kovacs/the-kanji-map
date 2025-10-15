@@ -1,1 +1,335 @@
-{"id":"困","kanjialiveData":{"kanji":{"character":"困","meaning":{"english":"be in trouble"},"strokes":{"count":7,"timings":[0,1.266,3.533,4.8,5.732,6.4,7.267,8.266667],"images":["https://media.kanjialive.com/kanji_strokes/koma(ru)_1.svg","https://media.kanjialive.com/kanji_strokes/koma(ru)_2.svg","https://media.kanjialive.com/kanji_strokes/koma(ru)_3.svg","https://media.kanjialive.com/kanji_strokes/koma(ru)_4.svg","https://media.kanjialive.com/kanji_strokes/koma(ru)_5.svg","https://media.kanjialive.com/kanji_strokes/koma(ru)_6.svg","https://media.kanjialive.com/kanji_strokes/koma(ru)_7.svg"]},"onyomi":{"romaji":"kon","katakana":"コン"},"kunyomi":{"romaji":"koma, komaru","hiragana":"こま"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/koma(ru)_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/koma(ru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/koma(ru)_00.webm"}},"radical":{"character":"⼞","strokes":3,"image":"https://media.kanjialive.com/radical_character/kunigamae.svg","position":{"hiragana":"かまえ, くにがまえ","romaji":"kamae, kunigamae","icon":"https://media.kanjialive.com/rad_positions/kunigamae.svg"},"name":{"hiragana":"くにがまえ","romaji":"kunigamae"},"meaning":{"english":"border, territorial boundaries"},"animation":["https://media.kanjialive.com/rad_frames/kunigamae0.svg","https://media.kanjialive.com/rad_frames/kunigamae1.svg","https://media.kanjialive.com/rad_frames/kunigamae2.svg"]},"references":{"grade":6,"kodansha":"1950","classic_nelson":"1033"},"examples":[{"japanese":"困惑する（こんわくする）","meaning":{"english":"be bewildered"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koma(ru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koma(ru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koma(ru)_06_a.mp3"}},{"japanese":"困難（こんなん）","meaning":{"english":"difficulty"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koma(ru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koma(ru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koma(ru)_06_b.mp3"}},{"japanese":"貧困（ひんこん）","meaning":{"english":"poverty"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koma(ru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koma(ru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koma(ru)_06_c.mp3"}},{"japanese":"困る（こまる）","meaning":{"english":"have trouble"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/koma(ru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/koma(ru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/koma(ru)_06_d.mp3"}}]},"jishoData":{"query":"困","found":true,"taughtIn":"grade 6","jlptLevel":"N3","newspaperFrequencyRank":"843","strokeCount":7,"meaning":"quandary, become distressed, annoyed","kunyomi":["こま.る"],"onyomi":["コン"],"onyomiExamples":[{"example":"困惑","reading":"コンワク","meaning":"bewilderment, perplexity, embarrassment, discomfiture, bafflement"},{"example":"困難","reading":"コンナン","meaning":"difficulty, hardship, trouble, distress, infeasibility, inability (to carry out)"},{"example":"絶対貧困","reading":"ゼッタイヒンコン","meaning":"absolute poverty"},{"example":"絶対的貧困","reading":"ゼッタイテキヒンコン","meaning":"absolute poverty"}],"kunyomiExamples":[{"example":"困る","reading":"こまる","meaning":"to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed, to be bothered, to be inconvenienced, to be annoyed, to be badly off, to be hard up, to be in straitened circumstances"}],"radical":{"symbol":"囗","meaning":"enclosure"},"parts":["囗","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22256_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056f0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56f0.gif","uri":"https://jisho.org/search/%E5%9B%B0%23kanji"}}
+{
+  "id": "困",
+  "kanjialiveData": {
+    "_id": "54317ae0791eba5146ee4930",
+    "_rev": "13-1afe8b2ea365987a661f3270059b4fec",
+    "rad_name_ja": "くにがまえ",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "koma, komaru",
+    "meaning": "be in trouble",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "困惑する（こんわくする）",
+        "meaning": {
+          "english": "be bewildered"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koma(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koma(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koma(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "困難（こんなん）",
+        "meaning": {
+          "english": "difficulty"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koma(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koma(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koma(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "貧困（ひんこん）",
+        "meaning": {
+          "english": "poverty"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koma(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koma(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koma(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "困る（こまる）",
+        "meaning": {
+          "english": "have trouble"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/koma(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/koma(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/koma(ru)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "こま、こまる",
+    "ka_utf": "困",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=困",
+    "kname": "koma(ru)",
+    "rad_order": 36,
+    "txt_books": [
+      {
+        "chapter": "15",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "7"
+      }
+    ],
+    "rad_name_search": [
+      "kunigamae"
+    ],
+    "rad_utf": "⼞",
+    "stroketimes": [
+      0,
+      1.266,
+      3.533,
+      4.8,
+      5.732,
+      6.4,
+      7.267,
+      8.266667
+    ],
+    "kunyomi_ka_display": "こま",
+    "dick": "1950",
+    "rad_name": "kunigamae",
+    "dicn": "1033",
+    "mn_hint": "Feeling like a tree 木 within a confined space 口.",
+    "rad_stroke": 3,
+    "onyomi_ja": "コン",
+    "rad_meaning": "border, territorial boundaries",
+    "onyomi": "kon",
+    "ka_id": "ka_139",
+    "rad_position": "kamae, kunigamae",
+    "rad_position_ja": "かまえ, くにがまえ",
+    "rad_position_search": [
+      "kamae",
+      "kunigamae",
+      "kamae, kunigamae"
+    ],
+    "onyomi_search": [
+      "kon",
+      "kon"
+    ],
+    "kunyomi_search": [
+      "koma",
+      "komaru",
+      "koma, komaru"
+    ],
+    "meaning_search": [
+      "be in trouble",
+      "be",
+      "in",
+      "trouble",
+      "be in trouble"
+    ],
+    "onyomi_ja_search": [
+      "コン",
+      "コン"
+    ],
+    "kunyomi_ja_search": [
+      "こま",
+      "こまる",
+      "こま、こまる"
+    ],
+    "rad_meaning_search": [
+      "border",
+      "territorial boundaries",
+      "territorial",
+      "boundaries",
+      "border, territorial boundaries"
+    ],
+    "rad_position_ja_search": [
+      "かまえ",
+      "くにがまえ",
+      "かまえ, くにがまえ"
+    ],
+    "rad_name_ja_search": [
+      "くにがまえ"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:15",
+      "cij:c15",
+      "bk",
+      "bk:13",
+      "bk:c13",
+      "mac",
+      "mac:14",
+      "mac:c14",
+      "aij3",
+      "aij3:2",
+      "aij3:c2",
+      "aij3:v4",
+      "aij3:v4:2",
+      "aij3:v4:c2",
+      "ap",
+      "ap:6",
+      "ap:c6",
+      "kll",
+      "kll:22",
+      "kll:c22",
+      "jtr",
+      "jtr:2",
+      "jtr:c2",
+      "cijr",
+      "cijr:7",
+      "cijr:c7"
+    ],
+    "rad_name_file": "kunigamae",
+    "kanji": {
+      "character": "困",
+      "meaning": {
+        "english": "be in trouble"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.266,
+          3.533,
+          4.8,
+          5.732,
+          6.4,
+          7.267,
+          8.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/koma(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/koma(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/koma(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/koma(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/koma(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/koma(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/koma(ru)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kon",
+        "katakana": "コン"
+      },
+      "kunyomi": {
+        "romaji": "koma, komaru",
+        "hiragana": "こま"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/koma(ru)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/koma(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/koma(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼞",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kunigamae.svg",
+      "position": {
+        "hiragana": "かまえ, くにがまえ",
+        "romaji": "kamae, kunigamae",
+        "icon": "https://media.kanjialive.com/rad_positions/kunigamae.svg"
+      },
+      "name": {
+        "hiragana": "くにがまえ",
+        "romaji": "kunigamae"
+      },
+      "meaning": {
+        "english": "border, territorial boundaries"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
+        "https://media.kanjialive.com/rad_frames/kunigamae1.svg",
+        "https://media.kanjialive.com/rad_frames/kunigamae2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1950",
+      "classic_nelson": "1033"
+    }
+  },
+  "jishoData": {
+    "query": "困",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "843",
+    "strokeCount": 7,
+    "meaning": "quandary, become distressed, annoyed",
+    "kunyomi": [
+      "こま.る"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "困惑",
+        "reading": "コンワク",
+        "meaning": "bewilderment, perplexity, embarrassment, discomfiture, bafflement"
+      },
+      {
+        "example": "困難",
+        "reading": "コンナン",
+        "meaning": "difficulty, hardship, trouble, distress, infeasibility, inability (to carry out)"
+      },
+      {
+        "example": "絶対貧困",
+        "reading": "ゼッタイヒンコン",
+        "meaning": "absolute poverty"
+      },
+      {
+        "example": "絶対的貧困",
+        "reading": "ゼッタイテキヒンコン",
+        "meaning": "absolute poverty"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "困る",
+        "reading": "こまる",
+        "meaning": "to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed, to be bothered, to be inconvenienced, to be annoyed, to be badly off, to be hard up, to be in straitened circumstances"
+      }
+    ],
+    "radical": {
+      "symbol": "囗",
+      "meaning": "enclosure"
+    },
+    "parts": [
+      "囗",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22256_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056f0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56f0.gif",
+    "uri": "https://jisho.org/search/%E5%9B%B0%23kanji"
+  }
+}

@@ -1,1 +1,70 @@
-{"id":"詠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"詠","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2000","strokeCount":12,"meaning":"recitation, poem, song, composing","kunyomi":["よ.む","うた.う"],"onyomi":["エイ"],"onyomiExamples":[{"example":"詠","reading":"エイ","meaning":"recitation (of a poem), chanting, singing, composition (of a poem), composed poem"},{"example":"詠歌","reading":"エイカ","meaning":"poem (esp. tanka), song, composition of a poem or song, pilgrim's song, pilgrim's hymn, singing a poem or song in a loud voice"},{"example":"朗詠","reading":"ロウエイ","meaning":"recitation (of Japanese or Chinese poem)"},{"example":"遺詠","reading":"イエイ","meaning":"posthumous song or poem"}],"kunyomiExamples":[{"example":"詠む","reading":"よむ","meaning":"to compose (a Japanese poem), to write, to use as the theme of a poem, to recite (e.g. a poem), to chant, to intone"},{"example":"歌う","reading":"うたう","meaning":"to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["丶","水","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35424_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a60.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a60.gif","uri":"https://jisho.org/search/%E8%A9%A0%23kanji"}}
+{
+  "id": "詠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "詠",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2000",
+    "strokeCount": 12,
+    "meaning": "recitation, poem, song, composing",
+    "kunyomi": [
+      "よ.む",
+      "うた.う"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "詠",
+        "reading": "エイ",
+        "meaning": "recitation (of a poem), chanting, singing, composition (of a poem), composed poem"
+      },
+      {
+        "example": "詠歌",
+        "reading": "エイカ",
+        "meaning": "poem (esp. tanka), song, composition of a poem or song, pilgrim's song, pilgrim's hymn, singing a poem or song in a loud voice"
+      },
+      {
+        "example": "朗詠",
+        "reading": "ロウエイ",
+        "meaning": "recitation (of Japanese or Chinese poem)"
+      },
+      {
+        "example": "遺詠",
+        "reading": "イエイ",
+        "meaning": "posthumous song or poem"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "詠む",
+        "reading": "よむ",
+        "meaning": "to compose (a Japanese poem), to write, to use as the theme of a poem, to recite (e.g. a poem), to chant, to intone"
+      },
+      {
+        "example": "歌う",
+        "reading": "うたう",
+        "meaning": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "丶",
+      "水",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35424_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a60.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a60.gif",
+    "uri": "https://jisho.org/search/%E8%A9%A0%23kanji"
+  }
+}

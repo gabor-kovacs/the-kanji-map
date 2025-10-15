@@ -1,1 +1,65 @@
-{"id":"播","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"播","found":true,"newspaperFrequencyRank":"2204","strokeCount":15,"meaning":"plant, sow","kunyomi":["ま.く"],"onyomi":["ハ","バン","ハン"],"onyomiExamples":[{"example":"播種","reading":"ハシュ","meaning":"sowing, seeding, planting"},{"example":"は種床","reading":"ハシュドコ","meaning":"container for growing seedlings, seedbed, sowing bed"},{"example":"播州","reading":"バンシュウ","meaning":"old name for part of Hyogo prefecture"}],"kunyomiExamples":[{"example":"蒔く","reading":"まく","meaning":"to sow, to plant, to seed, to sow (the seeds of; e.g. conflict), to sprinkle (gold or silver powder on lacquerware)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["扎","田","米","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25773_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ad.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ad.gif","uri":"https://jisho.org/search/%E6%92%AD%23kanji"}}
+{
+  "id": "播",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "播",
+    "found": true,
+    "newspaperFrequencyRank": "2204",
+    "strokeCount": 15,
+    "meaning": "plant, sow",
+    "kunyomi": [
+      "ま.く"
+    ],
+    "onyomi": [
+      "ハ",
+      "バン",
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "播種",
+        "reading": "ハシュ",
+        "meaning": "sowing, seeding, planting"
+      },
+      {
+        "example": "は種床",
+        "reading": "ハシュドコ",
+        "meaning": "container for growing seedlings, seedbed, sowing bed"
+      },
+      {
+        "example": "播州",
+        "reading": "バンシュウ",
+        "meaning": "old name for part of Hyogo prefecture"
+      },
+      {
+        "example": "播但線",
+        "reading": "バンタンセン",
+        "meaning": "Bantan Line (Hyogo Prefecture)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蒔く",
+        "reading": "まく",
+        "meaning": "to sow, to plant, to seed, to sow (the seeds of; e.g. conflict), to sprinkle (gold or silver powder on lacquerware)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "扎",
+      "田",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25773_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ad.gif",
+    "uri": "https://jisho.org/search/%E6%92%AD%23kanji"
+  }
+}

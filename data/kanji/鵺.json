@@ -1,1 +1,45 @@
-{"id":"鵺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鵺","found":true,"strokeCount":19,"meaning":"fabulous night bird, chimera","kunyomi":["ぬえ"],"onyomi":["コウ","ヤ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鵺","reading":"ぬえ","meaning":"Japanese chimera, mythical creature with a monkey's head, tanuki's body, tiger's limbs, and a snake tail, White's thrush (Zoothera dauma), mysterious person, person of unknown character, enigma"},{"example":"鵺的","reading":"ぬえてき","meaning":"mysterious, strange, sphinx-like, enigmatic, noncommittal"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["亠","化","夕","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40314_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d7a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d7a.gif","uri":"https://jisho.org/search/%E9%B5%BA%23kanji"}}
+{
+  "id": "鵺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鵺",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "fabulous night bird, chimera",
+    "kunyomi": [
+      "ぬえ"
+    ],
+    "onyomi": [
+      "コウ",
+      "ヤ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鵺",
+        "reading": "ぬえ",
+        "meaning": "Japanese chimera, mythical creature with a monkey's head, tanuki's body, tiger's limbs, and a snake tail, White's thrush (Zoothera dauma), mysterious person, person of unknown character, enigma"
+      },
+      {
+        "example": "鵺的",
+        "reading": "ぬえてき",
+        "meaning": "mysterious, strange, sphinx-like, enigmatic, noncommittal"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "亠",
+      "化",
+      "夕",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40314_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d7a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d7a.gif",
+    "uri": "https://jisho.org/search/%E9%B5%BA%23kanji"
+  }
+}

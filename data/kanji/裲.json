@@ -1,1 +1,42 @@
-{"id":"裲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"裲","found":true,"strokeCount":13,"meaning":"ancient robe","kunyomi":["うちかけ"],"onyomi":["リョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"打ち掛け","reading":"うちかけ","meaning":"women's bridal robe with trailing skirts worn over a kimono, ending play for the day, leaving a game unfinished (esp. Go)"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["一","入","冂","初","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35058_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088f2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88f2.gif","uri":"https://jisho.org/search/%E8%A3%B2%23kanji"}}
+{
+  "id": "裲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裲",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "ancient robe",
+    "kunyomi": [
+      "うちかけ"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "打ち掛け",
+        "reading": "うちかけ",
+        "meaning": "women's bridal robe with trailing skirts worn over a kimono, ending play for the day, leaving a game unfinished (esp. Go)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "一",
+      "入",
+      "冂",
+      "初",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35058_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088f2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88f2.gif",
+    "uri": "https://jisho.org/search/%E8%A3%B2%23kanji"
+  }
+}

@@ -1,1 +1,55 @@
-{"id":"龕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"龕","found":true,"strokeCount":22,"meaning":"alcove for an image","kunyomi":["れい"],"onyomi":["カン","ガン"],"onyomiExamples":[{"example":"龕","reading":"ガン","meaning":"niche or alcove for an image, (in Okinawa) portable shrine used to move a deceased from their house to the graveyard"},{"example":"龕像","reading":"ガンゾウ","meaning":"Buddha figure carved into a rock, Buddha figure in a cabinet"},{"example":"起龕","reading":"キガン","meaning":"ceremonial removal of the coffin from the house (lay person) or temple (priest) (Zen Buddhism)"},{"example":"壁龕","reading":"ヘキガン","meaning":"niche (in Western architecture)"}],"kunyomiExamples":[],"radical":{"symbol":"龍","meaning":"dragon"},"parts":["一","个","口","月","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40853_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f95.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f95.gif","uri":"https://jisho.org/search/%E9%BE%95%23kanji"}}
+{
+  "id": "龕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "龕",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "alcove for an image",
+    "kunyomi": [
+      "れい"
+    ],
+    "onyomi": [
+      "カン",
+      "ガン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "龕",
+        "reading": "ガン",
+        "meaning": "niche for a Buddhist image, alcove, miniature shrine for a Buddhist image, portable shrine used to move a deceased person from their house to the graveyard (in Okinawa)"
+      },
+      {
+        "example": "龕像",
+        "reading": "ガンゾウ",
+        "meaning": "Buddha figure carved into a rock, Buddha figure in a cabinet"
+      },
+      {
+        "example": "起龕",
+        "reading": "キガン",
+        "meaning": "ceremonial removal of the coffin from the house (lay person) or temple (priest) (Zen Buddhism)"
+      },
+      {
+        "example": "壁龕",
+        "reading": "ヘキガン",
+        "meaning": "niche (in Western architecture)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "龍",
+      "meaning": "dragon"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "月",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40853_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f95.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f95.gif",
+    "uri": "https://jisho.org/search/%E9%BE%95%23kanji"
+  }
+}

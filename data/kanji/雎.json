@@ -1,1 +1,39 @@
-{"id":"雎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"雎","found":true,"strokeCount":13,"meaning":"osprey","kunyomi":[],"onyomi":["ショ"],"onyomiExamples":[{"example":"鶚","reading":"ミサゴ","meaning":"osprey (Pandion haliaetus), fish hawk"}],"kunyomiExamples":[],"radical":{"symbol":"隹","meaning":"small bird"},"parts":["目","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38606_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096ce.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96ce.gif","uri":"https://jisho.org/search/%E9%9B%8E%23kanji"}}
+{
+  "id": "雎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雎",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "osprey",
+    "kunyomi": [],
+    "onyomi": [
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鶚",
+        "reading": "ミサゴ",
+        "meaning": "osprey (Pandion haliaetus), fish hawk"
+      },
+      {
+        "example": "関雎",
+        "reading": "カンショ",
+        "meaning": "harmony and courtesy in a marriage"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "隹",
+      "meaning": "small bird"
+    },
+    "parts": [
+      "目",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38606_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096ce.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96ce.gif",
+    "uri": "https://jisho.org/search/%E9%9B%8E%23kanji"
+  }
+}

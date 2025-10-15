@@ -1,1 +1,74 @@
-{"id":"鳶","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鳶","found":true,"strokeCount":14,"meaning":"black kite, fireman, hook","kunyomi":["とび","とんび"],"onyomi":["エン"],"onyomiExamples":[{"example":"鳶飛魚躍","reading":"エンピギョヤク","meaning":"all of creation following their original natures, living and enjoying themselves freely, the kites fly and the fish leap, Heaven's will that all of creation shall follow their original natures and live freely, as a ruler's benevolence spreads, the people will find their places in the land based on their abilities"}],"kunyomiExamples":[{"example":"鳶","reading":"とび","meaning":"black kite (Milvus migrans), construction worker, scaffold erector, firefighter, fire hook, reddish brown, Inverness cape, filcher, sneak thief, pilferer"},{"example":"鳶色","reading":"とびいろ","meaning":"reddish brown"},{"example":"赤鳶","reading":"あかとび","meaning":"red kite (Milvus milvus)"},{"example":"糞鳶","reading":"くそとび","meaning":"common buzzard (Buteo buteo)"},{"example":"鳶","reading":"とび","meaning":"black kite (Milvus migrans), construction worker, scaffold erector, firefighter, fire hook, reddish brown, Inverness cape, filcher, sneak thief, pilferer"},{"example":"鳶足","reading":"とんびあし","meaning":"sitting position similar to seiza (but with both legs splayed out slightly and one's backside resting directly on the ground)"},{"example":"昼鳶","reading":"ひるとんび","meaning":"sneak thief, daytime prowler, pickpocketing"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["弋","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40182_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09cf6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9cf6.gif","uri":"https://jisho.org/search/%E9%B3%B6%23kanji"}}
+{
+  "id": "鳶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鳶",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "black kite, fireman, hook",
+    "kunyomi": [
+      "とび",
+      "とんび"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鳶飛魚躍",
+        "reading": "エンピギョヤク",
+        "meaning": "all of creation following their original natures, living and enjoying themselves freely, the kites fly and the fish leap, Heaven's will that all of creation shall follow their original natures and live freely, as a ruler's benevolence spreads, the people will find their places in the land based on their abilities"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鳶",
+        "reading": "とび",
+        "meaning": "black kite (Milvus migrans), construction worker, scaffold erector, firefighter, fire hook, reddish brown, Inverness cape, filcher, sneak thief, pilferer"
+      },
+      {
+        "example": "鳶色",
+        "reading": "とびいろ",
+        "meaning": "reddish brown"
+      },
+      {
+        "example": "赤鳶",
+        "reading": "あかとび",
+        "meaning": "red kite (Milvus milvus)"
+      },
+      {
+        "example": "糞鳶",
+        "reading": "くそとび",
+        "meaning": "common buzzard (Buteo buteo)"
+      },
+      {
+        "example": "鳶",
+        "reading": "とび",
+        "meaning": "black kite (Milvus migrans), construction worker, scaffold erector, firefighter, fire hook, reddish brown, Inverness cape, filcher, sneak thief, pilferer"
+      },
+      {
+        "example": "鳶足",
+        "reading": "とんびあし",
+        "meaning": "sitting position similar to seiza (but with both legs splayed out slightly and one's backside resting directly on the ground)"
+      },
+      {
+        "example": "昼鳶",
+        "reading": "ひるとんび",
+        "meaning": "sneak thief, daytime prowler, pickpocketing"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "弋",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40182_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09cf6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9cf6.gif",
+    "uri": "https://jisho.org/search/%E9%B3%B6%23kanji"
+  }
+}

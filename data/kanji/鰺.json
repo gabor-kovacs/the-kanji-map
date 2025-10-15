@@ -1,1 +1,55 @@
-{"id":"鰺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鰺","found":true,"strokeCount":22,"meaning":"horse mackerel","kunyomi":["あじ"],"onyomi":["ソウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鯵","reading":"あじ","meaning":"horse mackerel (Carangidae spp., esp. the Japanese horse mackerel, Trachurus japonicus), jack mackerel, pompano, scad"},{"example":"鰺刺","reading":"あじさし","meaning":"tern (esp. the common tern, Sterna hirundo)"},{"example":"糸引鰺","reading":"いとひきあじ","meaning":"African pompano (Alectis ciliaris)"},{"example":"真鯵","reading":"まあじ","meaning":"Japanese jack mackerel, Japanese horse mackerel (Trachurus japonicus)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["个","厶","彡","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39994_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c3a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c3a.gif","uri":"https://jisho.org/search/%E9%B0%BA%23kanji"}}
+{
+  "id": "鰺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰺",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "horse mackerel",
+    "kunyomi": [
+      "あじ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "【アジ】",
+        "reading": "horse mackerel (Carangidae spp., esp. the Japanese horse mackerel, Trachurus japonicus), jack mackerel, pompano, scad",
+        "meaning": ""
+      },
+      {
+        "example": "鰺刺",
+        "reading": "あじさし",
+        "meaning": "tern (esp. the common tern, Sterna hirundo)"
+      },
+      {
+        "example": "糸引鰺",
+        "reading": "いとひきあじ",
+        "meaning": "African pompano (Alectis ciliaris)"
+      },
+      {
+        "example": "真鯵",
+        "reading": "まあじ",
+        "meaning": "Japanese jack mackerel, Japanese horse mackerel (Trachurus japonicus)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "个",
+      "厶",
+      "彡",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39994_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c3a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c3a.gif",
+    "uri": "https://jisho.org/search/%E9%B0%BA%23kanji"
+  }
+}

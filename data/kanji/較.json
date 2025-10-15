@@ -1,1 +1,291 @@
-{"id":"較","kanjialiveData":{"kanji":{"character":"較","meaning":{"english":"compare"},"strokes":{"count":13,"timings":[0,1.2,2,3.6,4.8,6.133333,7.6,9.8,11.133333,12.466667,13.466667,14.466667,16.133333,18],"images":["https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_1.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_2.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_3.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_4.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_5.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_6.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_7.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_8.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_9.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_10.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_11.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_12.svg","https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_13.svg"]},"onyomi":{"romaji":"kaku","katakana":"カク"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_13.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(hi)kaku(suru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(hi)kaku(suru)_00.webm"}},"radical":{"character":"","strokes":7,"image":"https://media.kanjialive.com/radical_character/kurumahen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"くるまへん","romaji":"kurumahen"},"meaning":{"english":"vehicle, wheel, car"},"animation":["https://media.kanjialive.com/rad_frames/kurumahen0.svg","https://media.kanjialive.com/rad_frames/kurumahen1.svg","https://media.kanjialive.com/rad_frames/kurumahen2.svg"]},"references":{"grade":null,"kodansha":"1034","classic_nelson":"4623"},"examples":[{"japanese":"較差（かくさ）","meaning":{"english":"range [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hi)kaku(suru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hi)kaku(suru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hi)kaku(suru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hi)kaku(suru)_06_a.mp3"}},{"japanese":"比較的（ひかくてき）","meaning":{"english":"comparatively, relatively"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hi)kaku(suru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hi)kaku(suru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hi)kaku(suru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hi)kaku(suru)_06_b.mp3"}},{"japanese":"比較する（ひかくする）","meaning":{"english":"compare"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(hi)kaku(suru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(hi)kaku(suru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(hi)kaku(suru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(hi)kaku(suru)_06_c.mp3"}}]},"jishoData":{"query":"較","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1172","strokeCount":13,"meaning":"contrast, compare","kunyomi":["くら.べる"],"onyomi":["カク","コウ"],"onyomiExamples":[{"example":"較差","reading":"カクサ","meaning":"range"},{"example":"較優位論","reading":"カクユウイロン","meaning":"theory of comparative advantage"},{"example":"国際比較","reading":"コクサイヒカク","meaning":"international comparison, country-by-country comparison"},{"example":"直接比較","reading":"チョクセツヒカク","meaning":"direct comparison"},{"example":"校正","reading":"コウセイ","meaning":"proofreading, correction of press, calibration"},{"example":"較量","reading":"コウリョウ","meaning":"comparison"}],"kunyomiExamples":[{"example":"比べる","reading":"くらべる","meaning":"to compare, to make a comparison, to compete, to vie"}],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["亠","父","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36611_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f03.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f03.gif","uri":"https://jisho.org/search/%E8%BC%83%23kanji"}}
+{
+  "id": "較",
+  "kanjialiveData": {
+    "_id": "54317ae0791eba5146ee491f",
+    "_rev": "10-1931d4bc102196fca0f6f8ac804b2cc2",
+    "rad_name_ja": "くるまへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "compare",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "較差（かくさ）",
+        "meaning": {
+          "english": "range [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hi)kaku(suru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hi)kaku(suru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hi)kaku(suru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hi)kaku(suru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "比較的（ひかくてき）",
+        "meaning": {
+          "english": "comparatively, relatively"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hi)kaku(suru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hi)kaku(suru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hi)kaku(suru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hi)kaku(suru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "比較する（ひかくする）",
+        "meaning": {
+          "english": "compare"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hi)kaku(suru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hi)kaku(suru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hi)kaku(suru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hi)kaku(suru)_06_c.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "較",
+    "luminous": "n/a",
+    "rad_name_search": [
+      "kurumahen"
+    ],
+    "rad_order": 196,
+    "txt_books": [
+      {
+        "chapter": "44",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "22"
+      }
+    ],
+    "kname": "(hi)kaku(suru)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.2,
+      2,
+      3.6,
+      4.8,
+      6.133333,
+      7.6,
+      9.8,
+      11.133333,
+      12.466667,
+      13.466667,
+      14.466667,
+      16.133333,
+      18
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1034",
+    "rad_name": "kurumahen",
+    "dicn": "4623",
+    "mn_hint": "Comparing tires/wheels 車 to change 交.",
+    "rad_stroke": 7,
+    "onyomi_ja": "カク",
+    "rad_meaning": "vehicle, wheel, car",
+    "onyomi": "kaku",
+    "ka_id": "ka_1235",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kaku",
+      "kaku"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "compare",
+      "compare"
+    ],
+    "onyomi_ja_search": [
+      "カク",
+      "カク"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "vehicle",
+      "wheel",
+      "car",
+      "vehicle, wheel, car"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "くるまへん"
+    ],
+    "textbook_search": [
+      "bk",
+      "bk:44",
+      "bk:c44",
+      "cijr",
+      "cijr:22",
+      "cijr:c22"
+    ],
+    "rad_name_file": "kurumahen",
+    "kanji": {
+      "character": "較",
+      "meaning": {
+        "english": "compare"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0,
+          1.2,
+          2,
+          3.6,
+          4.8,
+          6.133333,
+          7.6,
+          9.8,
+          11.133333,
+          12.466667,
+          13.466667,
+          14.466667,
+          16.133333,
+          18
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kaku",
+        "katakana": "カク"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(hi)kaku(suru)_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(hi)kaku(suru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(hi)kaku(suru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/kurumahen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "くるまへん",
+        "romaji": "kurumahen"
+      },
+      "meaning": {
+        "english": "vehicle, wheel, car"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kurumahen0.svg",
+        "https://media.kanjialive.com/rad_frames/kurumahen1.svg",
+        "https://media.kanjialive.com/rad_frames/kurumahen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1034",
+      "classic_nelson": "4623"
+    }
+  },
+  "jishoData": {
+    "query": "較",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1172",
+    "strokeCount": 13,
+    "meaning": "contrast, compare",
+    "kunyomi": [
+      "くら.べる"
+    ],
+    "onyomi": [
+      "カク",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "較差",
+        "reading": "カクサ",
+        "meaning": "range"
+      },
+      {
+        "example": "較優位論",
+        "reading": "カクユウイロン",
+        "meaning": "theory of comparative advantage"
+      },
+      {
+        "example": "国際比較",
+        "reading": "コクサイヒカク",
+        "meaning": "international comparison, country-by-country comparison"
+      },
+      {
+        "example": "直接比較",
+        "reading": "チョクセツヒカク",
+        "meaning": "direct comparison"
+      },
+      {
+        "example": "校正",
+        "reading": "コウセイ",
+        "meaning": "proofreading, calibration"
+      },
+      {
+        "example": "較量",
+        "reading": "コウリョウ",
+        "meaning": "comparison"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "比べる",
+        "reading": "くらべる",
+        "meaning": "to compare, to make a comparison (between), to compete (on), to measure (one's strength, ability, etc. against another's)"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "亠",
+      "父",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36611_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f03.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f03.gif",
+    "uri": "https://jisho.org/search/%E8%BC%83%23kanji"
+  }
+}

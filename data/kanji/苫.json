@@ -1,1 +1,46 @@
-{"id":"苫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"苫","found":true,"newspaperFrequencyRank":"2028","strokeCount":8,"meaning":"rush matting","kunyomi":["とま"],"onyomi":["セン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"苫","reading":"とま","meaning":"woven mat (of sedge, hay, etc.)"},{"example":"苫屋","reading":"とまや","meaning":"rush-thatched house"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["卜","口","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33515_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082eb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82eb.gif","uri":"https://jisho.org/search/%E8%8B%AB%23kanji"}}
+{
+  "id": "苫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苫",
+    "found": true,
+    "newspaperFrequencyRank": "2028",
+    "strokeCount": 8,
+    "meaning": "rush matting",
+    "kunyomi": [
+      "とま"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "苫",
+        "reading": "とま",
+        "meaning": "woven mat (of sedge, hay, etc.)"
+      },
+      {
+        "example": "苫小牧駒澤大学",
+        "reading": "とまこまいこまざわだいがく",
+        "meaning": "Tomakomaikomazawa University"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "卜",
+      "口",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33515_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082eb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82eb.gif",
+    "uri": "https://jisho.org/search/%E8%8B%AB%23kanji"
+  }
+}

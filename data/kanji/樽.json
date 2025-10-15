@@ -1,1 +1,65 @@
-{"id":"樽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"樽","found":true,"newspaperFrequencyRank":"1981","strokeCount":16,"meaning":"barrel, cask, keg","kunyomi":["たる"],"onyomi":["ソン"],"onyomiExamples":[{"example":"樽酒","reading":"タルザケ","meaning":"sake that has been kept in a wooden cask, cask sake, barreled sake"},{"example":"樽俎","reading":"ソンソ","meaning":"(eating or drinking) party"},{"example":"油樽","reading":"アブラタル","meaning":"oil barrel, oil cask"}],"kunyomiExamples":[{"example":"樽","reading":"たる","meaning":"cask, barrel"},{"example":"樽柿","reading":"たるがき","meaning":"persimmons mellowed in a sake cask"},{"example":"油樽","reading":"あぶらたる","meaning":"oil barrel, oil cask"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["寸","并","木","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27197_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a3d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a3d.gif","uri":"https://jisho.org/search/%E6%A8%BD%23kanji"}}
+{
+  "id": "樽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樽",
+    "found": true,
+    "newspaperFrequencyRank": "1981",
+    "strokeCount": 16,
+    "meaning": "barrel, cask, keg",
+    "kunyomi": [
+      "たる"
+    ],
+    "onyomi": [
+      "ソン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "樽酒",
+        "reading": "タルザケ",
+        "meaning": "sake that has been kept in a wooden cask, cask sake, barreled sake"
+      },
+      {
+        "example": "樽俎",
+        "reading": "ソンソ",
+        "meaning": "(eating or drinking) party"
+      },
+      {
+        "example": "油樽",
+        "reading": "アブラタル",
+        "meaning": "oil barrel, oil cask"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "樽",
+        "reading": "たる",
+        "meaning": "cask, barrel"
+      },
+      {
+        "example": "樽柿",
+        "reading": "たるがき",
+        "meaning": "persimmons mellowed in a sake cask"
+      },
+      {
+        "example": "油樽",
+        "reading": "あぶらたる",
+        "meaning": "oil barrel, oil cask"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "寸",
+      "并",
+      "木",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27197_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a3d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a3d.gif",
+    "uri": "https://jisho.org/search/%E6%A8%BD%23kanji"
+  }
+}

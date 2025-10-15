@@ -1,1 +1,44 @@
-{"id":"沒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"沒","found":true,"strokeCount":7,"meaning":"not, have not, none, to drown, sink","kunyomi":["おぼ.れる","しず.む","ない"],"onyomi":["ボツ","モツ"],"onyomiExamples":[{"example":"没落","reading":"ボツラク","meaning":"ruin, fall, collapse, downfall, bankruptcy"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["力","又","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27794_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c92.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c92.gif","uri":"https://jisho.org/search/%E6%B2%92%23kanji"}}
+{
+  "id": "沒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沒",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "not, have not, none, to drown, sink",
+    "kunyomi": [
+      "おぼ.れる",
+      "しず.む",
+      "ない"
+    ],
+    "onyomi": [
+      "ボツ",
+      "モツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "没落",
+        "reading": "ボツラク",
+        "meaning": "ruin, fall, collapse, downfall, bankruptcy"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "力",
+      "又",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27794_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c92.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c92.gif",
+    "uri": "https://jisho.org/search/%E6%B2%92%23kanji"
+  }
+}

@@ -1,1 +1,32 @@
-{"id":"枦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"枦","found":true,"strokeCount":8,"meaning":"wax tree, sumac","kunyomi":["はぜ"],"onyomi":["ロ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["一","尸","戸","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26534_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067a6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67a6.gif","uri":"https://jisho.org/search/%E6%9E%A6%23kanji"}}
+{
+  "id": "枦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "枦",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "wax tree, sumac",
+    "kunyomi": [
+      "はぜ"
+    ],
+    "onyomi": [
+      "ロ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "一",
+      "尸",
+      "戸",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26534_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067a6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67a6.gif",
+    "uri": "https://jisho.org/search/%E6%9E%A6%23kanji"
+  }
+}

@@ -1,1 +1,56 @@
-{"id":"鉋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鉋","found":true,"strokeCount":13,"meaning":"carpenter's plane","kunyomi":["かんな"],"onyomi":["ホウ","ビョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鉋","reading":"かんな","meaning":"plane (woodworking tool)"},{"example":"鉋掛け","reading":"かんなかけ","meaning":"planing (wood)"},{"example":"反り台鉋","reading":"そりだいかんな","meaning":"wooden plane with a convex base curved in the cutting direction"},{"example":"台直し鉋","reading":"だいなおしかんな","meaning":"plane with a blade at ninety degrees to its base used for maintaining the bases of other wooden planes"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["勹","已","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37451_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0924b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/924b.gif","uri":"https://jisho.org/search/%E9%89%8B%23kanji"}}
+{
+  "id": "鉋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鉋",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "carpenter's plane",
+    "kunyomi": [
+      "かんな"
+    ],
+    "onyomi": [
+      "ホウ",
+      "ビョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鉋",
+        "reading": "かんな",
+        "meaning": "plane (woodworking tool)"
+      },
+      {
+        "example": "鉋掛け",
+        "reading": "かんなかけ",
+        "meaning": "planing (wood)"
+      },
+      {
+        "example": "反り台鉋",
+        "reading": "そりだいかんな",
+        "meaning": "wooden plane with a convex base curved in the cutting direction"
+      },
+      {
+        "example": "台直し鉋",
+        "reading": "だいなおしかんな",
+        "meaning": "plane with a blade at ninety degrees to its base used for maintaining the bases of other wooden planes"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "勹",
+      "已",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37451_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0924b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/924b.gif",
+    "uri": "https://jisho.org/search/%E9%89%8B%23kanji"
+  }
+}

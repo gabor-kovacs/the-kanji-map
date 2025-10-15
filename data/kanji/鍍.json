@@ -1,1 +1,51 @@
-{"id":"鍍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鍍","found":true,"strokeCount":17,"meaning":"plating, gilding","kunyomi":["めっき"],"onyomi":["ト"],"onyomiExamples":[{"example":"鍍金","reading":"メッキ","meaning":"plating (chrome, gold, silver, etc.), coating, gilding, gilt, pretense, pretence, simulation"}],"kunyomiExamples":[{"example":"鍍金","reading":"めっき","meaning":"plating (chrome, gold, silver, etc.), coating, gilding, gilt, pretense, pretence, simulation"},{"example":"メッキが剥げる","reading":"メッキがはげる","meaning":"to reveal one's true colors"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["又","广","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37709_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0934d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/934d.gif","uri":"https://jisho.org/search/%E9%8D%8D%23kanji"}}
+{
+  "id": "鍍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鍍",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "plating, gilding",
+    "kunyomi": [
+      "めっき"
+    ],
+    "onyomi": [
+      "ト"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鍍金",
+        "reading": "トキン",
+        "meaning": "plating (chrome, gold, silver, etc.), coating, gilding, gilt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【メッキ】",
+        "reading": "plating (chrome, gold, silver, etc.), coating, gilding, gilt, pretense, pretence, simulation",
+        "meaning": ""
+      },
+      {
+        "example": "メッキが剥げる",
+        "reading": "メッキがはげる",
+        "meaning": "to reveal one's true colors"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "又",
+      "广",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37709_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0934d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/934d.gif",
+    "uri": "https://jisho.org/search/%E9%8D%8D%23kanji"
+  }
+}

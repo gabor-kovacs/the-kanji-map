@@ -1,1 +1,32 @@
-{"id":"蜻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蜻","found":true,"strokeCount":14,"meaning":"dragonfly","kunyomi":[],"onyomi":["セイ"],"onyomiExamples":[{"example":"蜻蛉","reading":"トンボ","meaning":"dragonfly, damselfly"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["二","亠","土","月","虫","青"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34619_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0873b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/873b.gif","uri":"https://jisho.org/search/%E8%9C%BB%23kanji"}}
+{
+  "id": "蜻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜻",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "dragonfly",
+    "kunyomi": [],
+    "onyomi": [
+      "セイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "土",
+      "月",
+      "虫",
+      "青"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34619_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0873b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/873b.gif",
+    "uri": "https://jisho.org/search/%E8%9C%BB%23kanji"
+  }
+}

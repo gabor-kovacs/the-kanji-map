@@ -1,1 +1,114 @@
-{"id":"蒲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蒲","found":true,"newspaperFrequencyRank":"1887","strokeCount":13,"meaning":"bullrush, flag, cattail","kunyomi":["がま","かば","かま"],"onyomi":["ホ","ボ","フ","ブ"],"onyomiExamples":[{"example":"蒲公英","reading":"タンポポ","meaning":"dandelion (esp. species Taraxacum platycarpum)"},{"example":"檳榔","reading":"ビロウ","meaning":"Chinese fan palm (Livistona chinensis)"},{"example":"蒲","reading":"ガマ","meaning":"common cattail (Typha latifolia), common bulrush, common reedmace"},{"example":"布団","reading":"フトン","meaning":"futon, Japanese bedding consisting of a mattress and a duvet, round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"},{"example":"蒲桃","reading":"フトモモ","meaning":"rose apple (Syzygium jambos), Malabar plum, jambos"},{"example":"座蒲","reading":"ザフ","meaning":"round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"},{"example":"匂い菖蒲","reading":"ニオイショウブ","meaning":"aromatic cane, orris"},{"example":"黄菖蒲","reading":"キショウブ","meaning":"yellow iris"}],"kunyomiExamples":[{"example":"蒲","reading":"がま","meaning":"common cattail (Typha latifolia), common bulrush, common reedmace"},{"example":"小蒲","reading":"こがま","meaning":"Typha orientalis"},{"example":"蒲","reading":"がま","meaning":"common cattail (Typha latifolia), common bulrush, common reedmace"},{"example":"樺色","reading":"かばいろ","meaning":"reddish yellow"},{"example":"蒲","reading":"がま","meaning":"common cattail (Typha latifolia), common bulrush, common reedmace"},{"example":"蒲魚","reading":"かまとと","meaning":"feigning innocence, ignorance or naivety, someone (esp. a woman) pretending to be innocent, ignorant or naive"},{"example":"カニ蒲","reading":"カニかま","meaning":"imitation crab meat, crab sticks"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["丶","十","汁","用","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33970_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084b2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84b2.gif","uri":"https://jisho.org/search/%E8%92%B2%23kanji"}}
+{
+  "id": "蒲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蒲",
+    "found": true,
+    "newspaperFrequencyRank": "1887",
+    "strokeCount": 13,
+    "meaning": "bullrush, flag, cattail",
+    "kunyomi": [
+      "がま",
+      "かば",
+      "かま"
+    ],
+    "onyomi": [
+      "ホ",
+      "ボ",
+      "フ",
+      "ブ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蒲公英",
+        "reading": "タンポポ",
+        "meaning": "dandelion (esp. species Taraxacum platycarpum)"
+      },
+      {
+        "example": "蒲黄",
+        "reading": "ホオウ",
+        "meaning": "cattail pollen (used in traditional Chinese medicine)"
+      },
+      {
+        "example": "布団",
+        "reading": "フトン",
+        "meaning": "futon, Japanese bedding consisting of a mattress and a duvet, round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"
+      },
+      {
+        "example": "蒲桃",
+        "reading": "フトモモ",
+        "meaning": "rose apple (Syzygium jambos), Malabar plum, jambos"
+      },
+      {
+        "example": "座蒲",
+        "reading": "ザフ",
+        "meaning": "round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"
+      },
+      {
+        "example": "匂い菖蒲",
+        "reading": "ニオイショウブ",
+        "meaning": "aromatic cane, orris"
+      },
+      {
+        "example": "黄菖蒲",
+        "reading": "キショウブ",
+        "meaning": "yellow iris"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蒲",
+        "reading": "がま",
+        "meaning": "common cattail (Typha latifolia), broadleaf cattail, common bulrush, great reedmace"
+      },
+      {
+        "example": "小蒲",
+        "reading": "こがま",
+        "meaning": "Typha orientalis"
+      },
+      {
+        "example": "蒲",
+        "reading": "かば",
+        "meaning": "common cattail (Typha latifolia), broadleaf cattail, common bulrush, great reedmace, reddish yellow"
+      },
+      {
+        "example": "樺色",
+        "reading": "かばいろ",
+        "meaning": "reddish yellow"
+      },
+      {
+        "example": "蒲",
+        "reading": "がま",
+        "meaning": "common cattail (Typha latifolia), broadleaf cattail, common bulrush, great reedmace"
+      },
+      {
+        "example": "蒲魚",
+        "reading": "かまとと",
+        "meaning": "feigning ignorance, feigning naivety, pretense of innocence, person (esp. a woman) pretending to be innocent, ignorant or naive, faux-naïf"
+      },
+      {
+        "example": "カニ蒲",
+        "reading": "カニかま",
+        "meaning": "imitation crab meat, crab sticks"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "汁",
+      "用",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33970_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084b2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84b2.gif",
+    "uri": "https://jisho.org/search/%E8%92%B2%23kanji"
+  }
+}

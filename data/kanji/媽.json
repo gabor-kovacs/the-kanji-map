@@ -1,1 +1,38 @@
-{"id":"媽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"媽","found":true,"strokeCount":13,"meaning":"mother, mare","kunyomi":["はは"],"onyomi":["ボ","モ"],"onyomiExamples":[{"example":"菩薩揚げ","reading":"ボサアゲ","meaning":"ceremony performed by Chinese merchants disembarking in Nagasaki (Edo period)"}],"kunyomiExamples":[],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["女","杰","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23229_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05abd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5abd.gif","uri":"https://jisho.org/search/%E5%AA%BD%23kanji"}}
+{
+  "id": "媽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "媽",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "mother, mare",
+    "kunyomi": [
+      "はは"
+    ],
+    "onyomi": [
+      "ボ",
+      "モ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "菩薩揚げ",
+        "reading": "ボサアゲ",
+        "meaning": "ceremony performed by Chinese merchants disembarking in Nagasaki (Edo period)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "女",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23229_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05abd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5abd.gif",
+    "uri": "https://jisho.org/search/%E5%AA%BD%23kanji"
+  }
+}

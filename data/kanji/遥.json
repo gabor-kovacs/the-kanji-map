@@ -1,1 +1,66 @@
-{"id":"遥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遥","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2376","strokeCount":12,"meaning":"far off, distant, long ago","kunyomi":["はる.か"],"onyomi":["ヨウ"],"onyomiExamples":[{"example":"遥遠","reading":"ヨウエン","meaning":"far away, very far off, remote"},{"example":"遥任","reading":"ヨウニン","meaning":"absentee appointment to a distant administrative post (Nara and Heian periods)"},{"example":"逍遥","reading":"ショウヨウ","meaning":"ramble, saunter, walk, wander, stroll"}],"kunyomiExamples":[{"example":"遥か","reading":"はるか","meaning":"far away, far off, far, distant, in the distance, long ago, long before"},{"example":"遥か彼方","reading":"はるかかなた","meaning":"faraway, far-off"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["凵","干","爪","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36965_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09065.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9065.gif","uri":"https://jisho.org/search/%E9%81%A5%23kanji"}}
+{
+  "id": "遥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遥",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2376",
+    "strokeCount": 12,
+    "meaning": "far off, distant, long ago",
+    "kunyomi": [
+      "はる.か"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遥遠",
+        "reading": "ヨウエン",
+        "meaning": "far away, very far off, remote"
+      },
+      {
+        "example": "遥任",
+        "reading": "ヨウニン",
+        "meaning": "absentee appointment to a distant administrative post (Nara and Heian periods)"
+      },
+      {
+        "example": "逍遥",
+        "reading": "ショウヨウ",
+        "meaning": "ramble, saunter, walk, wander, stroll"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "遥か",
+        "reading": "はるか",
+        "meaning": "far away, far off, far, distant, in the distance, long ago, long before"
+      },
+      {
+        "example": "遥か彼方",
+        "reading": "はるかかなた",
+        "meaning": "faraway, far-off"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "凵",
+      "干",
+      "爪",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36965_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09065.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9065.gif",
+    "uri": "https://jisho.org/search/%E9%81%A5%23kanji"
+  }
+}

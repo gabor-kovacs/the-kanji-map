@@ -1,1 +1,62 @@
-{"id":"胤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"胤","found":true,"jlptLevel":"N1","strokeCount":9,"meaning":"descendent, issue, offspring","kunyomi":["たね"],"onyomi":["イン"],"onyomiExamples":[{"example":"胤裔","reading":"インエイ","meaning":"successor, descendant"},{"example":"後胤","reading":"コウイン","meaning":"descendant, scion"},{"example":"皇胤","reading":"コウイン","meaning":"Imperial descendant (posterity)"}],"kunyomiExamples":[{"example":"胤","reading":"たね","meaning":"issue, offspring, paternal blood"},{"example":"種違い","reading":"たねちがい","meaning":"half- (sibling by a different father), uterine, maternal"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["儿","幺","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32996_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080e4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80e4.gif","uri":"https://jisho.org/search/%E8%83%A4%23kanji"}}
+{
+  "id": "胤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胤",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 9,
+    "meaning": "descendent, issue, offspring",
+    "kunyomi": [
+      "たね"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "胤裔",
+        "reading": "インエイ",
+        "meaning": "successor, descendant"
+      },
+      {
+        "example": "後胤",
+        "reading": "コウイン",
+        "meaning": "descendant, scion"
+      },
+      {
+        "example": "皇胤",
+        "reading": "コウイン",
+        "meaning": "Imperial descendant (posterity)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "胤",
+        "reading": "たね",
+        "meaning": "issue, offspring, paternal blood"
+      },
+      {
+        "example": "種違い",
+        "reading": "たねちがい",
+        "meaning": "half- (sibling by a different father), uterine, maternal"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "儿",
+      "幺",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32996_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080e4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80e4.gif",
+    "uri": "https://jisho.org/search/%E8%83%A4%23kanji"
+  }
+}

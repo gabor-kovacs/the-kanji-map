@@ -1,1 +1,71 @@
-{"id":"呉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"呉","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1729","strokeCount":7,"meaning":"give, do something for, kingdom of Wu","kunyomi":["く.れる","くれ"],"onyomi":["ゴ"],"onyomiExamples":[{"example":"呉","reading":"ゴ","meaning":"Wu (region in China, south of the lower Yangtze), Wu (kingdom in China during the Five Dynasties and Ten Kingdoms era; 902-937 CE), Southern Wu, Wu (kingdom in China during the Three Kingdoms era; 222-280 CE)), Eastern Wu, Sun Wu, Wu (kingdom in China during the Spring and Autumn era; 11th century-473 BCE)"},{"example":"豆汁","reading":"ゴ","meaning":"go, soy beans soaked and mashed to a creamy paste (ingredient of tofu and soy milk)"},{"example":"藍子","reading":"アイゴ","meaning":"mottled spinefoot (Siganus fuscescens, species of Western Pacific rabbitfish), dusky rabbitfish, sandy spinefoot"}],"kunyomiExamples":[{"example":"呉れる","reading":"くれる","meaning":"to give, to let (one) have, to give, to do for one, to take the trouble to do, to do to someone's disadvantage"},{"example":"呉れる","reading":"くれる","meaning":"to give, to let (one) have, to give, to do for one, to take the trouble to do, to do to someone's disadvantage"},{"example":"呉れ呉れも","reading":"くれぐれも","meaning":"sincerely, earnestly, repeatedly, over and over, again and again"},{"example":"何くれ","reading":"なにくれ","meaning":"in various ways"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["ハ","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21577_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05449.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5449.gif","uri":"https://jisho.org/search/%E5%91%89%23kanji"}}
+{
+  "id": "呉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呉",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1729",
+    "strokeCount": 7,
+    "meaning": "give, do something for, kingdom of Wu",
+    "kunyomi": [
+      "く.れる",
+      "くれ"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呉",
+        "reading": "ゴ",
+        "meaning": "Wu (region in China, south of the lower Yangtze), Wu (kingdom in China during the Five Dynasties and Ten Kingdoms era; 902-937 CE), Southern Wu, Wu (kingdom in China during the Three Kingdoms era; 222-280 CE), Eastern Wu, Sun Wu, Wu (kingdom in China during the Spring and Autumn era; 11th century-473 BCE)"
+      },
+      {
+        "example": "豆汁",
+        "reading": "ゴ",
+        "meaning": "go, soy beans soaked and mashed to a creamy paste (ingredient of tofu and soy milk)"
+      },
+      {
+        "example": "【アイゴ】",
+        "reading": "mottled spinefoot (Siganus fuscescens), dusky rabbitfish, sandy spinefoot",
+        "meaning": ""
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "呉れる",
+        "reading": "くれる",
+        "meaning": "to give, to let (one) have, to give, to do for one, to take the trouble to do, to do to someone's disadvantage"
+      },
+      {
+        "example": "呉れる",
+        "reading": "くれる",
+        "meaning": "to give, to let (one) have, to give, to do for one, to take the trouble to do, to do to someone's disadvantage"
+      },
+      {
+        "example": "呉れ呉れも",
+        "reading": "くれぐれも",
+        "meaning": "sincerely, earnestly, wholeheartedly, repeatedly, over and over, again and again"
+      },
+      {
+        "example": "何くれ",
+        "reading": "なにくれ",
+        "meaning": "in various ways"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "ハ",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21577_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05449.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5449.gif",
+    "uri": "https://jisho.org/search/%E5%91%89%23kanji"
+  }
+}

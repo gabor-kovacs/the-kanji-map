@@ -1,1 +1,41 @@
-{"id":"泝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"泝","found":true,"strokeCount":8,"meaning":"go upstream","kunyomi":["さかのぼる"],"onyomi":["ソ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"遡る","reading":"さかのぼる","meaning":"to go upstream, to go back (in time, to origin), to date back to, to trace back to, to make retroactive"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["丶","斤","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27869_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cdd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cdd.gif","uri":"https://jisho.org/search/%E6%B3%9D%23kanji"}}
+{
+  "id": "泝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "泝",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "go upstream",
+    "kunyomi": [
+      "さかのぼる"
+    ],
+    "onyomi": [
+      "ソ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "遡る",
+        "reading": "さかのぼる",
+        "meaning": "to go upstream, to go up (a river), to go back (to the past or origin), to date back (to), to trace back (to), to be retroactive (to)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "丶",
+      "斤",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27869_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cdd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cdd.gif",
+    "uri": "https://jisho.org/search/%E6%B3%9D%23kanji"
+  }
+}

@@ -1,1 +1,64 @@
-{"id":"戴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"戴","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2332","strokeCount":17,"meaning":"be crowned with, live under (a ruler), receive","kunyomi":["いただ.く"],"onyomi":["タイ"],"onyomiExamples":[{"example":"戴冠式","reading":"タイカンシキ","meaning":"coronation ceremony, enthronement"},{"example":"戴冠","reading":"タイカン","meaning":"coronation, crowning"},{"example":"奉戴","reading":"ホウタイ","meaning":"having a prince for a president, being the recipient of (an imperial favor, favour), reverential acceptance"}],"kunyomiExamples":[{"example":"頂く","reading":"いただく","meaning":"to receive, to get, to accept, to take, to buy, to eat, to drink, to be crowned with, to wear (on one's head), to have (on top), to have (as one's leader), to live under (a ruler), to install (a president), to get someone to do something"},{"example":"戴くものは夏も小袖","reading":"いただくものはなつもこそで","meaning":"taking whatever one can get one's hands on, being greedy, accepting a padded silk sleeve even in summer"}],"radical":{"symbol":"戈","meaning":"spear, halberd"},"parts":["ハ","一","二","土","戈","田","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25140_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06234.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6234.gif","uri":"https://jisho.org/search/%E6%88%B4%23kanji"}}
+{
+  "id": "戴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戴",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2332",
+    "strokeCount": 17,
+    "meaning": "be crowned with, live under (a ruler), receive",
+    "kunyomi": [
+      "いただ.く"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戴冠式",
+        "reading": "タイカンシキ",
+        "meaning": "coronation ceremony, enthronement"
+      },
+      {
+        "example": "戴冠",
+        "reading": "タイカン",
+        "meaning": "coronation, crowning"
+      },
+      {
+        "example": "奉戴",
+        "reading": "ホウタイ",
+        "meaning": "choosing (a nobleman) as the leader or president of a company or organization"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頂く",
+        "reading": "いただく",
+        "meaning": "to receive, to get, to accept, to take, to buy, to eat, to drink, to be crowned with, to wear (on one's head), to have (on top), to have (as one's leader), to live under (a ruler), to install (a president), to get someone to do something"
+      },
+      {
+        "example": "戴くものは夏も小袖",
+        "reading": "いただくものはなつもこそで",
+        "meaning": "taking whatever one can get one's hands on, being greedy, accepting a padded silk sleeve even in summer"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "spear, halberd"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "二",
+      "土",
+      "戈",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25140_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06234.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6234.gif",
+    "uri": "https://jisho.org/search/%E6%88%B4%23kanji"
+  }
+}

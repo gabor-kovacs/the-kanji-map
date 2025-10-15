@@ -1,1 +1,52 @@
-{"id":"沐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"沐","found":true,"strokeCount":7,"meaning":"wash","kunyomi":["もく.する","あら.う"],"onyomi":["モク"],"onyomiExamples":[{"example":"沐する","reading":"モクスル","meaning":"to wash one's hair or body, to bathe in water, to receive (a favor, blessing, benefit)"},{"example":"沐浴","reading":"モクヨク","meaning":"bathing, washing one's body or hair, ablution, receiving a blessing"}],"kunyomiExamples":[{"example":"沐する","reading":"もくする","meaning":"to wash one's hair or body, to bathe in water, to receive (a favor, blessing, benefit)"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["木","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27792_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c90.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c90.gif","uri":"https://jisho.org/search/%E6%B2%90%23kanji"}}
+{
+  "id": "沐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沐",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "wash",
+    "kunyomi": [
+      "もく.する",
+      "あら.う"
+    ],
+    "onyomi": [
+      "モク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "沐する",
+        "reading": "モクスル",
+        "meaning": "to wash one's hair or body, to bathe in water, to receive (a favor, blessing, benefit)"
+      },
+      {
+        "example": "沐浴",
+        "reading": "モクヨク",
+        "meaning": "bathing (of an infant), ablution, receiving a blessing"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "沐する",
+        "reading": "もくする",
+        "meaning": "to wash one's hair or body, to bathe in water, to receive (a favor, blessing, benefit)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "木",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27792_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c90.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c90.gif",
+    "uri": "https://jisho.org/search/%E6%B2%90%23kanji"
+  }
+}

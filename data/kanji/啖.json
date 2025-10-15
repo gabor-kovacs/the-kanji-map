@@ -1,1 +1,53 @@
-{"id":"啖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"啖","found":true,"strokeCount":11,"meaning":"eat","kunyomi":["く.う","くらわ.す"],"onyomi":["タン"],"onyomiExamples":[{"example":"啖呵","reading":"タンカ","meaning":"caustic words"},{"example":"啖呵を切る","reading":"タンカヲキル","meaning":"to speak sharply (e.g. during a heated discussion or argument)"},{"example":"健啖","reading":"ケンタン","meaning":"gluttony, voracity"}],"kunyomiExamples":[{"example":"食う","reading":"くう","meaning":"to eat, to live, to make a living, to survive, to bite, to sting (as insects do), to tease, to torment, to taunt, to make light of, to make fun of, to encroach on, to eat into, to consume, to defeat a superior, to threaten a position, to consume time and-or resources, to receive something (usu. an unfavourable event), to have sexual relations with a woman, esp. for the first time"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["口","火"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21846_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05556.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5556.gif","uri":"https://jisho.org/search/%E5%95%96%23kanji"}}
+{
+  "id": "啖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "啖",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "eat",
+    "kunyomi": [
+      "く.う",
+      "くらわ.す"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "啖呵",
+        "reading": "タンカ",
+        "meaning": "caustic words, defiant words"
+      },
+      {
+        "example": "啖呵を切る",
+        "reading": "タンカヲキル",
+        "meaning": "to speak sharply (e.g. during a heated discussion or argument)"
+      },
+      {
+        "example": "健啖",
+        "reading": "ケンタン",
+        "meaning": "gluttony, voracity"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "食う",
+        "reading": "くう",
+        "meaning": "to eat, to live, to make a living, to survive, to bite, to sting (as insects do), to tease, to torment, to taunt, to make light of, to make fun of, to encroach on, to eat into, to consume, to defeat a superior, to threaten a position, to consume time, to consume resources, to receive something (usu. an unfavourable event), to have sexual relations with a woman, esp. for the first time"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "口",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21846_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05556.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5556.gif",
+    "uri": "https://jisho.org/search/%E5%95%96%23kanji"
+  }
+}

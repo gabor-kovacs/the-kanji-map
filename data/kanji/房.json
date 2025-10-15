@@ -1,1 +1,76 @@
-{"id":"房","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"房","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"808","strokeCount":8,"meaning":"tassel, tuft, fringe, bunch, lock (hair), segment (orange), house, room","kunyomi":["ふさ"],"onyomi":["ボウ"],"onyomiExamples":[{"example":"房","reading":"ボウ","meaning":"chamber, room, cell (prison), atrium, home of a monk, monk, Chinese \"room\" constellation (one of the 28 mansions)"},{"example":"坊主","reading":"ボウズ","meaning":"Buddhist priest, bonze, close-cropped hair, crew cut, person with a shorn head, boy, sonny, lad, not catching anything (in fishing), the August 20-point card"},{"example":"書房","reading":"ショボウ","meaning":"study, library, bookstore, bookshop, publishing company"},{"example":"工房","reading":"コウボウ","meaning":"workshop, studio, atelier"}],"kunyomiExamples":[{"example":"房","reading":"ふさ","meaning":"tuft (of hair, threads, etc.), fringe, tassel, bunch (of grapes, bananas, etc.), cluster (of flowers), segment (of a tangerine, etc.), section"},{"example":"房尾巻猿","reading":"ふさおまきざる","meaning":"brown capuchin, tufted capuchin (Cebus apella)"},{"example":"一房","reading":"ひとふさ","meaning":"one tuft (of hair, threads, etc.), one bunch (of grapes, bananas, etc.), one cluster (e.g. of flowers), one segment (of a tangerine, etc.), one section"}],"radical":{"symbol":"戶","forms":["户","戸"],"meaning":"door, house"},"parts":["一","尸","戸","方"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25151_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0623f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/623f.gif","uri":"https://jisho.org/search/%E6%88%BF%23kanji"}}
+{
+  "id": "房",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "房",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "808",
+    "strokeCount": 8,
+    "meaning": "tassel, tuft, fringe, bunch, lock (hair), segment (orange), house, room",
+    "kunyomi": [
+      "ふさ"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "房",
+        "reading": "ボウ",
+        "meaning": "chamber, room, cell (prison), atrium, home of a monk, monk, Chinese \"room\" constellation (one of the 28 mansions)"
+      },
+      {
+        "example": "坊主",
+        "reading": "ボウズ",
+        "meaning": "Buddhist priest, bonze, close-cropped hair, crew cut, person with a shorn head, boy, sonny, lad, not catching anything, the August 20-point card"
+      },
+      {
+        "example": "書房",
+        "reading": "ショボウ",
+        "meaning": "study, library, bookstore, bookshop, publishing company"
+      },
+      {
+        "example": "工房",
+        "reading": "コウボウ",
+        "meaning": "workshop, studio, atelier"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "房",
+        "reading": "ふさ",
+        "meaning": "tuft (of hair, threads, etc.), fringe, tassel, bunch (of grapes, bananas, etc.), cluster (of flowers), segment (of a tangerine, etc.), section"
+      },
+      {
+        "example": "房尾巻猿",
+        "reading": "ふさおまきざる",
+        "meaning": "brown capuchin, tufted capuchin (Cebus apella)"
+      },
+      {
+        "example": "一房",
+        "reading": "ひとふさ",
+        "meaning": "one tuft (of hair, threads, etc.), one bunch (of grapes, bananas, etc.), one cluster (e.g. of flowers), one segment (of a tangerine, etc.), one section"
+      }
+    ],
+    "radical": {
+      "symbol": "戶",
+      "forms": [
+        "户",
+        "戸"
+      ],
+      "meaning": "door, house"
+    },
+    "parts": [
+      "一",
+      "尸",
+      "戸",
+      "方"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25151_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0623f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/623f.gif",
+    "uri": "https://jisho.org/search/%E6%88%BF%23kanji"
+  }
+}

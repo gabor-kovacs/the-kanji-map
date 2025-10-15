@@ -1,1 +1,71 @@
-{"id":"溺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"溺","found":true,"taughtIn":"junior high","strokeCount":13,"meaning":"drown, indulge","kunyomi":["いばり","おぼ.れる"],"onyomi":["デキ","ジョウ","ニョウ"],"onyomiExamples":[{"example":"溺愛","reading":"デキアイ","meaning":"infatuation, adoration, blind love, doting (on a child)"},{"example":"溺死","reading":"デキシ","meaning":"death by drowning"},{"example":"惑溺","reading":"ワクデキ","meaning":"indulgence, addiction, infatuation"},{"example":"沈溺","reading":"チンデキ","meaning":"being immersed in water, being drowned, being infatuated, being dazed, being blinded by"}],"kunyomiExamples":[{"example":"溺れる","reading":"おぼれる","meaning":"to struggle in the water, to sink below the surface and become unable to breathe, to (nearly) drown, to indulge in, to lose one's head over something, to be addicted, to wallow in"},{"example":"おぼれる者はわらをもつかむ","reading":"おぼれるものはわらをもつかむ","meaning":"a drowning man will catch at a straw"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["冫","弓","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28346_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eba.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eba.gif","uri":"https://jisho.org/search/%E6%BA%BA%23kanji"}}
+{
+  "id": "溺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溺",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 13,
+    "meaning": "drown, indulge",
+    "kunyomi": [
+      "いばり",
+      "おぼ.れる"
+    ],
+    "onyomi": [
+      "デキ",
+      "ジョウ",
+      "ニョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "溺愛",
+        "reading": "デキアイ",
+        "meaning": "infatuation, adoration, blind love, doting (on a child)"
+      },
+      {
+        "example": "溺死",
+        "reading": "デキシ",
+        "meaning": "death by drowning"
+      },
+      {
+        "example": "惑溺",
+        "reading": "ワクデキ",
+        "meaning": "indulgence, addiction, infatuation"
+      },
+      {
+        "example": "沈溺",
+        "reading": "チンデキ",
+        "meaning": "being immersed in water, being drowned, being infatuated, being dazed, being blinded by"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "溺れる",
+        "reading": "おぼれる",
+        "meaning": "to struggle in the water, to sink below the surface and become unable to breathe, to (nearly) drown, to indulge in, to lose one's head over something, to be addicted, to wallow in"
+      },
+      {
+        "example": "溺れる者は藁をも掴む",
+        "reading": "おぼれるものはわらをもつかむ",
+        "meaning": "a drowning man will clutch at a straw"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "冫",
+      "弓",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28346_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eba.gif",
+    "uri": "https://jisho.org/search/%E6%BA%BA%23kanji"
+  }
+}

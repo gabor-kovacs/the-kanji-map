@@ -1,1 +1,69 @@
-{"id":"戮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"戮","found":true,"strokeCount":15,"meaning":"kill","kunyomi":["ころ.す","けず.る"],"onyomi":["リク","リュウ","ロク","キョウ","ク"],"onyomiExamples":[{"example":"戮す","reading":"リクス","meaning":"to murder, to kill"},{"example":"戮する","reading":"リクスル","meaning":"to murder, to kill"},{"example":"刑戮","reading":"ケイリク","meaning":"punishment, penalty, execution"},{"example":"誅戮","reading":"チュウリク","meaning":"putting a criminal to death, punishment by execution, death penalty"},{"example":"刑戮","reading":"ケイリク","meaning":"punishment, penalty, execution"},{"example":"誅戮","reading":"チュウリク","meaning":"putting a criminal to death, punishment by execution, death penalty"}],"kunyomiExamples":[],"radical":{"symbol":"戈","meaning":"spear, halberd"},"parts":["个","冫","彡","戈","羽"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25134_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0622e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/622e.gif","uri":"https://jisho.org/search/%E6%88%AE%23kanji"}}
+{
+  "id": "戮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戮",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "kill",
+    "kunyomi": [
+      "ころ.す",
+      "けず.る"
+    ],
+    "onyomi": [
+      "リク",
+      "リュウ",
+      "ロク",
+      "キョウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戮す",
+        "reading": "リクス",
+        "meaning": "to kill (a person), to murder, to execute"
+      },
+      {
+        "example": "戮する",
+        "reading": "リクスル",
+        "meaning": "to kill (a person), to murder, to execute"
+      },
+      {
+        "example": "刑戮",
+        "reading": "ケイリク",
+        "meaning": "punishment, penalty, execution"
+      },
+      {
+        "example": "誅戮",
+        "reading": "チュウリク",
+        "meaning": "putting a criminal to death, punishment by execution, death penalty"
+      },
+      {
+        "example": "刑戮",
+        "reading": "ケイリク",
+        "meaning": "punishment, penalty, execution"
+      },
+      {
+        "example": "誅戮",
+        "reading": "チュウリク",
+        "meaning": "putting a criminal to death, punishment by execution, death penalty"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "spear, halberd"
+    },
+    "parts": [
+      "个",
+      "冫",
+      "彡",
+      "戈",
+      "羽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25134_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0622e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/622e.gif",
+    "uri": "https://jisho.org/search/%E6%88%AE%23kanji"
+  }
+}

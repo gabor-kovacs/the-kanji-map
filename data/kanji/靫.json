@@ -1,1 +1,64 @@
-{"id":"靫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"靫","found":true,"strokeCount":12,"meaning":"quiver","kunyomi":["うつぼ","うつお","しな.やか","ゆぎ"],"onyomi":["ジン","ニン","サ","サイ","サツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"靫","reading":"うつぼ","meaning":"quiver (of arrows; cylindrical)"},{"example":"靫蔓","reading":"うつぼかずら","meaning":"pitcher plant"},{"example":"浜靫","reading":"はまうつぼ","meaning":"broomrape (Orobanche coerulescens)"},{"example":"靫","reading":"うつぼ","meaning":"quiver (of arrows; cylindrical)"},{"example":"靫","reading":"ゆぎ","meaning":"quiver (of arrows; box-shaped)"}],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["丶","又","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38763_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0976b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/976b.gif","uri":"https://jisho.org/search/%E9%9D%AB%23kanji"}}
+{
+  "id": "靫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "靫",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "quiver",
+    "kunyomi": [
+      "うつぼ",
+      "うつお",
+      "しな.やか",
+      "ゆぎ"
+    ],
+    "onyomi": [
+      "ジン",
+      "ニン",
+      "サ",
+      "サイ",
+      "サツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "靫",
+        "reading": "うつぼ",
+        "meaning": "quiver (cylindrical and worn on the back or hip)"
+      },
+      {
+        "example": "靫蔓",
+        "reading": "うつぼかずら",
+        "meaning": "pitcher plant"
+      },
+      {
+        "example": "【ハマウツボ】",
+        "reading": "broomrape (Orobanche coerulescens)",
+        "meaning": ""
+      },
+      {
+        "example": "靫",
+        "reading": "うつぼ",
+        "meaning": "quiver (cylindrical and worn on the back or hip)"
+      },
+      {
+        "example": "靫",
+        "reading": "ゆぎ",
+        "meaning": "quiver (box-shaped and worn on the back)"
+      }
+    ],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "丶",
+      "又",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38763_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0976b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/976b.gif",
+    "uri": "https://jisho.org/search/%E9%9D%AB%23kanji"
+  }
+}

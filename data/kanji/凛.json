@@ -1,1 +1,56 @@
-{"id":"凛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"凛","found":true,"strokeCount":15,"meaning":"cold, strict, severe","kunyomi":["きびし.い"],"onyomi":["リン"],"onyomiExamples":[{"example":"凛","reading":"リン","meaning":"cold, frigid, bracing, dignified"},{"example":"凛乎","reading":"リンコ","meaning":"commanding, awe-inspiring"},{"example":"凛々","reading":"リンリン","meaning":"severe, intense, awe-inspiring, commanding, biting, bitter (cold), piercing, frigid"},{"example":"威風凛々","reading":"イフウリンリン","meaning":"awe-inspiring, majestic, commanding, stately, with an imposing air, in a stately (dignified) manner"}],"kunyomiExamples":[],"radical":{"symbol":"冫","meaning":"ice"},"parts":["二","亠","冫","口","囗","小","示"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20955_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051db.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51db.gif","uri":"https://jisho.org/search/%E5%87%9B%23kanji"}}
+{
+  "id": "凛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凛",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "cold, strict, severe",
+    "kunyomi": [
+      "きびし.い"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凛",
+        "reading": "リン",
+        "meaning": "cold, frigid, bracing, dignified, distinguished, refined, elegant, (of an atmosphere) tense, nerve-racking, (of voice, sound, etc) clear, ringing"
+      },
+      {
+        "example": "凛乎",
+        "reading": "リンコ",
+        "meaning": "commanding, awe-inspiring"
+      },
+      {
+        "example": "凛々",
+        "reading": "リンリン",
+        "meaning": "severe, intense, awe-inspiring, commanding, biting, bitter (cold), piercing, frigid"
+      },
+      {
+        "example": "威風凛々",
+        "reading": "イフウリンリン",
+        "meaning": "awe-inspiring, majestic, commanding, stately, with an imposing air, in a stately (dignified) manner"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "ice"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "冫",
+      "口",
+      "囗",
+      "小",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20955_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51db.gif",
+    "uri": "https://jisho.org/search/%E5%87%9B%23kanji"
+  }
+}

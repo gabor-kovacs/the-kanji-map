@@ -1,1 +1,40 @@
-{"id":"蛄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蛄","found":true,"strokeCount":11,"meaning":"mole cricket, cicada","kunyomi":[],"onyomi":["コ"],"onyomiExamples":[{"example":"螻蛄","reading":"ケラ","meaning":"mole cricket (esp. the Oriental mole cricket, Gryllotalpa orientalis), being penniless, being broke"},{"example":"蝦蛄","reading":"シャコ","meaning":"mantis shrimp (any marine crustacean of order Stomatopoda, esp. the species Oratosquilla oratoria), mantis crab, squilla"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["十","口","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34500_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086c4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86c4.gif","uri":"https://jisho.org/search/%E8%9B%84%23kanji"}}
+{
+  "id": "蛄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛄",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "mole cricket, cicada",
+    "kunyomi": [],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "螻蛄",
+        "reading": "ケラ",
+        "meaning": "mole cricket (esp. the Oriental mole cricket, Gryllotalpa orientalis), being penniless, being broke"
+      },
+      {
+        "example": "蝦蛄",
+        "reading": "シャコ",
+        "meaning": "mantis shrimp (any marine crustacean of order Stomatopoda, esp. the species Oratosquilla oratoria), mantis crab, squilla"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "十",
+      "口",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34500_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86c4.gif",
+    "uri": "https://jisho.org/search/%E8%9B%84%23kanji"
+  }
+}

@@ -1,1 +1,55 @@
-{"id":"恤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"恤","found":true,"strokeCount":9,"meaning":"relieve, have mercy","kunyomi":["めぐ.む","あわ.れむ","うれ.える"],"onyomi":["ジュツ","シュツ"],"onyomiExamples":[{"example":"愛恤","reading":"アイジュツ","meaning":"helping someone out of pity"},{"example":"救恤","reading":"キュウジュツ","meaning":"relief, aid, assistance, rescue"}],"kunyomiExamples":[{"example":"恵む","reading":"めぐむ","meaning":"to bless, to show mercy to, to give (money, etc.)"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["忙","皿","血"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24676_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06064.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6064.gif","uri":"https://jisho.org/search/%E6%81%A4%23kanji"}}
+{
+  "id": "恤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恤",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "relieve, have mercy",
+    "kunyomi": [
+      "めぐ.む",
+      "あわ.れむ",
+      "うれ.える"
+    ],
+    "onyomi": [
+      "ジュツ",
+      "シュツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "愛恤",
+        "reading": "アイジュツ",
+        "meaning": "helping someone out of pity"
+      },
+      {
+        "example": "救恤",
+        "reading": "キュウジュツ",
+        "meaning": "relief, aid, assistance, rescue"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恵む",
+        "reading": "めぐむ",
+        "meaning": "to bless, to show mercy to, to give (money, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "忙",
+      "皿",
+      "血"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24676_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06064.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6064.gif",
+    "uri": "https://jisho.org/search/%E6%81%A4%23kanji"
+  }
+}

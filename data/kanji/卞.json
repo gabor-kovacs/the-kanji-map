@@ -1,1 +1,30 @@
-{"id":"卞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"卞","found":true,"strokeCount":4,"meaning":"law, rule, rash, hasty","kunyomi":[],"onyomi":["ベン","ヘン","ハン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"卜","meaning":"divination"},"parts":["亠","卜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21342_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0535e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/535e.gif","uri":"https://jisho.org/search/%E5%8D%9E%23kanji"}}
+{
+  "id": "卞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卞",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "law, rule, rash, hasty",
+    "kunyomi": [],
+    "onyomi": [
+      "ベン",
+      "ヘン",
+      "ハン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "卜",
+      "meaning": "divination"
+    },
+    "parts": [
+      "亠",
+      "卜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21342_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0535e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/535e.gif",
+    "uri": "https://jisho.org/search/%E5%8D%9E%23kanji"
+  }
+}

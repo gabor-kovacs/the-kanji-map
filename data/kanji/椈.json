@@ -1,1 +1,29 @@
-{"id":"椈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"椈","found":true,"strokeCount":12,"meaning":"oak","kunyomi":[],"onyomi":["キク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["勹","木","米"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26888_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06908.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6908.gif","uri":"https://jisho.org/search/%E6%A4%88%23kanji"}}
+{
+  "id": "椈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椈",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "oak",
+    "kunyomi": [],
+    "onyomi": [
+      "キク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "勹",
+      "木",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26888_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06908.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6908.gif",
+    "uri": "https://jisho.org/search/%E6%A4%88%23kanji"
+  }
+}

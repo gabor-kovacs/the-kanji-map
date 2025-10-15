@@ -1,1 +1,382 @@
-{"id":"失","kanjialiveData":{"kanji":{"character":"失","meaning":{"english":"lose, slip"},"strokes":{"count":5,"timings":[0,1.798,2.665,3.732,4.999,5.866667],"images":["https://media.kanjialive.com/kanji_strokes/ushina(u)_1.svg","https://media.kanjialive.com/kanji_strokes/ushina(u)_2.svg","https://media.kanjialive.com/kanji_strokes/ushina(u)_3.svg","https://media.kanjialive.com/kanji_strokes/ushina(u)_4.svg","https://media.kanjialive.com/kanji_strokes/ushina(u)_5.svg"]},"onyomi":{"romaji":"shitsu","katakana":"シツ"},"kunyomi":{"romaji":"ushina, ushinau","hiragana":"うしな"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ushina(u)_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ushina(u)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ushina(u)_00.webm"}},"radical":{"character":"⼤","strokes":3,"image":"https://media.kanjialive.com/radical_character/dai.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"だい","romaji":"dai"},"meaning":{"english":"large, big"},"animation":["https://media.kanjialive.com/rad_frames/dai0.svg","https://media.kanjialive.com/rad_frames/dai1.svg","https://media.kanjialive.com/rad_frames/dai2.svg"]},"references":{"grade":4,"kodansha":"2189","classic_nelson":"178"},"examples":[{"japanese":"失礼する（しつれいする）","meaning":{"english":"be impolite"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_a.mp3"}},{"japanese":"失業する（しつぎょうする）","meaning":{"english":"become unemployed"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_b.mp3"}},{"japanese":"失望する（しつぼうする）","meaning":{"english":"be disappointed"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_c.mp3"}},{"japanese":"失敗する（しっぱいする）","meaning":{"english":"fail"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_d.mp3"}},{"japanese":"失言（しつげん）","meaning":{"english":"improper words"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_e.mp3"}},{"japanese":"喪失（そうしつ）","meaning":{"english":"loss"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_f.mp3"}},{"japanese":"過失（かしつ）","meaning":{"english":"mistake, error, accident"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_g.mp3"}},{"japanese":"失う（うしなう）","meaning":{"english":"lose"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_h.mp3"}}]},"jishoData":{"query":"失","found":true,"taughtIn":"grade 4","jlptLevel":"N3","newspaperFrequencyRank":"447","strokeCount":5,"meaning":"lose, error, fault, disadvantage, loss","kunyomi":["うしな.う","う.せる"],"onyomi":["シツ"],"onyomiExamples":[{"example":"失","reading":"シツ","meaning":"loss (of something), disadvantage, mistake, error, failure, flaw, defect, error"},{"example":"失業","reading":"シツギョウ","meaning":"unemployment, losing one's job, becoming unemployed"},{"example":"得失","reading":"トクシツ","meaning":"advantages and disadvantages, plus and minuses"},{"example":"敵失","reading":"テキシツ","meaning":"error made by the enemy or opposing team"}],"kunyomiExamples":[{"example":"失う","reading":"うしなう","meaning":"to lose, to miss (a chance, opportunity), to lose (a loved one), to be bereaved of, to concede (goals, points, etc.)"},{"example":"失せる","reading":"うせる","meaning":"to disappear, to vanish, to fade away, to go, to leave, to die"}],"radical":{"symbol":"大","meaning":"big, very"},"parts":["ノ","二","人","大"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22833_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05931.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5931.gif","uri":"https://jisho.org/search/%E5%A4%B1%23kanji"}}
+{
+  "id": "失",
+  "kanjialiveData": {
+    "_id": "54317ae3791eba5146ee4965",
+    "_rev": "11-a92a999db34870ba6b7e879920b5f2bf",
+    "rad_name_ja": "だい",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "ushina, ushinau",
+    "meaning": "lose, slip",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "失礼する（しつれいする）",
+        "meaning": {
+          "english": "be impolite"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "失業する（しつぎょうする）",
+        "meaning": {
+          "english": "become unemployed"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "失望する（しつぼうする）",
+        "meaning": {
+          "english": "be disappointed"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "失敗する（しっぱいする）",
+        "meaning": {
+          "english": "fail"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "失言（しつげん）",
+        "meaning": {
+          "english": "improper words"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "喪失（そうしつ）",
+        "meaning": {
+          "english": "loss"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "過失（かしつ）",
+        "meaning": {
+          "english": "mistake, error, accident"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "失う（うしなう）",
+        "meaning": {
+          "english": "lose"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushina(u)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushina(u)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushina(u)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushina(u)_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "うしな、うしなう",
+    "ka_utf": "失",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=失",
+    "rad_name_search": [
+      "dai"
+    ],
+    "rad_order": 43,
+    "txt_books": [
+      {
+        "chapter": "19",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "42",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "30",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "2"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "8"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "7"
+      }
+    ],
+    "kname": "ushina(u)",
+    "rad_utf": "⼤",
+    "stroketimes": [
+      0,
+      1.798,
+      2.665,
+      3.732,
+      4.999,
+      5.866667
+    ],
+    "kunyomi_ka_display": "うしな",
+    "dick": "2189",
+    "rad_name": "dai",
+    "dicn": "178",
+    "mn_hint": "Arrow 矢 which missed the target ’, lost in the bush.",
+    "rad_stroke": 3,
+    "onyomi_ja": "シツ",
+    "rad_meaning": "large, big",
+    "onyomi": "shitsu",
+    "ka_id": "ka_187",
+    "onyomi_search": [
+      "shitsu",
+      "shitsu"
+    ],
+    "kunyomi_search": [
+      "ushina",
+      "ushinau",
+      "ushina, ushinau"
+    ],
+    "meaning_search": [
+      "lose",
+      "slip",
+      "lose, slip"
+    ],
+    "onyomi_ja_search": [
+      "シツ",
+      "シツ"
+    ],
+    "kunyomi_ja_search": [
+      "うしな",
+      "うしなう",
+      "うしな、うしなう"
+    ],
+    "rad_meaning_search": [
+      "large",
+      "big",
+      "large, big"
+    ],
+    "rad_name_ja_search": [
+      "だい"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:19",
+      "cij:c19",
+      "bk",
+      "bk:42",
+      "bk:c42",
+      "ap",
+      "ap:8",
+      "ap:c8",
+      "kll",
+      "kll:30",
+      "kll:c30",
+      "jt",
+      "jt:5",
+      "jt:c5",
+      "mosr",
+      "mosr:2",
+      "mosr:c2",
+      "cijr",
+      "cijr:8",
+      "cijr:c8",
+      "mntr",
+      "mntr:7",
+      "mntr:c7"
+    ],
+    "rad_name_file": "dai",
+    "kanji": {
+      "character": "失",
+      "meaning": {
+        "english": "lose, slip"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          1.798,
+          2.665,
+          3.732,
+          4.999,
+          5.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ushina(u)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushina(u)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushina(u)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushina(u)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushina(u)_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shitsu",
+        "katakana": "シツ"
+      },
+      "kunyomi": {
+        "romaji": "ushina, ushinau",
+        "hiragana": "うしな"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ushina(u)_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ushina(u)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ushina(u)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼤",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/dai.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "だい",
+        "romaji": "dai"
+      },
+      "meaning": {
+        "english": "large, big"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/dai0.svg",
+        "https://media.kanjialive.com/rad_frames/dai1.svg",
+        "https://media.kanjialive.com/rad_frames/dai2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "2189",
+      "classic_nelson": "178"
+    }
+  },
+  "jishoData": {
+    "query": "失",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "447",
+    "strokeCount": 5,
+    "meaning": "lose, error, fault, disadvantage, loss",
+    "kunyomi": [
+      "うしな.う",
+      "う.せる"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "失",
+        "reading": "シツ",
+        "meaning": "loss (of something), disadvantage, mistake, error, failure, flaw, defect, error"
+      },
+      {
+        "example": "失業",
+        "reading": "シツギョウ",
+        "meaning": "unemployment, losing one's job, becoming unemployed"
+      },
+      {
+        "example": "得失",
+        "reading": "トクシツ",
+        "meaning": "advantages and disadvantages, plus and minuses"
+      },
+      {
+        "example": "敵失",
+        "reading": "テキシツ",
+        "meaning": "error made by the enemy or opposing team"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "失う",
+        "reading": "うしなう",
+        "meaning": "to lose, to miss (a chance, opportunity), to lose (a loved one), to be bereaved of, to concede (goals, points, etc.)"
+      },
+      {
+        "example": "失せる",
+        "reading": "うせる",
+        "meaning": "to disappear, to vanish, to fade away, to go, to leave, to die"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "人",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22833_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05931.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5931.gif",
+    "uri": "https://jisho.org/search/%E5%A4%B1%23kanji"
+  }
+}

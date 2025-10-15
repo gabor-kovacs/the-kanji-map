@@ -1,1 +1,84 @@
-{"id":"罰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"罰","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1220","strokeCount":14,"meaning":"penalty, punishment","kunyomi":["ばっ.する"],"onyomi":["バツ","バチ","ハツ"],"onyomiExamples":[{"example":"罰","reading":"バツ","meaning":"punishment, penalty"},{"example":"罰一","reading":"バツイチ","meaning":"being once divorced, one-time divorcee, one x mark (i.e. one name struck from the family register)"},{"example":"賞罰","reading":"ショウバツ","meaning":"reward and punishment"},{"example":"冥罰","reading":"ミョウバツ","meaning":"retribution, divine punishment"},{"example":"罰","reading":"バチ","meaning":"(divine) punishment, curse, retribution"},{"example":"罰当たり","reading":"バチアタリ","meaning":"damned, cursed, accursed"},{"example":"仏罰","reading":"ブツバチ","meaning":"punishment by Buddha, divine retribution"}],"kunyomiExamples":[{"example":"罰する","reading":"ばっする","meaning":"to punish, to penalize, to penalise"}],"radical":{"symbol":"网","forms":["罒","⺲","罓","⺳"],"meaning":"net"},"parts":["刈","言","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32624_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f70.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f70.gif","uri":"https://jisho.org/search/%E7%BD%B0%23kanji"}}
+{
+  "id": "罰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "罰",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1220",
+    "strokeCount": 14,
+    "meaning": "penalty, punishment",
+    "kunyomi": [
+      "ばっ.する"
+    ],
+    "onyomi": [
+      "バツ",
+      "バチ",
+      "ハツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "罰",
+        "reading": "バツ",
+        "meaning": "punishment, penalty"
+      },
+      {
+        "example": "バツ１",
+        "reading": "バツイチ",
+        "meaning": "being once divorced, one-time divorcee, one x mark (i.e. one name struck from the family register)"
+      },
+      {
+        "example": "賞罰",
+        "reading": "ショウバツ",
+        "meaning": "reward and punishment"
+      },
+      {
+        "example": "行政罰",
+        "reading": "ギョウセイバツ",
+        "meaning": "administrative punishment, administrative penalty"
+      },
+      {
+        "example": "罰",
+        "reading": "バチ",
+        "meaning": "(divine) punishment, curse, retribution"
+      },
+      {
+        "example": "罰当たり",
+        "reading": "バチアタリ",
+        "meaning": "damned, cursed, accursed"
+      },
+      {
+        "example": "仏罰",
+        "reading": "ブツバチ",
+        "meaning": "punishment by Buddha, divine retribution"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "罰する",
+        "reading": "ばっする",
+        "meaning": "to punish, to penalize, to penalise"
+      }
+    ],
+    "radical": {
+      "symbol": "网",
+      "forms": [
+        "罒",
+        "⺲",
+        "罓",
+        "⺳"
+      ],
+      "meaning": "net"
+    },
+    "parts": [
+      "刈",
+      "言",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32624_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f70.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f70.gif",
+    "uri": "https://jisho.org/search/%E7%BD%B0%23kanji"
+  }
+}

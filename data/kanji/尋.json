@@ -1,1 +1,73 @@
-{"id":"尋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"尋","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1398","strokeCount":12,"meaning":"inquire, fathom, look for","kunyomi":["たず.ねる","ひろ"],"onyomi":["ジン"],"onyomiExamples":[{"example":"尋","reading":"ヒロ","meaning":"fathom"},{"example":"尋問","reading":"ジンモン","meaning":"questioning, interrogation, examination (of a witness)"},{"example":"討尋","reading":"トウジン","meaning":"minute investigation, thorough inquiry, thorough enquiry"},{"example":"審尋","reading":"シンジン","meaning":"hearing, interrogation"}],"kunyomiExamples":[{"example":"尋ねる","reading":"たずねる","meaning":"to ask, to enquire, to inquire, to search, to look for, to look into, to investigate"},{"example":"尋","reading":"ひろ","meaning":"fathom"},{"example":"八尋","reading":"やひろ","meaning":"great length, great size"}],"radical":{"symbol":"寸","meaning":"thumb, inch"},"parts":["ヨ","口","寸","工"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23563_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c0b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c0b.gif","uri":"https://jisho.org/search/%E5%B0%8B%23kanji"}}
+{
+  "id": "尋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尋",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1398",
+    "strokeCount": 12,
+    "meaning": "inquire, fathom, look for",
+    "kunyomi": [
+      "たず.ねる",
+      "ひろ"
+    ],
+    "onyomi": [
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尋",
+        "reading": "ヒロ",
+        "meaning": "fathom"
+      },
+      {
+        "example": "尋問",
+        "reading": "ジンモン",
+        "meaning": "questioning, interrogation, examination (of a witness)"
+      },
+      {
+        "example": "討尋",
+        "reading": "トウジン",
+        "meaning": "minute investigation, thorough inquiry, thorough enquiry"
+      },
+      {
+        "example": "審尋",
+        "reading": "シンジン",
+        "meaning": "hearing, interrogation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "尋ねる",
+        "reading": "たずねる",
+        "meaning": "to ask, to enquire, to inquire, to search, to look for, to look into, to investigate"
+      },
+      {
+        "example": "尋",
+        "reading": "ひろ",
+        "meaning": "fathom"
+      },
+      {
+        "example": "八尋",
+        "reading": "やひろ",
+        "meaning": "great length, great size"
+      }
+    ],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "thumb, inch"
+    },
+    "parts": [
+      "ヨ",
+      "口",
+      "寸",
+      "工"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23563_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c0b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c0b.gif",
+    "uri": "https://jisho.org/search/%E5%B0%8B%23kanji"
+  }
+}

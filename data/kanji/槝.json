@@ -1,1 +1,29 @@
-{"id":"槝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"槝","found":true,"strokeCount":14,"meaning":"oak, mooring pole, used in proper names, (kokuji)","kunyomi":["かし"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["山","木","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27101_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069dd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69dd.gif","uri":"https://jisho.org/search/%E6%A7%9D%23kanji"}}
+{
+  "id": "槝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槝",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "oak, mooring pole, used in proper names, (kokuji)",
+    "kunyomi": [
+      "かし"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "山",
+      "木",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27101_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069dd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69dd.gif",
+    "uri": "https://jisho.org/search/%E6%A7%9D%23kanji"
+  }
+}

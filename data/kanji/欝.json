@@ -1,1 +1,56 @@
-{"id":"欝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"欝","found":true,"strokeCount":26,"meaning":"gloom, depression, melancholy","kunyomi":["うっ.する","ふさ.ぐ","しげ.る"],"onyomi":["ウツ","ウン"],"onyomiExamples":[{"example":"鬱","reading":"ウツ","meaning":"depression, low spirits, luxuriant (of vegetation)"},{"example":"うつ病","reading":"ウツビョウ","meaning":"depression"},{"example":"気鬱","reading":"キウツ","meaning":"gloom, mental depression"},{"example":"新型うつ","reading":"シンガタウツ","meaning":"new type depression, depression where one is depressed only when at work"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["寸","木","艮","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27421_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b1d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b1d.gif","uri":"https://jisho.org/search/%E6%AC%9D%23kanji"}}
+{
+  "id": "欝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "欝",
+    "found": true,
+    "strokeCount": 26,
+    "meaning": "gloom, depression, melancholy",
+    "kunyomi": [
+      "うっ.する",
+      "ふさ.ぐ",
+      "しげ.る"
+    ],
+    "onyomi": [
+      "ウツ",
+      "ウン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鬱",
+        "reading": "ウツ",
+        "meaning": "depression, low spirits, luxuriant (of vegetation)"
+      },
+      {
+        "example": "うつ病",
+        "reading": "ウツビョウ",
+        "meaning": "depression"
+      },
+      {
+        "example": "気鬱",
+        "reading": "キウツ",
+        "meaning": "gloom, mental depression"
+      },
+      {
+        "example": "新型うつ",
+        "reading": "シンガタウツ",
+        "meaning": "new type depression, depression where one is depressed only when at work"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "寸",
+      "木",
+      "艮",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27421_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b1d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b1d.gif",
+    "uri": "https://jisho.org/search/%E6%AC%9D%23kanji"
+  }
+}

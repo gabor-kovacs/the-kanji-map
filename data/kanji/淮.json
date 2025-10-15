@@ -1,1 +1,40 @@
-{"id":"淮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"淮","found":true,"strokeCount":11,"meaning":"name of a Chinese river","kunyomi":[],"onyomi":["ワイ","エ","カイ"],"onyomiExamples":[{"example":"淮南子","reading":"エナンジ","meaning":"Huainanzi (ancient Chinese collection of essays)"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["汁","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28142_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dee.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dee.gif","uri":"https://jisho.org/search/%E6%B7%AE%23kanji"}}
+{
+  "id": "淮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淮",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "name of a Chinese river",
+    "kunyomi": [],
+    "onyomi": [
+      "ワイ",
+      "エ",
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淮南子",
+        "reading": "エナンジ",
+        "meaning": "Huainanzi (ancient Chinese collection of essays)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "汁",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28142_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dee.gif",
+    "uri": "https://jisho.org/search/%E6%B7%AE%23kanji"
+  }
+}

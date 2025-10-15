@@ -1,1 +1,59 @@
-{"id":"壽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壽","found":true,"strokeCount":14,"meaning":"longevity, congratulations","kunyomi":["ことぶき","ことぶ.く","ことほ.ぐ"],"onyomi":["ジュ","ス","シュウ"],"onyomiExamples":[{"example":"頌寿","reading":"ショウジュ","meaning":"celebration of longevity"},{"example":"双六","reading":"スゴロク","meaning":"race game (board game played with dice in which the object is to reach the end of a track), ban-sugoroku, sugoroku, traditional Japanese board game similar to backgammon"}],"kunyomiExamples":[{"example":"寿","reading":"ことぶき","meaning":"congratulations, felicitations, best wishes, longevity, long life"}],"radical":{"symbol":"士","meaning":"scholar, bachelor"},"parts":["一","口","士","寸","工"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22781_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058fd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58fd.gif","uri":"https://jisho.org/search/%E5%A3%BD%23kanji"}}
+{
+  "id": "壽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壽",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "longevity, congratulations",
+    "kunyomi": [
+      "ことぶき",
+      "ことぶ.く",
+      "ことほ.ぐ"
+    ],
+    "onyomi": [
+      "ジュ",
+      "ス",
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頌寿",
+        "reading": "ショウジュ",
+        "meaning": "celebration of longevity"
+      },
+      {
+        "example": "寿司",
+        "reading": "スシ",
+        "meaning": "sushi, range of dishes made with vinegared rice combined with fish, vegetables, egg, etc."
+      },
+      {
+        "example": "双六",
+        "reading": "スゴロク",
+        "meaning": "race game (board game played with dice in which the object is to reach the end of a track), ban-sugoroku, sugoroku, traditional Japanese board game similar to backgammon"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寿",
+        "reading": "ことぶき",
+        "meaning": "congratulations, felicitations, best wishes, longevity, long life"
+      }
+    ],
+    "radical": {
+      "symbol": "士",
+      "meaning": "scholar, bachelor"
+    },
+    "parts": [
+      "一",
+      "口",
+      "士",
+      "寸",
+      "工"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22781_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058fd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58fd.gif",
+    "uri": "https://jisho.org/search/%E5%A3%BD%23kanji"
+  }
+}

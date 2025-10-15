@@ -1,1 +1,71 @@
-{"id":"撃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"撃","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"473","strokeCount":15,"meaning":"beat, attack, defeat, conquer","kunyomi":["う.つ"],"onyomi":["ゲキ"],"onyomiExamples":[{"example":"撃墜","reading":"ゲキツイ","meaning":"shooting down (aircraft)"},{"example":"撃沈","reading":"ゲキチン","meaning":"sending a ship to the bottom, sinking (a ship), to sink a ship"},{"example":"銃撃","reading":"ジュウゲキ","meaning":"shooting, gunning (down)"},{"example":"追撃","reading":"ツイゲキ","meaning":"pursuit (of a fleeing enemy), chase"}],"kunyomiExamples":[{"example":"撃つ","reading":"うつ","meaning":"to shoot, to fire"},{"example":"討つ","reading":"うつ","meaning":"to attack, to destroy, to defeat, to conquer, to avenge"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["几","又","手","殳","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25731_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06483.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6483.gif","uri":"https://jisho.org/search/%E6%92%83%23kanji"}}
+{
+  "id": "撃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撃",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "473",
+    "strokeCount": 15,
+    "meaning": "beat, attack, defeat, conquer",
+    "kunyomi": [
+      "う.つ"
+    ],
+    "onyomi": [
+      "ゲキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "撃墜",
+        "reading": "ゲキツイ",
+        "meaning": "shooting down (an aircraft)"
+      },
+      {
+        "example": "撃沈",
+        "reading": "ゲキチン",
+        "meaning": "(attacking and) sinking (a ship), sending (a ship) to the bottom"
+      },
+      {
+        "example": "銃撃",
+        "reading": "ジュウゲキ",
+        "meaning": "shooting, gunning (down)"
+      },
+      {
+        "example": "追撃",
+        "reading": "ツイゲキ",
+        "meaning": "pursuit (of a fleeing enemy), chase, follow-up attack"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "撃つ",
+        "reading": "うつ",
+        "meaning": "to shoot (a gun, person, etc.), to fire"
+      },
+      {
+        "example": "討つ",
+        "reading": "うつ",
+        "meaning": "to attack, to destroy, to defeat, to conquer, to avenge"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "几",
+      "又",
+      "手",
+      "殳",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25731_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06483.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6483.gif",
+    "uri": "https://jisho.org/search/%E6%92%83%23kanji"
+  }
+}

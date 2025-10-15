@@ -1,1 +1,57 @@
-{"id":"辯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"辯","found":true,"strokeCount":21,"meaning":"speech, dialect","kunyomi":["わきま.える","わ.ける","はなびら","あらそ.う"],"onyomi":["ベン","ヘン"],"onyomiExamples":[{"example":"弁","reading":"ベン","meaning":"speech, tongue, talk, eloquence, dialect, brogue, accent, bento, Japanese box lunch, petal, valve, Oversight Department, division of the daijokan under the ritsuryō system responsible for controlling central and provincial governmental offices"},{"example":"弁解","reading":"ベンカイ","meaning":"explanation (e.g. for one's actions), excuse, justification, defense, defence"},{"example":"詭弁","reading":"キベン","meaning":"sophistry, sophism"},{"example":"抗弁","reading":"コウベン","meaning":"protest, refutation, pleading"}],"kunyomiExamples":[],"radical":{"symbol":"辛","meaning":"bitter"},"parts":["十","立","言","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36783_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08faf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8faf.gif","uri":"https://jisho.org/search/%E8%BE%AF%23kanji"}}
+{
+  "id": "辯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "辯",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "speech, dialect",
+    "kunyomi": [
+      "わきま.える",
+      "わ.ける",
+      "はなびら",
+      "あらそ.う"
+    ],
+    "onyomi": [
+      "ベン",
+      "ヘン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弁",
+        "reading": "ベン",
+        "meaning": "speech, tongue, talk, eloquence, dialect, brogue, accent, bento, Japanese box lunch, petal, valve, Oversight Department, division of the daijokan under the ritsuryō system responsible for controlling central and provincial governmental offices"
+      },
+      {
+        "example": "弁解",
+        "reading": "ベンカイ",
+        "meaning": "explanation (e.g. for one's actions), excuse, justification, defense, defence"
+      },
+      {
+        "example": "熱弁",
+        "reading": "ネツベン",
+        "meaning": "impassioned speech, fervent speech"
+      },
+      {
+        "example": "強弁",
+        "reading": "キョウベン",
+        "meaning": "insisting (unreasonably), obstinate insistence, far-fetched argument, arguing against all reason"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辛",
+      "meaning": "bitter"
+    },
+    "parts": [
+      "十",
+      "立",
+      "言",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36783_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08faf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8faf.gif",
+    "uri": "https://jisho.org/search/%E8%BE%AF%23kanji"
+  }
+}

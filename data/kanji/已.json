@@ -1,1 +1,70 @@
-{"id":"已","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"已","found":true,"newspaperFrequencyRank":"2140","strokeCount":3,"meaning":"stop, halt, previously, already, long ago","kunyomi":["や.む","すで.に","のみ","はなはだ"],"onyomi":["イ"],"onyomiExamples":[{"example":"以降","reading":"イコウ","meaning":"on and after, from ... onward, since"},{"example":"以下","reading":"イカ","meaning":"not exceeding, and downward, ... and below, below (e.g. standard), under (e.g. a level), the below-mentioned, the following, the rest"},{"example":"生滅滅已","reading":"ショウメツメツイ","meaning":"going beyond life and death and entering Nirvana"}],"kunyomiExamples":[{"example":"止む","reading":"やむ","meaning":"to cease, to stop, to be over"},{"example":"やむを得ない","reading":"やむをえない","meaning":"cannot be helped, unavoidable"},{"example":"既に","reading":"すでに","meaning":"already, too late"}],"radical":{"symbol":"己","forms":["巳","已","㔾"],"meaning":"oneself"},"parts":["已"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24050_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df2.gif","uri":"https://jisho.org/search/%E5%B7%B2%23kanji"}}
+{
+  "id": "已",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "已",
+    "found": true,
+    "newspaperFrequencyRank": "2140",
+    "strokeCount": 3,
+    "meaning": "stop, halt, previously, already, long ago",
+    "kunyomi": [
+      "や.む",
+      "すで.に",
+      "のみ",
+      "はなはだ"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "以降",
+        "reading": "イコウ",
+        "meaning": "on and after, from ... onward, since"
+      },
+      {
+        "example": "以下",
+        "reading": "イカ",
+        "meaning": "not exceeding ..., not more than ..., ... and under, ... and below, ... or fewer, below (a standard, level, etc.), under, beneath, less than, the following, the below-mentioned, the rest, followed by ..., including ..., ... and other (employees, officials, etc.)"
+      },
+      {
+        "example": "生滅滅已",
+        "reading": "ショウメツメツイ",
+        "meaning": "going beyond life and death and entering Nirvana"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "止む",
+        "reading": "やむ",
+        "meaning": "to cease, to stop, to be over"
+      },
+      {
+        "example": "やむを得ない",
+        "reading": "やむをえない",
+        "meaning": "cannot be helped, unavoidable"
+      },
+      {
+        "example": "既に",
+        "reading": "すでに",
+        "meaning": "already, previously, before, undeniably, unmistakably, in the first place"
+      }
+    ],
+    "radical": {
+      "symbol": "己",
+      "forms": [
+        "巳",
+        "已",
+        "㔾"
+      ],
+      "meaning": "oneself"
+    },
+    "parts": [
+      "已"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24050_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df2.gif",
+    "uri": "https://jisho.org/search/%E5%B7%B2%23kanji"
+  }
+}

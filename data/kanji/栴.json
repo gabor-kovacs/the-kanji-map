@@ -1,1 +1,44 @@
-{"id":"栴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"栴","found":true,"strokeCount":10,"meaning":"maple tree, colorful autumn foliage","kunyomi":["もみじ"],"onyomi":["セイ","セン"],"onyomiExamples":[{"example":"栴檀","reading":"センダン","meaning":"chinaberry, Japanese bead tree (Melia azedarach), Indian sandalwood (Santalum album)"},{"example":"栴檀は双葉より芳し","reading":"センダンハフタバヨリカンバシ","meaning":"genius shows from childhood, the Japanese bead tree is fragrant from when a sprout"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["ノ","乞","冂","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26676_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06834.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6834.gif","uri":"https://jisho.org/search/%E6%A0%B4%23kanji"}}
+{
+  "id": "栴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "栴",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "maple tree, colorful autumn foliage",
+    "kunyomi": [
+      "もみじ"
+    ],
+    "onyomi": [
+      "セイ",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "栴檀",
+        "reading": "センダン",
+        "meaning": "chinaberry, Japanese bead tree (Melia azedarach), Indian sandalwood (Santalum album)"
+      },
+      {
+        "example": "栴檀は双葉より芳し",
+        "reading": "センダンハフタバヨリカンバシ",
+        "meaning": "genius shows from childhood, the Japanese bead tree is fragrant from when a sprout"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "冂",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26676_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06834.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6834.gif",
+    "uri": "https://jisho.org/search/%E6%A0%B4%23kanji"
+  }
+}

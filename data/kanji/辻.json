@@ -1,1 +1,55 @@
-{"id":"辻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"辻","found":true,"newspaperFrequencyRank":"1614","strokeCount":5,"meaning":"crossing, crossroad, street corners, (kokuji)","kunyomi":["つじ"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"辻","reading":"つじ","meaning":"intersection, crossing, crossroad, street corner, street"},{"example":"旋風","reading":"せんぷう","meaning":"whirlwind, sensation, commotion, hullabaloo"},{"example":"辻辻","reading":"つじつじ","meaning":"every street corner, every crossing"},{"example":"四辻","reading":"よつつじ","meaning":"crossroads, intersection, crossway, carrefour"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["十","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36795_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fbb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fbb.gif","uri":"https://jisho.org/search/%E8%BE%BB%23kanji"}}
+{
+  "id": "辻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "辻",
+    "found": true,
+    "newspaperFrequencyRank": "1614",
+    "strokeCount": 5,
+    "meaning": "crossing, crossroad, street corners, (kokuji)",
+    "kunyomi": [
+      "つじ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "辻",
+        "reading": "つじ",
+        "meaning": "crossroads, crossing, intersection, street corner, street"
+      },
+      {
+        "example": "旋風",
+        "reading": "せんぷう",
+        "meaning": "whirlwind, sensation, commotion, hullabaloo"
+      },
+      {
+        "example": "辻辻",
+        "reading": "つじつじ",
+        "meaning": "every street corner, every crossing"
+      },
+      {
+        "example": "四辻",
+        "reading": "よつつじ",
+        "meaning": "crossroads, intersection, crossway, carrefour"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "十",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36795_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fbb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fbb.gif",
+    "uri": "https://jisho.org/search/%E8%BE%BB%23kanji"
+  }
+}

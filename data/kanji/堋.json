@@ -1,1 +1,28 @@
-{"id":"堋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"堋","found":true,"strokeCount":11,"meaning":"bury, archery target mound","kunyomi":[],"onyomi":["ホウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22539_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0580b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/580b.gif","uri":"https://jisho.org/search/%E5%A0%8B%23kanji"}}
+{
+  "id": "堋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "堋",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "bury, archery target mound",
+    "kunyomi": [],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22539_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0580b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/580b.gif",
+    "uri": "https://jisho.org/search/%E5%A0%8B%23kanji"
+  }
+}

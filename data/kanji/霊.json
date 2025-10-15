@@ -1,1 +1,88 @@
-{"id":"霊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霊","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1458","strokeCount":15,"meaning":"spirits, soul","kunyomi":["たま"],"onyomi":["レイ","リョウ"],"onyomiExamples":[{"example":"霊","reading":"レイ","meaning":"soul, spirit, departed soul, ghost"},{"example":"霊園","reading":"レイエン","meaning":"(garden) cemetery, park-style cemetery, memorial park"},{"example":"心霊","reading":"シンレイ","meaning":"spirit (e.g. human spirit), soul, spirit, ghost, ethereal being"},{"example":"英霊","reading":"エイレイ","meaning":"spirits of war dead, person of great ability, soul of a talented person"},{"example":"霊","reading":"リョウ","meaning":"vengeful spirit, revengeful ghost"},{"example":"霊異","reading":"レイイ","meaning":"miracle, wonder, wondrous thing"},{"example":"怨霊","reading":"オンリョウ","meaning":"revengeful ghost, apparition"},{"example":"新精霊","reading":"アラショウリョウ","meaning":"spirit of someone on the first O-Bon after their death"}],"kunyomiExamples":[{"example":"魂","reading":"たましい","meaning":"soul, spirit"},{"example":"魂送り","reading":"たまおくり","meaning":"sending off the spirits of the dead"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["一","二","雨","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38666_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0970a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/970a.gif","uri":"https://jisho.org/search/%E9%9C%8A%23kanji"}}
+{
+  "id": "霊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霊",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1458",
+    "strokeCount": 15,
+    "meaning": "spirits, soul",
+    "kunyomi": [
+      "たま"
+    ],
+    "onyomi": [
+      "レイ",
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霊",
+        "reading": "レイ",
+        "meaning": "soul, spirit, departed soul, ghost"
+      },
+      {
+        "example": "霊園",
+        "reading": "レイエン",
+        "meaning": "(garden) cemetery, park-style cemetery, memorial park"
+      },
+      {
+        "example": "心霊",
+        "reading": "シンレイ",
+        "meaning": "spirit (e.g. human spirit), soul, spirit, ghost, ethereal being"
+      },
+      {
+        "example": "英霊",
+        "reading": "エイレイ",
+        "meaning": "spirits of war dead, person of great ability, soul of a talented person"
+      },
+      {
+        "example": "霊",
+        "reading": "リョウ",
+        "meaning": "vengeful spirit, revengeful ghost"
+      },
+      {
+        "example": "霊異",
+        "reading": "レイイ",
+        "meaning": "miracle, wonder, wondrous thing"
+      },
+      {
+        "example": "怨霊",
+        "reading": "オンリョウ",
+        "meaning": "revengeful ghost, apparition"
+      },
+      {
+        "example": "新精霊",
+        "reading": "アラショウリョウ",
+        "meaning": "spirit of someone on the first Obon after their death"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "魂",
+        "reading": "たましい",
+        "meaning": "soul, spirit, mind, willpower, vitality, something as important as one's own life, something invaluable, inherent spirit of something, state of mind"
+      },
+      {
+        "example": "魂送り",
+        "reading": "たまおくり",
+        "meaning": "sending off the spirits of the dead"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "一",
+      "二",
+      "雨",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38666_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0970a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/970a.gif",
+    "uri": "https://jisho.org/search/%E9%9C%8A%23kanji"
+  }
+}

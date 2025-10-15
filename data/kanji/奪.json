@@ -1,1 +1,61 @@
-{"id":"奪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"奪","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"974","strokeCount":14,"meaning":"rob, take by force, snatch away, dispossess, plunder, usurp","kunyomi":["うば.う"],"onyomi":["ダツ"],"onyomiExamples":[{"example":"奪三振","reading":"ダツサンシン","meaning":"striking a batter out"},{"example":"奪三振王","reading":"ダツサンシンオウ","meaning":"(season's) record holder in (for) the most strike-outs"},{"example":"争奪","reading":"ソウダツ","meaning":"struggle (for), scramble, contest"},{"example":"収奪","reading":"シュウダツ","meaning":"plundering, exploitation"}],"kunyomiExamples":[{"example":"奪う","reading":"うばう","meaning":"to snatch away, to dispossess, to steal"}],"radical":{"symbol":"大","meaning":"big, very"},"parts":["大","寸","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22890_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0596a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/596a.gif","uri":"https://jisho.org/search/%E5%A5%AA%23kanji"}}
+{
+  "id": "奪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奪",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "974",
+    "strokeCount": 14,
+    "meaning": "rob, take by force, snatch away, dispossess, plunder, usurp",
+    "kunyomi": [
+      "うば.う"
+    ],
+    "onyomi": [
+      "ダツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奪三振",
+        "reading": "ダツサンシン",
+        "meaning": "striking a batter out"
+      },
+      {
+        "example": "奪三振王",
+        "reading": "ダツサンシンオウ",
+        "meaning": "(season's) record holder in (for) the most strike-outs"
+      },
+      {
+        "example": "争奪",
+        "reading": "ソウダツ",
+        "meaning": "struggle (for), scramble, contest"
+      },
+      {
+        "example": "収奪",
+        "reading": "シュウダツ",
+        "meaning": "plundering, exploitation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "奪う",
+        "reading": "うばう",
+        "meaning": "to take (by force), to take away, to snatch, to steal, to rob (someone) of, to dispossess of, to deprive of, to usurp, to absorb (one's attention), to fascinate, to captivate, to charm, to dazzle"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "大",
+      "寸",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22890_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0596a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/596a.gif",
+    "uri": "https://jisho.org/search/%E5%A5%AA%23kanji"
+  }
+}

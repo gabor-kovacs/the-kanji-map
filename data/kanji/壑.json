@@ -1,1 +1,43 @@
-{"id":"壑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壑","found":true,"strokeCount":17,"meaning":"valley","kunyomi":["たに"],"onyomi":["ガク","カク"],"onyomiExamples":[{"example":"渓壑","reading":"ケイガク","meaning":"ravine, chasm, ravenous desire, insatiable desire"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["ハ","个","冖","卜","又","口","土","谷"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22737_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058d1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58d1.gif","uri":"https://jisho.org/search/%E5%A3%91%23kanji"}}
+{
+  "id": "壑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壑",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "valley",
+    "kunyomi": [
+      "たに"
+    ],
+    "onyomi": [
+      "ガク",
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渓壑",
+        "reading": "ケイガク",
+        "meaning": "ravine, chasm, ravenous desire, insatiable desire"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "ハ",
+      "个",
+      "冖",
+      "卜",
+      "又",
+      "口",
+      "土",
+      "谷"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22737_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058d1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58d1.gif",
+    "uri": "https://jisho.org/search/%E5%A3%91%23kanji"
+  }
+}

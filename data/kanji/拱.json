@@ -1,1 +1,70 @@
-{"id":"拱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"拱","found":true,"strokeCount":9,"meaning":"arch, fold arms","kunyomi":["こまぬ.く","こまね.く"],"onyomi":["キョウ","コウ"],"onyomiExamples":[{"example":"拱手","reading":"キョウシュ","meaning":"doing nothing (to help), watching with one's arms folded, bowing with one's hands locked together in front of one's chest (form of Chinese salute)"},{"example":"拱手傍観","reading":"キョウシュボウカン","meaning":"stand idly by and watch"},{"example":"拱手","reading":"コウシュ","meaning":"folding one's arms"},{"example":"拱手","reading":"キョウシュ","meaning":"doing nothing (to help), watching with one's arms folded, bowing with one's hands locked together in front of one's chest (form of Chinese salute)"}],"kunyomiExamples":[{"example":"拱く","reading":"こまぬく","meaning":"to fold (one's) arms, to stand by and do nothing, to look on passively"},{"example":"拱く","reading":"こまぬく","meaning":"to fold (one's) arms, to stand by and do nothing, to look on passively"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ハ","一","二","扎","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25329_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062f1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62f1.gif","uri":"https://jisho.org/search/%E6%8B%B1%23kanji"}}
+{
+  "id": "拱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拱",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "arch, fold arms",
+    "kunyomi": [
+      "こまぬ.く",
+      "こまね.く"
+    ],
+    "onyomi": [
+      "キョウ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拱手",
+        "reading": "キョウシュ",
+        "meaning": "doing nothing (to help), watching with one's arms folded, bowing with one's hands locked together in front of one's chest (form of Chinese salute)"
+      },
+      {
+        "example": "拱手傍観",
+        "reading": "キョウシュボウカン",
+        "meaning": "stand idly by and watch"
+      },
+      {
+        "example": "拱手",
+        "reading": "コウシュ",
+        "meaning": "folding one's arms"
+      },
+      {
+        "example": "拱手",
+        "reading": "キョウシュ",
+        "meaning": "doing nothing (to help), watching with one's arms folded, bowing with one's hands locked together in front of one's chest (form of Chinese salute)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "拱く",
+        "reading": "こまねく",
+        "meaning": "to fold (one's) arms, to stand by and do nothing, to look on passively"
+      },
+      {
+        "example": "拱く",
+        "reading": "こまねく",
+        "meaning": "to fold (one's) arms, to stand by and do nothing, to look on passively"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "二",
+      "扎",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25329_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062f1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62f1.gif",
+    "uri": "https://jisho.org/search/%E6%8B%B1%23kanji"
+  }
+}

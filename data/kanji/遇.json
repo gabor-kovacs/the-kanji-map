@@ -1,1 +1,68 @@
-{"id":"遇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遇","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1343","strokeCount":12,"meaning":"meet, encounter, interview, treat, entertain, receive, deal with","kunyomi":["あ.う"],"onyomi":["グウ"],"onyomiExamples":[{"example":"遇す","reading":"グウス","meaning":"to entertain, to treat"},{"example":"遇する","reading":"グウスル","meaning":"to entertain, to treat"},{"example":"最優遇","reading":"サイユウグウ","meaning":"most favourable treatment, most favorable treatment, very warm reception"},{"example":"優遇","reading":"ユウグウ","meaning":"favorable treatment, favourable treatment, hospitality, warm reception, good treatment, hearty welcome"}],"kunyomiExamples":[{"example":"会う","reading":"あう","meaning":"to meet, to encounter, to see, to have an accident, to have a bad experience"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["冂","厶","田","禹","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36935_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09047.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9047.gif","uri":"https://jisho.org/search/%E9%81%87%23kanji"}}
+{
+  "id": "遇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遇",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1343",
+    "strokeCount": 12,
+    "meaning": "meet, encounter, interview, treat, entertain, receive, deal with",
+    "kunyomi": [
+      "あ.う"
+    ],
+    "onyomi": [
+      "グウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "偶然",
+        "reading": "グウゼン",
+        "meaning": "coincidence, chance, accident, fortuity, by chance, unexpectedly, accidentally, contingency"
+      },
+      {
+        "example": "遇す",
+        "reading": "グウス",
+        "meaning": "to entertain, to treat"
+      },
+      {
+        "example": "最優遇",
+        "reading": "サイユウグウ",
+        "meaning": "most favourable treatment, most favorable treatment, very warm reception"
+      },
+      {
+        "example": "優遇",
+        "reading": "ユウグウ",
+        "meaning": "favorable treatment, favourable treatment, hospitality, warm reception, good treatment, hearty welcome"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "会う",
+        "reading": "あう",
+        "meaning": "to meet, to encounter, to see, to have an accident, to have a bad experience"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "冂",
+      "厶",
+      "田",
+      "禹",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36935_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09047.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9047.gif",
+    "uri": "https://jisho.org/search/%E9%81%87%23kanji"
+  }
+}

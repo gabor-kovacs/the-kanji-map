@@ -1,1 +1,38 @@
-{"id":"梭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梭","found":true,"strokeCount":11,"meaning":"shuttle","kunyomi":["ひ"],"onyomi":["サ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"杼","reading":"ひ","meaning":"shuttle (of a loom)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["儿","厶","夂","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26797_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068ad.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68ad.gif","uri":"https://jisho.org/search/%E6%A2%AD%23kanji"}}
+{
+  "id": "梭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梭",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "shuttle",
+    "kunyomi": [
+      "ひ"
+    ],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "杼",
+        "reading": "ひ",
+        "meaning": "shuttle (of a loom)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "儿",
+      "厶",
+      "夂",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26797_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068ad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68ad.gif",
+    "uri": "https://jisho.org/search/%E6%A2%AD%23kanji"
+  }
+}

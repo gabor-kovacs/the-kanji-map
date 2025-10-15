@@ -1,1 +1,47 @@
-{"id":"誑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"誑","found":true,"strokeCount":14,"meaning":"cheat, coax","kunyomi":["たばか.る","たぶら.かす","た.らす"],"onyomi":["キョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"誑かす","reading":"たぶらかす","meaning":"to trick, to cheat, to deceive, to seduce"},{"example":"誑す","reading":"たらす","meaning":"to cajole, to deceive, to seduce"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["犯","王","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35473_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a91.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a91.gif","uri":"https://jisho.org/search/%E8%AA%91%23kanji"}}
+{
+  "id": "誑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "誑",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "cheat, coax",
+    "kunyomi": [
+      "たばか.る",
+      "たぶら.かす",
+      "た.らす"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "誑かす",
+        "reading": "たぶらかす",
+        "meaning": "to trick, to cheat, to deceive, to seduce"
+      },
+      {
+        "example": "誑す",
+        "reading": "たらす",
+        "meaning": "to cajole, to coax, to deceive, to seduce"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "犯",
+      "王",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35473_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a91.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a91.gif",
+    "uri": "https://jisho.org/search/%E8%AA%91%23kanji"
+  }
+}

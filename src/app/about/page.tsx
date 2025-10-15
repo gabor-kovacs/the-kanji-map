@@ -101,6 +101,58 @@ const About = () => {
               <li>Radical with kunyomi and meaning</li>
             </ul>
             <h1 className="text-3xl font-extrabold tracking-tight mt-8 mb-4">
+              Changelog
+            </h1>
+            <div className="space-y-4">
+              <div>
+                <div>
+                  <span className="font-mono">2025-10-15</span>
+                  {" - "}
+                  <span className="font-semibold">Version 6.0.0</span>
+                </div>
+                <ul className="list-disc ml-6">
+                  <li>
+                    Added to go script to make kangxi/cjk compatibility radicals
+                    consistent, thanks to{" "}
+                    <a
+                      href="https://github.com/mochi-co/equivalent-unified-ideograph"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="text-primary hover:underline"
+                    >
+                      mochi-co/equivalent-unified-ideograph
+                    </a>
+                    , avoiding issues like 忄 and ⺖ being mixed up as they are
+                    different unicode characters
+                  </li>
+                  <li>
+                    Reworked the data composition pipeline, radical alternative
+                    forms now have a link from the original form
+                  </li>
+                  <li>updated the data</li>
+                  <li>
+                    fixed a bug where kanji with no stroke animation were not
+                    displayed
+                  </li>
+                  <li>
+                    fixed radicals and added alternative forms with position
+                    information
+                  </li>
+                  <li>
+                    added a custom font to display radicals, thanks to{" "}
+                    <a
+                      href="https://github.com/KanjiVG/kanjivg"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="text-primary inline-block hover:underline"
+                    >
+                      KanjiVG
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <h1 className="text-3xl font-extrabold tracking-tight mt-8 mb-4">
               Credits
             </h1>
             <ul className="list-disc ml-6">

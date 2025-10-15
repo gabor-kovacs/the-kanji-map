@@ -1,1 +1,44 @@
-{"id":"覈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"覈","found":true,"strokeCount":19,"meaning":"investigate","kunyomi":["しら.べる"],"onyomi":["カク","ケツ"],"onyomiExamples":[{"example":"考覈","reading":"コウカク","meaning":"considering and examining, pondering and investigating"}],"kunyomiExamples":[],"radical":{"symbol":"西","forms":["襾","覀"],"meaning":"west"},"parts":["乞","攵","方","白","西"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35208_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08988.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8988.gif","uri":"https://jisho.org/search/%E8%A6%88%23kanji"}}
+{
+  "id": "覈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覈",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "investigate",
+    "kunyomi": [
+      "しら.べる"
+    ],
+    "onyomi": [
+      "カク",
+      "ケツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "考覈",
+        "reading": "コウカク",
+        "meaning": "considering and examining, pondering and investigating"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "西",
+      "forms": [
+        "襾",
+        "覀"
+      ],
+      "meaning": "west"
+    },
+    "parts": [
+      "乞",
+      "攵",
+      "方",
+      "白",
+      "西"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35208_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08988.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8988.gif",
+    "uri": "https://jisho.org/search/%E8%A6%88%23kanji"
+  }
+}

@@ -1,1 +1,32 @@
-{"id":"鴪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鴪","found":true,"strokeCount":16,"meaning":"flying fast, swooping","kunyomi":[],"onyomi":["イツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["ハ","儿","宀","杰","穴","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40234_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d2a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d2a.gif","uri":"https://jisho.org/search/%E9%B4%AA%23kanji"}}
+{
+  "id": "鴪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鴪",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "flying fast, swooping",
+    "kunyomi": [],
+    "onyomi": [
+      "イツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "ハ",
+      "儿",
+      "宀",
+      "杰",
+      "穴",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40234_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d2a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d2a.gif",
+    "uri": "https://jisho.org/search/%E9%B4%AA%23kanji"
+  }
+}

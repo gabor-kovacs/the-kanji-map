@@ -1,1 +1,43 @@
-{"id":"鑼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鑼","found":true,"strokeCount":27,"meaning":"gong","kunyomi":["どら"],"onyomi":["ラ"],"onyomiExamples":[{"example":"雲鑼","reading":"ウンラ","meaning":"yunluo (10 small gongs mounted in a wooden frame)"}],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["小","幺","糸","買","金","隹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38012_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0947c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/947c.gif","uri":"https://jisho.org/search/%E9%91%BC%23kanji"}}
+{
+  "id": "鑼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑼",
+    "found": true,
+    "strokeCount": 27,
+    "meaning": "gong",
+    "kunyomi": [
+      "どら"
+    ],
+    "onyomi": [
+      "ラ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雲鑼",
+        "reading": "ウンラ",
+        "meaning": "yunluo (10 small gongs mounted in a wooden frame)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "糸",
+      "買",
+      "金",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38012_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0947c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/947c.gif",
+    "uri": "https://jisho.org/search/%E9%91%BC%23kanji"
+  }
+}

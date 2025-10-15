@@ -1,1 +1,44 @@
-{"id":"鮓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鮓","found":true,"strokeCount":16,"meaning":"sushi, seasoned rice","kunyomi":["すし"],"onyomi":["サ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"寿司","reading":"すし","meaning":"sushi, anything made with vinegared rice (may also contain vegetables, spices, fish, or other delicacies)"},{"example":"寿司飯","reading":"すしめし","meaning":"rice seasoned with vinegar, sugar and salt, used for preparing sushi, sushi rice"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["ノ","杰","田","魚","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39827_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b93.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b93.gif","uri":"https://jisho.org/search/%E9%AE%93%23kanji"}}
+{
+  "id": "鮓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鮓",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "sushi, seasoned rice",
+    "kunyomi": [
+      "すし"
+    ],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "寿司",
+        "reading": "すし",
+        "meaning": "sushi, range of dishes made with vinegared rice combined with fish, vegetables, egg, etc."
+      },
+      {
+        "example": "寿司飯",
+        "reading": "すしめし",
+        "meaning": "rice seasoned with vinegar, sugar and salt, used for preparing sushi, sushi rice"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "ノ",
+      "杰",
+      "田",
+      "魚",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39827_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b93.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b93.gif",
+    "uri": "https://jisho.org/search/%E9%AE%93%23kanji"
+  }
+}

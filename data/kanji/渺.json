@@ -1,1 +1,57 @@
-{"id":"渺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"渺","found":true,"strokeCount":12,"meaning":"tiny, boundless","kunyomi":["びょう.たる"],"onyomi":["ビョウ"],"onyomiExamples":[{"example":"渺","reading":"ビョウ","meaning":"boundless, limitless, vast, broad"},{"example":"渺々","reading":"ビョウビョウ","meaning":"boundless, limitless, vast, broad"},{"example":"縹渺","reading":"ヒョウビョウ","meaning":"boundless, vast, limitless, faint, hazy, dim, indistinct"},{"example":"神韻縹渺","reading":"シンインヒョウビョウ","meaning":"(a work of art being) sublime, transcendent"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ノ","小","汁","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28218_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e3a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e3a.gif","uri":"https://jisho.org/search/%E6%B8%BA%23kanji"}}
+{
+  "id": "渺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渺",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "tiny, boundless",
+    "kunyomi": [
+      "びょう.たる"
+    ],
+    "onyomi": [
+      "ビョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渺",
+        "reading": "ビョウ",
+        "meaning": "boundless, limitless, vast, broad"
+      },
+      {
+        "example": "渺々",
+        "reading": "ビョウビョウ",
+        "meaning": "boundless, limitless, vast, broad"
+      },
+      {
+        "example": "縹渺",
+        "reading": "ヒョウビョウ",
+        "meaning": "boundless, vast, limitless, faint, hazy, dim, indistinct"
+      },
+      {
+        "example": "神韻縹渺",
+        "reading": "シンインヒョウビョウ",
+        "meaning": "(a work of art being) sublime, transcendent"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "汁",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28218_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e3a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e3a.gif",
+    "uri": "https://jisho.org/search/%E6%B8%BA%23kanji"
+  }
+}

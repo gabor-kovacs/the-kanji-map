@@ -1,1 +1,44 @@
-{"id":"娠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"娠","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1623","strokeCount":10,"meaning":"with child, pregnancy","kunyomi":[],"onyomi":["シン"],"onyomiExamples":[{"example":"双胎妊娠","reading":"ソウタイニンシン","meaning":"twin pregnancy"},{"example":"多胎妊娠","reading":"タタイニンシン","meaning":"multiple pregnancy, polycyesis"}],"kunyomiExamples":[],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["厂","女","衣","辰"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23072_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a20.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a20.gif","uri":"https://jisho.org/search/%E5%A8%A0%23kanji"}}
+{
+  "id": "娠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "娠",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1623",
+    "strokeCount": 10,
+    "meaning": "with child, pregnancy",
+    "kunyomi": [],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "双胎妊娠",
+        "reading": "ソウタイニンシン",
+        "meaning": "twin pregnancy"
+      },
+      {
+        "example": "多胎妊娠",
+        "reading": "タタイニンシン",
+        "meaning": "multiple pregnancy, polycyesis"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "厂",
+      "女",
+      "衣",
+      "辰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23072_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a20.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a20.gif",
+    "uri": "https://jisho.org/search/%E5%A8%A0%23kanji"
+  }
+}

@@ -1,1 +1,42 @@
-{"id":"瑛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"瑛","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2393","strokeCount":12,"meaning":"sparkle of jewelry, crystal","kunyomi":[],"onyomi":["エイ"],"onyomiExamples":[{"example":"玉瑛","reading":"ギョクエイ","meaning":"crystal, transparent gem"}],"kunyomiExamples":[],"radical":{"symbol":"玉","forms":["王"],"meaning":"jade (king)"},"parts":["ノ","冖","大","王","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29787_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0745b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/745b.gif","uri":"https://jisho.org/search/%E7%91%9B%23kanji"}}
+{
+  "id": "瑛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "瑛",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2393",
+    "strokeCount": 12,
+    "meaning": "sparkle of jewelry, crystal",
+    "kunyomi": [],
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "玉瑛",
+        "reading": "ギョクエイ",
+        "meaning": "crystal, transparent gem"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "玉",
+      "forms": [
+        "王"
+      ],
+      "meaning": "jade (king)"
+    },
+    "parts": [
+      "ノ",
+      "冖",
+      "大",
+      "王",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29787_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0745b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/745b.gif",
+    "uri": "https://jisho.org/search/%E7%91%9B%23kanji"
+  }
+}

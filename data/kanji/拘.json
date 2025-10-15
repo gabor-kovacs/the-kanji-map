@@ -1,1 +1,54 @@
-{"id":"拘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"拘","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1336","strokeCount":8,"meaning":"arrest, seize, concerned, adhere to, despite","kunyomi":["かか.わる"],"onyomi":["コウ"],"onyomiExamples":[{"example":"拘束","reading":"コウソク","meaning":"restriction, restraint, binding, constraint"},{"example":"拘禁","reading":"コウキン","meaning":"detention, custody, confinement, internment"}],"kunyomiExamples":[{"example":"関わる","reading":"かかわる","meaning":"to be affected, to be influenced, to be concerned with, to have to do with, to stick to (opinions)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["勹","口","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25304_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d8.gif","uri":"https://jisho.org/search/%E6%8B%98%23kanji"}}
+{
+  "id": "拘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拘",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1336",
+    "strokeCount": 8,
+    "meaning": "arrest, seize, concerned, adhere to, despite",
+    "kunyomi": [
+      "かか.わる"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拘束",
+        "reading": "コウソク",
+        "meaning": "restriction, restraint, binding, constraint"
+      },
+      {
+        "example": "拘禁",
+        "reading": "コウキン",
+        "meaning": "detention, custody, confinement, internment"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "関わる",
+        "reading": "かかわる",
+        "meaning": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "勹",
+      "口",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25304_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d8.gif",
+    "uri": "https://jisho.org/search/%E6%8B%98%23kanji"
+  }
+}

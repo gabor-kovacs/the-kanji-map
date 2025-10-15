@@ -1,1 +1,67 @@
-{"id":"励","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"励","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1254","strokeCount":7,"meaning":"encourage, be diligent, inspire","kunyomi":["はげ.む","はげ.ます"],"onyomi":["レイ"],"onyomiExamples":[{"example":"励起","reading":"レイキ","meaning":"(electrical) excitation"},{"example":"励起状態","reading":"レイキジョウタイ","meaning":"excited state"},{"example":"精励","reading":"セイレイ","meaning":"diligence, industry, assiduity, hard work"},{"example":"刻苦精励","reading":"コックセイレイ","meaning":"being arduous, working diligently enduring hardships, making a strenuous effort"}],"kunyomiExamples":[{"example":"励む","reading":"はげむ","meaning":"to strive, to endeavour, to endeavor, to make an effort, to be zealous"},{"example":"励ます","reading":"はげます","meaning":"to encourage, to cheer, to raise (the voice)"}],"radical":{"symbol":"力","meaning":"power, force"},"parts":["力","厂","斤"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21169_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052b1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52b1.gif","uri":"https://jisho.org/search/%E5%8A%B1%23kanji"}}
+{
+  "id": "励",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "励",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1254",
+    "strokeCount": 7,
+    "meaning": "encourage, be diligent, inspire",
+    "kunyomi": [
+      "はげ.む",
+      "はげ.ます"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "励起",
+        "reading": "レイキ",
+        "meaning": "(electrical) excitation"
+      },
+      {
+        "example": "励起状態",
+        "reading": "レイキジョウタイ",
+        "meaning": "excited state"
+      },
+      {
+        "example": "精励",
+        "reading": "セイレイ",
+        "meaning": "diligence, industry, assiduity, hard work"
+      },
+      {
+        "example": "刻苦精励",
+        "reading": "コックセイレイ",
+        "meaning": "being arduous, working diligently enduring hardships, making a strenuous effort"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "励む",
+        "reading": "はげむ",
+        "meaning": "to work hard, to try hard, to strive, to endeavour, to endeavor, to devote oneself to, to make an effort, to be zealous"
+      },
+      {
+        "example": "励ます",
+        "reading": "はげます",
+        "meaning": "to encourage, to cheer on, to cheer (someone) up, to raise (one's voice)"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "力",
+      "厂",
+      "斤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21169_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052b1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52b1.gif",
+    "uri": "https://jisho.org/search/%E5%8A%B1%23kanji"
+  }
+}

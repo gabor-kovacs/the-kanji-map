@@ -1,1 +1,37 @@
-{"id":"潯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"潯","found":true,"strokeCount":15,"meaning":"shore, banks","kunyomi":["ふち"],"onyomi":["ジン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ヨ","口","寸","工","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28527_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f6f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f6f.gif","uri":"https://jisho.org/search/%E6%BD%AF%23kanji"}}
+{
+  "id": "潯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "潯",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "shore, banks",
+    "kunyomi": [
+      "ふち"
+    ],
+    "onyomi": [
+      "ジン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ヨ",
+      "口",
+      "寸",
+      "工",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28527_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f6f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f6f.gif",
+    "uri": "https://jisho.org/search/%E6%BD%AF%23kanji"
+  }
+}

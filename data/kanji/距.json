@@ -1,1 +1,72 @@
-{"id":"距","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"距","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1191","strokeCount":12,"meaning":"long-distance, spur, fetlock","kunyomi":["へだ.たる","けづめ"],"onyomi":["キョ"],"onyomiExamples":[{"example":"距","reading":"キョ","meaning":"tubular nectary, spur"},{"example":"距離","reading":"キョリ","meaning":"distance, range, interval, difference (e.g. in opinion), gap, distance"},{"example":"緯距","reading":"イキョ","meaning":"latitude"},{"example":"経距","reading":"ケイキョ","meaning":"departure (surveying, etc.)"}],"kunyomiExamples":[{"example":"隔たる","reading":"へだたる","meaning":"to be distant"},{"example":"蹴爪","reading":"けづめ","meaning":"fetlock (horse, etc.), spur (chicken, etc.), cockspur, dewclaw (dog, etc.)"}],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["匚","口","巨","止","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36317_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ddd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ddd.gif","uri":"https://jisho.org/search/%E8%B7%9D%23kanji"}}
+{
+  "id": "距",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "距",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1191",
+    "strokeCount": 12,
+    "meaning": "long-distance, spur, fetlock",
+    "kunyomi": [
+      "へだ.たる",
+      "けづめ"
+    ],
+    "onyomi": [
+      "キョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "距",
+        "reading": "キョ",
+        "meaning": "tubular nectary, spur"
+      },
+      {
+        "example": "距離",
+        "reading": "キョリ",
+        "meaning": "distance, range, interval, difference (e.g. in opinion), gap, distance, metric"
+      },
+      {
+        "example": "緯距",
+        "reading": "イキョ",
+        "meaning": "latitude"
+      },
+      {
+        "example": "経距",
+        "reading": "ケイキョ",
+        "meaning": "departure (surveying, etc.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "隔たる",
+        "reading": "へだたる",
+        "meaning": "to be distant"
+      },
+      {
+        "example": "蹴爪",
+        "reading": "けづめ",
+        "meaning": "spur (of a chicken, pheasant, etc.), cockspur, calcar, fetlock"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "匚",
+      "口",
+      "巨",
+      "止",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36317_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ddd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ddd.gif",
+    "uri": "https://jisho.org/search/%E8%B7%9D%23kanji"
+  }
+}

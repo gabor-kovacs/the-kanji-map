@@ -1,1 +1,46 @@
-{"id":"蓍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蓍","found":true,"strokeCount":13,"meaning":"yarrow, sericea, stalks used for divination","kunyomi":["めどぎ"],"onyomi":["シ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"筮","reading":"めどぎ","meaning":"divination sticks"},{"example":"蓍木","reading":"めどぎ","meaning":"Chinese lespedeza (species of bush clover, Lespedeza cuneata)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["匕","日","老","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33997_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084cd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84cd.gif","uri":"https://jisho.org/search/%E8%93%8D%23kanji"}}
+{
+  "id": "蓍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓍",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "yarrow, sericea, stalks used for divination",
+    "kunyomi": [
+      "めどぎ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "筮",
+        "reading": "めどぎ",
+        "meaning": "divination sticks"
+      },
+      {
+        "example": "蓍木",
+        "reading": "めどぎ",
+        "meaning": "Chinese lespedeza (Lespedeza cuneata), sericea lespedeza"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "匕",
+      "日",
+      "老",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33997_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084cd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84cd.gif",
+    "uri": "https://jisho.org/search/%E8%93%8D%23kanji"
+  }
+}

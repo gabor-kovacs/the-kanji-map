@@ -1,1 +1,44 @@
-{"id":"酋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"酋","found":true,"strokeCount":9,"meaning":"chieftain","kunyomi":["おさ","ふるざけ","さけのつかさ"],"onyomi":["シュウ","ジュ"],"onyomiExamples":[{"example":"酋長","reading":"シュウチョウ","meaning":"chieftain"}],"kunyomiExamples":[],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["并","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37195_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0914b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/914b.gif","uri":"https://jisho.org/search/%E9%85%8B%23kanji"}}
+{
+  "id": "酋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酋",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "chieftain",
+    "kunyomi": [
+      "おさ",
+      "ふるざけ",
+      "さけのつかさ"
+    ],
+    "onyomi": [
+      "シュウ",
+      "ジュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "酋長",
+        "reading": "シュウチョウ",
+        "meaning": "chieftain"
+      },
+      {
+        "example": "酋領",
+        "reading": "シュウリョウ",
+        "meaning": "chieftain"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "并",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37195_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0914b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/914b.gif",
+    "uri": "https://jisho.org/search/%E9%85%8B%23kanji"
+  }
+}

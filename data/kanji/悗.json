@@ -1,1 +1,35 @@
-{"id":"悗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"悗","found":true,"strokeCount":10,"meaning":"be perplexed","kunyomi":[],"onyomi":["バン","マン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["儿","免","勹","忙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24727_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06097.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6097.gif","uri":"https://jisho.org/search/%E6%82%97%23kanji"}}
+{
+  "id": "悗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悗",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "be perplexed",
+    "kunyomi": [],
+    "onyomi": [
+      "バン",
+      "マン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "儿",
+      "免",
+      "勹",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24727_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06097.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6097.gif",
+    "uri": "https://jisho.org/search/%E6%82%97%23kanji"
+  }
+}

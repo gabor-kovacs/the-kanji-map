@@ -1,1 +1,55 @@
-{"id":"壜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壜","found":true,"strokeCount":19,"meaning":"bottle, vial, jar","kunyomi":["びん"],"onyomi":["ドン","タン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"瓶","reading":"びん","meaning":"bottle, jar, decanter, flagon, phial, vial"},{"example":"瓶詰め","reading":"びんづめ","meaning":"bottling, bottled"},{"example":"一升瓶","reading":"いっしょうびん","meaning":"one shō bottle (1.8 litres)"},{"example":"安壜","reading":"やすびん","meaning":"cheap bottle (e.g. of alcohol)"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["二","厶","土","日","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22748_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058dc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58dc.gif","uri":"https://jisho.org/search/%E5%A3%9C%23kanji"}}
+{
+  "id": "壜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壜",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "bottle, vial, jar",
+    "kunyomi": [
+      "びん"
+    ],
+    "onyomi": [
+      "ドン",
+      "タン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "瓶",
+        "reading": "びん",
+        "meaning": "bottle, jar, decanter, flagon, phial, vial"
+      },
+      {
+        "example": "瓶詰め",
+        "reading": "びんづめ",
+        "meaning": "bottling, bottled"
+      },
+      {
+        "example": "一升瓶",
+        "reading": "いっしょうびん",
+        "meaning": "one-shō bottle (approx. 1.8 litres)"
+      },
+      {
+        "example": "薬瓶",
+        "reading": "くすりびん",
+        "meaning": "medicine bottle, vial"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "二",
+      "厶",
+      "土",
+      "日",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22748_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58dc.gif",
+    "uri": "https://jisho.org/search/%E5%A3%9C%23kanji"
+  }
+}

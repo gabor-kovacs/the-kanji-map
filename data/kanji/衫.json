@@ -1,1 +1,42 @@
-{"id":"衫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"衫","found":true,"strokeCount":8,"meaning":"thin kimono","kunyomi":[],"onyomi":["サン"],"onyomiExamples":[{"example":"長衫","reading":"チョウサン","meaning":"cheongsam, mandarin gown, mandarin dress"},{"example":"軽衫","reading":"カルサン","meaning":"hakama fashioned in the style of the pantaloons worn by the Portuguese"}],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["初","彡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34923_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0886b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/886b.gif","uri":"https://jisho.org/search/%E8%A1%AB%23kanji"}}
+{
+  "id": "衫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衫",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "thin kimono",
+    "kunyomi": [],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "長衫",
+        "reading": "チョウサン",
+        "meaning": "cheongsam, mandarin gown, mandarin dress"
+      },
+      {
+        "example": "軽衫",
+        "reading": "カルサン",
+        "meaning": "hakama fashioned in the style of the pantaloons worn by the Portuguese"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "初",
+      "彡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34923_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0886b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/886b.gif",
+    "uri": "https://jisho.org/search/%E8%A1%AB%23kanji"
+  }
+}

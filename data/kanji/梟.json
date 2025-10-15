@@ -1,1 +1,62 @@
-{"id":"梟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梟","found":true,"strokeCount":11,"meaning":"owl, expose","kunyomi":["ふくろう"],"onyomi":["キョウ"],"onyomiExamples":[{"example":"梟悪","reading":"キョウアク","meaning":"great treachery, very atrocious person"},{"example":"梟罪","reading":"キョウザイ","meaning":"penalty of decapitation and exposure of the severed head"}],"kunyomiExamples":[{"example":"梟","reading":"ふくろう","meaning":"owl (esp. the Ural owl, Strix uralensis)"},{"example":"梟鸚鵡","reading":"ふくろうおうむ","meaning":"kakapo (Strigops habroptila), owl parrot"},{"example":"尾長梟","reading":"おながふくろう","meaning":"northern hawk owl (Surnia ulula)"},{"example":"樺太梟","reading":"からふとふくろう","meaning":"great grey owl (Strix nebulosa)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["木","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26783_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0689f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/689f.gif","uri":"https://jisho.org/search/%E6%A2%9F%23kanji"}}
+{
+  "id": "梟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梟",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "owl, expose",
+    "kunyomi": [
+      "ふくろう"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梟悪",
+        "reading": "キョウアク",
+        "meaning": "great treachery, very atrocious person"
+      },
+      {
+        "example": "梟罪",
+        "reading": "キョウザイ",
+        "meaning": "penalty of decapitation and exposure of the severed head"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梟",
+        "reading": "ふくろう",
+        "meaning": "owl (esp. the Ural owl, Strix uralensis)"
+      },
+      {
+        "example": "梟鸚鵡",
+        "reading": "ふくろうおうむ",
+        "meaning": "kakapo (Strigops habroptila), owl parrot"
+      },
+      {
+        "example": "尾長梟",
+        "reading": "おながふくろう",
+        "meaning": "northern hawk owl (Surnia ulula)"
+      },
+      {
+        "example": "樺太梟",
+        "reading": "からふとふくろう",
+        "meaning": "great grey owl (Strix nebulosa)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "木",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26783_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0689f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/689f.gif",
+    "uri": "https://jisho.org/search/%E6%A2%9F%23kanji"
+  }
+}

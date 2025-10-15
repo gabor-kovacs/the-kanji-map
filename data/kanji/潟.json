@@ -1,1 +1,52 @@
-{"id":"潟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"潟","found":true,"taughtIn":"grade 4","jlptLevel":"N1","newspaperFrequencyRank":"1204","strokeCount":15,"meaning":"lagoon","kunyomi":["かた","-がた"],"onyomi":["セキ"],"onyomiExamples":[{"example":"潟湖","reading":"セキコ","meaning":"lagoon"}],"kunyomiExamples":[{"example":"潟","reading":"かた","meaning":"lagoon, inlet, creek, tidal beach, tidal flat, tideland"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["勹","杰","汁","臼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28511_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f5f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f5f.gif","uri":"https://jisho.org/search/%E6%BD%9F%23kanji"}}
+{
+  "id": "潟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "潟",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1204",
+    "strokeCount": 15,
+    "meaning": "lagoon",
+    "kunyomi": [
+      "かた",
+      "-がた"
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "潟湖",
+        "reading": "セキコ",
+        "meaning": "lagoon"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "潟",
+        "reading": "かた",
+        "meaning": "lagoon, inlet, creek, tidal beach, tidal flat, tideland"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "勹",
+      "杰",
+      "汁",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28511_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f5f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f5f.gif",
+    "uri": "https://jisho.org/search/%E6%BD%9F%23kanji"
+  }
+}

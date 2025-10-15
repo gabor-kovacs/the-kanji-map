@@ -1,1 +1,37 @@
-{"id":"屡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"屡","found":true,"strokeCount":12,"meaning":"often, frequently","kunyomi":["しばしば"],"onyomi":["ル"],"onyomiExamples":[],"kunyomiExamples":[{"example":"屡々","reading":"しばしば","meaning":"often, again and again, frequently, repeatedly"}],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["女","尸","米"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23649_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c61.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c61.gif","uri":"https://jisho.org/search/%E5%B1%A1%23kanji"}}
+{
+  "id": "屡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屡",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "often, frequently",
+    "kunyomi": [
+      "しばしば"
+    ],
+    "onyomi": [
+      "ル"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "屡々",
+        "reading": "しばしば",
+        "meaning": "often, again and again, frequently, repeatedly"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "女",
+      "尸",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23649_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c61.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c61.gif",
+    "uri": "https://jisho.org/search/%E5%B1%A1%23kanji"
+  }
+}

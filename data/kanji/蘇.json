@@ -1,1 +1,75 @@
-{"id":"蘇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蘇","found":true,"newspaperFrequencyRank":"1968","strokeCount":19,"meaning":"be resuscitated, revived, perilla, shiso","kunyomi":["よみがえ.る"],"onyomi":["ソ","ス"],"onyomiExamples":[{"example":"蘇","reading":"ソ","meaning":"Soviet Union"},{"example":"酥","reading":"ソ","meaning":"so (condensed milk product eaten in ancient Japan)"},{"example":"日ソ","reading":"ニッソ","meaning":"Japan and the Soviet Union, Japanese-Soviet"},{"example":"中ソ","reading":"チュウソ","meaning":"China and the Soviet Union, Soviet-Chinese, Sino-Soviet"},{"example":"蘇芳","reading":"スオウ","meaning":"sappanwood (Caesalpinia sappan), sappanwood dye (red in colour), layered colour (light brown on the front, dark red beneath)"},{"example":"蘇格蘭","reading":"スコットランド","meaning":"Scotland"}],"kunyomiExamples":[{"example":"蘇る","reading":"よみがえる","meaning":"to be resurrected, to be resuscitated, to be rehabilitated, to be revived, to be refreshed, to be restored, to be recalled (e.g. memories), to be brought back"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["杰","田","禾","艾","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34311_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08607.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8607.gif","uri":"https://jisho.org/search/%E8%98%87%23kanji"}}
+{
+  "id": "蘇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蘇",
+    "found": true,
+    "newspaperFrequencyRank": "1968",
+    "strokeCount": 19,
+    "meaning": "be resuscitated, revived, perilla, shiso",
+    "kunyomi": [
+      "よみがえ.る"
+    ],
+    "onyomi": [
+      "ソ",
+      "ス"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "【ソ】",
+        "reading": "Soviet Union",
+        "meaning": ""
+      },
+      {
+        "example": "酥",
+        "reading": "ソ",
+        "meaning": "so (condensed milk product eaten in ancient Japan)"
+      },
+      {
+        "example": "日ソ",
+        "reading": "ニッソ",
+        "meaning": "Japan and the Soviet Union, Japanese-Soviet"
+      },
+      {
+        "example": "中ソ",
+        "reading": "チュウソ",
+        "meaning": "China and the Soviet Union, Soviet-Chinese, Sino-Soviet"
+      },
+      {
+        "example": "蘇芳",
+        "reading": "スオウ",
+        "meaning": "sappanwood (Caesalpinia sappan), sappanwood dye (red in colour), layered colour (light brown on the front, dark red beneath)"
+      },
+      {
+        "example": "蘇格蘭",
+        "reading": "スコットランド",
+        "meaning": "Scotland"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蘇る",
+        "reading": "よみがえる",
+        "meaning": "to be resurrected, to be resuscitated, to be rehabilitated, to be revived, to be refreshed, to be restored, to be recalled (e.g. memories), to be brought back"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "杰",
+      "田",
+      "禾",
+      "艾",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34311_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08607.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8607.gif",
+    "uri": "https://jisho.org/search/%E8%98%87%23kanji"
+  }
+}

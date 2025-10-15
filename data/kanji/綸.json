@@ -1,1 +1,62 @@
-{"id":"綸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"綸","found":true,"jlptLevel":"N1","strokeCount":14,"meaning":"thread, silk cloth","kunyomi":["いと"],"onyomi":["リン","カン"],"onyomiExamples":[{"example":"綸言","reading":"リンゲン","meaning":"imperial words"},{"example":"綸言汗の如し","reading":"リンゲンアセノゴトシ","meaning":"like sweat cannot return inside the body, the word of an emperor cannot be unsaid"},{"example":"経綸","reading":"ケイリン","meaning":"governing, administration, state policy"},{"example":"毛斯綸","reading":"モスリン","meaning":"mousseline de laine, light woollen fabric, muslin de laine, delaine"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["一","个","冊","小","幺","廾","糸","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32184_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07db8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7db8.gif","uri":"https://jisho.org/search/%E7%B6%B8%23kanji"}}
+{
+  "id": "綸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "綸",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 14,
+    "meaning": "thread, silk cloth",
+    "kunyomi": [
+      "いと"
+    ],
+    "onyomi": [
+      "リン",
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "綸言",
+        "reading": "リンゲン",
+        "meaning": "imperial words"
+      },
+      {
+        "example": "綸言汗の如し",
+        "reading": "リンゲンアセノゴトシ",
+        "meaning": "like sweat cannot return inside the body, the word of an emperor cannot be unsaid"
+      },
+      {
+        "example": "経綸",
+        "reading": "ケイリン",
+        "meaning": "governing, administration, state policy"
+      },
+      {
+        "example": "毛斯綸",
+        "reading": "モスリン",
+        "meaning": "mousseline de laine, light woollen fabric, muslin de laine, delaine"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "一",
+      "个",
+      "冊",
+      "小",
+      "幺",
+      "廾",
+      "糸",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32184_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07db8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7db8.gif",
+    "uri": "https://jisho.org/search/%E7%B6%B8%23kanji"
+  }
+}

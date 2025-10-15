@@ -1,1 +1,50 @@
-{"id":"幌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"幌","found":true,"newspaperFrequencyRank":"1309","strokeCount":13,"meaning":"canopy, awning, hood, curtain","kunyomi":["ほろ","とばり"],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"幌","reading":"ほろ","meaning":"canopy (esp. the cloth or canvas used for it), awning, top (of a convertible), hood, helmet cape, cloth covering one's back to protect against arrows during battle"},{"example":"幌蚊帳","reading":"ほろがや","meaning":"tent-shaped mosquito net (often used to protect infants)"},{"example":"帳","reading":"とばり","meaning":"curtain, hanging, bunting"}],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["儿","尚","巾","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24140_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e4c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e4c.gif","uri":"https://jisho.org/search/%E5%B9%8C%23kanji"}}
+{
+  "id": "幌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幌",
+    "found": true,
+    "newspaperFrequencyRank": "1309",
+    "strokeCount": 13,
+    "meaning": "canopy, awning, hood, curtain",
+    "kunyomi": [
+      "ほろ",
+      "とばり"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "幌",
+        "reading": "ほろ",
+        "meaning": "canopy (esp. the cloth or canvas used for it), awning, top (of a convertible), hood, helmet cape, cloth covering one's back to protect against arrows during battle"
+      },
+      {
+        "example": "幌蚊帳",
+        "reading": "ほろがや",
+        "meaning": "tent-shaped mosquito net (often used to protect infants)"
+      },
+      {
+        "example": "帳",
+        "reading": "とばり",
+        "meaning": "curtain, hanging, bunting"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "儿",
+      "尚",
+      "巾",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24140_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e4c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e4c.gif",
+    "uri": "https://jisho.org/search/%E5%B9%8C%23kanji"
+  }
+}

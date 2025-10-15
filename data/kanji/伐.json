@@ -1,1 +1,68 @@
-{"id":"伐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"伐","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1816","strokeCount":6,"meaning":"fell, strike, attack, punish","kunyomi":["き.る","そむ.く","う.つ"],"onyomi":["バツ","ハツ","カ","ボチ"],"onyomiExamples":[{"example":"伐木","reading":"バツボク","meaning":"felling, logging"},{"example":"間伐","reading":"カンバツ","meaning":"periodic thinning (e.g. forest)"},{"example":"乱伐","reading":"ランバツ","meaning":"reckless deforestation, overcutting of forests"}],"kunyomiExamples":[{"example":"伐る","reading":"きる","meaning":"to cut down (e.g. trees)"},{"example":"討つ","reading":"うつ","meaning":"to attack, to destroy, to defeat, to conquer, to avenge"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","戈"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20240_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f10.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f10.gif","uri":"https://jisho.org/search/%E4%BC%90%23kanji"}}
+{
+  "id": "伐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "伐",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1816",
+    "strokeCount": 6,
+    "meaning": "fell, strike, attack, punish",
+    "kunyomi": [
+      "き.る",
+      "そむ.く",
+      "う.つ"
+    ],
+    "onyomi": [
+      "バツ",
+      "ハツ",
+      "カ",
+      "ボチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "伐木",
+        "reading": "バツボク",
+        "meaning": "felling, logging"
+      },
+      {
+        "example": "間伐",
+        "reading": "カンバツ",
+        "meaning": "periodic thinning (e.g. forest)"
+      },
+      {
+        "example": "乱伐",
+        "reading": "ランバツ",
+        "meaning": "reckless deforestation, overcutting of forests"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "伐る",
+        "reading": "きる",
+        "meaning": "to cut down (e.g. trees)"
+      },
+      {
+        "example": "討つ",
+        "reading": "うつ",
+        "meaning": "to attack, to destroy, to defeat, to conquer, to avenge"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20240_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f10.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f10.gif",
+    "uri": "https://jisho.org/search/%E4%BC%90%23kanji"
+  }
+}

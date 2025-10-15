@@ -1,1 +1,62 @@
-{"id":"諱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"諱","found":true,"strokeCount":17,"meaning":"posthumous (real) name","kunyomi":["いみな","い.む"],"onyomi":["キ"],"onyomiExamples":[{"example":"忌諱","reading":"キキ","meaning":"displeasure, offense, offence, disliking"},{"example":"避諱","reading":"ヒキ","meaning":"avoiding using a name (naming taboo in ancient China)"}],"kunyomiExamples":[{"example":"諱","reading":"いみな","meaning":"real name (of a deceased person or a noble), posthumous name"},{"example":"後の諱","reading":"のちのいみな","meaning":"posthumous name"},{"example":"忌む","reading":"いむ","meaning":"to avoid, to refrain from, to shun, to detest"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["口","言","韋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35569_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08af1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8af1.gif","uri":"https://jisho.org/search/%E8%AB%B1%23kanji"}}
+{
+  "id": "諱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諱",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "posthumous (real) name",
+    "kunyomi": [
+      "いみな",
+      "い.む"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忌諱",
+        "reading": "キキ",
+        "meaning": "displeasure, offense, offence, disliking"
+      },
+      {
+        "example": "避諱",
+        "reading": "ヒキ",
+        "meaning": "avoiding using a name (naming taboo in ancient China)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "諱",
+        "reading": "いみな",
+        "meaning": "real name (of a deceased person or a noble), posthumous name"
+      },
+      {
+        "example": "後の諱",
+        "reading": "のちのいみな",
+        "meaning": "posthumous name"
+      },
+      {
+        "example": "忌む",
+        "reading": "いむ",
+        "meaning": "to avoid, to refrain from, to shun, to detest"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "口",
+      "言",
+      "韋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35569_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08af1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8af1.gif",
+    "uri": "https://jisho.org/search/%E8%AB%B1%23kanji"
+  }
+}

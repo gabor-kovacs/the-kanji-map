@@ -1,1 +1,61 @@
-{"id":"鰐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鰐","found":true,"strokeCount":20,"meaning":"alligator, crocodile","kunyomi":["わに"],"onyomi":["ガク"],"onyomiExamples":[{"example":"鰐魚","reading":"ガクギョ","meaning":"crocodile, alligator, crocodilian"}],"kunyomiExamples":[{"example":"鰐","reading":"わに","meaning":"crocodile, alligator, shark"},{"example":"鰐足","reading":"わにあし","meaning":"bowlegs, knock-kneed"},{"example":"オーストラリア鰐","reading":"オーストラリアわに","meaning":"freshwater crocodile (Crocodylus johnsoni), Australian freshwater crocodile, Johnston's crocodile"},{"example":"揚子江鰐","reading":"ようすこうわに","meaning":"Chinese alligator (Alligator sinesis)"}],"radical":{"symbol":"魚","meaning":"fish"},"parts":["二","勹","口","杰","田","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39952_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c10.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c10.gif","uri":"https://jisho.org/search/%E9%B0%90%23kanji"}}
+{
+  "id": "鰐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰐",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "alligator, crocodile",
+    "kunyomi": [
+      "わに"
+    ],
+    "onyomi": [
+      "ガク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鰐魚",
+        "reading": "ガクギョ",
+        "meaning": "crocodile, alligator, crocodilian"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鰐",
+        "reading": "わに",
+        "meaning": "crocodile, alligator, shark"
+      },
+      {
+        "example": "和邇",
+        "reading": "わに",
+        "meaning": "Wani, wani (mythological sea monster)"
+      },
+      {
+        "example": "オーストラリア鰐",
+        "reading": "オーストラリアわに",
+        "meaning": "freshwater crocodile (Crocodylus johnsoni), Australian freshwater crocodile, Johnston's crocodile"
+      },
+      {
+        "example": "揚子江鰐",
+        "reading": "ようすこうわに",
+        "meaning": "Chinese alligator (Alligator sinensis)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "二",
+      "勹",
+      "口",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39952_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c10.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c10.gif",
+    "uri": "https://jisho.org/search/%E9%B0%90%23kanji"
+  }
+}

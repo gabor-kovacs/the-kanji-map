@@ -1,1 +1,69 @@
-{"id":"嵩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嵩","found":true,"jlptLevel":"N1","strokeCount":13,"meaning":"be aggravated, grow worse, grow bulky, swell","kunyomi":["かさ","かさ.む","たか.い"],"onyomi":["スウ","シュウ"],"onyomiExamples":[{"example":"嵩高","reading":"スウコウ","meaning":"lofty (of a mountain), tall"}],"kunyomiExamples":[{"example":"嵩","reading":"かさ","meaning":"bulk, volume, quantity"},{"example":"嵩上げ","reading":"かさあげ","meaning":"raising (an embankment, levee, etc.), increasing (a budget, fees, etc.), raising, inflating (figures), padding (an expense account, bill, etc.)"},{"example":"水かさ","reading":"みずかさ","meaning":"volume of water (in a river, pond, flood, etc.)"},{"example":"年嵩","reading":"としかさ","meaning":"senior, older, elderly"},{"example":"嵩む","reading":"かさむ","meaning":"to mount up, to pile up, to accumulate, to increase"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["亠","冂","口","山","高"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23913_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d69.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d69.gif","uri":"https://jisho.org/search/%E5%B5%A9%23kanji"}}
+{
+  "id": "嵩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嵩",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 13,
+    "meaning": "be aggravated, grow worse, grow bulky, swell",
+    "kunyomi": [
+      "かさ",
+      "かさ.む",
+      "たか.い"
+    ],
+    "onyomi": [
+      "スウ",
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嵩高",
+        "reading": "スウコウ",
+        "meaning": "lofty (of a mountain), tall"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嵩",
+        "reading": "かさ",
+        "meaning": "bulk, volume, quantity"
+      },
+      {
+        "example": "嵩上げ",
+        "reading": "かさあげ",
+        "meaning": "raising (an embankment, levee, etc.), increasing (a budget, fees, etc.), raising, inflating (figures), padding (an expense account, bill, etc.)"
+      },
+      {
+        "example": "水かさ",
+        "reading": "みずかさ",
+        "meaning": "volume of water (in a river, pond, flood, etc.)"
+      },
+      {
+        "example": "年嵩",
+        "reading": "としかさ",
+        "meaning": "senior, older, elderly"
+      },
+      {
+        "example": "嵩む",
+        "reading": "かさむ",
+        "meaning": "to mount up, to pile up, to accumulate, to increase"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "亠",
+      "冂",
+      "口",
+      "山",
+      "高"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23913_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d69.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d69.gif",
+    "uri": "https://jisho.org/search/%E5%B5%A9%23kanji"
+  }
+}

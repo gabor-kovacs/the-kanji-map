@@ -1,1 +1,60 @@
-{"id":"楯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"楯","found":true,"strokeCount":13,"meaning":"shield, buckler, pretext","kunyomi":["たて"],"onyomi":["ジュン"],"onyomiExamples":[{"example":"楯鱗","reading":"ジュンリン","meaning":"placoid scale"},{"example":"防楯","reading":"ボウジュン","meaning":"gun shield (esp. artillery)"}],"kunyomiExamples":[{"example":"盾","reading":"たて","meaning":"shield, buckler, escutcheon, pretext"},{"example":"楯突く","reading":"たてつく","meaning":"to defy, to disobey, to rebel against, to oppose, to resist"},{"example":"醜の御楯","reading":"しこのみたて","meaning":"the humble shield of our Sovereign Lord"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["十","厂","斤","木","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26991_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0696f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/696f.gif","uri":"https://jisho.org/search/%E6%A5%AF%23kanji"}}
+{
+  "id": "楯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楯",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "shield, buckler, pretext",
+    "kunyomi": [
+      "たて"
+    ],
+    "onyomi": [
+      "ジュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "楯鱗",
+        "reading": "ジュンリン",
+        "meaning": "placoid scale"
+      },
+      {
+        "example": "防楯",
+        "reading": "ボウジュン",
+        "meaning": "gun shield (esp. artillery)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "盾",
+        "reading": "たて",
+        "meaning": "shield, buckler, escutcheon, pretext"
+      },
+      {
+        "example": "楯突く",
+        "reading": "たてつく",
+        "meaning": "to defy, to disobey, to rebel against, to oppose, to resist"
+      },
+      {
+        "example": "醜の御楯",
+        "reading": "しこのみたて",
+        "meaning": "the humble shield of our Sovereign Lord"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "十",
+      "厂",
+      "斤",
+      "木",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26991_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0696f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/696f.gif",
+    "uri": "https://jisho.org/search/%E6%A5%AF%23kanji"
+  }
+}

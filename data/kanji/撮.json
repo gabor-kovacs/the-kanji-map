@@ -1,1 +1,72 @@
-{"id":"撮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"撮","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1023","strokeCount":15,"meaning":"snapshot, take pictures","kunyomi":["と.る","つま.む","-ど.り"],"onyomi":["サツ"],"onyomiExamples":[{"example":"撮影","reading":"サツエイ","meaning":"photography (still or motion), photographing, filming, shooting, (video) recording"},{"example":"撮影会","reading":"サツエイカイ","meaning":"photography event, photo session, photo shoot"},{"example":"特撮","reading":"トクサツ","meaning":"special effects, SFX, tokusatsu (genre of live-action film or television drama that makes heavy use of special effects, e.g. Godzilla)"},{"example":"空撮","reading":"クウサツ","meaning":"aerial photography"}],"kunyomiExamples":[{"example":"撮る","reading":"とる","meaning":"to take (a photograph), to record (audio or video), to film, to shoot"},{"example":"摘む","reading":"つまむ","meaning":"to pinch, to hold (between one's fingers), to pick up (with chopsticks, tweezers, etc.), to pick up and eat, to snack on, to pick out (the main point), to summarize, to sum up, to bewitch, to possess, to fascinate"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["又","扎","日","耳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25774_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ae.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ae.gif","uri":"https://jisho.org/search/%E6%92%AE%23kanji"}}
+{
+  "id": "撮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撮",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1023",
+    "strokeCount": 15,
+    "meaning": "snapshot, take pictures",
+    "kunyomi": [
+      "と.る",
+      "つま.む",
+      "-ど.り"
+    ],
+    "onyomi": [
+      "サツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "撮影",
+        "reading": "サツエイ",
+        "meaning": "photography (still or motion), photographing, filming, shooting, (video) recording"
+      },
+      {
+        "example": "撮影会",
+        "reading": "サツエイカイ",
+        "meaning": "photography event, photo session, photo shoot"
+      },
+      {
+        "example": "特撮",
+        "reading": "トクサツ",
+        "meaning": "special effects, SFX, tokusatsu, genre of live-action film or television that makes heavy use of practical special effects"
+      },
+      {
+        "example": "空撮",
+        "reading": "クウサツ",
+        "meaning": "aerial photography"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "撮る",
+        "reading": "とる",
+        "meaning": "to take (a photograph), to record (audio or video), to film, to shoot"
+      },
+      {
+        "example": "摘む",
+        "reading": "つまむ",
+        "meaning": "to pinch, to hold (between one's fingers), to pick up (with chopsticks, tweezers, etc.), to pick up and eat, to snack on, to pick out (the main point), to summarize, to sum up, to bewitch, to possess, to fascinate"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "又",
+      "扎",
+      "日",
+      "耳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25774_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ae.gif",
+    "uri": "https://jisho.org/search/%E6%92%AE%23kanji"
+  }
+}

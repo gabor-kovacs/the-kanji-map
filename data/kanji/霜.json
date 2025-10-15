@@ -1,1 +1,76 @@
-{"id":"霜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霜","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2151","strokeCount":17,"meaning":"frost","kunyomi":["しも"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"霜害","reading":"ソウガイ","meaning":"frost damage"},{"example":"霜剣","reading":"ソウケン","meaning":"cold sharp sword, blade of ice"},{"example":"星霜","reading":"セイソウ","meaning":"years, time"},{"example":"幾星霜","reading":"イクセイソウ","meaning":"many months and years"}],"kunyomiExamples":[{"example":"霜","reading":"しも","meaning":"frost, white hair, grey hair, gray hair"},{"example":"霜降り","reading":"しもふり","meaning":"speckled with white, salt-and-pepper (pattern, fabric, etc.), marbling (of beef), (of fish, chicken, shellfish, etc.) blanching by exposure to boiling and then icy water, formation of frost"},{"example":"朝霜","reading":"あさしも","meaning":"morning frost"},{"example":"水霜","reading":"みずじも","meaning":"frozen dew (in late autumn), waters (i.e. amniotic fluid discharged shortly before birth)"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["木","目","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38684_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0971c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/971c.gif","uri":"https://jisho.org/search/%E9%9C%9C%23kanji"}}
+{
+  "id": "霜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霜",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2151",
+    "strokeCount": 17,
+    "meaning": "frost",
+    "kunyomi": [
+      "しも"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霜害",
+        "reading": "ソウガイ",
+        "meaning": "frost damage"
+      },
+      {
+        "example": "霜剣",
+        "reading": "ソウケン",
+        "meaning": "cold sharp sword, blade of ice"
+      },
+      {
+        "example": "星霜",
+        "reading": "セイソウ",
+        "meaning": "years, time"
+      },
+      {
+        "example": "幾星霜",
+        "reading": "イクセイソウ",
+        "meaning": "many months and years"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "霜",
+        "reading": "しも",
+        "meaning": "frost, white hair, grey hair, gray hair"
+      },
+      {
+        "example": "霜降り",
+        "reading": "しもふり",
+        "meaning": "speckled with white, salt-and-pepper (pattern, fabric, etc.), marbling (of beef), (of fish, chicken, shellfish, etc.) blanching by exposure to boiling and then icy water, formation of frost"
+      },
+      {
+        "example": "秋霜",
+        "reading": "しゅうそう",
+        "meaning": "autumn frost, fall frost, harshness, strictness, rigour, white hair, grey hair, sharp sword"
+      },
+      {
+        "example": "朝霜",
+        "reading": "あさしも",
+        "meaning": "morning frost"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "木",
+      "目",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38684_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0971c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/971c.gif",
+    "uri": "https://jisho.org/search/%E9%9C%9C%23kanji"
+  }
+}

@@ -1,1 +1,55 @@
-{"id":"吻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"吻","found":true,"strokeCount":7,"meaning":"proboscis","kunyomi":["くちわき","くちさき"],"onyomi":["フン","ブン"],"onyomiExamples":[{"example":"吻","reading":"フン","meaning":"proboscis"},{"example":"吻殻綱","reading":"フンカクコウ","meaning":"Rostroconchia (class of extinct molluscs)"},{"example":"黄吻","reading":"コウフン","meaning":"young and inexperienced person"},{"example":"口吻","reading":"コウフン","meaning":"way of speaking, intimation, lips, mouth, snout, proboscis"}],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["ノ","勹","勿","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21563_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0543b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/543b.gif","uri":"https://jisho.org/search/%E5%90%BB%23kanji"}}
+{
+  "id": "吻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吻",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "proboscis",
+    "kunyomi": [
+      "くちわき",
+      "くちさき"
+    ],
+    "onyomi": [
+      "フン",
+      "ブン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "吻",
+        "reading": "フン",
+        "meaning": "proboscis, snout"
+      },
+      {
+        "example": "吻殻綱",
+        "reading": "フンカクコウ",
+        "meaning": "Rostroconchia (class of extinct molluscs)"
+      },
+      {
+        "example": "黄吻",
+        "reading": "コウフン",
+        "meaning": "young and inexperienced person"
+      },
+      {
+        "example": "口吻",
+        "reading": "コウフン",
+        "meaning": "way of speaking, intimation, lips, mouth, snout, proboscis"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "ノ",
+      "勹",
+      "勿",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21563_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0543b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/543b.gif",
+    "uri": "https://jisho.org/search/%E5%90%BB%23kanji"
+  }
+}

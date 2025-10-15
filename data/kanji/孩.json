@@ -1,1 +1,44 @@
-{"id":"孩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"孩","found":true,"strokeCount":9,"meaning":"baby, infancy","kunyomi":["ちのみご"],"onyomi":["ガイ","カイ"],"onyomiExamples":[{"example":"孩児","reading":"ガイジ","meaning":"infant, baby"}],"kunyomiExamples":[],"radical":{"symbol":"子","meaning":"child, seed"},"parts":["ノ","丶","亠","子"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23401_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b69.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b69.gif","uri":"https://jisho.org/search/%E5%AD%A9%23kanji"}}
+{
+  "id": "孩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "孩",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "baby, infancy",
+    "kunyomi": [
+      "ちのみご"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "孩児",
+        "reading": "ガイジ",
+        "meaning": "infant, baby"
+      },
+      {
+        "example": "孺孩",
+        "reading": "ジュガイ",
+        "meaning": "infant, baby"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "子",
+      "meaning": "child, seed"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "子"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23401_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b69.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b69.gif",
+    "uri": "https://jisho.org/search/%E5%AD%A9%23kanji"
+  }
+}

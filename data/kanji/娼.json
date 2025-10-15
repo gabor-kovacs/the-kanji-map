@@ -1,1 +1,52 @@
-{"id":"娼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"娼","found":true,"newspaperFrequencyRank":"2242","strokeCount":11,"meaning":"prostitute","kunyomi":["あそびめ"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"娼婦","reading":"ショウフ","meaning":"prostitute, harlot"},{"example":"娼家","reading":"ショウカ","meaning":"brothel"},{"example":"街娼","reading":"ガイショウ","meaning":"prostitute, whore, streetwalker"},{"example":"廃娼","reading":"ハイショウ","meaning":"abolition of licensed prostitution"}],"kunyomiExamples":[],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["女","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23100_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a3c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a3c.gif","uri":"https://jisho.org/search/%E5%A8%BC%23kanji"}}
+{
+  "id": "娼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "娼",
+    "found": true,
+    "newspaperFrequencyRank": "2242",
+    "strokeCount": 11,
+    "meaning": "prostitute",
+    "kunyomi": [
+      "あそびめ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "娼婦",
+        "reading": "ショウフ",
+        "meaning": "prostitute"
+      },
+      {
+        "example": "娼家",
+        "reading": "ショウカ",
+        "meaning": "brothel"
+      },
+      {
+        "example": "街娼",
+        "reading": "ガイショウ",
+        "meaning": "prostitute, whore, streetwalker"
+      },
+      {
+        "example": "廃娼",
+        "reading": "ハイショウ",
+        "meaning": "abolition of licensed prostitution"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "女",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23100_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a3c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a3c.gif",
+    "uri": "https://jisho.org/search/%E5%A8%BC%23kanji"
+  }
+}

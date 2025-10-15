@@ -1,1 +1,59 @@
-{"id":"怱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"怱","found":true,"strokeCount":9,"meaning":"rush, hurry, be flustered","kunyomi":["にわか","あわ.てる"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"匆々","reading":"ソウソウ","meaning":"busy, hurried, rushed, yours sincerely, yours in haste, simple, brief, quick"},{"example":"倉卒","reading":"ソウソツ","meaning":"sudden, hurried, busy, precipitate, abrupt"},{"example":"匆々","reading":"ソウソウ","meaning":"busy, hurried, rushed, yours sincerely, yours in haste, simple, brief, quick"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["ノ","丶","勹","勿","心"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24625_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06031.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6031.gif","uri":"https://jisho.org/search/%E6%80%B1%23kanji"}}
+{
+  "id": "怱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "怱",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "rush, hurry, be flustered",
+    "kunyomi": [
+      "にわか",
+      "あわ.てる"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匆々",
+        "reading": "ソウソウ",
+        "meaning": "busy, hurried, rushed, yours sincerely, yours in haste, simple, brief, quick"
+      },
+      {
+        "example": "倉卒",
+        "reading": "ソウソツ",
+        "meaning": "hurried, hasty, busy, precipitate, sudden, abrupt"
+      },
+      {
+        "example": "匆々",
+        "reading": "ソウソウ",
+        "meaning": "busy, hurried, rushed, yours sincerely, yours in haste, simple, brief, quick"
+      },
+      {
+        "example": "烏兎匆々",
+        "reading": "ウトソウソウ",
+        "meaning": "days and nights passing by quickly, months and years flying by, time flies"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "勹",
+      "勿",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24625_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06031.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6031.gif",
+    "uri": "https://jisho.org/search/%E6%80%B1%23kanji"
+  }
+}

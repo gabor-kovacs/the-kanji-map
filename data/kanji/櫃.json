@@ -1,1 +1,63 @@
-{"id":"櫃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"櫃","found":true,"strokeCount":18,"meaning":"chest, coffer, tub","kunyomi":["ひつ"],"onyomi":["キ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"櫃","reading":"ひつ","meaning":"chest, coffer, rice tub, lidded round, wooden container for cooked rice"},{"example":"櫃まぶし","reading":"ひつまぶし","meaning":"chopped kabayaki eel on rice, eel fillets cooked over charcoal with soy flavoured sauce, cut in small pieces and served on rice"},{"example":"聖櫃","reading":"せいひつ","meaning":"Ark of the Covenant (Judaism), tabernacle (Catholicism)"},{"example":"お櫃","reading":"おひつ","meaning":"round, wooden container for cooked rice"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ハ","一","匚","口","木","目","貝","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27331_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ac3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ac3.gif","uri":"https://jisho.org/search/%E6%AB%83%23kanji"}}
+{
+  "id": "櫃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "櫃",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "chest, coffer, tub",
+    "kunyomi": [
+      "ひつ"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "金櫃",
+        "reading": "キンキ",
+        "meaning": "metal box, safe, cashbox, strongbox"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "櫃",
+        "reading": "ひつ",
+        "meaning": "chest, coffer, rice tub, lidded round, wooden container for cooked rice"
+      },
+      {
+        "example": "櫃まぶし",
+        "reading": "ひつまぶし",
+        "meaning": "chopped kabayaki eel on rice, eel fillets cooked over charcoal with soy flavoured sauce, cut in small pieces and served on rice"
+      },
+      {
+        "example": "聖櫃",
+        "reading": "せいひつ",
+        "meaning": "Ark of the Covenant (Judaism), tabernacle (Catholicism)"
+      },
+      {
+        "example": "お櫃",
+        "reading": "おひつ",
+        "meaning": "round, wooden container for cooked rice"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "匚",
+      "口",
+      "木",
+      "目",
+      "貝",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27331_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ac3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ac3.gif",
+    "uri": "https://jisho.org/search/%E6%AB%83%23kanji"
+  }
+}

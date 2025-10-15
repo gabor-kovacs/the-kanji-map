@@ -1,1 +1,68 @@
-{"id":"廃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廃","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"698","strokeCount":12,"meaning":"abolish, obsolete, cessation, discarding, abandon","kunyomi":["すた.れる","すた.る"],"onyomi":["ハイ"],"onyomiExamples":[{"example":"廃棄","reading":"ハイキ","meaning":"disposal, abandonment, scrapping, discarding, abolition, annulment, cancellation, abrogation, repeal"},{"example":"廃案","reading":"ハイアン","meaning":"rejected bill (project)"},{"example":"退廃","reading":"タイハイ","meaning":"(moral) decay, (social) decline, decadence, corruption, degeneration, deterioration, decline (in prosperity)"},{"example":"改廃","reading":"カイハイ","meaning":"reform and (or) abolition, alteration or repeal, revision, reorganization, reorganisation"}],"kunyomiExamples":[{"example":"廃れる","reading":"すたれる","meaning":"to go out of use, to become obsolete, to die out, to go out of fashion, to go out of style, to decline (e.g. of morals), to be lost, to go into decline (of a town, business, etc.)"},{"example":"廃る","reading":"すたる","meaning":"to go out of use, to become obsolete, to die out, to go out of fashion, to go out of style, to be hurt (of honour, reputation, etc.), to be harmed, to be sullied"}],"radical":{"symbol":"广","meaning":"house on cliff"},"parts":["一","儿","广","癶"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24259_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ec3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ec3.gif","uri":"https://jisho.org/search/%E5%BB%83%23kanji"}}
+{
+  "id": "廃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廃",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "698",
+    "strokeCount": 12,
+    "meaning": "abolish, obsolete, cessation, discarding, abandon",
+    "kunyomi": [
+      "すた.れる",
+      "すた.る"
+    ],
+    "onyomi": [
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廃棄",
+        "reading": "ハイキ",
+        "meaning": "disposal, abandonment, scrapping, discarding, abolition, annulment, cancellation, abrogation, repeal"
+      },
+      {
+        "example": "廃案",
+        "reading": "ハイアン",
+        "meaning": "rejected bill (project)"
+      },
+      {
+        "example": "退廃",
+        "reading": "タイハイ",
+        "meaning": "(moral) decay, (social) decline, decadence, corruption, degeneration, deterioration, decline (in prosperity)"
+      },
+      {
+        "example": "改廃",
+        "reading": "カイハイ",
+        "meaning": "reform and (or) abolition, alteration or repeal, revision, reorganization, reorganisation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "廃れる",
+        "reading": "すたれる",
+        "meaning": "to go out of use, to become obsolete, to die out, to go out of fashion, to go out of style, to decline (e.g. of morals), to be lost, to go into decline (of a town, business, etc.)"
+      },
+      {
+        "example": "廃る",
+        "reading": "すたる",
+        "meaning": "to go out of use, to become obsolete, to die out, to go out of fashion, to go out of style, to be hurt (of honour, reputation, etc.), to be harmed, to be sullied"
+      }
+    ],
+    "radical": {
+      "symbol": "广",
+      "meaning": "house on cliff"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "广",
+      "癶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24259_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ec3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ec3.gif",
+    "uri": "https://jisho.org/search/%E5%BB%83%23kanji"
+  }
+}

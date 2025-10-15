@@ -1,1 +1,375 @@
-{"id":"紙","kanjialiveData":{"kanji":{"character":"紙","meaning":{"english":"paper"},"strokes":{"count":10,"timings":[0,1.665,2.665,3.332,4.265,4.665,5.465,6.198,7.399,8.332,9.533333],"images":["https://media.kanjialive.com/kanji_strokes/shi-kami_1.svg","https://media.kanjialive.com/kanji_strokes/shi-kami_2.svg","https://media.kanjialive.com/kanji_strokes/shi-kami_3.svg","https://media.kanjialive.com/kanji_strokes/shi-kami_4.svg","https://media.kanjialive.com/kanji_strokes/shi-kami_5.svg","https://media.kanjialive.com/kanji_strokes/shi-kami_6.svg","https://media.kanjialive.com/kanji_strokes/shi-kami_7.svg","https://media.kanjialive.com/kanji_strokes/shi-kami_8.svg","https://media.kanjialive.com/kanji_strokes/shi-kami_9.svg","https://media.kanjialive.com/kanji_strokes/shi-kami_10.svg"]},"onyomi":{"romaji":"shi","katakana":"シ"},"kunyomi":{"romaji":"kami","hiragana":"かみ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/shi-kami_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/shi-kami_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/shi-kami_00.webm"}},"radical":{"character":"","strokes":6,"image":"https://media.kanjialive.com/radical_character/itohen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"いとへん","romaji":"itohen"},"meaning":{"english":"thread"},"animation":["https://media.kanjialive.com/rad_frames/itohen0.svg","https://media.kanjialive.com/rad_frames/itohen1.svg","https://media.kanjialive.com/rad_frames/itohen2.svg"]},"references":{"grade":2,"kodansha":"879","classic_nelson":"3510"},"examples":[{"japanese":"白紙（はくし）","meaning":{"english":"white paper"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_a.mp3"}},{"japanese":"用紙（ようし）","meaning":{"english":"blank form"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_b.mp3"}},{"japanese":"表紙（ひょうし）","meaning":{"english":"front cover"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_c.mp3"}},{"japanese":"新聞紙（しんぶんし）","meaning":{"english":"newspaper"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_d.mp3"}},{"japanese":"紙（かみ）","meaning":{"english":"paper"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_e.mp3"}},{"japanese":"手紙（てがみ）","meaning":{"english":"letter"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_f.mp3"}}]},"jishoData":{"query":"紙","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"559","strokeCount":10,"meaning":"paper","kunyomi":["かみ"],"onyomi":["シ"],"onyomiExamples":[{"example":"紙","reading":"シ","meaning":"newspaper"},{"example":"紙上","reading":"シジョウ","meaning":"on paper, in the newspapers, in a letter"},{"example":"原稿用紙","reading":"ゲンコウヨウシ","meaning":"Japanese writing paper (lined with a square grid, one square per character), manuscript paper"},{"example":"製紙","reading":"セイシ","meaning":"papermaking, paper manufacture"}],"kunyomiExamples":[{"example":"紙","reading":"かみ","meaning":"paper"},{"example":"紙芝居","reading":"かみしばい","meaning":"kamishibai, storytelling with pictures, form of Japanese street theater and storytelling (popular from the 1930s to the 1950s)"},{"example":"インディア紙","reading":"インディアかみ","meaning":"India paper"},{"example":"頸上","reading":"くびかみ","meaning":"neckband, round upright collar (on some traditional Japanese clothing)"}],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["小","幺","氏","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32025_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d19.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d19.gif","uri":"https://jisho.org/search/%E7%B4%99%23kanji"}}
+{
+  "id": "紙",
+  "kanjialiveData": {
+    "_id": "54317ad8791eba5146ee489f",
+    "_rev": "9-66986fd7d597c93781f0bcc33903b04a",
+    "rad_name_ja": "いとへん",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "kami",
+    "meaning": "paper",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "白紙（はくし）",
+        "meaning": {
+          "english": "white paper"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "用紙（ようし）",
+        "meaning": {
+          "english": "blank form"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "表紙（ひょうし）",
+        "meaning": {
+          "english": "front cover"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "新聞紙（しんぶんし）",
+        "meaning": {
+          "english": "newspaper"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "紙（かみ）",
+        "meaning": {
+          "english": "paper"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "手紙（てがみ）",
+        "meaning": {
+          "english": "letter"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shi-kami_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shi-kami_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shi-kami_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "かみ",
+    "ka_utf": "紙",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=紙",
+    "rad_name_search": [
+      "itohen"
+    ],
+    "rad_order": 158,
+    "txt_books": [
+      {
+        "chapter": "13",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "34",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "13"
+      }
+    ],
+    "kname": "shi-kami",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.665,
+      2.665,
+      3.332,
+      4.265,
+      4.665,
+      5.465,
+      6.198,
+      7.399,
+      8.332,
+      9.533333
+    ],
+    "kunyomi_ka_display": "かみ",
+    "dick": "879",
+    "rad_name": "itohen",
+    "dicn": "3510",
+    "mn_hint": "Contracts linking 糸 clans 氏 are written on paper.",
+    "rad_stroke": 6,
+    "onyomi_ja": "シ",
+    "rad_meaning": "thread",
+    "onyomi": "shi",
+    "ka_id": "ka_112",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "shi",
+      "shi"
+    ],
+    "kunyomi_search": [
+      "kami",
+      "kami"
+    ],
+    "meaning_search": [
+      "paper",
+      "paper"
+    ],
+    "onyomi_ja_search": [
+      "シ",
+      "シ"
+    ],
+    "kunyomi_ja_search": [
+      "かみ",
+      "かみ"
+    ],
+    "rad_meaning_search": [
+      "thread",
+      "thread"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "いとへん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:13",
+      "cij:c13",
+      "bk",
+      "bk:34",
+      "bk:c34",
+      "aij3",
+      "aij3:3",
+      "aij3:c3",
+      "aij3:v3",
+      "aij3:v3:3",
+      "aij3:v3:c3",
+      "gen",
+      "gen:11",
+      "gen:c11",
+      "ap",
+      "ap:8",
+      "ap:c8",
+      "kll",
+      "kll:13",
+      "kll:c13",
+      "cijr",
+      "cijr:13",
+      "cijr:c13"
+    ],
+    "rad_name_file": "itohen",
+    "kanji": {
+      "character": "紙",
+      "meaning": {
+        "english": "paper"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          1.665,
+          2.665,
+          3.332,
+          4.265,
+          4.665,
+          5.465,
+          6.198,
+          7.399,
+          8.332,
+          9.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/shi-kami_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/shi-kami_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/shi-kami_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/shi-kami_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/shi-kami_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/shi-kami_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/shi-kami_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/shi-kami_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/shi-kami_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/shi-kami_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shi",
+        "katakana": "シ"
+      },
+      "kunyomi": {
+        "romaji": "kami",
+        "hiragana": "かみ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/shi-kami_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shi-kami_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/shi-kami_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 6,
+      "image": "https://media.kanjialive.com/radical_character/itohen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "いとへん",
+        "romaji": "itohen"
+      },
+      "meaning": {
+        "english": "thread"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/itohen0.svg",
+        "https://media.kanjialive.com/rad_frames/itohen1.svg",
+        "https://media.kanjialive.com/rad_frames/itohen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "879",
+      "classic_nelson": "3510"
+    }
+  },
+  "jishoData": {
+    "query": "紙",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "559",
+    "strokeCount": 10,
+    "meaning": "paper",
+    "kunyomi": [
+      "かみ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "紙",
+        "reading": "シ",
+        "meaning": "newspaper, paper, counter for newspapers"
+      },
+      {
+        "example": "紙上",
+        "reading": "シジョウ",
+        "meaning": "on paper, in the newspapers, in a letter"
+      },
+      {
+        "example": "原稿用紙",
+        "reading": "ゲンコウヨウシ",
+        "meaning": "Japanese writing paper (lined with a square grid, one square per character), manuscript paper"
+      },
+      {
+        "example": "製紙",
+        "reading": "セイシ",
+        "meaning": "papermaking, paper manufacture"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "紙",
+        "reading": "かみ",
+        "meaning": "paper"
+      },
+      {
+        "example": "紙芝居",
+        "reading": "かみしばい",
+        "meaning": "kamishibai, storytelling with pictures, form of Japanese street theater and storytelling (popular from the 1930s to the 1950s)"
+      },
+      {
+        "example": "インディア紙",
+        "reading": "インディアかみ",
+        "meaning": "India paper"
+      },
+      {
+        "example": "頸上",
+        "reading": "くびかみ",
+        "meaning": "neckband, round upright collar (on some traditional Japanese clothing)"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "氏",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32025_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d19.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d19.gif",
+    "uri": "https://jisho.org/search/%E7%B4%99%23kanji"
+  }
+}

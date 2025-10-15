@@ -1,1 +1,39 @@
-{"id":"覲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"覲","found":true,"strokeCount":18,"meaning":"see, have an audience with","kunyomi":["まみ.える"],"onyomi":["キン"],"onyomiExamples":[{"example":"参勤","reading":"サンキン","meaning":"going to serve one's lord, daimyo's alternating Edo residence, official attendance service (by a daimyo in the Edo period)"}],"kunyomiExamples":[],"radical":{"symbol":"見","meaning":"see"},"parts":["二","口","土","艾","見"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35250_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089b2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89b2.gif","uri":"https://jisho.org/search/%E8%A6%B2%23kanji"}}
+{
+  "id": "覲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覲",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "see, have an audience with",
+    "kunyomi": [
+      "まみ.える"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "参勤",
+        "reading": "サンキン",
+        "meaning": "going to serve one's lord, daimyo's alternating Edo residence, official attendance service (by a daimyo in the Edo period)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "見",
+      "meaning": "see"
+    },
+    "parts": [
+      "二",
+      "口",
+      "土",
+      "艾",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35250_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089b2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89b2.gif",
+    "uri": "https://jisho.org/search/%E8%A6%B2%23kanji"
+  }
+}

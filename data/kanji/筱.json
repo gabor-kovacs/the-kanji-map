@@ -1,1 +1,37 @@
-{"id":"筱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"筱","found":true,"strokeCount":13,"meaning":"dwarf bamboo, diminutive in person's name","kunyomi":["しの"],"onyomi":["ゾウ","ショウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","化","攵","竹","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31601_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b71.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b71.gif","uri":"https://jisho.org/search/%E7%AD%B1%23kanji"}}
+{
+  "id": "筱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "筱",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "dwarf bamboo, diminutive in person's name",
+    "kunyomi": [
+      "しの"
+    ],
+    "onyomi": [
+      "ゾウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "化",
+      "攵",
+      "竹",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31601_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b71.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b71.gif",
+    "uri": "https://jisho.org/search/%E7%AD%B1%23kanji"
+  }
+}

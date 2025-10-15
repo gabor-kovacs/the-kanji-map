@@ -1,1 +1,32 @@
-{"id":"霈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霈","found":true,"strokeCount":16,"meaning":"big rain, long rainy spell","kunyomi":["ひさめ"],"onyomi":["ハイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"雨","meaning":"rain"},"parts":["亠","巾","汁","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38664_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09708.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9708.gif","uri":"https://jisho.org/search/%E9%9C%88%23kanji"}}
+{
+  "id": "霈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霈",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "big rain, long rainy spell",
+    "kunyomi": [
+      "ひさめ"
+    ],
+    "onyomi": [
+      "ハイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "亠",
+      "巾",
+      "汁",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38664_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09708.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9708.gif",
+    "uri": "https://jisho.org/search/%E9%9C%88%23kanji"
+  }
+}

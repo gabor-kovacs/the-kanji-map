@@ -1,1 +1,53 @@
-{"id":"鋩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鋩","found":true,"strokeCount":14,"meaning":"sword point","kunyomi":["ほこさき","きっさき","へさき"],"onyomi":["ボウ"],"onyomiExamples":[{"example":"鋩子","reading":"ボウシ","meaning":"the edge at the very tip of a sword"},{"example":"鋒鋩","reading":"ホウボウ","meaning":"the tip of an edged instrument, sharp words, vicious character"}],"kunyomiExamples":[{"example":"鋩","reading":"へさき","meaning":"the tip of a spear, the edge at the very tip of a sword"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["亡","艾","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37609_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092e9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92e9.gif","uri":"https://jisho.org/search/%E9%8B%A9%23kanji"}}
+{
+  "id": "鋩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鋩",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "sword point",
+    "kunyomi": [
+      "ほこさき",
+      "きっさき",
+      "へさき"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鋩子",
+        "reading": "ボウシ",
+        "meaning": "the edge at the very tip of a sword"
+      },
+      {
+        "example": "鋒鋩",
+        "reading": "ホウボウ",
+        "meaning": "the tip of an edged instrument, sharp words, vicious character"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鋩",
+        "reading": "へさき",
+        "meaning": "the tip of a spear, the edge at the very tip of a sword"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "亡",
+      "艾",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37609_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092e9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92e9.gif",
+    "uri": "https://jisho.org/search/%E9%8B%A9%23kanji"
+  }
+}

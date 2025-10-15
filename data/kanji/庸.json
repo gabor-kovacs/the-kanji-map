@@ -1,1 +1,54 @@
-{"id":"庸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"庸","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2038","strokeCount":11,"meaning":"commonplace, ordinary, employment","kunyomi":[],"onyomi":["ヨウ"],"onyomiExamples":[{"example":"庸","reading":"ヨウ","meaning":"tax paid to avoid forced labor (ritsuryō period), tax in kind, mediocrity"},{"example":"庸君","reading":"ヨウクン","meaning":"stupid ruler"},{"example":"登用","reading":"トウヨウ","meaning":"appointment, assignment, promotion"},{"example":"凡庸","reading":"ボンヨウ","meaning":"mediocre, ordinary, commonplace, banal"}],"kunyomiExamples":[],"radical":{"symbol":"广","meaning":"house on cliff"},"parts":["ヨ","广","用","聿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24248_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eb8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eb8.gif","uri":"https://jisho.org/search/%E5%BA%B8%23kanji"}}
+{
+  "id": "庸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "庸",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2038",
+    "strokeCount": 11,
+    "meaning": "commonplace, ordinary, employment",
+    "kunyomi": [],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "庸",
+        "reading": "ヨウ",
+        "meaning": "tax paid to avoid forced labor (ritsuryō period), tax in kind, mediocrity"
+      },
+      {
+        "example": "庸君",
+        "reading": "ヨウクン",
+        "meaning": "stupid ruler"
+      },
+      {
+        "example": "登用",
+        "reading": "トウヨウ",
+        "meaning": "appointment, assignment, promotion"
+      },
+      {
+        "example": "凡庸",
+        "reading": "ボンヨウ",
+        "meaning": "mediocre, ordinary, commonplace, banal"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "广",
+      "meaning": "house on cliff"
+    },
+    "parts": [
+      "ヨ",
+      "广",
+      "用",
+      "聿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24248_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eb8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eb8.gif",
+    "uri": "https://jisho.org/search/%E5%BA%B8%23kanji"
+  }
+}

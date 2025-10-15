@@ -1,1 +1,43 @@
-{"id":"墻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"墻","found":true,"strokeCount":16,"meaning":"fence, hedge","kunyomi":["かき"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"障壁","reading":"ショウヘキ","meaning":"enclosing wall, boundary fence, obstacle, barrier"},{"example":"胸墻","reading":"キョウショウ","meaning":"parapet, breastwork"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["人","口","囗","土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22715_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058bb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58bb.gif","uri":"https://jisho.org/search/%E5%A2%BB%23kanji"}}
+{
+  "id": "墻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "墻",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "fence, hedge",
+    "kunyomi": [
+      "かき"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "障壁",
+        "reading": "ショウヘキ",
+        "meaning": "enclosing wall, boundary fence, obstacle, barrier"
+      },
+      {
+        "example": "胸墻",
+        "reading": "キョウショウ",
+        "meaning": "parapet, breastwork"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "人",
+      "口",
+      "囗",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22715_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058bb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58bb.gif",
+    "uri": "https://jisho.org/search/%E5%A2%BB%23kanji"
+  }
+}

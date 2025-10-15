@@ -1,1 +1,61 @@
-{"id":"杓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"杓","found":true,"strokeCount":7,"meaning":"ladle, scoop","kunyomi":["ひしゃく"],"onyomi":["シャク","チョウ","テキ","ヒョウ"],"onyomiExamples":[{"example":"杓","reading":"シャク","meaning":"ladle, dipper, wild chervil (Anthriscus sylvestris), cow parsley, keck, Queen Anne's lace"},{"example":"杓子","reading":"シャクシ","meaning":"bamboo ladle"},{"example":"柄杓","reading":"ヒシャク","meaning":"ladle, dipper, scoop"},{"example":"烏柄杓","reading":"カラスビシャク","meaning":"crow dipper (Pinellia ternata)"}],"kunyomiExamples":[{"example":"柄杓","reading":"ひしゃく","meaning":"ladle, dipper, scoop"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["丶","勹","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26451_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06753.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6753.gif","uri":"https://jisho.org/search/%E6%9D%93%23kanji"}}
+{
+  "id": "杓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杓",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "ladle, scoop",
+    "kunyomi": [
+      "ひしゃく"
+    ],
+    "onyomi": [
+      "シャク",
+      "チョウ",
+      "テキ",
+      "ヒョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "杓",
+        "reading": "シャク",
+        "meaning": "ladle, dipper, wild chervil (Anthriscus sylvestris), cow parsley, keck, Queen Anne's lace"
+      },
+      {
+        "example": "杓子",
+        "reading": "シャクシ",
+        "meaning": "bamboo ladle"
+      },
+      {
+        "example": "柄杓",
+        "reading": "ヒシャク",
+        "meaning": "ladle, dipper, scoop"
+      },
+      {
+        "example": "烏柄杓",
+        "reading": "カラスビシャク",
+        "meaning": "crow dipper (Pinellia ternata)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "柄杓",
+        "reading": "ひしゃく",
+        "meaning": "ladle, dipper, scoop"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "丶",
+      "勹",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26451_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06753.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6753.gif",
+    "uri": "https://jisho.org/search/%E6%9D%93%23kanji"
+  }
+}

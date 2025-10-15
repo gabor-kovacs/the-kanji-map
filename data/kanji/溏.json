@@ -1,1 +1,41 @@
-{"id":"溏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"溏","found":true,"strokeCount":13,"meaning":"mud","kunyomi":[],"onyomi":["トウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["ヨ","口","广","汁","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28303_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e8f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e8f.gif","uri":"https://jisho.org/search/%E6%BA%8F%23kanji"}}
+{
+  "id": "溏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溏",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "mud",
+    "kunyomi": [],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "池塘",
+        "reading": "チトウ",
+        "meaning": "bank (of a pond), small lake (in a high moor; oft. with unique biota), natural pond (in peat-rich wetland)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "ヨ",
+      "口",
+      "广",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28303_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e8f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e8f.gif",
+    "uri": "https://jisho.org/search/%E6%BA%8F%23kanji"
+  }
+}

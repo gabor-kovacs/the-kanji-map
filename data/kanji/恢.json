@@ -1,1 +1,52 @@
-{"id":"恢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"恢","found":true,"strokeCount":9,"meaning":"wide, large, enlarge","kunyomi":["ひろ.い"],"onyomi":["カイ","ケ"],"onyomiExamples":[{"example":"回復","reading":"カイフク","meaning":"restoration, rehabilitation, recovery, return, replevin, improvement, recovery (from an illness), recuperation, convalescence"},{"example":"恢弘","reading":"カイコウ","meaning":"propagation, spreading out, extending"},{"example":"天網恢々","reading":"テンモウカイカイ","meaning":"heaven's vengeance is slow but sure, heaven's net is wide and coarse, yet nothing slips through"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["厂","忙","火"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24674_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06062.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6062.gif","uri":"https://jisho.org/search/%E6%81%A2%23kanji"}}
+{
+  "id": "恢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恢",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "wide, large, enlarge",
+    "kunyomi": [
+      "ひろ.い"
+    ],
+    "onyomi": [
+      "カイ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "回復",
+        "reading": "カイフク",
+        "meaning": "restoration, recovery, rehabilitation, return, improvement, recovery (from an illness), recuperation, convalescence"
+      },
+      {
+        "example": "恢弘",
+        "reading": "カイコウ",
+        "meaning": "propagation, spreading out, extending"
+      },
+      {
+        "example": "天網恢々",
+        "reading": "テンモウカイカイ",
+        "meaning": "heaven's vengeance is slow but sure, heaven's net is wide and coarse, yet nothing slips through"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "厂",
+      "忙",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24674_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06062.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6062.gif",
+    "uri": "https://jisho.org/search/%E6%81%A2%23kanji"
+  }
+}

@@ -1,1 +1,37 @@
-{"id":"彜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"彜","found":true,"strokeCount":16,"meaning":"moral principle","kunyomi":["つね"],"onyomi":["イ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"彐","forms":["彑"],"meaning":"pig snout"},"parts":["ヨ","刀","并","廾","彑","米"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24412_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f5c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f5c.gif","uri":"https://jisho.org/search/%E5%BD%9C%23kanji"}}
+{
+  "id": "彜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彜",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "moral principle",
+    "kunyomi": [
+      "つね"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彐",
+      "forms": [
+        "彑"
+      ],
+      "meaning": "pig snout"
+    },
+    "parts": [
+      "ヨ",
+      "刀",
+      "并",
+      "廾",
+      "彑",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24412_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f5c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f5c.gif",
+    "uri": "https://jisho.org/search/%E5%BD%9C%23kanji"
+  }
+}

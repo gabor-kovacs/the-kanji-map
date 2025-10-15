@@ -1,1 +1,75 @@
-{"id":"跛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"跛","found":true,"strokeCount":12,"meaning":"lame, lameness, odd shoe","kunyomi":["びっこ","ちんば"],"onyomi":["ハ","ヒ"],"onyomiExamples":[{"example":"跛行","reading":"ハコウ","meaning":"imbalance, proceeding irregularly, unsteady progress, limp, claudication"},{"example":"跛行景気","reading":"ハコウケイキ","meaning":"spotty economic boom"},{"example":"跛行","reading":"ハコウ","meaning":"imbalance, proceeding irregularly, unsteady progress, limp, claudication"}],"kunyomiExamples":[{"example":"跛","reading":"びっこ","meaning":"lameness, cripple, mismatched pair (of shoes, etc.)"},{"example":"びっこを引く","reading":"びっこをひく","meaning":"to limp"},{"example":"跛","reading":"びっこ","meaning":"lameness, cripple, mismatched pair (of shoes, etc.)"},{"example":"片跛","reading":"かたちんば","meaning":"lame, lameness, mismatched (e.g. odd shoes)"}],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["又","口","止","皮","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36315_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ddb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ddb.gif","uri":"https://jisho.org/search/%E8%B7%9B%23kanji"}}
+{
+  "id": "跛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "跛",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "lame, lameness, odd shoe",
+    "kunyomi": [
+      "びっこ",
+      "ちんば"
+    ],
+    "onyomi": [
+      "ハ",
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "跛行",
+        "reading": "ハコウ",
+        "meaning": "imbalance, proceeding irregularly, unsteady progress, limp, claudication"
+      },
+      {
+        "example": "跛行景気",
+        "reading": "ハコウケイキ",
+        "meaning": "spotty economic boom"
+      },
+      {
+        "example": "跛行",
+        "reading": "ハコウ",
+        "meaning": "imbalance, proceeding irregularly, unsteady progress, limp, claudication"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "跛",
+        "reading": "びっこ",
+        "meaning": "lameness, cripple, mismatched pair (of shoes, etc.)"
+      },
+      {
+        "example": "びっこを引く",
+        "reading": "びっこをひく",
+        "meaning": "to limp"
+      },
+      {
+        "example": "跛",
+        "reading": "びっこ",
+        "meaning": "lameness, cripple, mismatched pair (of shoes, etc.)"
+      },
+      {
+        "example": "片跛",
+        "reading": "かたちんば",
+        "meaning": "lame, lameness, mismatched (e.g. odd shoes)"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "又",
+      "口",
+      "止",
+      "皮",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36315_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ddb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ddb.gif",
+    "uri": "https://jisho.org/search/%E8%B7%9B%23kanji"
+  }
+}

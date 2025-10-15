@@ -1,1 +1,46 @@
-{"id":"鬲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鬲","found":true,"strokeCount":10,"meaning":"tripod","kunyomi":["かなえ","へだ.てる"],"onyomi":["カク","レキ"],"onyomiExamples":[{"example":"鬲","reading":"レキ","meaning":"Chinese kettle with three legs"}],"kunyomiExamples":[{"example":"鬲","reading":"かなえ","meaning":"kanji \"tripod\" radical (radical 193)"}],"radical":{"symbol":"鬲","meaning":"tripod, cauldron"},"parts":["儿","冂","口","鬲"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39730_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b32.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b32.gif","uri":"https://jisho.org/search/%E9%AC%B2%23kanji"}}
+{
+  "id": "鬲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鬲",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "tripod",
+    "kunyomi": [
+      "かなえ",
+      "へだ.てる"
+    ],
+    "onyomi": [
+      "カク",
+      "レキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鬲",
+        "reading": "レキ",
+        "meaning": "Chinese kettle with three legs"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鬲",
+        "reading": "かなえ",
+        "meaning": "kanji \"tripod\" radical (radical 193)"
+      }
+    ],
+    "radical": {
+      "symbol": "鬲",
+      "meaning": "tripod, cauldron"
+    },
+    "parts": [
+      "儿",
+      "冂",
+      "口",
+      "鬲"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39730_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b32.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b32.gif",
+    "uri": "https://jisho.org/search/%E9%AC%B2%23kanji"
+  }
+}

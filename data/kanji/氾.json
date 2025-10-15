@@ -1,1 +1,47 @@
-{"id":"氾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"氾","found":true,"taughtIn":"junior high","strokeCount":5,"meaning":"spread out, wide","kunyomi":["ひろ.がる"],"onyomi":["ハン"],"onyomiExamples":[{"example":"氾濫","reading":"ハンラン","meaning":"overflowing, flood, inundation, deluge, oversupply, plethora"},{"example":"氾濫原","reading":"ハンランゲン","meaning":"flood plain"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["乙","卩","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27710_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c3e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c3e.gif","uri":"https://jisho.org/search/%E6%B0%BE%23kanji"}}
+{
+  "id": "氾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "氾",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 5,
+    "meaning": "spread out, wide",
+    "kunyomi": [
+      "ひろ.がる"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "氾濫",
+        "reading": "ハンラン",
+        "meaning": "overflowing, flood, inundation, deluge, oversupply, plethora, abundance (esp. of something undesirable)"
+      },
+      {
+        "example": "氾濫原",
+        "reading": "ハンランゲン",
+        "meaning": "flood plain"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "乙",
+      "卩",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27710_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c3e.gif",
+    "uri": "https://jisho.org/search/%E6%B0%BE%23kanji"
+  }
+}

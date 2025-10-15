@@ -1,1 +1,45 @@
-{"id":"狛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"狛","found":true,"newspaperFrequencyRank":"2196","strokeCount":8,"meaning":"archaic part of Korea, lion-dog shrine guards","kunyomi":["こま"],"onyomi":["ハク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"高麗","reading":"こうらい","meaning":"Goryeo (dynasty of Korea; 918-1392 CE), Korea (esp. the Goguryeo kingdom or the Goryeo dynasty), (stone) guardian lion-dogs at Shinto shrine"},{"example":"狛犬","reading":"こまいぬ","meaning":"(stone) guardian lion-dogs at Shinto shrine"}],"radical":{"symbol":"犬","forms":["犭"],"meaning":"dog"},"parts":["犯","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29403_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072db.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72db.gif","uri":"https://jisho.org/search/%E7%8B%9B%23kanji"}}
+{
+  "id": "狛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "狛",
+    "found": true,
+    "newspaperFrequencyRank": "2196",
+    "strokeCount": 8,
+    "meaning": "archaic part of Korea, lion-dog shrine guards",
+    "kunyomi": [
+      "こま"
+    ],
+    "onyomi": [
+      "ハク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "高麗",
+        "reading": "こま",
+        "meaning": "Goguryeo (ancient Korean kingdom; 37 BCE-668 CE), Korean, introduced from Goryeo"
+      },
+      {
+        "example": "狛犬",
+        "reading": "こまいぬ",
+        "meaning": "(stone) guardian lion-dogs at a Shinto shrine"
+      }
+    ],
+    "radical": {
+      "symbol": "犬",
+      "forms": [
+        "犭"
+      ],
+      "meaning": "dog"
+    },
+    "parts": [
+      "犯",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29403_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72db.gif",
+    "uri": "https://jisho.org/search/%E7%8B%9B%23kanji"
+  }
+}

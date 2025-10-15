@@ -1,1 +1,53 @@
-{"id":"廷","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廷","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1439","strokeCount":7,"meaning":"courts, imperial court, government office","kunyomi":[],"onyomi":["テイ"],"onyomiExamples":[{"example":"廷臣","reading":"テイシン","meaning":"courtier"},{"example":"廷丁","reading":"テイテイ","meaning":"court attendant"},{"example":"朝廷","reading":"チョウテイ","meaning":"Imperial Court"},{"example":"閉廷","reading":"ヘイテイ","meaning":"adjourning court"}],"kunyomiExamples":[],"radical":{"symbol":"廴","meaning":"long stride"},"parts":["士","廴","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24311_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ef7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ef7.gif","uri":"https://jisho.org/search/%E5%BB%B7%23kanji"}}
+{
+  "id": "廷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廷",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1439",
+    "strokeCount": 7,
+    "meaning": "courts, imperial court, government office",
+    "kunyomi": [],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廷臣",
+        "reading": "テイシン",
+        "meaning": "courtier"
+      },
+      {
+        "example": "廷丁",
+        "reading": "テイテイ",
+        "meaning": "court attendant"
+      },
+      {
+        "example": "朝廷",
+        "reading": "チョウテイ",
+        "meaning": "Imperial Court"
+      },
+      {
+        "example": "閉廷",
+        "reading": "ヘイテイ",
+        "meaning": "adjourning court"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "廴",
+      "meaning": "long stride"
+    },
+    "parts": [
+      "士",
+      "廴",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24311_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ef7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ef7.gif",
+    "uri": "https://jisho.org/search/%E5%BB%B7%23kanji"
+  }
+}

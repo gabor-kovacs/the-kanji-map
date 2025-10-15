@@ -1,1 +1,329 @@
-{"id":"犬","kanjialiveData":{"kanji":{"character":"犬","meaning":{"english":"dog"},"strokes":{"count":4,"timings":[0,1.731,3.071,3.941,4.824],"images":["https://media.kanjialive.com/kanji_strokes/inu_1.svg","https://media.kanjialive.com/kanji_strokes/inu_2.svg","https://media.kanjialive.com/kanji_strokes/inu_3.svg","https://media.kanjialive.com/kanji_strokes/inu_4.svg"]},"onyomi":{"romaji":"ken","katakana":"ケン"},"kunyomi":{"romaji":"inu","hiragana":"いぬ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/inu_4.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/inu_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/inu_00.webm"}},"radical":{"character":"⽝","strokes":4,"image":"https://media.kanjialive.com/radical_character/inu.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"いぬ","romaji":"inu"},"meaning":{"english":"dog"},"animation":["https://media.kanjialive.com/rad_frames/inu0.svg","https://media.kanjialive.com/rad_frames/inu1.svg","https://media.kanjialive.com/rad_frames/inu2.svg"]},"references":{"grade":1,"kodansha":"2160","classic_nelson":"2868"},"examples":[{"japanese":"番犬（ばんけん）","meaning":{"english":"watchdog"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inu_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inu_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inu_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inu_06_a.mp3"}},{"japanese":"盲導犬（もうどうけん）","meaning":{"english":"seeing eye dog"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inu_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inu_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inu_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inu_06_b.mp3"}},{"japanese":"犬（いぬ）","meaning":{"english":"dog"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inu_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inu_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inu_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inu_06_c.mp3"}},{"japanese":"飼い犬（かいいぬ）","meaning":{"english":"pet dog"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inu_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inu_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inu_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inu_06_d.mp3"}},{"japanese":"子犬（こいぬ）","meaning":{"english":"puppy"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/inu_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/inu_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/inu_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/inu_06_e.mp3"}}]},"jishoData":{"query":"犬","found":true,"taughtIn":"grade 1","jlptLevel":"N4","newspaperFrequencyRank":"1326","strokeCount":4,"meaning":"dog","kunyomi":["いぬ","いぬ-"],"onyomi":["ケン"],"onyomiExamples":[{"example":"犬猿の仲","reading":"ケンエンノナカ","meaning":"like cats and dogs, (on) very bad terms, relationship of dogs and monkeys"},{"example":"犬猿","reading":"ケンエン","meaning":"cats and dogs (as an example of a bad relationship), dogs and monkeys"},{"example":"柴犬","reading":"シバイヌ","meaning":"shiba inu (dog breed), shiba, brushwood dog"},{"example":"ポメラニア犬","reading":"ポメラニアケン","meaning":"Pomeranian (dog)"}],"kunyomiExamples":[{"example":"犬","reading":"いぬ","meaning":"dog (Canis (lupus) familiaris), squealer, rat, snitch, informer, informant, spy, loser, asshole, counterfeit, inferior, useless, wasteful"},{"example":"犬合わせ","reading":"いぬあわせ","meaning":"dog fighting, dog fight"},{"example":"野良犬","reading":"のらいぬ","meaning":"stray dog"},{"example":"柴犬","reading":"しばいぬ","meaning":"shiba inu (dog breed), shiba, brushwood dog"}],"radical":{"symbol":"犬","forms":["犭"],"meaning":"dog"},"parts":["丶","大","犬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29356_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072ac.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72ac.gif","uri":"https://jisho.org/search/%E7%8A%AC%23kanji"}}
+{
+  "id": "犬",
+  "kanjialiveData": {
+    "_id": "54317b05791eba5146ee4bf7",
+    "_rev": "10-816de763e35b6d688bcfe377942d8638",
+    "rad_name_ja": "いぬ",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "inu",
+    "meaning": "dog",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "番犬（ばんけん）",
+        "meaning": {
+          "english": "watchdog"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inu_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inu_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inu_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "盲導犬（もうどうけん）",
+        "meaning": {
+          "english": "seeing eye dog"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inu_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inu_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inu_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "犬（いぬ）",
+        "meaning": {
+          "english": "dog"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inu_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inu_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inu_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "飼い犬（かいいぬ）",
+        "meaning": {
+          "english": "pet dog"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inu_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inu_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inu_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "子犬（こいぬ）",
+        "meaning": {
+          "english": "puppy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/inu_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/inu_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/inu_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いぬ",
+    "ka_utf": "犬",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=犬",
+    "rad_name_search": [
+      "inu"
+    ],
+    "rad_order": 118,
+    "txt_books": [
+      {
+        "chapter": "11",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "inu",
+    "rad_utf": "⽝",
+    "stroketimes": [
+      0,
+      1.731,
+      3.071,
+      3.941,
+      4.824
+    ],
+    "kunyomi_ka_display": "いぬ",
+    "dick": "2160",
+    "rad_name": "inu",
+    "dicn": "2868",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ケン",
+    "rad_meaning": "dog",
+    "onyomi": "ken",
+    "ka_id": "ka_78",
+    "onyomi_search": [
+      "ken",
+      "ken"
+    ],
+    "kunyomi_search": [
+      "inu",
+      "inu"
+    ],
+    "meaning_search": [
+      "dog",
+      "dog"
+    ],
+    "onyomi_ja_search": [
+      "ケン",
+      "ケン"
+    ],
+    "kunyomi_ja_search": [
+      "いぬ",
+      "いぬ"
+    ],
+    "rad_meaning_search": [
+      "dog",
+      "dog"
+    ],
+    "rad_name_ja_search": [
+      "いぬ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:11",
+      "cij:c11",
+      "aij3",
+      "aij3:15",
+      "aij3:c15",
+      "aij3:v2",
+      "aij3:v2:15",
+      "aij3:v2:c15",
+      "gen",
+      "gen:21",
+      "gen:c21",
+      "ap",
+      "ap:5",
+      "ap:c5",
+      "kll",
+      "kll:10",
+      "kll:c10"
+    ],
+    "rad_name_file": "inu",
+    "kanji": {
+      "character": "犬",
+      "meaning": {
+        "english": "dog"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0,
+          1.731,
+          3.071,
+          3.941,
+          4.824
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/inu_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/inu_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/inu_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/inu_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ken",
+        "katakana": "ケン"
+      },
+      "kunyomi": {
+        "romaji": "inu",
+        "hiragana": "いぬ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/inu_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/inu_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/inu_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽝",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/inu.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "いぬ",
+        "romaji": "inu"
+      },
+      "meaning": {
+        "english": "dog"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/inu0.svg",
+        "https://media.kanjialive.com/rad_frames/inu1.svg",
+        "https://media.kanjialive.com/rad_frames/inu2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "2160",
+      "classic_nelson": "2868"
+    }
+  },
+  "jishoData": {
+    "query": "犬",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "1326",
+    "strokeCount": 4,
+    "meaning": "dog",
+    "kunyomi": [
+      "いぬ",
+      "いぬ-"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "犬猿の仲",
+        "reading": "ケンエンノナカ",
+        "meaning": "like cats and dogs, (on) very bad terms, relationship of dogs and monkeys"
+      },
+      {
+        "example": "犬猿",
+        "reading": "ケンエン",
+        "meaning": "cats and dogs (as an example of a bad relationship), dogs and monkeys"
+      },
+      {
+        "example": "柴犬",
+        "reading": "シバイヌ",
+        "meaning": "shiba inu (dog breed), shiba, brushwood dog"
+      },
+      {
+        "example": "ポメラニア犬",
+        "reading": "ポメラニアケン",
+        "meaning": "Pomeranian (dog)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "犬",
+        "reading": "いぬ",
+        "meaning": "dog (Canis (lupus) familiaris), squealer, rat, snitch, informer, informant, spy, loser, asshole, counterfeit, inferior, useless, wasteful"
+      },
+      {
+        "example": "犬合わせ",
+        "reading": "いぬあわせ",
+        "meaning": "dogfighting"
+      },
+      {
+        "example": "野良犬",
+        "reading": "のらいぬ",
+        "meaning": "stray dog"
+      },
+      {
+        "example": "柴犬",
+        "reading": "しばいぬ",
+        "meaning": "shiba inu (dog breed), shiba, brushwood dog"
+      }
+    ],
+    "radical": {
+      "symbol": "犬",
+      "forms": [
+        "犭"
+      ],
+      "meaning": "dog"
+    },
+    "parts": [
+      "丶",
+      "大",
+      "犬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29356_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72ac.gif",
+    "uri": "https://jisho.org/search/%E7%8A%AC%23kanji"
+  }
+}

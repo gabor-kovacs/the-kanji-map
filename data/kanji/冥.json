@@ -1,1 +1,72 @@
-{"id":"冥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冥","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2349","strokeCount":10,"meaning":"dark","kunyomi":["くら.い"],"onyomi":["メイ","ミョウ"],"onyomiExamples":[{"example":"冥福","reading":"メイフク","meaning":"happiness in the next world"},{"example":"瞑想","reading":"メイソウ","meaning":"meditation, contemplation"},{"example":"晦冥","reading":"カイメイ","meaning":"darkness"},{"example":"天地晦冥","reading":"テンチカイメイ","meaning":"The world is covered in darkness, All is plunged into darkness"},{"example":"冥福","reading":"メイフク","meaning":"happiness in the next world"},{"example":"冥利","reading":"ミョウリ","meaning":"providence, luck, favor, favour, advantage"}],"kunyomiExamples":[{"example":"暗い","reading":"くらい","meaning":"dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"}],"radical":{"symbol":"冖","meaning":"cover"},"parts":["ハ","亠","冖","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20901_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a5.gif","uri":"https://jisho.org/search/%E5%86%A5%23kanji"}}
+{
+  "id": "冥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冥",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2349",
+    "strokeCount": 10,
+    "meaning": "dark",
+    "kunyomi": [
+      "くら.い"
+    ],
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冥福",
+        "reading": "メイフク",
+        "meaning": "happiness in the next world, heavenly bliss"
+      },
+      {
+        "example": "瞑想",
+        "reading": "メイソウ",
+        "meaning": "meditation (with closed eyes), contemplation"
+      },
+      {
+        "example": "晦冥",
+        "reading": "カイメイ",
+        "meaning": "darkness"
+      },
+      {
+        "example": "天地晦冥",
+        "reading": "テンチカイメイ",
+        "meaning": "the world is covered in darkness, all is plunged into darkness"
+      },
+      {
+        "example": "冥福",
+        "reading": "メイフク",
+        "meaning": "happiness in the next world, heavenly bliss"
+      },
+      {
+        "example": "冥利",
+        "reading": "ミョウリ",
+        "meaning": "providence, luck, favor, favour, advantage"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "暗い",
+        "reading": "くらい",
+        "meaning": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"
+      }
+    ],
+    "radical": {
+      "symbol": "冖",
+      "meaning": "cover"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "冖",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20901_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a5.gif",
+    "uri": "https://jisho.org/search/%E5%86%A5%23kanji"
+  }
+}

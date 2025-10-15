@@ -1,1 +1,45 @@
-{"id":"霙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霙","found":true,"strokeCount":16,"meaning":"sleet","kunyomi":["みぞれ"],"onyomi":["エイ","ヨウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"霙","reading":"みぞれ","meaning":"sleet, daikon shavings, grated daikon, shaved ice topped with honey"},{"example":"みぞれ和え","reading":"みぞれあえ","meaning":"seasoning of grated daikon with soy and vinegar, usu. for fish or vegetables"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["冂","冖","大","艾","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38681_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09719.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9719.gif","uri":"https://jisho.org/search/%E9%9C%99%23kanji"}}
+{
+  "id": "霙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霙",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "sleet",
+    "kunyomi": [
+      "みぞれ"
+    ],
+    "onyomi": [
+      "エイ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "霙",
+        "reading": "みぞれ",
+        "meaning": "sleet, daikon shavings, grated daikon, shaved ice topped with honey"
+      },
+      {
+        "example": "みぞれ和え",
+        "reading": "みぞれあえ",
+        "meaning": "seasoning of grated daikon with soy and vinegar, usu. for fish or vegetables"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "冂",
+      "冖",
+      "大",
+      "艾",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38681_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09719.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9719.gif",
+    "uri": "https://jisho.org/search/%E9%9C%99%23kanji"
+  }
+}

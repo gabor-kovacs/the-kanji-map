@@ -1,1 +1,56 @@
-{"id":"碾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"碾","found":true,"strokeCount":15,"meaning":"mortar, grind","kunyomi":["ひ.く","う.す"],"onyomi":["テン"],"onyomiExamples":[{"example":"碾磑","reading":"テンガイ","meaning":"water-powered millstone"},{"example":"挽き茶","reading":"ヒキチャ","meaning":"powdered green tea (steamed and dried before being stone-ground)"}],"kunyomiExamples":[{"example":"挽く","reading":"ひく","meaning":"to saw, to grind (e.g. coffee beans), to mill"}],"radical":{"symbol":"石","meaning":"stone"},"parts":["二","口","尸","石","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30910_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/078be.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/78be.gif","uri":"https://jisho.org/search/%E7%A2%BE%23kanji"}}
+{
+  "id": "碾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "碾",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "mortar, grind",
+    "kunyomi": [
+      "ひ.く",
+      "う.す"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "碾磑",
+        "reading": "テンガイ",
+        "meaning": "water-powered millstone"
+      },
+      {
+        "example": "挽き茶",
+        "reading": "ヒキチャ",
+        "meaning": "powdered green tea (steamed and dried before being stone-ground)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "挽く",
+        "reading": "ひく",
+        "meaning": "to saw, to grind (e.g. coffee beans), to mill"
+      },
+      {
+        "example": "臼",
+        "reading": "うす",
+        "meaning": "millstone, mortar"
+      }
+    ],
+    "radical": {
+      "symbol": "石",
+      "meaning": "stone"
+    },
+    "parts": [
+      "二",
+      "口",
+      "尸",
+      "石",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30910_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/078be.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/78be.gif",
+    "uri": "https://jisho.org/search/%E7%A2%BE%23kanji"
+  }
+}

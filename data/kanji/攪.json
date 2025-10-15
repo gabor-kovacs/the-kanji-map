@@ -1,1 +1,56 @@
-{"id":"攪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"攪","found":true,"strokeCount":23,"meaning":"disturb, throw into confusion","kunyomi":["みだ.す"],"onyomi":["カク","コウ"],"onyomiExamples":[{"example":"攪拌","reading":"カクハン","meaning":"agitation, stirring, whipping, beating"},{"example":"かくはん機","reading":"カクハンキ","meaning":"mixer, agitator"},{"example":"攪拌","reading":"カクハン","meaning":"agitation, stirring, whipping, beating"},{"example":"撹乱","reading":"カクラン","meaning":"disturbance, confusion, perturbation, commotion, turbulence"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["扎","臼","見"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25898_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0652a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/652a.gif","uri":"https://jisho.org/search/%E6%94%AA%23kanji"}}
+{
+  "id": "攪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "攪",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "disturb, throw into confusion",
+    "kunyomi": [
+      "みだ.す"
+    ],
+    "onyomi": [
+      "カク",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "撹乳",
+        "reading": "カクニュウ",
+        "meaning": "milk churning"
+      },
+      {
+        "example": "撹乳器",
+        "reading": "カクニュウキ",
+        "meaning": "churn"
+      },
+      {
+        "example": "攪拌",
+        "reading": "カクハン",
+        "meaning": "agitation, stirring, whipping, beating"
+      },
+      {
+        "example": "撹乱",
+        "reading": "カクラン",
+        "meaning": "disturbance, confusion, perturbation, commotion, turbulence"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "扎",
+      "臼",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25898_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0652a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/652a.gif",
+    "uri": "https://jisho.org/search/%E6%94%AA%23kanji"
+  }
+}

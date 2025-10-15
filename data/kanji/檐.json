@@ -1,1 +1,40 @@
-{"id":"檐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"檐","found":true,"strokeCount":17,"meaning":"eaves","kunyomi":["のき","ひさし"],"onyomi":["エン","タン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"軒","reading":"のき","meaning":"eaves, narrow aisle surrounding the core of a temple building"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["儿","厂","木","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27280_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a90.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a90.gif","uri":"https://jisho.org/search/%E6%AA%90%23kanji"}}
+{
+  "id": "檐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "檐",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "eaves",
+    "kunyomi": [
+      "のき",
+      "ひさし"
+    ],
+    "onyomi": [
+      "エン",
+      "タン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "軒",
+        "reading": "のき",
+        "meaning": "eaves, narrow aisle surrounding the core of a temple building"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "儿",
+      "厂",
+      "木",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27280_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a90.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a90.gif",
+    "uri": "https://jisho.org/search/%E6%AA%90%23kanji"
+  }
+}

@@ -1,1 +1,54 @@
-{"id":"搏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"搏","found":true,"strokeCount":13,"meaning":"seize, spring upon, strike","kunyomi":["う.つ","と.る"],"onyomi":["ハク"],"onyomiExamples":[{"example":"拍動","reading":"ハクドウ","meaning":"pulsation, pulsebeat"},{"example":"竜攘虎搏","reading":"リュウジョウコハク","meaning":"fierce fighting"}],"kunyomiExamples":[{"example":"打つ","reading":"うつ","meaning":"to hit, to strike, to knock, to beat, to punch, to slap, to tap, to bang, to clap, to pound, to strike (noon, etc.), to sound (cymbals, etc.), to beat (a drum, etc.), to beat (rhythmically, e.g. pulse, waves, etc.), to move, to impress, to touch, to drive in, to hammer in, to put in, to inject, to vaccinate, to type, to send, to transmit, to insert, to write in, to mark, to make (noodles, etc.), to prepare, to till (soil), to sprinkle, to throw, to cast, to do, to carry out, to play, to perform, to engage in (gambling, etc.), to pay (a deposit, etc.), to visit (on a pilgrimage), to line (a coat), to bind (a criminal)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["丶","十","寸","扎","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25615_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0640f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/640f.gif","uri":"https://jisho.org/search/%E6%90%8F%23kanji"}}
+{
+  "id": "搏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "搏",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "seize, spring upon, strike",
+    "kunyomi": [
+      "う.つ",
+      "と.る"
+    ],
+    "onyomi": [
+      "ハク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拍動",
+        "reading": "ハクドウ",
+        "meaning": "pulsation, pulsebeat"
+      },
+      {
+        "example": "竜攘虎搏",
+        "reading": "リュウジョウコハク",
+        "meaning": "fierce fighting"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "打つ",
+        "reading": "うつ",
+        "meaning": "to hit, to strike, to knock, to beat, to punch, to slap, to tap, to bang, to clap, to pound, to strike (noon, etc.), to sound (cymbals, etc.), to beat (a drum, etc.), to beat (rhythmically, e.g. pulse, waves, etc.), to move, to impress, to touch, to drive in, to hammer in, to put in, to inject, to vaccinate, to type, to send, to transmit, to insert, to write in, to mark, to make (noodles, etc.), to prepare, to till (soil), to sprinkle, to throw, to cast, to do, to carry out, to play, to perform, to engage in (gambling, etc.), to pay (a deposit, etc.), to visit (on a pilgrimage), to line (a coat), to bind (a criminal), to drop (a piece)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "寸",
+      "扎",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25615_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0640f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/640f.gif",
+    "uri": "https://jisho.org/search/%E6%90%8F%23kanji"
+  }
+}

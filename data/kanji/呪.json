@@ -1,1 +1,90 @@
-{"id":"呪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"呪","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2131","strokeCount":8,"meaning":"spell, curse, charm, malediction","kunyomi":["まじな.う","のろ.い","まじな.い","のろ.う"],"onyomi":["ジュ","シュ","シュウ","ズ"],"onyomiExamples":[{"example":"呪","reading":"ジュ","meaning":"spell, curse, dharani, mantra"},{"example":"呪術","reading":"ジュジュツ","meaning":"magic, sorcery, incantation"},{"example":"消災呪","reading":"ショウサイジュ","meaning":"disaster-preventing incantation, disaster-preventing dharani"},{"example":"明呪","reading":"ミョウジュ","meaning":"mantra"},{"example":"呪詛","reading":"ジュソ","meaning":"curse, malediction, hex"}],"kunyomiExamples":[{"example":"呪う","reading":"まじなう","meaning":"to pray that one avoids disaster or illness, to pray for harm or death to come upon someone, to curse, to charm, to conjure, to cast a spell (on someone), to treat illness (with a prayer)"},{"example":"呪い","reading":"のろい","meaning":"curse, spell, malediction"},{"example":"呪い殺す","reading":"のろいころす","meaning":"to curse someone to death, to put a deadly curse on someone"},{"example":"呪い","reading":"まじない","meaning":"charm, incantation, spell, curse"},{"example":"呪う","reading":"のろう","meaning":"to curse, to put a curse on, to detest intensely"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["儿","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21610_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0546a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/546a.gif","uri":"https://jisho.org/search/%E5%91%AA%23kanji"}}
+{
+  "id": "呪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呪",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2131",
+    "strokeCount": 8,
+    "meaning": "spell, curse, charm, malediction",
+    "kunyomi": [
+      "まじな.う",
+      "のろ.い",
+      "まじな.い",
+      "のろ.う"
+    ],
+    "onyomi": [
+      "ジュ",
+      "シュ",
+      "シュウ",
+      "ズ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呪",
+        "reading": "ジュ",
+        "meaning": "spell, curse, dharani, mantra"
+      },
+      {
+        "example": "呪術",
+        "reading": "ジュジュツ",
+        "meaning": "magic, sorcery, incantation"
+      },
+      {
+        "example": "消災呪",
+        "reading": "ショウサイジュ",
+        "meaning": "disaster-preventing incantation, disaster-preventing dharani"
+      },
+      {
+        "example": "明呪",
+        "reading": "ミョウジュ",
+        "meaning": "mantra"
+      },
+      {
+        "example": "呪詛",
+        "reading": "ジュソ",
+        "meaning": "curse, malediction, hex"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "呪う",
+        "reading": "まじなう",
+        "meaning": "to pray that one avoids disaster or illness, to pray for harm or death to come upon someone, to curse, to charm, to conjure, to cast a spell (on someone), to treat illness (with a prayer)"
+      },
+      {
+        "example": "呪い",
+        "reading": "のろい",
+        "meaning": "curse, spell, malediction"
+      },
+      {
+        "example": "呪い殺す",
+        "reading": "のろいころす",
+        "meaning": "to curse (someone) to death, to put a deadly curse on (someone)"
+      },
+      {
+        "example": "呪い",
+        "reading": "まじない",
+        "meaning": "charm, incantation, spell, curse"
+      },
+      {
+        "example": "呪う",
+        "reading": "のろう",
+        "meaning": "to curse, to put a curse on, to detest intensely"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "儿",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21610_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0546a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/546a.gif",
+    "uri": "https://jisho.org/search/%E5%91%AA%23kanji"
+  }
+}

@@ -1,1 +1,75 @@
-{"id":"漱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"漱","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2054","strokeCount":14,"meaning":"gargle, rinse mouth","kunyomi":["くちすす.ぐ","くちそそ.ぐ","うがい","すす.ぐ"],"onyomi":["ソウ","シュウ","ス"],"onyomiExamples":[{"example":"漱石枕流","reading":"ソウセキチンリュウ","meaning":"sore loser who stubbornly refuses to admit being wrong"},{"example":"盥漱","reading":"カンソウ","meaning":"washing one's hands and rinsing one's mouth"},{"example":"漱ぐ","reading":"ススグ","meaning":"to rinse (one's mouth), to gargle"}],"kunyomiExamples":[{"example":"漱ぐ","reading":"くちすすぐ","meaning":"to gargle, to rinse (the mouth)"},{"example":"嗽","reading":"うがい","meaning":"gargling, rinsing one's mouth"},{"example":"漱ぐ","reading":"すすぐ","meaning":"to rinse (one's mouth), to gargle"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["口","木","欠","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28465_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f31.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f31.gif","uri":"https://jisho.org/search/%E6%BC%B1%23kanji"}}
+{
+  "id": "漱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漱",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2054",
+    "strokeCount": 14,
+    "meaning": "gargle, rinse mouth",
+    "kunyomi": [
+      "くちすす.ぐ",
+      "くちそそ.ぐ",
+      "うがい",
+      "すす.ぐ"
+    ],
+    "onyomi": [
+      "ソウ",
+      "シュウ",
+      "ス"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "漱石枕流",
+        "reading": "ソウセキチンリュウ",
+        "meaning": "sore loser who stubbornly refuses to admit being wrong"
+      },
+      {
+        "example": "盥漱",
+        "reading": "カンソウ",
+        "meaning": "washing one's hands and rinsing one's mouth"
+      },
+      {
+        "example": "漱ぐ",
+        "reading": "ススグ",
+        "meaning": "to rinse (one's mouth), to gargle"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漱ぐ",
+        "reading": "くちすすぐ",
+        "meaning": "to gargle, to rinse (the mouth)"
+      },
+      {
+        "example": "嗽",
+        "reading": "うがい",
+        "meaning": "gargling, rinsing one's mouth"
+      },
+      {
+        "example": "漱ぐ",
+        "reading": "すすぐ",
+        "meaning": "to rinse (one's mouth), to gargle"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "口",
+      "木",
+      "欠",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28465_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f31.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f31.gif",
+    "uri": "https://jisho.org/search/%E6%BC%B1%23kanji"
+  }
+}

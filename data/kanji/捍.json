@@ -1,1 +1,40 @@
-{"id":"捍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"捍","found":true,"strokeCount":10,"meaning":"defend, protect","kunyomi":["ふせ.ぐ"],"onyomi":["カン"],"onyomiExamples":[{"example":"捍格","reading":"カンカク","meaning":"mutual incompatibility, mutual rejection"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["干","扎","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25421_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0634d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/634d.gif","uri":"https://jisho.org/search/%E6%8D%8D%23kanji"}}
+{
+  "id": "捍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捍",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "defend, protect",
+    "kunyomi": [
+      "ふせ.ぐ"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "捍格",
+        "reading": "カンカク",
+        "meaning": "mutual incompatibility, mutual rejection"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "干",
+      "扎",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25421_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0634d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/634d.gif",
+    "uri": "https://jisho.org/search/%E6%8D%8D%23kanji"
+  }
+}

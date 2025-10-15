@@ -1,1 +1,56 @@
-{"id":"邀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"邀","found":true,"strokeCount":17,"meaning":"go to meet, call","kunyomi":["むか.える","もと.める"],"onyomi":["ヨウ"],"onyomiExamples":[{"example":"邀撃","reading":"ヨウゲキ","meaning":"interception, counter-attack"},{"example":"要撃機","reading":"ヨウゲキキ","meaning":"interceptor (aircraft)"}],"kunyomiExamples":[{"example":"迎える","reading":"むかえる","meaning":"to go out to meet, to receive, to welcome, to greet, to salute, to hail, to reach, to approach, to enter (a phase, era, etc.), to accept (e.g. as a member of a group or family), to call for, to summon, to invite, to approach (a certain time, a point in one's life, etc.)"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["乞","攵","方","白","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36992_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09080.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9080.gif","uri":"https://jisho.org/search/%E9%82%80%23kanji"}}
+{
+  "id": "邀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "邀",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "go to meet, call",
+    "kunyomi": [
+      "むか.える",
+      "もと.める"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "邀撃",
+        "reading": "ヨウゲキ",
+        "meaning": "interception, counter-attack"
+      },
+      {
+        "example": "要撃機",
+        "reading": "ヨウゲキキ",
+        "meaning": "interceptor (aircraft)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "迎える",
+        "reading": "むかえる",
+        "meaning": "to go out to meet, to receive, to welcome, to greet, to salute, to hail, to call for, to summon, to invite, to accept (e.g. as a member of a group or family), to take (e.g. a wife), to reach (a certain time, a point in one's life, etc.), to enter (a new phase, new era, etc.), to approach (e.g. death)"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "乞",
+      "攵",
+      "方",
+      "白",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36992_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09080.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9080.gif",
+    "uri": "https://jisho.org/search/%E9%82%80%23kanji"
+  }
+}

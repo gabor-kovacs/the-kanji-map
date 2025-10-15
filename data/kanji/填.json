@@ -1,1 +1,74 @@
-{"id":"填","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"填","found":true,"strokeCount":13,"meaning":"fill in","kunyomi":["は.まる","は.める","うず.める","しず.める","ふさ.ぐ"],"onyomi":["テン","チン"],"onyomiExamples":[{"example":"填隙","reading":"テンゲキ","meaning":"caulking"},{"example":"填詞","reading":"テンシ","meaning":"ci (form of Chinese poetry)"},{"example":"充填","reading":"ジュウテン","meaning":"filling (up), replenishing, filling in (tooth), loading (gun with ammunition, camera with film, etc.), packing, plugging"},{"example":"装填","reading":"ソウテン","meaning":"loading, charging, filling"}],"kunyomiExamples":[{"example":"嵌まる","reading":"はまる","meaning":"to fit, to get into, to go into, to be fitted with (e.g. door with a window), to be fit for (a job, etc.), to be suited for, to satisfy (conditions), to fall into, to plunge into, to get stuck, to get caught, to be deceived, to be taken in, to fall into a trap, to be addicted to, to be deep into, to be crazy about, to be stuck on"},{"example":"嵌める","reading":"はめる","meaning":"to insert, to put in (such that there is a snug fit), to button, to put on (something that envelops, e.g. gloves, ring), to have sex, to fuck, to pigeonhole (into a particular category), to place a ring-shaped object around something (esp. one that restricts freedom, such as handcuffs), to entrap, to set someone up (e.g. frame them for a crime, etc.)"},{"example":"埋める","reading":"うずめる","meaning":"to cover, to bury (e.g. one's face in hands), to submerge, to fill (completely), to stuff, to pack, to cram, to fill up"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["ハ","十","土","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22635_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0586b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/586b.gif","uri":"https://jisho.org/search/%E5%A1%AB%23kanji"}}
+{
+  "id": "填",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "填",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "fill in",
+    "kunyomi": [
+      "は.まる",
+      "は.める",
+      "うず.める",
+      "しず.める",
+      "ふさ.ぐ"
+    ],
+    "onyomi": [
+      "テン",
+      "チン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "填隙",
+        "reading": "テンゲキ",
+        "meaning": "caulking, calking"
+      },
+      {
+        "example": "填詞",
+        "reading": "テンシ",
+        "meaning": "ci (form of Chinese poetry)"
+      },
+      {
+        "example": "充填",
+        "reading": "ジュウテン",
+        "meaning": "filling (up), replenishing, filling in (a tooth), loading (a gun with ammunition, a camera with film, etc.), packing, plugging"
+      },
+      {
+        "example": "装填",
+        "reading": "ソウテン",
+        "meaning": "loading, charging, filling"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嵌まる",
+        "reading": "はまる",
+        "meaning": "to fit, to get into, to go into, to be fitted with (e.g. door with a window), to be fit for (a job, etc.), to be suited for, to satisfy (conditions), to fall into, to plunge into, to get stuck, to get caught, to be deceived, to be taken in, to fall into a trap, to get addicted to, to get deep into, to become crazy about, to become stuck on"
+      },
+      {
+        "example": "嵌める",
+        "reading": "はめる",
+        "meaning": "to fit (e.g. a pane into a frame), to insert (e.g. a cork), to fasten (a button), to put on (something that envelops; e.g. a ring, gloves), to place (a hoop) around, to attach (e.g. a hose to a tap), to pigeonhole (into a particular category), to force (into a mold), to place (restrictions) on, to entrap, to take (someone) in, to set (someone) up, to deceive, to throw into, to have sex, to fuck"
+      },
+      {
+        "example": "埋める",
+        "reading": "うずめる",
+        "meaning": "to cover, to bury (e.g. one's face in hands), to submerge, to fill (completely), to stuff, to pack, to cram, to fill up"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "ハ",
+      "十",
+      "土",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22635_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0586b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/586b.gif",
+    "uri": "https://jisho.org/search/%E5%A1%AB%23kanji"
+  }
+}

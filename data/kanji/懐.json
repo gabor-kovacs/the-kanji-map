@@ -1,1 +1,120 @@
-{"id":"懐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"懐","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1493","strokeCount":16,"meaning":"feelings, heart, yearn, miss someone, become attached to, bosom, breast, pocket","kunyomi":["ふところ","なつ.かしい","なつ.かしむ","なつ.く","なつ.ける","なず.ける","いだ.く","おも.う"],"onyomi":["カイ","エ"],"onyomiExamples":[{"example":"懐疑","reading":"カイギ","meaning":"doubt, skepticism, scepticism, disbelief"},{"example":"懐古","reading":"カイコ","meaning":"reminiscence, nostalgia, thinking fondly of the past, recalling the old days"},{"example":"述懐","reading":"ジュッカイ","meaning":"speaking about (one's thoughts, memories, etc.), relating (one's feelings, reminiscences, etc.), recollection, reminiscence"},{"example":"追懐","reading":"ツイカイ","meaning":"recollection, remembrance, reminiscence"}],"kunyomiExamples":[{"example":"懐","reading":"ふところ","meaning":"inside the breast of one's clothing (esp. kimono), bosom, (breast) pocket, space between one's chest and outstretched arms, (one's) reach, heart (e.g. of a mountain), bosom (e.g. of nature), depths, inner part, mind, heart, inner thoughts, money (one is carrying), purse, pocketbook"},{"example":"懐刀","reading":"ふところがたな","meaning":"dagger, stiletto, confidant, right-hand man"},{"example":"苦しい懐","reading":"くるしいふところ","meaning":"tight budget"},{"example":"谷懐","reading":"たにぶところ","meaning":"valley in a deep mountain"},{"example":"懐かしい","reading":"なつかしい","meaning":"dear (old), fondly-remembered, beloved, missed, nostalgic"},{"example":"懐かしむ","reading":"なつかしむ","meaning":"to yearn for (someone, something), to miss"},{"example":"懐く","reading":"なつく","meaning":"to become attached (to), to take (to), to become affectionate (with), to be tamed"},{"example":"懐ける","reading":"なつける","meaning":"to win over, to win another's heart"},{"example":"抱く","reading":"いだく","meaning":"to hold in one's arms (e.g. a baby), to embrace, to hug, to have (a thought or feeling), to hold, to harbour (suspicion, doubt, etc.), to harbor, to bear (a grudge, ill will, etc.), to entertain (hope, illusions, etc.), to cherish (e.g. an ambition)"},{"example":"思う","reading":"おもう","meaning":"to think, to consider, to believe, to reckon, to think (of doing), to plan (to do), to judge, to assess, to regard, to imagine, to suppose, to dream, to expect, to look forward to, to feel, to be (in a state of mind), to desire, to want, to recall, to remember"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["亠","十","忙","衣","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25040_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061d0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61d0.gif","uri":"https://jisho.org/search/%E6%87%90%23kanji"}}
+{
+  "id": "懐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懐",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1493",
+    "strokeCount": 16,
+    "meaning": "feelings, heart, yearn, miss someone, become attached to, bosom, breast, pocket",
+    "kunyomi": [
+      "ふところ",
+      "なつ.かしい",
+      "なつ.かしむ",
+      "なつ.く",
+      "なつ.ける",
+      "なず.ける",
+      "いだ.く",
+      "おも.う"
+    ],
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "懐疑",
+        "reading": "カイギ",
+        "meaning": "doubt, skepticism, scepticism, disbelief"
+      },
+      {
+        "example": "懐古",
+        "reading": "カイコ",
+        "meaning": "reminiscence, nostalgia, thinking fondly of the past, recalling the old days"
+      },
+      {
+        "example": "述懐",
+        "reading": "ジュッカイ",
+        "meaning": "speaking about (one's thoughts, memories, etc.), relating (one's feelings, reminiscences, etc.), recollection, reminiscence"
+      },
+      {
+        "example": "追懐",
+        "reading": "ツイカイ",
+        "meaning": "recollection, remembrance, reminiscence"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "懐",
+        "reading": "ふところ",
+        "meaning": "inside the breast of one's clothing (esp. kimono), bosom, (breast) pocket, space between one's chest and outstretched arms, (one's) reach, heart (e.g. of a mountain), bosom (e.g. of nature), depths, inner part, mind, heart, inner thoughts, money (one is carrying), purse, pocketbook"
+      },
+      {
+        "example": "懐刀",
+        "reading": "ふところがたな",
+        "meaning": "dagger, stiletto, confidant, right-hand man"
+      },
+      {
+        "example": "苦しい懐",
+        "reading": "くるしいふところ",
+        "meaning": "tight budget"
+      },
+      {
+        "example": "谷懐",
+        "reading": "たにぶところ",
+        "meaning": "valley in a deep mountain"
+      },
+      {
+        "example": "懐かしい",
+        "reading": "なつかしい",
+        "meaning": "dear (old), fondly remembered, beloved, missed, nostalgic"
+      },
+      {
+        "example": "懐かしむ",
+        "reading": "なつかしむ",
+        "meaning": "to yearn for (someone, something), to miss"
+      },
+      {
+        "example": "懐く",
+        "reading": "なつく",
+        "meaning": "to become attached (to), to take (to), to become affectionate (with), to be tamed, to get close (e.g. to someone emotionally), to become intimate (with)"
+      },
+      {
+        "example": "懐ける",
+        "reading": "なつける",
+        "meaning": "to win over, to win another's heart"
+      },
+      {
+        "example": "抱く",
+        "reading": "いだく",
+        "meaning": "to hold in one's arms (e.g. a baby), to embrace, to hug, to have (a thought or feeling), to hold, to harbour (suspicion, doubt, etc.), to harbor, to bear (a grudge, ill will, etc.), to entertain (hope, illusions, etc.), to cherish (e.g. an ambition)"
+      },
+      {
+        "example": "思う",
+        "reading": "おもう",
+        "meaning": "to think, to consider, to believe, to reckon, to think (of doing), to plan (to do), to judge, to assess, to regard, to imagine, to suppose, to dream, to expect, to look forward to, to feel, to be (in a state of mind), to desire, to want, to care (deeply) for, to yearn for, to worry about, to love, to recall, to remember"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "忙",
+      "衣",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25040_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061d0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61d0.gif",
+    "uri": "https://jisho.org/search/%E6%87%90%23kanji"
+  }
+}

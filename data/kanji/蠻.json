@@ -1,1 +1,33 @@
-{"id":"蠻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蠻","found":true,"strokeCount":25,"meaning":"barbarian","kunyomi":["えびす"],"onyomi":["バン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["小","幺","糸","虫","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34875_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0883b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/883b.gif","uri":"https://jisho.org/search/%E8%A0%BB%23kanji"}}
+{
+  "id": "蠻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蠻",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "barbarian",
+    "kunyomi": [
+      "えびす"
+    ],
+    "onyomi": [
+      "バン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "糸",
+      "虫",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34875_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0883b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/883b.gif",
+    "uri": "https://jisho.org/search/%E8%A0%BB%23kanji"
+  }
+}

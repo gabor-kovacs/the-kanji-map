@@ -1,1 +1,78 @@
-{"id":"蟻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蟻","found":true,"strokeCount":19,"meaning":"ant","kunyomi":["あり"],"onyomi":["ギ"],"onyomiExamples":[{"example":"蟻蚕","reading":"ギサン","meaning":"silkworm (in the first or second instar)"},{"example":"蟻酸","reading":"ギサン","meaning":"formic acid, formic"},{"example":"兵蟻","reading":"ヘイギ","meaning":"soldier ant"}],"kunyomiExamples":[{"example":"蟻","reading":"あり","meaning":"ant"},{"example":"アリ学","reading":"アリがく","meaning":"myrmecology, the study of ants"},{"example":"兵隊アリ","reading":"へいたいアリ","meaning":"soldier ant"},{"example":"軍隊蟻","reading":"ぐんたいあり","meaning":"army ant, driver ant"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["一","亅","并","戈","手","王","羊","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34811_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087fb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87fb.gif","uri":"https://jisho.org/search/%E8%9F%BB%23kanji"}}
+{
+  "id": "蟻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟻",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "ant",
+    "kunyomi": [
+      "あり"
+    ],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蟻酸",
+        "reading": "ギサン",
+        "meaning": "formic acid, formic"
+      },
+      {
+        "example": "蟻蚕",
+        "reading": "ギサン",
+        "meaning": "silkworm (in the first or second instar)"
+      },
+      {
+        "example": "兵蟻",
+        "reading": "ヘイギ",
+        "meaning": "soldier ant"
+      },
+      {
+        "example": "防蟻",
+        "reading": "ボウギ",
+        "meaning": "ant prevention, ant control, termite control"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蟻",
+        "reading": "あり",
+        "meaning": "ant"
+      },
+      {
+        "example": "アリ学",
+        "reading": "ありがく",
+        "meaning": "myrmecology"
+      },
+      {
+        "example": "兵隊アリ",
+        "reading": "へいたいアリ",
+        "meaning": "soldier ant"
+      },
+      {
+        "example": "軍隊蟻",
+        "reading": "ぐんたいあり",
+        "meaning": "army ant, driver ant"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "并",
+      "戈",
+      "手",
+      "王",
+      "羊",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34811_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87fb.gif",
+    "uri": "https://jisho.org/search/%E8%9F%BB%23kanji"
+  }
+}

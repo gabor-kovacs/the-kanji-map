@@ -1,1 +1,31 @@
-{"id":"壥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壥","found":true,"strokeCount":20,"meaning":"fine residence, shop, store, (phantom kanji)","kunyomi":[],"onyomi":["テン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["厂","土","杰","里","黒"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22757_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058e5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58e5.gif","uri":"https://jisho.org/search/%E5%A3%A5%23kanji"}}
+{
+  "id": "壥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壥",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "fine residence, shop, store, (ghost kanji)",
+    "kunyomi": [],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "厂",
+      "土",
+      "杰",
+      "里",
+      "黒"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22757_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058e5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58e5.gif",
+    "uri": "https://jisho.org/search/%E5%A3%A5%23kanji"
+  }
+}

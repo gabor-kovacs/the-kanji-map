@@ -1,1 +1,55 @@
-{"id":"壬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壬","found":true,"newspaperFrequencyRank":"2499","strokeCount":4,"meaning":"9th calendar sign","kunyomi":["みずのえ"],"onyomi":["ニン","ジン","イ"],"onyomiExamples":[{"example":"壬","reading":"ジン","meaning":"9th in rank, ninth sign of the Chinese calendar"},{"example":"壬寅","reading":"ミズノエトラ","meaning":"Water Tiger (39th term of the sexagenary cycle, e.g. 1902, 1962, 2022)"}],"kunyomiExamples":[{"example":"壬","reading":"じん","meaning":"9th in rank, ninth sign of the Chinese calendar"},{"example":"壬戌","reading":"みずのえいぬ","meaning":"Water Dog (59th term of the sexagenary cycle, e.g. 1922, 1982, 2042)"}],"radical":{"symbol":"士","meaning":"scholar, bachelor"},"parts":["ノ","士"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22764_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058ec.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58ec.gif","uri":"https://jisho.org/search/%E5%A3%AC%23kanji"}}
+{
+  "id": "壬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壬",
+    "found": true,
+    "newspaperFrequencyRank": "2499",
+    "strokeCount": 4,
+    "meaning": "9th calendar sign",
+    "kunyomi": [
+      "みずのえ"
+    ],
+    "onyomi": [
+      "ニン",
+      "ジン",
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壬",
+        "reading": "ジン",
+        "meaning": "9th in rank, ninth sign of the Chinese calendar"
+      },
+      {
+        "example": "壬寅",
+        "reading": "ミズノエトラ",
+        "meaning": "Water Tiger (39th term of the sexagenary cycle, e.g. 1962, 2022, 2082)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "壬",
+        "reading": "じん",
+        "meaning": "9th in rank, ninth sign of the Chinese calendar"
+      },
+      {
+        "example": "壬戌",
+        "reading": "みずのえいぬ",
+        "meaning": "Water Dog (59th term of the sexagenary cycle, e.g. 1922, 1982, 2042)"
+      }
+    ],
+    "radical": {
+      "symbol": "士",
+      "meaning": "scholar, bachelor"
+    },
+    "parts": [
+      "ノ",
+      "士"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22764_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058ec.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58ec.gif",
+    "uri": "https://jisho.org/search/%E5%A3%AC%23kanji"
+  }
+}

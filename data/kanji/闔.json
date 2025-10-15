@@ -1,1 +1,38 @@
-{"id":"闔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"闔","found":true,"strokeCount":18,"meaning":"doors","kunyomi":["とびら"],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"扉","reading":"とびら","meaning":"door, gate, opening, title page"}],"radical":{"symbol":"門","meaning":"gate"},"parts":["厶","土","皿","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38356_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095d4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95d4.gif","uri":"https://jisho.org/search/%E9%97%94%23kanji"}}
+{
+  "id": "闔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "闔",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "doors",
+    "kunyomi": [
+      "とびら"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "扉",
+        "reading": "とびら",
+        "meaning": "door, gate, opening, title page"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "厶",
+      "土",
+      "皿",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38356_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095d4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95d4.gif",
+    "uri": "https://jisho.org/search/%E9%97%94%23kanji"
+  }
+}

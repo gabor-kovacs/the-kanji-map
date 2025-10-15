@@ -1,1 +1,60 @@
-{"id":"壮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"壮","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1657","strokeCount":6,"meaning":"robust, manhood, prosperity","kunyomi":["さかん"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"壮","reading":"ソウ","meaning":"vibrancy, strength, bravery, manliness, (esp. of men) one's prime (approx. age 30), counter for times of moxibustion"},{"example":"壮行","reading":"ソウコウ","meaning":"rousing"},{"example":"悲壮","reading":"ヒソウ","meaning":"tragic but brave, heroic, grim, pathetic"},{"example":"強壮","reading":"キョウソウ","meaning":"able-bodied, robust, sturdy, strong"}],"kunyomiExamples":[{"example":"盛ん","reading":"さかん","meaning":"prosperous, flourishing, thriving, successful, popular, widespread, active, lively, energetic, vigorous, brisk, strong, enthusiastic, eager, hearty, frequent, repeated"}],"radical":{"symbol":"士","meaning":"scholar, bachelor"},"parts":["士","爿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22766_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058ee.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58ee.gif","uri":"https://jisho.org/search/%E5%A3%AE%23kanji"}}
+{
+  "id": "壮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壮",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1657",
+    "strokeCount": 6,
+    "meaning": "robust, manhood, prosperity",
+    "kunyomi": [
+      "さかん"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壮",
+        "reading": "ソウ",
+        "meaning": "vibrancy, strength, bravery, manliness, one's prime (around age 30; esp. of a man), counter for cones or sticks of moxa burned on the skin (in moxibustion)"
+      },
+      {
+        "example": "壮行",
+        "reading": "ソウコウ",
+        "meaning": "(rousing) send-off, farewell"
+      },
+      {
+        "example": "悲壮",
+        "reading": "ヒソウ",
+        "meaning": "tragic but brave, heroic, grim"
+      },
+      {
+        "example": "強壮",
+        "reading": "キョウソウ",
+        "meaning": "able-bodied, robust, sturdy, strong"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "盛ん",
+        "reading": "さかん",
+        "meaning": "prosperous, flourishing, thriving, successful, popular, widespread, active, lively, energetic, vigorous, brisk, strong, enthusiastic, eager, hearty, frequent, repeated"
+      }
+    ],
+    "radical": {
+      "symbol": "士",
+      "meaning": "scholar, bachelor"
+    },
+    "parts": [
+      "士",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22766_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058ee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58ee.gif",
+    "uri": "https://jisho.org/search/%E5%A3%AE%23kanji"
+  }
+}

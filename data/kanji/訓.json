@@ -1,1 +1,322 @@
-{"id":"訓","kanjialiveData":{"kanji":{"character":"訓","meaning":{"english":"instruct, teaching, precept"},"strokes":{"count":10,"timings":[0,0.666667,1.666667,2.6,3.4,4.266667,5.466667,6.466667,8,9.2,10.8],"images":["https://media.kanjialive.com/kanji_strokes/kun(ren)_1.svg","https://media.kanjialive.com/kanji_strokes/kun(ren)_2.svg","https://media.kanjialive.com/kanji_strokes/kun(ren)_3.svg","https://media.kanjialive.com/kanji_strokes/kun(ren)_4.svg","https://media.kanjialive.com/kanji_strokes/kun(ren)_5.svg","https://media.kanjialive.com/kanji_strokes/kun(ren)_6.svg","https://media.kanjialive.com/kanji_strokes/kun(ren)_7.svg","https://media.kanjialive.com/kanji_strokes/kun(ren)_8.svg","https://media.kanjialive.com/kanji_strokes/kun(ren)_9.svg","https://media.kanjialive.com/kanji_strokes/kun(ren)_10.svg"]},"onyomi":{"romaji":"kun","katakana":"クン"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/kun(ren)_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/kun(ren)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/kun(ren)_00.webm"}},"radical":{"character":"","strokes":7,"image":"https://media.kanjialive.com/radical_character/gonben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"ごんべん","romaji":"gonben"},"meaning":{"english":"words, to speak, say"},"animation":["https://media.kanjialive.com/rad_frames/gonben0.svg","https://media.kanjialive.com/rad_frames/gonben1.svg","https://media.kanjialive.com/rad_frames/gonben2.svg"]},"references":{"grade":4,"kodansha":"975","classic_nelson":"4317"},"examples":[{"japanese":"訓練する（くんれんする）","meaning":{"english":"train [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kun(ren)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kun(ren)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kun(ren)_06_a.mp3"}},{"japanese":"訓辞（くんじ）","meaning":{"english":"admonitory speech"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kun(ren)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kun(ren)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kun(ren)_06_b.mp3"}},{"japanese":"訓読み（くんよみ）","meaning":{"english":"Japanese reading of kanji"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kun(ren)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kun(ren)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kun(ren)_06_c.mp3"}},{"japanese":"訓読（くんどく）","meaning":{"english":"Japanese reading of Chinese text"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kun(ren)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kun(ren)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kun(ren)_06_d.mp3"}},{"japanese":"教訓（きょうくん）","meaning":{"english":"lesson, moral (of a story)"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/kun(ren)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/kun(ren)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/kun(ren)_06_e.mp3"}}]},"jishoData":{"query":"訓","found":true,"taughtIn":"grade 4","jlptLevel":"N2","newspaperFrequencyRank":"1134","strokeCount":10,"meaning":"instruction, Japanese character reading, explanation, read","kunyomi":["おし.える","よ.む","くん.ずる"],"onyomi":["クン","キン"],"onyomiExamples":[{"example":"訓","reading":"クン","meaning":"native Japanese reading of a Chinese character, precept, lesson, one's teachings"},{"example":"訓示","reading":"クンジ","meaning":"instruction, direction, briefing"},{"example":"特訓","reading":"トックン","meaning":"special training, intensive training, crash course"},{"example":"校訓","reading":"コウクン","meaning":"school precepts"},{"example":"庭訓","reading":"テイキン","meaning":"home education"},{"example":"家訓","reading":"カクン","meaning":"family precepts, family motto, rule of the home"}],"kunyomiExamples":[{"example":"訓む","reading":"よむ","meaning":"to read (a kanji) with its native Japanese reading"},{"example":"訓ずる","reading":"くんずる","meaning":"to read kanji using its native Japanese pronunciation"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["川","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35347_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a13.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a13.gif","uri":"https://jisho.org/search/%E8%A8%93%23kanji"}}
+{
+  "id": "訓",
+  "kanjialiveData": {
+    "_id": "54317afa791eba5146ee4b23",
+    "_rev": "9-dd6e467f5ce347963fd506297ec5af10",
+    "rad_name_ja": "ごんべん",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "instruct, teaching, precept",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "訓練する（くんれんする）",
+        "meaning": {
+          "english": "train [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kun(ren)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kun(ren)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kun(ren)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "訓辞（くんじ）",
+        "meaning": {
+          "english": "admonitory speech"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kun(ren)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kun(ren)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kun(ren)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "訓読み（くんよみ）",
+        "meaning": {
+          "english": "Japanese reading of kanji"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kun(ren)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kun(ren)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kun(ren)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "訓読（くんどく）",
+        "meaning": {
+          "english": "Japanese reading of Chinese text"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kun(ren)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kun(ren)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kun(ren)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "教訓（きょうくん）",
+        "meaning": {
+          "english": "lesson, moral (of a story)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kun(ren)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kun(ren)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kun(ren)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kun(ren)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "訓",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=訓",
+    "rad_name_search": [
+      "gonben"
+    ],
+    "rad_order": 183,
+    "txt_books": [
+      {
+        "chapter": "5",
+        "txt_bk": "txtMajoFilm"
+      }
+    ],
+    "kname": "kun(ren)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      0.666667,
+      1.666667,
+      2.6,
+      3.4,
+      4.266667,
+      5.466667,
+      6.466667,
+      8,
+      9.2,
+      10.8
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "975",
+    "rad_name": "gonben",
+    "dicn": "4317",
+    "mn_hint": "Stream 川 of words 言 while teaching precept.",
+    "rad_stroke": 7,
+    "onyomi_ja": "クン",
+    "rad_meaning": "words, to speak, say",
+    "onyomi": "kun",
+    "ka_id": "ka_589",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kun",
+      "kun"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "instruct",
+      "teaching",
+      "precept",
+      "instruct, teaching, precept"
+    ],
+    "onyomi_ja_search": [
+      "クン",
+      "クン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "words",
+      "to speak",
+      "to",
+      "speak",
+      "say",
+      "words, to speak, say"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ごんべん"
+    ],
+    "textbook_search": [
+      "mnt",
+      "mnt:5",
+      "mnt:c5"
+    ],
+    "rad_name_file": "gonben",
+    "kanji": {
+      "character": "訓",
+      "meaning": {
+        "english": "instruct, teaching, precept"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          0.666667,
+          1.666667,
+          2.6,
+          3.4,
+          4.266667,
+          5.466667,
+          6.466667,
+          8,
+          9.2,
+          10.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kun(ren)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kun(ren)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kun(ren)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kun(ren)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kun(ren)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kun(ren)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kun(ren)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kun(ren)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kun(ren)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/kun(ren)_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kun",
+        "katakana": "クン"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kun(ren)_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kun(ren)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kun(ren)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/gonben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ごんべん",
+        "romaji": "gonben"
+      },
+      "meaning": {
+        "english": "words, to speak, say"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gonben0.svg",
+        "https://media.kanjialive.com/rad_frames/gonben1.svg",
+        "https://media.kanjialive.com/rad_frames/gonben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "975",
+      "classic_nelson": "4317"
+    }
+  },
+  "jishoData": {
+    "query": "訓",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1134",
+    "strokeCount": 10,
+    "meaning": "instruction, Japanese character reading, explanation, read",
+    "kunyomi": [
+      "おし.える",
+      "よ.む",
+      "くん.ずる"
+    ],
+    "onyomi": [
+      "クン",
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "訓",
+        "reading": "クン",
+        "meaning": "native Japanese reading of a Chinese character, precept, lesson, one's teachings"
+      },
+      {
+        "example": "訓示",
+        "reading": "クンジ",
+        "meaning": "instruction, direction, briefing"
+      },
+      {
+        "example": "特訓",
+        "reading": "トックン",
+        "meaning": "special training, intensive training, crash course"
+      },
+      {
+        "example": "校訓",
+        "reading": "コウクン",
+        "meaning": "school precepts"
+      },
+      {
+        "example": "庭訓",
+        "reading": "テイキン",
+        "meaning": "home education"
+      },
+      {
+        "example": "家訓",
+        "reading": "カクン",
+        "meaning": "family precepts, family motto, rule of the home"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach, to instruct, to tell, to inform, to show, to preach"
+      },
+      {
+        "example": "読む",
+        "reading": "よむ",
+        "meaning": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
+      },
+      {
+        "example": "訓む",
+        "reading": "よむ",
+        "meaning": "to read (a kanji) with its native Japanese reading"
+      },
+      {
+        "example": "訓ずる",
+        "reading": "くんずる",
+        "meaning": "to read kanji using its native Japanese pronunciation"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "川",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35347_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a13.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a13.gif",
+    "uri": "https://jisho.org/search/%E8%A8%93%23kanji"
+  }
+}

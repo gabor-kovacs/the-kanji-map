@@ -1,1 +1,57 @@
-{"id":"悍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"悍","found":true,"strokeCount":10,"meaning":"rough, clumsy, violent","kunyomi":["たけし","あらし"],"onyomi":["カン"],"onyomiExamples":[{"example":"悍馬","reading":"カンバ","meaning":"unruly horse, unmanageable horse, unbroken horse"},{"example":"悍婦","reading":"カンプ","meaning":"bad-tempered woman, shrew, vixen, virago"},{"example":"勁悍","reading":"ケイカン","meaning":"strong and fierce"},{"example":"精悍","reading":"セイカン","meaning":"virile, tough, masculine, intense"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["干","忙","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24717_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0608d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/608d.gif","uri":"https://jisho.org/search/%E6%82%8D%23kanji"}}
+{
+  "id": "悍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悍",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "rough, clumsy, violent",
+    "kunyomi": [
+      "たけし",
+      "あらし"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悍馬",
+        "reading": "カンバ",
+        "meaning": "unruly horse, unmanageable horse, unbroken horse"
+      },
+      {
+        "example": "悍婦",
+        "reading": "カンプ",
+        "meaning": "bad-tempered woman, shrew, vixen, virago"
+      },
+      {
+        "example": "勁悍",
+        "reading": "ケイカン",
+        "meaning": "strong and fierce"
+      },
+      {
+        "example": "精悍",
+        "reading": "セイカン",
+        "meaning": "virile, tough, masculine, sharp (features, look, etc.), fierce, dauntless"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "干",
+      "忙",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24717_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0608d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/608d.gif",
+    "uri": "https://jisho.org/search/%E6%82%8D%23kanji"
+  }
+}

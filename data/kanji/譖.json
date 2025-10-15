@@ -1,1 +1,35 @@
-{"id":"譖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"譖","found":true,"strokeCount":21,"meaning":"slander","kunyomi":["そし.る"],"onyomi":["シン","セン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["无","日","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35670_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b56.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b56.gif","uri":"https://jisho.org/search/%E8%AD%96%23kanji"}}
+{
+  "id": "譖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "譖",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "slander",
+    "kunyomi": [
+      "そし.る"
+    ],
+    "onyomi": [
+      "シン",
+      "セン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "无",
+      "日",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35670_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b56.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b56.gif",
+    "uri": "https://jisho.org/search/%E8%AD%96%23kanji"
+  }
+}

@@ -1,1 +1,53 @@
-{"id":"智","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"智","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1002","strokeCount":12,"meaning":"wisdom, intellect, reason","kunyomi":[],"onyomi":["チ"],"onyomiExamples":[{"example":"知","reading":"チ","meaning":"wisdom, jnana (higher knowledge)"},{"example":"知恵","reading":"チエ","meaning":"wisdom, wit, sagacity, sense, intelligence, prajna (insight leading to enlightenment)"},{"example":"才知","reading":"サイチ","meaning":"wit and intelligence"},{"example":"大知","reading":"タイチ","meaning":"supreme wisdom, sage"}],"kunyomiExamples":[],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["乞","口","日","矢"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26234_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0667a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/667a.gif","uri":"https://jisho.org/search/%E6%99%BA%23kanji"}}
+{
+  "id": "智",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "智",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1002",
+    "strokeCount": 12,
+    "meaning": "wisdom, intellect, reason",
+    "kunyomi": [],
+    "onyomi": [
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "知",
+        "reading": "チ",
+        "meaning": "wisdom, jnana (higher knowledge)"
+      },
+      {
+        "example": "知恵",
+        "reading": "チエ",
+        "meaning": "wisdom, wit, sagacity, sense, intelligence, prajna (insight leading to enlightenment)"
+      },
+      {
+        "example": "才知",
+        "reading": "サイチ",
+        "meaning": "wit and intelligence"
+      },
+      {
+        "example": "大知",
+        "reading": "タイチ",
+        "meaning": "supreme wisdom, sage"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "乞",
+      "口",
+      "日",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26234_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0667a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/667a.gif",
+    "uri": "https://jisho.org/search/%E6%99%BA%23kanji"
+  }
+}

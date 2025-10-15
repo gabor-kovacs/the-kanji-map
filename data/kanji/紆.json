@@ -1,1 +1,48 @@
-{"id":"紆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"紆","found":true,"strokeCount":9,"meaning":"crouch","kunyomi":["まが.る","めぐ.る"],"onyomi":["ウ"],"onyomiExamples":[{"example":"迂曲","reading":"ウキョク","meaning":"meandering, winding"},{"example":"紆余","reading":"ウヨ","meaning":"meandering, winding"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["亅","二","小","幺","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32006_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d06.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d06.gif","uri":"https://jisho.org/search/%E7%B4%86%23kanji"}}
+{
+  "id": "紆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "紆",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "crouch",
+    "kunyomi": [
+      "まが.る",
+      "めぐ.る"
+    ],
+    "onyomi": [
+      "ウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "迂曲",
+        "reading": "ウキョク",
+        "meaning": "meandering, winding"
+      },
+      {
+        "example": "紆余",
+        "reading": "ウヨ",
+        "meaning": "meandering, winding"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "亅",
+      "二",
+      "小",
+      "幺",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32006_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d06.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d06.gif",
+    "uri": "https://jisho.org/search/%E7%B4%86%23kanji"
+  }
+}

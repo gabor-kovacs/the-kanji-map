@@ -1,1 +1,45 @@
-{"id":"噺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"噺","found":true,"newspaperFrequencyRank":"2308","strokeCount":16,"meaning":"talk, (kokuji)","kunyomi":["はなし"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"話","reading":"はなし","meaning":"talk, speech, chat, conversation, topic, subject, discussions, negotiation, argument, rumor, talk, hearsay, tale, story, fable, circumstances, particulars"},{"example":"噺家","reading":"はなしか","meaning":"professional comic (rakugo) storyteller"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["亠","口","并","斤","木","立","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22138_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0567a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/567a.gif","uri":"https://jisho.org/search/%E5%99%BA%23kanji"}}
+{
+  "id": "噺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "噺",
+    "found": true,
+    "newspaperFrequencyRank": "2308",
+    "strokeCount": 16,
+    "meaning": "talk, (kokuji)",
+    "kunyomi": [
+      "はなし"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "話",
+        "reading": "はなし",
+        "meaning": "talk, speech, chat, conversation, topic, subject, discussions, negotiation, argument, rumor, talk, hearsay, tale, story, fable, circumstances, particulars"
+      },
+      {
+        "example": "噺家",
+        "reading": "はなしか",
+        "meaning": "professional comic (rakugo) storyteller"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "并",
+      "斤",
+      "木",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22138_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0567a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/567a.gif",
+    "uri": "https://jisho.org/search/%E5%99%BA%23kanji"
+  }
+}

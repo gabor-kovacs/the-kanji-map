@@ -1,1 +1,339 @@
-{"id":"糸","kanjialiveData":{"kanji":{"character":"糸","meaning":{"english":"thread"},"strokes":{"count":6,"timings":[0,1,2.933333,3.666667,5.733333,6.4,8.666667],"images":["https://media.kanjialive.com/kanji_strokes/ito_1.svg","https://media.kanjialive.com/kanji_strokes/ito_2.svg","https://media.kanjialive.com/kanji_strokes/ito_3.svg","https://media.kanjialive.com/kanji_strokes/ito_4.svg","https://media.kanjialive.com/kanji_strokes/ito_5.svg","https://media.kanjialive.com/kanji_strokes/ito_6.svg"]},"onyomi":{"romaji":"shi","katakana":"シ"},"kunyomi":{"romaji":"ito","hiragana":"いと"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ito_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ito_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ito_00.webm"}},"radical":{"character":"⽷","strokes":6,"image":"https://media.kanjialive.com/radical_character/ito.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"いと","romaji":"ito"},"meaning":{"english":"thread"},"animation":["https://media.kanjialive.com/rad_frames/ito0.svg","https://media.kanjialive.com/rad_frames/ito1.svg","https://media.kanjialive.com/rad_frames/ito2.svg"]},"references":{"grade":1,"kodansha":"1379","classic_nelson":"3492"},"examples":[{"japanese":"綿糸（めんし）","meaning":{"english":"cotton yarn"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ito_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ito_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_a.mp3"}},{"japanese":"抜糸する（ばっしする）","meaning":{"english":"remove stitches"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ito_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ito_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_b.mp3"}},{"japanese":"糸（いと）","meaning":{"english":"thread, yarn, string"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ito_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ito_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_c.mp3"}},{"japanese":"糸口（いとぐち）","meaning":{"english":"beginning, start, clue"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ito_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ito_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_d.mp3"}},{"japanese":"毛糸（けいと）","meaning":{"english":"knitting wool"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ito_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ito_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_e.mp3"}},{"japanese":"縦糸（たていと）","meaning":{"english":"warp"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ito_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ito_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_f.mp3"}},{"japanese":"横糸（よこいと）","meaning":{"english":"woof"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ito_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ito_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_g.mp3"}}]},"jishoData":{"query":"糸","found":true,"taughtIn":"grade 1","jlptLevel":"N2","newspaperFrequencyRank":"1488","strokeCount":6,"meaning":"thread","kunyomi":["いと"],"onyomi":["シ"],"onyomiExamples":[{"example":"糸","reading":"シ","meaning":"thread, 0.0001, one ten-thousandth"},{"example":"糸雨","reading":"シウ","meaning":"drizzle, light rain, fine rain"},{"example":"蚕糸","reading":"サンシ","meaning":"silk thread, silk yarn"},{"example":"金糸","reading":"キンシ","meaning":"gold thread"}],"kunyomiExamples":[{"example":"糸","reading":"いと","meaning":"thread, yarn, string"},{"example":"糸口","reading":"いとぐち","meaning":"beginning, start, first step, clue, lead, hint, thread end"},{"example":"横糸","reading":"よこいと","meaning":"weft, woof (crosswise threads on a loom)"},{"example":"生糸","reading":"きいと","meaning":"raw silk thread"}],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["小","幺","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31992_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07cf8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7cf8.gif","uri":"https://jisho.org/search/%E7%B3%B8%23kanji"}}
+{
+  "id": "糸",
+  "kanjialiveData": {
+    "_id": "54317b0a791eba5146ee4c4a",
+    "_rev": "10-0777c6811d9053f995edca97964b6a27",
+    "rad_name_ja": "いと",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "ito",
+    "meaning": "thread",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "綿糸（めんし）",
+        "meaning": {
+          "english": "cotton yarn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ito_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "抜糸する（ばっしする）",
+        "meaning": {
+          "english": "remove stitches"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ito_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "糸（いと）",
+        "meaning": {
+          "english": "thread, yarn, string"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ito_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "糸口（いとぐち）",
+        "meaning": {
+          "english": "beginning, start, clue"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ito_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "毛糸（けいと）",
+        "meaning": {
+          "english": "knitting wool"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ito_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "縦糸（たていと）",
+        "meaning": {
+          "english": "warp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ito_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "横糸（よこいと）",
+        "meaning": {
+          "english": "woof"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ito_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ito_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ito_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いと",
+    "ka_utf": "糸",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=糸",
+    "kname": "ito",
+    "rad_order": 157,
+    "txt_books": [
+      {
+        "chapter": "6",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "11"
+      }
+    ],
+    "rad_name_search": [
+      "ito"
+    ],
+    "rad_utf": "⽷",
+    "stroketimes": [
+      0,
+      1,
+      2.933333,
+      3.666667,
+      5.733333,
+      6.4,
+      8.666667
+    ],
+    "kunyomi_ka_display": "いと",
+    "dick": "1379",
+    "rad_name": "ito",
+    "dicn": "3492",
+    "mn_hint": "Please view the radical animation on the left.",
+    "rad_stroke": 6,
+    "onyomi_ja": "シ",
+    "rad_meaning": "thread",
+    "onyomi": "shi",
+    "ka_id": "ka_854",
+    "onyomi_search": [
+      "shi",
+      "shi"
+    ],
+    "kunyomi_search": [
+      "ito",
+      "ito"
+    ],
+    "meaning_search": [
+      "thread",
+      "thread"
+    ],
+    "onyomi_ja_search": [
+      "シ",
+      "シ"
+    ],
+    "kunyomi_ja_search": [
+      "いと",
+      "いと"
+    ],
+    "rad_meaning_search": [
+      "thread",
+      "thread"
+    ],
+    "rad_name_ja_search": [
+      "いと"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "bk",
+      "bk:6",
+      "bk:c6",
+      "aij3",
+      "aij3:3",
+      "aij3:c3",
+      "aij3:v3",
+      "aij3:v3:3",
+      "aij3:v3:c3",
+      "kll",
+      "kll:13",
+      "kll:c13",
+      "mosr",
+      "mosr:11",
+      "mosr:c11"
+    ],
+    "rad_name_file": "ito",
+    "kanji": {
+      "character": "糸",
+      "meaning": {
+        "english": "thread"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          1,
+          2.933333,
+          3.666667,
+          5.733333,
+          6.4,
+          8.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ito_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ito_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ito_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ito_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ito_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ito_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shi",
+        "katakana": "シ"
+      },
+      "kunyomi": {
+        "romaji": "ito",
+        "hiragana": "いと"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ito_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ito_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ito_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽷",
+      "strokes": 6,
+      "image": "https://media.kanjialive.com/radical_character/ito.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "いと",
+        "romaji": "ito"
+      },
+      "meaning": {
+        "english": "thread"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ito0.svg",
+        "https://media.kanjialive.com/rad_frames/ito1.svg",
+        "https://media.kanjialive.com/rad_frames/ito2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1379",
+      "classic_nelson": "3492"
+    }
+  },
+  "jishoData": {
+    "query": "糸",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1488",
+    "strokeCount": 6,
+    "meaning": "thread",
+    "kunyomi": [
+      "いと"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "糸",
+        "reading": "シ",
+        "meaning": "thread, 0.0001, one ten-thousandth"
+      },
+      {
+        "example": "糸雨",
+        "reading": "シウ",
+        "meaning": "drizzle, light rain, fine rain"
+      },
+      {
+        "example": "蚕糸",
+        "reading": "サンシ",
+        "meaning": "silk thread, silk yarn"
+      },
+      {
+        "example": "金糸",
+        "reading": "キンシ",
+        "meaning": "gold thread"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "糸",
+        "reading": "いと",
+        "meaning": "thread, yarn, string"
+      },
+      {
+        "example": "糸口",
+        "reading": "いとぐち",
+        "meaning": "beginning, start, first step, clue, lead, hint, thread end"
+      },
+      {
+        "example": "横糸",
+        "reading": "よこいと",
+        "meaning": "weft, woof (crosswise threads on a loom)"
+      },
+      {
+        "example": "生糸",
+        "reading": "きいと",
+        "meaning": "raw silk thread"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31992_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07cf8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7cf8.gif",
+    "uri": "https://jisho.org/search/%E7%B3%B8%23kanji"
+  }
+}

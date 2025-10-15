@@ -1,1 +1,77 @@
-{"id":"寓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"寓","found":true,"newspaperFrequencyRank":"2330","strokeCount":12,"meaning":"temporary abode, imply, suggest","kunyomi":["ぐう.する","かこつ.ける","よ.せる","よ.る","かりずまい"],"onyomi":["グウ","グ","ドウ"],"onyomiExamples":[{"example":"寓話","reading":"グウワ","meaning":"fable, allegory"},{"example":"寓意","reading":"グウイ","meaning":"hidden meaning, symbolism, moral"},{"example":"流寓","reading":"リュウグウ","meaning":"living a roaming life, wandering and settling in a foreign land"},{"example":"仮寓","reading":"カグウ","meaning":"temporary residence"},{"example":"寓話","reading":"グウワ","meaning":"fable, allegory"},{"example":"寓意","reading":"グウイ","meaning":"hidden meaning, symbolism, moral"}],"kunyomiExamples":[{"example":"寓する","reading":"ぐうする","meaning":"to reside temporarily, to imply"}],"radical":{"symbol":"宀","meaning":"roof"},"parts":["冂","厶","宀","田","禹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23507_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bd3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bd3.gif","uri":"https://jisho.org/search/%E5%AF%93%23kanji"}}
+{
+  "id": "寓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寓",
+    "found": true,
+    "newspaperFrequencyRank": "2330",
+    "strokeCount": 12,
+    "meaning": "temporary abode, imply, suggest",
+    "kunyomi": [
+      "ぐう.する",
+      "かこつ.ける",
+      "よ.せる",
+      "よ.る",
+      "かりずまい"
+    ],
+    "onyomi": [
+      "グウ",
+      "グ",
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寓話",
+        "reading": "グウワ",
+        "meaning": "fable, allegory"
+      },
+      {
+        "example": "寓意",
+        "reading": "グウイ",
+        "meaning": "hidden meaning, symbolism, moral"
+      },
+      {
+        "example": "流寓",
+        "reading": "リュウグウ",
+        "meaning": "living a roaming life, wandering and settling in a foreign land"
+      },
+      {
+        "example": "仮寓",
+        "reading": "カグウ",
+        "meaning": "temporary residence"
+      },
+      {
+        "example": "寓話",
+        "reading": "グウワ",
+        "meaning": "fable, allegory"
+      },
+      {
+        "example": "寓意",
+        "reading": "グウイ",
+        "meaning": "hidden meaning, symbolism, moral"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寓する",
+        "reading": "ぐうする",
+        "meaning": "to reside temporarily, to imply"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "冂",
+      "厶",
+      "宀",
+      "田",
+      "禹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23507_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bd3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bd3.gif",
+    "uri": "https://jisho.org/search/%E5%AF%93%23kanji"
+  }
+}

@@ -1,1 +1,86 @@
-{"id":"蘆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蘆","found":true,"strokeCount":19,"meaning":"reed, rush","kunyomi":["あし","よし"],"onyomi":["ロ"],"onyomiExamples":[{"example":"蘆薈","reading":"ロカイ","meaning":"aloe"},{"example":"盧溝橋","reading":"ロコウキョウ","meaning":"Marco Polo Bridge (China)"},{"example":"葫蘆","reading":"コロ","meaning":"calabash (Lagenaria siceraria)"}],"kunyomiExamples":[{"example":"葦","reading":"あし","meaning":"common reed (Phragmites australis)"},{"example":"芦毛","reading":"あしげ","meaning":"dapple-grey (gray) (horse coat colour)"},{"example":"青葦","reading":"あおあし","meaning":"lush waterside reeds"},{"example":"枯葦","reading":"かれあし","meaning":"withered reeds (esp. reeds that have withered in the winter)"},{"example":"葦","reading":"あし","meaning":"common reed (Phragmites australis)"},{"example":"葦笛","reading":"あしぶえ","meaning":"reed pipe, reed flute"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["匕","卜","厂","田","皿","艾","虍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34310_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08606.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8606.gif","uri":"https://jisho.org/search/%E8%98%86%23kanji"}}
+{
+  "id": "蘆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蘆",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "reed, rush",
+    "kunyomi": [
+      "あし",
+      "よし"
+    ],
+    "onyomi": [
+      "ロ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蘆薈",
+        "reading": "ロカイ",
+        "meaning": "aloe"
+      },
+      {
+        "example": "盧溝橋",
+        "reading": "ロコウキョウ",
+        "meaning": "Marco Polo Bridge (China)"
+      },
+      {
+        "example": "葫蘆",
+        "reading": "コロ",
+        "meaning": "calabash (Lagenaria siceraria)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "葦",
+        "reading": "あし",
+        "meaning": "common reed (Phragmites australis)"
+      },
+      {
+        "example": "芦毛",
+        "reading": "あしげ",
+        "meaning": "dapple-grey (gray) (horse coat colour)"
+      },
+      {
+        "example": "青葦",
+        "reading": "あおあし",
+        "meaning": "lush waterside reeds"
+      },
+      {
+        "example": "枯葦",
+        "reading": "かれあし",
+        "meaning": "withered reeds (esp. reeds that have withered in the winter)"
+      },
+      {
+        "example": "葦",
+        "reading": "あし",
+        "meaning": "common reed (Phragmites australis)"
+      },
+      {
+        "example": "葦笛",
+        "reading": "あしぶえ",
+        "meaning": "reed pipe, reed flute"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "匕",
+      "卜",
+      "厂",
+      "田",
+      "皿",
+      "艾",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34310_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08606.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8606.gif",
+    "uri": "https://jisho.org/search/%E8%98%86%23kanji"
+  }
+}

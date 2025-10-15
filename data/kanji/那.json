@@ -1,1 +1,61 @@
-{"id":"那","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"那","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1621","strokeCount":7,"meaning":"what?","kunyomi":["なに","なんぞ","いかん"],"onyomi":["ナ","ダ"],"onyomiExamples":[{"example":"那覇","reading":"ナハ","meaning":"Naha (city in Okinawa)"},{"example":"那辺","reading":"ナヘン","meaning":"where"},{"example":"刹那","reading":"セツナ","meaning":"moment, instant, kshana, duration of a single mental event (about 1/75 second), shortest possible interval of time"},{"example":"印度支那","reading":"インドシナ","meaning":"Indochina"}],"kunyomiExamples":[],"radical":{"symbol":"邑","forms":["阝"],"meaning":"town (阝 right)"},"parts":["二","刀","邦"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37027_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090a3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90a3.gif","uri":"https://jisho.org/search/%E9%82%A3%23kanji"}}
+{
+  "id": "那",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "那",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1621",
+    "strokeCount": 7,
+    "meaning": "what?",
+    "kunyomi": [
+      "なに",
+      "なんぞ",
+      "いかん"
+    ],
+    "onyomi": [
+      "ナ",
+      "ダ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "那覇",
+        "reading": "ナハ",
+        "meaning": "Naha (city in Okinawa)"
+      },
+      {
+        "example": "那覇港湾空港工事事務所",
+        "reading": "ナハコウワンクウコウコウジジムショ",
+        "meaning": "Naha Harbour and Airport Construction Office"
+      },
+      {
+        "example": "刹那",
+        "reading": "セツナ",
+        "meaning": "moment, instant, kshana, duration of a single mental event (about 1/75 second), shortest possible interval of time"
+      },
+      {
+        "example": "印度支那",
+        "reading": "インドシナ",
+        "meaning": "Indochina"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "邑",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "town (阝 right)"
+    },
+    "parts": [
+      "二",
+      "刀",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37027_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090a3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90a3.gif",
+    "uri": "https://jisho.org/search/%E9%82%A3%23kanji"
+  }
+}

@@ -1,1 +1,75 @@
-{"id":"趨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"趨","found":true,"strokeCount":17,"meaning":"run, go, quick, tend towards","kunyomi":["しゅ","おもむ.く","はし.る"],"onyomi":["スウ","ソク"],"onyomiExamples":[{"example":"趨勢","reading":"スウセイ","meaning":"tendency, trend"},{"example":"趨向","reading":"スウコウ","meaning":"tendency, trend, current"},{"example":"拝趨","reading":"ハイスウ","meaning":"to visit someone, to call on"},{"example":"帰趨","reading":"キスウ","meaning":"outcome (of a course of events), consequence, tendency, trend, drift"}],"kunyomiExamples":[{"example":"帰趨","reading":"きすう","meaning":"outcome (of a course of events), consequence, tendency, trend, drift"},{"example":"赴く","reading":"おもむく","meaning":"to go in the direction of, to proceed toward, to proceed according to, to repair to, to betake oneself to, to become, to face (facts, circumstances, etc.), to abide by, to agree to, to consent to, to obey"},{"example":"走る","reading":"はしる","meaning":"to run, to run (of a vehicle), to drive, to travel, to move, to sail, to rush (to), to dash, to race, to retreat, to flee, to defect (to), to run away, to abscond, to elope, to flash (of lightning), to streak, to shoot (through; e.g. of pain), to run (through), to flare, to flit (e.g. across one's face), to spread quickly (of news, shock, etc.), to go (e.g. bad, to extremes), to become, to turn, to take to (e.g. crime), to get carried away by (e.g. one's emotions), to get involved in, to get wrapped up in, to run (through; of a road, street, etc.), to extend (e.g. of a mountain range), to stretch, to lie"}],"radical":{"symbol":"走","forms":["赱"],"meaning":"run"},"parts":["勹","土","屮","走"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36264_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08da8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8da8.gif","uri":"https://jisho.org/search/%E8%B6%A8%23kanji"}}
+{
+  "id": "趨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "趨",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "run, go, quick, tend towards",
+    "kunyomi": [
+      "しゅ",
+      "おもむ.く",
+      "はし.る"
+    ],
+    "onyomi": [
+      "スウ",
+      "ソク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "趨勢",
+        "reading": "スウセイ",
+        "meaning": "tendency, trend"
+      },
+      {
+        "example": "趨向",
+        "reading": "スウコウ",
+        "meaning": "tendency, trend, current"
+      },
+      {
+        "example": "拝趨",
+        "reading": "ハイスウ",
+        "meaning": "to visit someone, to call on"
+      },
+      {
+        "example": "帰趨",
+        "reading": "キスウ",
+        "meaning": "outcome (of a course of events), consequence, tendency, trend"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "帰趨",
+        "reading": "きすう",
+        "meaning": "outcome (of a course of events), consequence, tendency, trend"
+      },
+      {
+        "example": "赴く",
+        "reading": "おもむく",
+        "meaning": "to go in the direction of, to proceed toward, to proceed according to, to repair to, to betake oneself to, to become, to face (facts, circumstances, etc.), to abide by, to agree to, to consent to, to obey"
+      },
+      {
+        "example": "走る",
+        "reading": "はしる",
+        "meaning": "to run, to run (of a vehicle), to drive, to travel, to move, to sail, to rush (to), to dash, to race, to retreat, to flee, to defect (to), to run away, to abscond, to elope, to flash (of lightning), to streak, to shoot (through; e.g. of pain), to run (through), to flare, to flit (e.g. across one's face), to spread quickly (of news, shock, etc.), to go (e.g. bad, to extremes), to become, to turn, to take to (e.g. crime), to get carried away by (e.g. one's emotions), to get involved in, to get wrapped up in, to run (through; of a road, street, etc.), to extend (e.g. of a mountain range), to stretch, to lie"
+      }
+    ],
+    "radical": {
+      "symbol": "走",
+      "forms": [
+        "赱"
+      ],
+      "meaning": "run"
+    },
+    "parts": [
+      "勹",
+      "土",
+      "屮",
+      "走"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36264_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08da8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8da8.gif",
+    "uri": "https://jisho.org/search/%E8%B6%A8%23kanji"
+  }
+}

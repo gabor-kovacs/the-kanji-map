@@ -1,1 +1,40 @@
-{"id":"卩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"卩","found":true,"strokeCount":2,"meaning":"seal radical (no. 26)","kunyomi":["わりふ"],"onyomi":["セツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"卩","reading":"わりふ","meaning":"kanji \"seal\" radical (radical 26)"},{"example":"曲げ卩","reading":"まげわりふ","meaning":"kanji \"crooked seal\" radical at right (variant of radical 26)"}],"radical":{"symbol":"卩","meaning":"kneel"},"parts":["卩"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21353_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05369.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5369.gif","uri":"https://jisho.org/search/%E5%8D%A9%23kanji"}}
+{
+  "id": "卩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卩",
+    "found": true,
+    "strokeCount": 2,
+    "meaning": "seal radical (no. 26)",
+    "kunyomi": [
+      "わりふ"
+    ],
+    "onyomi": [
+      "セツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "卩",
+        "reading": "わりふ",
+        "meaning": "kanji \"seal\" radical (radical 26)"
+      },
+      {
+        "example": "曲げ卩",
+        "reading": "まげわりふ",
+        "meaning": "kanji \"crooked seal\" radical at right (variant of radical 26)"
+      }
+    ],
+    "radical": {
+      "symbol": "卩",
+      "meaning": "kneel"
+    },
+    "parts": [
+      "卩"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21353_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05369.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5369.gif",
+    "uri": "https://jisho.org/search/%E5%8D%A9%23kanji"
+  }
+}

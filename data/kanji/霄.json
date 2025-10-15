@@ -1,1 +1,47 @@
-{"id":"霄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霄","found":true,"strokeCount":15,"meaning":"sky","kunyomi":["そら"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"霄漢","reading":"ショウカン","meaning":"sky, heavens, firmament"},{"example":"霄壌","reading":"ショウジョウ","meaning":"heaven and earth"},{"example":"凌霄","reading":"リョウショウ","meaning":"Chinese trumpet creeper (Campsis grandiflora)"}],"kunyomiExamples":[],"radical":{"symbol":"雨","meaning":"rain"},"parts":["尚","月","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38660_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09704.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9704.gif","uri":"https://jisho.org/search/%E9%9C%84%23kanji"}}
+{
+  "id": "霄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霄",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "sky",
+    "kunyomi": [
+      "そら"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霄漢",
+        "reading": "ショウカン",
+        "meaning": "sky, heavens, firmament"
+      },
+      {
+        "example": "霄壌",
+        "reading": "ショウジョウ",
+        "meaning": "heaven and earth"
+      },
+      {
+        "example": "凌霄",
+        "reading": "リョウショウ",
+        "meaning": "Chinese trumpet creeper (Campsis grandiflora)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "尚",
+      "月",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38660_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09704.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9704.gif",
+    "uri": "https://jisho.org/search/%E9%9C%84%23kanji"
+  }
+}

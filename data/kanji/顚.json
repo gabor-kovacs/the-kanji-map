@@ -1,0 +1,49 @@
+{
+  "id": "顚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "顚",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "top, peak, summit, upset",
+    "kunyomi": [
+      "いただ.き",
+      "たお.れる"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "転覆",
+        "reading": "テンプク",
+        "meaning": "overturning, capsizing, overthrow (e.g. of a government)"
+      },
+      {
+        "example": "転蹶",
+        "reading": "テンケツ",
+        "meaning": "stumbling, tripping, failure"
+      },
+      {
+        "example": "不列顛",
+        "reading": "ブリテン",
+        "meaning": "Britain (island), Great Britain"
+      },
+      {
+        "example": "山巓",
+        "reading": "サンテン",
+        "meaning": "summit (of a mountain)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39002_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0985a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/985a.gif",
+    "uri": "https://jisho.org/search/%E9%A1%9A%23kanji"
+  }
+}

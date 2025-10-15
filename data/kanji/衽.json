@@ -1,1 +1,43 @@
-{"id":"衽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"衽","found":true,"strokeCount":9,"meaning":"neck of a garment, gusset, gore","kunyomi":["こくび","おくみ","しとね"],"onyomi":["ジン","ニン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"袵","reading":"おくみ","meaning":"gusset (esp. in kimono), gore"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["初","士","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34941_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0887d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/887d.gif","uri":"https://jisho.org/search/%E8%A1%BD%23kanji"}}
+{
+  "id": "衽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衽",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "neck of a garment, gusset, gore",
+    "kunyomi": [
+      "こくび",
+      "おくみ",
+      "しとね"
+    ],
+    "onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "袵",
+        "reading": "おくみ",
+        "meaning": "gusset (esp. in kimono), gore"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "初",
+      "士",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34941_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0887d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/887d.gif",
+    "uri": "https://jisho.org/search/%E8%A1%BD%23kanji"
+  }
+}

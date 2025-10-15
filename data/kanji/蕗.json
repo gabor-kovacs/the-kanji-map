@@ -1,1 +1,60 @@
-{"id":"蕗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蕗","found":true,"jlptLevel":"N1","strokeCount":16,"meaning":"butterbur, bog rhubarb","kunyomi":["ふき"],"onyomi":["ロ","ル"],"onyomiExamples":[{"example":"蕗草","reading":"ロソウ","meaning":"liquorice, licorice"}],"kunyomiExamples":[{"example":"蕗","reading":"ふき","meaning":"giant butterbur (Petasites japonicus), Japanese sweet coltsfoot"},{"example":"蕗の薹","reading":"ふきのとう","meaning":"edible flower bud of the fuki (Petasites japonicus) plant, an early spring delicacy"},{"example":"蕗","reading":"ふき","meaning":"giant butterbur (Petasites japonicus), Japanese sweet coltsfoot"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["口","夂","止","艾","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34135_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08557.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8557.gif","uri":"https://jisho.org/search/%E8%95%97%23kanji"}}
+{
+  "id": "蕗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕗",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 16,
+    "meaning": "butterbur, bog rhubarb",
+    "kunyomi": [
+      "ふき"
+    ],
+    "onyomi": [
+      "ロ",
+      "ル"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蕗草",
+        "reading": "ロソウ",
+        "meaning": "liquorice, licorice"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蕗",
+        "reading": "ふき",
+        "meaning": "giant butterbur (Petasites japonicus), Japanese sweet coltsfoot"
+      },
+      {
+        "example": "蕗の薹",
+        "reading": "ふきのとう",
+        "meaning": "edible flower bud of a giant butterbur plant"
+      },
+      {
+        "example": "蕗",
+        "reading": "ふき",
+        "meaning": "giant butterbur (Petasites japonicus), Japanese sweet coltsfoot"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "止",
+      "艾",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34135_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08557.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8557.gif",
+    "uri": "https://jisho.org/search/%E8%95%97%23kanji"
+  }
+}

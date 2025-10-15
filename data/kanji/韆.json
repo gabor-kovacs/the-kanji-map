@@ -1,1 +1,31 @@
-{"id":"韆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"韆","found":true,"strokeCount":24,"meaning":"swing, trapeze","kunyomi":[],"onyomi":["セン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["ハ","已","西","込","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38854_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097c6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97c6.gif","uri":"https://jisho.org/search/%E9%9F%86%23kanji"}}
+{
+  "id": "韆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "韆",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "swing, trapeze",
+    "kunyomi": [],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "ハ",
+      "已",
+      "西",
+      "込",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38854_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097c6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97c6.gif",
+    "uri": "https://jisho.org/search/%E9%9F%86%23kanji"
+  }
+}

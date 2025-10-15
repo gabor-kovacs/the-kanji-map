@@ -1,1 +1,50 @@
-{"id":"楠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"楠","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1927","strokeCount":13,"meaning":"camphor tree","kunyomi":["くす","くすのき"],"onyomi":["ナン","ダン","ゼン","ネン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"樟","reading":"くすのき","meaning":"camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"},{"example":"樟","reading":"くすのき","meaning":"camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["冂","十","干","并","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26976_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06960.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6960.gif","uri":"https://jisho.org/search/%E6%A5%A0%23kanji"}}
+{
+  "id": "楠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楠",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1927",
+    "strokeCount": 13,
+    "meaning": "camphor tree",
+    "kunyomi": [
+      "くす",
+      "くすのき"
+    ],
+    "onyomi": [
+      "ナン",
+      "ダン",
+      "ゼン",
+      "ネン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "樟",
+        "reading": "くすのき",
+        "meaning": "camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"
+      },
+      {
+        "example": "樟",
+        "reading": "くすのき",
+        "meaning": "camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "冂",
+      "十",
+      "干",
+      "并",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26976_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06960.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6960.gif",
+    "uri": "https://jisho.org/search/%E6%A5%A0%23kanji"
+  }
+}

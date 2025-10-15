@@ -1,1 +1,86 @@
-{"id":"乙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"乙","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1841","strokeCount":1,"meaning":"the latter, duplicate, strange, witty, fishhook radical (no. 5)","kunyomi":["おと-","きのと"],"onyomi":["オツ","イツ"],"onyomiExamples":[{"example":"乙","reading":"オツ","meaning":"second (party to an agreement), the B party (e.g. in a contract), the latter, defendant, stylish, chic, spicy, witty, tasty, romantic, strange, quaint, queer, thank you, good job, see you, goodbye, goodnight"},{"example":"乙亥","reading":"キノトイ","meaning":"Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"},{"example":"うｐ乙","reading":"ウプオツ","meaning":"thanks for uploading"},{"example":"甲と乙","reading":"コウトオツ","meaning":"the former and the latter, A and B"},{"example":"乙亥","reading":"キノトイ","meaning":"Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"},{"example":"乙未","reading":"キノトヒツジ","meaning":"Wood Sheep (32nd term of the sexagenary cycle, e.g. 1955, 2015, 2075)"},{"example":"不一","reading":"フイツ","meaning":"Very sincerely yours, different"}],"kunyomiExamples":[{"example":"乙","reading":"きのと","meaning":"second in rank, second sign of the Chinese calendar"},{"example":"乙亥","reading":"きのとい","meaning":"Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"}],"radical":{"symbol":"乛","forms":["乙","⺄","乚"],"meaning":"second"},"parts":["乙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20057_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e59.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e59.gif","uri":"https://jisho.org/search/%E4%B9%99%23kanji"}}
+{
+  "id": "乙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "乙",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1841",
+    "strokeCount": 1,
+    "meaning": "the latter, duplicate, strange, witty, fishhook radical (no. 5)",
+    "kunyomi": [
+      "おと-",
+      "きのと"
+    ],
+    "onyomi": [
+      "オツ",
+      "イツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "乙",
+        "reading": "オツ",
+        "meaning": "(the) second (party, rank, etc.), B (grade), the latter, stylish, chic, smart, witty, tasty, strange, quaint, queer, thank you, good job, see you, goodbye, goodnight"
+      },
+      {
+        "example": "乙亥",
+        "reading": "キノトイ",
+        "meaning": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+      },
+      {
+        "example": "うｐ乙",
+        "reading": "ウプオツ",
+        "meaning": "thanks for uploading"
+      },
+      {
+        "example": "枠乙",
+        "reading": "ワクオツ",
+        "meaning": "thanks for streaming"
+      },
+      {
+        "example": "乙亥",
+        "reading": "キノトイ",
+        "meaning": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+      },
+      {
+        "example": "乙未",
+        "reading": "キノトヒツジ",
+        "meaning": "Wood Sheep (32nd term of the sexagenary cycle, e.g. 1955, 2015, 2075)"
+      },
+      {
+        "example": "不一",
+        "reading": "フイツ",
+        "meaning": "Very sincerely yours, different"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "乙",
+        "reading": "きのと",
+        "meaning": "second in rank, second sign of the Chinese calendar"
+      },
+      {
+        "example": "乙亥",
+        "reading": "きのとい",
+        "meaning": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+      }
+    ],
+    "radical": {
+      "symbol": "乛",
+      "forms": [
+        "乙",
+        "⺄",
+        "乚"
+      ],
+      "meaning": "second"
+    },
+    "parts": [
+      "乙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20057_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e59.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e59.gif",
+    "uri": "https://jisho.org/search/%E4%B9%99%23kanji"
+  }
+}

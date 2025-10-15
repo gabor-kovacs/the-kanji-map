@@ -1,1 +1,57 @@
-{"id":"膜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膜","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1804","strokeCount":14,"meaning":"membrane","kunyomi":[],"onyomi":["マク"],"onyomiExamples":[{"example":"膜","reading":"マク","meaning":"membrane, film"},{"example":"膜厚","reading":"マクアツ","meaning":"film thickness, coating thickness"},{"example":"角膜","reading":"カクマク","meaning":"cornea"},{"example":"網膜","reading":"モウマク","meaning":"retina"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["大","日","月","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33180_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0819c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/819c.gif","uri":"https://jisho.org/search/%E8%86%9C%23kanji"}}
+{
+  "id": "膜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膜",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1804",
+    "strokeCount": 14,
+    "meaning": "membrane",
+    "kunyomi": [],
+    "onyomi": [
+      "マク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膜",
+        "reading": "マク",
+        "meaning": "membrane, film"
+      },
+      {
+        "example": "膜厚",
+        "reading": "マクアツ",
+        "meaning": "film thickness, coating thickness"
+      },
+      {
+        "example": "角膜",
+        "reading": "カクマク",
+        "meaning": "cornea"
+      },
+      {
+        "example": "網膜",
+        "reading": "モウマク",
+        "meaning": "retina"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "大",
+      "日",
+      "月",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33180_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0819c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/819c.gif",
+    "uri": "https://jisho.org/search/%E8%86%9C%23kanji"
+  }
+}

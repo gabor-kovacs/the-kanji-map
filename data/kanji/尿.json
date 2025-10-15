@@ -1,1 +1,82 @@
-{"id":"尿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"尿","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1672","strokeCount":7,"meaning":"urine","kunyomi":["ゆばり","いばり","しと"],"onyomi":["ニョウ"],"onyomiExamples":[{"example":"尿","reading":"ニョウ","meaning":"urine"},{"example":"尿酸","reading":"ニョウサン","meaning":"uric acid"},{"example":"利尿","reading":"リニョウ","meaning":"diuresis"},{"example":"遺尿","reading":"イニョウ","meaning":"enuresis, bed wetting"}],"kunyomiExamples":[{"example":"尿","reading":"にょう","meaning":"urine"},{"example":"尿袋","reading":"いばりぶくろ","meaning":"urinary bladder"},{"example":"尿","reading":"にょう","meaning":"urine"},{"example":"尿袋","reading":"いばりぶくろ","meaning":"urinary bladder"},{"example":"尿","reading":"にょう","meaning":"urine"}],"radical":{"symbol":"尸","meaning":"corpse"},"parts":["尸","水"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23615_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3f.gif","uri":"https://jisho.org/search/%E5%B0%BF%23kanji"}}
+{
+  "id": "尿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尿",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1672",
+    "strokeCount": 7,
+    "meaning": "urine",
+    "kunyomi": [
+      "ゆばり",
+      "いばり",
+      "しと"
+    ],
+    "onyomi": [
+      "ニョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尿",
+        "reading": "ニョウ",
+        "meaning": "urine"
+      },
+      {
+        "example": "尿酸",
+        "reading": "ニョウサン",
+        "meaning": "uric acid"
+      },
+      {
+        "example": "利尿",
+        "reading": "リニョウ",
+        "meaning": "diuresis"
+      },
+      {
+        "example": "遺尿",
+        "reading": "イニョウ",
+        "meaning": "enuresis, bed wetting"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "尿",
+        "reading": "にょう",
+        "meaning": "urine"
+      },
+      {
+        "example": "尿袋",
+        "reading": "いばりぶくろ",
+        "meaning": "urinary bladder"
+      },
+      {
+        "example": "尿",
+        "reading": "にょう",
+        "meaning": "urine"
+      },
+      {
+        "example": "尿袋",
+        "reading": "いばりぶくろ",
+        "meaning": "urinary bladder"
+      },
+      {
+        "example": "尿",
+        "reading": "にょう",
+        "meaning": "urine"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "corpse"
+    },
+    "parts": [
+      "尸",
+      "水"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23615_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3f.gif",
+    "uri": "https://jisho.org/search/%E5%B0%BF%23kanji"
+  }
+}

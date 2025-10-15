@@ -1,1 +1,43 @@
-{"id":"轗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"轗","found":true,"strokeCount":20,"meaning":"difficulty, misfortune","kunyomi":[],"onyomi":["カン","コン"],"onyomiExamples":[{"example":"轗軻","reading":"カンカ","meaning":"separation from the world"},{"example":"轗軻不遇","reading":"カンカフグウ","meaning":"being neglected by the world, being denied one's deserved recognition and status"}],"kunyomiExamples":[],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["ノ","口","心","戈","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36695_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f57.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f57.gif","uri":"https://jisho.org/search/%E8%BD%97%23kanji"}}
+{
+  "id": "轗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "轗",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "difficulty, misfortune",
+    "kunyomi": [],
+    "onyomi": [
+      "カン",
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "轗軻",
+        "reading": "カンカ",
+        "meaning": "separation from the world"
+      },
+      {
+        "example": "轗軻不遇",
+        "reading": "カンカフグウ",
+        "meaning": "being neglected by the world, being denied one's deserved recognition and status"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "心",
+      "戈",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36695_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f57.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f57.gif",
+    "uri": "https://jisho.org/search/%E8%BD%97%23kanji"
+  }
+}

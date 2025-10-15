@@ -1,1 +1,66 @@
-{"id":"矛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"矛","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1538","strokeCount":5,"meaning":"halberd, arms, festival float","kunyomi":["ほこ"],"onyomi":["ム","ボウ"],"onyomiExamples":[{"example":"矛盾","reading":"ムジュン","meaning":"contradiction, inconsistency"},{"example":"矛盾原理","reading":"ムジュンゲンリ","meaning":"principle of contradiction (logic)"}],"kunyomiExamples":[{"example":"矛","reading":"ほこ","meaning":"long-handled Chinese spear, lance, pike, weapon, arms, grip of a bow, parade float decorated with long-handled Chinese spears"},{"example":"矛先","reading":"ほこさき","meaning":"point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"},{"example":"銅矛","reading":"どうほこ","meaning":"bronze hoko, bronze halberd, bronze spearhead"},{"example":"瓊矛","reading":"ぬほこ","meaning":"jeweled spear (jewelled)"}],"radical":{"symbol":"矛","meaning":"spear"},"parts":["マ","矛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30683_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077db.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77db.gif","uri":"https://jisho.org/search/%E7%9F%9B%23kanji"}}
+{
+  "id": "矛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "矛",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1538",
+    "strokeCount": 5,
+    "meaning": "halberd, arms, festival float",
+    "kunyomi": [
+      "ほこ"
+    ],
+    "onyomi": [
+      "ム",
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "矛盾",
+        "reading": "ムジュン",
+        "meaning": "contradiction, inconsistency"
+      },
+      {
+        "example": "矛盾原理",
+        "reading": "ムジュンゲンリ",
+        "meaning": "principle of contradiction, law of contradiction"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "矛",
+        "reading": "ほこ",
+        "meaning": "long-handled Chinese spear, lance, pike, weapon, arms, grip of a bow, parade float decorated with long-handled Chinese spears"
+      },
+      {
+        "example": "矛先",
+        "reading": "ほこさき",
+        "meaning": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"
+      },
+      {
+        "example": "銅矛",
+        "reading": "どうほこ",
+        "meaning": "bronze hoko, bronze halberd, bronze spearhead"
+      },
+      {
+        "example": "鎚矛",
+        "reading": "つちほこ",
+        "meaning": "mace"
+      }
+    ],
+    "radical": {
+      "symbol": "矛",
+      "meaning": "spear"
+    },
+    "parts": [
+      "マ",
+      "矛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30683_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77db.gif",
+    "uri": "https://jisho.org/search/%E7%9F%9B%23kanji"
+  }
+}

@@ -1,1 +1,49 @@
-{"id":"謄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"謄","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2295","strokeCount":17,"meaning":"mimeograph, copy","kunyomi":[],"onyomi":["トウ"],"onyomiExamples":[{"example":"謄本","reading":"トウホン","meaning":"certified copy, transcript, official copy of the family register"},{"example":"謄写","reading":"トウシャ","meaning":"copy, transcription, mimeograph, photocopy"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["一","二","大","月","言","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35588_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b04.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b04.gif","uri":"https://jisho.org/search/%E8%AC%84%23kanji"}}
+{
+  "id": "謄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謄",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2295",
+    "strokeCount": 17,
+    "meaning": "mimeograph, copy",
+    "kunyomi": [],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謄本",
+        "reading": "トウホン",
+        "meaning": "certified copy, transcript, official copy of the family register"
+      },
+      {
+        "example": "謄写",
+        "reading": "トウシャ",
+        "meaning": "copy, transcription, mimeograph, photocopy"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "一",
+      "二",
+      "大",
+      "月",
+      "言",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35588_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b04.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b04.gif",
+    "uri": "https://jisho.org/search/%E8%AC%84%23kanji"
+  }
+}

@@ -1,1 +1,47 @@
-{"id":"辿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"辿","found":true,"strokeCount":6,"meaning":"follow (road), pursue","kunyomi":["たど.る","たどり"],"onyomi":["テン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"辿る","reading":"たどる","meaning":"to follow (road), to pursue (course), to follow up, to follow (hyperlink)"},{"example":"たどり着く","reading":"たどりつく","meaning":"to arrive at (after a struggle), to finally reach, to find one's way to, to finally hit on (e.g. an idea)"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["山","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36799_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fbf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fbf.gif","uri":"https://jisho.org/search/%E8%BE%BF%23kanji"}}
+{
+  "id": "辿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "辿",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "follow (road), pursue",
+    "kunyomi": [
+      "たど.る",
+      "たどり"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "辿る",
+        "reading": "たどる",
+        "meaning": "to follow (a road, path, etc.), to trace, to follow (a clue, scent, tracks, plot, etc.), to trace (a route, history, family tree, etc.), to retrace (e.g. one's memory), to search, to go over, to head towards (of a situation), to go in the direction of, to take (a course), to pursue (a path), to meet (a fate)"
+      },
+      {
+        "example": "たどり着く",
+        "reading": "たどりつく",
+        "meaning": "to (finally) arrive at, to reach (at last), to (manage to) get to, to find one's way to"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "山",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36799_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fbf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fbf.gif",
+    "uri": "https://jisho.org/search/%E8%BE%BF%23kanji"
+  }
+}

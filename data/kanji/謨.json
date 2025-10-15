@@ -1,1 +1,47 @@
-{"id":"謨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"謨","found":true,"strokeCount":17,"meaning":"plan, deliberate","kunyomi":["はか.る"],"onyomi":["ボ","モ"],"onyomiExamples":[{"example":"皇謨","reading":"コウボ","meaning":"imperial policy"},{"example":"宏謨","reading":"コウボ","meaning":"great plan, grand policy"}],"kunyomiExamples":[],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["大","日","艾","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35624_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b28.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b28.gif","uri":"https://jisho.org/search/%E8%AC%A8%23kanji"}}
+{
+  "id": "謨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謨",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "plan, deliberate",
+    "kunyomi": [
+      "はか.る"
+    ],
+    "onyomi": [
+      "ボ",
+      "モ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "皇謨",
+        "reading": "コウボ",
+        "meaning": "imperial policy"
+      },
+      {
+        "example": "宏謨",
+        "reading": "コウボ",
+        "meaning": "great plan, grand policy"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "大",
+      "日",
+      "艾",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35624_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b28.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b28.gif",
+    "uri": "https://jisho.org/search/%E8%AC%A8%23kanji"
+  }
+}

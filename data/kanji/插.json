@@ -1,1 +1,42 @@
-{"id":"插","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"插","found":true,"strokeCount":12,"meaning":"insert, stick into, plant","kunyomi":["さ.す","はさ.む"],"onyomi":["ソウ"],"onyomiExamples":[{"example":"挿入","reading":"ソウニュウ","meaning":"insertion, incorporation, infixing"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ノ","十","扎","臼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25554_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063d2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63d2.gif","uri":"https://jisho.org/search/%E6%8F%92%23kanji"}}
+{
+  "id": "插",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "插",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "insert, stick into, plant",
+    "kunyomi": [
+      "さ.す",
+      "はさ.む"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "挿入",
+        "reading": "ソウニュウ",
+        "meaning": "insertion, incorporation, infixing"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ノ",
+      "十",
+      "扎",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25554_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063d2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63d2.gif",
+    "uri": "https://jisho.org/search/%E6%8F%92%23kanji"
+  }
+}

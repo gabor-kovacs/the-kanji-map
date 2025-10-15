@@ -1,1 +1,418 @@
-{"id":"石","kanjialiveData":{"kanji":{"character":"石","meaning":{"english":"stone"},"strokes":{"count":5,"timings":[0,1.558,2.383,3.24,4.921,5.6],"images":["https://media.kanjialive.com/kanji_strokes/ishi_1.svg","https://media.kanjialive.com/kanji_strokes/ishi_2.svg","https://media.kanjialive.com/kanji_strokes/ishi_3.svg","https://media.kanjialive.com/kanji_strokes/ishi_4.svg","https://media.kanjialive.com/kanji_strokes/ishi_5.svg"]},"onyomi":{"romaji":"seki, shaku, koku","katakana":"セキ、シャク、コク"},"kunyomi":{"romaji":"ishi","hiragana":"いし"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ishi_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ishi_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ishi_00.webm"}},"radical":{"character":"⽯","strokes":5,"image":"https://media.kanjialive.com/radical_character/ishi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"いし","romaji":"ishi"},"meaning":{"english":"stone"},"animation":["https://media.kanjialive.com/rad_frames/ishi0.svg","https://media.kanjialive.com/rad_frames/ishi1.svg","https://media.kanjialive.com/rad_frames/ishi2.svg"]},"references":{"grade":1,"kodansha":"1884","classic_nelson":"3176"},"examples":[{"japanese":"石像（せきぞう）","meaning":{"english":"stone statue"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_a.mp3"}},{"japanese":"石炭（せきたん）","meaning":{"english":"coal"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_b.mp3"}},{"japanese":"石油（せきゆ）","meaning":{"english":"petroleum"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_c.mp3"}},{"japanese":"石鹸（せっけん）","meaning":{"english":"soap"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_d.mp3"}},{"japanese":"宝石（ほうせき）","meaning":{"english":"gem"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_e.mp3"}},{"japanese":"磁石（じしゃく）","meaning":{"english":"magnet"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_f.mp3"}},{"japanese":"石（こく）","meaning":{"english":"unit of measurement"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_g.mp3"}},{"japanese":"石（いし）","meaning":{"english":"stone"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_h.mp3"}}]},"jishoData":{"query":"石","found":true,"taughtIn":"grade 1","jlptLevel":"N3","newspaperFrequencyRank":"342","strokeCount":5,"meaning":"stone","kunyomi":["いし"],"onyomi":["セキ","シャク","コク"],"onyomiExamples":[{"example":"石","reading":"セキ","meaning":"counter for jewels in a watch, counter for transistors, diodes, etc. in an electronic product"},{"example":"石材","reading":"セキザイ","meaning":"(building) stone"},{"example":"一石","reading":"イッセキ","meaning":"one game (of go)"},{"example":"投石","reading":"トウセキ","meaning":"stone throwing"},{"example":"石神","reading":"シャクジン","meaning":"stone which is worshipped, image of a god in stone"},{"example":"石南花","reading":"シャクナゲ","meaning":"rhododendron"},{"example":"電磁石","reading":"デンジシャク","meaning":"electromagnet"},{"example":"界磁石","reading":"カイジシャク","meaning":"field magnet"},{"example":"石","reading":"コク","meaning":"koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)"},{"example":"石高","reading":"コクダカ","meaning":"(crop) yield, stipend (orig. assessed on the basis of a crop), salary"},{"example":"一石","reading":"イッコク","meaning":"one koku (measure)"}],"kunyomiExamples":[{"example":"石","reading":"いし","meaning":"stone, jewel, precious stone, flint (in a lighter), stone (in go), stone (in the bladder, kidney etc.), calculus, rock (in rock-paper-scissors), stone"},{"example":"石垣","reading":"いしがき","meaning":"stone wall"},{"example":"墓石","reading":"ぼせき","meaning":"tombstone, gravestone"},{"example":"敷石","reading":"しきいし","meaning":"paving stone, pavement"}],"radical":{"symbol":"石","meaning":"stone"},"parts":["口","石"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30707_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077f3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77f3.gif","uri":"https://jisho.org/search/%E7%9F%B3%23kanji"}}
+{
+  "id": "石",
+  "kanjialiveData": {
+    "_id": "54317ae7791eba5146ee49bc",
+    "_rev": "13-0ec7e6f451ebc334f39d56f04139d5f6",
+    "rad_name_ja": "いし",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "ishi",
+    "meaning": "stone",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "石像（せきぞう）",
+        "meaning": {
+          "english": "stone statue"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "石炭（せきたん）",
+        "meaning": {
+          "english": "coal"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "石油（せきゆ）",
+        "meaning": {
+          "english": "petroleum"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "石鹸（せっけん）",
+        "meaning": {
+          "english": "soap"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "宝石（ほうせき）",
+        "meaning": {
+          "english": "gem"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "磁石（じしゃく）",
+        "meaning": {
+          "english": "magnet"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "石（こく）",
+        "meaning": {
+          "english": "unit of measurement"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "石（いし）",
+        "meaning": {
+          "english": "stone"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ishi_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ishi_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ishi_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いし",
+    "ka_utf": "石",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=石",
+    "rad_name_search": [
+      "ishi"
+    ],
+    "rad_order": 142,
+    "txt_books": [
+      {
+        "chapter": "24",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "ishi",
+    "rad_utf": "⽯",
+    "stroketimes": [
+      0,
+      1.558,
+      2.383,
+      3.24,
+      4.921,
+      5.6
+    ],
+    "kunyomi_ka_display": "いし",
+    "dick": "1884",
+    "rad_name": "ishi",
+    "dicn": "3176",
+    "mn_hint": "Please view the radical animation on the left.",
+    "rad_stroke": 5,
+    "onyomi_ja": "セキ、シャク、コク",
+    "rad_meaning": "stone",
+    "onyomi": "seki, shaku, koku",
+    "ka_id": "ka_265",
+    "onyomi_search": [
+      "seki",
+      "shaku",
+      "koku",
+      "seki, shaku, koku"
+    ],
+    "kunyomi_search": [
+      "ishi",
+      "ishi"
+    ],
+    "meaning_search": [
+      "stone",
+      "stone"
+    ],
+    "onyomi_ja_search": [
+      "セキ",
+      "シャク",
+      "コク",
+      "セキ、シャク、コク"
+    ],
+    "kunyomi_ja_search": [
+      "いし",
+      "いし"
+    ],
+    "rad_meaning_search": [
+      "stone",
+      "stone"
+    ],
+    "rad_name_ja_search": [
+      "いし"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:24",
+      "cij:c24",
+      "bk",
+      "bk:6",
+      "bk:c6",
+      "mac",
+      "mac:16",
+      "mac:c16",
+      "aij3",
+      "aij3:6",
+      "aij3:c6",
+      "aij3:v4",
+      "aij3:v4:6",
+      "aij3:v4:c6",
+      "ap",
+      "ap:11",
+      "ap:c11",
+      "kll",
+      "kll:17",
+      "kll:c17",
+      "jt",
+      "jt:6",
+      "jt:c6"
+    ],
+    "rad_name_file": "ishi",
+    "kanji": {
+      "character": "石",
+      "meaning": {
+        "english": "stone"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          1.558,
+          2.383,
+          3.24,
+          4.921,
+          5.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ishi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ishi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ishi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ishi_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ishi_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "seki, shaku, koku",
+        "katakana": "セキ、シャク、コク"
+      },
+      "kunyomi": {
+        "romaji": "ishi",
+        "hiragana": "いし"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ishi_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ishi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ishi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽯",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/ishi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "いし",
+        "romaji": "ishi"
+      },
+      "meaning": {
+        "english": "stone"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ishi0.svg",
+        "https://media.kanjialive.com/rad_frames/ishi1.svg",
+        "https://media.kanjialive.com/rad_frames/ishi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1884",
+      "classic_nelson": "3176"
+    }
+  },
+  "jishoData": {
+    "query": "石",
+    "found": true,
+    "taughtIn": "grade 1",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "342",
+    "strokeCount": 5,
+    "meaning": "stone",
+    "kunyomi": [
+      "いし"
+    ],
+    "onyomi": [
+      "セキ",
+      "シャク",
+      "コク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "石",
+        "reading": "セキ",
+        "meaning": "counter for jewels in a watch, counter for transistors, diodes, etc. in an electronic product"
+      },
+      {
+        "example": "石材",
+        "reading": "セキザイ",
+        "meaning": "(building) stone"
+      },
+      {
+        "example": "一石",
+        "reading": "イッセキ",
+        "meaning": "one game (of go)"
+      },
+      {
+        "example": "投石",
+        "reading": "トウセキ",
+        "meaning": "stone throwing"
+      },
+      {
+        "example": "石神",
+        "reading": "シャクジン",
+        "meaning": "stone which is worshipped, image of a god in stone"
+      },
+      {
+        "example": "石南花",
+        "reading": "シャクナゲ",
+        "meaning": "rhododendron"
+      },
+      {
+        "example": "電磁石",
+        "reading": "デンジシャク",
+        "meaning": "electromagnet"
+      },
+      {
+        "example": "界磁石",
+        "reading": "カイジシャク",
+        "meaning": "field magnet"
+      },
+      {
+        "example": "石",
+        "reading": "コク",
+        "meaning": "koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)"
+      },
+      {
+        "example": "石高",
+        "reading": "コクダカ",
+        "meaning": "(crop) yield, stipend (orig. assessed on the basis of a crop), salary"
+      },
+      {
+        "example": "一石",
+        "reading": "イッコク",
+        "meaning": "one koku (measure)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "石",
+        "reading": "いし",
+        "meaning": "stone, jewel, precious stone, flint (in a lighter), stone, stone (in the bladder, kidney etc.), calculus"
+      },
+      {
+        "example": "石垣",
+        "reading": "いしがき",
+        "meaning": "stone wall"
+      },
+      {
+        "example": "墓石",
+        "reading": "ぼせき",
+        "meaning": "tombstone, gravestone"
+      },
+      {
+        "example": "敷石",
+        "reading": "しきいし",
+        "meaning": "paving stone, pavement"
+      }
+    ],
+    "radical": {
+      "symbol": "石",
+      "meaning": "stone"
+    },
+    "parts": [
+      "口",
+      "石"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30707_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077f3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77f3.gif",
+    "uri": "https://jisho.org/search/%E7%9F%B3%23kanji"
+  }
+}

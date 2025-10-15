@@ -1,1 +1,53 @@
-{"id":"聯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"聯","found":true,"newspaperFrequencyRank":"1967","strokeCount":17,"meaning":"party, gang, clique","kunyomi":["つら.なる","つら.ねる"],"onyomi":["レン"],"onyomiExamples":[{"example":"連隊","reading":"レンタイ","meaning":"regiment"},{"example":"連合","reading":"レンゴウ","meaning":"union, alliance, combination, RENGO (Japanese Trade Union Confederation)"},{"example":"対聯","reading":"ツイレン","meaning":"couplet (Chinese poetry), pair of hanging scrolls"}],"kunyomiExamples":[],"radical":{"symbol":"耳","meaning":"ear"},"parts":["幺","耳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32879_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0806f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/806f.gif","uri":"https://jisho.org/search/%E8%81%AF%23kanji"}}
+{
+  "id": "聯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "聯",
+    "found": true,
+    "newspaperFrequencyRank": "1967",
+    "strokeCount": 17,
+    "meaning": "party, gang, clique",
+    "kunyomi": [
+      "つら.なる",
+      "つら.ねる"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "連合",
+        "reading": "レンゴウ",
+        "meaning": "union, combination, alliance, confederation, coalition, association, RENGO (Japanese Trade Union Confederation)"
+      },
+      {
+        "example": "連関",
+        "reading": "レンカン",
+        "meaning": "connection, relation, linkage"
+      },
+      {
+        "example": "対聯",
+        "reading": "ツイレン",
+        "meaning": "couplet (Chinese poetry), pair of hanging scrolls"
+      },
+      {
+        "example": "朝鮮総聯",
+        "reading": "チョウセンソウレン",
+        "meaning": "General Association of Korean Residents in Japan (abbr.), Chongryon"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "耳",
+      "meaning": "ear"
+    },
+    "parts": [
+      "幺",
+      "耳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32879_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0806f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/806f.gif",
+    "uri": "https://jisho.org/search/%E8%81%AF%23kanji"
+  }
+}

@@ -1,1 +1,29 @@
-{"id":"幺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"幺","found":true,"strokeCount":3,"meaning":"short thread radical (no. 52)","kunyomi":["ちいさい"],"onyomi":["ヨウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"幺","meaning":"short, tiny"},"parts":["幺"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24186_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e7a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e7a.gif","uri":"https://jisho.org/search/%E5%B9%BA%23kanji"}}
+{
+  "id": "幺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幺",
+    "found": true,
+    "strokeCount": 3,
+    "meaning": "short thread radical (no. 52)",
+    "kunyomi": [
+      "ちいさい"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "幺",
+      "meaning": "short, tiny"
+    },
+    "parts": [
+      "幺"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24186_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e7a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e7a.gif",
+    "uri": "https://jisho.org/search/%E5%B9%BA%23kanji"
+  }
+}

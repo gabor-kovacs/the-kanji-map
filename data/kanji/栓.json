@@ -1,1 +1,53 @@
-{"id":"栓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"栓","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2199","strokeCount":10,"meaning":"plug, bolt, cork, bung, stopper","kunyomi":[],"onyomi":["セン"],"onyomiExamples":[{"example":"栓","reading":"セン","meaning":"stopper, cork, plug, bung, tap, faucet, stopcock"},{"example":"栓抜き","reading":"センヌキ","meaning":"bottle opener, corkscrew"},{"example":"脳血栓","reading":"ノウケッセン","meaning":"cerebral thrombosis"},{"example":"血栓","reading":"ケッセン","meaning":"thrombus, blood clot"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["个","木","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26643_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06813.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6813.gif","uri":"https://jisho.org/search/%E6%A0%93%23kanji"}}
+{
+  "id": "栓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "栓",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2199",
+    "strokeCount": 10,
+    "meaning": "plug, bolt, cork, bung, stopper",
+    "kunyomi": [],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "栓",
+        "reading": "セン",
+        "meaning": "stopper, cork, plug, bung, tap, faucet, stopcock"
+      },
+      {
+        "example": "栓抜き",
+        "reading": "センヌキ",
+        "meaning": "bottle opener, corkscrew"
+      },
+      {
+        "example": "脳血栓",
+        "reading": "ノウケッセン",
+        "meaning": "cerebral thrombosis"
+      },
+      {
+        "example": "血栓",
+        "reading": "ケッセン",
+        "meaning": "thrombus, blood clot"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "个",
+      "木",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26643_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06813.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6813.gif",
+    "uri": "https://jisho.org/search/%E6%A0%93%23kanji"
+  }
+}

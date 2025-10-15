@@ -1,1 +1,47 @@
-{"id":"逼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"逼","found":true,"strokeCount":12,"meaning":"urge, force, imminent, spur on","kunyomi":["せま.る","むかばき"],"onyomi":["フク","ヒツ","ヒョク","ヒキ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"迫る","reading":"せまる","meaning":"to approach, to draw near, to be imminent, to press (someone for something), to urge, to compel"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["一","口","田","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36924_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0903c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/903c.gif","uri":"https://jisho.org/search/%E9%80%BC%23kanji"}}
+{
+  "id": "逼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逼",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "urge, force, imminent, spur on",
+    "kunyomi": [
+      "せま.る",
+      "むかばき"
+    ],
+    "onyomi": [
+      "フク",
+      "ヒツ",
+      "ヒョク",
+      "ヒキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "迫る",
+        "reading": "せまる",
+        "meaning": "to approach, to draw near, to be imminent, to press (someone for something), to urge, to compel"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "一",
+      "口",
+      "田",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36924_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0903c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/903c.gif",
+    "uri": "https://jisho.org/search/%E9%80%BC%23kanji"
+  }
+}

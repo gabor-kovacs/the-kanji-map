@@ -1,1 +1,69 @@
-{"id":"膨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"膨","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1293","strokeCount":16,"meaning":"swell, get fat, thick","kunyomi":["ふく.らむ","ふく.れる"],"onyomi":["ボウ"],"onyomiExamples":[{"example":"膨張","reading":"ボウチョウ","meaning":"expansion, swelling, increase, growth"},{"example":"膨大","reading":"ボウダイ","meaning":"huge, vast, enormous, colossal, extensive, large, swelling, expansion"},{"example":"海膨","reading":"カイボウ","meaning":"rise"}],"kunyomiExamples":[{"example":"膨らむ","reading":"ふくらむ","meaning":"to expand, to swell (out), to get big, to become inflated"},{"example":"膨れる","reading":"ふくれる","meaning":"to swell (out), to expand, to be inflated, to distend, to bulge, to get cross, to get sulky, to pout"}],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["十","口","土","并","彡","月","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33192_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a8.gif","uri":"https://jisho.org/search/%E8%86%A8%23kanji"}}
+{
+  "id": "膨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膨",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1293",
+    "strokeCount": 16,
+    "meaning": "swell, get fat, thick",
+    "kunyomi": [
+      "ふく.らむ",
+      "ふく.れる"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膨張",
+        "reading": "ボウチョウ",
+        "meaning": "expansion, swelling, increase, growth"
+      },
+      {
+        "example": "膨大",
+        "reading": "ボウダイ",
+        "meaning": "huge, vast, enormous, colossal, extensive, large, swelling, expansion"
+      },
+      {
+        "example": "海膨",
+        "reading": "カイボウ",
+        "meaning": "rise"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "膨らむ",
+        "reading": "ふくらむ",
+        "meaning": "to expand, to swell (out), to get big, to become inflated"
+      },
+      {
+        "example": "膨れる",
+        "reading": "ふくれる",
+        "meaning": "to swell (out), to expand, to be inflated, to distend, to bulge, to get cross, to get sulky, to pout"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "十",
+      "口",
+      "土",
+      "并",
+      "彡",
+      "月",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33192_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a8.gif",
+    "uri": "https://jisho.org/search/%E8%86%A8%23kanji"
+  }
+}

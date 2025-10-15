@@ -1,1 +1,45 @@
-{"id":"鯢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鯢","found":true,"strokeCount":19,"meaning":"salamander, female whale, small fish, old person's teeth","kunyomi":["さんしょううお"],"onyomi":["ゲイ"],"onyomiExamples":[{"example":"鯨波","reading":"ゲイハ","meaning":"raging waves, battle cry, war cry"}],"kunyomiExamples":[],"radical":{"symbol":"魚","meaning":"fish"},"parts":["儿","杰","田","臼","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39906_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09be2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9be2.gif","uri":"https://jisho.org/search/%E9%AF%A2%23kanji"}}
+{
+  "id": "鯢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯢",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "salamander, female whale, small fish, old person's teeth",
+    "kunyomi": [
+      "さんしょううお"
+    ],
+    "onyomi": [
+      "ゲイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鯨波",
+        "reading": "ゲイハ",
+        "meaning": "raging waves, battle cry, war cry"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【サンショウウオ】",
+        "reading": "salamander",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "儿",
+      "杰",
+      "田",
+      "臼",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39906_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09be2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9be2.gif",
+    "uri": "https://jisho.org/search/%E9%AF%A2%23kanji"
+  }
+}

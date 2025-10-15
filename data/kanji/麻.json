@@ -1,1 +1,82 @@
-{"id":"麻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"麻","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1142","strokeCount":11,"meaning":"hemp, flax, numb","kunyomi":["あさ"],"onyomi":["マ","マア"],"onyomiExamples":[{"example":"麻布","reading":"アサヌノ","meaning":"hemp cloth, linen"},{"example":"麻酔","reading":"マスイ","meaning":"anaesthesia, anesthesia"},{"example":"大麻","reading":"タイマ","meaning":"hemp, cannabis, marijuana, pot, hashish, Shinto paper offerings"},{"example":"胡麻","reading":"ゴマ","meaning":"sesame seeds, sesame (Sesamum indicum)"},{"example":"麻雀","reading":"マージャン","meaning":"mahjong, mah-jongg"}],"kunyomiExamples":[{"example":"麻","reading":"あさ","meaning":"cannabis (Cannabis sativa), hemp (plant), hemp (fiber), linen, flax, jute"},{"example":"麻布","reading":"あさぬの","meaning":"hemp cloth, linen"},{"example":"大麻","reading":"たいま","meaning":"hemp, cannabis, marijuana, pot, hashish, Shinto paper offerings"},{"example":"絹麻","reading":"きぬあさ","meaning":"thin linen polished to appear like silk"}],"radical":{"symbol":"麻","meaning":"hemp, flax"},"parts":["广","木","麻"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40635_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ebb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ebb.gif","uri":"https://jisho.org/search/%E9%BA%BB%23kanji"}}
+{
+  "id": "麻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麻",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1142",
+    "strokeCount": 11,
+    "meaning": "hemp, flax, numb",
+    "kunyomi": [
+      "あさ"
+    ],
+    "onyomi": [
+      "マ",
+      "マア"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麻布",
+        "reading": "アサヌノ",
+        "meaning": "hemp cloth, linen"
+      },
+      {
+        "example": "麻酔",
+        "reading": "マスイ",
+        "meaning": "anaesthesia, anesthesia"
+      },
+      {
+        "example": "大麻",
+        "reading": "タイマ",
+        "meaning": "hemp, cannabis, marijuana, pot, hashish, Shinto paper offerings"
+      },
+      {
+        "example": "胡麻",
+        "reading": "ゴマ",
+        "meaning": "sesame seeds, sesame (Sesamum indicum)"
+      },
+      {
+        "example": "麻雀",
+        "reading": "マージャン",
+        "meaning": "mahjong, mah-jongg"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "麻",
+        "reading": "あさ",
+        "meaning": "cannabis (Cannabis sativa), hemp (plant), hemp (fiber), linen, flax, jute"
+      },
+      {
+        "example": "麻布",
+        "reading": "あさぬの",
+        "meaning": "hemp cloth, linen"
+      },
+      {
+        "example": "大麻",
+        "reading": "たいま",
+        "meaning": "hemp, cannabis, marijuana, pot, hashish, Shinto paper offerings"
+      },
+      {
+        "example": "絹麻",
+        "reading": "きぬあさ",
+        "meaning": "thin linen polished to appear like silk"
+      }
+    ],
+    "radical": {
+      "symbol": "麻",
+      "meaning": "hemp, flax"
+    },
+    "parts": [
+      "广",
+      "木",
+      "麻"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40635_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ebb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ebb.gif",
+    "uri": "https://jisho.org/search/%E9%BA%BB%23kanji"
+  }
+}

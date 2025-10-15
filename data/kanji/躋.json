@@ -1,1 +1,40 @@
-{"id":"躋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"躋","found":true,"strokeCount":21,"meaning":"climb","kunyomi":["のぼ.る"],"onyomi":["セイ","サイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["亠","刀","口","廾","止","氏","足","齊"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36491_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e8b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e8b.gif","uri":"https://jisho.org/search/%E8%BA%8B%23kanji"}}
+{
+  "id": "躋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "躋",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "climb",
+    "kunyomi": [
+      "のぼ.る"
+    ],
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "亠",
+      "刀",
+      "口",
+      "廾",
+      "止",
+      "氏",
+      "足",
+      "齊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36491_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e8b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e8b.gif",
+    "uri": "https://jisho.org/search/%E8%BA%8B%23kanji"
+  }
+}

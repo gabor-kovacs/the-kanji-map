@@ -1,1 +1,59 @@
-{"id":"塀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"塀","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1991","strokeCount":12,"meaning":"fence, wall, (kokuji)","kunyomi":[],"onyomi":["ヘイ","ベイ"],"onyomiExamples":[{"example":"塀","reading":"ヘイ","meaning":"wall, fence"},{"example":"塀越し","reading":"ヘイゴシ","meaning":"over a wall, crossing a fence"},{"example":"土塀","reading":"ドベイ","meaning":"mud wall, earthen wall, plaster wall"},{"example":"高塀","reading":"タカベイ","meaning":"tall fence"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["ノ","ハ","一","二","土","尸","廾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22592_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05840.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5840.gif","uri":"https://jisho.org/search/%E5%A1%80%23kanji"}}
+{
+  "id": "塀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "塀",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1991",
+    "strokeCount": 12,
+    "meaning": "fence, wall, (kokuji)",
+    "kunyomi": [],
+    "onyomi": [
+      "ヘイ",
+      "ベイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "塀",
+        "reading": "ヘイ",
+        "meaning": "wall, fence"
+      },
+      {
+        "example": "塀越し",
+        "reading": "ヘイゴシ",
+        "meaning": "over a wall, crossing a fence"
+      },
+      {
+        "example": "土塀",
+        "reading": "ドベイ",
+        "meaning": "mud wall, earthen wall, plaster wall"
+      },
+      {
+        "example": "高塀",
+        "reading": "タカベイ",
+        "meaning": "tall fence"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "一",
+      "二",
+      "土",
+      "尸",
+      "廾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22592_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05840.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5840.gif",
+    "uri": "https://jisho.org/search/%E5%A1%80%23kanji"
+  }
+}

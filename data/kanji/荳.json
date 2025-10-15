@@ -1,1 +1,47 @@
-{"id":"荳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"荳","found":true,"strokeCount":10,"meaning":"bean, nutmeg","kunyomi":["まめ"],"onyomi":["トウ","ズ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"豆","reading":"まめ","meaning":"legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses), bean, pea, soya bean (Glycine max), soybean, soy, female genitalia (esp. the clitoris), kidney, small, miniature, baby, midget, small-scale, child"},{"example":"肉刺","reading":"まめ","meaning":"blister, corn"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["口","并","艾","豆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33651_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08373.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8373.gif","uri":"https://jisho.org/search/%E8%8D%B3%23kanji"}}
+{
+  "id": "荳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "荳",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "bean, nutmeg",
+    "kunyomi": [
+      "まめ"
+    ],
+    "onyomi": [
+      "トウ",
+      "ズ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "豆",
+        "reading": "まめ",
+        "meaning": "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses), bean, pea, soya bean (Glycine max), soybean, soy, female genitalia (esp. the clitoris), kidney, small, miniature, baby, midget, small-scale, child"
+      },
+      {
+        "example": "肉刺",
+        "reading": "まめ",
+        "meaning": "blister, corn"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "口",
+      "并",
+      "艾",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33651_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08373.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8373.gif",
+    "uri": "https://jisho.org/search/%E8%8D%B3%23kanji"
+  }
+}

@@ -1,1 +1,43 @@
-{"id":"奚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"奚","found":true,"strokeCount":10,"meaning":"servant, what, why","kunyomi":["なんぞ"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"奚琴","reading":"ケイキン","meaning":"xiqin (2-stringed Chinese musical instrument)"}],"kunyomiExamples":[{"example":"何ぞ","reading":"なんぞ","meaning":"something, what, why, how"}],"radical":{"symbol":"大","meaning":"big, very"},"parts":["大","幺","爪"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22874_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0595a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/595a.gif","uri":"https://jisho.org/search/%E5%A5%9A%23kanji"}}
+{
+  "id": "奚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奚",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "servant, what, why",
+    "kunyomi": [
+      "なんぞ"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奚琴",
+        "reading": "ケイキン",
+        "meaning": "xiqin (2-stringed Chinese musical instrument)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "何ぞ",
+        "reading": "なんぞ",
+        "meaning": "something, what, why, how"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "大",
+      "幺",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22874_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0595a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/595a.gif",
+    "uri": "https://jisho.org/search/%E5%A5%9A%23kanji"
+  }
+}

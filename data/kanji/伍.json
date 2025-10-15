@@ -1,1 +1,62 @@
-{"id":"伍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"伍","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1881","strokeCount":6,"meaning":"five, five-man squad, file, line","kunyomi":["いつつ"],"onyomi":["ゴ"],"onyomiExamples":[{"example":"伍","reading":"ゴ","meaning":"company, group, class, troop, rank, file"},{"example":"五","reading":"ゴ","meaning":"five, 5"},{"example":"隊伍","reading":"タイゴ","meaning":"rank (of troops), line, formation, array, procession"},{"example":"落伍","reading":"ラクゴ","meaning":"straggling, falling behind, being left behind, dropping out, falling behind the ranks, falling out of line"}],"kunyomiExamples":[{"example":"五つ","reading":"いつつ","meaning":"five, five years of age, eight o'clock (old time system)"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["五","化"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20237_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f0d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f0d.gif","uri":"https://jisho.org/search/%E4%BC%8D%23kanji"}}
+{
+  "id": "伍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "伍",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1881",
+    "strokeCount": 6,
+    "meaning": "five, five-man squad, file, line",
+    "kunyomi": [
+      "いつつ"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "伍",
+        "reading": "ゴ",
+        "meaning": "company, group, class, troop, rank, file"
+      },
+      {
+        "example": "五",
+        "reading": "ゴ",
+        "meaning": "five, 5"
+      },
+      {
+        "example": "隊伍",
+        "reading": "タイゴ",
+        "meaning": "rank (of troops), line, formation, array, procession"
+      },
+      {
+        "example": "落伍",
+        "reading": "ラクゴ",
+        "meaning": "straggling, falling behind, being left behind, dropping out, falling behind the ranks, falling out of line"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "五つ",
+        "reading": "いつつ",
+        "meaning": "five, five years of age, eight o'clock (old time system)"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "五",
+      "化"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20237_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f0d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f0d.gif",
+    "uri": "https://jisho.org/search/%E4%BC%8D%23kanji"
+  }
+}

@@ -1,1 +1,41 @@
-{"id":"罎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"罎","found":true,"strokeCount":22,"meaning":"bottle, vial, jar","kunyomi":["びん"],"onyomi":["ドン","タン"],"onyomiExamples":[],"kunyomiExamples":[{"example":"瓶","reading":"びん","meaning":"bottle, jar, decanter, flagon, phial, vial"}],"radical":{"symbol":"缶","meaning":"jar"},"parts":["二","凵","厶","日","缶","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32590_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f4e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f4e.gif","uri":"https://jisho.org/search/%E7%BD%8E%23kanji"}}
+{
+  "id": "罎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "罎",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "bottle, vial, jar",
+    "kunyomi": [
+      "びん"
+    ],
+    "onyomi": [
+      "ドン",
+      "タン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "瓶",
+        "reading": "びん",
+        "meaning": "bottle, jar, decanter, flagon, phial, vial"
+      }
+    ],
+    "radical": {
+      "symbol": "缶",
+      "meaning": "jar"
+    },
+    "parts": [
+      "二",
+      "凵",
+      "厶",
+      "日",
+      "缶",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32590_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f4e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f4e.gif",
+    "uri": "https://jisho.org/search/%E7%BD%8E%23kanji"
+  }
+}

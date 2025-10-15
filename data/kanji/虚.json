@@ -1,1 +1,85 @@
-{"id":"虚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"虚","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1454","strokeCount":11,"meaning":"void, emptiness, unpreparedness, crack, fissure, untruth","kunyomi":["むな.しい","うつ.ろ"],"onyomi":["キョ","コ"],"onyomiExamples":[{"example":"虚","reading":"キョ","meaning":"unpreparedness, falsehood, Chinese \"Emptiness\" constellation (one of the 28 mansions)"},{"example":"虚偽","reading":"キョギ","meaning":"falsehood, untruth, lie, misinformation, fallacy (logic)"},{"example":"盈虚","reading":"エイキョ","meaning":"waxing and waning (of the moon), phase, rising and falling (of fortune)"},{"example":"太虚","reading":"タイキョ","meaning":"the sky, the universe, taixu (the great vacuity, in Chinese philosophy, the primordial substance that gives rise to qi)"},{"example":"虚偽","reading":"キョギ","meaning":"falsehood, untruth, lie, misinformation, fallacy (logic)"},{"example":"虚空","reading":"コクウ","meaning":"empty space, empty sky"}],"kunyomiExamples":[{"example":"虚しい","reading":"むなしい","meaning":"empty, void, vacant, vain, fruitless, futile, ineffective, lifeless"},{"example":"虚ろ","reading":"うつろ","meaning":"cavity, hollow, void, hollow (voice, smile, etc.), blank (eyes, look, etc.), vacant (expression, stare, etc.), empty (words, heart, etc.)"},{"example":"虚舟","reading":"うつろぶね","meaning":"unidentified craft said to have washed ashore in Ibaraki Prefecture during the Edo period (sometimes alleged to have been a UFO)"}],"radical":{"symbol":"虍","meaning":"tiger stripes"},"parts":["一","匕","卜","厂","虍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34394_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865a.gif","uri":"https://jisho.org/search/%E8%99%9A%23kanji"}}
+{
+  "id": "虚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虚",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1454",
+    "strokeCount": 11,
+    "meaning": "void, emptiness, unpreparedness, crack, fissure, untruth",
+    "kunyomi": [
+      "むな.しい",
+      "うつ.ろ"
+    ],
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虚",
+        "reading": "キョ",
+        "meaning": "unpreparedness, falsehood, Chinese \"Emptiness\" constellation (one of the 28 mansions)"
+      },
+      {
+        "example": "虚偽",
+        "reading": "キョギ",
+        "meaning": "falsehood, untruth, lie, misinformation, fallacy"
+      },
+      {
+        "example": "盈虚",
+        "reading": "エイキョ",
+        "meaning": "waxing and waning (of the moon), phase, rising and falling (of fortune)"
+      },
+      {
+        "example": "太虚",
+        "reading": "タイキョ",
+        "meaning": "the sky, the heavens, Great Void (in ancient Chinese philosophy, the primordial substance that gives rise to qi)"
+      },
+      {
+        "example": "虚偽",
+        "reading": "キョギ",
+        "meaning": "falsehood, untruth, lie, misinformation, fallacy"
+      },
+      {
+        "example": "虚空",
+        "reading": "コクウ",
+        "meaning": "empty space, empty sky"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虚しい",
+        "reading": "むなしい",
+        "meaning": "empty, void, vacant, vain, fruitless, futile, ineffective, lifeless"
+      },
+      {
+        "example": "虚ろ",
+        "reading": "うつろ",
+        "meaning": "cavity, hollow, void, hollow (voice, smile, etc.), blank (eyes, look, etc.), vacant (expression, stare, etc.), empty (words, heart, etc.)"
+      },
+      {
+        "example": "虚舟",
+        "reading": "うつろぶね",
+        "meaning": "unidentified craft said to have washed ashore in Ibaraki Prefecture during the Edo period (sometimes alleged to have been a UFO)"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "tiger stripes"
+    },
+    "parts": [
+      "一",
+      "匕",
+      "卜",
+      "厂",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34394_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865a.gif",
+    "uri": "https://jisho.org/search/%E8%99%9A%23kanji"
+  }
+}

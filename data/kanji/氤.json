@@ -1,1 +1,36 @@
-{"id":"氤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"氤","found":true,"strokeCount":10,"meaning":"spirited","kunyomi":[],"onyomi":["イン"],"onyomiExamples":[{"example":"氤氳","reading":"インウン","meaning":"energetic, lively, dynamic, vigorous"}],"kunyomiExamples":[],"radical":{"symbol":"气","meaning":"steam, breath"},"parts":["乞","囗","大","气"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27684_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c24.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c24.gif","uri":"https://jisho.org/search/%E6%B0%A4%23kanji"}}
+{
+  "id": "氤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "氤",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "spirited",
+    "kunyomi": [],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "氤氳",
+        "reading": "インウン",
+        "meaning": "energetic, lively, dynamic, vigorous"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "气",
+      "meaning": "steam, breath"
+    },
+    "parts": [
+      "乞",
+      "囗",
+      "大",
+      "气"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27684_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c24.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c24.gif",
+    "uri": "https://jisho.org/search/%E6%B0%A4%23kanji"
+  }
+}

@@ -1,1 +1,86 @@
-{"id":"忍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"忍","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1700","strokeCount":7,"meaning":"endure, bear, put up with, conceal, secrete, spy, sneak","kunyomi":["しの.ぶ","しの.ばせる"],"onyomi":["ニン"],"onyomiExamples":[{"example":"忍","reading":"ニン","meaning":"endurance, forbearance, patience, self-restraint"},{"example":"忍耐","reading":"ニンタイ","meaning":"endurance, perseverance, patience"},{"example":"無生法忍","reading":"ムショウホウニン","meaning":"anutpattika-dharma-ksanti (recognition that nothing really arises or perishes)"},{"example":"中忍","reading":"チュウニン","meaning":"ninja commander"}],"kunyomiExamples":[{"example":"忍","reading":"しのぶ","meaning":"squirrel's foot fern (Davallia mariesii), Lepisorus thunbergianus (species of fern), color of clothing layers under one's overcoat (light green on blue), shinobu-wake (Edo-period women's hairstyle), clothing patterned using squirrel's foot fern"},{"example":"忍ぶ","reading":"しのぶ","meaning":"to conceal oneself, to hide, to endure, to bear, to stand, to put up with"},{"example":"軒忍","reading":"のきしのぶ","meaning":"weeping fern (Lepisorus thunbergianus)"},{"example":"立忍","reading":"たちしのぶ","meaning":"Japanese claw fern (Onychium japonicum), carrot fern"},{"example":"忍ばせる","reading":"しのばせる","meaning":"to conceal, to hide"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["丶","刀","心"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24525_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fcd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fcd.gif","uri":"https://jisho.org/search/%E5%BF%8D%23kanji"}}
+{
+  "id": "忍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "忍",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1700",
+    "strokeCount": 7,
+    "meaning": "endure, bear, put up with, conceal, secrete, spy, sneak",
+    "kunyomi": [
+      "しの.ぶ",
+      "しの.ばせる"
+    ],
+    "onyomi": [
+      "ニン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忍",
+        "reading": "ニン",
+        "meaning": "endurance, forbearance, patience, self-restraint"
+      },
+      {
+        "example": "忍耐",
+        "reading": "ニンタイ",
+        "meaning": "endurance, perseverance, patience"
+      },
+      {
+        "example": "無生法忍",
+        "reading": "ムショウホウニン",
+        "meaning": "anutpattika-dharma-ksanti (recognition that nothing really arises or perishes)"
+      },
+      {
+        "example": "中忍",
+        "reading": "チュウニン",
+        "meaning": "ninja commander"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "忍",
+        "reading": "しのぶ",
+        "meaning": "squirrel's foot fern (Davallia mariesii), Lepisorus thunbergianus (species of fern), color of clothing layers under one's overcoat (light green on blue), shinobu-wake (Edo-period women's hairstyle), clothing patterned using squirrel's foot fern"
+      },
+      {
+        "example": "忍ぶ",
+        "reading": "しのぶ",
+        "meaning": "to conceal oneself, to hide, to endure, to bear, to stand, to put up with"
+      },
+      {
+        "example": "軒忍",
+        "reading": "のきしのぶ",
+        "meaning": "weeping fern (Lepisorus thunbergianus)"
+      },
+      {
+        "example": "立忍",
+        "reading": "たちしのぶ",
+        "meaning": "Japanese claw fern (Onychium japonicum), carrot fern"
+      },
+      {
+        "example": "忍ばせる",
+        "reading": "しのばせる",
+        "meaning": "to conceal, to hide"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "丶",
+      "刀",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24525_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fcd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fcd.gif",
+    "uri": "https://jisho.org/search/%E5%BF%8D%23kanji"
+  }
+}

@@ -1,1 +1,73 @@
-{"id":"訛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"訛","found":true,"strokeCount":11,"meaning":"accent, dialect","kunyomi":["なま.る","なま.り","あやま.る"],"onyomi":["カ"],"onyomiExamples":[{"example":"訛音","reading":"カオン","meaning":"accent"},{"example":"訛言","reading":"カゲン","meaning":"non-standard pronunciation, dialect, mistaken rumor, baseless gossip"},{"example":"転訛","reading":"テンカ","meaning":"corruption, bastardisation"}],"kunyomiExamples":[{"example":"訛る","reading":"なまる","meaning":"to speak with an accent, to be corrupted (of word), to mispronounce"},{"example":"訛り","reading":"なまり","meaning":"accent (of one's speech), dialect, provincialism, patois, corrupted form (e.g. of word), mispronunciation"},{"example":"国訛り","reading":"くになまり","meaning":"provincial dialect, local accent"},{"example":"お国訛り","reading":"おくになまり","meaning":"one's native dialect"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["匕","化","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35355_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a1b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a1b.gif","uri":"https://jisho.org/search/%E8%A8%9B%23kanji"}}
+{
+  "id": "訛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "訛",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "accent, dialect",
+    "kunyomi": [
+      "なま.る",
+      "なま.り",
+      "あやま.る"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "訛音",
+        "reading": "カオン",
+        "meaning": "accent"
+      },
+      {
+        "example": "訛言",
+        "reading": "カゲン",
+        "meaning": "non-standard pronunciation, dialect, mistaken rumor, baseless gossip"
+      },
+      {
+        "example": "転訛",
+        "reading": "テンカ",
+        "meaning": "corruption, bastardisation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "訛る",
+        "reading": "なまる",
+        "meaning": "to speak with an accent, to be corrupted (of word), to mispronounce"
+      },
+      {
+        "example": "訛り",
+        "reading": "なまり",
+        "meaning": "accent (of one's speech), dialect, provincialism, patois, corrupted form (e.g. of word), mispronunciation"
+      },
+      {
+        "example": "国訛り",
+        "reading": "くになまり",
+        "meaning": "provincial dialect, local accent"
+      },
+      {
+        "example": "お国訛り",
+        "reading": "おくになまり",
+        "meaning": "one's native dialect"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "匕",
+      "化",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35355_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a1b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a1b.gif",
+    "uri": "https://jisho.org/search/%E8%A8%9B%23kanji"
+  }
+}

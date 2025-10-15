@@ -1,1 +1,296 @@
-{"id":"欧","kanjialiveData":{"kanji":{"character":"欧","meaning":{"english":"Europe"},"strokes":{"count":8,"timings":[0,0.933333,2.266667,3.266667,5.333333,6.6,8.2,9.533333,10.866667],"images":["https://media.kanjialive.com/kanji_strokes/(sei)ou_1.svg","https://media.kanjialive.com/kanji_strokes/(sei)ou_2.svg","https://media.kanjialive.com/kanji_strokes/(sei)ou_3.svg","https://media.kanjialive.com/kanji_strokes/(sei)ou_4.svg","https://media.kanjialive.com/kanji_strokes/(sei)ou_5.svg","https://media.kanjialive.com/kanji_strokes/(sei)ou_6.svg","https://media.kanjialive.com/kanji_strokes/(sei)ou_7.svg","https://media.kanjialive.com/kanji_strokes/(sei)ou_8.svg"]},"onyomi":{"romaji":"ou","katakana":"オウ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(sei)ou_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(sei)ou_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(sei)ou_00.webm"}},"radical":{"character":"⽋","strokes":4,"image":"https://media.kanjialive.com/radical_character/akubi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"あくび","romaji":"akubi"},"meaning":{"english":"to lack, yawn"},"animation":["https://media.kanjialive.com/rad_frames/akubi0.svg","https://media.kanjialive.com/rad_frames/akubi1.svg","https://media.kanjialive.com/rad_frames/akubi2.svg"]},"references":{"grade":null,"kodansha":"596","classic_nelson":"2413"},"examples":[{"japanese":"欧州（おうしゅう）","meaning":{"english":"Europe"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_a.mp3"}},{"japanese":"欧米（おうべい）","meaning":{"english":"Europe and America, the West"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_b.mp3"}},{"japanese":"西欧（せいおう）","meaning":{"english":"Western Europe"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_c.mp3"}},{"japanese":"東欧（とうおう）","meaning":{"english":"Eastern Europe"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_d.mp3"}},{"japanese":"南欧（なんおう）","meaning":{"english":"Southern Europe"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_e.mp3"}},{"japanese":"北欧（ほくおう）","meaning":{"english":"Northern Europe"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_f.mp3"}}]},"jishoData":{"query":"欧","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"421","strokeCount":8,"meaning":"Europe","kunyomi":["うた.う","は.く"],"onyomi":["オウ"],"onyomiExamples":[{"example":"欧","reading":"オウ","meaning":"Europe"},{"example":"欧州","reading":"オウシュウ","meaning":"Europe"},{"example":"東欧","reading":"トウオウ","meaning":"Eastern Europe"},{"example":"西欧","reading":"セイオウ","meaning":"Western Europe, the West, the Occident, Europe"}],"kunyomiExamples":[],"radical":{"symbol":"欠","meaning":"lack, yawn"},"parts":["ノ","丶","匚","欠"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27431_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b27.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b27.gif","uri":"https://jisho.org/search/%E6%AC%A7%23kanji"}}
+{
+  "id": "欧",
+  "kanjialiveData": {
+    "_id": "54317ad9791eba5146ee48ad",
+    "_rev": "12-7bc98264c916fe518adc147db857d062",
+    "rad_name_ja": "あくび",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "Europe",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "欧州（おうしゅう）",
+        "meaning": {
+          "english": "Europe"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "欧米（おうべい）",
+        "meaning": {
+          "english": "Europe and America, the West"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "西欧（せいおう）",
+        "meaning": {
+          "english": "Western Europe"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "東欧（とうおう）",
+        "meaning": {
+          "english": "Eastern Europe"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "南欧（なんおう）",
+        "meaning": {
+          "english": "Southern Europe"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "北欧（ほくおう）",
+        "meaning": {
+          "english": "Northern Europe"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)ou_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(sei)ou_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(sei)ou_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(sei)ou_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "欧",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=欧",
+    "rad_name_search": [
+      "akubi"
+    ],
+    "rad_order": 99,
+    "txt_books": [
+      {
+        "chapter": "1",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "(sei)ou",
+    "rad_utf": "⽋",
+    "stroketimes": [
+      0,
+      0.933333,
+      2.266667,
+      3.266667,
+      5.333333,
+      6.6,
+      8.2,
+      9.533333,
+      10.866667
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "596",
+    "rad_name": "akubi",
+    "dicn": "2413",
+    "mn_hint": "Region 区 where people speak 欠 <span class='note'>(orig. \"open mouth\")</span> many languages.",
+    "rad_stroke": 4,
+    "onyomi_ja": "オウ",
+    "rad_meaning": "to lack, yawn",
+    "onyomi": "ou",
+    "ka_id": "ka_1132",
+    "onyomi_search": [
+      "ou",
+      "ou"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "Europe",
+      "Europe"
+    ],
+    "onyomi_ja_search": [
+      "オウ",
+      "オウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "to lack",
+      "to",
+      "lack",
+      "yawn",
+      "to lack, yawn"
+    ],
+    "rad_name_ja_search": [
+      "あくび"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:1",
+      "ik1:c1",
+      "jtr",
+      "jtr:7",
+      "jtr:c7"
+    ],
+    "rad_name_file": "akubi",
+    "kanji": {
+      "character": "欧",
+      "meaning": {
+        "english": "Europe"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.933333,
+          2.266667,
+          3.266667,
+          5.333333,
+          6.6,
+          8.2,
+          9.533333,
+          10.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(sei)ou_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(sei)ou_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(sei)ou_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(sei)ou_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(sei)ou_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(sei)ou_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(sei)ou_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(sei)ou_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ou",
+        "katakana": "オウ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(sei)ou_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(sei)ou_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(sei)ou_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽋",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/akubi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "あくび",
+        "romaji": "akubi"
+      },
+      "meaning": {
+        "english": "to lack, yawn"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/akubi0.svg",
+        "https://media.kanjialive.com/rad_frames/akubi1.svg",
+        "https://media.kanjialive.com/rad_frames/akubi2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "596",
+      "classic_nelson": "2413"
+    }
+  },
+  "jishoData": {
+    "query": "欧",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "421",
+    "strokeCount": 8,
+    "meaning": "Europe",
+    "kunyomi": [
+      "うた.う",
+      "は.く"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "欧",
+        "reading": "オウ",
+        "meaning": "Europe"
+      },
+      {
+        "example": "欧州",
+        "reading": "オウシュウ",
+        "meaning": "Europe"
+      },
+      {
+        "example": "東欧",
+        "reading": "トウオウ",
+        "meaning": "Eastern Europe"
+      },
+      {
+        "example": "西欧",
+        "reading": "セイオウ",
+        "meaning": "Western Europe, the West, the Occident, Europe"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "欠",
+      "meaning": "lack, yawn"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "匚",
+      "欠"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27431_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b27.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b27.gif",
+    "uri": "https://jisho.org/search/%E6%AC%A7%23kanji"
+  }
+}

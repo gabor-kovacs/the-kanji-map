@@ -1,1 +1,39 @@
-{"id":"侈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"侈","found":true,"strokeCount":8,"meaning":"luxury, pride","kunyomi":["おご.る"],"onyomi":["シ"],"onyomiExamples":[{"example":"奢侈","reading":"シャシ","meaning":"luxury, extravagance"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","夕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20360_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f88.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f88.gif","uri":"https://jisho.org/search/%E4%BE%88%23kanji"}}
+{
+  "id": "侈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "侈",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "luxury, pride",
+    "kunyomi": [
+      "おご.る"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奢侈",
+        "reading": "シャシ",
+        "meaning": "luxury, extravagance"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "夕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20360_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f88.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f88.gif",
+    "uri": "https://jisho.org/search/%E4%BE%88%23kanji"
+  }
+}

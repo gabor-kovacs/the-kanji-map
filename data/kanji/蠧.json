@@ -1,1 +1,50 @@
-{"id":"蠧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蠧","found":true,"strokeCount":22,"meaning":"worm-eaten","kunyomi":["きくいむし"],"onyomi":["ト"],"onyomiExamples":[{"example":"紙魚","reading":"シミ","meaning":"true bristletail (any insect of order Thysanura, esp. of family Lepismatidae), Oriental silverfish (Ctenolepisma villosa), someone who is unable to apply what they have read"},{"example":"蠧毒","reading":"トドク","meaning":"insect damage (to crops, clothing, etc.), harm, damage, blight"}],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["冖","口","士","石","虫"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34855_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08827.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8827.gif","uri":"https://jisho.org/search/%E8%A0%A7%23kanji"}}
+{
+  "id": "蠧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蠧",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "worm-eaten",
+    "kunyomi": [
+      "きくいむし"
+    ],
+    "onyomi": [
+      "ト"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "紙魚",
+        "reading": "シミ",
+        "meaning": "true bristletail (any insect of order Thysanura, esp. of family Lepismatidae), Oriental silverfish (Ctenolepisma villosa), someone who is unable to apply what they have read"
+      },
+      {
+        "example": "蠧毒",
+        "reading": "トドク",
+        "meaning": "insect damage (to crops, clothing, etc.), harm, damage, blight"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "木食い虫",
+        "reading": "きくいむし",
+        "meaning": "bark beetle (Scolytidae spp.), gribble (Limnoria lignorum), grain borer, wood borer"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "冖",
+      "口",
+      "士",
+      "石",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34855_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08827.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8827.gif",
+    "uri": "https://jisho.org/search/%E8%A0%A7%23kanji"
+  }
+}

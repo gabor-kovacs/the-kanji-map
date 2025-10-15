@@ -1,1 +1,37 @@
-{"id":"腆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"腆","found":true,"strokeCount":12,"meaning":"much, abundant, kind, considerate","kunyomi":["あつ.い"],"onyomi":["テン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["ハ","一","冂","日","月","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33094_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08146.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8146.gif","uri":"https://jisho.org/search/%E8%85%86%23kanji"}}
+{
+  "id": "腆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腆",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "much, abundant, kind, considerate",
+    "kunyomi": [
+      "あつ.い"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "冂",
+      "日",
+      "月",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33094_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08146.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8146.gif",
+    "uri": "https://jisho.org/search/%E8%85%86%23kanji"
+  }
+}

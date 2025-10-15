@@ -1,1 +1,77 @@
-{"id":"頚","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"頚","found":true,"newspaperFrequencyRank":"2470","strokeCount":14,"meaning":"neck, head","kunyomi":["くび"],"onyomi":["ケイ"],"onyomiExamples":[{"example":"頚骨","reading":"ケイコツ","meaning":"neckbones"},{"example":"頚神経叢","reading":"ケイシンケイソウ","meaning":"cervical plexus"},{"example":"子宮頸","reading":"シキュウケイ","meaning":"uterine cervix"},{"example":"斜頸","reading":"シャケイ","meaning":"torticollis, wryneck, stiff neck"}],"kunyomiExamples":[{"example":"首","reading":"くび","meaning":"neck, head, dismissal (from a job), firing, sacking"},{"example":"首飾り","reading":"くびかざり","meaning":"necklace, choker"},{"example":"上頸","reading":"あげくび","meaning":"neckband, round upright collar (on some traditional Japanese clothing)"},{"example":"鶴首","reading":"つるくび","meaning":"item with a long slender neck (e.g. vase, bottle), long-necked person"}],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ハ","又","土","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38938_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0981a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/981a.gif","uri":"https://jisho.org/search/%E9%A0%9A%23kanji"}}
+{
+  "id": "頚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頚",
+    "found": true,
+    "newspaperFrequencyRank": "2470",
+    "strokeCount": 14,
+    "meaning": "neck, head",
+    "kunyomi": [
+      "くび"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頚骨",
+        "reading": "ケイコツ",
+        "meaning": "neckbones"
+      },
+      {
+        "example": "頚神経叢",
+        "reading": "ケイシンケイソウ",
+        "meaning": "cervical plexus"
+      },
+      {
+        "example": "子宮頸",
+        "reading": "シキュウケイ",
+        "meaning": "(uterine) cervix"
+      },
+      {
+        "example": "鼠径",
+        "reading": "ソケイ",
+        "meaning": "groin, inguinal region"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "首",
+        "reading": "くび",
+        "meaning": "neck, head, dismissal (from a job), firing, sacking"
+      },
+      {
+        "example": "首飾り",
+        "reading": "くびかざり",
+        "meaning": "necklace, choker"
+      },
+      {
+        "example": "上頸",
+        "reading": "あげくび",
+        "meaning": "neckband, round upright collar (on some traditional Japanese clothing)"
+      },
+      {
+        "example": "鶴首",
+        "reading": "つるくび",
+        "meaning": "item with a long slender neck (e.g. vase, bottle), long-necked person"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ハ",
+      "又",
+      "土",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38938_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0981a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/981a.gif",
+    "uri": "https://jisho.org/search/%E9%A0%9A%23kanji"
+  }
+}

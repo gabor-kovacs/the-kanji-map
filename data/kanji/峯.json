@@ -1,1 +1,50 @@
-{"id":"峯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"峯","found":true,"newspaperFrequencyRank":"2079","strokeCount":10,"meaning":"peak, summit","kunyomi":["みね","ね"],"onyomi":["ホウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"峰","reading":"みね","meaning":"peak, summit, ridge, top, back of a blade"},{"example":"雲の峰","reading":"くものみね","meaning":"clouds that stand like a mountain peak during the summer"},{"example":"雲の峰","reading":"くものみね","meaning":"clouds that stand like a mountain peak during the summer"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["一","夂","山","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23791_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cef.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cef.gif","uri":"https://jisho.org/search/%E5%B3%AF%23kanji"}}
+{
+  "id": "峯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "峯",
+    "found": true,
+    "newspaperFrequencyRank": "2079",
+    "strokeCount": 10,
+    "meaning": "peak, summit",
+    "kunyomi": [
+      "みね",
+      "ね"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "峰",
+        "reading": "みね",
+        "meaning": "peak, summit, ridge, top, back of a blade"
+      },
+      {
+        "example": "雲の峰",
+        "reading": "くものみね",
+        "meaning": "clouds that stand like a mountain peak during the summer"
+      },
+      {
+        "example": "雲の峰",
+        "reading": "くものみね",
+        "meaning": "clouds that stand like a mountain peak during the summer"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "一",
+      "夂",
+      "山",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23791_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cef.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cef.gif",
+    "uri": "https://jisho.org/search/%E5%B3%AF%23kanji"
+  }
+}

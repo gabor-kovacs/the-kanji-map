@@ -1,1 +1,323 @@
-{"id":"古","kanjialiveData":{"kanji":{"character":"古","meaning":{"english":"old"},"strokes":{"count":5,"timings":[1.272,2.2,3.4,4.4,5.866,6.533333],"images":["https://media.kanjialive.com/kanji_strokes/furu(i)_1.svg","https://media.kanjialive.com/kanji_strokes/furu(i)_2.svg","https://media.kanjialive.com/kanji_strokes/furu(i)_3.svg","https://media.kanjialive.com/kanji_strokes/furu(i)_4.svg","https://media.kanjialive.com/kanji_strokes/furu(i)_5.svg"]},"onyomi":{"romaji":"ko","katakana":"コ"},"kunyomi":{"romaji":"furu, furui","hiragana":"ふる"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/furu(i)_5.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/furu(i)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/furu(i)_00.webm"}},"radical":{"character":"⼝","strokes":3,"image":"https://media.kanjialive.com/radical_character/kuchi.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"くち","romaji":"kuchi"},"meaning":{"english":"mouth"},"animation":["https://media.kanjialive.com/rad_frames/kuchi0.svg","https://media.kanjialive.com/rad_frames/kuchi1.svg","https://media.kanjialive.com/rad_frames/kuchi2.svg"]},"references":{"grade":2,"kodansha":"1262","classic_nelson":"770"},"examples":[{"japanese":"古典（こてん）","meaning":{"english":"classics"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/furu(i)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/furu(i)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/furu(i)_06_a.mp3"}},{"japanese":"古代（こだい）","meaning":{"english":"ancient times"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/furu(i)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/furu(i)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/furu(i)_06_b.mp3"}},{"japanese":"古い（ふるい）","meaning":{"english":"old"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/furu(i)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/furu(i)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/furu(i)_06_c.mp3"}},{"japanese":"古新聞（ふるしんぶん）","meaning":{"english":"old newspapers"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/furu(i)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/furu(i)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/furu(i)_06_d.mp3"}}]},"jishoData":{"query":"古","found":true,"taughtIn":"grade 2","jlptLevel":"N4","newspaperFrequencyRank":"509","strokeCount":5,"meaning":"old","kunyomi":["ふる.い","ふる-","-ふる.す"],"onyomi":["コ"],"onyomiExamples":[{"example":"古参","reading":"コサン","meaning":"seniority, long service"},{"example":"古今","reading":"ココン","meaning":"ancient and modern times, all ages, past and present"},{"example":"蒙古","reading":"モウコ","meaning":"Mongolia (region), Greater Mongolia, Mongolian Plateau, Mongols (nomadic tribe)"},{"example":"懐古","reading":"カイコ","meaning":"reminiscence, nostalgia, thinking fondly of the past, recalling the old days"}],"kunyomiExamples":[{"example":"古い","reading":"ふるい","meaning":"old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date"},{"example":"古家","reading":"ふるいえ","meaning":"old house, deserted house"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["十","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21476_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e4.gif","uri":"https://jisho.org/search/%E5%8F%A4%23kanji"}}
+{
+  "id": "古",
+  "kanjialiveData": {
+    "_id": "54317b0d791eba5146ee4c7c",
+    "_rev": "9-7ff8b7ed01b912ae5cdea2bd263e9cb8",
+    "rad_name_ja": "くち",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "furu, furui",
+    "meaning": "old",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "古典（こてん）",
+        "meaning": {
+          "english": "classics"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/furu(i)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/furu(i)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/furu(i)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "古代（こだい）",
+        "meaning": {
+          "english": "ancient times"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/furu(i)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/furu(i)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/furu(i)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "古い（ふるい）",
+        "meaning": {
+          "english": "old"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/furu(i)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/furu(i)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/furu(i)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "古新聞（ふるしんぶん）",
+        "meaning": {
+          "english": "old newspapers"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/furu(i)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/furu(i)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/furu(i)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ふる、ふるい",
+    "ka_utf": "古",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=古",
+    "rad_name_search": [
+      "kuchi"
+    ],
+    "rad_order": 34,
+    "txt_books": [
+      {
+        "chapter": "6",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "furu(i)",
+    "rad_utf": "⼝",
+    "stroketimes": [
+      1.272,
+      2.2,
+      3.4,
+      4.4,
+      5.866,
+      6.533333
+    ],
+    "kunyomi_ka_display": "ふる",
+    "dick": "1262",
+    "rad_name": "kuchi",
+    "dicn": "770",
+    "mn_hint": "Many 十 words spoken 口 in the past.",
+    "rad_stroke": 3,
+    "onyomi_ja": "コ",
+    "rad_meaning": "mouth",
+    "onyomi": "ko",
+    "ka_id": "ka_9",
+    "onyomi_search": [
+      "ko",
+      "ko"
+    ],
+    "kunyomi_search": [
+      "furu",
+      "furui",
+      "furu, furui"
+    ],
+    "meaning_search": [
+      "old",
+      "old"
+    ],
+    "onyomi_ja_search": [
+      "コ",
+      "コ"
+    ],
+    "kunyomi_ja_search": [
+      "ふる",
+      "ふるい",
+      "ふる、ふるい"
+    ],
+    "rad_meaning_search": [
+      "mouth",
+      "mouth"
+    ],
+    "rad_name_ja_search": [
+      "くち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:6",
+      "cij:c6",
+      "ij",
+      "ij:10",
+      "ij:c10",
+      "bk",
+      "bk:8",
+      "bk:c8",
+      "aij3",
+      "aij3:14",
+      "aij3:c14",
+      "aij3:v2",
+      "aij3:v2:14",
+      "aij3:v2:c14",
+      "gen",
+      "gen:9",
+      "gen:c9",
+      "ap",
+      "ap:5",
+      "ap:c5",
+      "kll",
+      "kll:6",
+      "kll:c6"
+    ],
+    "rad_name_file": "kuchi",
+    "kanji": {
+      "character": "古",
+      "meaning": {
+        "english": "old"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          1.272,
+          2.2,
+          3.4,
+          4.4,
+          5.866,
+          6.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/furu(i)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/furu(i)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/furu(i)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/furu(i)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/furu(i)_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ko",
+        "katakana": "コ"
+      },
+      "kunyomi": {
+        "romaji": "furu, furui",
+        "hiragana": "ふる"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/furu(i)_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/furu(i)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/furu(i)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼝",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kuchi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "くち",
+        "romaji": "kuchi"
+      },
+      "meaning": {
+        "english": "mouth"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kuchi0.svg",
+        "https://media.kanjialive.com/rad_frames/kuchi1.svg",
+        "https://media.kanjialive.com/rad_frames/kuchi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1262",
+      "classic_nelson": "770"
+    }
+  },
+  "jishoData": {
+    "query": "古",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "509",
+    "strokeCount": 5,
+    "meaning": "old",
+    "kunyomi": [
+      "ふる.い",
+      "ふる-",
+      "-ふる.す"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "古参",
+        "reading": "コサン",
+        "meaning": "senior, veteran, old-timer"
+      },
+      {
+        "example": "古今",
+        "reading": "ココン",
+        "meaning": "ancient and modern times, all ages, past and present"
+      },
+      {
+        "example": "蒙古",
+        "reading": "モウコ",
+        "meaning": "Mongolia (region), Greater Mongolia, Mongolian Plateau, Mongols (nomadic tribe)"
+      },
+      {
+        "example": "懐古",
+        "reading": "カイコ",
+        "meaning": "reminiscence, nostalgia, thinking fondly of the past, recalling the old days"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "古い",
+        "reading": "ふるい",
+        "meaning": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date"
+      },
+      {
+        "example": "古家",
+        "reading": "ふるいえ",
+        "meaning": "old house, deserted house"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "十",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21476_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e4.gif",
+    "uri": "https://jisho.org/search/%E5%8F%A4%23kanji"
+  }
+}

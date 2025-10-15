@@ -1,1 +1,39 @@
-{"id":"幔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"幔","found":true,"strokeCount":14,"meaning":"curtain","kunyomi":["まく"],"onyomi":["マン","バン"],"onyomiExamples":[{"example":"幔幕","reading":"マンマク","meaning":"curtain, drapery"}],"kunyomiExamples":[],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["又","巾","日","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24148_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e54.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e54.gif","uri":"https://jisho.org/search/%E5%B9%94%23kanji"}}
+{
+  "id": "幔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幔",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "curtain",
+    "kunyomi": [
+      "まく"
+    ],
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "幔幕",
+        "reading": "マンマク",
+        "meaning": "curtain, drapery"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "又",
+      "巾",
+      "日",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24148_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e54.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e54.gif",
+    "uri": "https://jisho.org/search/%E5%B9%94%23kanji"
+  }
+}

@@ -1,1 +1,43 @@
-{"id":"娯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"娯","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1827","strokeCount":10,"meaning":"recreation, pleasure","kunyomi":[],"onyomi":["ゴ"],"onyomiExamples":[{"example":"娯楽","reading":"ゴラク","meaning":"amusement, entertainment, recreation, pleasure, pastime, hobby"},{"example":"娯遊","reading":"ゴユウ","meaning":"amusement, pleasure, recreation, leisure"}],"kunyomiExamples":[],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["ハ","口","女"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23087_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a2f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a2f.gif","uri":"https://jisho.org/search/%E5%A8%AF%23kanji"}}
+{
+  "id": "娯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "娯",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1827",
+    "strokeCount": 10,
+    "meaning": "recreation, pleasure",
+    "kunyomi": [],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "娯楽",
+        "reading": "ゴラク",
+        "meaning": "amusement, entertainment, recreation, pleasure, pastime, hobby"
+      },
+      {
+        "example": "娯遊",
+        "reading": "ゴユウ",
+        "meaning": "amusement, pleasure, recreation, leisure"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23087_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a2f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a2f.gif",
+    "uri": "https://jisho.org/search/%E5%A8%AF%23kanji"
+  }
+}

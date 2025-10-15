@@ -1,1 +1,37 @@
-{"id":"僞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"僞","found":true,"strokeCount":14,"meaning":"lie, falsehood, deceive, pretend","kunyomi":["いつわ.る","いつわ.り","にせ"],"onyomi":["ギ","カ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["化","杰","爪"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20702_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050de.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50de.gif","uri":"https://jisho.org/search/%E5%83%9E%23kanji"}}
+{
+  "id": "僞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "僞",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "lie, falsehood, deceive, pretend",
+    "kunyomi": [
+      "いつわ.る",
+      "いつわ.り",
+      "にせ"
+    ],
+    "onyomi": [
+      "ギ",
+      "カ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "化",
+      "杰",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20702_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050de.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50de.gif",
+    "uri": "https://jisho.org/search/%E5%83%9E%23kanji"
+  }
+}

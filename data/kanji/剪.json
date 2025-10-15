@@ -1,1 +1,54 @@
-{"id":"剪","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"剪","found":true,"strokeCount":11,"meaning":"clip, snip, cut","kunyomi":["き.る","つ.む"],"onyomi":["セン"],"onyomiExamples":[{"example":"剪裁","reading":"センサイ","meaning":"cutting, trimming, shearing, pruning"},{"example":"剪裁機","reading":"センサイキ","meaning":"shearing machine"}],"kunyomiExamples":[{"example":"剪る","reading":"きる","meaning":"to cut, to prune, to trim (branches, leaves, flowers, etc.)"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["一","刀","刈","并","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21098_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0526a.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/526a.gif","uri":"https://jisho.org/search/%E5%89%AA%23kanji"}}
+{
+  "id": "剪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "剪",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "clip, snip, cut",
+    "kunyomi": [
+      "き.る",
+      "つ.む"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剪裁",
+        "reading": "センサイ",
+        "meaning": "cutting, trimming, shearing, pruning"
+      },
+      {
+        "example": "剪裁機",
+        "reading": "センサイキ",
+        "meaning": "shearing machine"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "剪る",
+        "reading": "きる",
+        "meaning": "to cut, to prune, to trim (branches, leaves, flowers, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "一",
+      "刀",
+      "刈",
+      "并",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21098_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0526a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/526a.gif",
+    "uri": "https://jisho.org/search/%E5%89%AA%23kanji"
+  }
+}

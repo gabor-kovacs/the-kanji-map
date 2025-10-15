@@ -1,1 +1,356 @@
-{"id":"移","kanjialiveData":{"kanji":{"character":"移","meaning":{"english":"shift, move, transfer"},"strokes":{"count":11,"timings":[0,1.266667,2.533333,4.266667,5.333333,6.333333,7.533333,9.2,10.066667,11.333333,12.866667,14.466667],"images":["https://media.kanjialive.com/kanji_strokes/i-utsu(su)_1.svg","https://media.kanjialive.com/kanji_strokes/i-utsu(su)_2.svg","https://media.kanjialive.com/kanji_strokes/i-utsu(su)_3.svg","https://media.kanjialive.com/kanji_strokes/i-utsu(su)_4.svg","https://media.kanjialive.com/kanji_strokes/i-utsu(su)_5.svg","https://media.kanjialive.com/kanji_strokes/i-utsu(su)_6.svg","https://media.kanjialive.com/kanji_strokes/i-utsu(su)_7.svg","https://media.kanjialive.com/kanji_strokes/i-utsu(su)_8.svg","https://media.kanjialive.com/kanji_strokes/i-utsu(su)_9.svg","https://media.kanjialive.com/kanji_strokes/i-utsu(su)_10.svg","https://media.kanjialive.com/kanji_strokes/i-utsu(su)_11.svg"]},"onyomi":{"romaji":"i","katakana":"イ"},"kunyomi":{"romaji":"utsu, utsusu, utsuru","hiragana":"うつ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/i-utsu(su)_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/i-utsu(su)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/i-utsu(su)_00.webm"}},"radical":{"character":"⽲","strokes":5,"image":"https://media.kanjialive.com/radical_character/nogihen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"のぎへん","romaji":"nogihen"},"meaning":{"english":"grain"},"animation":["https://media.kanjialive.com/rad_frames/nogihen0.svg","https://media.kanjialive.com/rad_frames/nogihen1.svg","https://media.kanjialive.com/rad_frames/nogihen2.svg"]},"references":{"grade":5,"kodansha":"798","classic_nelson":"3282"},"examples":[{"japanese":"移民（いみん）","meaning":{"english":"immigrant"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_a.mp3"}},{"japanese":"移動する（いどうする）","meaning":{"english":"move, transfer, migrate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_b.mp3"}},{"japanese":"移転する（いてんする）","meaning":{"english":"move, move house"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_c.mp3"}},{"japanese":"移植する（いしょくする）","meaning":{"english":"transplant, graft [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_d.mp3"}},{"japanese":"移籍する（いせきする）","meaning":{"english":"change family or team"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_e.mp3"}},{"japanese":"移住する（いじゅうする）","meaning":{"english":"migrate, immigrate, emigrate"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_f.mp3"}},{"japanese":"転移する（てんいする）","meaning":{"english":"spread, metastasize"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_g.mp3"}},{"japanese":"移る（うつる）","meaning":{"english":"move, spread, transfer [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_h.mp3"}},{"japanese":"移す（うつす）","meaning":{"english":"move, spread, transfer [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_i.mp3"}}]},"jishoData":{"query":"移","found":true,"taughtIn":"grade 5","jlptLevel":"N2","newspaperFrequencyRank":"448","strokeCount":11,"meaning":"shift, move, change, drift, catch (cold, fire), pass into","kunyomi":["うつ.る","うつ.す"],"onyomi":["イ"],"onyomiExamples":[{"example":"移行","reading":"イコウ","meaning":"transition, changeover, switchover, shift, transfer (of powers, weight, etc.), shift (e.g. of centre of gravity)"},{"example":"移管","reading":"イカン","meaning":"transfer of control"},{"example":"転移","reading":"テンイ","meaning":"moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis)"},{"example":"変移","reading":"ヘンイ","meaning":"change, alteration, transmutation, mutation"}],"kunyomiExamples":[{"example":"移る","reading":"うつる","meaning":"to move (house), to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a colour or scent, to be infected, to be contagious, to spread (as in fire)"},{"example":"移す","reading":"うつす","meaning":"to change, to swap, to substitute, to transfer, to change the object of one's interest or focus, to spend or take time, to infect, to permeate something with the smell or colour of something, to move on to the next or different stage of (a plan, etc.)"}],"radical":{"symbol":"禾","meaning":"grain"},"parts":["夕","禾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31227_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/079fb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/79fb.gif","uri":"https://jisho.org/search/%E7%A7%BB%23kanji"}}
+{
+  "id": "移",
+  "kanjialiveData": {
+    "_id": "54317b04791eba5146ee4bdd",
+    "_rev": "9-3441d22df2a546dc52e7eeb14eecbf2b",
+    "rad_name_ja": "のぎへん",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "utsu, utsusu, utsuru",
+    "meaning": "shift, move, transfer",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "移民（いみん）",
+        "meaning": {
+          "english": "immigrant"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "移動する（いどうする）",
+        "meaning": {
+          "english": "move, transfer, migrate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "移転する（いてんする）",
+        "meaning": {
+          "english": "move, move house"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "移植する（いしょくする）",
+        "meaning": {
+          "english": "transplant, graft [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "移籍する（いせきする）",
+        "meaning": {
+          "english": "change family or team"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "移住する（いじゅうする）",
+        "meaning": {
+          "english": "migrate, immigrate, emigrate"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "転移する（てんいする）",
+        "meaning": {
+          "english": "spread, metastasize"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "移る（うつる）",
+        "meaning": {
+          "english": "move, spread, transfer [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "移す（うつす）",
+        "meaning": {
+          "english": "move, spread, transfer [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i-utsu(su)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i-utsu(su)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i-utsu(su)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "うつ、うつす、うつる",
+    "ka_utf": "移",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=移",
+    "rad_name_search": [
+      "nogihen"
+    ],
+    "rad_order": 145,
+    "txt_books": [
+      {
+        "chapter": "16",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "43",
+        "txt_bk": "txtBasicKanji"
+      }
+    ],
+    "kname": "i-utsu(su)",
+    "rad_utf": "⽲",
+    "stroketimes": [
+      0,
+      1.266667,
+      2.533333,
+      4.266667,
+      5.333333,
+      6.333333,
+      7.533333,
+      9.2,
+      10.066667,
+      11.333333,
+      12.866667,
+      14.466667
+    ],
+    "kunyomi_ka_display": "うつ",
+    "dick": "798",
+    "rad_name": "nogihen",
+    "dicn": "3282",
+    "mn_hint": "Transferring plants 禾 to other paddy fields when they are in excess 多.",
+    "rad_stroke": 5,
+    "onyomi_ja": "イ",
+    "rad_meaning": "grain",
+    "onyomi": "i",
+    "ka_id": "ka_756",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "i",
+      "i"
+    ],
+    "kunyomi_search": [
+      "utsu",
+      "utsusu",
+      "utsuru",
+      "utsu, utsusu, utsuru"
+    ],
+    "meaning_search": [
+      "shift",
+      "move",
+      "transfer",
+      "shift, move, transfer"
+    ],
+    "onyomi_ja_search": [
+      "イ",
+      "イ"
+    ],
+    "kunyomi_ja_search": [
+      "うつ",
+      "うつす",
+      "うつる",
+      "うつ、うつす、うつる"
+    ],
+    "rad_meaning_search": [
+      "grain",
+      "grain"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "のぎへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:16",
+      "ij:c16",
+      "bk",
+      "bk:43",
+      "bk:c43"
+    ],
+    "rad_name_file": "nogihen",
+    "kanji": {
+      "character": "移",
+      "meaning": {
+        "english": "shift, move, transfer"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1.266667,
+          2.533333,
+          4.266667,
+          5.333333,
+          6.333333,
+          7.533333,
+          9.2,
+          10.066667,
+          11.333333,
+          12.866667,
+          14.466667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "i",
+        "katakana": "イ"
+      },
+      "kunyomi": {
+        "romaji": "utsu, utsusu, utsuru",
+        "hiragana": "うつ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/i-utsu(su)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/i-utsu(su)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/i-utsu(su)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽲",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/nogihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "のぎへん",
+        "romaji": "nogihen"
+      },
+      "meaning": {
+        "english": "grain"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/nogihen0.svg",
+        "https://media.kanjialive.com/rad_frames/nogihen1.svg",
+        "https://media.kanjialive.com/rad_frames/nogihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "798",
+      "classic_nelson": "3282"
+    }
+  },
+  "jishoData": {
+    "query": "移",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "448",
+    "strokeCount": 11,
+    "meaning": "shift, move, change, drift, catch (cold, fire), pass into",
+    "kunyomi": [
+      "うつ.る",
+      "うつ.す"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "移行",
+        "reading": "イコウ",
+        "meaning": "transition, changeover, switchover, shift, transfer (of powers, weight, etc.), shift (e.g. of centre of gravity)"
+      },
+      {
+        "example": "移管",
+        "reading": "イカン",
+        "meaning": "transfer of control"
+      },
+      {
+        "example": "転移",
+        "reading": "テンイ",
+        "meaning": "moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis)"
+      },
+      {
+        "example": "変移",
+        "reading": "ヘンイ",
+        "meaning": "change, alteration, transmutation, mutation"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "移る",
+        "reading": "うつる",
+        "meaning": "to move (house), to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a colour or scent, to be infected, to be contagious, to spread (as in fire)"
+      },
+      {
+        "example": "移す",
+        "reading": "うつす",
+        "meaning": "to transfer (to a different place, group, etc.), to change, to swap, to substitute, to move to the next stage (of a plan, etc.), to divert (one's attention) to, to spend (time), to let (time) pass, to infect, to permeate something (with a color, smell, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "grain"
+    },
+    "parts": [
+      "夕",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31227_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/079fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/79fb.gif",
+    "uri": "https://jisho.org/search/%E7%A7%BB%23kanji"
+  }
+}

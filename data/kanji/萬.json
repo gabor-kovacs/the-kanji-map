@@ -1,1 +1,65 @@
-{"id":"萬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"萬","found":true,"newspaperFrequencyRank":"2125","strokeCount":12,"meaning":"ten thousand, 10,000","kunyomi":["よろず"],"onyomi":["マン","バン"],"onyomiExamples":[{"example":"万","reading":"マン","meaning":"10,000, ten thousand, myriad, everything, all, various"},{"example":"萬","reading":"ワン","meaning":"counter for character tiles"},{"example":"万華鏡","reading":"マンゲキョウ","meaning":"kaleidoscope"}],"kunyomiExamples":[{"example":"万","reading":"まん","meaning":"10,000, ten thousand, myriad, everything, all, various"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["冂","日","田","禹","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33836_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0842c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/842c.gif","uri":"https://jisho.org/search/%E8%90%AC%23kanji"}}
+{
+  "id": "萬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "萬",
+    "found": true,
+    "newspaperFrequencyRank": "2125",
+    "strokeCount": 12,
+    "meaning": "ten thousand, 10,000",
+    "kunyomi": [
+      "よろず"
+    ],
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "万",
+        "reading": "マン",
+        "meaning": "10,000, ten thousand, myriad, everything, all, various"
+      },
+      {
+        "example": "萬",
+        "reading": "ワン",
+        "meaning": "counter for character tiles"
+      },
+      {
+        "example": "万華鏡",
+        "reading": "マンゲキョウ",
+        "meaning": "kaleidoscope"
+      },
+      {
+        "example": "【バンリガニ】",
+        "reading": "Wanli Crab (brand name for crab caught in the Wanli district of Taiwan)",
+        "meaning": ""
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "万",
+        "reading": "まん",
+        "meaning": "10,000, ten thousand, myriad, everything, all, various"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "冂",
+      "日",
+      "田",
+      "禹",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33836_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0842c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/842c.gif",
+    "uri": "https://jisho.org/search/%E8%90%AC%23kanji"
+  }
+}

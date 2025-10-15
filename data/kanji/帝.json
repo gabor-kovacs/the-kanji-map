@@ -1,1 +1,73 @@
-{"id":"帝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"帝","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1276","strokeCount":9,"meaning":"sovereign, the emperor, god, creator","kunyomi":["みかど"],"onyomi":["テイ"],"onyomiExamples":[{"example":"帝国","reading":"テイコク","meaning":"empire, imperial"},{"example":"帝京","reading":"テイキョウ","meaning":"the capital"},{"example":"女帝","reading":"ジョテイ","meaning":"empress"},{"example":"大帝","reading":"タイテイ","meaning":"great emperor, ... the Great"}],"kunyomiExamples":[{"example":"帝","reading":"みかど","meaning":"emperor (of Japan), mikado, (the gates of an) imperial residence"},{"example":"帝揚羽","reading":"みかどあげは","meaning":"common jay (species of swallowtail butterfly, Graphium doson)"},{"example":"時の帝","reading":"ときのみかど","meaning":"emperor of the time"}],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["亠","冖","巾","并","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24093_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e1d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e1d.gif","uri":"https://jisho.org/search/%E5%B8%9D%23kanji"}}
+{
+  "id": "帝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "帝",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1276",
+    "strokeCount": 9,
+    "meaning": "sovereign, the emperor, god, creator",
+    "kunyomi": [
+      "みかど"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "帝国主義",
+        "reading": "テイコクシュギ",
+        "meaning": "imperialism"
+      },
+      {
+        "example": "帝国",
+        "reading": "テイコク",
+        "meaning": "empire, Empire of Japan"
+      },
+      {
+        "example": "女帝",
+        "reading": "ジョテイ",
+        "meaning": "empress"
+      },
+      {
+        "example": "大帝",
+        "reading": "タイテイ",
+        "meaning": "great emperor, ... the Great"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "帝",
+        "reading": "みかど",
+        "meaning": "emperor (of Japan), mikado, (the gates of an) imperial residence"
+      },
+      {
+        "example": "帝揚羽",
+        "reading": "みかどあげは",
+        "meaning": "common jay (species of swallowtail butterfly, Graphium doson)"
+      },
+      {
+        "example": "時の帝",
+        "reading": "ときのみかど",
+        "meaning": "emperor of the time"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "巾",
+      "并",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24093_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e1d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e1d.gif",
+    "uri": "https://jisho.org/search/%E5%B8%9D%23kanji"
+  }
+}

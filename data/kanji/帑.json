@@ -1,1 +1,38 @@
-{"id":"帑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"帑","found":true,"strokeCount":8,"meaning":"money repository","kunyomi":["かねぐら"],"onyomi":["トウ","ド"],"onyomiExamples":[{"example":"内帑","reading":"ナイド","meaning":"ruler's private property"}],"kunyomiExamples":[],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["又","女","巾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24081_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e11.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e11.gif","uri":"https://jisho.org/search/%E5%B8%91%23kanji"}}
+{
+  "id": "帑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "帑",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "money repository",
+    "kunyomi": [
+      "かねぐら"
+    ],
+    "onyomi": [
+      "トウ",
+      "ド"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "内帑",
+        "reading": "ナイド",
+        "meaning": "ruler's private property"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "又",
+      "女",
+      "巾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24081_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e11.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e11.gif",
+    "uri": "https://jisho.org/search/%E5%B8%91%23kanji"
+  }
+}

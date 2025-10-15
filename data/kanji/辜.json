@@ -1,1 +1,38 @@
-{"id":"辜","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"辜","found":true,"strokeCount":12,"meaning":"sin, crime","kunyomi":["つみ"],"onyomi":["コ"],"onyomiExamples":[{"example":"無辜","reading":"ムコ","meaning":"innocent, blameless, guiltless"}],"kunyomiExamples":[],"radical":{"symbol":"辛","meaning":"bitter"},"parts":["十","口","立","辛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36764_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f9c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f9c.gif","uri":"https://jisho.org/search/%E8%BE%9C%23kanji"}}
+{
+  "id": "辜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "辜",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "sin, crime",
+    "kunyomi": [
+      "つみ"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "無辜",
+        "reading": "ムコ",
+        "meaning": "innocent, blameless, guiltless"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辛",
+      "meaning": "bitter"
+    },
+    "parts": [
+      "十",
+      "口",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36764_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f9c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f9c.gif",
+    "uri": "https://jisho.org/search/%E8%BE%9C%23kanji"
+  }
+}

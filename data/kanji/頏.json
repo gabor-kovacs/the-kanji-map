@@ -1,1 +1,45 @@
-{"id":"頏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"頏","found":true,"strokeCount":13,"meaning":"alight, land, throat, neck","kunyomi":["のど"],"onyomi":["コウ"],"onyomiExamples":[{"example":"拮抗","reading":"キッコウ","meaning":"rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for), rising and falling (of a bird)"}],"kunyomiExamples":[],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ハ","亠","儿","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38927_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0980f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/980f.gif","uri":"https://jisho.org/search/%E9%A0%8F%23kanji"}}
+{
+  "id": "頏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頏",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "alight, land, throat, neck",
+    "kunyomi": [
+      "のど"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拮抗",
+        "reading": "キッコウ",
+        "meaning": "rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for)"
+      },
+      {
+        "example": "頡頏",
+        "reading": "ケッコウ",
+        "meaning": "rising and falling (of a bird), rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "儿",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38927_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0980f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/980f.gif",
+    "uri": "https://jisho.org/search/%E9%A0%8F%23kanji"
+  }
+}

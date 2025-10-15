@@ -1,1 +1,273 @@
-{"id":"侮","kanjialiveData":{"kanji":{"character":"侮","meaning":{"english":"insult, despise, scorn"},"strokes":{"count":8,"timings":[0,0.8,1.866667,3.266667,4.266667,6.2,8.066667,9.333333,11.733333],"images":["https://media.kanjialive.com/kanji_strokes/anado(ru)_1.svg","https://media.kanjialive.com/kanji_strokes/anado(ru)_2.svg","https://media.kanjialive.com/kanji_strokes/anado(ru)_3.svg","https://media.kanjialive.com/kanji_strokes/anado(ru)_4.svg","https://media.kanjialive.com/kanji_strokes/anado(ru)_5.svg","https://media.kanjialive.com/kanji_strokes/anado(ru)_6.svg","https://media.kanjialive.com/kanji_strokes/anado(ru)_7.svg","https://media.kanjialive.com/kanji_strokes/anado(ru)_8.svg"]},"onyomi":{"romaji":"bu","katakana":"ブ"},"kunyomi":{"romaji":"anado, anadoru","hiragana":"あなど"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/anado(ru)_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/anado(ru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/anado(ru)_00.webm"}},"radical":{"character":"⺅","strokes":2,"image":"https://media.kanjialive.com/radical_character/ninben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"にんべん","romaji":"ninben"},"meaning":{"english":"person "},"animation":["https://media.kanjialive.com/rad_frames/ninben0.svg","https://media.kanjialive.com/rad_frames/ninben1.svg","https://media.kanjialive.com/rad_frames/ninben2.svg"]},"references":{"grade":null,"kodansha":"59","classic_nelson":"421"},"examples":[{"japanese":"侮辱する（ぶじょくする）","meaning":{"english":"treat with contempt, insult"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/anado(ru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/anado(ru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/anado(ru)_06_a.mp3"}},{"japanese":"侮蔑する（ぶべつする）","meaning":{"english":"scorn, disdain"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/anado(ru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/anado(ru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/anado(ru)_06_b.mp3"}},{"japanese":"軽侮する（けいぶする）","meaning":{"english":"scorn"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/anado(ru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/anado(ru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/anado(ru)_06_c.mp3"}},{"japanese":"侮る（あなどる）","meaning":{"english":"despise, disdain, make light of"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/anado(ru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/anado(ru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/anado(ru)_06_d.mp3"}}]},"jishoData":{"query":"侮","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2004","strokeCount":8,"meaning":"scorn, despise, make light of, contempt","kunyomi":["あなど.る","あなず.る"],"onyomi":["ブ"],"onyomiExamples":[{"example":"侮","reading":"ブ","meaning":"(something) despised, (something) made light of"},{"example":"侮辱","reading":"ブジョク","meaning":"insult, affront, slight, contempt (e.g. of court)"},{"example":"軽侮","reading":"ケイブ","meaning":"contempt, scorn"}],"kunyomiExamples":[{"example":"侮る","reading":"あなどる","meaning":"to disdain, to look down on, to make light of, to hold in contempt, to scorn, to despise"},{"example":"侮る","reading":"あなどる","meaning":"to disdain, to look down on, to make light of, to hold in contempt, to scorn, to despise"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["乞","化","毋","母"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20398_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fae.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fae.gif","uri":"https://jisho.org/search/%E4%BE%AE%23kanji"}}
+{
+  "id": "侮",
+  "kanjialiveData": {
+    "_id": "54317b09791eba5146ee4c44",
+    "_rev": "10-d4b30b6b4f5d047b995e5c8dca49c112",
+    "rad_name_ja": "にんべん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "anado, anadoru",
+    "meaning": "insult, despise, scorn",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "侮辱する（ぶじょくする）",
+        "meaning": {
+          "english": "treat with contempt, insult"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/anado(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/anado(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/anado(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "侮蔑する（ぶべつする）",
+        "meaning": {
+          "english": "scorn, disdain"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/anado(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/anado(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/anado(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "軽侮する（けいぶする）",
+        "meaning": {
+          "english": "scorn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/anado(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/anado(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/anado(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "侮る（あなどる）",
+        "meaning": {
+          "english": "despise, disdain, make light of"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/anado(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/anado(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/anado(ru)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あなど、あなどる",
+    "ka_utf": "侮",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=侮",
+    "rad_name_search": [
+      "ninben"
+    ],
+    "rad_order": 11,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "txtIntermJpn"
+      }
+    ],
+    "kname": "anado(ru)",
+    "rad_utf": "⺅",
+    "stroketimes": [
+      0,
+      0.8,
+      1.866667,
+      3.266667,
+      4.266667,
+      6.2,
+      8.066667,
+      9.333333,
+      11.733333
+    ],
+    "kunyomi_ka_display": "あなど",
+    "dick": "59",
+    "rad_name": "ninben",
+    "dicn": "421",
+    "mn_hint": "What every 毎 person イ would like to avoid: being insulted.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ブ",
+    "rad_meaning": "person ",
+    "onyomi": "bu",
+    "ka_id": "ka_849",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "bu",
+      "bu"
+    ],
+    "kunyomi_search": [
+      "anado",
+      "anadoru",
+      "anado, anadoru"
+    ],
+    "meaning_search": [
+      "insult",
+      "despise",
+      "scorn",
+      "insult, despise, scorn"
+    ],
+    "onyomi_ja_search": [
+      "ブ",
+      "ブ"
+    ],
+    "kunyomi_ja_search": [
+      "あなど",
+      "あなどる",
+      "あなど、あなどる"
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にんべん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:20",
+      "ij:c20"
+    ],
+    "rad_name_file": "ninben",
+    "kanji": {
+      "character": "侮",
+      "meaning": {
+        "english": "insult, despise, scorn"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.8,
+          1.866667,
+          3.266667,
+          4.266667,
+          6.2,
+          8.066667,
+          9.333333,
+          11.733333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/anado(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/anado(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/anado(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/anado(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/anado(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/anado(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/anado(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/anado(ru)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bu",
+        "katakana": "ブ"
+      },
+      "kunyomi": {
+        "romaji": "anado, anadoru",
+        "hiragana": "あなど"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/anado(ru)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/anado(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/anado(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺅",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にんべん",
+        "romaji": "ninben"
+      },
+      "meaning": {
+        "english": "person "
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ninben0.svg",
+        "https://media.kanjialive.com/rad_frames/ninben1.svg",
+        "https://media.kanjialive.com/rad_frames/ninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "59",
+      "classic_nelson": "421"
+    }
+  },
+  "jishoData": {
+    "query": "侮",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2004",
+    "strokeCount": 8,
+    "meaning": "scorn, despise, make light of, contempt",
+    "kunyomi": [
+      "あなど.る",
+      "あなず.る"
+    ],
+    "onyomi": [
+      "ブ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "侮",
+        "reading": "ブ",
+        "meaning": "(something) despised, (something) made light of"
+      },
+      {
+        "example": "侮辱",
+        "reading": "ブジョク",
+        "meaning": "insult, affront, slight, contempt (e.g. of court)"
+      },
+      {
+        "example": "軽侮",
+        "reading": "ケイブ",
+        "meaning": "contempt, scorn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "侮る",
+        "reading": "あなどる",
+        "meaning": "to disdain, to look down on, to make light of, to hold in contempt, to scorn, to despise"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "乞",
+      "化",
+      "毋",
+      "母"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20398_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fae.gif",
+    "uri": "https://jisho.org/search/%E4%BE%AE%23kanji"
+  }
+}

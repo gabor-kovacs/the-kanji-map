@@ -1,1 +1,65 @@
-{"id":"筍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"筍","found":true,"strokeCount":12,"meaning":"bamboo shoot","kunyomi":["たけのこ","たかんな"],"onyomi":["ジュン","シュン","イン"],"onyomiExamples":[{"example":"石筍","reading":"セキジュン","meaning":"stalagmite"},{"example":"筍干","reading":"シュンカン","meaning":"dish of seasonal vegetables and bamboo shoots, wooden lacquered bowl, Kagoshima cuisine"}],"kunyomiExamples":[{"example":"竹の子","reading":"たけのこ","meaning":"bamboo shoot, inexperienced doctor, quack"},{"example":"筍医者","reading":"たけのこいしゃ","meaning":"inexperienced doctor, quack"},{"example":"竹の子","reading":"たけのこ","meaning":"bamboo shoot, inexperienced doctor, quack"}],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","勹","日","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31565_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b4d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b4d.gif","uri":"https://jisho.org/search/%E7%AD%8D%23kanji"}}
+{
+  "id": "筍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "筍",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "bamboo shoot",
+    "kunyomi": [
+      "たけのこ",
+      "たかんな"
+    ],
+    "onyomi": [
+      "ジュン",
+      "シュン",
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "石筍",
+        "reading": "セキジュン",
+        "meaning": "stalagmite"
+      },
+      {
+        "example": "筍干",
+        "reading": "シュンカン",
+        "meaning": "dish of seasonal vegetables and bamboo shoots, wooden lacquered bowl, Kagoshima cuisine"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "竹の子",
+        "reading": "たけのこ",
+        "meaning": "bamboo shoot, young, inexperienced doctor"
+      },
+      {
+        "example": "筍医者",
+        "reading": "たけのこいしゃ",
+        "meaning": "young, inexperienced doctor"
+      },
+      {
+        "example": "筍",
+        "reading": "たかんな",
+        "meaning": "bamboo shoot"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "勹",
+      "日",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31565_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b4d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b4d.gif",
+    "uri": "https://jisho.org/search/%E7%AD%8D%23kanji"
+  }
+}

@@ -1,1 +1,44 @@
-{"id":"茣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"茣","found":true,"strokeCount":10,"meaning":"mat, matting","kunyomi":[],"onyomi":["ゴ"],"onyomiExamples":[{"example":"茣蓙","reading":"ゴザ","meaning":"rush mat, matting, mat"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ハ","一","口","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33571_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08323.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8323.gif","uri":"https://jisho.org/search/%E8%8C%A3%23kanji"}}
+{
+  "id": "茣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "茣",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "mat, matting",
+    "kunyomi": [],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "茣蓙",
+        "reading": "ゴザ",
+        "meaning": "rush mat, matting, mat"
+      },
+      {
+        "example": "茣蓙目",
+        "reading": "ゴザメ",
+        "meaning": "rush matting pattern (often on metal or coins)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "口",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33571_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08323.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8323.gif",
+    "uri": "https://jisho.org/search/%E8%8C%A3%23kanji"
+  }
+}

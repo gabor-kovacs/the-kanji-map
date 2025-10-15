@@ -1,1 +1,33 @@
-{"id":"暝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"暝","found":true,"strokeCount":14,"meaning":"dark","kunyomi":["くら.い"],"onyomi":["メイ","ミョウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["ハ","亠","冖","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26269_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0669d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/669d.gif","uri":"https://jisho.org/search/%E6%9A%9D%23kanji"}}
+{
+  "id": "暝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "暝",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "dark",
+    "kunyomi": [
+      "くら.い"
+    ],
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "冖",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26269_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0669d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/669d.gif",
+    "uri": "https://jisho.org/search/%E6%9A%9D%23kanji"
+  }
+}

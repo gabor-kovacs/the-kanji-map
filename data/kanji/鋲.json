@@ -1,1 +1,54 @@
-{"id":"鋲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鋲","found":true,"strokeCount":15,"meaning":"rivet, tack, thumbtack, (kokuji)","kunyomi":["びょう"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"鋲","reading":"びょう","meaning":"rivet, tack, thumbtack, drawing-pin, hobnail"},{"example":"鋲打ち機","reading":"びょううちき","meaning":"riveter, riveting machine"},{"example":"鐶甲鋲","reading":"かんこうびょう","meaning":"round-headed tack"},{"example":"画鋲","reading":"がびょう","meaning":"drawing pin, thumb tack"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["ハ","并","斤","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37618_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092f2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92f2.gif","uri":"https://jisho.org/search/%E9%8B%B2%23kanji"}}
+{
+  "id": "鋲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鋲",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "rivet, tack, thumbtack, (kokuji)",
+    "kunyomi": [
+      "びょう"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鋲",
+        "reading": "びょう",
+        "meaning": "rivet, tack, thumbtack, drawing-pin, hobnail"
+      },
+      {
+        "example": "鋲打ち機",
+        "reading": "びょううちき",
+        "meaning": "riveter, riveting machine"
+      },
+      {
+        "example": "鐶甲鋲",
+        "reading": "かんこうびょう",
+        "meaning": "round-headed tack"
+      },
+      {
+        "example": "画鋲",
+        "reading": "がびょう",
+        "meaning": "drawing pin, thumb tack"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "ハ",
+      "并",
+      "斤",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37618_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092f2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92f2.gif",
+    "uri": "https://jisho.org/search/%E9%8B%B2%23kanji"
+  }
+}

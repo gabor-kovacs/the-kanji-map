@@ -1,1 +1,38 @@
-{"id":"菎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"菎","found":true,"strokeCount":11,"meaning":"a kind of fragrant herb","kunyomi":[],"onyomi":["コン"],"onyomiExamples":[{"example":"蒟蒻","reading":"コンニャク","meaning":"konnyaku (Amorphophallus konjac), konjac, devil's tongue, konnyaku jelly, konjac jelly, devil's tongue jelly"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["日","比","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33742_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083ce.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83ce.gif","uri":"https://jisho.org/search/%E8%8F%8E%23kanji"}}
+{
+  "id": "菎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "菎",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "a kind of fragrant herb",
+    "kunyomi": [],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蒟蒻",
+        "reading": "コンニャク",
+        "meaning": "konnyaku (Amorphophallus konjac), konjac, devil's tongue, konnyaku jelly, konjac jelly, devil's tongue jelly"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "日",
+      "比",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33742_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083ce.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83ce.gif",
+    "uri": "https://jisho.org/search/%E8%8F%8E%23kanji"
+  }
+}

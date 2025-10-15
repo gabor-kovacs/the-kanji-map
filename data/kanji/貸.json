@@ -1,1 +1,352 @@
-{"id":"貸","kanjialiveData":{"kanji":{"character":"貸","meaning":{"english":"lend"},"strokes":{"count":12,"timings":[0,2.598,3.265,4.265,5.332,6.265,7.532,8.952,9.599,10.332,11.132,11.932,12.933333],"images":["https://media.kanjialive.com/kanji_strokes/tai-ka(su)_1.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_2.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_3.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_4.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_5.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_6.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_7.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_8.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_9.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_10.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_11.svg","https://media.kanjialive.com/kanji_strokes/tai-ka(su)_12.svg"]},"onyomi":{"romaji":"tai","katakana":"タイ"},"kunyomi":{"romaji":"ka, kasu, kashi","hiragana":"か、かし"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/tai-ka(su)_12.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/tai-ka(su)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/tai-ka(su)_00.webm"}},"radical":{"character":"⾙","strokes":7,"image":"https://media.kanjialive.com/radical_character/kai.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"かい","romaji":"kai"},"meaning":{"english":"shell, property, wealth"},"animation":["https://media.kanjialive.com/rad_frames/kai0.svg","https://media.kanjialive.com/rad_frames/kai1.svg","https://media.kanjialive.com/rad_frames/kai2.svg"]},"references":{"grade":5,"kodansha":"1664","classic_nelson":"4503"},"examples":[{"japanese":"賃貸（ちんたい）","meaning":{"english":"lease"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_a.mp3"}},{"japanese":"貸与する（たいよする）","meaning":{"english":"loan, lend"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_b.mp3"}},{"japanese":"貸す（かす）","meaning":{"english":"lend"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_c.mp3"}},{"japanese":"貸家（かしや）","meaning":{"english":"house for rent"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_d.mp3"}},{"japanese":"貸し出す（かしだす）","meaning":{"english":"lend"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_e.mp3"}},{"japanese":"貸し切り（かしきり）","meaning":{"english":"reservation"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_f.mp3"}}]},"jishoData":{"query":"貸","found":true,"taughtIn":"grade 5","jlptLevel":"N4","newspaperFrequencyRank":"995","strokeCount":12,"meaning":"lend","kunyomi":["か.す","か.し-","かし-"],"onyomi":["タイ"],"onyomiExamples":[{"example":"貸与","reading":"タイヨ","meaning":"loan, lending"},{"example":"貸借","reading":"タイシャク","meaning":"loan, debit and credit, lending and borrowing"},{"example":"転貸","reading":"テンタイ","meaning":"subleasing"},{"example":"借貸","reading":"シャクタイ","meaning":"loan, lending and borrowing"}],"kunyomiExamples":[{"example":"貸す","reading":"かす","meaning":"to lend, to loan, to rent out, to hire out"}],"radical":{"symbol":"貝","meaning":"shell"},"parts":["ハ","化","弋","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36024_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cb8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cb8.gif","uri":"https://jisho.org/search/%E8%B2%B8%23kanji"}}
+{
+  "id": "貸",
+  "kanjialiveData": {
+    "_id": "54317ae4791eba5146ee4984",
+    "_rev": "9-b86589ee1d06b2146477c4c1e6634640",
+    "rad_name_ja": "かい",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "ka, kasu, kashi",
+    "meaning": "lend",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "賃貸（ちんたい）",
+        "meaning": {
+          "english": "lease"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "貸与する（たいよする）",
+        "meaning": {
+          "english": "loan, lend"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "貸す（かす）",
+        "meaning": {
+          "english": "lend"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "貸家（かしや）",
+        "meaning": {
+          "english": "house for rent"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "貸し出す（かしだす）",
+        "meaning": {
+          "english": "lend"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "貸し切り（かしきり）",
+        "meaning": {
+          "english": "reservation"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tai-ka(su)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tai-ka(su)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tai-ka(su)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tai-ka(su)_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "か、かす、かし",
+    "ka_utf": "貸",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=貸",
+    "rad_name_search": [
+      "kai"
+    ],
+    "rad_order": 187,
+    "txt_books": [
+      {
+        "chapter": "21",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "15"
+      }
+    ],
+    "kname": "tai-ka(su)",
+    "rad_utf": "⾙",
+    "stroketimes": [
+      0,
+      2.598,
+      3.265,
+      4.265,
+      5.332,
+      6.265,
+      7.532,
+      8.952,
+      9.599,
+      10.332,
+      11.132,
+      11.932,
+      12.933333
+    ],
+    "kunyomi_ka_display": "か、かし",
+    "dick": "1664",
+    "rad_name": "kai",
+    "dicn": "4503",
+    "mn_hint": "Temporally exchanging 代 an ownership of valuables 貝.",
+    "rad_stroke": 7,
+    "onyomi_ja": "タイ",
+    "rad_meaning": "shell, property, wealth",
+    "onyomi": "tai",
+    "ka_id": "ka_214",
+    "onyomi_search": [
+      "tai",
+      "tai"
+    ],
+    "kunyomi_search": [
+      "ka",
+      "kasu",
+      "kashi",
+      "ka, kasu, kashi"
+    ],
+    "meaning_search": [
+      "lend",
+      "lend"
+    ],
+    "onyomi_ja_search": [
+      "タイ",
+      "タイ"
+    ],
+    "kunyomi_ja_search": [
+      "か",
+      "かす",
+      "かし",
+      "か、かす、かし"
+    ],
+    "rad_meaning_search": [
+      "shell",
+      "property",
+      "wealth",
+      "shell, property, wealth"
+    ],
+    "rad_name_ja_search": [
+      "かい"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:21",
+      "cij:c21",
+      "bk",
+      "bk:24",
+      "bk:c24",
+      "gen",
+      "gen:18",
+      "gen:c18",
+      "ap",
+      "ap:13",
+      "ap:c13",
+      "kll",
+      "kll:18",
+      "kll:c18",
+      "cijr",
+      "cijr:15",
+      "cijr:c15"
+    ],
+    "rad_name_file": "kai",
+    "kanji": {
+      "character": "貸",
+      "meaning": {
+        "english": "lend"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          2.598,
+          3.265,
+          4.265,
+          5.332,
+          6.265,
+          7.532,
+          8.952,
+          9.599,
+          10.332,
+          11.132,
+          11.932,
+          12.933333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "tai",
+        "katakana": "タイ"
+      },
+      "kunyomi": {
+        "romaji": "ka, kasu, kashi",
+        "hiragana": "か、かし"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tai-ka(su)_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tai-ka(su)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tai-ka(su)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾙",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/kai.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "かい",
+        "romaji": "kai"
+      },
+      "meaning": {
+        "english": "shell, property, wealth"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kai0.svg",
+        "https://media.kanjialive.com/rad_frames/kai1.svg",
+        "https://media.kanjialive.com/rad_frames/kai2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1664",
+      "classic_nelson": "4503"
+    }
+  },
+  "jishoData": {
+    "query": "貸",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "995",
+    "strokeCount": 12,
+    "meaning": "lend",
+    "kunyomi": [
+      "か.す",
+      "か.し-",
+      "かし-"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "貸与",
+        "reading": "タイヨ",
+        "meaning": "loan, lending"
+      },
+      {
+        "example": "貸借",
+        "reading": "タイシャク",
+        "meaning": "loan, debit and credit, lending and borrowing"
+      },
+      {
+        "example": "転貸",
+        "reading": "テンタイ",
+        "meaning": "sublease, sublet"
+      },
+      {
+        "example": "借貸",
+        "reading": "シャクタイ",
+        "meaning": "loan, lending and borrowing"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "貸す",
+        "reading": "かす",
+        "meaning": "to lend, to loan, to rent out, to hire out, to hand (over), to give"
+      }
+    ],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "shell"
+    },
+    "parts": [
+      "ハ",
+      "化",
+      "弋",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36024_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cb8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cb8.gif",
+    "uri": "https://jisho.org/search/%E8%B2%B8%23kanji"
+  }
+}

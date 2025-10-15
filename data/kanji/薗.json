@@ -1,1 +1,43 @@
-{"id":"薗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"薗","found":true,"strokeCount":16,"meaning":"garden, yard, farm","kunyomi":[],"onyomi":["エン","オン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["口","囗","土","艾","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34199_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08597.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8597.gif","uri":"https://jisho.org/search/%E8%96%97%23kanji"}}
+{
+  "id": "薗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薗",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "garden, yard, farm",
+    "kunyomi": [
+      "その"
+    ],
+    "onyomi": [
+      "エン",
+      "オン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "園",
+        "reading": "その",
+        "meaning": "garden, orchard, park, place, world, environment"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "口",
+      "囗",
+      "土",
+      "艾",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34199_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08597.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8597.gif",
+    "uri": "https://jisho.org/search/%E8%96%97%23kanji"
+  }
+}

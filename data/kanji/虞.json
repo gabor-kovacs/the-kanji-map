@@ -1,1 +1,70 @@
-{"id":"虞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"虞","found":true,"taughtIn":"junior high","jlptLevel":"N1","strokeCount":13,"meaning":"fear, uneasiness, anxiety, concern, expectation, consideration","kunyomi":["おそれ","おもんぱか.る","はか.る","うれ.える","あざむ.く","あやま.る","のぞ.む","たの.しむ"],"onyomi":["グ"],"onyomiExamples":[{"example":"虞犯","reading":"グハン","meaning":"likelihood of committing a crime, pre-delinquent"},{"example":"虞犯少年","reading":"グハンショウネン","meaning":"juvenile likely to commit a crime, juvenile with a criminal bent, pre-delinquent juvenile, status offender"},{"example":"憂虞","reading":"ユウグ","meaning":"anxiety, fear"},{"example":"不虞","reading":"フグ","meaning":"emergency"}],"kunyomiExamples":[{"example":"恐れ","reading":"おそれ","meaning":"fear, horror, anxiety, concern, uneasiness, reverence"}],"radical":{"symbol":"虍","meaning":"tiger stripes"},"parts":["ハ","匕","卜","厂","口","虍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34398_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865e.gif","uri":"https://jisho.org/search/%E8%99%9E%23kanji"}}
+{
+  "id": "虞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虞",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "strokeCount": 13,
+    "meaning": "fear, uneasiness, anxiety, concern, expectation, consideration",
+    "kunyomi": [
+      "おそれ",
+      "おもんぱか.る",
+      "はか.る",
+      "うれ.える",
+      "あざむ.く",
+      "あやま.る",
+      "のぞ.む",
+      "たの.しむ"
+    ],
+    "onyomi": [
+      "グ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虞犯",
+        "reading": "グハン",
+        "meaning": "being likely to commit a crime, pre-delinquency"
+      },
+      {
+        "example": "虞犯少年",
+        "reading": "グハンショウネン",
+        "meaning": "juvenile deemed likely to commit a crime, pre-delinquent juvenile, status offender"
+      },
+      {
+        "example": "憂虞",
+        "reading": "ユウグ",
+        "meaning": "anxiety, fear"
+      },
+      {
+        "example": "不虞",
+        "reading": "フグ",
+        "meaning": "unforeseen (occurrence), unexpected (event), accident"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恐れ",
+        "reading": "おそれ",
+        "meaning": "fear, horror, anxiety, concern, uneasiness, reverence"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "tiger stripes"
+    },
+    "parts": [
+      "ハ",
+      "匕",
+      "卜",
+      "厂",
+      "口",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34398_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865e.gif",
+    "uri": "https://jisho.org/search/%E8%99%9E%23kanji"
+  }
+}

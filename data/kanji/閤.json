@@ -1,1 +1,43 @@
-{"id":"閤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"閤","found":true,"strokeCount":14,"meaning":"small side gate","kunyomi":["くぐりど"],"onyomi":["コウ"],"onyomiExamples":[{"example":"太閤","reading":"タイコウ","meaning":"taikō (esp. Toyotomi Hideyoshi), title for a regent, later for the grand chancellor, also for the father of an Imperial adviser (advisor) who passed the role to his son"},{"example":"閨閤","reading":"ケイコウ","meaning":"sleeping quarters, bedroom, woman's living room, woman"}],"kunyomiExamples":[],"radical":{"symbol":"門","meaning":"gate"},"parts":["一","个","口","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38308_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095a4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95a4.gif","uri":"https://jisho.org/search/%E9%96%A4%23kanji"}}
+{
+  "id": "閤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閤",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "small side gate",
+    "kunyomi": [
+      "くぐりど"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "太閤",
+        "reading": "タイコウ",
+        "meaning": "taikō (esp. Toyotomi Hideyoshi), title for a regent, later for the grand chancellor, also for the father of an Imperial adviser (advisor) who passed the role to his son"
+      },
+      {
+        "example": "閨閤",
+        "reading": "ケイコウ",
+        "meaning": "sleeping quarters, bedroom, woman's living room, woman"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38308_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095a4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95a4.gif",
+    "uri": "https://jisho.org/search/%E9%96%A4%23kanji"
+  }
+}

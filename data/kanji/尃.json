@@ -1,1 +1,31 @@
-{"id":"尃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"尃","found":true,"strokeCount":10,"meaning":"to state to, to announce","kunyomi":["しく","あまねし","もと","はらう"],"onyomi":["フ","ホ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"寸","meaning":"thumb, inch"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23555_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c03.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c03.gif","uri":"https://jisho.org/search/%E5%B0%83%23kanji"}}
+{
+  "id": "尃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尃",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "to state to, to announce",
+    "kunyomi": [
+      "しく",
+      "あまねし",
+      "もと",
+      "はらう"
+    ],
+    "onyomi": [
+      "フ",
+      "ホ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "thumb, inch"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23555_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c03.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c03.gif",
+    "uri": "https://jisho.org/search/%E5%B0%83%23kanji"
+  }
+}

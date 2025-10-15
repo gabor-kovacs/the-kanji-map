@@ -1,1 +1,48 @@
-{"id":"滂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"滂","found":true,"strokeCount":13,"meaning":"flowing, vast","kunyomi":[],"onyomi":["ホウ","ボウ"],"onyomiExamples":[{"example":"澎湃","reading":"ホウハイ","meaning":"as the sound of surging water, vigorous, surging, welling"},{"example":"滂沱","reading":"ボウダ","meaning":"streaming (of tears), pouring, pouring (of rain or sweat)"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["亠","冖","并","方","汁","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28354_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ec2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ec2.gif","uri":"https://jisho.org/search/%E6%BB%82%23kanji"}}
+{
+  "id": "滂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滂",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "flowing, vast",
+    "kunyomi": [],
+    "onyomi": [
+      "ホウ",
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "澎湃",
+        "reading": "ホウハイ",
+        "meaning": "as the sound of surging water, vigorous, surging, welling"
+      },
+      {
+        "example": "滂沱",
+        "reading": "ボウダ",
+        "meaning": "streaming (of tears), pouring, pouring (of rain or sweat)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "并",
+      "方",
+      "汁",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28354_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ec2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ec2.gif",
+    "uri": "https://jisho.org/search/%E6%BB%82%23kanji"
+  }
+}

@@ -1,1 +1,105 @@
-{"id":"隠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"隠","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1089","strokeCount":14,"meaning":"conceal, hide, cover","kunyomi":["かく.す","かく.し","かく.れる","よ.る"],"onyomi":["イン","オン"],"onyomiExamples":[{"example":"隠滅","reading":"インメツ","meaning":"destruction (esp. of evidence), spoliation, suppression, hiding, concealment"},{"example":"陰謀","reading":"インボウ","meaning":"plot, intrigue, scheme, conspiracy, agreement between two or more people to commit an unlawful act"},{"example":"退隠","reading":"タイイン","meaning":"retirement (from an official position)"},{"example":"大隠","reading":"タイイン","meaning":"enlightened hermit"},{"example":"隠密","reading":"オンミツ","meaning":"secret, clandestine, covert, spy (for a daimyo, shogun, etc.), secret agent"},{"example":"隠形","reading":"オンギョウ","meaning":"invisibility (through magic)"}],"kunyomiExamples":[{"example":"隠す","reading":"かくす","meaning":"to hide, to conceal"},{"example":"隠し","reading":"かくし","meaning":"hiding, concealing, being hidden, being concealed, pocket"},{"example":"隠し引き出し","reading":"かくしひきだし","meaning":"secret drawer, hidden drawer"},{"example":"釘隠","reading":"くぎかくし","meaning":"nail hider, nailhead cover, decorative object which conceals the head of a nail"},{"example":"雉隠","reading":"きじかくし","meaning":"Asparagus schoberioides"},{"example":"隠れる","reading":"かくれる","meaning":"to hide, to be hidden, to conceal oneself, to disappear"}],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["ノ","ヨ","尚","心","阡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38560_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096a0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96a0.gif","uri":"https://jisho.org/search/%E9%9A%A0%23kanji"}}
+{
+  "id": "隠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "隠",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1089",
+    "strokeCount": 14,
+    "meaning": "conceal, hide, cover",
+    "kunyomi": [
+      "かく.す",
+      "かく.し",
+      "かく.れる",
+      "よ.る"
+    ],
+    "onyomi": [
+      "イン",
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "隠滅",
+        "reading": "インメツ",
+        "meaning": "destruction (esp. of evidence), spoliation, suppression, hiding, concealment"
+      },
+      {
+        "example": "陰謀",
+        "reading": "インボウ",
+        "meaning": "plot, intrigue, scheme, conspiracy, agreement between two or more people to commit an unlawful act"
+      },
+      {
+        "example": "退隠",
+        "reading": "タイイン",
+        "meaning": "retirement (from an official position)"
+      },
+      {
+        "example": "大隠",
+        "reading": "タイイン",
+        "meaning": "enlightened hermit"
+      },
+      {
+        "example": "隠密",
+        "reading": "オンミツ",
+        "meaning": "secret, clandestine, covert, stealthy, spy (for a daimyo, shogun, etc.), secret agent"
+      },
+      {
+        "example": "隠形",
+        "reading": "オンギョウ",
+        "meaning": "invisibility (through magic)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "隠す",
+        "reading": "かくす",
+        "meaning": "to hide, to conceal"
+      },
+      {
+        "example": "隠し",
+        "reading": "かくし",
+        "meaning": "hiding, concealing, being hidden, being concealed, pocket"
+      },
+      {
+        "example": "隠し引き出し",
+        "reading": "かくしひきだし",
+        "meaning": "secret drawer, hidden drawer"
+      },
+      {
+        "example": "釘隠",
+        "reading": "くぎかくし",
+        "meaning": "nail hider, nailhead cover, decorative object which conceals the head of a nail"
+      },
+      {
+        "example": "雉隠",
+        "reading": "きじかくし",
+        "meaning": "Asparagus schoberioides"
+      },
+      {
+        "example": "隠れる",
+        "reading": "かくれる",
+        "meaning": "to hide, to conceal oneself, to take cover, to disappear (behind), to be hidden (by), to be covered, to go out of sight, to live in seclusion, to retire (from the world), to be unknown (e.g. of a talent), to be undiscovered, to be hidden (e.g. of a meaning), to pass away (of a person of high position)"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "ノ",
+      "ヨ",
+      "尚",
+      "心",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38560_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96a0.gif",
+    "uri": "https://jisho.org/search/%E9%9A%A0%23kanji"
+  }
+}

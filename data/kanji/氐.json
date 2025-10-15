@@ -1,1 +1,36 @@
-{"id":"氐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"氐","found":true,"strokeCount":5,"meaning":"name of an ancient tribe","kunyomi":["ふもと"],"onyomi":["テイ","タイ","シ","チ"],"onyomiExamples":[{"example":"氐","reading":"テイ","meaning":"Di (ancient Chinese ethnic group), Chinese \"root\" constellation (one of the 28 mansions)"}],"kunyomiExamples":[],"radical":{"symbol":"氏","meaning":"clan"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27664_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c10.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c10.gif","uri":"https://jisho.org/search/%E6%B0%90%23kanji"}}
+{
+  "id": "氐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "氐",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "name of an ancient tribe",
+    "kunyomi": [
+      "ふもと"
+    ],
+    "onyomi": [
+      "テイ",
+      "タイ",
+      "シ",
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "氐",
+        "reading": "テイ",
+        "meaning": "Di (ancient Chinese ethnic group), Chinese \"root\" constellation (one of the 28 mansions)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "氏",
+      "meaning": "clan"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27664_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c10.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c10.gif",
+    "uri": "https://jisho.org/search/%E6%B0%90%23kanji"
+  }
+}

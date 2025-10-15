@@ -1,1 +1,47 @@
-{"id":"嫉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嫉","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2317","strokeCount":13,"meaning":"jealous, envy","kunyomi":["そね.む","ねた.む","にく.む"],"onyomi":["シツ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"嫉む","reading":"そねむ","meaning":"to be jealous of, to envy, to begrudge"},{"example":"妬む","reading":"ねたむ","meaning":"to be jealous of, to envy, to begrudge"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["乞","女","疔","矢"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23241_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ac9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ac9.gif","uri":"https://jisho.org/search/%E5%AB%89%23kanji"}}
+{
+  "id": "嫉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嫉",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2317",
+    "strokeCount": 13,
+    "meaning": "jealous, envy",
+    "kunyomi": [
+      "そね.む",
+      "ねた.む",
+      "にく.む"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "嫉む",
+        "reading": "そねむ",
+        "meaning": "to be jealous of, to envy, to begrudge"
+      },
+      {
+        "example": "妬む",
+        "reading": "ねたむ",
+        "meaning": "to be jealous of, to envy, to begrudge"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "乞",
+      "女",
+      "疔",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23241_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ac9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ac9.gif",
+    "uri": "https://jisho.org/search/%E5%AB%89%23kanji"
+  }
+}

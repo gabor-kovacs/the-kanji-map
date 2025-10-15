@@ -1,1 +1,67 @@
-{"id":"鏑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鏑","found":true,"strokeCount":19,"meaning":"arrowhead","kunyomi":["かぶら","かぶらや","やじり"],"onyomi":["テキ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鏑","reading":"かぶら","meaning":"turnip-shaped whistle made of hollowed-out wood or deer horn (attached to an arrow to sound when fired), arrow with such a whistle attached"},{"example":"鏑矢","reading":"かぶらや","meaning":"arrow with a whistle attached, whistling arrow used to signal the start of battle"},{"example":"八目鏑","reading":"やつめかぶら","meaning":"eight-holed arrow whistle"},{"example":"鳴り鏑","reading":"なりかぶら","meaning":"arrow with a whistle attached, whistling arrow used to signal the start of battle"},{"example":"鏑矢","reading":"かぶらや","meaning":"arrow with a whistle attached, whistling arrow used to signal the start of battle"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["亠","冂","十","口","并","滴","立","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37841_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093d1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93d1.gif","uri":"https://jisho.org/search/%E9%8F%91%23kanji"}}
+{
+  "id": "鏑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鏑",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "arrowhead",
+    "kunyomi": [
+      "かぶら",
+      "かぶらや",
+      "やじり"
+    ],
+    "onyomi": [
+      "テキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鏑",
+        "reading": "かぶら",
+        "meaning": "turnip-shaped whistle made of hollowed-out wood or deer horn (attached to an arrow to sound when fired), arrow with such a whistle attached"
+      },
+      {
+        "example": "鏑矢",
+        "reading": "かぶらや",
+        "meaning": "arrow with a whistle attached, whistling arrow used to signal the start of battle"
+      },
+      {
+        "example": "八目鏑",
+        "reading": "やつめかぶら",
+        "meaning": "eight-holed arrow whistle"
+      },
+      {
+        "example": "鳴り鏑",
+        "reading": "なりかぶら",
+        "meaning": "arrow with a whistle attached, whistling arrow used to signal the start of battle"
+      },
+      {
+        "example": "鏑矢",
+        "reading": "かぶらや",
+        "meaning": "arrow with a whistle attached, whistling arrow used to signal the start of battle"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "亠",
+      "冂",
+      "十",
+      "口",
+      "并",
+      "滴",
+      "立",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37841_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093d1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93d1.gif",
+    "uri": "https://jisho.org/search/%E9%8F%91%23kanji"
+  }
+}

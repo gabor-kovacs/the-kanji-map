@@ -1,1 +1,33 @@
-{"id":"巛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"巛","found":true,"strokeCount":3,"meaning":"curving river radical (no.47)","kunyomi":["かわ"],"onyomi":["セン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"巛","forms":["川","巜"],"meaning":"river"},"parts":["巛"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24027_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ddb.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ddb.gif","uri":"https://jisho.org/search/%E5%B7%9B%23kanji"}}
+{
+  "id": "巛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巛",
+    "found": true,
+    "strokeCount": 3,
+    "meaning": "curving river radical (no.47)",
+    "kunyomi": [
+      "かわ"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巛",
+      "forms": [
+        "川",
+        "巜"
+      ],
+      "meaning": "river"
+    },
+    "parts": [
+      "巛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24027_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ddb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ddb.gif",
+    "uri": "https://jisho.org/search/%E5%B7%9B%23kanji"
+  }
+}

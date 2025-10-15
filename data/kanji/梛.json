@@ -1,1 +1,55 @@
-{"id":"梛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梛","found":true,"strokeCount":11,"meaning":"type of tall evergreen tree","kunyomi":["なぎ"],"onyomi":["ダ","ナ"],"onyomiExamples":[{"example":"梛","reading":"ナギ","meaning":"nagi (species of conifer, Nageia nagi)"},{"example":"梛筏","reading":"ナギイカダ","meaning":"butcher's broom (Ruscus aculeatus)"}],"kunyomiExamples":[{"example":"梛","reading":"なぎ","meaning":"nagi (species of conifer, Nageia nagi)"},{"example":"梛筏","reading":"なぎいかだ","meaning":"butcher's broom (Ruscus aculeatus)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["二","刀","木","邦"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26779_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0689b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/689b.gif","uri":"https://jisho.org/search/%E6%A2%9B%23kanji"}}
+{
+  "id": "梛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梛",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "type of tall evergreen tree",
+    "kunyomi": [
+      "なぎ"
+    ],
+    "onyomi": [
+      "ダ",
+      "ナ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梛",
+        "reading": "ナギ",
+        "meaning": "nagi (species of conifer, Nageia nagi)"
+      },
+      {
+        "example": "梛筏",
+        "reading": "ナギイカダ",
+        "meaning": "butcher's broom (Ruscus aculeatus)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梛",
+        "reading": "なぎ",
+        "meaning": "nagi (species of conifer, Nageia nagi)"
+      },
+      {
+        "example": "梛筏",
+        "reading": "なぎいかだ",
+        "meaning": "butcher's broom (Ruscus aculeatus)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "二",
+      "刀",
+      "木",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26779_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0689b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/689b.gif",
+    "uri": "https://jisho.org/search/%E6%A2%9B%23kanji"
+  }
+}

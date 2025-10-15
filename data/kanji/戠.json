@@ -1,1 +1,27 @@
-{"id":"戠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"戠","found":true,"strokeCount":13,"meaning":"sword, potter's clay, to gather","kunyomi":[],"onyomi":["ショク","シキ","シ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"戈","meaning":"spear, halberd"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25120_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06220.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6220.gif","uri":"https://jisho.org/search/%E6%88%A0%23kanji"}}
+{
+  "id": "戠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戠",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "sword, potter's clay, to gather",
+    "kunyomi": [],
+    "onyomi": [
+      "ショク",
+      "シキ",
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "spear, halberd"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25120_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06220.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6220.gif",
+    "uri": "https://jisho.org/search/%E6%88%A0%23kanji"
+  }
+}

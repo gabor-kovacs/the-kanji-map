@@ -1,1 +1,37 @@
-{"id":"懴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"懴","found":true,"strokeCount":18,"meaning":"remorse","kunyomi":["くい.る"],"onyomi":["ザン","サン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["土","忙","戈","韭"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25076_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061f4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61f4.gif","uri":"https://jisho.org/search/%E6%87%B4%23kanji"}}
+{
+  "id": "懴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懴",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "remorse",
+    "kunyomi": [
+      "くい.る"
+    ],
+    "onyomi": [
+      "ザン",
+      "サン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "土",
+      "忙",
+      "戈",
+      "韭"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25076_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061f4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61f4.gif",
+    "uri": "https://jisho.org/search/%E6%87%B4%23kanji"
+  }
+}

@@ -1,1 +1,43 @@
-{"id":"鶲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鶲","found":true,"strokeCount":21,"meaning":"crested flycatcher, peewee","kunyomi":["ひたき"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"鶲","reading":"ひたき","meaning":"Old World flycatcher (any bird of family Muscicapinae, esp. the typical flycatchers of subfamily Muscicapinae)"},{"example":"嘴黒鶲","reading":"はしぐろひたき","meaning":"northern wheatear (Oenanthe oenanthe)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["ハ","冫","厶","杰","羽","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40370_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09db2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9db2.gif","uri":"https://jisho.org/search/%E9%B6%B2%23kanji"}}
+{
+  "id": "鶲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鶲",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "crested flycatcher, peewee",
+    "kunyomi": [
+      "ひたき"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鶲",
+        "reading": "ひたき",
+        "meaning": "Old World flycatcher (any bird of family Muscicapinae, esp. the typical flycatchers of subfamily Muscicapinae)"
+      },
+      {
+        "example": "嘴黒鶲",
+        "reading": "はしぐろひたき",
+        "meaning": "northern wheatear (Oenanthe oenanthe)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "ハ",
+      "冫",
+      "厶",
+      "杰",
+      "羽",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40370_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09db2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9db2.gif",
+    "uri": "https://jisho.org/search/%E9%B6%B2%23kanji"
+  }
+}

@@ -1,1 +1,39 @@
-{"id":"冩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冩","found":true,"strokeCount":14,"meaning":"write, draw, sketch, compose","kunyomi":["うつ.す","うつ.る"],"onyomi":["シャ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"冖","meaning":"cover"},"parts":["冖","勹","杰","臼"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20905_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a9.gif","uri":"https://jisho.org/search/%E5%86%A9%23kanji"}}
+{
+  "id": "冩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冩",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "write, draw, sketch, compose",
+    "kunyomi": [
+      "うつ.す",
+      "うつ.る"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "写真",
+        "reading": "シャシン",
+        "meaning": "photograph, photo, picture, photography, moving picture, movie"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冖",
+      "meaning": "cover"
+    },
+    "parts": [
+      "冖",
+      "勹",
+      "杰",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20905_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a9.gif",
+    "uri": "https://jisho.org/search/%E5%86%A9%23kanji"
+  }
+}

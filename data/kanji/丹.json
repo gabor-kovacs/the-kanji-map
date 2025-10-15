@@ -1,1 +1,77 @@
-{"id":"丹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"丹","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1402","strokeCount":4,"meaning":"rust-colored, red, red lead, pills, sincerity","kunyomi":["に"],"onyomi":["タン"],"onyomiExamples":[{"example":"丹念","reading":"タンネン","meaning":"painstaking, careful, meticulous, scrupulous, detailed, elaborate"},{"example":"丹精","reading":"タンセイ","meaning":"working earnestly, sincerity, diligence, effort, pains"},{"example":"伊勢丹","reading":"イセタン","meaning":"Isetan (department store)"},{"example":"切支丹","reading":"キリシタン","meaning":"Christianity (in feudal Japan), Christian"}],"kunyomiExamples":[{"example":"丹","reading":"に","meaning":"red earth (i.e. containing cinnabar or minium), vermilion"},{"example":"丹色","reading":"にいろ","meaning":"red"},{"example":"海胆","reading":"うに","meaning":"sea urchin, seasoned sea urchin eggs"},{"example":"黄丹","reading":"おうだん","meaning":"orange color traditionally worn by the crown prince"}],"radical":{"symbol":"丶","meaning":"dot"},"parts":["ノ","一","丶","亅"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20025_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e39.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e39.gif","uri":"https://jisho.org/search/%E4%B8%B9%23kanji"}}
+{
+  "id": "丹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "丹",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1402",
+    "strokeCount": 4,
+    "meaning": "rust-colored, red, red lead, pills, sincerity",
+    "kunyomi": [
+      "に"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丹念",
+        "reading": "タンネン",
+        "meaning": "painstaking, careful, meticulous, scrupulous, detailed, elaborate"
+      },
+      {
+        "example": "丹精",
+        "reading": "タンセイ",
+        "meaning": "working earnestly, sincerity, diligence, effort, pains"
+      },
+      {
+        "example": "伊勢丹",
+        "reading": "イセタン",
+        "meaning": "Isetan (department store)"
+      },
+      {
+        "example": "切支丹",
+        "reading": "キリシタン",
+        "meaning": "Christianity (in feudal Japan), Christian"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "丹",
+        "reading": "に",
+        "meaning": "red earth (i.e. containing cinnabar or minium), vermilion"
+      },
+      {
+        "example": "丹色",
+        "reading": "にいろ",
+        "meaning": "red"
+      },
+      {
+        "example": "海胆",
+        "reading": "うに",
+        "meaning": "sea urchin, seasoned sea urchin eggs"
+      },
+      {
+        "example": "黄丹",
+        "reading": "おうだん",
+        "meaning": "orange color traditionally worn by the crown prince"
+      }
+    ],
+    "radical": {
+      "symbol": "丶",
+      "meaning": "dot"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "丶",
+      "亅"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20025_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e39.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e39.gif",
+    "uri": "https://jisho.org/search/%E4%B8%B9%23kanji"
+  }
+}

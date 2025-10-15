@@ -1,1 +1,45 @@
-{"id":"厠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"厠","found":true,"strokeCount":11,"meaning":"privy, toilet","kunyomi":["かわや"],"onyomi":["シ","ショク"],"onyomiExamples":[],"kunyomiExamples":[{"example":"厠","reading":"かわや","meaning":"privy, toilet"},{"example":"厠の神","reading":"かわやのかみ","meaning":"toilet god, guardian deity of the privy"}],"radical":{"symbol":"厂","meaning":"cliff"},"parts":["ハ","刈","厂","目","貝"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21408_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053a0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53a0.gif","uri":"https://jisho.org/search/%E5%8E%A0%23kanji"}}
+{
+  "id": "厠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "厠",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "privy, toilet",
+    "kunyomi": [
+      "かわや"
+    ],
+    "onyomi": [
+      "シ",
+      "ショク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "厠",
+        "reading": "かわや",
+        "meaning": "privy, toilet"
+      },
+      {
+        "example": "厠の神",
+        "reading": "かわやのかみ",
+        "meaning": "toilet god, guardian deity of the privy"
+      }
+    ],
+    "radical": {
+      "symbol": "厂",
+      "meaning": "cliff"
+    },
+    "parts": [
+      "ハ",
+      "刈",
+      "厂",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21408_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53a0.gif",
+    "uri": "https://jisho.org/search/%E5%8E%A0%23kanji"
+  }
+}

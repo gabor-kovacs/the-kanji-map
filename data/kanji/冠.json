@@ -1,1 +1,77 @@
-{"id":"冠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冠","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1503","strokeCount":9,"meaning":"crown, best, peerless","kunyomi":["かんむり"],"onyomi":["カン"],"onyomiExamples":[{"example":"冠","reading":"カンムリ","meaning":"traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc."},{"example":"冠婚葬祭","reading":"カンコンソウサイ","meaning":"important ceremonial occasions in family relationships"},{"example":"宝冠","reading":"ホウカン","meaning":"diadem, jeweled crown"},{"example":"月桂冠","reading":"ゲッケイカン","meaning":"laurel wreath"}],"kunyomiExamples":[{"example":"冠","reading":"かんむり","meaning":"traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc."},{"example":"冠海雀","reading":"かんむりうみすずめ","meaning":"Japanese murrelet (Synthliboramphus wumizusume), crested murrelet"},{"example":"初冠","reading":"ういこうぶり","meaning":"crowning a boy for the first time at a coming-of-age ceremony, noh cap with a rolled or drooping tail (indicative of nobility)"},{"example":"老冠","reading":"おいかんむり","meaning":"kanji \"old\" radical at top"}],"radical":{"symbol":"冖","meaning":"cover"},"parts":["儿","元","冖","寸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20896_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a0.gif","uri":"https://jisho.org/search/%E5%86%A0%23kanji"}}
+{
+  "id": "冠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冠",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1503",
+    "strokeCount": 9,
+    "meaning": "crown, best, peerless",
+    "kunyomi": [
+      "かんむり"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冠",
+        "reading": "カンムリ",
+        "meaning": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles"
+      },
+      {
+        "example": "冠婚葬祭",
+        "reading": "カンコンソウサイ",
+        "meaning": "important ceremonial occasions in family relationships"
+      },
+      {
+        "example": "宝冠",
+        "reading": "ホウカン",
+        "meaning": "diadem, jeweled crown"
+      },
+      {
+        "example": "月桂冠",
+        "reading": "ゲッケイカン",
+        "meaning": "laurel wreath"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "冠",
+        "reading": "かんむり",
+        "meaning": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles"
+      },
+      {
+        "example": "冠海雀",
+        "reading": "かんむりうみすずめ",
+        "meaning": "Japanese murrelet (Synthliboramphus wumizusume), crested murrelet"
+      },
+      {
+        "example": "初冠",
+        "reading": "ういこうぶり",
+        "meaning": "crowning a boy for the first time at a coming-of-age ceremony, noh cap with a rolled or drooping tail (indicative of nobility)"
+      },
+      {
+        "example": "老冠",
+        "reading": "おいかんむり",
+        "meaning": "kanji \"old\" radical at top"
+      }
+    ],
+    "radical": {
+      "symbol": "冖",
+      "meaning": "cover"
+    },
+    "parts": [
+      "儿",
+      "元",
+      "冖",
+      "寸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20896_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a0.gif",
+    "uri": "https://jisho.org/search/%E5%86%A0%23kanji"
+  }
+}

@@ -1,1 +1,44 @@
-{"id":"戛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"戛","found":true,"strokeCount":11,"meaning":"halberd","kunyomi":["ほこ"],"onyomi":["カツ"],"onyomiExamples":[{"example":"戛戛","reading":"カツカツ","meaning":"clicking, clopping, clacking"},{"example":"戛然","reading":"カツゼン","meaning":"with a clang"}],"kunyomiExamples":[],"radical":{"symbol":"戈","meaning":"spear, halberd"},"parts":["一","戈","白","目","自"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25115_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0621b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/621b.gif","uri":"https://jisho.org/search/%E6%88%9B%23kanji"}}
+{
+  "id": "戛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戛",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "halberd",
+    "kunyomi": [
+      "ほこ"
+    ],
+    "onyomi": [
+      "カツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戛戛",
+        "reading": "カツカツ",
+        "meaning": "clicking, clopping, clacking"
+      },
+      {
+        "example": "戛然",
+        "reading": "カツゼン",
+        "meaning": "with a clang"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "spear, halberd"
+    },
+    "parts": [
+      "一",
+      "戈",
+      "白",
+      "目",
+      "自"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25115_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0621b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/621b.gif",
+    "uri": "https://jisho.org/search/%E6%88%9B%23kanji"
+  }
+}

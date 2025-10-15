@@ -1,1 +1,41 @@
-{"id":"駟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"駟","found":true,"strokeCount":15,"meaning":"four horses","kunyomi":[],"onyomi":["シ"],"onyomiExamples":[{"example":"駟","reading":"シ","meaning":"four-horse carriage, team of four horses"},{"example":"駟馬","reading":"シバ","meaning":"four-horse carriage"}],"kunyomiExamples":[],"radical":{"symbol":"馬","meaning":"horse"},"parts":["儿","囗","杰","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39391_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099df.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99df.gif","uri":"https://jisho.org/search/%E9%A7%9F%23kanji"}}
+{
+  "id": "駟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駟",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "four horses",
+    "kunyomi": [],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駟",
+        "reading": "シ",
+        "meaning": "four-horse carriage, team of four horses"
+      },
+      {
+        "example": "駟馬",
+        "reading": "シバ",
+        "meaning": "four-horse carriage"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "儿",
+      "囗",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39391_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99df.gif",
+    "uri": "https://jisho.org/search/%E9%A7%9F%23kanji"
+  }
+}

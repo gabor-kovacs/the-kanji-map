@@ -1,1 +1,42 @@
-{"id":"蓊","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蓊","found":true,"strokeCount":13,"meaning":"flower stalk, vigorous growth","kunyomi":["とう"],"onyomi":["オウ"],"onyomiExamples":[{"example":"蓊鬱","reading":"オウウツ","meaning":"overgrown, exuberant, lush"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["ハ","冫","厶","羽","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33994_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084ca.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84ca.gif","uri":"https://jisho.org/search/%E8%93%8A%23kanji"}}
+{
+  "id": "蓊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓊",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "flower stalk, vigorous growth",
+    "kunyomi": [
+      "とう"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蓊鬱",
+        "reading": "オウウツ",
+        "meaning": "overgrown, exuberant, lush"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "ハ",
+      "冫",
+      "厶",
+      "羽",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33994_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084ca.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84ca.gif",
+    "uri": "https://jisho.org/search/%E8%93%8A%23kanji"
+  }
+}

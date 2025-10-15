@@ -1,1 +1,38 @@
-{"id":"吁","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"吁","found":true,"strokeCount":6,"meaning":"exclamation","kunyomi":["ああ"],"onyomi":["ク","ウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"嗚呼","reading":"ああ","meaning":"ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["亅","二","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21505_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05401.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5401.gif","uri":"https://jisho.org/search/%E5%90%81%23kanji"}}
+{
+  "id": "吁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吁",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "exclamation",
+    "kunyomi": [
+      "ああ"
+    ],
+    "onyomi": [
+      "ク",
+      "ウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "【ああ】",
+        "reading": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "亅",
+      "二",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21505_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05401.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5401.gif",
+    "uri": "https://jisho.org/search/%E5%90%81%23kanji"
+  }
+}

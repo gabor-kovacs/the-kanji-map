@@ -1,1 +1,57 @@
-{"id":"氈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"氈","found":true,"strokeCount":17,"meaning":"woollen cloth or rug","kunyomi":["もうせん"],"onyomi":["セン"],"onyomiExamples":[{"example":"氈","reading":"カモ","meaning":"carpet, rug (esp. felt)"},{"example":"毛氈","reading":"モウセン","meaning":"carpet, rug (esp. felt)"},{"example":"花毛氈","reading":"ハナモウセン","meaning":"figured carpet"}],"kunyomiExamples":[{"example":"花毛氈","reading":"はなもうせん","meaning":"figured carpet"}],"radical":{"symbol":"毛","meaning":"fur, hair"},"parts":["一","亠","口","囗","日","毛","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27656_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c08.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c08.gif","uri":"https://jisho.org/search/%E6%B0%88%23kanji"}}
+{
+  "id": "氈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "氈",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "woollen cloth or rug",
+    "kunyomi": [
+      "もうせん"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "氈",
+        "reading": "カモ",
+        "meaning": "carpet, rug (esp. felt)"
+      },
+      {
+        "example": "毛氈",
+        "reading": "モウセン",
+        "meaning": "carpet, rug (esp. felt)"
+      },
+      {
+        "example": "花毛氈",
+        "reading": "ハナモウセン",
+        "meaning": "figured carpet"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "花毛氈",
+        "reading": "はなもうせん",
+        "meaning": "figured carpet"
+      }
+    ],
+    "radical": {
+      "symbol": "毛",
+      "meaning": "fur, hair"
+    },
+    "parts": [
+      "一",
+      "亠",
+      "口",
+      "囗",
+      "日",
+      "毛",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27656_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c08.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c08.gif",
+    "uri": "https://jisho.org/search/%E6%B0%88%23kanji"
+  }
+}

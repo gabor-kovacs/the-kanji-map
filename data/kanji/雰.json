@@ -1,1 +1,43 @@
-{"id":"雰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"雰","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1341","strokeCount":12,"meaning":"atmosphere, fog","kunyomi":[],"onyomi":["フン"],"onyomiExamples":[{"example":"雰囲気","reading":"フンイキ","meaning":"atmosphere, mood, ambience, ambiance, aura, feel, a certain air, presence, special aura, something (about someone), (Earth's) atmosphere"},{"example":"雰囲気美人","reading":"フンイキビジン","meaning":"woman who is not traditionally beautiful yet somehow very attractive, woman with an aura of beauty"}],"kunyomiExamples":[],"radical":{"symbol":"雨","meaning":"rain"},"parts":["ハ","刀","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38640_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096f0.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96f0.gif","uri":"https://jisho.org/search/%E9%9B%B0%23kanji"}}
+{
+  "id": "雰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雰",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1341",
+    "strokeCount": 12,
+    "meaning": "atmosphere, fog",
+    "kunyomi": [],
+    "onyomi": [
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雰囲気",
+        "reading": "フンイキ",
+        "meaning": "atmosphere, mood, ambience, ambiance, aura, feel, a certain air, presence, special aura, something (about someone), (Earth's) atmosphere"
+      },
+      {
+        "example": "雰囲気美人",
+        "reading": "フンイキビジン",
+        "meaning": "woman who is not traditionally beautiful yet somehow very attractive, woman with an aura of beauty"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "ハ",
+      "刀",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38640_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096f0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96f0.gif",
+    "uri": "https://jisho.org/search/%E9%9B%B0%23kanji"
+  }
+}

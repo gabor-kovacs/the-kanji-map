@@ -1,1 +1,38 @@
-{"id":"殤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"殤","found":true,"strokeCount":15,"meaning":"dying at a young age","kunyomi":["わかじに"],"onyomi":["ショウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"歹","forms":["歺"],"meaning":"death, decay"},"parts":["ノ","一","乞","勹","勿","日","歹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27556_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ba4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ba4.gif","uri":"https://jisho.org/search/%E6%AE%A4%23kanji"}}
+{
+  "id": "殤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殤",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "dying at a young age",
+    "kunyomi": [
+      "わかじに"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "歹",
+      "forms": [
+        "歺"
+      ],
+      "meaning": "death, decay"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "勹",
+      "勿",
+      "日",
+      "歹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27556_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ba4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ba4.gif",
+    "uri": "https://jisho.org/search/%E6%AE%A4%23kanji"
+  }
+}

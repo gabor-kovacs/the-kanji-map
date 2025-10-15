@@ -1,1 +1,44 @@
-{"id":"萸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"萸","found":true,"strokeCount":12,"meaning":"oleaster, river ginger tree","kunyomi":[],"onyomi":["ユ"],"onyomiExamples":[{"example":"呉茱萸","reading":"ゴシュユ","meaning":"Tetradium ruticarpum (species of deciduous trees)"},{"example":"山茱萸","reading":"サンシュユ","meaning":"Asiatic dogwood (Cornus officinalis), Japanese cornel, Japanese cornelian-cherry"}],"kunyomiExamples":[],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["人","日","臼","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33848_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08438.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8438.gif","uri":"https://jisho.org/search/%E8%90%B8%23kanji"}}
+{
+  "id": "萸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "萸",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "oleaster, river ginger tree",
+    "kunyomi": [],
+    "onyomi": [
+      "ユ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呉茱萸",
+        "reading": "ゴシュユ",
+        "meaning": "Tetradium ruticarpum (species of deciduous trees)"
+      },
+      {
+        "example": "山茱萸",
+        "reading": "サンシュユ",
+        "meaning": "Asiatic dogwood (Cornus officinalis), Japanese cornel, Japanese cornelian-cherry"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "人",
+      "日",
+      "臼",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33848_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08438.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8438.gif",
+    "uri": "https://jisho.org/search/%E8%90%B8%23kanji"
+  }
+}

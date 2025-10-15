@@ -1,1 +1,48 @@
-{"id":"簒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"簒","found":true,"strokeCount":17,"meaning":"rob","kunyomi":["うば.う"],"onyomi":["サン","セン"],"onyomiExamples":[{"example":"簒奪","reading":"サンダツ","meaning":"usurpation"},{"example":"簒立","reading":"サンリツ","meaning":"usurping the throne"}],"kunyomiExamples":[],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","厶","大","目","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31762_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c12.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c12.gif","uri":"https://jisho.org/search/%E7%B0%92%23kanji"}}
+{
+  "id": "簒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "簒",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "rob",
+    "kunyomi": [
+      "うば.う"
+    ],
+    "onyomi": [
+      "サン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "簒位",
+        "reading": "サンイ",
+        "meaning": "usurpation"
+      },
+      {
+        "example": "簒奪",
+        "reading": "サンダツ",
+        "meaning": "usurpation"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "厶",
+      "大",
+      "目",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31762_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c12.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c12.gif",
+    "uri": "https://jisho.org/search/%E7%B0%92%23kanji"
+  }
+}

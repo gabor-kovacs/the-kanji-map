@@ -1,1 +1,55 @@
-{"id":"頻","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"頻","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1590","strokeCount":17,"meaning":"repeatedly, recur","kunyomi":["しき.りに"],"onyomi":["ヒン"],"onyomiExamples":[{"example":"頻繁","reading":"ヒンパン","meaning":"frequent, incessant"},{"example":"頻度","reading":"ヒンド","meaning":"frequency (of occurrence)"}],"kunyomiExamples":[{"example":"頻りに","reading":"しきりに","meaning":"frequently, repeatedly, often, incessantly, constantly, eagerly, keenly, strongly, intently, hard, terribly, extremely, severely"}],"radical":{"symbol":"頁","meaning":"leaf"},"parts":["ノ","ハ","小","止","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38971_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0983b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/983b.gif","uri":"https://jisho.org/search/%E9%A0%BB%23kanji"}}
+{
+  "id": "頻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頻",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1590",
+    "strokeCount": 17,
+    "meaning": "repeatedly, recur",
+    "kunyomi": [
+      "しき.りに"
+    ],
+    "onyomi": [
+      "ヒン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頻繁",
+        "reading": "ヒンパン",
+        "meaning": "frequent, incessant"
+      },
+      {
+        "example": "頻度",
+        "reading": "ヒンド",
+        "meaning": "frequency (of occurrence)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頻りに",
+        "reading": "しきりに",
+        "meaning": "frequently, repeatedly, often, incessantly, constantly, eagerly, keenly, strongly, intently, hard, terribly, extremely, severely"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "leaf"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "小",
+      "止",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38971_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0983b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/983b.gif",
+    "uri": "https://jisho.org/search/%E9%A0%BB%23kanji"
+  }
+}

@@ -1,1 +1,85 @@
-{"id":"龍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"龍","found":true,"newspaperFrequencyRank":"1734","strokeCount":16,"meaning":"dragon, imperial","kunyomi":["たつ"],"onyomi":["リュウ","リョウ","ロウ"],"onyomiExamples":[{"example":"竜","reading":"リュウ","meaning":"dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"},{"example":"竜王","reading":"リュウオウ","meaning":"Dragon King, promoted rook"},{"example":"青龍","reading":"セイリョウ","meaning":"blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"},{"example":"応竜","reading":"オウリュウ","meaning":"Yinglong, dragon and rain deity in Chinese mythology"},{"example":"竜","reading":"リュウ","meaning":"dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"},{"example":"竜駕","reading":"リョウガ","meaning":"imperial carriage"},{"example":"青龍","reading":"セイリョウ","meaning":"blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"},{"example":"蛟竜","reading":"コウリョウ","meaning":"mizuchi, mythical dragon-like beast, believed to ascend to the heavens through rain, unfulfilled genius, dormant talent"}],"kunyomiExamples":[{"example":"竜","reading":"りゅう","meaning":"dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"},{"example":"龍頭","reading":"たつがしら","meaning":"something in the shape of a dragon's head (esp. a helmet crest)"}],"radical":{"symbol":"龍","meaning":"dragon"},"parts":["月","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40845_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f8d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f8d.gif","uri":"https://jisho.org/search/%E9%BE%8D%23kanji"}}
+{
+  "id": "龍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "龍",
+    "found": true,
+    "newspaperFrequencyRank": "1734",
+    "strokeCount": 16,
+    "meaning": "dragon, imperial",
+    "kunyomi": [
+      "たつ"
+    ],
+    "onyomi": [
+      "リュウ",
+      "リョウ",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "竜",
+        "reading": "リュウ",
+        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+      },
+      {
+        "example": "竜王",
+        "reading": "リュウオウ",
+        "meaning": "Dragon King, promoted rook"
+      },
+      {
+        "example": "青龍",
+        "reading": "セイリョウ",
+        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+      },
+      {
+        "example": "応竜",
+        "reading": "オウリュウ",
+        "meaning": "Yinglong, dragon and rain deity in Chinese mythology"
+      },
+      {
+        "example": "竜",
+        "reading": "リュウ",
+        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+      },
+      {
+        "example": "竜駕",
+        "reading": "リョウガ",
+        "meaning": "imperial carriage"
+      },
+      {
+        "example": "青龍",
+        "reading": "セイリョウ",
+        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+      },
+      {
+        "example": "蛟竜",
+        "reading": "コウリョウ",
+        "meaning": "mizuchi, aquatic, dragon-like beast with four feet, horns and poisonous breath, unfulfilled genius, dormant talent"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "竜",
+        "reading": "りゅう",
+        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+      },
+      {
+        "example": "竜巻",
+        "reading": "たつまき",
+        "meaning": "tornado, whirlwind, waterspout, twister"
+      }
+    ],
+    "radical": {
+      "symbol": "龍",
+      "meaning": "dragon"
+    },
+    "parts": [
+      "月",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40845_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f8d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f8d.gif",
+    "uri": "https://jisho.org/search/%E9%BE%8D%23kanji"
+  }
+}

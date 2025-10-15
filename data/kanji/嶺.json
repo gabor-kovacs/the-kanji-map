@@ -1,1 +1,61 @@
-{"id":"嶺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嶺","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1959","strokeCount":17,"meaning":"peak, summit","kunyomi":["みね"],"onyomi":["レイ","リョウ"],"onyomiExamples":[{"example":"高嶺","reading":"タカネ","meaning":"high peak"},{"example":"分水嶺","reading":"ブンスイレイ","meaning":"watershed, divide"}],"kunyomiExamples":[{"example":"峰","reading":"みね","meaning":"peak, summit, ridge, top, back of a blade"},{"example":"峰桜","reading":"みねざくら","meaning":"Japanese alpine cherry (Prunus nipponica)"}],"radical":{"symbol":"山","meaning":"mountain"},"parts":["ハ","一","个","卩","山","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23994_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dba.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dba.gif","uri":"https://jisho.org/search/%E5%B6%BA%23kanji"}}
+{
+  "id": "嶺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嶺",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1959",
+    "strokeCount": 17,
+    "meaning": "peak, summit",
+    "kunyomi": [
+      "みね"
+    ],
+    "onyomi": [
+      "レイ",
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "高嶺",
+        "reading": "タカネ",
+        "meaning": "high peak"
+      },
+      {
+        "example": "分水嶺",
+        "reading": "ブンスイレイ",
+        "meaning": "watershed, divide"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "峰",
+        "reading": "みね",
+        "meaning": "peak, summit, ridge, top, back of a blade"
+      },
+      {
+        "example": "峰桜",
+        "reading": "みねざくら",
+        "meaning": "Japanese alpine cherry (Prunus nipponica)"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "个",
+      "卩",
+      "山",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23994_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dba.gif",
+    "uri": "https://jisho.org/search/%E5%B6%BA%23kanji"
+  }
+}

@@ -1,1 +1,57 @@
-{"id":"艮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"艮","found":true,"strokeCount":6,"meaning":"northeast (Oriental zodiac), stopping, good radical (no. 138)","kunyomi":["うしとら"],"onyomi":["コン","ゴン"],"onyomiExamples":[{"example":"艮","reading":"ゴン","meaning":"gen (one of the trigrams of the I Ching: mountain, northeast)"},{"example":"艮","reading":"ゴン","meaning":"gen (one of the trigrams of the I Ching: mountain, northeast)"},{"example":"艮下艮上","reading":"ゴンカゴンショウ","meaning":"one of the 64 trigrams"},{"example":"儒艮","reading":"ジュゴン","meaning":"dugong (Dugong dugon), sea pig"}],"kunyomiExamples":[{"example":"丑寅","reading":"うしとら","meaning":"northeast"}],"radical":{"symbol":"艮","meaning":"stopping"},"parts":["艮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33390_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0826e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/826e.gif","uri":"https://jisho.org/search/%E8%89%AE%23kanji"}}
+{
+  "id": "艮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艮",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "northeast (Oriental zodiac), stopping, good radical (no. 138)",
+    "kunyomi": [
+      "うしとら"
+    ],
+    "onyomi": [
+      "コン",
+      "ゴン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艮",
+        "reading": "ゴン",
+        "meaning": "gen (one of the trigrams of the I Ching: mountain, northeast)"
+      },
+      {
+        "example": "艮",
+        "reading": "ゴン",
+        "meaning": "gen (one of the trigrams of the I Ching: mountain, northeast)"
+      },
+      {
+        "example": "艮下艮上",
+        "reading": "ゴンカゴンショウ",
+        "meaning": "one of the 64 trigrams"
+      },
+      {
+        "example": "【ジュゴン】",
+        "reading": "dugong (Dugong dugon), sea pig",
+        "meaning": ""
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "丑寅",
+        "reading": "うしとら",
+        "meaning": "northeast"
+      }
+    ],
+    "radical": {
+      "symbol": "艮",
+      "meaning": "stopping"
+    },
+    "parts": [
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33390_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0826e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/826e.gif",
+    "uri": "https://jisho.org/search/%E8%89%AE%23kanji"
+  }
+}

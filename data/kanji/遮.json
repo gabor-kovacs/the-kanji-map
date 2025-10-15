@@ -1,1 +1,62 @@
-{"id":"遮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遮","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1865","strokeCount":14,"meaning":"intercept, interrupt, obstruct","kunyomi":["さえぎ.る"],"onyomi":["シャ"],"onyomiExamples":[{"example":"遮断機","reading":"シャダンキ","meaning":"(railway) crossing gate, barrier (at a toll booth, parking lot, etc.)"},{"example":"遮断器","reading":"シャダンキ","meaning":"circuit breaker"},{"example":"間遮","reading":"アイシャ","meaning":"piece placed to block opponent's check, interposed piece"}],"kunyomiExamples":[{"example":"遮る","reading":"さえぎる","meaning":"to interrupt, to obstruct (a view, someone's way, etc.), to block (light, wind, etc.), to intercept, to cut off"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["一","广","杰","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36974_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0906e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/906e.gif","uri":"https://jisho.org/search/%E9%81%AE%23kanji"}}
+{
+  "id": "遮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遮",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1865",
+    "strokeCount": 14,
+    "meaning": "intercept, interrupt, obstruct",
+    "kunyomi": [
+      "さえぎ.る"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遮断機",
+        "reading": "シャダンキ",
+        "meaning": "(railway) crossing gate, barrier (at a toll booth, parking lot, etc.)"
+      },
+      {
+        "example": "遮断器",
+        "reading": "シャダンキ",
+        "meaning": "circuit breaker"
+      },
+      {
+        "example": "間遮",
+        "reading": "アイシャ",
+        "meaning": "piece placed to block opponent's check, interposed piece"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "遮る",
+        "reading": "さえぎる",
+        "meaning": "to interrupt, to obstruct (a view, someone's way, etc.), to block (light, wind, etc.), to intercept, to cut off"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "一",
+      "广",
+      "杰",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36974_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0906e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/906e.gif",
+    "uri": "https://jisho.org/search/%E9%81%AE%23kanji"
+  }
+}

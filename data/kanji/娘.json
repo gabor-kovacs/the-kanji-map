@@ -1,1 +1,338 @@
-{"id":"娘","kanjialiveData":{"kanji":{"character":"娘","meaning":{"english":"daughter, girl"},"strokes":{"count":10,"timings":[0,1.933333,3.2,4.733333,5.866667,7.266667,8.266667,9.4,11,11.666667,15],"images":["https://media.kanjialive.com/kanji_strokes/musume_1.svg","https://media.kanjialive.com/kanji_strokes/musume_2.svg","https://media.kanjialive.com/kanji_strokes/musume_3.svg","https://media.kanjialive.com/kanji_strokes/musume_4.svg","https://media.kanjialive.com/kanji_strokes/musume_5.svg","https://media.kanjialive.com/kanji_strokes/musume_6.svg","https://media.kanjialive.com/kanji_strokes/musume_7.svg","https://media.kanjialive.com/kanji_strokes/musume_8.svg","https://media.kanjialive.com/kanji_strokes/musume_9.svg","https://media.kanjialive.com/kanji_strokes/musume_10.svg"]},"onyomi":{"romaji":"n/a","katakana":""},"kunyomi":{"romaji":"musume","hiragana":"むすめ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/musume_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/musume_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/musume_00.webm"}},"radical":{"character":"","strokes":3,"image":"https://media.kanjialive.com/radical_character/onnahen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"おんなへん","romaji":"onnahen"},"meaning":{"english":"woman"},"animation":["https://media.kanjialive.com/rad_frames/onnahen0.svg","https://media.kanjialive.com/rad_frames/onnahen1.svg","https://media.kanjialive.com/rad_frames/onnahen2.svg"]},"references":{"grade":null,"kodansha":"302","classic_nelson":"1225"},"examples":[{"japanese":"娘（むすめ）","meaning":{"english":"daughter, girl"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/musume_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/musume_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/musume_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/musume_06_a.mp3"}},{"japanese":"娘心（むすめごころ）","meaning":{"english":"girlish character"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/musume_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/musume_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/musume_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/musume_06_b.mp3"}},{"japanese":"娘婿（むすめむこ）","meaning":{"english":"son-in-law"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/musume_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/musume_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/musume_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/musume_06_c.mp3"}},{"japanese":"孫娘（まごむすめ）","meaning":{"english":"granddaughter"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/musume_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/musume_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/musume_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/musume_06_d.mp3"}},{"japanese":"箱入り娘（はこいりむすめ）","meaning":{"english":"girl who has led a sheltered life"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/musume_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/musume_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/musume_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/musume_06_e.mp3"}}]},"jishoData":{"query":"娘","found":true,"taughtIn":"junior high","jlptLevel":"N3","newspaperFrequencyRank":"1145","strokeCount":10,"meaning":"daughter, girl","kunyomi":["むすめ","こ"],"onyomi":["ジョウ"],"onyomiExamples":[{"example":"嬢","reading":"ジョウ","meaning":"unmarried woman, Miss, -ess, -ette"},{"example":"娘核","reading":"ジョウカク","meaning":"daughter nucleus"},{"example":"令娘","reading":"レイジョウ","meaning":"your daughter, young lady"},{"example":"中国娘","reading":"チュウゴクジョウ","meaning":"Chinese girl"}],"kunyomiExamples":[{"example":"娘","reading":"むすめ","meaning":"daughter, girl (i.e. a young, unmarried woman)"},{"example":"娘婿","reading":"むすめむこ","meaning":"son-in-law"},{"example":"一人娘","reading":"ひとりむすめ","meaning":"only daughter"},{"example":"もらい娘","reading":"もらいむすめ","meaning":"adopted daughter"},{"example":"ボクっ娘","reading":"ボクっこ","meaning":"young woman who uses the first person pronoun \"boku\""},{"example":"ドジっ子","reading":"ドジっこ","meaning":"clumsy girl"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["女","艮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23064_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a18.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a18.gif","uri":"https://jisho.org/search/%E5%A8%98%23kanji"}}
+{
+  "id": "娘",
+  "kanjialiveData": {
+    "_id": "54317b09791eba5146ee4c43",
+    "_rev": "11-d491cac378b6584077d682f915b8d395",
+    "rad_name_ja": "おんなへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "musume",
+    "meaning": "daughter, girl",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "娘（むすめ）",
+        "meaning": {
+          "english": "daughter, girl"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musume_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/musume_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/musume_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/musume_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "娘心（むすめごころ）",
+        "meaning": {
+          "english": "girlish character"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musume_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/musume_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/musume_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/musume_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "娘婿（むすめむこ）",
+        "meaning": {
+          "english": "son-in-law"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musume_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/musume_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/musume_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/musume_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "孫娘（まごむすめ）",
+        "meaning": {
+          "english": "granddaughter"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musume_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/musume_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/musume_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/musume_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "箱入り娘（はこいりむすめ）",
+        "meaning": {
+          "english": "girl who has led a sheltered life"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/musume_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/musume_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/musume_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/musume_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "むすめ",
+    "ka_utf": "娘",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=娘",
+    "kname": "musume",
+    "rad_order": 45,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "27",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "21"
+      }
+    ],
+    "rad_name_search": [
+      "onnahen"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.933333,
+      3.2,
+      4.733333,
+      5.866667,
+      7.266667,
+      8.266667,
+      9.4,
+      11,
+      11.666667,
+      15
+    ],
+    "kunyomi_ka_display": "むすめ",
+    "dick": "302",
+    "rad_name": "onnahen",
+    "dicn": "1225",
+    "mn_hint": "Girl 女 during carefree/good 良 time in her life.",
+    "rad_stroke": 3,
+    "onyomi_ja": "",
+    "rad_meaning": "woman",
+    "onyomi": "n/a",
+    "ka_id": "ka_848",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "kunyomi_search": [
+      "musume",
+      "musume"
+    ],
+    "meaning_search": [
+      "daughter",
+      "girl",
+      "daughter, girl"
+    ],
+    "onyomi_ja_search": [
+      ""
+    ],
+    "kunyomi_ja_search": [
+      "むすめ",
+      "むすめ"
+    ],
+    "rad_meaning_search": [
+      "woman",
+      "woman"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "おんなへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:20",
+      "ij:c20",
+      "kll",
+      "kll:27",
+      "kll:c27",
+      "jtr",
+      "jtr:13",
+      "jtr:c13",
+      "cijr",
+      "cijr:21",
+      "cijr:c21"
+    ],
+    "rad_name_file": "onnahen",
+    "kanji": {
+      "character": "娘",
+      "meaning": {
+        "english": "daughter, girl"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          1.933333,
+          3.2,
+          4.733333,
+          5.866667,
+          7.266667,
+          8.266667,
+          9.4,
+          11,
+          11.666667,
+          15
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/musume_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/musume_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/musume_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/musume_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/musume_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/musume_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/musume_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/musume_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/musume_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/musume_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "n/a",
+        "katakana": ""
+      },
+      "kunyomi": {
+        "romaji": "musume",
+        "hiragana": "むすめ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/musume_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/musume_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/musume_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/onnahen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "おんなへん",
+        "romaji": "onnahen"
+      },
+      "meaning": {
+        "english": "woman"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/onnahen0.svg",
+        "https://media.kanjialive.com/rad_frames/onnahen1.svg",
+        "https://media.kanjialive.com/rad_frames/onnahen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "302",
+      "classic_nelson": "1225"
+    }
+  },
+  "jishoData": {
+    "query": "娘",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "1145",
+    "strokeCount": 10,
+    "meaning": "daughter, girl",
+    "kunyomi": [
+      "むすめ",
+      "こ"
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嬢",
+        "reading": "ジョウ",
+        "meaning": "unmarried woman, Miss, -ess, -ette"
+      },
+      {
+        "example": "娘核",
+        "reading": "ジョウカク",
+        "meaning": "daughter nucleus"
+      },
+      {
+        "example": "令娘",
+        "reading": "レイジョウ",
+        "meaning": "your daughter, young lady"
+      },
+      {
+        "example": "中国娘",
+        "reading": "チュウゴクジョウ",
+        "meaning": "Chinese girl"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "娘",
+        "reading": "むすめ",
+        "meaning": "daughter, girl (i.e. a young, unmarried woman)"
+      },
+      {
+        "example": "娘婿",
+        "reading": "むすめむこ",
+        "meaning": "son-in-law"
+      },
+      {
+        "example": "一人娘",
+        "reading": "ひとりむすめ",
+        "meaning": "only daughter"
+      },
+      {
+        "example": "もらい娘",
+        "reading": "もらいむすめ",
+        "meaning": "adopted daughter"
+      },
+      {
+        "example": "娘",
+        "reading": "むすめ",
+        "meaning": "daughter, girl (i.e. a young, unmarried woman)"
+      },
+      {
+        "example": "ボクっ娘",
+        "reading": "ぼくっこ",
+        "meaning": "young woman who uses the usually male first person pronoun \"boku\""
+      },
+      {
+        "example": "ドジっ子",
+        "reading": "どじっこ",
+        "meaning": "clumsy girl, clumsy kid"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "女",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23064_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a18.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a18.gif",
+    "uri": "https://jisho.org/search/%E5%A8%98%23kanji"
+  }
+}

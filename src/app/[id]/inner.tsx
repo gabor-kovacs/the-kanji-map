@@ -15,7 +15,7 @@ import React from "react";
 interface KanjiPageContentProps {
   kanjiInfo: KanjiInfo; // Replace 'any' with the actual type
   graphData: BothGraphData; // Replace 'any' with the actual type
-  strokeAnimation: string; // Replace 'any' with the actual type
+  strokeAnimation: string | null; // Replace 'any' with the actual type
 }
 
 export function KanjiPageContent({
@@ -102,14 +102,14 @@ export function KanjiPageContent({
             <DrawInput />
           </div>
           <ScrollArea className="w-full h-full">
-          <div className="p-4 border-l">
-            <Kanji
-              screen="desktop"
-              kanjiInfo={kanjiInfo}
-              graphData={graphData}
-              strokeAnimation={strokeAnimation}
-            />
-          </div>
+            <div className="p-4 border-l">
+              <Kanji
+                screen="desktop"
+                kanjiInfo={kanjiInfo}
+                graphData={graphData}
+                strokeAnimation={strokeAnimation}
+              />
+            </div>
           </ScrollArea>
           <div className="p-4 border-l">
             <Radical kanjiInfo={kanjiInfo} />

@@ -1,1 +1,52 @@
-{"id":"俄","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"俄","found":true,"strokeCount":9,"meaning":"sudden, abrupt, improvised","kunyomi":["にわか"],"onyomi":["ガ"],"onyomiExamples":[{"example":"俄然","reading":"ガゼン","meaning":"suddenly, all of a sudden, abruptly"}],"kunyomiExamples":[{"example":"俄","reading":"にわか","meaning":"sudden, abrupt, unexpected, improvised, hasty, offhand, impromptu skit, bandwagon fan, fair-weather fan"},{"example":"俄かに","reading":"にわかに","meaning":"suddenly, abruptly, unexpectedly"}],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["亅","化","戈","手"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20420_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fc4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fc4.gif","uri":"https://jisho.org/search/%E4%BF%84%23kanji"}}
+{
+  "id": "俄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "俄",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "sudden, abrupt, improvised",
+    "kunyomi": [
+      "にわか"
+    ],
+    "onyomi": [
+      "ガ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "俄然",
+        "reading": "ガゼン",
+        "meaning": "suddenly, all of a sudden, abruptly, very, absolutely, by far"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "俄",
+        "reading": "にわか",
+        "meaning": "sudden, abrupt, unexpected, immediate, hasty, improvised, impromptu, offhand, impromptu skit, bandwagon fan, fair-weather fan"
+      },
+      {
+        "example": "俄かに",
+        "reading": "にわかに",
+        "meaning": "suddenly, abruptly, unexpectedly"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "亅",
+      "化",
+      "戈",
+      "手"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20420_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fc4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fc4.gif",
+    "uri": "https://jisho.org/search/%E4%BF%84%23kanji"
+  }
+}

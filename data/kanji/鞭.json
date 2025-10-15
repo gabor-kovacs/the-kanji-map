@@ -1,1 +1,83 @@
-{"id":"鞭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鞭","found":true,"strokeCount":18,"meaning":"whip, rod, counter for whippings","kunyomi":["むち","むちうつ"],"onyomi":["ベン","ヘン"],"onyomiExamples":[{"example":"鞭撻","reading":"ベンタツ","meaning":"encouragement, urging, spurring on, chastising by whipping"},{"example":"鞭毛","reading":"ベンモウ","meaning":"flagellum"},{"example":"先鞭","reading":"センベン","meaning":"initiative, pioneering"},{"example":"教鞭","reading":"キョウベン","meaning":"teacher's cane, teacher's pointer"}],"kunyomiExamples":[{"example":"鞭","reading":"むち","meaning":"whip, lash, scourge, stick, cane, rod, pointer"},{"example":"鞭入れ","reading":"むちいれ","meaning":"whipping, using the whip"},{"example":"枝鞭","reading":"えだむち","meaning":"birch rod"},{"example":"飴と鞭","reading":"あめとむち","meaning":"carrot and stick, candy and whip"},{"example":"鞭打つ","reading":"むちうつ","meaning":"to whip, to lash, to give the rod, to spur on, to encourage"}],"radical":{"symbol":"革","meaning":"leather, rawhide"},"parts":["ノ","一","化","日","田","革"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38829_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097ad.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97ad.gif","uri":"https://jisho.org/search/%E9%9E%AD%23kanji"}}
+{
+  "id": "鞭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞭",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "whip, rod, counter for whippings",
+    "kunyomi": [
+      "むち",
+      "むちうつ"
+    ],
+    "onyomi": [
+      "ベン",
+      "ヘン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鞭撻",
+        "reading": "ベンタツ",
+        "meaning": "encouragement, urging, spurring on, chastising by whipping"
+      },
+      {
+        "example": "鞭毛",
+        "reading": "ベンモウ",
+        "meaning": "flagellum"
+      },
+      {
+        "example": "先鞭",
+        "reading": "センベン",
+        "meaning": "initiative, pioneering"
+      },
+      {
+        "example": "教鞭",
+        "reading": "キョウベン",
+        "meaning": "teacher's cane, teacher's pointer"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鞭",
+        "reading": "むち",
+        "meaning": "whip, lash, scourge, stick, cane, rod, pointer"
+      },
+      {
+        "example": "鞭入れ",
+        "reading": "むちいれ",
+        "meaning": "whipping, using the whip"
+      },
+      {
+        "example": "枝鞭",
+        "reading": "えだむち",
+        "meaning": "birch rod"
+      },
+      {
+        "example": "【アメとムチ】",
+        "reading": "carrot and stick, candy and whip",
+        "meaning": ""
+      },
+      {
+        "example": "鞭打つ",
+        "reading": "むちうつ",
+        "meaning": "to whip, to lash, to give the rod, to spur on, to encourage"
+      }
+    ],
+    "radical": {
+      "symbol": "革",
+      "meaning": "leather, rawhide"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "化",
+      "日",
+      "田",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38829_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097ad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97ad.gif",
+    "uri": "https://jisho.org/search/%E9%9E%AD%23kanji"
+  }
+}

@@ -1,1 +1,32 @@
-{"id":"醗","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"醗","found":true,"strokeCount":16,"meaning":"fermentation, brewing","kunyomi":["かも.す"],"onyomi":["ハツ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"酉","meaning":"wine, alcohol"},"parts":["二","儿","癶","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37271_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09197.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9197.gif","uri":"https://jisho.org/search/%E9%86%97%23kanji"}}
+{
+  "id": "醗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醗",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "fermentation, brewing",
+    "kunyomi": [
+      "かも.す"
+    ],
+    "onyomi": [
+      "ハツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "wine, alcohol"
+    },
+    "parts": [
+      "二",
+      "儿",
+      "癶",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37271_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09197.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9197.gif",
+    "uri": "https://jisho.org/search/%E9%86%97%23kanji"
+  }
+}

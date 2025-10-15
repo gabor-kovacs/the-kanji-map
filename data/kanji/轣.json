@@ -1,1 +1,31 @@
-{"id":"轣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"轣","found":true,"strokeCount":23,"meaning":"creaking sound","kunyomi":[],"onyomi":["レキ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["厂","木","止","禾","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36707_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f63.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f63.gif","uri":"https://jisho.org/search/%E8%BD%A3%23kanji"}}
+{
+  "id": "轣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "轣",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "creaking sound",
+    "kunyomi": [],
+    "onyomi": [
+      "レキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "厂",
+      "木",
+      "止",
+      "禾",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36707_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f63.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f63.gif",
+    "uri": "https://jisho.org/search/%E8%BD%A3%23kanji"
+  }
+}

@@ -1,1 +1,296 @@
-{"id":"坂","kanjialiveData":{"kanji":{"character":"坂","meaning":{"english":"slope, hill"},"strokes":{"count":7,"timings":[0,1.133333,2.4,3.4,4.533333,5.8,7.8,10.8],"images":["https://media.kanjialive.com/kanji_strokes/saka_1.svg","https://media.kanjialive.com/kanji_strokes/saka_2.svg","https://media.kanjialive.com/kanji_strokes/saka_3.svg","https://media.kanjialive.com/kanji_strokes/saka_4.svg","https://media.kanjialive.com/kanji_strokes/saka_5.svg","https://media.kanjialive.com/kanji_strokes/saka_6.svg","https://media.kanjialive.com/kanji_strokes/saka_7.svg"]},"onyomi":{"romaji":"han","katakana":"ハン"},"kunyomi":{"romaji":"saka","hiragana":"さか"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/saka_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/saka_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/saka_00.webm"}},"radical":{"character":"","strokes":3,"image":"https://media.kanjialive.com/radical_character/tsuchihen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"つちへん","romaji":"tsuchihen"},"meaning":{"english":"earth"},"animation":["https://media.kanjialive.com/rad_frames/tsuchihen0.svg","https://media.kanjialive.com/rad_frames/tsuchihen1.svg","https://media.kanjialive.com/rad_frames/tsuchihen2.svg"]},"references":{"grade":3,"kodansha":"172","classic_nelson":"1061"},"examples":[{"japanese":"登坂する（とはんする）","meaning":{"english":"climb a hill"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/saka_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/saka_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/saka_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/saka_06_a.mp3"}},{"japanese":"坂（さか）","meaning":{"english":"slope hill"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/saka_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/saka_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/saka_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/saka_06_b.mp3"}},{"japanese":"坂道（さかみち）","meaning":{"english":"hill road"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/saka_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/saka_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/saka_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/saka_06_c.mp3"}},{"japanese":"上り坂（のぼりざか）","meaning":{"english":"uphill, upgrade"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/saka_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/saka_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/saka_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/saka_06_d.mp3"}},{"japanese":"下り坂（くだりざか）","meaning":{"english":"downhill, downgrade"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/saka_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/saka_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/saka_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/saka_06_e.mp3"}}]},"jishoData":{"query":"坂","found":true,"taughtIn":"grade 3","jlptLevel":"N2","newspaperFrequencyRank":"865","strokeCount":7,"meaning":"slope, incline, hill","kunyomi":["さか"],"onyomi":["ハン"],"onyomiExamples":[{"example":"坂路","reading":"ハンロ","meaning":"ramp, slope"},{"example":"京阪","reading":"ケイハン","meaning":"Kyoto and Osaka, Kyoto-Osaka area"},{"example":"登坂","reading":"トウハン","meaning":"climbing a slope (hill), ascending a hill"}],"kunyomiExamples":[{"example":"坂","reading":"さか","meaning":"slope, incline, hill, milestone, (age) mark"},{"example":"坂道","reading":"さかみち","meaning":"hill road"},{"example":"海境","reading":"うなさか","meaning":"boundary between the world of men and the world of the sea god"},{"example":"急な坂","reading":"きゅうなさか","meaning":"sudden drop, precipitous slope"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["厂","又","土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22338_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05742.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5742.gif","uri":"https://jisho.org/search/%E5%9D%82%23kanji"}}
+{
+  "id": "坂",
+  "kanjialiveData": {
+    "_id": "54317b02791eba5146ee4bbf",
+    "_rev": "9-f6568bee7fbfb5b5bf49be157c9e129e",
+    "rad_name_ja": "つちへん",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "saka",
+    "meaning": "slope, hill",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "登坂する（とはんする）",
+        "meaning": {
+          "english": "climb a hill"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "坂（さか）",
+        "meaning": {
+          "english": "slope hill"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "坂道（さかみち）",
+        "meaning": {
+          "english": "hill road"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "上り坂（のぼりざか）",
+        "meaning": {
+          "english": "uphill, upgrade"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "下り坂（くだりざか）",
+        "meaning": {
+          "english": "downhill, downgrade"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "さか",
+    "ka_utf": "坂",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=坂",
+    "rad_name_search": [
+      "tsuchihen"
+    ],
+    "rad_order": 38,
+    "txt_books": [
+      {
+        "chapter": "15",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "4"
+      }
+    ],
+    "kname": "saka",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.133333,
+      2.4,
+      3.4,
+      4.533333,
+      5.8,
+      7.8,
+      10.8
+    ],
+    "kunyomi_ka_display": "さか",
+    "dick": "172",
+    "rad_name": "tsuchihen",
+    "dicn": "1061",
+    "mn_hint": "Land 土 inclining 反.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ハン",
+    "rad_meaning": "earth",
+    "onyomi": "han",
+    "ka_id": "ka_729",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "han",
+      "han"
+    ],
+    "kunyomi_search": [
+      "saka",
+      "saka"
+    ],
+    "meaning_search": [
+      "slope",
+      "hill",
+      "slope, hill"
+    ],
+    "onyomi_ja_search": [
+      "ハン",
+      "ハン"
+    ],
+    "kunyomi_ja_search": [
+      "さか",
+      "さか"
+    ],
+    "rad_meaning_search": [
+      "earth",
+      "earth"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "つちへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:15",
+      "ij:c15",
+      "mosr",
+      "mosr:4",
+      "mosr:c4"
+    ],
+    "rad_name_file": "tsuchihen",
+    "kanji": {
+      "character": "坂",
+      "meaning": {
+        "english": "slope, hill"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.133333,
+          2.4,
+          3.4,
+          4.533333,
+          5.8,
+          7.8,
+          10.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/saka_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "han",
+        "katakana": "ハン"
+      },
+      "kunyomi": {
+        "romaji": "saka",
+        "hiragana": "さか"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/saka_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/saka_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/saka_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tsuchihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "つちへん",
+        "romaji": "tsuchihen"
+      },
+      "meaning": {
+        "english": "earth"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchihen1.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "172",
+      "classic_nelson": "1061"
+    }
+  },
+  "jishoData": {
+    "query": "坂",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "865",
+    "strokeCount": 7,
+    "meaning": "slope, incline, hill",
+    "kunyomi": [
+      "さか"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "坂路",
+        "reading": "ハンロ",
+        "meaning": "ramp, slope"
+      },
+      {
+        "example": "京阪",
+        "reading": "ケイハン",
+        "meaning": "Kyoto and Osaka, Kyoto-Osaka area"
+      },
+      {
+        "example": "登坂",
+        "reading": "トウハン",
+        "meaning": "climbing a slope (hill), ascending a hill"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "坂",
+        "reading": "さか",
+        "meaning": "slope, incline, hill, milestone, (age) mark"
+      },
+      {
+        "example": "坂道",
+        "reading": "さかみち",
+        "meaning": "hill road"
+      },
+      {
+        "example": "海境",
+        "reading": "うなさか",
+        "meaning": "boundary between the world of men and the world of the sea god"
+      },
+      {
+        "example": "急な坂",
+        "reading": "きゅうなさか",
+        "meaning": "sudden drop, precipitous slope"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "厂",
+      "又",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22338_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05742.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5742.gif",
+    "uri": "https://jisho.org/search/%E5%9D%82%23kanji"
+  }
+}

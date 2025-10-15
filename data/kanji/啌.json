@@ -1,1 +1,32 @@
-{"id":"啌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"啌","found":true,"strokeCount":11,"meaning":"angry voice, gargle, throat","kunyomi":[],"onyomi":["クウ","コウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["儿","口","宀","工","穴"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21836_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0554c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/554c.gif","uri":"https://jisho.org/search/%E5%95%8C%23kanji"}}
+{
+  "id": "啌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "啌",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "angry voice, gargle, throat",
+    "kunyomi": [],
+    "onyomi": [
+      "クウ",
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "儿",
+      "口",
+      "宀",
+      "工",
+      "穴"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21836_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0554c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/554c.gif",
+    "uri": "https://jisho.org/search/%E5%95%8C%23kanji"
+  }
+}

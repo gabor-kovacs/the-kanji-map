@@ -1,1 +1,51 @@
-{"id":"剖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"剖","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1918","strokeCount":10,"meaning":"divide","kunyomi":[],"onyomi":["ボウ"],"onyomiExamples":[{"example":"剖検","reading":"ボウケン","meaning":"autopsy, necropsy"},{"example":"法医解剖","reading":"ホウイカイボウ","meaning":"medicolegal autopsy, forensic autopsy"},{"example":"生体解剖","reading":"セイタイカイボウ","meaning":"vivisection"}],"kunyomiExamples":[],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["刈","口","立"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21078_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05256.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5256.gif","uri":"https://jisho.org/search/%E5%89%96%23kanji"}}
+{
+  "id": "剖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "剖",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1918",
+    "strokeCount": 10,
+    "meaning": "divide",
+    "kunyomi": [],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剖検",
+        "reading": "ボウケン",
+        "meaning": "autopsy, necropsy"
+      },
+      {
+        "example": "法医解剖",
+        "reading": "ホウイカイボウ",
+        "meaning": "medicolegal autopsy, forensic autopsy"
+      },
+      {
+        "example": "行政解剖",
+        "reading": "ギョウセイカイボウ",
+        "meaning": "autopsy initiated by government authorities"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "刈",
+      "口",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21078_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05256.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5256.gif",
+    "uri": "https://jisho.org/search/%E5%89%96%23kanji"
+  }
+}

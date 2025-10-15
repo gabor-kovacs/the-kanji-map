@@ -1,1 +1,58 @@
-{"id":"澹","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"澹","found":true,"strokeCount":16,"meaning":"calm, quiet, bland, rocking, rippling, suffice","kunyomi":["あわ.い"],"onyomi":["タン","セン"],"onyomiExamples":[{"example":"淡泊","reading":"タンパク","meaning":"light (color, colour, taste), simple, plain, frank, candid, ingenuous, indifferent"},{"example":"淡々","reading":"タンタン","meaning":"uninterested, unconcerned, indifferent, dispassionate, matter-of-fact, detached, plain, light, simple, bland, flowing gently"},{"example":"暗澹","reading":"アンタン","meaning":"dark, gloomy, somber, depressing"},{"example":"疾痛惨憺","reading":"シッツウサンタン","meaning":"terrible worry, extreme anxiety"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["儿","厂","汁","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28601_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fb9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fb9.gif","uri":"https://jisho.org/search/%E6%BE%B9%23kanji"}}
+{
+  "id": "澹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "澹",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "calm, quiet, bland, rocking, rippling, suffice",
+    "kunyomi": [
+      "あわ.い"
+    ],
+    "onyomi": [
+      "タン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淡々",
+        "reading": "タンタン",
+        "meaning": "uninterested, unconcerned, indifferent, dispassionate, matter-of-fact, detached, plain, light, simple, bland, flowing gently"
+      },
+      {
+        "example": "淡白",
+        "reading": "タンパク",
+        "meaning": "light (flavor, color, etc.), simple, plain, frank, candid, easygoing, unselfish, indifferent (to), not particular (about)"
+      },
+      {
+        "example": "暗澹",
+        "reading": "アンタン",
+        "meaning": "dark, gloomy, somber, depressing"
+      },
+      {
+        "example": "疾痛惨憺",
+        "reading": "シッツウサンタン",
+        "meaning": "terrible worry, extreme anxiety"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "儿",
+      "厂",
+      "汁",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28601_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fb9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fb9.gif",
+    "uri": "https://jisho.org/search/%E6%BE%B9%23kanji"
+  }
+}

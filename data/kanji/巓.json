@@ -1,1 +1,45 @@
-{"id":"巓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"巓","found":true,"strokeCount":22,"meaning":"summit","kunyomi":["いただき"],"onyomi":["テン"],"onyomiExamples":[{"example":"脳天","reading":"ノウテン","meaning":"top of the head, crown of the head"},{"example":"山巓","reading":"サンテン","meaning":"summit (of a mountain)"}],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["ハ","十","山","目","貝","頁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24019_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dd3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dd3.gif","uri":"https://jisho.org/search/%E5%B7%93%23kanji"}}
+{
+  "id": "巓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巓",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "summit",
+    "kunyomi": [
+      "いただき"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "脳天",
+        "reading": "ノウテン",
+        "meaning": "top of the head, crown of the head"
+      },
+      {
+        "example": "山巓",
+        "reading": "サンテン",
+        "meaning": "summit (of a mountain)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "ハ",
+      "十",
+      "山",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24019_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dd3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dd3.gif",
+    "uri": "https://jisho.org/search/%E5%B7%93%23kanji"
+  }
+}

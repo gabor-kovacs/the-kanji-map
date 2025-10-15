@@ -1,1 +1,48 @@
-{"id":"挨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"挨","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2258","strokeCount":10,"meaning":"approach, draw near, push open","kunyomi":["ひら.く"],"onyomi":["アイ"],"onyomiExamples":[{"example":"挨拶","reading":"アイサツ","meaning":"greeting, greetings, salutation, salute, condolences, congratulations, speech (congratulatory or appreciative), address, reply, response, revenge, retaliation, a fine thing to say, dialoging (with another Zen practitioner to ascertain their level of enlightenment), relationship (between people), connection, intervention, mediation, mediator"},{"example":"挨拶代わり","reading":"アイサツガワリ","meaning":"substitute for a proper greeting (e.g. gift)"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["乞","厶","扎","矢"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25384_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06328.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6328.gif","uri":"https://jisho.org/search/%E6%8C%A8%23kanji"}}
+{
+  "id": "挨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挨",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2258",
+    "strokeCount": 10,
+    "meaning": "approach, draw near, push open",
+    "kunyomi": [
+      "ひら.く"
+    ],
+    "onyomi": [
+      "アイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "挨拶",
+        "reading": "アイサツ",
+        "meaning": "greeting, greetings, salutation, salute, polite set phrase used when meeting or parting from someone, speech (congratulatory or appreciative), address, reply, response, courtesy visit (to offer condolences, say congratulations, pay respect, introduce oneself, etc.), revenge, retaliation, a fine thing to say, dialoging (with another Zen practitioner to ascertain their level of enlightenment), relationship (between people), connection, intervention, mediation, mediator"
+      },
+      {
+        "example": "挨拶代わり",
+        "reading": "アイサツガワリ",
+        "meaning": "substitute for a proper greeting (e.g. gift)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "乞",
+      "厶",
+      "扎",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25384_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06328.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6328.gif",
+    "uri": "https://jisho.org/search/%E6%8C%A8%23kanji"
+  }
+}

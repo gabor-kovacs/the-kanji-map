@@ -1,1 +1,47 @@
-{"id":"閼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"閼","found":true,"strokeCount":16,"meaning":"obstruct, conceal","kunyomi":["とど.める","ふさ.ぐ"],"onyomi":["ア","アツ","エン","ヨ"],"onyomiExamples":[{"example":"閼伽","reading":"アカ","meaning":"water offering to Buddha, holy water"}],"kunyomiExamples":[],"radical":{"symbol":"門","meaning":"gate"},"parts":["个","冫","方","門"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38332_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095bc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95bc.gif","uri":"https://jisho.org/search/%E9%96%BC%23kanji"}}
+{
+  "id": "閼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閼",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "obstruct, conceal",
+    "kunyomi": [
+      "とど.める",
+      "ふさ.ぐ"
+    ],
+    "onyomi": [
+      "ア",
+      "アツ",
+      "エン",
+      "ヨ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "閼伽",
+        "reading": "アカ",
+        "meaning": "water offering to Buddha, holy water"
+      },
+      {
+        "example": "閼伽棚",
+        "reading": "アカダナ",
+        "meaning": "shelf for offerings (of water, flowers, etc.)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "个",
+      "冫",
+      "方",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38332_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095bc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95bc.gif",
+    "uri": "https://jisho.org/search/%E9%96%BC%23kanji"
+  }
+}

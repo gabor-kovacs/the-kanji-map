@@ -1,1 +1,102 @@
-{"id":"弥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"弥","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1687","strokeCount":8,"meaning":"all the more, increasingly","kunyomi":["や","いや","いよ.いよ","わた.る"],"onyomi":["ミ","ビ"],"onyomiExamples":[{"example":"弥撒","reading":"ミサ","meaning":"(Catholic) Mass"},{"example":"弥勒","reading":"ミロク","meaning":"Maitreya (Bodhisattva), Miroku"},{"example":"沙弥","reading":"シャミ","meaning":"male Buddhist novice"},{"example":"弥久","reading":"ビキュウ","meaning":"extending over a long time"},{"example":"弥縫","reading":"ビホウ","meaning":"patching up"}],"kunyomiExamples":[{"example":"弥生","reading":"やよい","meaning":"third month of the lunar calendar, thick growth (of grass, etc.), Yayoi period (ca. 300 BCE-300 CE), Yayoi culture"},{"example":"弥栄","reading":"いやさか","meaning":"prosperity, prospering, flourishing, best of luck, all the best, hurray, hoorah"},{"example":"弥","reading":"いや","meaning":"more and more, increasingly, extremely, very"},{"example":"弥生","reading":"やよい","meaning":"third month of the lunar calendar, thick growth (of grass, etc.), Yayoi period (ca. 300 BCE-300 CE), Yayoi culture"},{"example":"愈","reading":"いよいよ","meaning":"more and more, all the more, increasingly, at last, finally, beyond doubt, (at the) last moment, worst possible time"},{"example":"渡る","reading":"わたる","meaning":"to cross over, to go across, to extend, to cover, to range, to span"}],"radical":{"symbol":"弓","meaning":"bow"},"parts":["ノ","乞","亅","小","弓"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24357_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f25.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f25.gif","uri":"https://jisho.org/search/%E5%BC%A5%23kanji"}}
+{
+  "id": "弥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弥",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1687",
+    "strokeCount": 8,
+    "meaning": "all the more, increasingly",
+    "kunyomi": [
+      "や",
+      "いや",
+      "いよ.いよ",
+      "わた.る"
+    ],
+    "onyomi": [
+      "ミ",
+      "ビ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弥撒",
+        "reading": "ミサ",
+        "meaning": "(Catholic) Mass"
+      },
+      {
+        "example": "弥勒",
+        "reading": "ミロク",
+        "meaning": "Maitreya (Bodhisattva), Miroku"
+      },
+      {
+        "example": "沙弥",
+        "reading": "シャミ",
+        "meaning": "male Buddhist novice"
+      },
+      {
+        "example": "伊邪那美",
+        "reading": "イザナミ",
+        "meaning": "Izanami (Shinto goddess)"
+      },
+      {
+        "example": "弥久",
+        "reading": "ビキュウ",
+        "meaning": "extending over a long time"
+      },
+      {
+        "example": "弥縫",
+        "reading": "ビホウ",
+        "meaning": "patching up"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弥生",
+        "reading": "やよい",
+        "meaning": "third month of the lunar calendar, Yayoi period (ca. 300 BCE-300 CE), Yayoi culture, thick growth (of grass, etc.)"
+      },
+      {
+        "example": "弥栄",
+        "reading": "いやさか",
+        "meaning": "prosperity, prospering, flourishing, best of luck, all the best, hurray, hoorah"
+      },
+      {
+        "example": "弥",
+        "reading": "いや",
+        "meaning": "more and more, increasingly, extremely, very"
+      },
+      {
+        "example": "弥生",
+        "reading": "やよい",
+        "meaning": "third month of the lunar calendar, Yayoi period (ca. 300 BCE-300 CE), Yayoi culture, thick growth (of grass, etc.)"
+      },
+      {
+        "example": "愈",
+        "reading": "いよいよ",
+        "meaning": "more and more, all the more, increasingly, at last, finally, beyond doubt, (at the) last moment, worst possible time"
+      },
+      {
+        "example": "渡る",
+        "reading": "わたる",
+        "meaning": "to cross over, to go across, to extend, to cover, to range, to span"
+      }
+    ],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "bow"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "亅",
+      "小",
+      "弓"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24357_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f25.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f25.gif",
+    "uri": "https://jisho.org/search/%E5%BC%A5%23kanji"
+  }
+}

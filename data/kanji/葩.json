@@ -1,1 +1,46 @@
-{"id":"葩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"葩","found":true,"strokeCount":12,"meaning":"flower, petal","kunyomi":["はな"],"onyomi":["ハ"],"onyomiExamples":[{"example":"花びら餅","reading":"ハナビラモチ","meaning":"sweet burdock and miso-bean paste covered with a thin layer of mochi"}],"kunyomiExamples":[{"example":"花びら餅","reading":"はなびらもち","meaning":"sweet burdock and miso-bean paste covered with a thin layer of mochi"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["巴","白","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33897_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08469.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8469.gif","uri":"https://jisho.org/search/%E8%91%A9%23kanji"}}
+{
+  "id": "葩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "葩",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "flower, petal",
+    "kunyomi": [
+      "はな"
+    ],
+    "onyomi": [
+      "ハ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "花びら餅",
+        "reading": "ハナビラモチ",
+        "meaning": "sweet burdock and miso-bean paste covered with a thin layer of mochi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "花びら餅",
+        "reading": "はなびらもち",
+        "meaning": "sweet burdock and miso-bean paste covered with a thin layer of mochi"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "巴",
+      "白",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33897_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08469.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8469.gif",
+    "uri": "https://jisho.org/search/%E8%91%A9%23kanji"
+  }
+}

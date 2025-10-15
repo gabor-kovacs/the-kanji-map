@@ -1,1 +1,39 @@
-{"id":"瘰","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"瘰","found":true,"strokeCount":16,"meaning":"swollen neck glands","kunyomi":[],"onyomi":["ルイ","ラ","ライ"],"onyomiExamples":[{"example":"瘰癧","reading":"ルイレキ","meaning":"scrofula"}],"kunyomiExamples":[],"radical":{"symbol":"疒","meaning":"sickness"},"parts":["小","幺","田","疔","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30256_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07630.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7630.gif","uri":"https://jisho.org/search/%E7%98%B0%23kanji"}}
+{
+  "id": "瘰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "瘰",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "swollen neck glands",
+    "kunyomi": [],
+    "onyomi": [
+      "ルイ",
+      "ラ",
+      "ライ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "瘰癧",
+        "reading": "ルイレキ",
+        "meaning": "scrofula"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "sickness"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "田",
+      "疔",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30256_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07630.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7630.gif",
+    "uri": "https://jisho.org/search/%E7%98%B0%23kanji"
+  }
+}

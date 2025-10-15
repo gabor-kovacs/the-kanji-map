@@ -1,1 +1,371 @@
-{"id":"寝","kanjialiveData":{"kanji":{"character":"寝","meaning":{"english":"go to sleep"},"strokes":{"count":13,"timings":[0,1.266,2.066,3.4,4.199,4.8,5.933,6.931,7.599,8.266,9,10.268,11.333,12],"images":["https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_1.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_2.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_3.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_4.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_5.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_6.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_7.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_8.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_9.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_10.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_11.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_12.svg","https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_13.svg"]},"onyomi":{"romaji":"shin","katakana":"シン"},"kunyomi":{"romaji":"ne, neru, nekasu, nekaseru","hiragana":"ね"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_13.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/shin-ne(ru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/shin-ne(ru)_00.webm"}},"radical":{"character":"⼧","strokes":3,"image":"https://media.kanjialive.com/radical_character/ukanmuri.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"うかんむり","romaji":"ukanmuri"},"meaning":{"english":"roof, house"},"animation":["https://media.kanjialive.com/rad_frames/ukanmuri0.svg","https://media.kanjialive.com/rad_frames/ukanmuri1.svg","https://media.kanjialive.com/rad_frames/ukanmuri2.svg"]},"references":{"grade":null,"kodansha":"1503","classic_nelson":"1326"},"examples":[{"japanese":"寝室（しんしつ）","meaning":{"english":"bedroom"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_a.mp3"}},{"japanese":"就寝時間（しゅうしんじかん）","meaning":{"english":"bedtime"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_b.mp3"}},{"japanese":"寝る（ねる）","meaning":{"english":"sleep [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_c.mp3"}},{"japanese":"寝かす（ねかす）","meaning":{"english":"put to sleep [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_d.mp3"}},{"japanese":"寝坊する（ねぼうする）","meaning":{"english":"sleep in late"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_e.mp3"}},{"japanese":"寝顔（ねがお）","meaning":{"english":"sleeping face"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_f.mp3"}}]},"jishoData":{"query":"寝","found":true,"taughtIn":"junior high","jlptLevel":"N3","newspaperFrequencyRank":"1034","strokeCount":13,"meaning":"lie down, sleep, rest, bed, remain unsold","kunyomi":["ね.る","ね.かす","い.ぬ","みたまや","や.める"],"onyomi":["シン"],"onyomiExamples":[{"example":"寝","reading":"ネ","meaning":"sleep"},{"example":"寝具","reading":"シング","meaning":"bedding, bedclothes"}],"kunyomiExamples":[{"example":"寝る","reading":"ねる","meaning":"to sleep (lying down), to go to bed, to lie in bed, to lie down, to sleep (with someone, i.e. have intercourse), to lie flat (e.g. of hair), to lie idle (of funds, stock, etc.), to ferment (of soy sauce, miso, etc.)"},{"example":"寝る子は育つ","reading":"ねるこはそだつ","meaning":"sleep brings up a child well, a well-slept child is a well-kept child"},{"example":"寝かす","reading":"ねかす","meaning":"to put to sleep, to lay (something) on its side"}],"radical":{"symbol":"宀","meaning":"roof"},"parts":["ヨ","冖","又","宀","爿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23517_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bdd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bdd.gif","uri":"https://jisho.org/search/%E5%AF%9D%23kanji"}}
+{
+  "id": "寝",
+  "kanjialiveData": {
+    "_id": "54317ae3791eba5146ee495f",
+    "_rev": "12-3a0a4bf643fca1d87d99483f9e159ab6",
+    "rad_name_ja": "うかんむり",
+    "grade": null,
+    "hint_group": 50,
+    "kunyomi": "ne, neru, nekasu, nekaseru",
+    "meaning": "go to sleep",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "寝室（しんしつ）",
+        "meaning": {
+          "english": "bedroom"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "就寝時間（しゅうしんじかん）",
+        "meaning": {
+          "english": "bedtime"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "寝る（ねる）",
+        "meaning": {
+          "english": "sleep [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "寝かす（ねかす）",
+        "meaning": {
+          "english": "put to sleep [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "寝坊する（ねぼうする）",
+        "meaning": {
+          "english": "sleep in late"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "寝顔（ねがお）",
+        "meaning": {
+          "english": "sleeping face"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-ne(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shin-ne(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shin-ne(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shin-ne(ru)_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ね、ねる、ねかす、ねかせる",
+    "ka_utf": "寝",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=寝",
+    "kname": "shin-ne(ru)",
+    "rad_order": 48,
+    "txt_books": [
+      {
+        "chapter": "18",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "ukanmuri"
+    ],
+    "rad_utf": "⼧",
+    "stroketimes": [
+      0,
+      1.266,
+      2.066,
+      3.4,
+      4.199,
+      4.8,
+      5.933,
+      6.931,
+      7.599,
+      8.266,
+      9,
+      10.268,
+      11.333,
+      12
+    ],
+    "kunyomi_ka_display": "ね",
+    "dick": "1503",
+    "rad_name": "ukanmuri",
+    "dicn": "1326",
+    "mn_hint": "On the bed [17] deep inside [162] the house 宀.",
+    "rad_stroke": 3,
+    "onyomi_ja": "シン",
+    "rad_meaning": "roof, house",
+    "onyomi": "shin",
+    "ka_id": "ka_181",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "shin",
+      "shin"
+    ],
+    "kunyomi_search": [
+      "ne",
+      "neru",
+      "nekasu",
+      "nekaseru",
+      "ne, neru, nekasu, nekaseru"
+    ],
+    "meaning_search": [
+      "go to sleep",
+      "go",
+      "to",
+      "sleep",
+      "go to sleep"
+    ],
+    "onyomi_ja_search": [
+      "シン",
+      "シン"
+    ],
+    "kunyomi_ja_search": [
+      "ね",
+      "ねる",
+      "ねかす",
+      "ねかせる",
+      "ね、ねる、ねかす、ねかせる"
+    ],
+    "rad_meaning_search": [
+      "roof",
+      "house",
+      "roof, house"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "うかんむり"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:18",
+      "cij:c18",
+      "bk",
+      "bk:24",
+      "bk:c24",
+      "aij3",
+      "aij3:1",
+      "aij3:c1",
+      "aij3:v3",
+      "aij3:v3:1",
+      "aij3:v3:c1",
+      "ap",
+      "ap:10",
+      "ap:c10",
+      "kll",
+      "kll:24",
+      "kll:c24",
+      "jtr",
+      "jtr:3",
+      "jtr:c3"
+    ],
+    "rad_name_file": "ukanmuri",
+    "kanji": {
+      "character": "寝",
+      "meaning": {
+        "english": "go to sleep"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0,
+          1.266,
+          2.066,
+          3.4,
+          4.199,
+          4.8,
+          5.933,
+          6.931,
+          7.599,
+          8.266,
+          9,
+          10.268,
+          11.333,
+          12
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shin",
+        "katakana": "シン"
+      },
+      "kunyomi": {
+        "romaji": "ne, neru, nekasu, nekaseru",
+        "hiragana": "ね"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/shin-ne(ru)_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shin-ne(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/shin-ne(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼧",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/ukanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "うかんむり",
+        "romaji": "ukanmuri"
+      },
+      "meaning": {
+        "english": "roof, house"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/ukanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/ukanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1503",
+      "classic_nelson": "1326"
+    }
+  },
+  "jishoData": {
+    "query": "寝",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "1034",
+    "strokeCount": 13,
+    "meaning": "lie down, sleep, rest, bed, remain unsold",
+    "kunyomi": [
+      "ね.る",
+      "ね.かす",
+      "い.ぬ",
+      "みたまや",
+      "や.める"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寝",
+        "reading": "ネ",
+        "meaning": "sleep"
+      },
+      {
+        "example": "寝具",
+        "reading": "シング",
+        "meaning": "bedding, bedclothes"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寝る",
+        "reading": "ねる",
+        "meaning": "to sleep (lying down), to go to bed, to lie in bed, to lie down, to sleep (with someone, i.e. have intercourse), to lie flat (e.g. of hair), to lie idle (of funds, stock, etc.), to ferment (of soy sauce, miso, etc.)"
+      },
+      {
+        "example": "寝る子は育つ",
+        "reading": "ねるこはそだつ",
+        "meaning": "sleep brings up a child well, a well-slept child is a well-kept child"
+      },
+      {
+        "example": "寝かす",
+        "reading": "ねかす",
+        "meaning": "to put to bed, to let sleep, to lay (something) down, to put on its side, to let (money, goods, etc.) lie idle, to set aside unused, to let (stock) lie unsold, to (let) ferment, to (let) age, to let (dough) rise, to lay down (wine)"
+      },
+      {
+        "example": "寝ぬ",
+        "reading": "いぬ",
+        "meaning": "to sleep, to go to bed, to retire, to repose"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "ヨ",
+      "冖",
+      "又",
+      "宀",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23517_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bdd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bdd.gif",
+    "uri": "https://jisho.org/search/%E5%AF%9D%23kanji"
+  }
+}

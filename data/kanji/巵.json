@@ -1,1 +1,53 @@
-{"id":"巵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"巵","found":true,"strokeCount":7,"meaning":"large winecup, apt, fitting","kunyomi":["さかずき"],"onyomi":["シ"],"onyomiExamples":[{"example":"巵","reading":"シ","meaning":"zhi (large bowl-shaped ancient Chinese cup with two handles)"},{"example":"梔子","reading":"クチナシ","meaning":"Cape jasmine (Gardenia jasminoides), Cape jessamine, gardenia"}],"kunyomiExamples":[{"example":"杯","reading":"さかずき","meaning":"sake cup, cup for alcoholic beverages"}],"radical":{"symbol":"己","forms":["巳","已","㔾"],"meaning":"oneself"},"parts":["一","厂","巴"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24053_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df5.gif","uri":"https://jisho.org/search/%E5%B7%B5%23kanji"}}
+{
+  "id": "巵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巵",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "large winecup, apt, fitting",
+    "kunyomi": [
+      "さかずき"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巵",
+        "reading": "シ",
+        "meaning": "zhi (large bowl-shaped ancient Chinese cup with two handles)"
+      },
+      {
+        "example": "梔子",
+        "reading": "クチナシ",
+        "meaning": "Cape jasmine (Gardenia jasminoides), Cape jessamine, gardenia"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "杯",
+        "reading": "さかずき",
+        "meaning": "sake cup, cup for alcoholic beverages"
+      }
+    ],
+    "radical": {
+      "symbol": "己",
+      "forms": [
+        "巳",
+        "已",
+        "㔾"
+      ],
+      "meaning": "oneself"
+    },
+    "parts": [
+      "一",
+      "厂",
+      "巴"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24053_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df5.gif",
+    "uri": "https://jisho.org/search/%E5%B7%B5%23kanji"
+  }
+}

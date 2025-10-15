@@ -1,1 +1,52 @@
-{"id":"嫩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嫩","found":true,"strokeCount":14,"meaning":"young, weak","kunyomi":["わか.い"],"onyomi":["ドン","ノン"],"onyomiExamples":[{"example":"若葉","reading":"ワカバ","meaning":"new leaves, young leaves, fresh verdure"},{"example":"嫩芽","reading":"ドンガ","meaning":"bud, sprout"},{"example":"黎巴嫩","reading":"レバノン","meaning":"Lebanon"}],"kunyomiExamples":[],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["ハ","乞","口","女","攵","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23273_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ae9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ae9.gif","uri":"https://jisho.org/search/%E5%AB%A9%23kanji"}}
+{
+  "id": "嫩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嫩",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "young, weak",
+    "kunyomi": [
+      "わか.い"
+    ],
+    "onyomi": [
+      "ドン",
+      "ノン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "若葉",
+        "reading": "ワカバ",
+        "meaning": "new leaves, young leaves, fresh verdure"
+      },
+      {
+        "example": "嫩芽",
+        "reading": "ドンガ",
+        "meaning": "bud, sprout"
+      },
+      {
+        "example": "黎巴嫩",
+        "reading": "レバノン",
+        "meaning": "Lebanon"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "ハ",
+      "乞",
+      "口",
+      "女",
+      "攵",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23273_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ae9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ae9.gif",
+    "uri": "https://jisho.org/search/%E5%AB%A9%23kanji"
+  }
+}

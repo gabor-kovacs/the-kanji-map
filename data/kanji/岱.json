@@ -1,1 +1,35 @@
-{"id":"岱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"岱","found":true,"strokeCount":8,"meaning":"old name for a Chinese mountain, Taishan","kunyomi":[],"onyomi":["タイ"],"onyomiExamples":[{"example":"大山","reading":"タイザン","meaning":"great mountain, large mountain"}],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["化","山","弋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23729_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cb1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cb1.gif","uri":"https://jisho.org/search/%E5%B2%B1%23kanji"}}
+{
+  "id": "岱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "岱",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "old name for a Chinese mountain, Taishan",
+    "kunyomi": [],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "大山",
+        "reading": "タイザン",
+        "meaning": "great mountain, large mountain"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "化",
+      "山",
+      "弋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23729_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cb1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cb1.gif",
+    "uri": "https://jisho.org/search/%E5%B2%B1%23kanji"
+  }
+}

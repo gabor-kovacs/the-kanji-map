@@ -1,1 +1,50 @@
-{"id":"竺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"竺","found":true,"strokeCount":8,"meaning":"bamboo","kunyomi":[],"onyomi":["ジク","チク","トク"],"onyomiExamples":[{"example":"竺学","reading":"ジクガク","meaning":"Indian studies, Buddhist studies"},{"example":"天竺","reading":"テンジク","meaning":"India, cotton sheeting, foreign, imported, ultra-spicy, extra hot"},{"example":"唐天竺","reading":"カラテンジク","meaning":"China and India, far away"}],"kunyomiExamples":[],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","二","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31482_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07afa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7afa.gif","uri":"https://jisho.org/search/%E7%AB%BA%23kanji"}}
+{
+  "id": "竺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "竺",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "bamboo",
+    "kunyomi": [],
+    "onyomi": [
+      "ジク",
+      "チク",
+      "トク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "竺学",
+        "reading": "ジクガク",
+        "meaning": "Indian studies, Buddhist studies"
+      },
+      {
+        "example": "天竺",
+        "reading": "テンジク",
+        "meaning": "India, cotton sheeting, foreign, imported, ultra-spicy, extra hot"
+      },
+      {
+        "example": "唐天竺",
+        "reading": "カラテンジク",
+        "meaning": "China and India, far away"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31482_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07afa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7afa.gif",
+    "uri": "https://jisho.org/search/%E7%AB%BA%23kanji"
+  }
+}

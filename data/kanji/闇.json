@@ -1,1 +1,83 @@
-{"id":"闇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"闇","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"1969","strokeCount":17,"meaning":"get dark, gloom, disorder","kunyomi":["やみ","くら.い"],"onyomi":["アン","オン"],"onyomiExamples":[{"example":"暗黒","reading":"アンコク","meaning":"darkness"},{"example":"暗夜","reading":"アンヤ","meaning":"dark night"},{"example":"冥暗","reading":"メイアン","meaning":"gloom, shade"},{"example":"幽暗","reading":"ユウアン","meaning":"gloom, darkness, seclusion"}],"kunyomiExamples":[{"example":"闇","reading":"やみ","meaning":"darkness, the dark, bewilderment, despair, hopelessness, hidden place, secrecy, oblivion, black market, shady trading, underhand transactions, illegal channels"},{"example":"闇垢","reading":"やみあか","meaning":"alternative account (on social media, etc.), hidden account, sub account"},{"example":"暁闇","reading":"あかつきやみ","meaning":"moonless dawn"},{"example":"五月闇","reading":"さつきやみ","meaning":"dark night in the rainy season"},{"example":"暗い","reading":"くらい","meaning":"dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"}],"radical":{"symbol":"門","meaning":"gate"},"parts":["日","立","門","音"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38343_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095c7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95c7.gif","uri":"https://jisho.org/search/%E9%97%87%23kanji"}}
+{
+  "id": "闇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "闇",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "1969",
+    "strokeCount": 17,
+    "meaning": "get dark, gloom, disorder",
+    "kunyomi": [
+      "やみ",
+      "くら.い"
+    ],
+    "onyomi": [
+      "アン",
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "暗黒",
+        "reading": "アンコク",
+        "meaning": "darkness"
+      },
+      {
+        "example": "暗夜",
+        "reading": "アンヤ",
+        "meaning": "dark night"
+      },
+      {
+        "example": "冥暗",
+        "reading": "メイアン",
+        "meaning": "gloom, shade"
+      },
+      {
+        "example": "幽暗",
+        "reading": "ユウアン",
+        "meaning": "gloom, darkness, seclusion"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "闇",
+        "reading": "やみ",
+        "meaning": "darkness, the dark, bewilderment, despair, hopelessness, hidden place, secrecy, oblivion, black market, shady trading, underhand transactions, illegal channels"
+      },
+      {
+        "example": "闇垢",
+        "reading": "やみアカ",
+        "meaning": "alternative account (on social media, etc.), hidden account, sub account"
+      },
+      {
+        "example": "頻闇",
+        "reading": "しきやみ",
+        "meaning": "total darkness"
+      },
+      {
+        "example": "暁闇",
+        "reading": "あかつきやみ",
+        "meaning": "moonless dawn"
+      },
+      {
+        "example": "暗い",
+        "reading": "くらい",
+        "meaning": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "gate"
+    },
+    "parts": [
+      "日",
+      "立",
+      "門",
+      "音"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38343_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095c7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95c7.gif",
+    "uri": "https://jisho.org/search/%E9%97%87%23kanji"
+  }
+}

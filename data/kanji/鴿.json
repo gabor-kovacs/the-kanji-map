@@ -1,1 +1,45 @@
-{"id":"鴿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鴿","found":true,"strokeCount":17,"meaning":"dove, temple pigeon","kunyomi":["はと","どばと"],"onyomi":["コウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"鳩","reading":"はと","meaning":"pigeon, dove"},{"example":"土鳩","reading":"どばと","meaning":"domestic pigeon, feral pigeon"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["一","个","口","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40255_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d3f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d3f.gif","uri":"https://jisho.org/search/%E9%B4%BF%23kanji"}}
+{
+  "id": "鴿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鴿",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "dove, temple pigeon",
+    "kunyomi": [
+      "はと",
+      "どばと"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鳩",
+        "reading": "はと",
+        "meaning": "pigeon, dove"
+      },
+      {
+        "example": "土鳩",
+        "reading": "どばと",
+        "meaning": "domestic pigeon, feral pigeon"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40255_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d3f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d3f.gif",
+    "uri": "https://jisho.org/search/%E9%B4%BF%23kanji"
+  }
+}

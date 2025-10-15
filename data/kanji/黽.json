@@ -1,1 +1,50 @@
-{"id":"黽","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"黽","found":true,"strokeCount":13,"meaning":"green frog, industry","kunyomi":["あおがえる","つと.める"],"onyomi":["ボウ","ビン","ベン","ミン","メン"],"onyomiExamples":[{"example":"蛙黽","reading":"アボウ","meaning":"tree frog (toad)"},{"example":"水黽","reading":"アメンボ","meaning":"pond skater (any insect of family Gerridae), water strider"},{"example":"黽勉","reading":"ビンベン","meaning":"industry, diligence"}],"kunyomiExamples":[],"radical":{"symbol":"黽","meaning":"frog, amphibian"},"parts":["黽"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40701_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09efd.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9efd.gif","uri":"https://jisho.org/search/%E9%BB%BD%23kanji"}}
+{
+  "id": "黽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黽",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "green frog, industry",
+    "kunyomi": [
+      "あおがえる",
+      "つと.める"
+    ],
+    "onyomi": [
+      "ボウ",
+      "ビン",
+      "ベン",
+      "ミン",
+      "メン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛙黽",
+        "reading": "アボウ",
+        "meaning": "tree frog (toad)"
+      },
+      {
+        "example": "水黽",
+        "reading": "アメンボ",
+        "meaning": "pond skater (any insect of family Gerridae), water strider"
+      },
+      {
+        "example": "黽勉",
+        "reading": "ビンベン",
+        "meaning": "industry, diligence"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "黽",
+      "meaning": "frog, amphibian"
+    },
+    "parts": [
+      "黽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40701_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09efd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9efd.gif",
+    "uri": "https://jisho.org/search/%E9%BB%BD%23kanji"
+  }
+}

@@ -1,1 +1,59 @@
-{"id":"慨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"慨","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1875","strokeCount":13,"meaning":"rue, be sad, sigh, lament","kunyomi":["なげ.く"],"onyomi":["ガイ"],"onyomiExamples":[{"example":"慨する","reading":"ガイスル","meaning":"to regret, to deplore"},{"example":"慨世","reading":"ガイセイ","meaning":"deploring the course of public events"},{"example":"感慨","reading":"カンガイ","meaning":"deep emotion, strong feelings"},{"example":"気概","reading":"キガイ","meaning":"strong spirit, mettle, backbone, guts, fighting spirit"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["忙","牙","艮"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24936_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06168.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6168.gif","uri":"https://jisho.org/search/%E6%85%A8%23kanji"}}
+{
+  "id": "慨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慨",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1875",
+    "strokeCount": 13,
+    "meaning": "rue, be sad, sigh, lament",
+    "kunyomi": [
+      "なげ.く"
+    ],
+    "onyomi": [
+      "ガイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慨する",
+        "reading": "ガイスル",
+        "meaning": "to regret, to deplore"
+      },
+      {
+        "example": "慨世",
+        "reading": "ガイセイ",
+        "meaning": "deploring the course of public events"
+      },
+      {
+        "example": "感慨",
+        "reading": "カンガイ",
+        "meaning": "deep emotion, strong feelings"
+      },
+      {
+        "example": "気概",
+        "reading": "キガイ",
+        "meaning": "strong spirit, mettle, backbone, guts, fighting spirit"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "忙",
+      "牙",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24936_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06168.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6168.gif",
+    "uri": "https://jisho.org/search/%E6%85%A8%23kanji"
+  }
+}

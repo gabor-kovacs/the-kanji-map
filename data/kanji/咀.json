@@ -1,1 +1,48 @@
-{"id":"咀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"咀","found":true,"strokeCount":8,"meaning":"bite, eat","kunyomi":["か.む"],"onyomi":["ソ","ショ"],"onyomiExamples":[{"example":"咀嚼","reading":"ソシャク","meaning":"chewing, mastication, digestion (e.g. of words), assimilation, comprehension, appreciation"},{"example":"咀嚼運動","reading":"ソシャクウンドウ","meaning":"mastication"},{"example":"呪詛","reading":"ジュソ","meaning":"curse, malediction, hex"}],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["一","口","目"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21632_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05480.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5480.gif","uri":"https://jisho.org/search/%E5%92%80%23kanji"}}
+{
+  "id": "咀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "咀",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "bite, eat",
+    "kunyomi": [
+      "か.む"
+    ],
+    "onyomi": [
+      "ソ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "咀嚼",
+        "reading": "ソシャク",
+        "meaning": "chewing, mastication, digestion (e.g. of words), assimilation, comprehension, appreciation"
+      },
+      {
+        "example": "咀嚼運動",
+        "reading": "ソシャクウンドウ",
+        "meaning": "mastication"
+      },
+      {
+        "example": "呪詛",
+        "reading": "ジュソ",
+        "meaning": "curse, malediction, hex"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "一",
+      "口",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21632_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05480.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5480.gif",
+    "uri": "https://jisho.org/search/%E5%92%80%23kanji"
+  }
+}

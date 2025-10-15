@@ -1,1 +1,40 @@
-{"id":"垓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"垓","found":true,"strokeCount":9,"meaning":"border, boundary, staircase, hundred quintillion","kunyomi":["はて"],"onyomi":["ガイ","カイ"],"onyomiExamples":[{"example":"垓","reading":"ガイ","meaning":"10^20, 100,000,000,000,000,000,000, hundred quintillion"}],"kunyomiExamples":[],"radical":{"symbol":"土","meaning":"earth"},"parts":["ノ","丶","亠","人","土"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22419_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05793.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5793.gif","uri":"https://jisho.org/search/%E5%9E%93%23kanji"}}
+{
+  "id": "垓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "垓",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "border, boundary, staircase, hundred quintillion",
+    "kunyomi": [
+      "はて"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "垓",
+        "reading": "ガイ",
+        "meaning": "10^20, 100,000,000,000,000,000,000, hundred quintillion"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22419_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05793.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5793.gif",
+    "uri": "https://jisho.org/search/%E5%9E%93%23kanji"
+  }
+}

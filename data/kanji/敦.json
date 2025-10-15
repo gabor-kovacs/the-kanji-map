@@ -1,1 +1,52 @@
-{"id":"敦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"敦","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1695","strokeCount":12,"meaning":"industry, kindliness","kunyomi":["あつ.い"],"onyomi":["トン","タイ","ダン","チョウ"],"onyomiExamples":[{"example":"敦厚","reading":"トンコウ","meaning":"sincerity and kindheartedness, honesty and simplicity"},{"example":"敦朴","reading":"トンボク","meaning":"honest and homely, simple"}],"kunyomiExamples":[],"radical":{"symbol":"攴","forms":["攵"],"meaning":"rap"},"parts":["乞","亠","口","子","攵"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25958_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06566.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6566.gif","uri":"https://jisho.org/search/%E6%95%A6%23kanji"}}
+{
+  "id": "敦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "敦",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1695",
+    "strokeCount": 12,
+    "meaning": "industry, kindliness",
+    "kunyomi": [
+      "あつ.い"
+    ],
+    "onyomi": [
+      "トン",
+      "タイ",
+      "ダン",
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "敦厚",
+        "reading": "トンコウ",
+        "meaning": "sincerity and kindheartedness, honesty and simplicity"
+      },
+      {
+        "example": "敦朴",
+        "reading": "トンボク",
+        "meaning": "honest and homely, simple"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "乞",
+      "亠",
+      "口",
+      "子",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25958_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06566.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6566.gif",
+    "uri": "https://jisho.org/search/%E6%95%A6%23kanji"
+  }
+}

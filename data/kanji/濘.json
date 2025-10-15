@@ -1,1 +1,44 @@
-{"id":"濘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"濘","found":true,"strokeCount":17,"meaning":"muddiness","kunyomi":["ぬか.る"],"onyomi":["ネイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["亅","宀","心","汁","皿","買"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28632_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fd8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fd8.gif","uri":"https://jisho.org/search/%E6%BF%98%23kanji"}}
+{
+  "id": "濘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "濘",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "muddiness",
+    "kunyomi": [
+      "ぬか.る"
+    ],
+    "onyomi": [
+      "ネイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "泥濘",
+        "reading": "デイネイ",
+        "meaning": "mud, mire"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "亅",
+      "宀",
+      "心",
+      "汁",
+      "皿",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28632_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fd8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fd8.gif",
+    "uri": "https://jisho.org/search/%E6%BF%98%23kanji"
+  }
+}

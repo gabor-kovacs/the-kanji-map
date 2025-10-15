@@ -1,1 +1,43 @@
-{"id":"褫","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"褫","found":true,"strokeCount":15,"meaning":"rob","kunyomi":["うば.う"],"onyomi":["チ"],"onyomiExamples":[{"example":"褫奪","reading":"チダツ","meaning":"stripping (of clothes, office, etc.), deprivation"}],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["儿","初","匕","卜","厂","虍"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35115_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0892b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/892b.gif","uri":"https://jisho.org/search/%E8%A4%AB%23kanji"}}
+{
+  "id": "褫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "褫",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "rob",
+    "kunyomi": [
+      "うば.う"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "褫奪",
+        "reading": "チダツ",
+        "meaning": "stripping (of clothes, office, etc.), deprivation"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "儿",
+      "初",
+      "匕",
+      "卜",
+      "厂",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35115_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0892b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/892b.gif",
+    "uri": "https://jisho.org/search/%E8%A4%AB%23kanji"
+  }
+}

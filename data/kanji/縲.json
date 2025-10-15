@@ -1,1 +1,44 @@
-{"id":"縲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"縲","found":true,"strokeCount":17,"meaning":"tie","kunyomi":[],"onyomi":["ルイ"],"onyomiExamples":[{"example":"累囚","reading":"ルイシュウ","meaning":"prisoner"},{"example":"縲絏","reading":"ルイセツ","meaning":"black rope used to bind criminals, being bound in prison"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["小","幺","田","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32306_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e32.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e32.gif","uri":"https://jisho.org/search/%E7%B8%B2%23kanji"}}
+{
+  "id": "縲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "縲",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "tie",
+    "kunyomi": [],
+    "onyomi": [
+      "ルイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "累囚",
+        "reading": "ルイシュウ",
+        "meaning": "prisoner"
+      },
+      {
+        "example": "縲絏",
+        "reading": "ルイセツ",
+        "meaning": "black rope used to bind criminals, being bound in prison"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "田",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32306_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e32.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e32.gif",
+    "uri": "https://jisho.org/search/%E7%B8%B2%23kanji"
+  }
+}

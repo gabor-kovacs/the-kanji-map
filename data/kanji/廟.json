@@ -1,1 +1,63 @@
-{"id":"廟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廟","found":true,"newspaperFrequencyRank":"2101","strokeCount":15,"meaning":"mausoleum, shrine, palace","kunyomi":["たまや","みたまや","やしろ"],"onyomi":["ビョウ","ミョウ"],"onyomiExamples":[{"example":"廟","reading":"ビョウ","meaning":"mausoleum, shrine, the (imperial) court"},{"example":"廟宇","reading":"ビョウウ","meaning":"mausoleum, (Shinto) shrine"},{"example":"聖廟","reading":"セイビョウ","meaning":"Confucian temple"},{"example":"伊勢大廟","reading":"イセタイビョウ","meaning":"the Grand Shrines of Ise"}],"kunyomiExamples":[{"example":"霊屋","reading":"たまや","meaning":"mausoleum, (temporary) resting place of a corpse"}],"radical":{"symbol":"广","meaning":"house on cliff"},"parts":["十","广","日","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24287_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05edf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5edf.gif","uri":"https://jisho.org/search/%E5%BB%9F%23kanji"}}
+{
+  "id": "廟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廟",
+    "found": true,
+    "newspaperFrequencyRank": "2101",
+    "strokeCount": 15,
+    "meaning": "mausoleum, shrine, palace",
+    "kunyomi": [
+      "たまや",
+      "みたまや",
+      "やしろ"
+    ],
+    "onyomi": [
+      "ビョウ",
+      "ミョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廟",
+        "reading": "ビョウ",
+        "meaning": "mausoleum, shrine, the (imperial) court"
+      },
+      {
+        "example": "廟宇",
+        "reading": "ビョウウ",
+        "meaning": "mausoleum, (Shinto) shrine"
+      },
+      {
+        "example": "聖廟",
+        "reading": "セイビョウ",
+        "meaning": "Confucian temple"
+      },
+      {
+        "example": "伊勢大廟",
+        "reading": "イセタイビョウ",
+        "meaning": "the Grand Shrines of Ise"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "霊屋",
+        "reading": "たまや",
+        "meaning": "mausoleum, (temporary) resting place of a corpse"
+      }
+    ],
+    "radical": {
+      "symbol": "广",
+      "meaning": "house on cliff"
+    },
+    "parts": [
+      "十",
+      "广",
+      "日",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24287_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05edf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5edf.gif",
+    "uri": "https://jisho.org/search/%E5%BB%9F%23kanji"
+  }
+}

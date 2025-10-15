@@ -1,1 +1,41 @@
-{"id":"鵆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鵆","found":true,"strokeCount":17,"meaning":"plover, (kokuji)","kunyomi":["ちどり"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[{"example":"千鳥","reading":"ちどり","meaning":"plover"},{"example":"友千鳥","reading":"ともちどり","meaning":"flocking plovers, flock of plovers"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["彳","杰","行","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40262_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d46.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d46.gif","uri":"https://jisho.org/search/%E9%B5%86%23kanji"}}
+{
+  "id": "鵆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鵆",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "plover, (kokuji)",
+    "kunyomi": [
+      "ちどり"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "千鳥",
+        "reading": "ちどり",
+        "meaning": "plover"
+      },
+      {
+        "example": "友千鳥",
+        "reading": "ともちどり",
+        "meaning": "flocking plovers, flock of plovers"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "彳",
+      "杰",
+      "行",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40262_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d46.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d46.gif",
+    "uri": "https://jisho.org/search/%E9%B5%86%23kanji"
+  }
+}

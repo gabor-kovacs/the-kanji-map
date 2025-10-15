@@ -1,1 +1,52 @@
-{"id":"址","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"址","found":true,"strokeCount":7,"meaning":"ruins","kunyomi":["あと"],"onyomi":["シ"],"onyomiExamples":[{"example":"城跡","reading":"シロアト","meaning":"castle site, ruins of a castle"},{"example":"遺址","reading":"イシ","meaning":"(historic) ruins"}],"kunyomiExamples":[{"example":"跡","reading":"あと","meaning":"trace, tracks, mark, sign, site, remains, ruins, scar"},{"example":"城跡","reading":"しろあと","meaning":"castle site, ruins of a castle"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["土","止"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22336_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05740.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5740.gif","uri":"https://jisho.org/search/%E5%9D%80%23kanji"}}
+{
+  "id": "址",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "址",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "ruins",
+    "kunyomi": [
+      "あと"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "城跡",
+        "reading": "シロアト",
+        "meaning": "castle site, ruins of a castle"
+      },
+      {
+        "example": "遺址",
+        "reading": "イシ",
+        "meaning": "(historic) ruins"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "跡",
+        "reading": "あと",
+        "meaning": "trace, tracks, mark, sign, site, remains, ruins, scar"
+      },
+      {
+        "example": "城跡",
+        "reading": "しろあと",
+        "meaning": "castle site, ruins of a castle"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "土",
+      "止"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22336_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05740.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5740.gif",
+    "uri": "https://jisho.org/search/%E5%9D%80%23kanji"
+  }
+}

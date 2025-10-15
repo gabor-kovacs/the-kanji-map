@@ -1,1 +1,37 @@
-{"id":"輌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"輌","found":true,"strokeCount":13,"meaning":"numerary adjunct for vehicles","kunyomi":[],"onyomi":["リョウ"],"onyomiExamples":[{"example":"輛","reading":"リョウ","meaning":"counter for carriages (e.g. in a train), counter for vehicles"}],"kunyomiExamples":[],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["一","冂","山","車","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36620_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f0c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f0c.gif","uri":"https://jisho.org/search/%E8%BC%8C%23kanji"}}
+{
+  "id": "輌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輌",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "numerary adjunct for vehicles",
+    "kunyomi": [],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "輛",
+        "reading": "リョウ",
+        "meaning": "counter for carriages (e.g. in a train), counter for vehicles"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "山",
+      "車",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36620_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f0c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f0c.gif",
+    "uri": "https://jisho.org/search/%E8%BC%8C%23kanji"
+  }
+}

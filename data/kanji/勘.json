@@ -1,1 +1,54 @@
-{"id":"勘","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"勘","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1494","strokeCount":11,"meaning":"intuition, perception, check, compare, sixth sense","kunyomi":[],"onyomi":["カン"],"onyomiExamples":[{"example":"勘","reading":"カン","meaning":"perception, intuition, the sixth sense"},{"example":"勘案","reading":"カンアン","meaning":"taking into consideration, giving consideration (to)"},{"example":"校勘","reading":"コウカン","meaning":"collation, examining and comparing"},{"example":"勅勘","reading":"チョッカン","meaning":"the emperor's censure"}],"kunyomiExamples":[],"radical":{"symbol":"力","meaning":"power, force"},"parts":["儿","力","匚","甘"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21208_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052d8.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52d8.gif","uri":"https://jisho.org/search/%E5%8B%98%23kanji"}}
+{
+  "id": "勘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "勘",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1494",
+    "strokeCount": 11,
+    "meaning": "intuition, perception, check, compare, sixth sense",
+    "kunyomi": [],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "勘",
+        "reading": "カン",
+        "meaning": "perception, intuition, the sixth sense"
+      },
+      {
+        "example": "勘案",
+        "reading": "カンアン",
+        "meaning": "taking into consideration, giving consideration (to)"
+      },
+      {
+        "example": "校勘",
+        "reading": "コウカン",
+        "meaning": "collation, examining and comparing"
+      },
+      {
+        "example": "勅勘",
+        "reading": "チョッカン",
+        "meaning": "the emperor's censure"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "力",
+      "meaning": "power, force"
+    },
+    "parts": [
+      "儿",
+      "力",
+      "匚",
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21208_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52d8.gif",
+    "uri": "https://jisho.org/search/%E5%8B%98%23kanji"
+  }
+}

@@ -1,1 +1,47 @@
-{"id":"鶩","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鶩","found":true,"strokeCount":20,"meaning":"domestic duck","kunyomi":["あひる"],"onyomi":["ボク","ブ","ム"],"onyomiExamples":[{"example":"家鶏野鶩","reading":"カケイヤボク","meaning":"bored by the familiar, intrigued by novelty, domestic chicken and wild duck, one's wife and one's mistress"}],"kunyomiExamples":[{"example":"家鴨","reading":"あひる","meaning":"domestic duck"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["乞","攵","杰","矛","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40361_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09da9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9da9.gif","uri":"https://jisho.org/search/%E9%B6%A9%23kanji"}}
+{
+  "id": "鶩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鶩",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "domestic duck",
+    "kunyomi": [
+      "あひる"
+    ],
+    "onyomi": [
+      "ボク",
+      "ブ",
+      "ム"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "家鶏野鶩",
+        "reading": "カケイヤボク",
+        "meaning": "bored by the familiar, intrigued by novelty, domestic chicken and wild duck, one's wife and one's mistress"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【アヒル】",
+        "reading": "domestic duck",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "乞",
+      "攵",
+      "杰",
+      "矛",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40361_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09da9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9da9.gif",
+    "uri": "https://jisho.org/search/%E9%B6%A9%23kanji"
+  }
+}

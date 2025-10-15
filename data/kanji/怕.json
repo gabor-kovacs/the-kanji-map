@@ -1,1 +1,36 @@
-{"id":"怕","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"怕","found":true,"strokeCount":8,"meaning":"fear, worry, afraid","kunyomi":["おそ.れる"],"onyomi":["ハク","ヒャク","ハ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["忙","白"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24597_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06015.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6015.gif","uri":"https://jisho.org/search/%E6%80%95%23kanji"}}
+{
+  "id": "怕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "怕",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "fear, worry, afraid",
+    "kunyomi": [
+      "おそ.れる"
+    ],
+    "onyomi": [
+      "ハク",
+      "ヒャク",
+      "ハ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "忙",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24597_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06015.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6015.gif",
+    "uri": "https://jisho.org/search/%E6%80%95%23kanji"
+  }
+}

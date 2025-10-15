@@ -1,1 +1,34 @@
-{"id":"廼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"廼","found":true,"strokeCount":9,"meaning":"in other words, thou, you, possessive particle","kunyomi":["すなわ.ち","なんじ"],"onyomi":["ナイ","ダイ","ノ","アイ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"廴","meaning":"long stride"},"parts":["廴","西"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24316_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05efc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5efc.gif","uri":"https://jisho.org/search/%E5%BB%BC%23kanji"}}
+{
+  "id": "廼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廼",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "in other words, thou, you, possessive particle",
+    "kunyomi": [
+      "すなわ.ち",
+      "なんじ"
+    ],
+    "onyomi": [
+      "ナイ",
+      "ダイ",
+      "ノ",
+      "アイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "廴",
+      "meaning": "long stride"
+    },
+    "parts": [
+      "廴",
+      "西"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24316_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05efc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5efc.gif",
+    "uri": "https://jisho.org/search/%E5%BB%BC%23kanji"
+  }
+}

@@ -1,1 +1,294 @@
-{"id":"桜","kanjialiveData":{"kanji":{"character":"桜","meaning":{"english":"cherry"},"strokes":{"count":10,"timings":[0,1.133333,2.8,3.733333,4.4,5.533333,6.266667,7,8.666667,10.333333,11.666667],"images":["https://media.kanjialive.com/kanji_strokes/sakura(nbou)_1.svg","https://media.kanjialive.com/kanji_strokes/sakura(nbou)_2.svg","https://media.kanjialive.com/kanji_strokes/sakura(nbou)_3.svg","https://media.kanjialive.com/kanji_strokes/sakura(nbou)_4.svg","https://media.kanjialive.com/kanji_strokes/sakura(nbou)_5.svg","https://media.kanjialive.com/kanji_strokes/sakura(nbou)_6.svg","https://media.kanjialive.com/kanji_strokes/sakura(nbou)_7.svg","https://media.kanjialive.com/kanji_strokes/sakura(nbou)_8.svg","https://media.kanjialive.com/kanji_strokes/sakura(nbou)_9.svg","https://media.kanjialive.com/kanji_strokes/sakura(nbou)_10.svg"]},"onyomi":{"romaji":"ou","katakana":"オウ"},"kunyomi":{"romaji":"sakura","hiragana":"さくら"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/sakura(nbou)_10.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/sakura(nbou)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/sakura(nbou)_00.webm"}},"radical":{"character":"","strokes":4,"image":"https://media.kanjialive.com/radical_character/kihen.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"きへん","romaji":"kihen"},"meaning":{"english":"tree, wood"},"animation":["https://media.kanjialive.com/rad_frames/kihen0.svg","https://media.kanjialive.com/rad_frames/kihen1.svg","https://media.kanjialive.com/rad_frames/kihen2.svg"]},"references":{"grade":5,"kodansha":"632","classic_nelson":"2256"},"examples":[{"japanese":"桜桃（おうとう）","meaning":{"english":"cherry"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sakura(nbou)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sakura(nbou)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sakura(nbou)_06_a.mp3"}},{"japanese":"桜（さくら）","meaning":{"english":"cherry tree or blossom, decoy"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sakura(nbou)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sakura(nbou)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sakura(nbou)_06_b.mp3"}},{"japanese":"桜ん坊（さくらんぼ）","meaning":{"english":"cherry"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sakura(nbou)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sakura(nbou)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sakura(nbou)_06_c.mp3"}},{"japanese":"山桜（やまざくら）","meaning":{"english":"wild cherry tree or blossoms"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sakura(nbou)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sakura(nbou)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sakura(nbou)_06_d.mp3"}},{"japanese":"八重桜（やえざくら）","meaning":{"english":"double-flowered cherry tree"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/sakura(nbou)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/sakura(nbou)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/sakura(nbou)_06_e.mp3"}}]},"jishoData":{"query":"桜","found":true,"taughtIn":"grade 5","jlptLevel":"N1","newspaperFrequencyRank":"1237","strokeCount":10,"meaning":"cherry","kunyomi":["さくら"],"onyomi":["オウ","ヨウ"],"onyomiExamples":[{"example":"桜花","reading":"オウカ","meaning":"cherry blossom"},{"example":"桜花爛漫","reading":"オウカランマン","meaning":"riot of cherry blossoms"},{"example":"観桜","reading":"カンオウ","meaning":"cherry blossom viewing"}],"kunyomiExamples":[{"example":"桜","reading":"さくら","meaning":"cherry tree, cherry blossom, fake buyer, paid audience, shill, seat filler, hired applauder, horse meat"},{"example":"桜花","reading":"おうか","meaning":"cherry blossom"},{"example":"左近の桜","reading":"さこんのさくら","meaning":"cherry tree east of the southern stairs of the Hall for State Ceremonies (in Heian Palace)"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["女","尚","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26716_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0685c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/685c.gif","uri":"https://jisho.org/search/%E6%A1%9C%23kanji"}}
+{
+  "id": "桜",
+  "kanjialiveData": {
+    "_id": "54317b11791eba5146ee4cc9",
+    "_rev": "9-d6c62dfcaa3f0e3164c47046ff3e1388",
+    "rad_name_ja": "きへん",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "sakura",
+    "meaning": "cherry",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "桜桃（おうとう）",
+        "meaning": {
+          "english": "cherry"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sakura(nbou)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sakura(nbou)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sakura(nbou)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "桜（さくら）",
+        "meaning": {
+          "english": "cherry tree or blossom, decoy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sakura(nbou)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sakura(nbou)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sakura(nbou)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "桜ん坊（さくらんぼ）",
+        "meaning": {
+          "english": "cherry"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sakura(nbou)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sakura(nbou)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sakura(nbou)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "山桜（やまざくら）",
+        "meaning": {
+          "english": "wild cherry tree or blossoms"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sakura(nbou)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sakura(nbou)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sakura(nbou)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "八重桜（やえざくら）",
+        "meaning": {
+          "english": "double-flowered cherry tree"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sakura(nbou)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sakura(nbou)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sakura(nbou)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "さくら",
+    "ka_utf": "桜",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=桜",
+    "rad_name_search": [
+      "kihen"
+    ],
+    "rad_order": 98,
+    "txt_books": [
+      {
+        "chapter": "16",
+        "txt_bk": "macquarie"
+      }
+    ],
+    "kname": "sakura(nbou)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.133333,
+      2.8,
+      3.733333,
+      4.4,
+      5.533333,
+      6.266667,
+      7,
+      8.666667,
+      10.333333,
+      11.666667
+    ],
+    "kunyomi_ka_display": "さくら",
+    "dick": "632",
+    "rad_name": "kihen",
+    "dicn": "2256",
+    "mn_hint": "Tree 木 with pink flowers resembling cherry shells ツ used for girls' 女 necklaces.",
+    "rad_stroke": 4,
+    "onyomi_ja": "オウ",
+    "rad_meaning": "tree, wood",
+    "onyomi": "ou",
+    "ka_id": "ka_969",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "ou",
+      "ou"
+    ],
+    "kunyomi_search": [
+      "sakura",
+      "sakura"
+    ],
+    "meaning_search": [
+      "cherry",
+      "cherry"
+    ],
+    "onyomi_ja_search": [
+      "オウ",
+      "オウ"
+    ],
+    "kunyomi_ja_search": [
+      "さくら",
+      "さくら"
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "きへん"
+    ],
+    "textbook_search": [
+      "mac",
+      "mac:16",
+      "mac:c16"
+    ],
+    "rad_name_file": "kihen",
+    "kanji": {
+      "character": "桜",
+      "meaning": {
+        "english": "cherry"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          1.133333,
+          2.8,
+          3.733333,
+          4.4,
+          5.533333,
+          6.266667,
+          7,
+          8.666667,
+          10.333333,
+          11.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ou",
+        "katakana": "オウ"
+      },
+      "kunyomi": {
+        "romaji": "sakura",
+        "hiragana": "さくら"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sakura(nbou)_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sakura(nbou)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sakura(nbou)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "きへん",
+        "romaji": "kihen"
+      },
+      "meaning": {
+        "english": "tree, wood"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kihen0.svg",
+        "https://media.kanjialive.com/rad_frames/kihen1.svg",
+        "https://media.kanjialive.com/rad_frames/kihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "632",
+      "classic_nelson": "2256"
+    }
+  },
+  "jishoData": {
+    "query": "桜",
+    "found": true,
+    "taughtIn": "grade 5",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1237",
+    "strokeCount": 10,
+    "meaning": "cherry",
+    "kunyomi": [
+      "さくら"
+    ],
+    "onyomi": [
+      "オウ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桜花",
+        "reading": "オウカ",
+        "meaning": "cherry blossom"
+      },
+      {
+        "example": "桜花学園大学",
+        "reading": "オウカガクエンダイガク",
+        "meaning": "Ohkagakuen University"
+      },
+      {
+        "example": "観桜",
+        "reading": "カンオウ",
+        "meaning": "cherry blossom viewing"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "桜",
+        "reading": "さくら",
+        "meaning": "cherry tree, cherry blossom, fake buyer, paid audience, shill, seat filler, hired applauder, horse meat"
+      },
+      {
+        "example": "桜花",
+        "reading": "おうか",
+        "meaning": "cherry blossom"
+      },
+      {
+        "example": "左近の桜",
+        "reading": "さこんのさくら",
+        "meaning": "cherry tree east of the southern stairs of the Hall for State Ceremonies (in Heian Palace)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "女",
+      "尚",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26716_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0685c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/685c.gif",
+    "uri": "https://jisho.org/search/%E6%A1%9C%23kanji"
+  }
+}

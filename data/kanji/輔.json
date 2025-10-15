@@ -1,1 +1,62 @@
-{"id":"輔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"輔","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1898","strokeCount":14,"meaning":"help","kunyomi":["たす.ける"],"onyomi":["ホ","フ"],"onyomiExamples":[{"example":"補佐","reading":"ホサ","meaning":"aid, help, assistance, assistant, counselor, counsellor, adviser, advisor"},{"example":"補導","reading":"ホドウ","meaning":"guidance, protective custody"},{"example":"補す","reading":"フス","meaning":"to appoint, to designate"},{"example":"大輔","reading":"タイフ","meaning":"vice-minister (ritsuryō system), deputy minister"}],"kunyomiExamples":[{"example":"助ける","reading":"たすける","meaning":"to save, to rescue, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"}],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["丶","十","用","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36628_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f14.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f14.gif","uri":"https://jisho.org/search/%E8%BC%94%23kanji"}}
+{
+  "id": "輔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輔",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1898",
+    "strokeCount": 14,
+    "meaning": "help",
+    "kunyomi": [
+      "たす.ける"
+    ],
+    "onyomi": [
+      "ホ",
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "補助",
+        "reading": "ホジョ",
+        "meaning": "assistance, support, help, aid, subsidy, supplement, subvention, grant-in-aid, spotting (in weight training)"
+      },
+      {
+        "example": "補佐",
+        "reading": "ホサ",
+        "meaning": "aid, help, assistance, assistant, counselor, counsellor, adviser, advisor"
+      },
+      {
+        "example": "補す",
+        "reading": "フス",
+        "meaning": "to appoint, to designate"
+      },
+      {
+        "example": "大輔",
+        "reading": "タイフ",
+        "meaning": "vice-minister (ritsuryō system), deputy minister"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "助ける",
+        "reading": "たすける",
+        "meaning": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "用",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36628_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f14.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f14.gif",
+    "uri": "https://jisho.org/search/%E8%BC%94%23kanji"
+  }
+}

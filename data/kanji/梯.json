@@ -1,1 +1,67 @@
-{"id":"梯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梯","found":true,"newspaperFrequencyRank":"2218","strokeCount":11,"meaning":"ladder, stairs, insatiable drinking","kunyomi":["はしご"],"onyomi":["テイ","タイ"],"onyomiExamples":[{"example":"梯子","reading":"ハシゴ","meaning":"ladder, stairs, going to several places in succession (e.g. barhopping)"},{"example":"梯形","reading":"テイケイ","meaning":"trapezoid, trapezium"},{"example":"階梯","reading":"カイテイ","meaning":"stairs, rank, grade, gradations, step, guide, guidebook, slanted ladder (exercise equipment)"},{"example":"索梯","reading":"サクテイ","meaning":"rope ladder, jack ladder"}],"kunyomiExamples":[{"example":"梯子","reading":"はしご","meaning":"ladder, stairs, going to several places in succession (e.g. barhopping)"},{"example":"はしご酒","reading":"はしござけ","meaning":"barhopping, pub crawl"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["ノ","并","弓","木","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26799_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068af.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68af.gif","uri":"https://jisho.org/search/%E6%A2%AF%23kanji"}}
+{
+  "id": "梯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梯",
+    "found": true,
+    "newspaperFrequencyRank": "2218",
+    "strokeCount": 11,
+    "meaning": "ladder, stairs, insatiable drinking",
+    "kunyomi": [
+      "はしご"
+    ],
+    "onyomi": [
+      "テイ",
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梯子",
+        "reading": "ハシゴ",
+        "meaning": "ladder, stairs, going to several places in succession (e.g. barhopping)"
+      },
+      {
+        "example": "梯形",
+        "reading": "テイケイ",
+        "meaning": "trapezoid, trapezium"
+      },
+      {
+        "example": "階梯",
+        "reading": "カイテイ",
+        "meaning": "stairs, rank, grade, gradations, step, guide, guidebook, slanted ladder (exercise equipment)"
+      },
+      {
+        "example": "索梯",
+        "reading": "サクテイ",
+        "meaning": "rope ladder, jack ladder"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梯子",
+        "reading": "はしご",
+        "meaning": "ladder, stairs, going to several places in succession (e.g. barhopping)"
+      },
+      {
+        "example": "はしご酒",
+        "reading": "はしござけ",
+        "meaning": "barhopping, pub crawl"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "ノ",
+      "并",
+      "弓",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26799_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068af.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68af.gif",
+    "uri": "https://jisho.org/search/%E6%A2%AF%23kanji"
+  }
+}

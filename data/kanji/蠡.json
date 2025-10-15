@@ -1,1 +1,35 @@
-{"id":"蠡","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蠡","found":true,"strokeCount":21,"meaning":"worm-eaten, conch","kunyomi":["にな","ひさご"],"onyomi":["レイ","ライ","リ","ラ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"虫","meaning":"insect"},"parts":["彑","虫","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34849_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08821.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8821.gif","uri":"https://jisho.org/search/%E8%A0%A1%23kanji"}}
+{
+  "id": "蠡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蠡",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "worm-eaten, conch",
+    "kunyomi": [
+      "にな",
+      "ひさご"
+    ],
+    "onyomi": [
+      "レイ",
+      "ライ",
+      "リ",
+      "ラ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "彑",
+      "虫",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34849_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08821.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8821.gif",
+    "uri": "https://jisho.org/search/%E8%A0%A1%23kanji"
+  }
+}

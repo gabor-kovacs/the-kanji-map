@@ -1,1 +1,70 @@
-{"id":"躯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"躯","found":true,"strokeCount":11,"meaning":"body, corpse, tree with rotten core","kunyomi":["むくろ","からだ"],"onyomi":["ク"],"onyomiExamples":[{"example":"躯","reading":"ク","meaning":"counter for Buddhist images (statues and paintings)"},{"example":"躯幹","reading":"クカン","meaning":"body, trunk, torso, physique"},{"example":"衰躯","reading":"スイク","meaning":"emaciated body"},{"example":"矮躯","reading":"ワイク","meaning":"small stature"}],"kunyomiExamples":[{"example":"躯","reading":"むくろ","meaning":"(dead) body, corpse"},{"example":"体","reading":"からだ","meaning":"body, torso, trunk, build, physique, frame, figure, health, constitution, corpse, dead body"},{"example":"体で覚える","reading":"からだでおぼえる","meaning":"to master something (through personal experience)"}],"radical":{"symbol":"身","meaning":"body"},"parts":["ノ","丶","匚","身"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36527_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08eaf.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8eaf.gif","uri":"https://jisho.org/search/%E8%BA%AF%23kanji"}}
+{
+  "id": "躯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "躯",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "body, corpse, tree with rotten core",
+    "kunyomi": [
+      "むくろ",
+      "からだ"
+    ],
+    "onyomi": [
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "躯",
+        "reading": "ク",
+        "meaning": "counter for Buddhist images (statues and paintings)"
+      },
+      {
+        "example": "躯幹",
+        "reading": "クカン",
+        "meaning": "body, trunk, torso, physique"
+      },
+      {
+        "example": "衰躯",
+        "reading": "スイク",
+        "meaning": "emaciated body"
+      },
+      {
+        "example": "矮躯",
+        "reading": "ワイク",
+        "meaning": "small stature"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "躯",
+        "reading": "むくろ",
+        "meaning": "(dead) body, corpse"
+      },
+      {
+        "example": "体",
+        "reading": "からだ",
+        "meaning": "body, torso, trunk, build, physique, frame, figure, health, constitution"
+      },
+      {
+        "example": "体で覚える",
+        "reading": "からだでおぼえる",
+        "meaning": "to master something (through personal experience)"
+      }
+    ],
+    "radical": {
+      "symbol": "身",
+      "meaning": "body"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "匚",
+      "身"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36527_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08eaf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8eaf.gif",
+    "uri": "https://jisho.org/search/%E8%BA%AF%23kanji"
+  }
+}

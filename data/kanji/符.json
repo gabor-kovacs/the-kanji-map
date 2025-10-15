@@ -1,1 +1,293 @@
-{"id":"符","kanjialiveData":{"kanji":{"character":"符","meaning":{"english":"symbol"},"strokes":{"count":11,"timings":[0,1.466,2.333,3.333,3.733,4.599,5.266,6.133,7.066,8.133,9.466,10.333333],"images":["https://media.kanjialive.com/kanji_strokes/fu(gou)_1.svg","https://media.kanjialive.com/kanji_strokes/fu(gou)_2.svg","https://media.kanjialive.com/kanji_strokes/fu(gou)_3.svg","https://media.kanjialive.com/kanji_strokes/fu(gou)_4.svg","https://media.kanjialive.com/kanji_strokes/fu(gou)_5.svg","https://media.kanjialive.com/kanji_strokes/fu(gou)_6.svg","https://media.kanjialive.com/kanji_strokes/fu(gou)_7.svg","https://media.kanjialive.com/kanji_strokes/fu(gou)_8.svg","https://media.kanjialive.com/kanji_strokes/fu(gou)_9.svg","https://media.kanjialive.com/kanji_strokes/fu(gou)_10.svg","https://media.kanjialive.com/kanji_strokes/fu(gou)_11.svg"]},"onyomi":{"romaji":"fu","katakana":"フ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/fu(gou)_11.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/fu(gou)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/fu(gou)_00.webm"}},"radical":{"character":"⺮","strokes":6,"image":"https://media.kanjialive.com/radical_character/takekanmuri.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"たけかんむり","romaji":"takekanmuri"},"meaning":{"english":"bamboo"},"animation":["https://media.kanjialive.com/rad_frames/takekanmuri0.svg","https://media.kanjialive.com/rad_frames/takekanmuri1.svg","https://media.kanjialive.com/rad_frames/takekanmuri2.svg"]},"references":{"grade":null,"kodansha":"1707","classic_nelson":"3383"},"examples":[{"japanese":"疑問符（ぎもんふ）","meaning":{"english":"question mark"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu(gou)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu(gou)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu(gou)_06_a.mp3"}},{"japanese":"切符（きっぷ）","meaning":{"english":"ticket"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu(gou)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu(gou)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu(gou)_06_b.mp3"}},{"japanese":"音符（おんぷ）","meaning":{"english":"(musical) note"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu(gou)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu(gou)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu(gou)_06_c.mp3"}},{"japanese":"終止符（しゅうしふ）","meaning":{"english":"period"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu(gou)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu(gou)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu(gou)_06_d.mp3"}},{"japanese":"符号（ふごう）","meaning":{"english":"mark, code, symbol, sign"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/fu(gou)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/fu(gou)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/fu(gou)_06_e.mp3"}}]},"jishoData":{"query":"符","found":true,"taughtIn":"junior high","jlptLevel":"N2","newspaperFrequencyRank":"1798","strokeCount":11,"meaning":"token, sign, mark, tally, charm","kunyomi":[],"onyomi":["フ"],"onyomiExamples":[{"example":"符","reading":"フ","meaning":"charm, talisman, amulet, tally, sign, mark, note, fu, unit used in calculation of a hand's score"},{"example":"符号","reading":"フゴウ","meaning":"sign, mark, symbol, code, sign (e.g. positive, negative)"},{"example":"意符","reading":"イフ","meaning":"part of a kanji for which the role is primarily to represent the meaning (as opposed to the pronunciation)"},{"example":"合い符","reading":"アイフ","meaning":"baggage claim tag (at hotels, stations, etc.)"}],"kunyomiExamples":[],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","化","寸","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31526_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b26.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b26.gif","uri":"https://jisho.org/search/%E7%AC%A6%23kanji"}}
+{
+  "id": "符",
+  "kanjialiveData": {
+    "_id": "54317ae4791eba5146ee4976",
+    "_rev": "15-976be8171060eb56a13aa5a53903b8d5",
+    "rad_name_ja": "たけかんむり",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "symbol",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "疑問符（ぎもんふ）",
+        "meaning": {
+          "english": "question mark"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(gou)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(gou)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(gou)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "切符（きっぷ）",
+        "meaning": {
+          "english": "ticket"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(gou)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(gou)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(gou)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "音符（おんぷ）",
+        "meaning": {
+          "english": "(musical) note"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(gou)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(gou)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(gou)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "終止符（しゅうしふ）",
+        "meaning": {
+          "english": "period"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(gou)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(gou)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(gou)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "符号（ふごう）",
+        "meaning": {
+          "english": "mark, code, symbol, sign"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(gou)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(gou)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(gou)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(gou)_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "符",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=符",
+    "rad_name_search": [
+      "takekanmuri"
+    ],
+    "rad_order": 154,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ"
+      }
+    ],
+    "kname": "fu(gou)",
+    "rad_utf": "⺮",
+    "stroketimes": [
+      0,
+      1.466,
+      2.333,
+      3.333,
+      3.733,
+      4.599,
+      5.266,
+      6.133,
+      7.066,
+      8.133,
+      9.466,
+      10.333333
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1707",
+    "rad_name": "takekanmuri",
+    "dicn": "3383",
+    "mn_hint": "Bamboo 竹 slat attached 付 as id, mark, sign.",
+    "rad_stroke": 6,
+    "onyomi_ja": "フ",
+    "rad_meaning": "bamboo",
+    "onyomi": "fu",
+    "ka_id": "ka_201",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "fu",
+      "fu"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "symbol",
+      "symbol"
+    ],
+    "onyomi_ja_search": [
+      "フ",
+      "フ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "bamboo",
+      "bamboo"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "たけかんむり"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:20",
+      "cij:c20"
+    ],
+    "rad_name_file": "takekanmuri",
+    "kanji": {
+      "character": "符",
+      "meaning": {
+        "english": "symbol"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1.466,
+          2.333,
+          3.333,
+          3.733,
+          4.599,
+          5.266,
+          6.133,
+          7.066,
+          8.133,
+          9.466,
+          10.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/fu(gou)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "fu",
+        "katakana": "フ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/fu(gou)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/fu(gou)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/fu(gou)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺮",
+      "strokes": 6,
+      "image": "https://media.kanjialive.com/radical_character/takekanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "たけかんむり",
+        "romaji": "takekanmuri"
+      },
+      "meaning": {
+        "english": "bamboo"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/takekanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/takekanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1707",
+      "classic_nelson": "3383"
+    }
+  },
+  "jishoData": {
+    "query": "符",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1798",
+    "strokeCount": 11,
+    "meaning": "token, sign, mark, tally, charm",
+    "kunyomi": [],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "符",
+        "reading": "フ",
+        "meaning": "charm, talisman, amulet, tally, sign, mark, note, fu, unit used in calculation of a hand's score"
+      },
+      {
+        "example": "符号",
+        "reading": "フゴウ",
+        "meaning": "sign, mark, symbol, code, sign (e.g. positive, negative)"
+      },
+      {
+        "example": "意符",
+        "reading": "イフ",
+        "meaning": "part of a kanji for which the role is primarily to represent the meaning (as opposed to the pronunciation)"
+      },
+      {
+        "example": "合い符",
+        "reading": "アイフ",
+        "meaning": "baggage claim tag (at hotels, stations, etc.)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "化",
+      "寸",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31526_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b26.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b26.gif",
+    "uri": "https://jisho.org/search/%E7%AC%A6%23kanji"
+  }
+}

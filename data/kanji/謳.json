@@ -1,1 +1,59 @@
-{"id":"謳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"謳","found":true,"newspaperFrequencyRank":"2492","strokeCount":18,"meaning":"extol, declare, express","kunyomi":["うた.う"],"onyomi":["オウ","ウ"],"onyomiExamples":[{"example":"謳歌","reading":"オウカ","meaning":"rejoicing, glorification, exultation, celebration, enjoyment, singing praises"},{"example":"謳う","reading":"ウタウ","meaning":"to extol, to sing the praises of, to celebrate, to declare, to stipulate, to express, to state, to insist"},{"example":"うたい文句","reading":"ウタイモンク","meaning":"catchphrase, promotional line, slogan"}],"kunyomiExamples":[{"example":"謳う","reading":"うたう","meaning":"to extol, to sing the praises of, to celebrate, to declare, to stipulate, to express, to state, to insist"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["匚","口","品","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35635_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b33.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b33.gif","uri":"https://jisho.org/search/%E8%AC%B3%23kanji"}}
+{
+  "id": "謳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謳",
+    "found": true,
+    "newspaperFrequencyRank": "2492",
+    "strokeCount": 18,
+    "meaning": "extol, declare, express",
+    "kunyomi": [
+      "うた.う"
+    ],
+    "onyomi": [
+      "オウ",
+      "ウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謳歌",
+        "reading": "オウカ",
+        "meaning": "rejoicing, glorification, exultation, celebration, enjoyment, singing praises"
+      },
+      {
+        "example": "謳う",
+        "reading": "ウタウ",
+        "meaning": "to extol, to sing the praises of, to celebrate, to declare, to stipulate, to express, to state, to insist"
+      },
+      {
+        "example": "歌い上げる",
+        "reading": "ウタイアゲル",
+        "meaning": "to sing at the top of one's voice, to belt out a song, to express one's feelings fully in a poem, to praise in poetry"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "謳う",
+        "reading": "うたう",
+        "meaning": "to extol, to sing the praises of, to celebrate, to declare, to stipulate, to express, to state, to insist"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "匚",
+      "口",
+      "品",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35635_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b33.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b33.gif",
+    "uri": "https://jisho.org/search/%E8%AC%B3%23kanji"
+  }
+}

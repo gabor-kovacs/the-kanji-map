@@ -1,1 +1,56 @@
-{"id":"宏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"宏","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1277","strokeCount":7,"meaning":"wide, large","kunyomi":["ひろ.い"],"onyomi":["コウ"],"onyomiExamples":[{"example":"広大","reading":"コウダイ","meaning":"vast, extensive, immense, huge, large, grand, magnificent"},{"example":"宏遠","reading":"コウエン","meaning":"vast and far-reaching"},{"example":"恢弘","reading":"カイコウ","meaning":"propagation, spreading out, extending"}],"kunyomiExamples":[{"example":"広い","reading":"ひろい","meaning":"spacious, vast, wide"}],"radical":{"symbol":"宀","meaning":"roof"},"parts":["ノ","一","厶","宀"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23439_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b8f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b8f.gif","uri":"https://jisho.org/search/%E5%AE%8F%23kanji"}}
+{
+  "id": "宏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "宏",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1277",
+    "strokeCount": 7,
+    "meaning": "wide, large",
+    "kunyomi": [
+      "ひろ.い"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "広大",
+        "reading": "コウダイ",
+        "meaning": "vast, extensive, immense, huge, large, grand, magnificent"
+      },
+      {
+        "example": "宏遠",
+        "reading": "コウエン",
+        "meaning": "vast and far-reaching"
+      },
+      {
+        "example": "恢弘",
+        "reading": "カイコウ",
+        "meaning": "propagation, spreading out, extending"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "広い",
+        "reading": "ひろい",
+        "meaning": "spacious, vast, wide"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "厶",
+      "宀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23439_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b8f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b8f.gif",
+    "uri": "https://jisho.org/search/%E5%AE%8F%23kanji"
+  }
+}

@@ -1,1 +1,282 @@
-{"id":"仁","kanjialiveData":{"kanji":{"character":"仁","meaning":{"english":"benevolence, virtue, charity"},"strokes":{"count":4,"timings":[0,0.8,2.733333,4.333333,5.866667],"images":["https://media.kanjialive.com/kanji_strokes/(kyou)nin_1.svg","https://media.kanjialive.com/kanji_strokes/(kyou)nin_2.svg","https://media.kanjialive.com/kanji_strokes/(kyou)nin_3.svg","https://media.kanjialive.com/kanji_strokes/(kyou)nin_4.svg"]},"onyomi":{"romaji":"jin, nin","katakana":"ジン、ニン"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/(kyou)nin_4.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/(kyou)nin_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/(kyou)nin_00.webm"}},"radical":{"character":"⺅","strokes":2,"image":"https://media.kanjialive.com/radical_character/ninben.svg","position":{"hiragana":"へん","romaji":"hen","icon":"https://media.kanjialive.com/rad_positions/hen.svg"},"name":{"hiragana":"にんべん","romaji":"ninben"},"meaning":{"english":"person "},"animation":["https://media.kanjialive.com/rad_frames/ninben0.svg","https://media.kanjialive.com/rad_frames/ninben1.svg","https://media.kanjialive.com/rad_frames/ninben2.svg"]},"references":{"grade":6,"kodansha":"11","classic_nelson":"349"},"examples":[{"japanese":"仁義（じんぎ）","meaning":{"english":"charity & righteousness"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(kyou)nin_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(kyou)nin_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(kyou)nin_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(kyou)nin_06_a.mp3"}},{"japanese":"仁徳（じんとく）","meaning":{"english":"benevolence, goodness"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(kyou)nin_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(kyou)nin_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(kyou)nin_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(kyou)nin_06_b.mp3"}},{"japanese":"仁愛（じんあい）","meaning":{"english":"benevolence, charity, love"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(kyou)nin_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(kyou)nin_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(kyou)nin_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(kyou)nin_06_c.mp3"}},{"japanese":"仁王（におう）","meaning":{"english":"the two guardian Deva kings"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/(kyou)nin_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/(kyou)nin_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/(kyou)nin_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/(kyou)nin_06_d.mp3"}}]},"jishoData":{"query":"仁","found":true,"taughtIn":"grade 6","jlptLevel":"N1","newspaperFrequencyRank":"1332","strokeCount":4,"meaning":"humanity, virtue, benevolence, charity, man, kernel","kunyomi":[],"onyomi":["ジン","ニ","ニン"],"onyomiExamples":[{"example":"仁","reading":"ジン","meaning":"benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"},{"example":"任侠","reading":"ニンキョウ","meaning":"chivalry, generosity, heroism, chivalrous spirit, helping the weak and fighting the strong"},{"example":"同仁","reading":"ドウジン","meaning":"universal benevolence"},{"example":"一視同人","reading":"イッシドウジン","meaning":"loving every human being with impartiality, universal brotherhood, universal benevolence"},{"example":"仁","reading":"ジン","meaning":"benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"},{"example":"仁王","reading":"ニオウ","meaning":"two Deva kings, guardian gods of Buddhism who stand at the entrance of a Buddhist temple"},{"example":"亜麻仁","reading":"アマニ","meaning":"flaxseed, linseed"},{"example":"仁","reading":"ジン","meaning":"benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"},{"example":"任侠","reading":"ニンキョウ","meaning":"chivalry, generosity, heroism, chivalrous spirit, helping the weak and fighting the strong"},{"example":"永仁","reading":"エイニン","meaning":"Einin era (1293.8.5-1299.4.25)"},{"example":"応仁","reading":"オウニン","meaning":"Ōnin era (1467.3.5-1469.4.28)"}],"kunyomiExamples":[],"radical":{"symbol":"人","forms":["亻"],"meaning":"man, human"},"parts":["二","化"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20161_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ec1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ec1.gif","uri":"https://jisho.org/search/%E4%BB%81%23kanji"}}
+{
+  "id": "仁",
+  "kanjialiveData": {
+    "_id": "54317ad5791eba5146ee486f",
+    "_rev": "10-6107c4dcb1080c5ea4337f4b3f5de240",
+    "rad_name_ja": "にんべん",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "benevolence, virtue, charity",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "仁義（じんぎ）",
+        "meaning": {
+          "english": "charity & righteousness"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kyou)nin_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kyou)nin_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kyou)nin_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kyou)nin_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "仁徳（じんとく）",
+        "meaning": {
+          "english": "benevolence, goodness"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kyou)nin_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kyou)nin_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kyou)nin_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kyou)nin_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "仁愛（じんあい）",
+        "meaning": {
+          "english": "benevolence, charity, love"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kyou)nin_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kyou)nin_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kyou)nin_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kyou)nin_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "仁王（におう）",
+        "meaning": {
+          "english": "the two guardian Deva kings"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kyou)nin_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kyou)nin_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kyou)nin_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kyou)nin_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "仁",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=仁",
+    "kname": "(kyou)nin",
+    "rad_order": 11,
+    "txt_books": [],
+    "rad_name_search": [
+      "ninben"
+    ],
+    "rad_utf": "⺅",
+    "stroketimes": [
+      0,
+      0.8,
+      2.733333,
+      4.333333,
+      5.866667
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "11",
+    "rad_name": "ninben",
+    "dicn": "349",
+    "mn_hint": "Ideal relations between two 二 people イ.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ジン、ニン",
+    "rad_meaning": "person ",
+    "onyomi": "jin, nin",
+    "ka_id": "ka_1077",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "jin",
+      "nin",
+      "jin, nin"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "benevolence",
+      "virtue",
+      "charity",
+      "benevolence, virtue, charity"
+    ],
+    "onyomi_ja_search": [
+      "ジン",
+      "ニン",
+      "ジン、ニン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にんべん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "ninben",
+    "kanji": {
+      "character": "仁",
+      "meaning": {
+        "english": "benevolence, virtue, charity"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0,
+          0.8,
+          2.733333,
+          4.333333,
+          5.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(kyou)nin_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(kyou)nin_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(kyou)nin_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(kyou)nin_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "jin, nin",
+        "katakana": "ジン、ニン"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(kyou)nin_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(kyou)nin_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(kyou)nin_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺅",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にんべん",
+        "romaji": "ninben"
+      },
+      "meaning": {
+        "english": "person "
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ninben0.svg",
+        "https://media.kanjialive.com/rad_frames/ninben1.svg",
+        "https://media.kanjialive.com/rad_frames/ninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "11",
+      "classic_nelson": "349"
+    }
+  },
+  "jishoData": {
+    "query": "仁",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1332",
+    "strokeCount": 4,
+    "meaning": "humanity, virtue, benevolence, charity, man, kernel",
+    "kunyomi": [],
+    "onyomi": [
+      "ジン",
+      "ニ",
+      "ニン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "仁",
+        "reading": "ジン",
+        "meaning": "benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"
+      },
+      {
+        "example": "任侠",
+        "reading": "ニンキョウ",
+        "meaning": "chivalry, chivalrous spirit, helping the weak and fighting the strong, yakuza"
+      },
+      {
+        "example": "同仁",
+        "reading": "ドウジン",
+        "meaning": "universal benevolence"
+      },
+      {
+        "example": "一視同仁",
+        "reading": "イッシドウジン",
+        "meaning": "loving every human being with impartiality, universal brotherhood, universal benevolence"
+      },
+      {
+        "example": "仁",
+        "reading": "ジン",
+        "meaning": "benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"
+      },
+      {
+        "example": "俄",
+        "reading": "ニワカ",
+        "meaning": "sudden, abrupt, unexpected, immediate, hasty, improvised, impromptu, offhand, impromptu skit, bandwagon fan, fair-weather fan"
+      },
+      {
+        "example": "亜麻仁",
+        "reading": "アマニ",
+        "meaning": "flaxseed, linseed"
+      },
+      {
+        "example": "仁",
+        "reading": "ジン",
+        "meaning": "benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"
+      },
+      {
+        "example": "任侠",
+        "reading": "ニンキョウ",
+        "meaning": "chivalry, chivalrous spirit, helping the weak and fighting the strong, yakuza"
+      },
+      {
+        "example": "永仁",
+        "reading": "エイニン",
+        "meaning": "Einin era (1293.8.5-1299.4.25)"
+      },
+      {
+        "example": "薏苡仁",
+        "reading": "ヨクイニン",
+        "meaning": "coix seed (used in traditional Chinese medicine)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "man, human"
+    },
+    "parts": [
+      "二",
+      "化"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20161_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ec1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ec1.gif",
+    "uri": "https://jisho.org/search/%E4%BB%81%23kanji"
+  }
+}

@@ -1,1 +1,56 @@
-{"id":"貌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"貌","found":true,"taughtIn":"junior high","strokeCount":14,"meaning":"form, appearance, countenance","kunyomi":["かたち","かたどる"],"onyomi":["ボウ","バク"],"onyomiExamples":[{"example":"風貌","reading":"フウボウ","meaning":"looks, appearance"},{"example":"外貌","reading":"ガイボウ","meaning":"outward appearance"}],"kunyomiExamples":[{"example":"形","reading":"かたち","meaning":"form, shape, figure, visage"},{"example":"顔かたち","reading":"かおかたち","meaning":"features, looks"}],"radical":{"symbol":"豸","meaning":"cat, badger"},"parts":["儿","白","豸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35980_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c8c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c8c.gif","uri":"https://jisho.org/search/%E8%B2%8C%23kanji"}}
+{
+  "id": "貌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "貌",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 14,
+    "meaning": "form, appearance, countenance",
+    "kunyomi": [
+      "かたち",
+      "かたどる"
+    ],
+    "onyomi": [
+      "ボウ",
+      "バク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "風貌",
+        "reading": "フウボウ",
+        "meaning": "looks, appearance"
+      },
+      {
+        "example": "外貌",
+        "reading": "ガイボウ",
+        "meaning": "outward appearance"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "形",
+        "reading": "かたち",
+        "meaning": "form, shape, figure, visage"
+      },
+      {
+        "example": "顔かたち",
+        "reading": "かおかたち",
+        "meaning": "features, looks"
+      }
+    ],
+    "radical": {
+      "symbol": "豸",
+      "meaning": "cat, badger"
+    },
+    "parts": [
+      "儿",
+      "白",
+      "豸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35980_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c8c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c8c.gif",
+    "uri": "https://jisho.org/search/%E8%B2%8C%23kanji"
+  }
+}

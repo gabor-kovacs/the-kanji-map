@@ -1,1 +1,95 @@
-{"id":"纏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"纏","found":true,"strokeCount":21,"meaning":"wear, wrap, tie, follow around, collect","kunyomi":["まつ.わる","まと.う","まと.める","まと.まる","まと.い"],"onyomi":["テン","デン"],"onyomiExamples":[{"example":"纏繞","reading":"テンジョウ","meaning":"twining around, entangling"},{"example":"纏足","reading":"テンソク","meaning":"foot-binding"},{"example":"半纏","reading":"ハンテン","meaning":"traditional short winter coat resembling a haori without gussets, livery coat, half the sky, mid-air, middle of the sky"},{"example":"ねんねこ半纏","reading":"ネンネコバンテン","meaning":"short, padded coat that covers someone and a baby on their back"}],"kunyomiExamples":[{"example":"纏わる","reading":"まつわる","meaning":"to coil around, to follow about, to be related to, to concern, to be associated with"},{"example":"纏う","reading":"まとう","meaning":"to put on, to wear, to be clad in, to twine around, to twist around, to coil around"},{"example":"纏める","reading":"まとめる","meaning":"to collect, to put (it all) together, to integrate, to consolidate, to unify, to summarize, to aggregate, to bring to a conclusion, to finalize, to settle, to put in order, to establish, to decide"},{"example":"纏まる","reading":"まとまる","meaning":"to find resolution, to be settled, to be agreed on, to be completed, to be collected, to be assembled, to be brought together, to be well arranged, to be in order, to be unified, to take shape, to be coherent"},{"example":"纏","reading":"まとい","meaning":"battle standard decorated with hanging strips of paper or leather, fireman's standard (Edo period)"},{"example":"纏いつく","reading":"まといつく","meaning":"to entwine, to follow about"}],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["儿","土","小","幺","广","糸","里"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32399_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e8f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e8f.gif","uri":"https://jisho.org/search/%E7%BA%8F%23kanji"}}
+{
+  "id": "纏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "纏",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "wear, wrap, tie, follow around, collect",
+    "kunyomi": [
+      "まつ.わる",
+      "まと.う",
+      "まと.める",
+      "まと.まる",
+      "まと.い"
+    ],
+    "onyomi": [
+      "テン",
+      "デン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "纏繞",
+        "reading": "テンジョウ",
+        "meaning": "twining around, entangling"
+      },
+      {
+        "example": "纏足",
+        "reading": "テンソク",
+        "meaning": "foot-binding"
+      },
+      {
+        "example": "半纏",
+        "reading": "ハンテン",
+        "meaning": "traditional short winter coat resembling a haori without gussets, livery coat, half the sky, mid-air, middle of the sky"
+      },
+      {
+        "example": "ねんねこ半纏",
+        "reading": "ネンネコバンテン",
+        "meaning": "short, padded coat that covers someone and a baby on their back"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "纏わる",
+        "reading": "まつわる",
+        "meaning": "to coil around, to follow about, to be related to, to concern, to be associated with"
+      },
+      {
+        "example": "纏う",
+        "reading": "まとう",
+        "meaning": "to put on, to wear, to be clothed in, to be clad in, to be dressed in, to be wrapped in"
+      },
+      {
+        "example": "纏める",
+        "reading": "まとめる",
+        "meaning": "to collect, to put (it all) together, to integrate, to consolidate, to unify, to summarize, to aggregate, to bring to a conclusion, to finalize, to settle, to put in order, to establish, to decide"
+      },
+      {
+        "example": "纏まる",
+        "reading": "まとまる",
+        "meaning": "to find resolution, to be settled, to be agreed on, to be completed, to be collected, to be assembled, to be brought together, to be well arranged, to be in order, to be unified, to take shape, to be coherent"
+      },
+      {
+        "example": "纏",
+        "reading": "まとい",
+        "meaning": "battle standard decorated with hanging strips of paper or leather, fireman's standard (Edo period)"
+      },
+      {
+        "example": "纏いつく",
+        "reading": "まといつく",
+        "meaning": "to entwine, to follow about"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "小",
+      "幺",
+      "广",
+      "糸",
+      "里"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32399_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e8f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e8f.gif",
+    "uri": "https://jisho.org/search/%E7%BA%8F%23kanji"
+  }
+}

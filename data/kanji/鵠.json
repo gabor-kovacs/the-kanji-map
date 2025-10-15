@@ -1,1 +1,68 @@
-{"id":"鵠","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鵠","found":true,"newspaperFrequencyRank":"2292","strokeCount":18,"meaning":"swan","kunyomi":["くぐい","まと"],"onyomi":["コク","コウ"],"onyomiExamples":[{"example":"鵠","reading":"コク","meaning":"swan, bullseye"},{"example":"正鵠","reading":"セイコク","meaning":"bull's-eye, mark, point"},{"example":"鴻鵠","reading":"コウコク","meaning":"giant bird, great person, magnanimous person, hero"},{"example":"鵠","reading":"コク","meaning":"swan, bullseye"},{"example":"正鵠","reading":"セイコク","meaning":"bull's-eye, mark, point"}],"kunyomiExamples":[{"example":"鵠","reading":"くぐい","meaning":"swan"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["ノ","口","土","杰","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40288_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d60.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d60.gif","uri":"https://jisho.org/search/%E9%B5%A0%23kanji"}}
+{
+  "id": "鵠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鵠",
+    "found": true,
+    "newspaperFrequencyRank": "2292",
+    "strokeCount": 18,
+    "meaning": "swan",
+    "kunyomi": [
+      "くぐい",
+      "まと"
+    ],
+    "onyomi": [
+      "コク",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鵠",
+        "reading": "コク",
+        "meaning": "swan, bullseye"
+      },
+      {
+        "example": "正鵠",
+        "reading": "セイコク",
+        "meaning": "bull's-eye, mark, point"
+      },
+      {
+        "example": "鴻鵠",
+        "reading": "コウコク",
+        "meaning": "large bird, great person, magnanimous person, hero"
+      },
+      {
+        "example": "鵠",
+        "reading": "コク",
+        "meaning": "swan, bullseye"
+      },
+      {
+        "example": "正鵠",
+        "reading": "セイコク",
+        "meaning": "bull's-eye, mark, point"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鵠",
+        "reading": "くぐい",
+        "meaning": "swan"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "土",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40288_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d60.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d60.gif",
+    "uri": "https://jisho.org/search/%E9%B5%A0%23kanji"
+  }
+}

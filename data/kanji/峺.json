@@ -1,1 +1,30 @@
-{"id":"峺","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"峺","found":true,"strokeCount":10,"meaning":"obstruct","kunyomi":[],"onyomi":["コ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["ノ","一","山","田"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23802_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cfa.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cfa.gif","uri":"https://jisho.org/search/%E5%B3%BA%23kanji"}}
+{
+  "id": "峺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "峺",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "obstruct",
+    "kunyomi": [],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "山",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23802_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cfa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cfa.gif",
+    "uri": "https://jisho.org/search/%E5%B3%BA%23kanji"
+  }
+}

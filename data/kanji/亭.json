@@ -1,1 +1,60 @@
-{"id":"亭","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"亭","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1627","strokeCount":9,"meaning":"pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name","kunyomi":[],"onyomi":["テイ","チン"],"onyomiExamples":[{"example":"亭","reading":"テイ","meaning":"arbor, arbour, bower, pavilion, suffix forming the final part of the pseudonyms of some writers and performers, suffix forming the final part of the name of a restaurant"},{"example":"亭主","reading":"テイシュ","meaning":"household head, master, host (e.g. of a tea gathering), innkeeper, owner (e.g. of a hotel), husband"},{"example":"料亭","reading":"リョウテイ","meaning":"ryotei, traditional Japanese restaurant (esp. a luxurious one)"},{"example":"亭々","reading":"テイテイ","meaning":"lofty (tree)"},{"example":"亭","reading":"テイ","meaning":"arbor, arbour, bower, pavilion, suffix forming the final part of the pseudonyms of some writers and performers, suffix forming the final part of the name of a restaurant"}],"kunyomiExamples":[],"radical":{"symbol":"亠","meaning":"lid"},"parts":["亅","亠","冖","口"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20141_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ead.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ead.gif","uri":"https://jisho.org/search/%E4%BA%AD%23kanji"}}
+{
+  "id": "亭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "亭",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1627",
+    "strokeCount": 9,
+    "meaning": "pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name",
+    "kunyomi": [],
+    "onyomi": [
+      "テイ",
+      "チン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "亭",
+        "reading": "テイ",
+        "meaning": "arbor, arbour, bower, pavilion, suffix forming the final part of the pseudonyms of some writers and performers, suffix forming the final part of the name of a restaurant"
+      },
+      {
+        "example": "亭主",
+        "reading": "テイシュ",
+        "meaning": "household head, master, host (e.g. of a tea gathering), innkeeper, owner (e.g. of a hotel), husband"
+      },
+      {
+        "example": "料亭",
+        "reading": "リョウテイ",
+        "meaning": "ryotei, traditional Japanese restaurant (esp. a luxurious one)"
+      },
+      {
+        "example": "亭々",
+        "reading": "テイテイ",
+        "meaning": "lofty (tree)"
+      },
+      {
+        "example": "亭",
+        "reading": "テイ",
+        "meaning": "arbor, arbour, bower, pavilion, suffix forming the final part of the pseudonyms of some writers and performers, suffix forming the final part of the name of a restaurant"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "亠",
+      "meaning": "lid"
+    },
+    "parts": [
+      "亅",
+      "亠",
+      "冖",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20141_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ead.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ead.gif",
+    "uri": "https://jisho.org/search/%E4%BA%AD%23kanji"
+  }
+}

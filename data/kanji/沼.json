@@ -1,1 +1,70 @@
-{"id":"沼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"沼","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1467","strokeCount":8,"meaning":"marsh, lake, bog, swamp, pond","kunyomi":["ぬま"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"沼地","reading":"ヌマチ","meaning":"marshland, wetland, swampland"},{"example":"沼沢","reading":"ショウタク","meaning":"marsh, swamp, bog"},{"example":"湖沼","reading":"コショウ","meaning":"lake, marsh, wetland, inland waters"},{"example":"池沼","reading":"チショウ","meaning":"ponds and swamps, retard, mentally disabled person"}],"kunyomiExamples":[{"example":"沼","reading":"ぬま","meaning":"marsh, swamp, wetland, bog, pond, being hooked (on a video game, TV show, etc.)"},{"example":"沼田","reading":"ぬまた","meaning":"marshy rice field or paddy"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["刀","口","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27836_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cbc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cbc.gif","uri":"https://jisho.org/search/%E6%B2%BC%23kanji"}}
+{
+  "id": "沼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沼",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1467",
+    "strokeCount": 8,
+    "meaning": "marsh, lake, bog, swamp, pond",
+    "kunyomi": [
+      "ぬま"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "沼地",
+        "reading": "ヌマチ",
+        "meaning": "marshland, wetland, swampland"
+      },
+      {
+        "example": "沼沢",
+        "reading": "ショウタク",
+        "meaning": "marsh, swamp, bog"
+      },
+      {
+        "example": "湖沼",
+        "reading": "コショウ",
+        "meaning": "lake, marsh, wetland, inland waters"
+      },
+      {
+        "example": "池沼",
+        "reading": "チショウ",
+        "meaning": "ponds and swamps, retard, mentally disabled person"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "沼",
+        "reading": "ぬま",
+        "meaning": "marsh, swamp, wetland, bog, pond, obsession, addiction, being hooked on, getting sucked into, ugly man, retard, mentally disabled person"
+      },
+      {
+        "example": "沼田",
+        "reading": "ぬまた",
+        "meaning": "deep-mud paddy"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "刀",
+      "口",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27836_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cbc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cbc.gif",
+    "uri": "https://jisho.org/search/%E6%B2%BC%23kanji"
+  }
+}

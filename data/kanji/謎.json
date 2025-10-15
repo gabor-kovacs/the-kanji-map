@@ -1,1 +1,54 @@
-{"id":"謎","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"謎","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2021","strokeCount":16,"meaning":"riddle, puzzle, enigma, hint, tip","kunyomi":["なぞ"],"onyomi":["メイ","ベイ"],"onyomiExamples":[{"example":"謎語","reading":"メイゴ","meaning":"mysterious words, confusing words"}],"kunyomiExamples":[{"example":"謎","reading":"なぞ","meaning":"riddle, puzzle, enigma, mystery, enigmatic, mysterious"},{"example":"謎々","reading":"なぞなぞ","meaning":"riddle, puzzle, enigma"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["米","言","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35598_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b0e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b0e.gif","uri":"https://jisho.org/search/%E8%AC%8E%23kanji"}}
+{
+  "id": "謎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謎",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2021",
+    "strokeCount": 16,
+    "meaning": "riddle, puzzle, enigma, hint, tip",
+    "kunyomi": [
+      "なぞ"
+    ],
+    "onyomi": [
+      "メイ",
+      "ベイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謎語",
+        "reading": "メイゴ",
+        "meaning": "mysterious words, confusing words"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "謎",
+        "reading": "なぞ",
+        "meaning": "riddle, puzzle, enigma, mystery, enigmatic, mysterious"
+      },
+      {
+        "example": "謎々",
+        "reading": "なぞなぞ",
+        "meaning": "riddle, puzzle, enigma"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "米",
+      "言",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35598_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b0e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b0e.gif",
+    "uri": "https://jisho.org/search/%E8%AC%8E%23kanji"
+  }
+}

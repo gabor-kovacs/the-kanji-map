@@ -1,1 +1,54 @@
-{"id":"楢","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"楢","found":true,"newspaperFrequencyRank":"2032","strokeCount":13,"meaning":"oak","kunyomi":["なら"],"onyomi":["シュウ","ユウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"楢","reading":"なら","meaning":"oak (esp. Quercus serrata)"},{"example":"楢茸","reading":"ならたけ","meaning":"honey fungus (Armillaria mellea), honey mushroom"},{"example":"欧州楢","reading":"おうしゅうなら","meaning":"English oak (Quercus robur), pedunculate oak, common oak, French oak"},{"example":"小楢","reading":"こなら","meaning":"konara oak (Quercus serrata), pin oak"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["并","木","酉"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26978_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06962.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6962.gif","uri":"https://jisho.org/search/%E6%A5%A2%23kanji"}}
+{
+  "id": "楢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楢",
+    "found": true,
+    "newspaperFrequencyRank": "2032",
+    "strokeCount": 13,
+    "meaning": "oak",
+    "kunyomi": [
+      "なら"
+    ],
+    "onyomi": [
+      "シュウ",
+      "ユウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "楢",
+        "reading": "なら",
+        "meaning": "oak (esp. Quercus serrata)"
+      },
+      {
+        "example": "楢茸",
+        "reading": "ならたけ",
+        "meaning": "honey fungus (Armillaria mellea), honey mushroom"
+      },
+      {
+        "example": "欧州楢",
+        "reading": "おうしゅうなら",
+        "meaning": "English oak (Quercus robur), pedunculate oak, common oak, French oak"
+      },
+      {
+        "example": "小楢",
+        "reading": "こなら",
+        "meaning": "konara oak (Quercus serrata), pin oak"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "并",
+      "木",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26978_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06962.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6962.gif",
+    "uri": "https://jisho.org/search/%E6%A5%A2%23kanji"
+  }
+}

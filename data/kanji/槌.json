@@ -1,1 +1,65 @@
-{"id":"槌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"槌","found":true,"newspaperFrequencyRank":"2462","strokeCount":13,"meaning":"hammer, mallet","kunyomi":["つち"],"onyomi":["ツイ"],"onyomiExamples":[{"example":"槌骨","reading":"ツチコツ","meaning":"malleus (bone of the ear)"},{"example":"破城槌","reading":"ハジョウツイ","meaning":"battering ram"},{"example":"鉄槌","reading":"テッツイ","meaning":"iron hammer, crushing blow"}],"kunyomiExamples":[{"example":"槌","reading":"つち","meaning":"hammer, mallet, sledge(hammer), gavel"},{"example":"槌音","reading":"つちおと","meaning":"hammering sound, hammering"},{"example":"鑿と言えば槌","reading":"のみといえばつち","meaning":"one should do more than what is literally being asked for, when told (to bring) the chisel, (also bring) the mallet"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["口","木","込","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27084_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069cc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69cc.gif","uri":"https://jisho.org/search/%E6%A7%8C%23kanji"}}
+{
+  "id": "槌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槌",
+    "found": true,
+    "newspaperFrequencyRank": "2462",
+    "strokeCount": 13,
+    "meaning": "hammer, mallet",
+    "kunyomi": [
+      "つち"
+    ],
+    "onyomi": [
+      "ツイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "槌骨",
+        "reading": "ツチコツ",
+        "meaning": "malleus (bone of the ear), hammer"
+      },
+      {
+        "example": "破城槌",
+        "reading": "ハジョウツイ",
+        "meaning": "battering ram"
+      },
+      {
+        "example": "鉄槌",
+        "reading": "テッツイ",
+        "meaning": "iron hammer, crushing blow"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "槌",
+        "reading": "つち",
+        "meaning": "hammer, mallet, sledgehammer, gavel"
+      },
+      {
+        "example": "槌音",
+        "reading": "つちおと",
+        "meaning": "hammering sound, hammering"
+      },
+      {
+        "example": "鑿と言えば槌",
+        "reading": "のみといえばつち",
+        "meaning": "one should do more than what is literally being asked for, when told (to bring) the chisel, (also bring) the mallet"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "口",
+      "木",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27084_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069cc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69cc.gif",
+    "uri": "https://jisho.org/search/%E6%A7%8C%23kanji"
+  }
+}

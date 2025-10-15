@@ -1,1 +1,76 @@
-{"id":"霞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"霞","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1603","strokeCount":17,"meaning":"be hazy, grow dim, blurred","kunyomi":["かすみ","かす.む"],"onyomi":["カ","ゲ"],"onyomiExamples":[{"example":"霞","reading":"カスミ","meaning":"haze (esp. in spring), mist, dimness (of sight)"},{"example":"霞む","reading":"カスム","meaning":"to become misty, to become hazy, to get blurry, to grow dim, to be overshadowed, to be upstaged, to be outshone"},{"example":"紅霞","reading":"コウカ","meaning":"crimson mist, crimson-tinted clouds (e.g. at sunset)"},{"example":"朝霞","reading":"アサガスミ","meaning":"morning glow, morning mist (haze)"}],"kunyomiExamples":[{"example":"霞","reading":"かすみ","meaning":"haze (esp. in spring), mist, dimness (of sight)"},{"example":"かすみ網","reading":"かすみあみ","meaning":"mist net (fine mesh for capturing small birds)"},{"example":"雲霞","reading":"うんか","meaning":"clouds and haze, swarm (of people), throng, drove, (flee) like the wind, (run) out of sight"},{"example":"霞む","reading":"かすむ","meaning":"to become misty, to become hazy, to get blurry, to grow dim, to be overshadowed, to be upstaged, to be outshone"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["又","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38686_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0971e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/971e.gif","uri":"https://jisho.org/search/%E9%9C%9E%23kanji"}}
+{
+  "id": "霞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霞",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1603",
+    "strokeCount": 17,
+    "meaning": "be hazy, grow dim, blurred",
+    "kunyomi": [
+      "かすみ",
+      "かす.む"
+    ],
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霞",
+        "reading": "カスミ",
+        "meaning": "haze (esp. in spring), mist, dimness (of sight)"
+      },
+      {
+        "example": "霞む",
+        "reading": "カスム",
+        "meaning": "to become misty, to become hazy, to get blurry, to grow dim, to be overshadowed, to be upstaged, to be outshone"
+      },
+      {
+        "example": "紅霞",
+        "reading": "コウカ",
+        "meaning": "crimson mist, crimson-tinted clouds (e.g. at sunset)"
+      },
+      {
+        "example": "朝霞",
+        "reading": "アサガスミ",
+        "meaning": "morning glow, morning mist (haze)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "霞",
+        "reading": "かすみ",
+        "meaning": "haze (esp. in spring), mist, dimness (of sight)"
+      },
+      {
+        "example": "かすみ網",
+        "reading": "かすみあみ",
+        "meaning": "mist net (fine mesh for capturing small birds)"
+      },
+      {
+        "example": "雲霞",
+        "reading": "うんか",
+        "meaning": "clouds and haze, swarm (of people), throng, drove, (flee) like the wind, (run) out of sight"
+      },
+      {
+        "example": "霞む",
+        "reading": "かすむ",
+        "meaning": "to become misty, to become hazy, to get blurry, to grow dim, to be overshadowed, to be upstaged, to be outshone"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "又",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38686_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0971e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/971e.gif",
+    "uri": "https://jisho.org/search/%E9%9C%9E%23kanji"
+  }
+}

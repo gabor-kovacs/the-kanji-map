@@ -1,1 +1,44 @@
-{"id":"驛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"驛","found":true,"strokeCount":23,"meaning":"station","kunyomi":[],"onyomi":["エキ"],"onyomiExamples":[{"example":"駅","reading":"エキ","meaning":"railway station, train station, staging post on a highway (in pre-modern Japan), counter for railway stations and bus stations"},{"example":"駅子","reading":"エキシ","meaning":"staff at a horse changing station during the ritsuryō period"}],"kunyomiExamples":[],"radical":{"symbol":"馬","meaning":"horse"},"parts":["亠","十","杰","立","買","辛","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39515_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a5b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a5b.gif","uri":"https://jisho.org/search/%E9%A9%9B%23kanji"}}
+{
+  "id": "驛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "驛",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "station",
+    "kunyomi": [],
+    "onyomi": [
+      "エキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駅",
+        "reading": "エキ",
+        "meaning": "railway station, train station, staging post on a highway (in pre-modern Japan), counter for railway stations and bus stations"
+      },
+      {
+        "example": "駅子",
+        "reading": "エキシ",
+        "meaning": "staff at a horse changing station during the ritsuryō period"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "杰",
+      "立",
+      "買",
+      "辛",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39515_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a5b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a5b.gif",
+    "uri": "https://jisho.org/search/%E9%A9%9B%23kanji"
+  }
+}

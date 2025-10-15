@@ -1,1 +1,47 @@
-{"id":"尨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"尨","found":true,"strokeCount":7,"meaning":"shaggy hair or dog","kunyomi":["むくいぬ"],"onyomi":["ボウ"],"onyomiExamples":[{"example":"膨大","reading":"ボウダイ","meaning":"huge, vast, enormous, colossal, extensive, large, swelling, expansion"}],"kunyomiExamples":[{"example":"むく犬","reading":"むくいぬ","meaning":"shaggy dog"}],"radical":{"symbol":"尢","forms":["尣"],"meaning":"lame"},"parts":["丶","尢","尤","彡"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23592_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c28.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c28.gif","uri":"https://jisho.org/search/%E5%B0%A8%23kanji"}}
+{
+  "id": "尨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尨",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "shaggy hair or dog",
+    "kunyomi": [
+      "むくいぬ"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膨大",
+        "reading": "ボウダイ",
+        "meaning": "huge, vast, enormous, colossal, extensive, large, swelling, expansion"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "むく犬",
+        "reading": "むくいぬ",
+        "meaning": "shaggy dog"
+      }
+    ],
+    "radical": {
+      "symbol": "尢",
+      "forms": [
+        "尣"
+      ],
+      "meaning": "lame"
+    },
+    "parts": [
+      "丶",
+      "尢",
+      "尤",
+      "彡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23592_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c28.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c28.gif",
+    "uri": "https://jisho.org/search/%E5%B0%A8%23kanji"
+  }
+}

@@ -1,1 +1,56 @@
-{"id":"嘉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嘉","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"1553","strokeCount":14,"meaning":"applaud, praise, esteem, happy, auspicious","kunyomi":["よみ.する","よい"],"onyomi":["カ"],"onyomiExamples":[{"example":"歌留多","reading":"カルタ","meaning":"karuta (traditional Japanese playing cards; esp. hyakunin isshu karuta)"},{"example":"嘉納","reading":"カノウ","meaning":"accepting with pleasure"},{"example":"正嘉","reading":"ショウカ","meaning":"Shōka era (1257.3.14-1259.3.26)"}],"kunyomiExamples":[{"example":"嘉する","reading":"よみする","meaning":"to praise (someone of lower status), to extol, to applaud, to esteem"}],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["力","口","士"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22025_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05609.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5609.gif","uri":"https://jisho.org/search/%E5%98%89%23kanji"}}
+{
+  "id": "嘉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嘉",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1553",
+    "strokeCount": 14,
+    "meaning": "applaud, praise, esteem, happy, auspicious",
+    "kunyomi": [
+      "よみ.する",
+      "よい"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "歌留多",
+        "reading": "カルタ",
+        "meaning": "karuta, traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta"
+      },
+      {
+        "example": "嘉納",
+        "reading": "カノウ",
+        "meaning": "accepting with pleasure"
+      },
+      {
+        "example": "正嘉",
+        "reading": "ショウカ",
+        "meaning": "Shōka era (1257.3.14-1259.3.26)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嘉する",
+        "reading": "よみする",
+        "meaning": "to praise (someone of lower status), to extol, to applaud, to esteem"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "力",
+      "口",
+      "士"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22025_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05609.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5609.gif",
+    "uri": "https://jisho.org/search/%E5%98%89%23kanji"
+  }
+}

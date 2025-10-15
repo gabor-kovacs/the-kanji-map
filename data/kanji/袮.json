@@ -1,1 +1,41 @@
-{"id":"袮","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"袮","found":true,"strokeCount":10,"meaning":"ancestral shrine, embroidery, (phantom kanji)","kunyomi":[],"onyomi":["デイ","ネ","チ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["ノ","乞","初","小"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34990_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088ae.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88ae.gif","uri":"https://jisho.org/search/%E8%A2%AE%23kanji"}}
+{
+  "id": "袮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "袮",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "ancestral shrine, embroidery, (ghost kanji)",
+    "kunyomi": [],
+    "onyomi": [
+      "デイ",
+      "ネ",
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "禰宜",
+        "reading": "ネギ",
+        "meaning": "senior priest (serving under the chief priest and associate chief priest), priest (below chief priest and above junior priest), grasshopper, locust"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "初",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34990_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088ae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88ae.gif",
+    "uri": "https://jisho.org/search/%E8%A2%AE%23kanji"
+  }
+}

@@ -1,1 +1,27 @@
-{"id":"卂","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"卂","found":true,"strokeCount":3,"meaning":"to fly rapidly","kunyomi":["とぶ"],"onyomi":["シン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"十","meaning":"ten, complete"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/21314_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05342.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5342.gif","uri":"https://jisho.org/search/%E5%8D%82%23kanji"}}
+{
+  "id": "卂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卂",
+    "found": true,
+    "strokeCount": 3,
+    "meaning": "to fly rapidly",
+    "kunyomi": [
+      "とぶ"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "十",
+      "meaning": "ten, complete"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21314_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05342.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5342.gif",
+    "uri": "https://jisho.org/search/%E5%8D%82%23kanji"
+  }
+}

@@ -1,1 +1,58 @@
-{"id":"援","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"援","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"312","strokeCount":12,"meaning":"abet, help, save","kunyomi":[],"onyomi":["エン"],"onyomiExamples":[{"example":"援助","reading":"エンジョ","meaning":"assistance, aid, support"},{"example":"援護","reading":"エンゴ","meaning":"support, help, backing, covering (from enemy attack), protection"},{"example":"来援","reading":"ライエン","meaning":"assistance, support"},{"example":"義捐","reading":"ギエン","meaning":"alms, donation (esp. disaster relief or charity), contribution"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ノ","一","又","扎","爪"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25588_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063f4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63f4.gif","uri":"https://jisho.org/search/%E6%8F%B4%23kanji"}}
+{
+  "id": "援",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "援",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "312",
+    "strokeCount": 12,
+    "meaning": "abet, help, save",
+    "kunyomi": [],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "援助",
+        "reading": "エンジョ",
+        "meaning": "assistance, aid, support"
+      },
+      {
+        "example": "援護",
+        "reading": "エンゴ",
+        "meaning": "support, help, backing, covering (from enemy attack), protection"
+      },
+      {
+        "example": "来援",
+        "reading": "ライエン",
+        "meaning": "assistance, support"
+      },
+      {
+        "example": "義捐",
+        "reading": "ギエン",
+        "meaning": "alms, donation (esp. disaster relief or charity), contribution"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "又",
+      "扎",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25588_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063f4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63f4.gif",
+    "uri": "https://jisho.org/search/%E6%8F%B4%23kanji"
+  }
+}

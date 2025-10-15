@@ -1,1 +1,42 @@
-{"id":"棧","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"棧","found":true,"strokeCount":12,"meaning":"crosspiece","kunyomi":["かけはし"],"onyomi":["サン","セン"],"onyomiExamples":[{"example":"桟橋","reading":"サンバシ","meaning":"wharf, bridge, jetty, pier"}],"kunyomiExamples":[],"radical":{"symbol":"木","meaning":"tree"},"parts":["戈","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26855_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068e7.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68e7.gif","uri":"https://jisho.org/search/%E6%A3%A7%23kanji"}}
+{
+  "id": "棧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棧",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "crosspiece",
+    "kunyomi": [
+      "かけはし"
+    ],
+    "onyomi": [
+      "サン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桟橋",
+        "reading": "サンバシ",
+        "meaning": "wharf, bridge, jetty, pier"
+      },
+      {
+        "example": "桟敷",
+        "reading": "サジキ",
+        "meaning": "dress circle (of a theatre), (first) balcony, box, stands (seating for spectators)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "戈",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26855_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068e7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68e7.gif",
+    "uri": "https://jisho.org/search/%E6%A3%A7%23kanji"
+  }
+}

@@ -1,1 +1,59 @@
-{"id":"紳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"紳","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1790","strokeCount":11,"meaning":"sire, good belt, gentleman","kunyomi":[],"onyomi":["シン"],"onyomiExamples":[{"example":"紳士","reading":"シンシ","meaning":"gentleman"},{"example":"紳士協定","reading":"シンシキョウテイ","meaning":"gentlemen's agreement"},{"example":"貴紳","reading":"キシン","meaning":"noble, men of rank, notables"},{"example":"縉紳","reading":"シンシン","meaning":"person of rank, person of status, ranked official"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["小","幺","日","田","糸","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32051_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d33.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d33.gif","uri":"https://jisho.org/search/%E7%B4%B3%23kanji"}}
+{
+  "id": "紳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "紳",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1790",
+    "strokeCount": 11,
+    "meaning": "sire, good belt, gentleman",
+    "kunyomi": [],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "紳士",
+        "reading": "シンシ",
+        "meaning": "gentleman"
+      },
+      {
+        "example": "紳士協定",
+        "reading": "シンシキョウテイ",
+        "meaning": "gentlemen's agreement"
+      },
+      {
+        "example": "貴紳",
+        "reading": "キシン",
+        "meaning": "noble, men of rank, notables"
+      },
+      {
+        "example": "縉紳",
+        "reading": "シンシン",
+        "meaning": "person of rank, person of status, ranked official"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "日",
+      "田",
+      "糸",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32051_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d33.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d33.gif",
+    "uri": "https://jisho.org/search/%E7%B4%B3%23kanji"
+  }
+}

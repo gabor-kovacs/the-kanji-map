@@ -1,1 +1,43 @@
-{"id":"慳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"慳","found":true,"strokeCount":15,"meaning":"regret, stinginess","kunyomi":["おし.む"],"onyomi":["ケン","カン"],"onyomiExamples":[{"example":"倹吝","reading":"ケンリン","meaning":"greedy and stingy"}],"kunyomiExamples":[],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["又","土","忙","臣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24947_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06173.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6173.gif","uri":"https://jisho.org/search/%E6%85%B3%23kanji"}}
+{
+  "id": "慳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慳",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "regret, stinginess",
+    "kunyomi": [
+      "おし.む"
+    ],
+    "onyomi": [
+      "ケン",
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "倹吝",
+        "reading": "ケンリン",
+        "meaning": "greedy and stingy"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "又",
+      "土",
+      "忙",
+      "臣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24947_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06173.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6173.gif",
+    "uri": "https://jisho.org/search/%E6%85%B3%23kanji"
+  }
+}

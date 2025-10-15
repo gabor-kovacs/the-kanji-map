@@ -1,1 +1,38 @@
-{"id":"輒","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"輒","found":true,"strokeCount":14,"meaning":"promptly, easily, i.e.","kunyomi":["すなわち","わきぎ"],"onyomi":["チョウ"],"onyomiExamples":[],"kunyomiExamples":[{"example":"即ち","reading":"すなわち","meaning":"that is, namely, i.e."}],"radical":{"symbol":"車","meaning":"cart, car"},"parts":["乙","耳","車"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36626_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f12.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f12.gif","uri":"https://jisho.org/search/%E8%BC%92%23kanji"}}
+{
+  "id": "輒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輒",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "promptly, easily, i.e.",
+    "kunyomi": [
+      "すなわち",
+      "わきぎ"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "即ち",
+        "reading": "すなわち",
+        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "cart, car"
+    },
+    "parts": [
+      "乙",
+      "耳",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36626_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f12.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f12.gif",
+    "uri": "https://jisho.org/search/%E8%BC%92%23kanji"
+  }
+}

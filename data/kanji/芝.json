@@ -1,1 +1,274 @@
-{"id":"芝","kanjialiveData":{"kanji":{"character":"芝","meaning":{"english":"lawn"},"strokes":{"count":6,"timings":[0,1.066667,1.733333,2.6,3.466667,5.533333,8.066667],"images":["https://media.kanjialive.com/kanji_strokes/shiba(fu)_1.svg","https://media.kanjialive.com/kanji_strokes/shiba(fu)_2.svg","https://media.kanjialive.com/kanji_strokes/shiba(fu)_3.svg","https://media.kanjialive.com/kanji_strokes/shiba(fu)_4.svg","https://media.kanjialive.com/kanji_strokes/shiba(fu)_5.svg","https://media.kanjialive.com/kanji_strokes/shiba(fu)_6.svg"]},"onyomi":{"romaji":"n/a","katakana":""},"kunyomi":{"romaji":"shiba","hiragana":"しば"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/shiba(fu)_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/shiba(fu)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/shiba(fu)_00.webm"}},"radical":{"character":"⺾","strokes":3,"image":"https://media.kanjialive.com/radical_character/kusakanmuri.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"くさかんむり","romaji":"kusakanmuri"},"meaning":{"english":"grass"},"animation":["https://media.kanjialive.com/rad_frames/kusakanmuri0.svg","https://media.kanjialive.com/rad_frames/kusakanmuri1.svg","https://media.kanjialive.com/rad_frames/kusakanmuri2.svg"]},"references":{"grade":null,"kodansha":"1380","classic_nelson":"3893"},"examples":[{"japanese":"芝（しば）","meaning":{"english":"lawn, sod, turf"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shiba(fu)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shiba(fu)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shiba(fu)_06_a.mp3"}},{"japanese":"芝生（しばふ）","meaning":{"english":"lawn"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shiba(fu)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shiba(fu)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shiba(fu)_06_b.mp3"}},{"japanese":"芝居（しばい）","meaning":{"english":"play, drama"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shiba(fu)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shiba(fu)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shiba(fu)_06_c.mp3"}},{"japanese":"人工芝（じんこうしば）","meaning":{"english":"artificial grass"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shiba(fu)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shiba(fu)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shiba(fu)_06_d.mp3"}}]},"jishoData":{"query":"芝","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1052","strokeCount":6,"meaning":"turf, lawn","kunyomi":["しば"],"onyomi":["シ"],"onyomiExamples":[{"example":"芝","reading":"シバ","meaning":"lawn, sod, turf"},{"example":"芝居","reading":"シバイ","meaning":"play, drama"},{"example":"霊芝","reading":"レイシ","meaning":"bracket fungus (Ganoderma lucidum), reishi mushroom"}],"kunyomiExamples":[{"example":"芝","reading":"しば","meaning":"lawn, sod, turf"},{"example":"芝居","reading":"しばい","meaning":"play, drama"},{"example":"高麗芝","reading":"こうらいしば","meaning":"Korean lawn grass"},{"example":"道芝","reading":"みちしば","meaning":"roadside grass, roadside weeds, guidance (sometimes esp. referring to guidance in love), guidepost, guide, Chinese fountain grass (Pennisetum alopecuroides)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["亠","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33437_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0829d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/829d.gif","uri":"https://jisho.org/search/%E8%8A%9D%23kanji"}}
+{
+  "id": "芝",
+  "kanjialiveData": {
+    "_id": "54317b04791eba5146ee4bdb",
+    "_rev": "10-6e1ed92ff857f8e938580a009c922e3a",
+    "rad_name_ja": "くさかんむり",
+    "grade": null,
+    "hint_group": 6,
+    "kunyomi": "shiba",
+    "meaning": "lawn",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "芝（しば）",
+        "meaning": {
+          "english": "lawn, sod, turf"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shiba(fu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shiba(fu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shiba(fu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "芝生（しばふ）",
+        "meaning": {
+          "english": "lawn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shiba(fu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shiba(fu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shiba(fu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "芝居（しばい）",
+        "meaning": {
+          "english": "play, drama"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shiba(fu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shiba(fu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shiba(fu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "人工芝（じんこうしば）",
+        "meaning": {
+          "english": "artificial grass"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiba(fu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shiba(fu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shiba(fu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shiba(fu)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "しば",
+    "ka_utf": "芝",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=芝",
+    "rad_name_search": [
+      "kusakanmuri"
+    ],
+    "rad_order": 71,
+    "txt_books": [
+      {
+        "chapter": "16",
+        "txt_bk": "txtIntermJpn"
+      }
+    ],
+    "kname": "shiba(fu)",
+    "rad_utf": "⺾",
+    "stroketimes": [
+      0,
+      1.066667,
+      1.733333,
+      2.6,
+      3.466667,
+      5.533333,
+      8.066667
+    ],
+    "kunyomi_ka_display": "しば",
+    "dick": "1380",
+    "rad_name": "kusakanmuri",
+    "dicn": "3893",
+    "mn_hint": "Area with 之 <span class='note'>(orig. \"belong to\")</span> grass [8].",
+    "rad_stroke": 3,
+    "onyomi_ja": "",
+    "rad_meaning": "grass",
+    "onyomi": "n/a",
+    "ka_id": "ka_754",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "kunyomi_search": [
+      "shiba",
+      "shiba"
+    ],
+    "meaning_search": [
+      "lawn",
+      "lawn"
+    ],
+    "onyomi_ja_search": [
+      ""
+    ],
+    "kunyomi_ja_search": [
+      "しば",
+      "しば"
+    ],
+    "rad_meaning_search": [
+      "grass",
+      "grass"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "くさかんむり"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:16",
+      "ij:c16"
+    ],
+    "rad_name_file": "kusakanmuri",
+    "kanji": {
+      "character": "芝",
+      "meaning": {
+        "english": "lawn"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          1.066667,
+          1.733333,
+          2.6,
+          3.466667,
+          5.533333,
+          8.066667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/shiba(fu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/shiba(fu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/shiba(fu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/shiba(fu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/shiba(fu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/shiba(fu)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "n/a",
+        "katakana": ""
+      },
+      "kunyomi": {
+        "romaji": "shiba",
+        "hiragana": "しば"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/shiba(fu)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shiba(fu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/shiba(fu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺾",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kusakanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "くさかんむり",
+        "romaji": "kusakanmuri"
+      },
+      "meaning": {
+        "english": "grass"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/kusakanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/kusakanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1380",
+      "classic_nelson": "3893"
+    }
+  },
+  "jishoData": {
+    "query": "芝",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1052",
+    "strokeCount": 6,
+    "meaning": "turf, lawn",
+    "kunyomi": [
+      "しば"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芝",
+        "reading": "シバ",
+        "meaning": "lawn, sod, turf"
+      },
+      {
+        "example": "芝居",
+        "reading": "シバイ",
+        "meaning": "play, drama"
+      },
+      {
+        "example": "霊芝",
+        "reading": "レイシ",
+        "meaning": "bracket fungus (Ganoderma lucidum), reishi mushroom"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "芝",
+        "reading": "しば",
+        "meaning": "lawn, sod, turf"
+      },
+      {
+        "example": "芝居",
+        "reading": "しばい",
+        "meaning": "play, drama"
+      },
+      {
+        "example": "高麗芝",
+        "reading": "こうらいしば",
+        "meaning": "Korean lawn grass"
+      },
+      {
+        "example": "東芝",
+        "reading": "とうしば",
+        "meaning": "Toshiba Corporation, Tōshiba"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "亠",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33437_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0829d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/829d.gif",
+    "uri": "https://jisho.org/search/%E8%8A%9D%23kanji"
+  }
+}

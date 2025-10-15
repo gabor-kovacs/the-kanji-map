@@ -1,1 +1,35 @@
-{"id":"攸","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"攸","found":true,"strokeCount":7,"meaning":"relaxed, at ease, place","kunyomi":["ところ"],"onyomi":["ユウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"攴","forms":["攵"],"meaning":"rap"},"parts":["ノ","乞","攵","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25912_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06538.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6538.gif","uri":"https://jisho.org/search/%E6%94%B8%23kanji"}}
+{
+  "id": "攸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "攸",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "relaxed, at ease, place",
+    "kunyomi": [
+      "ところ"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "攵",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25912_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06538.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6538.gif",
+    "uri": "https://jisho.org/search/%E6%94%B8%23kanji"
+  }
+}

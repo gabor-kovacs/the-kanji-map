@@ -1,1 +1,63 @@
-{"id":"漿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"漿","found":true,"strokeCount":15,"meaning":"a drink","kunyomi":["こんず"],"onyomi":["ショウ"],"onyomiExamples":[{"example":"濃漿","reading":"コンズ","meaning":"rice water"},{"example":"漿液","reading":"ショウエキ","meaning":"serous fluid, juice, sap"},{"example":"精漿","reading":"セイショウ","meaning":"seminal plasma"},{"example":"泥漿","reading":"デイショウ","meaning":"slurry, slip"}],"kunyomiExamples":[{"example":"濃漿","reading":"こんず","meaning":"rice water"}],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["夕","寸","水","爿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28479_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f3f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f3f.gif","uri":"https://jisho.org/search/%E6%BC%BF%23kanji"}}
+{
+  "id": "漿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漿",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "a drink",
+    "kunyomi": [
+      "こんず"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "濃漿",
+        "reading": "コンズ",
+        "meaning": "rice water"
+      },
+      {
+        "example": "漿液",
+        "reading": "ショウエキ",
+        "meaning": "serous fluid, juice, sap"
+      },
+      {
+        "example": "精漿",
+        "reading": "セイショウ",
+        "meaning": "seminal plasma"
+      },
+      {
+        "example": "泥漿",
+        "reading": "デイショウ",
+        "meaning": "slurry, slip"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "濃漿",
+        "reading": "こんず",
+        "meaning": "rice water"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "夕",
+      "寸",
+      "水",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28479_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f3f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f3f.gif",
+    "uri": "https://jisho.org/search/%E6%BC%BF%23kanji"
+  }
+}

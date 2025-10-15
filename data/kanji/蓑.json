@@ -1,1 +1,58 @@
-{"id":"蓑","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蓑","found":true,"strokeCount":13,"meaning":"straw raincoat","kunyomi":["みの"],"onyomi":["サ","サイ"],"onyomiExamples":[{"example":"蓑笠","reading":"ミノカサ","meaning":"sedge hat and straw rain cape"}],"kunyomiExamples":[{"example":"蓑","reading":"みの","meaning":"straw raincoat"},{"example":"蓑笠","reading":"みのかさ","meaning":"sedge hat and straw rain cape"},{"example":"腰蓑","reading":"こしみの","meaning":"straw skirt, grass skirt, traditionally worn by hunters and fishermen"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","亠","艾","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34001_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084d1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84d1.gif","uri":"https://jisho.org/search/%E8%93%91%23kanji"}}
+{
+  "id": "蓑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓑",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "straw raincoat",
+    "kunyomi": [
+      "みの"
+    ],
+    "onyomi": [
+      "サ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蓑笠",
+        "reading": "ミノカサ",
+        "meaning": "sedge hat and straw rain cape"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蓑",
+        "reading": "みの",
+        "meaning": "straw raincoat"
+      },
+      {
+        "example": "蓑笠",
+        "reading": "みのかさ",
+        "meaning": "sedge hat and straw rain cape"
+      },
+      {
+        "example": "腰蓑",
+        "reading": "こしみの",
+        "meaning": "straw skirt, grass skirt, traditionally worn by hunters and fishermen"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "亠",
+      "艾",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34001_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084d1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84d1.gif",
+    "uri": "https://jisho.org/search/%E8%93%91%23kanji"
+  }
+}

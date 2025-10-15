@@ -1,1 +1,48 @@
-{"id":"拿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"拿","found":true,"strokeCount":10,"meaning":"catch, arrest","kunyomi":["つか.む","ひ.く"],"onyomi":["ダ","ナ"],"onyomiExamples":[{"example":"拿捕","reading":"ダホ","meaning":"capture, seizure, military capture of a foreign vessel, making a prize of"},{"example":"推拿","reading":"スイナ","meaning":"tui na (Chinese massage)"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["一","个","口","手"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25343_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ff.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ff.gif","uri":"https://jisho.org/search/%E6%8B%BF%23kanji"}}
+{
+  "id": "拿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拿",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "catch, arrest",
+    "kunyomi": [
+      "つか.む",
+      "ひ.く"
+    ],
+    "onyomi": [
+      "ダ",
+      "ナ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拿捕",
+        "reading": "ダホ",
+        "meaning": "capture (esp. of a foreign vessel), seizure"
+      },
+      {
+        "example": "推拿",
+        "reading": "スイナ",
+        "meaning": "tui na (Chinese massage)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "手"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25343_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ff.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ff.gif",
+    "uri": "https://jisho.org/search/%E6%8B%BF%23kanji"
+  }
+}

@@ -1,1 +1,50 @@
-{"id":"挾","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"挾","found":true,"strokeCount":10,"meaning":"put between, insert, jam, get caught, sandwich","kunyomi":["はさ.む","はさ.まる","わきばさ.む","さしはさ.む"],"onyomi":["キョウ","ショウ"],"onyomiExamples":[{"example":"挟撃","reading":"キョウゲキ","meaning":"attack on both sides, pincer movement, double envelopment"}],"kunyomiExamples":[{"example":"挟む","reading":"はさむ","meaning":"to hold between (e.g. one's fingers, chopsticks), to grip (from both sides), to put between, to sandwich between, to insert, to interpose, to catch (e.g. a finger in a door), to trap, to pinch, to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke), to be on either side of (a road, table, etc.), to have between each other, to be across (a street, river, etc.), to harbour (feelings), to cast (e.g. doubt)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["人","大","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25406_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0633e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/633e.gif","uri":"https://jisho.org/search/%E6%8C%BE%23kanji"}}
+{
+  "id": "挾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挾",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "put between, insert, jam, get caught, sandwich",
+    "kunyomi": [
+      "はさ.む",
+      "はさ.まる",
+      "わきばさ.む",
+      "さしはさ.む"
+    ],
+    "onyomi": [
+      "キョウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "挟撃",
+        "reading": "キョウゲキ",
+        "meaning": "attack on both sides, pincer movement, double envelopment"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "挟む",
+        "reading": "はさむ",
+        "meaning": "to hold between (e.g. one's fingers, chopsticks), to grip (from both sides), to put between, to sandwich between, to insert, to interpose, to catch (e.g. a finger in a door), to trap, to pinch, to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke), to be on either side of (a road, table, etc.), to have between each other, to be across (a street, river, etc.), to harbour (feelings), to cast (e.g. doubt)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "人",
+      "大",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25406_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0633e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/633e.gif",
+    "uri": "https://jisho.org/search/%E6%8C%BE%23kanji"
+  }
+}

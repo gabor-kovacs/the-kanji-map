@@ -1,1 +1,72 @@
-{"id":"繞","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"繞","found":true,"strokeCount":18,"meaning":"surround, return","kunyomi":["めぐ.る","まわ.る","もとう.る","まとう"],"onyomi":["ジョウ","ニョウ"],"onyomiExamples":[{"example":"囲繞","reading":"イジョウ","meaning":"surrounding, enclosure"},{"example":"纏繞","reading":"テンジョウ","meaning":"twining around, entangling"},{"example":"繞","reading":"ニョウ","meaning":"kanji radical that runs from the left to the bottom part of the kanji, kanji enclosure-type radical"},{"example":"囲繞","reading":"イジョウ","meaning":"surrounding, enclosure"},{"example":"夊繞","reading":"スイニョウ","meaning":"kanji \"suinyō\" radical (radical 35)"}],"kunyomiExamples":[],"radical":{"symbol":"糸","forms":["糹"],"meaning":"silk"},"parts":["儿","土","小","幺","糸"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32350_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e5e.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e5e.gif","uri":"https://jisho.org/search/%E7%B9%9E%23kanji"}}
+{
+  "id": "繞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "繞",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "surround, return",
+    "kunyomi": [
+      "めぐ.る",
+      "まわ.る",
+      "もとう.る",
+      "まとう"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "ニョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "囲繞",
+        "reading": "イジョウ",
+        "meaning": "surrounding, enclosure"
+      },
+      {
+        "example": "纏繞",
+        "reading": "テンジョウ",
+        "meaning": "twining around, entangling"
+      },
+      {
+        "example": "繞",
+        "reading": "ニョウ",
+        "meaning": "kanji radical that runs from the left to the bottom part of the kanji, kanji enclosure-type radical"
+      },
+      {
+        "example": "囲繞",
+        "reading": "イジョウ",
+        "meaning": "surrounding, enclosure"
+      },
+      {
+        "example": "夊繞",
+        "reading": "スイニョウ",
+        "meaning": "kanji \"suinyō\" radical (radical 35)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "巡る",
+        "reading": "めぐる",
+        "meaning": "to go around, to make a circle around, to surround, to circle, to enclose, to come around (of a season, anniversary, turn, etc.), to return, to repeat, to circulate (of blood, money, etc.), to travel around, to make a tour of, to concern (a matter), to surround"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "silk"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "小",
+      "幺",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32350_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e5e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e5e.gif",
+    "uri": "https://jisho.org/search/%E7%B9%9E%23kanji"
+  }
+}

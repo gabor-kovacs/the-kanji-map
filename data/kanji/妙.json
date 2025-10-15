@@ -1,1 +1,77 @@
-{"id":"妙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"妙","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1122","strokeCount":7,"meaning":"exquisite, strange, queer, mystery, miracle, excellent, delicate, charming","kunyomi":["たえ"],"onyomi":["ミョウ","ビョウ"],"onyomiExamples":[{"example":"妙","reading":"ミョウ","meaning":"strange, weird, odd, curious, wonder, mystery, miracle, excellence, cleverness, adroitness, knack, skill"},{"example":"妙案","reading":"ミョウアン","meaning":"ingenious idea, excellent plan, bright idea"},{"example":"絶妙","reading":"ゼツミョウ","meaning":"exquisite, superb, perfect, miraculous"},{"example":"軽妙","reading":"ケイミョウ","meaning":"light and easy, lambent, clever, witty, smart"},{"example":"神妙","reading":"シンミョウ","meaning":"meek, quiet, docile, humble, faithful, obedient, mysterious, marvelous, marvellous"}],"kunyomiExamples":[{"example":"妙なる","reading":"たえなる","meaning":"exquisite (e.g. melody), melodious, delicate, enchanting"},{"example":"妙なる調べ","reading":"たえなるしらべ","meaning":"enchanting melody, sweet tune"},{"example":"白妙","reading":"しろたえ","meaning":"white cloth, white"}],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["ノ","女","小"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22937_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05999.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5999.gif","uri":"https://jisho.org/search/%E5%A6%99%23kanji"}}
+{
+  "id": "妙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "妙",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1122",
+    "strokeCount": 7,
+    "meaning": "exquisite, strange, queer, mystery, miracle, excellent, delicate, charming",
+    "kunyomi": [
+      "たえ"
+    ],
+    "onyomi": [
+      "ミョウ",
+      "ビョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "妙",
+        "reading": "ミョウ",
+        "meaning": "strange, weird, odd, curious, wonder, mystery, miracle, excellence, cleverness, adroitness, knack, skill"
+      },
+      {
+        "example": "妙案",
+        "reading": "ミョウアン",
+        "meaning": "ingenious idea, excellent plan, bright idea"
+      },
+      {
+        "example": "絶妙",
+        "reading": "ゼツミョウ",
+        "meaning": "exquisite, superb, perfect, miraculous"
+      },
+      {
+        "example": "軽妙",
+        "reading": "ケイミョウ",
+        "meaning": "light and easy, lambent, clever, witty, smart"
+      },
+      {
+        "example": "神妙",
+        "reading": "シンミョウ",
+        "meaning": "meek, quiet, docile, humble, faithful, obedient, mysterious, marvelous, marvellous"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "妙なる",
+        "reading": "たえなる",
+        "meaning": "exquisite (e.g. melody), melodious, delicate, enchanting"
+      },
+      {
+        "example": "妙なる調べ",
+        "reading": "たえなるしらべ",
+        "meaning": "enchanting melody, sweet tune"
+      },
+      {
+        "example": "白妙",
+        "reading": "しろたえ",
+        "meaning": "white cloth, white"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "ノ",
+      "女",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22937_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05999.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5999.gif",
+    "uri": "https://jisho.org/search/%E5%A6%99%23kanji"
+  }
+}

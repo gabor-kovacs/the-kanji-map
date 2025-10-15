@@ -1,1 +1,42 @@
-{"id":"胥","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"胥","found":true,"strokeCount":9,"meaning":"together, mutual, subordinate official","kunyomi":["あい","み.る","みな"],"onyomi":["ショ","ソ"],"onyomiExamples":[{"example":"華胥","reading":"カショ","meaning":"ideal land, perfect country, afternoon nap"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["月","疋"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/32997_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080e5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80e5.gif","uri":"https://jisho.org/search/%E8%83%A5%23kanji"}}
+{
+  "id": "胥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胥",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "together, mutual, subordinate official",
+    "kunyomi": [
+      "あい",
+      "み.る",
+      "みな"
+    ],
+    "onyomi": [
+      "ショ",
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "華胥",
+        "reading": "カショ",
+        "meaning": "ideal land, perfect country, afternoon nap"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "月",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32997_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080e5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80e5.gif",
+    "uri": "https://jisho.org/search/%E8%83%A5%23kanji"
+  }
+}

@@ -1,1 +1,65 @@
-{"id":"蒙","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蒙","found":true,"newspaperFrequencyRank":"2360","strokeCount":13,"meaning":"ignorance, darkness, get, receive, be subjected to, sustain, Mongolia","kunyomi":["こうむ.る","おお.う","くら.い"],"onyomi":["モウ","ボウ"],"onyomiExamples":[{"example":"蒙","reading":"モウ","meaning":"ignorance, covering, concealing, Mongolia"},{"example":"蒙古","reading":"モウコ","meaning":"Mongolia (region), Greater Mongolia, Mongolian Plateau, Mongols (nomadic tribe)"},{"example":"啓蒙","reading":"ケイモウ","meaning":"enlightenment, illumination"},{"example":"内蒙","reading":"ナイモウ","meaning":"Inner Mongolia"}],"kunyomiExamples":[{"example":"被る","reading":"こうむる","meaning":"to suffer, to receive (kindness, rebuke, support), to sustain (damage)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["冖","艾","豕"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33945_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08499.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8499.gif","uri":"https://jisho.org/search/%E8%92%99%23kanji"}}
+{
+  "id": "蒙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蒙",
+    "found": true,
+    "newspaperFrequencyRank": "2360",
+    "strokeCount": 13,
+    "meaning": "ignorance, darkness, get, receive, be subjected to, sustain, Mongolia",
+    "kunyomi": [
+      "こうむ.る",
+      "おお.う",
+      "くら.い"
+    ],
+    "onyomi": [
+      "モウ",
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蒙",
+        "reading": "モウ",
+        "meaning": "ignorance, covering, concealing, Mongolia"
+      },
+      {
+        "example": "蒙古",
+        "reading": "モウコ",
+        "meaning": "Mongolia (region), Greater Mongolia, Mongolian Plateau, Mongols (nomadic tribe)"
+      },
+      {
+        "example": "啓蒙",
+        "reading": "ケイモウ",
+        "meaning": "enlightenment, illumination"
+      },
+      {
+        "example": "内蒙",
+        "reading": "ナイモウ",
+        "meaning": "Inner Mongolia"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "被る",
+        "reading": "こうむる",
+        "meaning": "to suffer, to receive (kindness, rebuke, support), to sustain (damage)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "冖",
+      "艾",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33945_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08499.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8499.gif",
+    "uri": "https://jisho.org/search/%E8%92%99%23kanji"
+  }
+}

@@ -1,1 +1,44 @@
-{"id":"琵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"琵","found":true,"newspaperFrequencyRank":"1965","strokeCount":12,"meaning":"glissando on strings, lute","kunyomi":[],"onyomi":["ビ","ヒ"],"onyomiExamples":[{"example":"琵琶","reading":"ビワ","meaning":"biwa (Japanese lute)"},{"example":"琵琶湖","reading":"ビワコ","meaning":"Lake Biwa, Biwako"}],"kunyomiExamples":[],"radical":{"symbol":"玉","forms":["王"],"meaning":"jade (king)"},"parts":["比","王"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/29749_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07435.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7435.gif","uri":"https://jisho.org/search/%E7%90%B5%23kanji"}}
+{
+  "id": "琵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "琵",
+    "found": true,
+    "newspaperFrequencyRank": "1965",
+    "strokeCount": 12,
+    "meaning": "glissando on strings, lute",
+    "kunyomi": [],
+    "onyomi": [
+      "ビ",
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "琵琶",
+        "reading": "ビワ",
+        "meaning": "biwa (Japanese lute)"
+      },
+      {
+        "example": "琵琶湖",
+        "reading": "ビワコ",
+        "meaning": "Lake Biwa, Biwako"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "玉",
+      "forms": [
+        "王"
+      ],
+      "meaning": "jade (king)"
+    },
+    "parts": [
+      "比",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29749_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07435.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7435.gif",
+    "uri": "https://jisho.org/search/%E7%90%B5%23kanji"
+  }
+}

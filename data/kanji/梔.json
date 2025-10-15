@@ -1,1 +1,43 @@
-{"id":"梔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"梔","found":true,"strokeCount":11,"meaning":"gardenia","kunyomi":["くちなし"],"onyomi":["シ"],"onyomiExamples":[{"example":"梔子","reading":"クチナシ","meaning":"Cape jasmine (Gardenia jasminoides), Cape jessamine, gardenia"}],"kunyomiExamples":[{"example":"梔子","reading":"くちなし","meaning":"Cape jasmine (Gardenia jasminoides), Cape jessamine, gardenia"}],"radical":{"symbol":"木","meaning":"tree"},"parts":["厂","巴","木"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26772_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06894.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6894.gif","uri":"https://jisho.org/search/%E6%A2%94%23kanji"}}
+{
+  "id": "梔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梔",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "gardenia",
+    "kunyomi": [
+      "くちなし"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梔子",
+        "reading": "クチナシ",
+        "meaning": "Cape jasmine (Gardenia jasminoides), Cape jessamine, gardenia"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梔子",
+        "reading": "くちなし",
+        "meaning": "Cape jasmine (Gardenia jasminoides), Cape jessamine, gardenia"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "tree"
+    },
+    "parts": [
+      "厂",
+      "巴",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26772_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06894.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6894.gif",
+    "uri": "https://jisho.org/search/%E6%A2%94%23kanji"
+  }
+}

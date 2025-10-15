@@ -1,1 +1,46 @@
-{"id":"氛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"氛","found":true,"strokeCount":8,"meaning":"air, atmosphere, weather","kunyomi":[],"onyomi":["フン"],"onyomiExamples":[{"example":"氛氳","reading":"フンウン","meaning":"lively, vigorous"},{"example":"瞑氛","reading":"メイフン","meaning":"gloomy feeling, dark sign"},{"example":"霊氛","reading":"レイフン","meaning":"mysterious presence, aura of mystery"}],"kunyomiExamples":[],"radical":{"symbol":"气","meaning":"steam, breath"},"parts":["ハ","乞","刀","气"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27675_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c1b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c1b.gif","uri":"https://jisho.org/search/%E6%B0%9B%23kanji"}}
+{
+  "id": "氛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "氛",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "air, atmosphere, weather",
+    "kunyomi": [],
+    "onyomi": [
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "氛氳",
+        "reading": "フンウン",
+        "meaning": "lively, vigorous"
+      },
+      {
+        "example": "瞑氛",
+        "reading": "メイフン",
+        "meaning": "gloomy feeling, dark sign"
+      },
+      {
+        "example": "霊氛",
+        "reading": "レイフン",
+        "meaning": "mysterious presence, aura of mystery"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "气",
+      "meaning": "steam, breath"
+    },
+    "parts": [
+      "ハ",
+      "乞",
+      "刀",
+      "气"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27675_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c1b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c1b.gif",
+    "uri": "https://jisho.org/search/%E6%B0%9B%23kanji"
+  }
+}

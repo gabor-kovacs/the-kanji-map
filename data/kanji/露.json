@@ -1,1 +1,94 @@
-{"id":"露","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"露","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"928","strokeCount":21,"meaning":"dew, tears, expose, Russia","kunyomi":["つゆ"],"onyomi":["ロ","ロウ"],"onyomiExamples":[{"example":"露","reading":"ロ","meaning":"Russia"},{"example":"露骨","reading":"ロコツ","meaning":"open, unconcealed, undisguised, blatant, plain, frank, broad, lewd, indecent, crude"},{"example":"吐露","reading":"トロ","meaning":"expressing one's mind, speaking out"},{"example":"発露","reading":"ハツロ","meaning":"appearance, expression, manifestation"},{"example":"露宇","reading":"ロウ","meaning":"Russia and Ukraine"},{"example":"襲名披露","reading":"シュウメイヒロウ","meaning":"announcing the succession to another's stage name"},{"example":"新序出世披露","reading":"シンジョシュッセヒロウ","meaning":"presenting of new wrestlers to audience"}],"kunyomiExamples":[{"example":"露","reading":"つゆ","meaning":"dew, tears, (not) a bit, (not) at all"},{"example":"露払い","reading":"つゆはらい","meaning":"outrider, herald, rikishi who leads the yokozuna to the ring prior to his ring-entering ceremony"},{"example":"朝露","reading":"あさつゆ","meaning":"morning dew"},{"example":"下露","reading":"したつゆ","meaning":"dew under (dripping from) trees"}],"radical":{"symbol":"雨","meaning":"rain"},"parts":["口","夂","止","足","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38706_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09732.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9732.gif","uri":"https://jisho.org/search/%E9%9C%B2%23kanji"}}
+{
+  "id": "露",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "露",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "928",
+    "strokeCount": 21,
+    "meaning": "dew, tears, expose, Russia",
+    "kunyomi": [
+      "つゆ"
+    ],
+    "onyomi": [
+      "ロ",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "露",
+        "reading": "ロ",
+        "meaning": "Russia"
+      },
+      {
+        "example": "露骨",
+        "reading": "ロコツ",
+        "meaning": "open, unconcealed, undisguised, blatant, plain, frank, broad, lewd, indecent, crude"
+      },
+      {
+        "example": "吐露",
+        "reading": "トロ",
+        "meaning": "expressing one's mind, speaking out"
+      },
+      {
+        "example": "発露",
+        "reading": "ハツロ",
+        "meaning": "appearance, expression, manifestation"
+      },
+      {
+        "example": "露宇",
+        "reading": "ロウ",
+        "meaning": "Russia and Ukraine"
+      },
+      {
+        "example": "襲名披露",
+        "reading": "シュウメイヒロウ",
+        "meaning": "announcing the succession to another's stage name"
+      },
+      {
+        "example": "新序出世披露",
+        "reading": "シンジョシュッセヒロウ",
+        "meaning": "presenting of new wrestlers to audience"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "露",
+        "reading": "つゆ",
+        "meaning": "dew, tears, (not) a bit, (not) at all"
+      },
+      {
+        "example": "露払い",
+        "reading": "つゆはらい",
+        "meaning": "person who clears the way for a high-ranking person, procession, etc., outrider, harbinger, forerunner, opening performer, sumo wrestler who leads a yokozuna at his ring-entering ceremony"
+      },
+      {
+        "example": "朝露",
+        "reading": "あさつゆ",
+        "meaning": "morning dew"
+      },
+      {
+        "example": "下露",
+        "reading": "したつゆ",
+        "meaning": "dew under (dripping from) trees"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "rain"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "止",
+      "足",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38706_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09732.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9732.gif",
+    "uri": "https://jisho.org/search/%E9%9C%B2%23kanji"
+  }
+}

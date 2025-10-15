@@ -1,1 +1,292 @@
-{"id":"奨","kanjialiveData":{"kanji":{"character":"奨","meaning":{"english":"encourage, urge"},"strokes":{"count":13,"timings":[0,2.533333,3.8,4.733333,6,6.8,7.6,8.533333,9.733333,11.466667,12.266667,14.466667,15.866667,19.133333],"images":["https://media.kanjialive.com/kanji_strokes/shou(reisuru)_1.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_2.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_3.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_4.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_5.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_6.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_7.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_8.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_9.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_10.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_11.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_12.svg","https://media.kanjialive.com/kanji_strokes/shou(reisuru)_13.svg"]},"onyomi":{"romaji":"shou","katakana":"ショウ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/shou(reisuru)_13.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/shou(reisuru)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/shou(reisuru)_00.webm"}},"radical":{"character":"⼤","strokes":3,"image":"https://media.kanjialive.com/radical_character/dai.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"だい","romaji":"dai"},"meaning":{"english":"large, big"},"animation":["https://media.kanjialive.com/rad_frames/dai0.svg","https://media.kanjialive.com/rad_frames/dai1.svg","https://media.kanjialive.com/rad_frames/dai2.svg"]},"references":{"grade":null,"kodansha":"1819","classic_nelson":"1181"},"examples":[{"japanese":"奨学金（しょうがくきん）","meaning":{"english":"scholarship"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shou(reisuru)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shou(reisuru)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shou(reisuru)_06_a.mp3"}},{"japanese":"奨学生（しょうがくせい）","meaning":{"english":"scholarship student"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shou(reisuru)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shou(reisuru)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shou(reisuru)_06_b.mp3"}},{"japanese":"報奨金（ほうしょうきん）","meaning":{"english":"cash bonus, reward"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shou(reisuru)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shou(reisuru)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shou(reisuru)_06_c.mp3"}},{"japanese":"奨励する（しょうれいする）","meaning":{"english":"encourage, promote"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shou(reisuru)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shou(reisuru)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shou(reisuru)_06_d.mp3"}}]},"jishoData":{"query":"奨","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1445","strokeCount":13,"meaning":"exhort, urge, encourage","kunyomi":["すす.める"],"onyomi":["ショウ","ソウ"],"onyomiExamples":[{"example":"奨学","reading":"ショウガク","meaning":"encouragement to study"},{"example":"奨学金","reading":"ショウガクキン","meaning":"scholarship, stipend, bursary, student loan"},{"example":"勧奨","reading":"カンショウ","meaning":"encouragement, stimulation"},{"example":"推奨","reading":"スイショウ","meaning":"recommendation, endorsement"}],"kunyomiExamples":[{"example":"勧める","reading":"すすめる","meaning":"to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"}],"radical":{"symbol":"大","meaning":"big, very"},"parts":["大","寸","爪","爿"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22888_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05968.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5968.gif","uri":"https://jisho.org/search/%E5%A5%A8%23kanji"}}
+{
+  "id": "奨",
+  "kanjialiveData": {
+    "_id": "54317b07791eba5146ee4c17",
+    "_rev": "10-1818d8c588e16d02045d2374c4b09023",
+    "rad_name_ja": "だい",
+    "grade": null,
+    "hint_group": 6,
+    "kunyomi": "n/a",
+    "meaning": "encourage, urge",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "奨学金（しょうがくきん）",
+        "meaning": {
+          "english": "scholarship"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou(reisuru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou(reisuru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou(reisuru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "奨学生（しょうがくせい）",
+        "meaning": {
+          "english": "scholarship student"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou(reisuru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou(reisuru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou(reisuru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "報奨金（ほうしょうきん）",
+        "meaning": {
+          "english": "cash bonus, reward"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou(reisuru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou(reisuru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou(reisuru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "奨励する（しょうれいする）",
+        "meaning": {
+          "english": "encourage, promote"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou(reisuru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou(reisuru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou(reisuru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou(reisuru)_06_d.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "奨",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=奨",
+    "rad_name_search": [
+      "dai"
+    ],
+    "rad_order": 43,
+    "txt_books": [
+      {
+        "chapter": "19",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "19"
+      }
+    ],
+    "kname": "shou(reisuru)",
+    "rad_utf": "⼤",
+    "stroketimes": [
+      0,
+      2.533333,
+      3.8,
+      4.733333,
+      6,
+      6.8,
+      7.6,
+      8.533333,
+      9.733333,
+      11.466667,
+      12.266667,
+      14.466667,
+      15.866667,
+      19.133333
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1819",
+    "rad_name": "dai",
+    "dicn": "1181",
+    "mn_hint": "Great 大 commander 将 <span class='note'>(holding [12] the law 寸 at his side[17])</span> encouraging one's soldiers.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ショウ",
+    "rad_meaning": "large, big",
+    "onyomi": "shou",
+    "ka_id": "ka_808",
+    "onyomi_search": [
+      "shou",
+      "shou"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "encourage",
+      "urge",
+      "encourage, urge"
+    ],
+    "onyomi_ja_search": [
+      "ショウ",
+      "ショウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "large",
+      "big",
+      "large, big"
+    ],
+    "rad_name_ja_search": [
+      "だい"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:19",
+      "ij:c19",
+      "cijr",
+      "cijr:19",
+      "cijr:c19"
+    ],
+    "rad_name_file": "dai",
+    "kanji": {
+      "character": "奨",
+      "meaning": {
+        "english": "encourage, urge"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0,
+          2.533333,
+          3.8,
+          4.733333,
+          6,
+          6.8,
+          7.6,
+          8.533333,
+          9.733333,
+          11.466667,
+          12.266667,
+          14.466667,
+          15.866667,
+          19.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shou",
+        "katakana": "ショウ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/shou(reisuru)_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shou(reisuru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/shou(reisuru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼤",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/dai.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "だい",
+        "romaji": "dai"
+      },
+      "meaning": {
+        "english": "large, big"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/dai0.svg",
+        "https://media.kanjialive.com/rad_frames/dai1.svg",
+        "https://media.kanjialive.com/rad_frames/dai2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1819",
+      "classic_nelson": "1181"
+    }
+  },
+  "jishoData": {
+    "query": "奨",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1445",
+    "strokeCount": 13,
+    "meaning": "exhort, urge, encourage",
+    "kunyomi": [
+      "すす.める"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奨学",
+        "reading": "ショウガク",
+        "meaning": "encouragement to study"
+      },
+      {
+        "example": "奨学金",
+        "reading": "ショウガクキン",
+        "meaning": "scholarship, stipend, bursary, grant-in-aid, student loan"
+      },
+      {
+        "example": "勧奨",
+        "reading": "カンショウ",
+        "meaning": "encouragement, stimulation"
+      },
+      {
+        "example": "推奨",
+        "reading": "スイショウ",
+        "meaning": "recommendation, endorsement"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "勧める",
+        "reading": "すすめる",
+        "meaning": "to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "big, very"
+    },
+    "parts": [
+      "大",
+      "寸",
+      "爪",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22888_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05968.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5968.gif",
+    "uri": "https://jisho.org/search/%E5%A5%A8%23kanji"
+  }
+}

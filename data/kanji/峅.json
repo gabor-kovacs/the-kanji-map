@@ -1,1 +1,29 @@
-{"id":"峅","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"峅","found":true,"strokeCount":8,"meaning":"shrine in the mountains, (kokuji)","kunyomi":["くら"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"山","meaning":"mountain"},"parts":["厶","山","廾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23749_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cc5.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cc5.gif","uri":"https://jisho.org/search/%E5%B3%85%23kanji"}}
+{
+  "id": "峅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "峅",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "shrine in the mountains, (kokuji)",
+    "kunyomi": [
+      "くら"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "mountain"
+    },
+    "parts": [
+      "厶",
+      "山",
+      "廾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23749_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cc5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cc5.gif",
+    "uri": "https://jisho.org/search/%E5%B3%85%23kanji"
+  }
+}

@@ -1,1 +1,43 @@
-{"id":"圖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"圖","found":true,"strokeCount":14,"meaning":"drawing, plan","kunyomi":["え","はか.る"],"onyomi":["ズ","ト"],"onyomiExamples":[{"example":"図","reading":"ズ","meaning":"drawing, picture, diagram, figure, illustration, chart, graph, sight, scene"},{"example":"図解","reading":"ズカイ","meaning":"schematic, schema, illustration, explanatory diagram"}],"kunyomiExamples":[],"radical":{"symbol":"囗","meaning":"enclosure"},"parts":["口","囗"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22294_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05716.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5716.gif","uri":"https://jisho.org/search/%E5%9C%96%23kanji"}}
+{
+  "id": "圖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "圖",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "drawing, plan",
+    "kunyomi": [
+      "え",
+      "はか.る"
+    ],
+    "onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "図",
+        "reading": "ズ",
+        "meaning": "drawing, picture, diagram, figure, illustration, chart, graph, map, sight, scene"
+      },
+      {
+        "example": "図解",
+        "reading": "ズカイ",
+        "meaning": "(explanatory) diagram, illustration"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "囗",
+      "meaning": "enclosure"
+    },
+    "parts": [
+      "口",
+      "囗"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22294_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05716.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5716.gif",
+    "uri": "https://jisho.org/search/%E5%9C%96%23kanji"
+  }
+}

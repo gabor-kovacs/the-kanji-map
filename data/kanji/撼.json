@@ -1,1 +1,42 @@
-{"id":"撼","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"撼","found":true,"strokeCount":16,"meaning":"move","kunyomi":["うごか.す"],"onyomi":["カン"],"onyomiExamples":[{"example":"震撼","reading":"シンカン","meaning":"shake, shock"}],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ノ","口","心","戈","扎"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25788_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064bc.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64bc.gif","uri":"https://jisho.org/search/%E6%92%BC%23kanji"}}
+{
+  "id": "撼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撼",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "move",
+    "kunyomi": [
+      "うごか.す"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "震撼",
+        "reading": "シンカン",
+        "meaning": "shake, shock"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "心",
+      "戈",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25788_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064bc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64bc.gif",
+    "uri": "https://jisho.org/search/%E6%92%BC%23kanji"
+  }
+}

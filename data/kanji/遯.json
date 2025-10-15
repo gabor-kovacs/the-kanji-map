@@ -1,1 +1,47 @@
-{"id":"遯","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"遯","found":true,"strokeCount":15,"meaning":"deceive, hide, conceal, flee","kunyomi":["のが.れる"],"onyomi":["トン"],"onyomiExamples":[{"example":"遯竄","reading":"トンザン","meaning":"fleeing into hiding"},{"example":"遁世","reading":"トンセイ","meaning":"seclusion from the world"}],"kunyomiExamples":[],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["月","豕","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36975_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0906f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/906f.gif","uri":"https://jisho.org/search/%E9%81%AF%23kanji"}}
+{
+  "id": "遯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遯",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "deceive, hide, conceal, flee",
+    "kunyomi": [
+      "のが.れる"
+    ],
+    "onyomi": [
+      "トン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遯竄",
+        "reading": "トンザン",
+        "meaning": "fleeing into hiding"
+      },
+      {
+        "example": "遁世",
+        "reading": "トンセイ",
+        "meaning": "seclusion from the world, monastic seclusion"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "月",
+      "豕",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36975_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0906f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/906f.gif",
+    "uri": "https://jisho.org/search/%E9%81%AF%23kanji"
+  }
+}

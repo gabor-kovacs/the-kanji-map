@@ -1,1 +1,40 @@
-{"id":"銓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"銓","found":true,"strokeCount":14,"meaning":"measure, scales, weigh","kunyomi":["はか.る"],"onyomi":["セン"],"onyomiExamples":[{"example":"選考","reading":"センコウ","meaning":"selection, screening"}],"kunyomiExamples":[],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["个","王","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37523_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09293.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9293.gif","uri":"https://jisho.org/search/%E9%8A%93%23kanji"}}
+{
+  "id": "銓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "銓",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "measure, scales, weigh",
+    "kunyomi": [
+      "はか.る"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "選考",
+        "reading": "センコウ",
+        "meaning": "selection, choice, screening"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "个",
+      "王",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37523_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09293.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9293.gif",
+    "uri": "https://jisho.org/search/%E9%8A%93%23kanji"
+  }
+}

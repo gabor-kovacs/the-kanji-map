@@ -1,1 +1,62 @@
-{"id":"馴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"馴","found":true,"strokeCount":13,"meaning":"get used to, experienced, tamed","kunyomi":["な.れる","な.らす","したが.う"],"onyomi":["ジュン","シュン","クン"],"onyomiExamples":[{"example":"馴鹿","reading":"トナカイ","meaning":"reindeer (Rangifer tarandus)"},{"example":"順化","reading":"ジュンカ","meaning":"acclimatization, naturalization, acclimation"},{"example":"雅馴","reading":"ガジュン","meaning":"refined (prose, etc.)"}],"kunyomiExamples":[{"example":"慣れる","reading":"なれる","meaning":"to get used to, to grow accustomed to, to become familiar with, to become skilled in, to become experienced at, to become tame, to become domesticated, to get used to doing"},{"example":"慣らす","reading":"ならす","meaning":"to accustom, to train (e.g. one's ear), to tame, to domesticate, to train (an animal)"}],"radical":{"symbol":"馬","meaning":"horse"},"parts":["川","杰","馬"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/39348_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099b4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99b4.gif","uri":"https://jisho.org/search/%E9%A6%B4%23kanji"}}
+{
+  "id": "馴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "馴",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "get used to, experienced, tamed",
+    "kunyomi": [
+      "な.れる",
+      "な.らす",
+      "したが.う"
+    ],
+    "onyomi": [
+      "ジュン",
+      "シュン",
+      "クン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "順化",
+        "reading": "ジュンカ",
+        "meaning": "acclimatization, naturalization, acclimation"
+      },
+      {
+        "example": "馴致",
+        "reading": "ジュンチ",
+        "meaning": "taming, gradual habituation, leading to"
+      },
+      {
+        "example": "雅馴",
+        "reading": "ガジュン",
+        "meaning": "refined (prose, etc.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慣れる",
+        "reading": "なれる",
+        "meaning": "to get used to, to grow accustomed to, to become familiar with, to become skilled in, to become experienced at, to become tame, to become domesticated, to get used to doing"
+      },
+      {
+        "example": "慣らす",
+        "reading": "ならす",
+        "meaning": "to accustom, to train (e.g. one's ear), to tame, to domesticate, to train (an animal)"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "horse"
+    },
+    "parts": [
+      "川",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39348_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99b4.gif",
+    "uri": "https://jisho.org/search/%E9%A6%B4%23kanji"
+  }
+}

@@ -1,1 +1,32 @@
-{"id":"覓","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"覓","found":true,"strokeCount":11,"meaning":"seek","kunyomi":["もと.める"],"onyomi":["ベキ","エキ","ミャク"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"見","meaning":"see"},"parts":["爪","見"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35219_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08993.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8993.gif","uri":"https://jisho.org/search/%E8%A6%93%23kanji"}}
+{
+  "id": "覓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覓",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "seek",
+    "kunyomi": [
+      "もと.める"
+    ],
+    "onyomi": [
+      "ベキ",
+      "エキ",
+      "ミャク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "見",
+      "meaning": "see"
+    },
+    "parts": [
+      "爪",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35219_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08993.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8993.gif",
+    "uri": "https://jisho.org/search/%E8%A6%93%23kanji"
+  }
+}

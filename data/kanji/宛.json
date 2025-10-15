@@ -1,1 +1,57 @@
-{"id":"宛","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"宛","found":true,"taughtIn":"junior high","strokeCount":8,"meaning":"address, just like, fortunately","kunyomi":["あ.てる","-あて","-づつ","あたか.も"],"onyomi":["エン"],"onyomiExamples":[{"example":"宛然","reading":"エンゼン","meaning":"as if, the very thing itself"},{"example":"宛転","reading":"エンテン","meaning":"eloquent, fluent, smooth-spoken, sonorous, facile, silver-tongued, (of eyebrows) shapely"}],"kunyomiExamples":[{"example":"宛てる","reading":"あてる","meaning":"to address"},{"example":"恰も","reading":"あたかも","meaning":"as if, as it were, as though, right then, just then, at that moment"}],"radical":{"symbol":"宀","meaning":"roof"},"parts":["卩","夕","宀"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23451_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b9b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b9b.gif","uri":"https://jisho.org/search/%E5%AE%9B%23kanji"}}
+{
+  "id": "宛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "宛",
+    "found": true,
+    "taughtIn": "junior high",
+    "strokeCount": 8,
+    "meaning": "address, just like, fortunately",
+    "kunyomi": [
+      "あ.てる",
+      "-あて",
+      "-づつ",
+      "あたか.も"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鵷鶵",
+        "reading": "エンスウ",
+        "meaning": "mythical Chinese bird similar to the Chinese phoenix"
+      },
+      {
+        "example": "宛然",
+        "reading": "エンゼン",
+        "meaning": "as if, the very thing itself"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "宛てる",
+        "reading": "あてる",
+        "meaning": "to address"
+      },
+      {
+        "example": "恰も",
+        "reading": "あたかも",
+        "meaning": "as if, as it were, as though, right then, just then, at that moment"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "卩",
+      "夕",
+      "宀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23451_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b9b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b9b.gif",
+    "uri": "https://jisho.org/search/%E5%AE%9B%23kanji"
+  }
+}

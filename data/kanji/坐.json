@@ -1,1 +1,68 @@
-{"id":"坐","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"坐","found":true,"newspaperFrequencyRank":"2337","strokeCount":7,"meaning":"sit","kunyomi":["すわ.る","おわす","そぞろに","まします"],"onyomi":["ザ","サ"],"onyomiExamples":[{"example":"座敷","reading":"ザシキ","meaning":"tatami room, tatami mat room, formal Japanese room, dinner party in a tatami room (esp. when a geisha or maiko attends)"},{"example":"座禅","reading":"ザゼン","meaning":"zazen (seated Zen meditation, usu. in a cross-legged position)"},{"example":"連座","reading":"レンザ","meaning":"implication (in a crime), involvement, sitting in a row (in the same seat)"},{"example":"胡座","reading":"アグラ","meaning":"sitting cross-legged (i.e. Indian style)"}],"kunyomiExamples":[{"example":"座る","reading":"すわる","meaning":"to sit, to squat, to assume (a position), to hold steady, to hold still"},{"example":"在す","reading":"まします","meaning":"to be"}],"radical":{"symbol":"土","meaning":"earth"},"parts":["人","土","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22352_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05750.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5750.gif","uri":"https://jisho.org/search/%E5%9D%90%23kanji"}}
+{
+  "id": "坐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "坐",
+    "found": true,
+    "newspaperFrequencyRank": "2337",
+    "strokeCount": 7,
+    "meaning": "sit",
+    "kunyomi": [
+      "すわ.る",
+      "おわす",
+      "そぞろに",
+      "まします"
+    ],
+    "onyomi": [
+      "ザ",
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "座敷",
+        "reading": "ザシキ",
+        "meaning": "tatami room, tatami mat room, formal Japanese room, dinner party in a tatami room (esp. when a geisha or maiko attends)"
+      },
+      {
+        "example": "座禅",
+        "reading": "ザゼン",
+        "meaning": "zazen (seated Zen meditation, usu. in a cross-legged position)"
+      },
+      {
+        "example": "連座",
+        "reading": "レンザ",
+        "meaning": "implication (in a crime), involvement, sitting in a row (in the same seat)"
+      },
+      {
+        "example": "同坐",
+        "reading": "ドウザ",
+        "meaning": "sitting together, the same theater (theatre), involvement, entanglement, implication"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "座る",
+        "reading": "すわる",
+        "meaning": "to sit, to squat, to assume (a position), to hold steady, to hold still"
+      },
+      {
+        "example": "在す",
+        "reading": "まします",
+        "meaning": "to be"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "earth"
+    },
+    "parts": [
+      "人",
+      "土",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22352_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05750.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5750.gif",
+    "uri": "https://jisho.org/search/%E5%9D%90%23kanji"
+  }
+}

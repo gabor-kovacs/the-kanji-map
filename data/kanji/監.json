@@ -1,1 +1,54 @@
-{"id":"監","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"監","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"408","strokeCount":15,"meaning":"oversee, official, govt office, rule, administer","kunyomi":[],"onyomi":["カン"],"onyomiExamples":[{"example":"監獄","reading":"カンゴク","meaning":"prison"},{"example":"監禁","reading":"カンキン","meaning":"confinement"},{"example":"総監","reading":"ソウカン","meaning":"inspector general, commissioner"},{"example":"収監","reading":"シュウカン","meaning":"imprisonment"}],"kunyomiExamples":[],"radical":{"symbol":"皿","meaning":"dish"},"parts":["乞","二","皿","臣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30435_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076e3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76e3.gif","uri":"https://jisho.org/search/%E7%9B%A3%23kanji"}}
+{
+  "id": "監",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "監",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "408",
+    "strokeCount": 15,
+    "meaning": "oversee, official, govt office, rule, administer",
+    "kunyomi": [],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "監獄",
+        "reading": "カンゴク",
+        "meaning": "prison"
+      },
+      {
+        "example": "監禁",
+        "reading": "カンキン",
+        "meaning": "confinement, imprisonment, incarceration"
+      },
+      {
+        "example": "総監",
+        "reading": "ソウカン",
+        "meaning": "inspector general, commissioner"
+      },
+      {
+        "example": "収監",
+        "reading": "シュウカン",
+        "meaning": "imprisonment"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "皿",
+      "meaning": "dish"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "皿",
+      "臣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30435_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076e3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76e3.gif",
+    "uri": "https://jisho.org/search/%E7%9B%A3%23kanji"
+  }
+}

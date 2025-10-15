@@ -1,1 +1,46 @@
-{"id":"踈","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"踈","found":true,"strokeCount":14,"meaning":"neglect, careless, lax","kunyomi":["うと.い","うと.む","まば.ら"],"onyomi":["ソ","ショ"],"onyomiExamples":[{"example":"疎雨","reading":"ソウ","meaning":"drizzle, scattered rain"}],"kunyomiExamples":[],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["ハ","口","木","止","足","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36360_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e08.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e08.gif","uri":"https://jisho.org/search/%E8%B8%88%23kanji"}}
+{
+  "id": "踈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "踈",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "neglect, careless, lax",
+    "kunyomi": [
+      "うと.い",
+      "うと.む",
+      "まば.ら"
+    ],
+    "onyomi": [
+      "ソ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "疎雨",
+        "reading": "ソウ",
+        "meaning": "drizzle, scattered rain"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "木",
+      "止",
+      "足",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36360_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e08.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e08.gif",
+    "uri": "https://jisho.org/search/%E8%B8%88%23kanji"
+  }
+}

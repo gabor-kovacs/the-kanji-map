@@ -1,1 +1,37 @@
-{"id":"擔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"擔","found":true,"strokeCount":16,"meaning":"carry, bear, undertake","kunyomi":["かつ.ぐ","にな.う"],"onyomi":["タン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["儿","勹","厂","扎","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25812_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064d4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64d4.gif","uri":"https://jisho.org/search/%E6%93%94%23kanji"}}
+{
+  "id": "擔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擔",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "carry, bear, undertake",
+    "kunyomi": [
+      "かつ.ぐ",
+      "にな.う"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "儿",
+      "勹",
+      "厂",
+      "扎",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25812_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064d4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64d4.gif",
+    "uri": "https://jisho.org/search/%E6%93%94%23kanji"
+  }
+}

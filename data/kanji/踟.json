@@ -1,1 +1,34 @@
-{"id":"踟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"踟","found":true,"strokeCount":15,"meaning":"hesitate","kunyomi":[],"onyomi":["チ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"足","forms":["⻊"],"meaning":"foot"},"parts":["乞","口","止","矢","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36383_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e1f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e1f.gif","uri":"https://jisho.org/search/%E8%B8%9F%23kanji"}}
+{
+  "id": "踟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "踟",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "hesitate",
+    "kunyomi": [],
+    "onyomi": [
+      "チ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "foot"
+    },
+    "parts": [
+      "乞",
+      "口",
+      "止",
+      "矢",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36383_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e1f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e1f.gif",
+    "uri": "https://jisho.org/search/%E8%B8%9F%23kanji"
+  }
+}

@@ -1,1 +1,48 @@
-{"id":"鴟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鴟","found":true,"strokeCount":16,"meaning":"kite","kunyomi":["とび"],"onyomi":["シ"],"onyomiExamples":[{"example":"鴟尾","reading":"シビ","meaning":"ornamental ridge-end tile"}],"kunyomiExamples":[{"example":"鳶","reading":"とび","meaning":"black kite (Milvus migrans), construction worker, scaffold erector, firefighter, fire hook, reddish brown, Inverness cape, filcher, sneak thief, pilferer"},{"example":"糞鳶","reading":"くそとび","meaning":"common buzzard (Buteo buteo)"}],"radical":{"symbol":"鳥","meaning":"bird"},"parts":["杰","氏","鳥"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40223_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d1f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d1f.gif","uri":"https://jisho.org/search/%E9%B4%9F%23kanji"}}
+{
+  "id": "鴟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鴟",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "kite",
+    "kunyomi": [
+      "とび"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鴟尾",
+        "reading": "シビ",
+        "meaning": "ornamental ridge-end tile"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鳶",
+        "reading": "とび",
+        "meaning": "black kite (Milvus migrans), construction worker, scaffold erector, firefighter, fire hook, reddish brown, Inverness cape, filcher, sneak thief, pilferer"
+      },
+      {
+        "example": "糞鳶",
+        "reading": "くそとび",
+        "meaning": "common buzzard (Buteo buteo)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "bird"
+    },
+    "parts": [
+      "杰",
+      "氏",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40223_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d1f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d1f.gif",
+    "uri": "https://jisho.org/search/%E9%B4%9F%23kanji"
+  }
+}

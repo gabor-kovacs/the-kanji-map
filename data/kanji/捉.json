@@ -1,1 +1,55 @@
-{"id":"捉","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"捉","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"1976","strokeCount":10,"meaning":"catch, capture","kunyomi":["とら.える"],"onyomi":["ソク","サク"],"onyomiExamples":[{"example":"把捉","reading":"ハソク","meaning":"grasping (a meaning)"},{"example":"捕捉","reading":"ホソク","meaning":"capture, seizure, prehension, trapping, apprehension, understanding, grasp"}],"kunyomiExamples":[{"example":"捉える","reading":"とらえる","meaning":"to catch, to capture, to seize, to arrest, to grab, to catch hold of, to grasp (e.g. meaning), to perceive, to capture (e.g. features), to captivate, to move (one's heart)"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["口","扎","止","足"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25417_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06349.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6349.gif","uri":"https://jisho.org/search/%E6%8D%89%23kanji"}}
+{
+  "id": "捉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捉",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "1976",
+    "strokeCount": 10,
+    "meaning": "catch, capture",
+    "kunyomi": [
+      "とら.える"
+    ],
+    "onyomi": [
+      "ソク",
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "把捉",
+        "reading": "ハソク",
+        "meaning": "grasping (a meaning)"
+      },
+      {
+        "example": "捕捉",
+        "reading": "ホソク",
+        "meaning": "capture, seizure, prehension, trapping, apprehension, understanding, grasp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捉える",
+        "reading": "とらえる",
+        "meaning": "to catch, to capture, to seize, to arrest, to grab, to catch hold of, to grasp (e.g. meaning), to perceive, to capture (e.g. features), to captivate, to move (one's heart)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "口",
+      "扎",
+      "止",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25417_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06349.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6349.gif",
+    "uri": "https://jisho.org/search/%E6%8D%89%23kanji"
+  }
+}

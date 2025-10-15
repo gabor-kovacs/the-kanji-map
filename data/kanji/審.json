@@ -1,1 +1,63 @@
-{"id":"審","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"審","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"412","strokeCount":15,"meaning":"hearing, judge, trial","kunyomi":["つまび.らか","つぶさ.に"],"onyomi":["シン"],"onyomiExamples":[{"example":"審査","reading":"シンサ","meaning":"judging, inspection, examination, investigation, review"},{"example":"審議","reading":"シンギ","meaning":"deliberation"},{"example":"一審","reading":"イッシン","meaning":"first instance, first trial"},{"example":"再審","reading":"サイシン","meaning":"retrial, reopening of a case, review, reexamination"}],"kunyomiExamples":[{"example":"詳らか","reading":"つまびらか","meaning":"detailed, clear"}],"radical":{"symbol":"宀","meaning":"roof"},"parts":["宀","田","米","釆"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23529_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be9.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be9.gif","uri":"https://jisho.org/search/%E5%AF%A9%23kanji"}}
+{
+  "id": "審",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "審",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "412",
+    "strokeCount": 15,
+    "meaning": "hearing, judge, trial",
+    "kunyomi": [
+      "つまび.らか",
+      "つぶさ.に"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "審査",
+        "reading": "シンサ",
+        "meaning": "judging, inspection, examination, investigation, review"
+      },
+      {
+        "example": "審議",
+        "reading": "シンギ",
+        "meaning": "deliberation, discussion, consideration"
+      },
+      {
+        "example": "一審",
+        "reading": "イッシン",
+        "meaning": "first instance, first trial"
+      },
+      {
+        "example": "再審",
+        "reading": "サイシン",
+        "meaning": "retrial, reopening of a case, review, reexamination"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "詳らか",
+        "reading": "つまびらか",
+        "meaning": "detailed, clear"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "宀",
+      "田",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23529_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be9.gif",
+    "uri": "https://jisho.org/search/%E5%AF%A9%23kanji"
+  }
+}

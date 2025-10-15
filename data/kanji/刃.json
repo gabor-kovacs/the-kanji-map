@@ -1,1 +1,101 @@
-{"id":"刃","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"刃","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1763","strokeCount":3,"meaning":"blade, sword, edge","kunyomi":["は","やいば","き.る"],"onyomi":["ジン","ニン"],"onyomiExamples":[{"example":"兵刃","reading":"ヘイジン","meaning":"sword blade"},{"example":"刀刃","reading":"トウジン","meaning":"sword blade"},{"example":"刃傷","reading":"ニンジョウ","meaning":"bloodshed"},{"example":"刃傷沙汰","reading":"ニンジョウザタ","meaning":"bloodshed"}],"kunyomiExamples":[{"example":"刃","reading":"は","meaning":"edge (of a knife or sword), prong (of an electrical plug)"},{"example":"鋼","reading":"はがね","meaning":"steel, sword steel, sword"},{"example":"諸刃","reading":"もろは","meaning":"double-edged, double-edged blade"},{"example":"抜き刃","reading":"ぬきは","meaning":"die blade, cutting die"},{"example":"刃","reading":"やいば","meaning":"blade, sword, forged blade, wavy pattern on forged blades, sharpness, unhulled rice"},{"example":"刃を交える","reading":"やいばをまじえる","meaning":"to cross swords (with)"},{"example":"氷の刃","reading":"こおりのやいば","meaning":"gleaming sword"}],"radical":{"symbol":"刀","forms":["刂"],"meaning":"knife, sword"},"parts":["丶","刀"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20995_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05203.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5203.gif","uri":"https://jisho.org/search/%E5%88%83%23kanji"}}
+{
+  "id": "刃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "刃",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1763",
+    "strokeCount": 3,
+    "meaning": "blade, sword, edge",
+    "kunyomi": [
+      "は",
+      "やいば",
+      "き.る"
+    ],
+    "onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "兵刃",
+        "reading": "ヘイジン",
+        "meaning": "sword blade"
+      },
+      {
+        "example": "刀刃",
+        "reading": "トウジン",
+        "meaning": "sword blade"
+      },
+      {
+        "example": "刃傷",
+        "reading": "ニンジョウ",
+        "meaning": "bloodshed"
+      },
+      {
+        "example": "刃傷沙汰",
+        "reading": "ニンジョウザタ",
+        "meaning": "bloodshed"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "刃",
+        "reading": "は",
+        "meaning": "edge (of a knife or sword), blade, prong (of an electrical plug)"
+      },
+      {
+        "example": "鋼",
+        "reading": "はがね",
+        "meaning": "steel, sword steel, sword"
+      },
+      {
+        "example": "諸刃",
+        "reading": "もろは",
+        "meaning": "double-edged (e.g. sword blade), double-beveled (e.g. kitchen knife), double-edged blade"
+      },
+      {
+        "example": "抜き刃",
+        "reading": "ぬきは",
+        "meaning": "die blade, cutting die"
+      },
+      {
+        "example": "刃",
+        "reading": "やいば",
+        "meaning": "blade, sword, forged blade, wavy pattern on forged blades, sharpness, unhulled rice"
+      },
+      {
+        "example": "刃を交える",
+        "reading": "やいばをまじえる",
+        "meaning": "to cross swords (with)"
+      },
+      {
+        "example": "鬼滅の刃",
+        "reading": "きめつのやいば",
+        "meaning": "Demon Slayer: Kimetsu no Yaiba (manga, anime)"
+      },
+      {
+        "example": "氷の刃",
+        "reading": "こおりのやいば",
+        "meaning": "gleaming sword"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "knife, sword"
+    },
+    "parts": [
+      "丶",
+      "刀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20995_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05203.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5203.gif",
+    "uri": "https://jisho.org/search/%E5%88%83%23kanji"
+  }
+}

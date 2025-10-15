@@ -1,1 +1,47 @@
-{"id":"臟","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"臟","found":true,"strokeCount":22,"meaning":"viscera, bowels","kunyomi":["はらわた"],"onyomi":["ゾウ"],"onyomiExamples":[{"example":"脾臟","reading":"ヒゾウ","meaning":"spleen"}],"kunyomiExamples":[],"radical":{"symbol":"肉","forms":["⺼"],"meaning":"meat"},"parts":["ノ","戈","月","臣","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/33247_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081df.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81df.gif","uri":"https://jisho.org/search/%E8%87%9F%23kanji"}}
+{
+  "id": "臟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臟",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "viscera, bowels",
+    "kunyomi": [
+      "はらわた"
+    ],
+    "onyomi": [
+      "ゾウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "脾臟",
+        "reading": "ヒゾウ",
+        "meaning": "spleen"
+      },
+      {
+        "example": "脾臓",
+        "reading": "ヒゾウ",
+        "meaning": "spleen"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "meat"
+    },
+    "parts": [
+      "ノ",
+      "戈",
+      "月",
+      "臣",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33247_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81df.gif",
+    "uri": "https://jisho.org/search/%E8%87%9F%23kanji"
+  }
+}

@@ -1,1 +1,65 @@
-{"id":"蕋","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蕋","found":true,"strokeCount":15,"meaning":"pistil, stamen","kunyomi":["しべ"],"onyomi":["ズイ"],"onyomiExamples":[{"example":"蕊","reading":"ズイ","meaning":"pistil (of a flower), stamen"},{"example":"雄しべ","reading":"オシベ","meaning":"stamen"},{"example":"雌しべ","reading":"メシベ","meaning":"pistil"}],"kunyomiExamples":[{"example":"蕊","reading":"ずい","meaning":"pistil (of a flower), stamen"},{"example":"雄しべ","reading":"おしべ","meaning":"stamen"},{"example":"雌しべ","reading":"めしべ","meaning":"pistil"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["止","艾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34123_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0854b.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/854b.gif","uri":"https://jisho.org/search/%E8%95%8B%23kanji"}}
+{
+  "id": "蕋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕋",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "pistil, stamen",
+    "kunyomi": [
+      "しべ"
+    ],
+    "onyomi": [
+      "ズイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蕊",
+        "reading": "シベ",
+        "meaning": "pistil, stamen"
+      },
+      {
+        "example": "雄しべ",
+        "reading": "オシベ",
+        "meaning": "stamen"
+      },
+      {
+        "example": "雌しべ",
+        "reading": "メシベ",
+        "meaning": "pistil"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蕊",
+        "reading": "しべ",
+        "meaning": "pistil, stamen"
+      },
+      {
+        "example": "雄しべ",
+        "reading": "おしべ",
+        "meaning": "stamen"
+      },
+      {
+        "example": "雌しべ",
+        "reading": "めしべ",
+        "meaning": "pistil"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "止",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34123_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0854b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/854b.gif",
+    "uri": "https://jisho.org/search/%E8%95%8B%23kanji"
+  }
+}

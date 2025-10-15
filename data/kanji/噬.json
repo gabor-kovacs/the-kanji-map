@@ -1,1 +1,44 @@
-{"id":"噬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"噬","found":true,"strokeCount":16,"meaning":"bite","kunyomi":["か.む"],"onyomi":["ゼイ"],"onyomiExamples":[{"example":"噬臍","reading":"ゼイセイ","meaning":"bitter regret"},{"example":"反噬","reading":"ハンゼイ","meaning":"turning against one's master, returning evil for good"}],"kunyomiExamples":[],"radical":{"symbol":"口","meaning":"mouth, opening"},"parts":["乞","人","口","工","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/22124_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0566c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/566c.gif","uri":"https://jisho.org/search/%E5%99%AC%23kanji"}}
+{
+  "id": "噬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "噬",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "bite",
+    "kunyomi": [
+      "か.む"
+    ],
+    "onyomi": [
+      "ゼイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "噬臍",
+        "reading": "ゼイセイ",
+        "meaning": "bitter regret"
+      },
+      {
+        "example": "反噬",
+        "reading": "ハンゼイ",
+        "meaning": "turning against one's master, returning evil for good"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [
+      "乞",
+      "人",
+      "口",
+      "工",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22124_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0566c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/566c.gif",
+    "uri": "https://jisho.org/search/%E5%99%AC%23kanji"
+  }
+}

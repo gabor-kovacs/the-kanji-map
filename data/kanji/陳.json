@@ -1,1 +1,67 @@
-{"id":"陳","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"陳","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1323","strokeCount":11,"meaning":"exhibit, state, relate, explain","kunyomi":["ひ.ねる"],"onyomi":["チン"],"onyomiExamples":[{"example":"陳","reading":"チン","meaning":"Chen (ancient Chinese state; approx. 1045-479 BCE), Ch'en, Chen dynasty (of China; 557-589 BCE), Ch'en dynasty"},{"example":"陳謝","reading":"チンシャ","meaning":"apology"},{"example":"開陳","reading":"カイチン","meaning":"stating (one's views), expressing"},{"example":"具陳","reading":"グチン","meaning":"report in detail, formal statement"}],"kunyomiExamples":[{"example":"陳ねる","reading":"ひねる","meaning":"to age"}],"radical":{"symbol":"阜","forms":["阝"],"meaning":"mound, dam (阝 left)"},"parts":["一","日","木","田","阡","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38515_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09673.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9673.gif","uri":"https://jisho.org/search/%E9%99%B3%23kanji"}}
+{
+  "id": "陳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陳",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1323",
+    "strokeCount": 11,
+    "meaning": "exhibit, state, relate, explain",
+    "kunyomi": [
+      "ひ.ねる"
+    ],
+    "onyomi": [
+      "チン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陳",
+        "reading": "チン",
+        "meaning": "Chen (ancient Chinese state; approx. 1045-479 BCE), Ch'en, Chen dynasty (of China; 557-589 BCE), Ch'en dynasty"
+      },
+      {
+        "example": "陳謝",
+        "reading": "チンシャ",
+        "meaning": "apology"
+      },
+      {
+        "example": "開陳",
+        "reading": "カイチン",
+        "meaning": "stating (one's views), expressing"
+      },
+      {
+        "example": "具陳",
+        "reading": "グチン",
+        "meaning": "report in detail, formal statement"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "陳ねる",
+        "reading": "ひねる",
+        "meaning": "to age, to get old, to go stale, to be too grown-up (for one's age), to be precocious, to become twisted, to become warped, to become perverse"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "mound, dam (阝 left)"
+    },
+    "parts": [
+      "一",
+      "日",
+      "木",
+      "田",
+      "阡",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38515_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09673.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9673.gif",
+    "uri": "https://jisho.org/search/%E9%99%B3%23kanji"
+  }
+}

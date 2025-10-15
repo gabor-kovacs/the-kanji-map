@@ -1,1 +1,84 @@
-{"id":"諦","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"諦","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2457","strokeCount":16,"meaning":"truth, clarity, abandon, give up","kunyomi":["あきら.める","つまびらか","まこと"],"onyomi":["テイ","タイ"],"onyomiExamples":[{"example":"諦観","reading":"テイカン","meaning":"clear insight, resignation (to one's fate), acceptance"},{"example":"諦念","reading":"テイネン","meaning":"understanding and acceptance, spiritual awakening, a heart that understands truth, (feeling of) resignation"},{"example":"妙諦","reading":"ミョウテイ","meaning":"amazing truth, cardinal principle, key (to understanding)"},{"example":"要諦","reading":"ヨウテイ","meaning":"important point"},{"example":"諦","reading":"タイ","meaning":"satya, truth"},{"example":"空諦","reading":"クウタイ","meaning":"truth of emptiness (holding that all things are void)"},{"example":"道諦","reading":"ドウタイ","meaning":"truth of the way to the cessation of suffering"}],"kunyomiExamples":[{"example":"諦める","reading":"あきらめる","meaning":"to give up, to abandon (hope, plans), to resign oneself (to)"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["亠","冖","巾","并","立","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35558_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae6.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae6.gif","uri":"https://jisho.org/search/%E8%AB%A6%23kanji"}}
+{
+  "id": "諦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諦",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2457",
+    "strokeCount": 16,
+    "meaning": "truth, clarity, abandon, give up",
+    "kunyomi": [
+      "あきら.める",
+      "つまびらか",
+      "まこと"
+    ],
+    "onyomi": [
+      "テイ",
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "諦観",
+        "reading": "テイカン",
+        "meaning": "clear insight, resignation (to one's fate), acceptance"
+      },
+      {
+        "example": "諦念",
+        "reading": "テイネン",
+        "meaning": "understanding and acceptance, spiritual awakening, a heart that understands truth, (feeling of) resignation"
+      },
+      {
+        "example": "妙諦",
+        "reading": "ミョウテイ",
+        "meaning": "amazing truth, cardinal principle, key (to understanding)"
+      },
+      {
+        "example": "要諦",
+        "reading": "ヨウテイ",
+        "meaning": "(most) important point, key point, key, secret, essence"
+      },
+      {
+        "example": "諦",
+        "reading": "タイ",
+        "meaning": "satya, truth"
+      },
+      {
+        "example": "空諦",
+        "reading": "クウタイ",
+        "meaning": "truth of emptiness (holding that all things are void)"
+      },
+      {
+        "example": "道諦",
+        "reading": "ドウタイ",
+        "meaning": "truth of the way to the cessation of suffering"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "諦める",
+        "reading": "あきらめる",
+        "meaning": "to give up, to abandon (hope, plans), to resign oneself (to)"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "巾",
+      "并",
+      "立",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35558_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae6.gif",
+    "uri": "https://jisho.org/search/%E8%AB%A6%23kanji"
+  }
+}

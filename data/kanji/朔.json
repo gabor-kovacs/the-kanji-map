@@ -1,1 +1,60 @@
-{"id":"朔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"朔","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2318","strokeCount":10,"meaning":"conjunction (astronomy), first day of month, north","kunyomi":["ついたち"],"onyomi":["サク"],"onyomiExamples":[{"example":"朔","reading":"サク","meaning":"new moon, first day of the lunar month, next year's calendar and decrees (in ancient China; distributed by the Emperor at year's end)"},{"example":"１日","reading":"ツイタチ","meaning":"1st day of the month, first 10 days of the lunar month"},{"example":"晦朔","reading":"カイサク","meaning":"last and first days of the month"},{"example":"正朔","reading":"セイサク","meaning":"beginning of the month or the year, New Year's Day, the calendar"}],"kunyomiExamples":[{"example":"１日","reading":"ついたち","meaning":"1st day of the month, first 10 days of the lunar month"}],"radical":{"symbol":"月","meaning":"moon, month"},"parts":["屮","并","月"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26388_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06714.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6714.gif","uri":"https://jisho.org/search/%E6%9C%94%23kanji"}}
+{
+  "id": "朔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朔",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2318",
+    "strokeCount": 10,
+    "meaning": "conjunction (astronomy), first day of month, north",
+    "kunyomi": [
+      "ついたち"
+    ],
+    "onyomi": [
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "朔",
+        "reading": "サク",
+        "meaning": "new moon, first day of the lunar month, next year's calendar and decrees (in ancient China; distributed by the Emperor at year's end)"
+      },
+      {
+        "example": "朔日",
+        "reading": "サクジツ",
+        "meaning": "first day of the month (in the lunar calendar)"
+      },
+      {
+        "example": "晦朔",
+        "reading": "カイサク",
+        "meaning": "last and first days of the month"
+      },
+      {
+        "example": "正朔",
+        "reading": "セイサク",
+        "meaning": "beginning of the month or the year, New Year's Day, the calendar"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "１日",
+        "reading": "ついたち",
+        "meaning": "first day of the month"
+      }
+    ],
+    "radical": {
+      "symbol": "月",
+      "meaning": "moon, month"
+    },
+    "parts": [
+      "屮",
+      "并",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26388_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06714.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6714.gif",
+    "uri": "https://jisho.org/search/%E6%9C%94%23kanji"
+  }
+}

@@ -1,1 +1,59 @@
-{"id":"殴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"殴","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1622","strokeCount":8,"meaning":"assault, hit, beat, thrash","kunyomi":["なぐ.る"],"onyomi":["オウ"],"onyomiExamples":[{"example":"殴打","reading":"オウダ","meaning":"hit, strike, blow"},{"example":"殴殺","reading":"オウサツ","meaning":"beating to death, striking dead"}],"kunyomiExamples":[{"example":"殴る","reading":"なぐる","meaning":"to strike, to hit, to beat, to punch"},{"example":"殴る蹴る","reading":"なぐるける","meaning":"punching and kicking"}],"radical":{"symbol":"殳","meaning":"weapon, lance"},"parts":["ノ","丶","几","匚","又","殳"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/27572_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb4.gif","uri":"https://jisho.org/search/%E6%AE%B4%23kanji"}}
+{
+  "id": "殴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殴",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1622",
+    "strokeCount": 8,
+    "meaning": "assault, hit, beat, thrash",
+    "kunyomi": [
+      "なぐ.る"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "殴打",
+        "reading": "オウダ",
+        "meaning": "hit, strike, blow"
+      },
+      {
+        "example": "殴殺",
+        "reading": "オウサツ",
+        "meaning": "beating to death, striking dead"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "殴る",
+        "reading": "なぐる",
+        "meaning": "to strike, to hit, to beat, to punch"
+      },
+      {
+        "example": "殴る蹴る",
+        "reading": "なぐるける",
+        "meaning": "punching and kicking"
+      }
+    ],
+    "radical": {
+      "symbol": "殳",
+      "meaning": "weapon, lance"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "几",
+      "匚",
+      "又",
+      "殳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27572_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb4.gif",
+    "uri": "https://jisho.org/search/%E6%AE%B4%23kanji"
+  }
+}

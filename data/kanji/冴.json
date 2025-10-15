@@ -1,1 +1,47 @@
-{"id":"冴","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"冴","found":true,"jlptLevel":"N1","newspaperFrequencyRank":"2341","strokeCount":7,"meaning":"be clear, serene, cold, skilful","kunyomi":["さ.える","こお.る","ひ.える"],"onyomi":["ゴ","コ"],"onyomiExamples":[{"example":"冴寒","reading":"ゴカン","meaning":"extreme cold"}],"kunyomiExamples":[{"example":"冴える","reading":"さえる","meaning":"to be clear (of a sight, sound, colour, etc.), to be bright, to be vivid, to be crisp, to be clear-headed, to be alert, to be on the ball, to be wide awake, to look upbeat, to be perky, to be cheerful, to master (a skill), to excel at, to cleanly execute, to be satisfying, to become frigid, to become intensely cold"}],"radical":{"symbol":"冫","meaning":"ice"},"parts":["冫","牙"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/20916_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b4.gif","uri":"https://jisho.org/search/%E5%86%B4%23kanji"}}
+{
+  "id": "冴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冴",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2341",
+    "strokeCount": 7,
+    "meaning": "be clear, serene, cold, skilful",
+    "kunyomi": [
+      "さ.える",
+      "こお.る",
+      "ひ.える"
+    ],
+    "onyomi": [
+      "ゴ",
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冴寒",
+        "reading": "ゴカン",
+        "meaning": "extreme cold"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "冴える",
+        "reading": "さえる",
+        "meaning": "to be clear (of a sight, sound, colour, etc.), to be bright, to be vivid, to be crisp, to be clear-headed, to be alert, to be on the ball, to be wide awake, to look upbeat, to be perky, to be cheerful, to master (a skill), to excel at, to cleanly execute, to be satisfying, to become frigid, to become intensely cold"
+      }
+    ],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "ice"
+    },
+    "parts": [
+      "冫",
+      "牙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20916_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b4.gif",
+    "uri": "https://jisho.org/search/%E5%86%B4%23kanji"
+  }
+}

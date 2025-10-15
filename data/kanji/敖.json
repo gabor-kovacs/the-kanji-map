@@ -1,1 +1,38 @@
-{"id":"敖","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"敖","found":true,"strokeCount":11,"meaning":"play, be proud","kunyomi":["あそ.ぶ","おご.る"],"onyomi":["ゴウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"攴","forms":["攵"],"meaning":"rap"},"parts":["乞","二","亠","土","攵","方"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25942_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06556.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6556.gif","uri":"https://jisho.org/search/%E6%95%96%23kanji"}}
+{
+  "id": "敖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "敖",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "play, be proud",
+    "kunyomi": [
+      "あそ.ぶ",
+      "おご.る"
+    ],
+    "onyomi": [
+      "ゴウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "亠",
+      "土",
+      "攵",
+      "方"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25942_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06556.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6556.gif",
+    "uri": "https://jisho.org/search/%E6%95%96%23kanji"
+  }
+}

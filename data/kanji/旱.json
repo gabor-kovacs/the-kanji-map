@@ -1,1 +1,57 @@
-{"id":"旱","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"旱","found":true,"strokeCount":7,"meaning":"drought, dry weather","kunyomi":["ひでり"],"onyomi":["カン"],"onyomiExamples":[{"example":"干害","reading":"カンガイ","meaning":"drought disaster, drought damage"},{"example":"旱水","reading":"カンスイ","meaning":"drought and floods"}],"kunyomiExamples":[{"example":"日照り","reading":"ひでり","meaning":"dry weather, drought"},{"example":"男日照り","reading":"おとこひでり","meaning":"scarcity of eligible men, difficulty for a woman to find a man, man shortage"},{"example":"女日照り","reading":"おんなひでり","meaning":"scarcity of eligible women, difficulty for a man to find a woman, woman shortage"}],"radical":{"symbol":"日","meaning":"sun, day"},"parts":["干","日"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/26097_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065f1.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65f1.gif","uri":"https://jisho.org/search/%E6%97%B1%23kanji"}}
+{
+  "id": "旱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "旱",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "drought, dry weather",
+    "kunyomi": [
+      "ひでり"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "干害",
+        "reading": "カンガイ",
+        "meaning": "drought disaster, drought damage"
+      },
+      {
+        "example": "旱水",
+        "reading": "カンスイ",
+        "meaning": "drought and floods"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "日照り",
+        "reading": "ひでり",
+        "meaning": "dry weather, drought"
+      },
+      {
+        "example": "男日照り",
+        "reading": "おとこひでり",
+        "meaning": "scarcity of eligible men, difficulty for a woman to find a man, man shortage"
+      },
+      {
+        "example": "女日照り",
+        "reading": "おんなひでり",
+        "meaning": "scarcity of eligible women, difficulty for a man to find a woman, woman shortage"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "sun, day"
+    },
+    "parts": [
+      "干",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26097_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065f1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65f1.gif",
+    "uri": "https://jisho.org/search/%E6%97%B1%23kanji"
+  }
+}

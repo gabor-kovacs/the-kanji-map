@@ -1,1 +1,67 @@
-{"id":"逝","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"逝","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"2018","strokeCount":10,"meaning":"departed, die","kunyomi":["ゆ.く","い.く"],"onyomi":["セイ"],"onyomiExamples":[{"example":"逝去","reading":"セイキョ","meaning":"death, passing"},{"example":"永逝","reading":"エイセイ","meaning":"death, dying"},{"example":"薨逝","reading":"コウセイ","meaning":"death (of a nobleman)"}],"kunyomiExamples":[{"example":"行く","reading":"いく","meaning":"to go, to move (in a direction or towards a specific location), to head (towards), to be transported (towards), to reach, to proceed, to take place, to pass through, to come and go, to walk, to die, to pass away, to do (in a specific way), to stream, to flow, to continue, to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"},{"example":"行く","reading":"いく","meaning":"to go, to move (in a direction or towards a specific location), to head (towards), to be transported (towards), to reach, to proceed, to take place, to pass through, to come and go, to walk, to die, to pass away, to do (in a specific way), to stream, to flow, to continue, to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"}],"radical":{"symbol":"辵","forms":["辶","⻌","⻍"],"meaning":"walk"},"parts":["扎","斤","込"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/36893_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0901d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/901d.gif","uri":"https://jisho.org/search/%E9%80%9D%23kanji"}}
+{
+  "id": "逝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逝",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2018",
+    "strokeCount": 10,
+    "meaning": "departed, die",
+    "kunyomi": [
+      "ゆ.く",
+      "い.く"
+    ],
+    "onyomi": [
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "逝去",
+        "reading": "セイキョ",
+        "meaning": "death, passing"
+      },
+      {
+        "example": "永逝",
+        "reading": "エイセイ",
+        "meaning": "death, dying"
+      },
+      {
+        "example": "薨逝",
+        "reading": "コウセイ",
+        "meaning": "death (of a nobleman)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "逝く",
+        "reading": "いく",
+        "meaning": "to die, to pass away"
+      },
+      {
+        "example": "逝く",
+        "reading": "いく",
+        "meaning": "to die, to pass away"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "walk"
+    },
+    "parts": [
+      "扎",
+      "斤",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36893_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0901d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/901d.gif",
+    "uri": "https://jisho.org/search/%E9%80%9D%23kanji"
+  }
+}

@@ -1,1 +1,37 @@
-{"id":"敍","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"敍","found":true,"strokeCount":11,"meaning":"express, state, relate, narrate","kunyomi":["つい.ず","ついで"],"onyomi":["ジョ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"攴","forms":["攵"],"meaning":"rap"},"parts":["一","个","小","干","攵"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25933_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0654d.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/654d.gif","uri":"https://jisho.org/search/%E6%95%8D%23kanji"}}
+{
+  "id": "敍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "敍",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "express, state, relate, narrate",
+    "kunyomi": [
+      "つい.ず",
+      "ついで"
+    ],
+    "onyomi": [
+      "ジョ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "一",
+      "个",
+      "小",
+      "干",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25933_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0654d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/654d.gif",
+    "uri": "https://jisho.org/search/%E6%95%8D%23kanji"
+  }
+}

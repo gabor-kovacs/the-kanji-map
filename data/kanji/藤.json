@@ -1,1 +1,74 @@
-{"id":"藤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"藤","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"291","strokeCount":18,"meaning":"wisteria","kunyomi":["ふじ"],"onyomi":["トウ","ドウ"],"onyomiExamples":[{"example":"藤黄","reading":"トウオウ","meaning":"gamboge"},{"example":"藤花","reading":"トウカ","meaning":"wisteria flower"}],"kunyomiExamples":[{"example":"藤","reading":"ふじ","meaning":"wisteria (esp. Japanese wisteria, Wisteria floribunda), wistaria"},{"example":"藤色","reading":"ふじいろ","meaning":"light purple"},{"example":"草藤","reading":"くさふじ","meaning":"tufted vetch (Vicia cracca), cow vetch"},{"example":"野田藤","reading":"のだふじ","meaning":"Japanese wisteria (Wisteria floribunda)"}],"radical":{"symbol":"艸","forms":["艹"],"meaning":"grass"},"parts":["一","二","大","月","水","艾","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34276_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085e4.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85e4.gif","uri":"https://jisho.org/search/%E8%97%A4%23kanji"}}
+{
+  "id": "藤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藤",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "291",
+    "strokeCount": 18,
+    "meaning": "wisteria",
+    "kunyomi": [
+      "ふじ"
+    ],
+    "onyomi": [
+      "トウ",
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "藤黄",
+        "reading": "トウオウ",
+        "meaning": "gamboge"
+      },
+      {
+        "example": "藤花",
+        "reading": "トウカ",
+        "meaning": "wisteria flower"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "藤",
+        "reading": "ふじ",
+        "meaning": "wisteria (esp. Japanese wisteria, Wisteria floribunda), wistaria"
+      },
+      {
+        "example": "藤色",
+        "reading": "ふじいろ",
+        "meaning": "light purple"
+      },
+      {
+        "example": "草藤",
+        "reading": "くさふじ",
+        "meaning": "tufted vetch (Vicia cracca), cow vetch"
+      },
+      {
+        "example": "野田藤",
+        "reading": "のだふじ",
+        "meaning": "Japanese wisteria (Wisteria floribunda)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "grass"
+    },
+    "parts": [
+      "一",
+      "二",
+      "大",
+      "月",
+      "水",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34276_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085e4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85e4.gif",
+    "uri": "https://jisho.org/search/%E8%97%A4%23kanji"
+  }
+}

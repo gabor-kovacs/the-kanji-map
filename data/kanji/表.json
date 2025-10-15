@@ -1,1 +1,456 @@
-{"id":"表","kanjialiveData":{"kanji":{"character":"表","meaning":{"english":"express, surface, table"},"strokes":{"count":8,"timings":[1.108,2.068,2.872,3.674,5.015,5.818,6.957,7.892,8.643],"images":["https://media.kanjialive.com/kanji_strokes/hyou-omote_1.svg","https://media.kanjialive.com/kanji_strokes/hyou-omote_2.svg","https://media.kanjialive.com/kanji_strokes/hyou-omote_3.svg","https://media.kanjialive.com/kanji_strokes/hyou-omote_4.svg","https://media.kanjialive.com/kanji_strokes/hyou-omote_5.svg","https://media.kanjialive.com/kanji_strokes/hyou-omote_6.svg","https://media.kanjialive.com/kanji_strokes/hyou-omote_7.svg","https://media.kanjialive.com/kanji_strokes/hyou-omote_8.svg"]},"onyomi":{"romaji":"hyou","katakana":"ヒョウ"},"kunyomi":{"romaji":"omote, arawa, arawasu, arawareru","hiragana":"おもて、あらわ"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/hyou-omote_8.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/hyou-omote_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/hyou-omote_00.webm"}},"radical":{"character":"⾐","strokes":6,"image":"https://media.kanjialive.com/radical_character/koromo.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"ころも","romaji":"koromo"},"meaning":{"english":"clothing"},"animation":["https://media.kanjialive.com/rad_frames/koromo0.svg","https://media.kanjialive.com/rad_frames/koromo1.svg","https://media.kanjialive.com/rad_frames/koromo2.svg"]},"references":{"grade":3,"kodansha":"1572","classic_nelson":"108"},"examples":[{"japanese":"表（ひょう）","meaning":{"english":"table, chart"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_a.mp3"}},{"japanese":"表情（ひょうじょう）","meaning":{"english":"facial expression"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_b.mp3"}},{"japanese":"表面（ひょうめん）","meaning":{"english":"surface"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_c.mp3"}},{"japanese":"予定表（よていひょう）","meaning":{"english":"schedule"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_d.mp3"}},{"japanese":"表現する（ひょうげんする）","meaning":{"english":"express [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_e.mp3"}},{"japanese":"代表する（だいひょうする）","meaning":{"english":"represent"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_f.mp3"}},{"japanese":"発表する（はっぴょうする）","meaning":{"english":"announce, present"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_g.mp3"}},{"japanese":"表（おもて）","meaning":{"english":"surface, front"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_h.mp3"}},{"japanese":"裏表（うらおもて）","meaning":{"english":"both sides"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_i.mp3"}},{"japanese":"表す（あらわす）","meaning":{"english":"show [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_j.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_j.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_j.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_j.mp3"}},{"japanese":"表れる（あらわれる）","meaning":{"english":"appear, come out [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_k.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_k.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_k.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_k.mp3"}}]},"jishoData":{"query":"表","found":true,"taughtIn":"grade 3","jlptLevel":"N3","newspaperFrequencyRank":"77","strokeCount":8,"meaning":"surface, table, chart, diagram","kunyomi":["おもて","-おもて","あらわ.す","あらわ.れる","あら.わす"],"onyomi":["ヒョウ"],"onyomiExamples":[{"example":"表","reading":"ヒョウ","meaning":"table, chart, list, memorial to an emperor"},{"example":"表記","reading":"ヒョウキ","meaning":"expression in writing, written representation, notation, transcription, orthography, writing on the surface (e.g. an address on an envelope), inscribing on the face"},{"example":"一覧表","reading":"イチランヒョウ","meaning":"list, table, schedule, catalogue, catalog"},{"example":"意表","reading":"イヒョウ","meaning":"surprise, something unexpected"}],"kunyomiExamples":[{"example":"表","reading":"おもて","meaning":"surface, face (i.e. the visible side of an object), front (of a building, etc.), obverse side (i.e. \"head\") of a coin, outside, exterior, appearance, public, first half (of an inning), top (of an inning), cover (for tatami mats, etc.), foreground, Omotesenke school of tea ceremony"},{"example":"表裏","reading":"ひょうり","meaning":"front and back, inside and outside, two sides, both sides, duplicity, double-dealing, being two-faced"},{"example":"京表","reading":"きょうおもて","meaning":"vicinity of Kyoto"},{"example":"中表","reading":"なかおもて","meaning":"cloth folded inside out"},{"example":"表す","reading":"あらわす","meaning":"to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"},{"example":"現れる","reading":"あらわれる","meaning":"to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)"},{"example":"表す","reading":"あらわす","meaning":"to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"}],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":["二","亠","土","士","衣"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34920_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08868.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8868.gif","uri":"https://jisho.org/search/%E8%A1%A8%23kanji"}}
+{
+  "id": "表",
+  "kanjialiveData": {
+    "_id": "54317aef791eba5146ee4a4c",
+    "_rev": "11-180e313fcaeccd7a4fa3867f4433c024",
+    "rad_name_ja": "ころも",
+    "grade": 3,
+    "hint_group": 3,
+    "kunyomi": "omote, arawa, arawasu, arawareru",
+    "meaning": "express, surface, table",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "表（ひょう）",
+        "meaning": {
+          "english": "table, chart"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "表情（ひょうじょう）",
+        "meaning": {
+          "english": "facial expression"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "表面（ひょうめん）",
+        "meaning": {
+          "english": "surface"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "予定表（よていひょう）",
+        "meaning": {
+          "english": "schedule"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "表現する（ひょうげんする）",
+        "meaning": {
+          "english": "express [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "代表する（だいひょうする）",
+        "meaning": {
+          "english": "represent"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "発表する（はっぴょうする）",
+        "meaning": {
+          "english": "announce, present"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "表（おもて）",
+        "meaning": {
+          "english": "surface, front"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "裏表（うらおもて）",
+        "meaning": {
+          "english": "both sides"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "表す（あらわす）",
+        "meaning": {
+          "english": "show [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "表れる（あらわれる）",
+        "meaning": {
+          "english": "appear, come out [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyou-omote_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hyou-omote_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hyou-omote_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hyou-omote_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "おもて、あらわ、あらわす、あらわれる",
+    "ka_utf": "表",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=表",
+    "rad_name_search": [
+      "koromo"
+    ],
+    "rad_order": 177,
+    "txt_books": [
+      {
+        "chapter": "2",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "44",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "23",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "14"
+      }
+    ],
+    "kname": "hyou-omote",
+    "rad_utf": "⾐",
+    "stroketimes": [
+      1.108,
+      2.068,
+      2.872,
+      3.674,
+      5.015,
+      5.818,
+      6.957,
+      7.892,
+      8.643
+    ],
+    "kunyomi_ka_display": "おもて、あらわ",
+    "dick": "1572",
+    "rad_name": "koromo",
+    "dicn": "108",
+    "mn_hint": "The master's [69] clothes [29] express his authority.",
+    "rad_stroke": 6,
+    "onyomi_ja": "ヒョウ",
+    "rad_meaning": "clothing",
+    "onyomi": "hyou",
+    "ka_id": "ka_395",
+    "onyomi_search": [
+      "hyou",
+      "hyou"
+    ],
+    "kunyomi_search": [
+      "omote",
+      "arawa",
+      "arawasu",
+      "arawareru",
+      "omote, arawa, arawasu, arawareru"
+    ],
+    "meaning_search": [
+      "express",
+      "surface",
+      "table",
+      "express, surface, table"
+    ],
+    "onyomi_ja_search": [
+      "ヒョウ",
+      "ヒョウ"
+    ],
+    "kunyomi_ja_search": [
+      "おもて",
+      "あらわ",
+      "あらわす",
+      "あらわれる",
+      "おもて、あらわ、あらわす、あらわれる"
+    ],
+    "rad_meaning_search": [
+      "clothing",
+      "clothing"
+    ],
+    "rad_name_ja_search": [
+      "ころも"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:2",
+      "ij:c2",
+      "bk",
+      "bk:44",
+      "bk:c44",
+      "gen",
+      "gen:17",
+      "gen:c17",
+      "ap",
+      "ap:17",
+      "ap:c17",
+      "kll",
+      "kll:23",
+      "kll:c23",
+      "jt",
+      "jt:2",
+      "jt:c2",
+      "mosr",
+      "mosr:14",
+      "mosr:c14"
+    ],
+    "rad_name_file": "koromo",
+    "kanji": {
+      "character": "表",
+      "meaning": {
+        "english": "express, surface, table"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          1.108,
+          2.068,
+          2.872,
+          3.674,
+          5.015,
+          5.818,
+          6.957,
+          7.892,
+          8.643
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hyou-omote_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hyou-omote_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/hyou-omote_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/hyou-omote_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/hyou-omote_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/hyou-omote_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/hyou-omote_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/hyou-omote_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "hyou",
+        "katakana": "ヒョウ"
+      },
+      "kunyomi": {
+        "romaji": "omote, arawa, arawasu, arawareru",
+        "hiragana": "おもて、あらわ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hyou-omote_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hyou-omote_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hyou-omote_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾐",
+      "strokes": 6,
+      "image": "https://media.kanjialive.com/radical_character/koromo.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ころも",
+        "romaji": "koromo"
+      },
+      "meaning": {
+        "english": "clothing"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/koromo0.svg",
+        "https://media.kanjialive.com/rad_frames/koromo1.svg",
+        "https://media.kanjialive.com/rad_frames/koromo2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "1572",
+      "classic_nelson": "108"
+    }
+  },
+  "jishoData": {
+    "query": "表",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "77",
+    "strokeCount": 8,
+    "meaning": "surface, table, chart, diagram",
+    "kunyomi": [
+      "おもて",
+      "-おもて",
+      "あらわ.す",
+      "あらわ.れる",
+      "あら.わす"
+    ],
+    "onyomi": [
+      "ヒョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "表",
+        "reading": "ヒョウ",
+        "meaning": "table, chart, list, memorial to an emperor"
+      },
+      {
+        "example": "表記",
+        "reading": "ヒョウキ",
+        "meaning": "expression in writing, written representation, notation, transcription, orthography, writing on the surface (e.g. an address on an envelope), inscribing on the face"
+      },
+      {
+        "example": "一覧表",
+        "reading": "イチランヒョウ",
+        "meaning": "list, table, schedule, catalogue, catalog"
+      },
+      {
+        "example": "意表",
+        "reading": "イヒョウ",
+        "meaning": "surprise, something unexpected"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "表",
+        "reading": "おもて",
+        "meaning": "surface, face (i.e. the visible side of an object), front (of a building, etc.), obverse side (i.e. \"head\") of a coin, outside, exterior, appearance, public, first half (of an inning), top (of an inning), cover (for tatami mats, etc.), foreground, Omotesenke school of tea ceremony"
+      },
+      {
+        "example": "表裏",
+        "reading": "ひょうり",
+        "meaning": "front and back, inside and outside, two sides, both sides, duplicity, double-dealing, being two-faced"
+      },
+      {
+        "example": "京表",
+        "reading": "きょうおもて",
+        "meaning": "vicinity of Kyoto"
+      },
+      {
+        "example": "中表",
+        "reading": "なかおもて",
+        "meaning": "cloth folded inside out"
+      },
+      {
+        "example": "表す",
+        "reading": "あらわす",
+        "meaning": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"
+      },
+      {
+        "example": "現れる",
+        "reading": "あらわれる",
+        "meaning": "to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)"
+      },
+      {
+        "example": "表す",
+        "reading": "あらわす",
+        "meaning": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "土",
+      "士",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34920_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08868.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8868.gif",
+    "uri": "https://jisho.org/search/%E8%A1%A8%23kanji"
+  }
+}

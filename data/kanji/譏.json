@@ -1,1 +1,58 @@
-{"id":"譏","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"譏","found":true,"strokeCount":19,"meaning":"slander, disparage, censure, criticize","kunyomi":["そし.る"],"onyomi":["キ"],"onyomiExamples":[{"example":"機嫌","reading":"キゲン","meaning":"humour, humor, temper, mood, spirits, safety, health, well-being, one's situation, in a good mood, in high spirits, happy, cheery, merry, chipper"},{"example":"譏笑","reading":"キショウ","meaning":"snicker, snigger, ridiculing laughter"},{"example":"誹毀","reading":"ヒキ","meaning":"defamation, libel, calumny, slander"}],"kunyomiExamples":[{"example":"謗る","reading":"そしる","meaning":"to slander, to libel, to criticize, to criticise"}],"radical":{"symbol":"言","forms":["訁"],"meaning":"speech"},"parts":["ノ","丶","幺","戈","言"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/35663_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b4f.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b4f.gif","uri":"https://jisho.org/search/%E8%AD%8F%23kanji"}}
+{
+  "id": "譏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "譏",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "slander, disparage, censure, criticize",
+    "kunyomi": [
+      "そし.る"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "機嫌",
+        "reading": "キゲン",
+        "meaning": "humour, humor, temper, mood, spirits, safety, health, well-being, one's situation, in a good mood, in high spirits, happy, cheery, merry, chipper"
+      },
+      {
+        "example": "譏笑",
+        "reading": "キショウ",
+        "meaning": "snicker, snigger, ridiculing laughter"
+      },
+      {
+        "example": "誹毀",
+        "reading": "ヒキ",
+        "meaning": "defamation, libel, calumny, slander"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "謗る",
+        "reading": "そしる",
+        "meaning": "to slander, to libel, to criticize, to criticise"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "speech"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "幺",
+      "戈",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35663_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b4f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b4f.gif",
+    "uri": "https://jisho.org/search/%E8%AD%8F%23kanji"
+  }
+}

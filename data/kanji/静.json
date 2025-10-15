@@ -1,1 +1,468 @@
-{"id":"静","kanjialiveData":{"kanji":{"character":"静","meaning":{"english":"quiet"},"strokes":{"count":14,"timings":[0.738,1.473,1.942,2.811,3.615,4.352,5.692,6.361,6.83,7.834,8.638,10.179,11.116,11.854,13.072626],"images":["https://media.kanjialive.com/kanji_strokes/shizu(ka)_1.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_2.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_3.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_4.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_5.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_6.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_7.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_8.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_9.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_10.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_11.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_12.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_13.svg","https://media.kanjialive.com/kanji_strokes/shizu(ka)_14.svg"]},"onyomi":{"romaji":"sei, jou","katakana":"セイ、ジョウ"},"kunyomi":{"romaji":"shizu, shizuka, shizumaru, shizumeru","hiragana":"しず"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/shizu(ka)_14.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/shizu(ka)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/shizu(ka)_00.webm"}},"radical":{"character":"⻘","strokes":8,"image":"https://media.kanjialive.com/radical_character/ao.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"あお","romaji":"ao"},"meaning":{"english":"blue, green"},"animation":["https://media.kanjialive.com/rad_frames/ao0.svg","https://media.kanjialive.com/rad_frames/ao1.svg","https://media.kanjialive.com/rad_frames/ao2.svg"]},"references":{"grade":4,"kodansha":"1138","classic_nelson":"5077"},"examples":[{"japanese":"静寂（せいじゃく）","meaning":{"english":"silence"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_a.mp3"}},{"japanese":"安静（あんせい）","meaning":{"english":"rest [n.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_b.mp3"}},{"japanese":"冷静な（れいせいな）","meaning":{"english":"calm, cool-headed"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_c.mp3"}},{"japanese":"静止する（せいしする）","meaning":{"english":"stand still"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_d.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_d.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_d.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_d.mp3"}},{"japanese":"静聴する（せいちょうする）","meaning":{"english":"listen quietly"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_e.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_e.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_e.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_e.mp3"}},{"japanese":"静脈（じょうみゃく）","meaning":{"english":"vein"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_f.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_f.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_f.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_f.mp3"}},{"japanese":"静かな（しずかな）","meaning":{"english":"quiet"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_g.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_g.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_g.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_g.mp3"}},{"japanese":"静まる（しずまる）","meaning":{"english":"quiet down, calm down [v.i.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_h.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_h.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_h.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_h.mp3"}},{"japanese":"静める（しずめる）","meaning":{"english":"appease, pacify, calm [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_i.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_i.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_i.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_i.mp3"}}]},"jishoData":{"query":"静","found":true,"taughtIn":"grade 4","jlptLevel":"N3","newspaperFrequencyRank":"764","strokeCount":14,"meaning":"quiet","kunyomi":["しず-","しず.か","しず.まる","しず.める"],"onyomi":["セイ","ジョウ"],"onyomiExamples":[{"example":"静","reading":"セイ","meaning":"stillness, quiet, peacefulness"},{"example":"静観","reading":"セイカン","meaning":"watchful waiting, careful supervision"},{"example":"沈静","reading":"チンセイ","meaning":"stillness, tranquility, tranquillity, dullness"},{"example":"寧静","reading":"ネイセイ","meaning":"calmness, peacefulness, tranquility"},{"example":"静脈","reading":"ジョウミャク","meaning":"vein"},{"example":"静注","reading":"ジョウチュウ","meaning":"intravenous injection, IV"},{"example":"寂静","reading":"ジャクジョウ","meaning":"calmness, stillness, tranquility, calmness of the heart, enlightenment"},{"example":"涅槃寂静","reading":"ネハンジャクジョウ","meaning":"enlightenment leads to serenity"}],"kunyomiExamples":[{"example":"静か","reading":"しずか","meaning":"quiet, silent, slow, unhurried, calm, peaceful"},{"example":"静かに","reading":"しずかに","meaning":"calmly, quietly, gently, peacefully, be quiet!"},{"example":"二人静","reading":"ふたりしずか","meaning":"Chloranthus serratus (species of flowering plant)"},{"example":"一人静","reading":"ひとりしずか","meaning":"Chloranthus japonicus"},{"example":"静まる","reading":"しずまる","meaning":"to become quiet, to quiet down, to quieten down, to calm down, to die down, to subside, to abate, to be suppressed"},{"example":"静める","reading":"しずめる","meaning":"to appease, to suppress, to calm"}],"radical":{"symbol":"青","forms":["靑"],"meaning":"blue"},"parts":["ヨ","亅","二","亠","勹","土","月","青"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/38745_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09759.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9759.gif","uri":"https://jisho.org/search/%E9%9D%99%23kanji"}}
+{
+  "id": "静",
+  "kanjialiveData": {
+    "_id": "54317af2791eba5146ee4a92",
+    "_rev": "12-d61f693ac12af906cdbab170752c8191",
+    "rad_name_ja": "あお",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "shizu, shizuka, shizumaru, shizumeru",
+    "meaning": "quiet",
+    "kstroke": 14,
+    "examples": [
+      {
+        "japanese": "静寂（せいじゃく）",
+        "meaning": {
+          "english": "silence"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "安静（あんせい）",
+        "meaning": {
+          "english": "rest [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "冷静な（れいせいな）",
+        "meaning": {
+          "english": "calm, cool-headed"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "静止する（せいしする）",
+        "meaning": {
+          "english": "stand still"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "静聴する（せいちょうする）",
+        "meaning": {
+          "english": "listen quietly"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "静脈（じょうみゃく）",
+        "meaning": {
+          "english": "vein"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "静かな（しずかな）",
+        "meaning": {
+          "english": "quiet"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "静まる（しずまる）",
+        "meaning": {
+          "english": "quiet down, calm down [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "静める（しずめる）",
+        "meaning": {
+          "english": "appease, pacify, calm [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shizu(ka)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shizu(ka)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shizu(ka)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shizu(ka)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "しず、しずか、しずまる、しずめる",
+    "ka_utf": "静",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=静",
+    "kname": "shizu(ka)",
+    "rad_order": 212,
+    "txt_books": [
+      {
+        "chapter": "4",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "26",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "jt"
+      }
+    ],
+    "rad_name_search": [
+      "ao"
+    ],
+    "rad_utf": "⻘",
+    "stroketimes": [
+      0.738,
+      1.473,
+      1.942,
+      2.811,
+      3.615,
+      4.352,
+      5.692,
+      6.361,
+      6.83,
+      7.834,
+      8.638,
+      10.179,
+      11.116,
+      11.854,
+      13.072626
+    ],
+    "kunyomi_ka_display": "しず",
+    "dick": "1138",
+    "rad_name": "ao",
+    "dicn": "5077",
+    "mn_hint": "When young 青 children quarrel 争, father shouts \"quiet!\"",
+    "rad_stroke": 8,
+    "onyomi_ja": "セイ、ジョウ",
+    "rad_meaning": "blue, green",
+    "onyomi": "sei, jou",
+    "ka_id": "ka_458",
+    "onyomi_search": [
+      "sei",
+      "jou",
+      "sei, jou"
+    ],
+    "kunyomi_search": [
+      "shizu",
+      "shizuka",
+      "shizumaru",
+      "shizumeru",
+      "shizu, shizuka, shizumaru, shizumeru"
+    ],
+    "meaning_search": [
+      "quiet",
+      "quiet"
+    ],
+    "onyomi_ja_search": [
+      "セイ",
+      "ジョウ",
+      "セイ、ジョウ"
+    ],
+    "kunyomi_ja_search": [
+      "しず",
+      "しずか",
+      "しずまる",
+      "しずめる",
+      "しず、しずか、しずまる、しずめる"
+    ],
+    "rad_meaning_search": [
+      "blue",
+      "green",
+      "blue, green"
+    ],
+    "rad_name_ja_search": [
+      "あお"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:4",
+      "ij:c4",
+      "mos",
+      "mos:9",
+      "mos:c9",
+      "bk",
+      "bk:14",
+      "bk:c14",
+      "aij3",
+      "aij3:6",
+      "aij3:c6",
+      "aij3:v4",
+      "aij3:v4:6",
+      "aij3:v4:c6",
+      "ap",
+      "ap:11",
+      "ap:c11",
+      "kll",
+      "kll:26",
+      "kll:c26",
+      "jt",
+      "jt:7",
+      "jt:c7"
+    ],
+    "rad_name_file": "ao",
+    "kanji": {
+      "character": "静",
+      "meaning": {
+        "english": "quiet"
+      },
+      "strokes": {
+        "count": 14,
+        "timings": [
+          0.738,
+          1.473,
+          1.942,
+          2.811,
+          3.615,
+          4.352,
+          5.692,
+          6.361,
+          6.83,
+          7.834,
+          8.638,
+          10.179,
+          11.116,
+          11.854,
+          13.072626
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/shizu(ka)_14.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sei, jou",
+        "katakana": "セイ、ジョウ"
+      },
+      "kunyomi": {
+        "romaji": "shizu, shizuka, shizumaru, shizumeru",
+        "hiragana": "しず"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/shizu(ka)_14.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shizu(ka)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/shizu(ka)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⻘",
+      "strokes": 8,
+      "image": "https://media.kanjialive.com/radical_character/ao.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "あお",
+        "romaji": "ao"
+      },
+      "meaning": {
+        "english": "blue, green"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ao0.svg",
+        "https://media.kanjialive.com/rad_frames/ao1.svg",
+        "https://media.kanjialive.com/rad_frames/ao2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "1138",
+      "classic_nelson": "5077"
+    }
+  },
+  "jishoData": {
+    "query": "静",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "764",
+    "strokeCount": 14,
+    "meaning": "quiet",
+    "kunyomi": [
+      "しず-",
+      "しず.か",
+      "しず.まる",
+      "しず.める"
+    ],
+    "onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "静",
+        "reading": "セイ",
+        "meaning": "stillness, quiet, peacefulness"
+      },
+      {
+        "example": "静観",
+        "reading": "セイカン",
+        "meaning": "watchful waiting, careful supervision"
+      },
+      {
+        "example": "沈静",
+        "reading": "チンセイ",
+        "meaning": "settling down, quieting down, cooling down, cooling off, stillness, quiet, tranquility"
+      },
+      {
+        "example": "寧静",
+        "reading": "ネイセイ",
+        "meaning": "calm, peace, tranquility"
+      },
+      {
+        "example": "静脈",
+        "reading": "ジョウミャク",
+        "meaning": "vein"
+      },
+      {
+        "example": "静注",
+        "reading": "ジョウチュウ",
+        "meaning": "intravenous injection, IV"
+      },
+      {
+        "example": "寂静",
+        "reading": "ジャクジョウ",
+        "meaning": "quiet, stillness, tranquility, enlightenment, nirvana"
+      },
+      {
+        "example": "涅槃寂静",
+        "reading": "ネハンジャクジョウ",
+        "meaning": "enlightenment leads to serenity"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "静か",
+        "reading": "しずか",
+        "meaning": "quiet, silent, slow, unhurried, calm, peaceful"
+      },
+      {
+        "example": "静かに",
+        "reading": "しずかに",
+        "meaning": "calmly, quietly, gently, peacefully, be quiet!"
+      },
+      {
+        "example": "二人静",
+        "reading": "ふたりしずか",
+        "meaning": "Chloranthus serratus (species of flowering plant)"
+      },
+      {
+        "example": "一人静",
+        "reading": "ひとりしずか",
+        "meaning": "Chloranthus japonicus"
+      },
+      {
+        "example": "静まる",
+        "reading": "しずまる",
+        "meaning": "to become quiet, to quiet down, to quieten down, to calm down, to die down, to subside, to abate, to be suppressed"
+      },
+      {
+        "example": "静める",
+        "reading": "しずめる",
+        "meaning": "to quiet (a child, crowd, etc.), to quieten, to make quiet, to calm (one's nerves, excitement, etc.), to compose (oneself), to appease (someone's anger), to pacify, to settle (e.g. discord), to suppress (a rebellion, riot, fire, etc.), to quell, to put down, to get under control, to relieve (a cough, pain, etc.), to soothe, to alleviate, to ease, to appease (a spirit, soul, etc.), to pacify, to soothe"
+      }
+    ],
+    "radical": {
+      "symbol": "青",
+      "forms": [
+        "靑"
+      ],
+      "meaning": "blue"
+    },
+    "parts": [
+      "ヨ",
+      "亅",
+      "二",
+      "亠",
+      "勹",
+      "土",
+      "月",
+      "青"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38745_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09759.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9759.gif",
+    "uri": "https://jisho.org/search/%E9%9D%99%23kanji"
+  }
+}

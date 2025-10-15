@@ -1,1 +1,311 @@
-{"id":"希","kanjialiveData":{"kanji":{"character":"希","meaning":{"english":"hope, aspire"},"strokes":{"count":7,"timings":[0.773,1.34,2.278,3.417,4.489,5.359,6.968,7.910615],"images":["https://media.kanjialive.com/kanji_strokes/ki(bou)_1.svg","https://media.kanjialive.com/kanji_strokes/ki(bou)_2.svg","https://media.kanjialive.com/kanji_strokes/ki(bou)_3.svg","https://media.kanjialive.com/kanji_strokes/ki(bou)_4.svg","https://media.kanjialive.com/kanji_strokes/ki(bou)_5.svg","https://media.kanjialive.com/kanji_strokes/ki(bou)_6.svg","https://media.kanjialive.com/kanji_strokes/ki(bou)_7.svg"]},"onyomi":{"romaji":"ki","katakana":"キ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/ki(bou)_7.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/ki(bou)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/ki(bou)_00.webm"}},"radical":{"character":"⼱","strokes":3,"image":"https://media.kanjialive.com/radical_character/haba.svg","position":{"hiragana":"","romaji":"","icon":""},"name":{"hiragana":"はば","romaji":"haba"},"meaning":{"english":"cloth"},"animation":["https://media.kanjialive.com/rad_frames/haba0.svg","https://media.kanjialive.com/rad_frames/haba1.svg","https://media.kanjialive.com/rad_frames/haba2.svg"]},"references":{"grade":4,"kodansha":"1294","classic_nelson":"1470"},"examples":[{"japanese":"希望する（きぼうする）","meaning":{"english":"hope [v.t.]"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ki(bou)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ki(bou)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ki(bou)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ki(bou)_06_a.mp3"}},{"japanese":"希求する（ききゅうする）","meaning":{"english":"aspire to, seek"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ki(bou)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ki(bou)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ki(bou)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ki(bou)_06_b.mp3"}},{"japanese":"希望者（きぼうしゃ）","meaning":{"english":"candidate, a hopeful"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/ki(bou)_06_c.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/ki(bou)_06_c.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/ki(bou)_06_c.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/ki(bou)_06_c.mp3"}}]},"jishoData":{"query":"希","found":true,"taughtIn":"grade 4","jlptLevel":"N2","newspaperFrequencyRank":"896","strokeCount":7,"meaning":"hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal","kunyomi":["まれ","こいねが.う"],"onyomi":["キ","ケ"],"onyomiExamples":[{"example":"希","reading":"キ","meaning":"dilute, rare"},{"example":"希少","reading":"キショウ","meaning":"scarce, rare"},{"example":"古希","reading":"コキ","meaning":"70th birthday, ancient Greek (language)"},{"example":"七十古希","reading":"シチジュウコキ","meaning":"men seldom live to be seventy, few people live to be seventy"},{"example":"希有","reading":"ケウ","meaning":"rare, uncommon"}],"kunyomiExamples":[{"example":"稀","reading":"まれ","meaning":"rare, seldom"},{"example":"類稀","reading":"たぐいまれ","meaning":"rare, exceptional, extraordinary, unique, incomparable, unparalleled, matchless"},{"example":"ごく稀","reading":"ごくまれ","meaning":"extremely rare"},{"example":"希う","reading":"こいねがう","meaning":"to beg, to request, to beseech, to implore, to entreat"}],"radical":{"symbol":"巾","meaning":"turban, scarf"},"parts":["ノ","一","巾"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24076_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e0c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e0c.gif","uri":"https://jisho.org/search/%E5%B8%8C%23kanji"}}
+{
+  "id": "希",
+  "kanjialiveData": {
+    "_id": "54317aef791eba5146ee4a4e",
+    "_rev": "13-17e8b68db1f2c9aaa7c70c79368795d7",
+    "rad_name_ja": "はば",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "hope, aspire",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "希望する（きぼうする）",
+        "meaning": {
+          "english": "hope [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bou)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki(bou)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki(bou)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki(bou)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "希求する（ききゅうする）",
+        "meaning": {
+          "english": "aspire to, seek"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bou)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki(bou)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki(bou)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki(bou)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "希望者（きぼうしゃ）",
+        "meaning": {
+          "english": "candidate, a hopeful"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(bou)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki(bou)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki(bou)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki(bou)_06_c.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "希",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=希",
+    "kname": "ki(bou)",
+    "rad_order": 59,
+    "txt_books": [
+      {
+        "chapter": "2",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "jtr"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jt"
+      }
+    ],
+    "rad_name_search": [
+      "haba"
+    ],
+    "rad_utf": "⼱",
+    "stroketimes": [
+      0.773,
+      1.34,
+      2.278,
+      3.417,
+      4.489,
+      5.359,
+      6.968,
+      7.910615
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1294",
+    "rad_name": "haba",
+    "dicn": "1470",
+    "mn_hint": "Hand メ placing ribbon 布 on the door in hopes of loved one's return.",
+    "rad_stroke": 3,
+    "onyomi_ja": "キ",
+    "rad_meaning": "cloth",
+    "onyomi": "ki",
+    "ka_id": "ka_397",
+    "onyomi_search": [
+      "ki",
+      "ki"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "hope",
+      "aspire",
+      "hope, aspire"
+    ],
+    "onyomi_ja_search": [
+      "キ",
+      "キ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "cloth",
+      "cloth"
+    ],
+    "rad_name_ja_search": [
+      "はば"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:2",
+      "ij:c2",
+      "mos",
+      "mos:14",
+      "mos:c14",
+      "ik1",
+      "ik1:8",
+      "ik1:c8",
+      "jtr",
+      "jtr:9",
+      "jtr:c9",
+      "jt",
+      "jt:15",
+      "jt:c15"
+    ],
+    "rad_name_file": "haba",
+    "kanji": {
+      "character": "希",
+      "meaning": {
+        "english": "hope, aspire"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0.773,
+          1.34,
+          2.278,
+          3.417,
+          4.489,
+          5.359,
+          6.968,
+          7.910615
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ki(bou)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(bou)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(bou)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(bou)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(bou)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(bou)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki(bou)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ki",
+        "katakana": "キ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ki(bou)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ki(bou)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ki(bou)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼱",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/haba.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "はば",
+        "romaji": "haba"
+      },
+      "meaning": {
+        "english": "cloth"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/haba0.svg",
+        "https://media.kanjialive.com/rad_frames/haba1.svg",
+        "https://media.kanjialive.com/rad_frames/haba2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "1294",
+      "classic_nelson": "1470"
+    }
+  },
+  "jishoData": {
+    "query": "希",
+    "found": true,
+    "taughtIn": "grade 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "896",
+    "strokeCount": 7,
+    "meaning": "hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",
+    "kunyomi": [
+      "まれ",
+      "こいねが.う"
+    ],
+    "onyomi": [
+      "キ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "希",
+        "reading": "キ",
+        "meaning": "dilute, rare, Greece"
+      },
+      {
+        "example": "希少",
+        "reading": "キショウ",
+        "meaning": "scarce, rare"
+      },
+      {
+        "example": "古希",
+        "reading": "コキ",
+        "meaning": "70th birthday, ancient Greek (language)"
+      },
+      {
+        "example": "七十古希",
+        "reading": "シチジュウコキ",
+        "meaning": "men seldom live to be seventy, few people live to be seventy"
+      },
+      {
+        "example": "希有",
+        "reading": "ケウ",
+        "meaning": "rare, uncommon"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "稀",
+        "reading": "まれ",
+        "meaning": "rare, seldom"
+      },
+      {
+        "example": "稀に見る",
+        "reading": "まれにみる",
+        "meaning": "rare, extraordinary, singular"
+      },
+      {
+        "example": "類まれ",
+        "reading": "たぐいまれ",
+        "meaning": "rare, exceptional, extraordinary, unique, incomparable, unparalleled, matchless"
+      },
+      {
+        "example": "ごく稀",
+        "reading": "ごくまれ",
+        "meaning": "extremely rare"
+      },
+      {
+        "example": "希う",
+        "reading": "こいねがう",
+        "meaning": "to beg, to request, to beseech, to implore, to entreat"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "turban, scarf"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "巾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24076_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e0c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e0c.gif",
+    "uri": "https://jisho.org/search/%E5%B8%8C%23kanji"
+  }
+}

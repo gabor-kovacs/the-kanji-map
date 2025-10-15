@@ -1,1 +1,46 @@
-{"id":"溲","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"溲","found":true,"strokeCount":13,"meaning":"urine","kunyomi":["いばり","ひた.す"],"onyomi":["シュ","シュウ","ソウ"],"onyomiExamples":[{"example":"尿瓶","reading":"シビン","meaning":"urine bottle, (urinary) bedpan, chamber pot (esp. medical), urinal"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["十","又","支","日","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28338_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eb2.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eb2.gif","uri":"https://jisho.org/search/%E6%BA%B2%23kanji"}}
+{
+  "id": "溲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溲",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "urine",
+    "kunyomi": [
+      "いばり",
+      "ひた.す"
+    ],
+    "onyomi": [
+      "シュ",
+      "シュウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尿瓶",
+        "reading": "シビン",
+        "meaning": "urine bottle, (urinary) bedpan, chamber pot (esp. medical), urinal"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "十",
+      "又",
+      "支",
+      "日",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28338_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eb2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eb2.gif",
+    "uri": "https://jisho.org/search/%E6%BA%B2%23kanji"
+  }
+}

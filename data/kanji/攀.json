@@ -1,1 +1,59 @@
-{"id":"攀","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"攀","found":true,"strokeCount":19,"meaning":"climb, scale","kunyomi":["よ.じる"],"onyomi":["ハン"],"onyomiExamples":[{"example":"攀縁","reading":"ハンエン","meaning":"climbing"},{"example":"攀縁茎","reading":"ハンエンケイ","meaning":"climbing stem"},{"example":"登攀","reading":"トウハン","meaning":"scaling, climbing, ascending"}],"kunyomiExamples":[{"example":"攀じる","reading":"よじる","meaning":"to clamber (up), to scale"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["ハ","一","大","手","木","爻"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25856_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06500.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6500.gif","uri":"https://jisho.org/search/%E6%94%80%23kanji"}}
+{
+  "id": "攀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "攀",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "climb, scale",
+    "kunyomi": [
+      "よ.じる"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "攀縁",
+        "reading": "ハンエン",
+        "meaning": "climbing"
+      },
+      {
+        "example": "攀縁茎",
+        "reading": "ハンエンケイ",
+        "meaning": "climbing stem"
+      },
+      {
+        "example": "登攀",
+        "reading": "トウハン",
+        "meaning": "scaling, climbing, ascending"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "攀じる",
+        "reading": "よじる",
+        "meaning": "to clamber up, to climb up"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "大",
+      "手",
+      "木",
+      "爻"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25856_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06500.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6500.gif",
+    "uri": "https://jisho.org/search/%E6%94%80%23kanji"
+  }
+}

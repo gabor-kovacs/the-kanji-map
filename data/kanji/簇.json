@@ -1,1 +1,84 @@
-{"id":"簇","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"簇","found":true,"strokeCount":17,"meaning":"group, crowd, swarm","kunyomi":["むら.がる"],"onyomi":["ゾク","ソウ","ソク"],"onyomiExamples":[{"example":"蔟","reading":"マブシ","meaning":"cocoon holders"},{"example":"簇出","reading":"ソウシュツ","meaning":"springing up (in clusters), mushrooming"},{"example":"大簇","reading":"タイソウ","meaning":"(in China) 3rd note of the ancient chromatic scale (approx. E), first lunar month"},{"example":"集簇","reading":"シュウゾク","meaning":"aggregation, accumulation"},{"example":"簇出","reading":"ソウシュツ","meaning":"springing up (in clusters), mushrooming"},{"example":"叢生","reading":"ソウセイ","meaning":"dense growth, thick growth, gregarious growth, growing in clusters"},{"example":"大簇","reading":"タイソウ","meaning":"(in China) 3rd note of the ancient chromatic scale (approx. E), first lunar month"},{"example":"簇々","reading":"ソウソウ","meaning":"gathering, swarming"}],"kunyomiExamples":[{"example":"群がる","reading":"むらがる","meaning":"to swarm, to gather"}],"radical":{"symbol":"竹","forms":["⺮"],"meaning":"bamboo"},"parts":["乞","方","矢","竹"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/31751_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c07.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c07.gif","uri":"https://jisho.org/search/%E7%B0%87%23kanji"}}
+{
+  "id": "簇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "簇",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "group, crowd, swarm",
+    "kunyomi": [
+      "むら.がる"
+    ],
+    "onyomi": [
+      "ゾク",
+      "ソウ",
+      "ソク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蔟",
+        "reading": "マブシ",
+        "meaning": "cocoon holders"
+      },
+      {
+        "example": "簇出",
+        "reading": "ソウシュツ",
+        "meaning": "springing up (in clusters), mushrooming"
+      },
+      {
+        "example": "大簇",
+        "reading": "タイソウ",
+        "meaning": "(in China) 3rd note of the ancient chromatic scale (approx. E), first lunar month"
+      },
+      {
+        "example": "集簇",
+        "reading": "シュウゾク",
+        "meaning": "aggregation, accumulation"
+      },
+      {
+        "example": "簇出",
+        "reading": "ソウシュツ",
+        "meaning": "springing up (in clusters), mushrooming"
+      },
+      {
+        "example": "叢生",
+        "reading": "ソウセイ",
+        "meaning": "dense growth, thick growth, gregarious growth, growing in clusters"
+      },
+      {
+        "example": "大簇",
+        "reading": "タイソウ",
+        "meaning": "(in China) 3rd note of the ancient chromatic scale (approx. E), first lunar month"
+      },
+      {
+        "example": "簇々",
+        "reading": "ソウソウ",
+        "meaning": "gathering, swarming"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "群がる",
+        "reading": "むらがる",
+        "meaning": "to swarm, to gather"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "bamboo"
+    },
+    "parts": [
+      "乞",
+      "方",
+      "矢",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31751_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c07.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c07.gif",
+    "uri": "https://jisho.org/search/%E7%B0%87%23kanji"
+  }
+}

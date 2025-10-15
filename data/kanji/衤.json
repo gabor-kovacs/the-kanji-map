@@ -1,1 +1,28 @@
-{"id":"衤","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"衤","found":true,"strokeCount":5,"meaning":"clothes, clothing radical (no. 145","kunyomi":["ころも"],"onyomi":[],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"衣","forms":["衤"],"meaning":"clothes"},"parts":[],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34916_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08864.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8864.gif","uri":"https://jisho.org/search/%E8%A1%A4%23kanji"}}
+{
+  "id": "衤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衤",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "clothes, clothing radical (no. 145",
+    "kunyomi": [
+      "ころも"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "clothes"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34916_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08864.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8864.gif",
+    "uri": "https://jisho.org/search/%E8%A1%A4%23kanji"
+  }
+}

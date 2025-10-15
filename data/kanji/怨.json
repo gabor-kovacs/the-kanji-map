@@ -1,1 +1,98 @@
-{"id":"怨","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"怨","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2137","strokeCount":9,"meaning":"grudge, show resentment, be jealous","kunyomi":["うら.む","うらみ","うら.めしい"],"onyomi":["エン","オン","ウン"],"onyomiExamples":[{"example":"恨み言","reading":"ウラミゴト","meaning":"grudge, complaint, reproach"},{"example":"怨恨","reading":"エンコン","meaning":"enmity, grudge"},{"example":"旧怨","reading":"キュウエン","meaning":"old grudge"},{"example":"宿怨","reading":"シュクエン","meaning":"old grudge, old score"},{"example":"怨霊","reading":"オンリョウ","meaning":"revengeful ghost, apparition"},{"example":"怨念","reading":"オンネン","meaning":"deep-seated grudge, hatred"}],"kunyomiExamples":[{"example":"恨む","reading":"うらむ","meaning":"to bear a grudge against, to resent, to blame, to curse, to feel bitter towards"},{"example":"恨み","reading":"うらみ","meaning":"resentment, grudge, malice, bitterness, matter for regret, regret"},{"example":"恨み言","reading":"うらみごと","meaning":"grudge, complaint, reproach"},{"example":"恨めしい","reading":"うらめしい","meaning":"reproachful, hateful, bitter"}],"radical":{"symbol":"心","forms":["忄","⺗"],"meaning":"heart"},"parts":["卩","夕","心"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/24616_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06028.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6028.gif","uri":"https://jisho.org/search/%E6%80%A8%23kanji"}}
+{
+  "id": "怨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "怨",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2137",
+    "strokeCount": 9,
+    "meaning": "grudge, show resentment, be jealous",
+    "kunyomi": [
+      "うら.む",
+      "うらみ",
+      "うら.めしい"
+    ],
+    "onyomi": [
+      "エン",
+      "オン",
+      "ウン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "怨言",
+        "reading": "エンゲン",
+        "meaning": "grudge, complaint, reproach"
+      },
+      {
+        "example": "怨恨",
+        "reading": "エンコン",
+        "meaning": "enmity, grudge"
+      },
+      {
+        "example": "旧怨",
+        "reading": "キュウエン",
+        "meaning": "old grudge"
+      },
+      {
+        "example": "宿怨",
+        "reading": "シュクエン",
+        "meaning": "old grudge, old score"
+      },
+      {
+        "example": "怨霊",
+        "reading": "オンリョウ",
+        "meaning": "revengeful ghost, apparition"
+      },
+      {
+        "example": "怨念",
+        "reading": "オンネン",
+        "meaning": "deep-seated grudge, hatred"
+      },
+      {
+        "example": "呪怨",
+        "reading": "ジュウオン",
+        "meaning": "Ju-on, The Grudge (Japanese horror movie)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恨む",
+        "reading": "うらむ",
+        "meaning": "to bear a grudge against, to resent, to blame, to curse, to feel bitter towards"
+      },
+      {
+        "example": "恨み",
+        "reading": "うらみ",
+        "meaning": "resentment, grudge, malice, bitterness, matter for regret, regret"
+      },
+      {
+        "example": "恨み言",
+        "reading": "うらみごと",
+        "meaning": "grudge, complaint, reproach"
+      },
+      {
+        "example": "恨めしい",
+        "reading": "うらめしい",
+        "meaning": "reproachful, hateful, bitter"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "heart"
+    },
+    "parts": [
+      "卩",
+      "夕",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24616_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06028.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6028.gif",
+    "uri": "https://jisho.org/search/%E6%80%A8%23kanji"
+  }
+}

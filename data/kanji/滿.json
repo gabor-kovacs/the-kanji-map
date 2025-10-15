@@ -1,1 +1,52 @@
-{"id":"滿","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"滿","found":true,"strokeCount":14,"meaning":"fill, full, satisfied","kunyomi":["み.ちる","み.つ","み.たす"],"onyomi":["マン","バン"],"onyomiExamples":[{"example":"満足","reading":"マンゾク","meaning":"satisfaction, contentment, gratification, sufficient, satisfactory, enough, adequate, proper, decent, satisfying (an equation)"}],"kunyomiExamples":[],"radical":{"symbol":"水","forms":["氵","氺"],"meaning":"water"},"parts":["一","人","入","冂","凵","汁"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/28415_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eff.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eff.gif","uri":"https://jisho.org/search/%E6%BB%BF%23kanji"}}
+{
+  "id": "滿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滿",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "fill, full, satisfied",
+    "kunyomi": [
+      "み.ちる",
+      "み.つ",
+      "み.たす"
+    ],
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "満足",
+        "reading": "マンゾク",
+        "meaning": "satisfaction, contentment, gratification, sufficient, satisfactory, enough, adequate, proper, decent, satisfying (an equation)"
+      },
+      {
+        "example": "満州国",
+        "reading": "マンシュウコク",
+        "meaning": "Manchukuo (Japanese Manchurian puppet state; 1932-1945)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "water"
+    },
+    "parts": [
+      "一",
+      "人",
+      "入",
+      "冂",
+      "凵",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28415_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eff.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eff.gif",
+    "uri": "https://jisho.org/search/%E6%BB%BF%23kanji"
+  }
+}

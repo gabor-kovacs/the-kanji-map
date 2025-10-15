@@ -1,1 +1,31 @@
-{"id":"嬬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"嬬","found":true,"strokeCount":17,"meaning":"mistress, weak","kunyomi":["よわ.い"],"onyomi":["ジュ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"女","meaning":"woman, female"},"parts":["女","而","雨"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23340_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b2c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b2c.gif","uri":"https://jisho.org/search/%E5%AC%AC%23kanji"}}
+{
+  "id": "嬬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嬬",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "mistress, weak",
+    "kunyomi": [
+      "よわ.い"
+    ],
+    "onyomi": [
+      "ジュ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "woman, female"
+    },
+    "parts": [
+      "女",
+      "而",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23340_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b2c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b2c.gif",
+    "uri": "https://jisho.org/search/%E5%AC%AC%23kanji"
+  }
+}

@@ -1,1 +1,65 @@
-{"id":"疣","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"疣","found":true,"strokeCount":9,"meaning":"wart","kunyomi":["いぼ"],"onyomi":["ユ","ユウ"],"onyomiExamples":[{"example":"疣贅","reading":"ユウゼイ","meaning":"wart, verruca"},{"example":"疣贅","reading":"ユウゼイ","meaning":"wart, verruca"}],"kunyomiExamples":[{"example":"疣","reading":"いぼ","meaning":"wart"},{"example":"疣足","reading":"いぼあし","meaning":"parapodium"},{"example":"水いぼ","reading":"みずいぼ","meaning":"water warts, molluscum contagiosum, viral infection of the skin"},{"example":"糸疣","reading":"いといぼ","meaning":"spinneret (of a spider)"}],"radical":{"symbol":"疒","meaning":"sickness"},"parts":["丶","尢","尤","疔"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/30115_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075a3.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75a3.gif","uri":"https://jisho.org/search/%E7%96%A3%23kanji"}}
+{
+  "id": "疣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "疣",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "wart",
+    "kunyomi": [
+      "いぼ"
+    ],
+    "onyomi": [
+      "ユ",
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "疣贅",
+        "reading": "ユウゼイ",
+        "meaning": "wart, verruca"
+      },
+      {
+        "example": "疣贅",
+        "reading": "ユウゼイ",
+        "meaning": "wart, verruca"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "疣",
+        "reading": "いぼ",
+        "meaning": "wart"
+      },
+      {
+        "example": "疣足",
+        "reading": "いぼあし",
+        "meaning": "parapodium"
+      },
+      {
+        "example": "水いぼ",
+        "reading": "みずいぼ",
+        "meaning": "water warts, molluscum contagiosum, viral infection of the skin"
+      },
+      {
+        "example": "糸疣",
+        "reading": "いといぼ",
+        "meaning": "spinneret (of a spider)"
+      }
+    ],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "sickness"
+    },
+    "parts": [
+      "丶",
+      "尢",
+      "尤",
+      "疔"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30115_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075a3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75a3.gif",
+    "uri": "https://jisho.org/search/%E7%96%A3%23kanji"
+  }
+}

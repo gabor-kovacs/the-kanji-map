@@ -1,1 +1,35 @@
-{"id":"鱆","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鱆","found":true,"strokeCount":22,"meaning":"octopus","kunyomi":["たこ"],"onyomi":["ショウ"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"魚","meaning":"fish"},"parts":["十","日","杰","田","立","音","魚"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40006_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c46.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c46.gif","uri":"https://jisho.org/search/%E9%B1%86%23kanji"}}
+{
+  "id": "鱆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鱆",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "octopus",
+    "kunyomi": [
+      "たこ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "fish"
+    },
+    "parts": [
+      "十",
+      "日",
+      "杰",
+      "田",
+      "立",
+      "音",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40006_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c46.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c46.gif",
+    "uri": "https://jisho.org/search/%E9%B1%86%23kanji"
+  }
+}

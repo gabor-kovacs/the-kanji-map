@@ -1,1 +1,47 @@
-{"id":"蚌","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"蚌","found":true,"strokeCount":10,"meaning":"clam","kunyomi":["はまぐり","どぶが.い"],"onyomi":["ボウ","ホウ","ビョウ"],"onyomiExamples":[{"example":"鷸蚌","reading":"イツボウ","meaning":"a snipe and a clam, a snipe and a mussel"}],"kunyomiExamples":[{"example":"蛤","reading":"はまぐり","meaning":"common orient clam (Meretrix lusoria)"}],"radical":{"symbol":"虫","meaning":"insect"},"parts":["一","二","虫","｜"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/34444_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0868c.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/868c.gif","uri":"https://jisho.org/search/%E8%9A%8C%23kanji"}}
+{
+  "id": "蚌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蚌",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "clam",
+    "kunyomi": [
+      "はまぐり",
+      "どぶが.い"
+    ],
+    "onyomi": [
+      "ボウ",
+      "ホウ",
+      "ビョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鷸蚌",
+        "reading": "イツボウ",
+        "meaning": "a snipe and a clam, a snipe and a mussel"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蛤",
+        "reading": "はまぐり",
+        "meaning": "common orient clam (Meretrix lusoria)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "insect"
+    },
+    "parts": [
+      "一",
+      "二",
+      "虫",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34444_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0868c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/868c.gif",
+    "uri": "https://jisho.org/search/%E8%9A%8C%23kanji"
+  }
+}

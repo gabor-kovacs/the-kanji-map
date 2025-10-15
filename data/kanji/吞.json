@@ -1,0 +1,45 @@
+{
+  "id": "吞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吞",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "swallow, absorb, annex, engulf",
+    "kunyomi": [
+      "のむ"
+    ],
+    "onyomi": [
+      "ドン",
+      "トン",
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呑酸",
+        "reading": "ドンサン",
+        "meaning": "acid reflux, heart-burn"
+      },
+      {
+        "example": "呑舟",
+        "reading": "ドンシュウ",
+        "meaning": "swallowing a boat whole"
+      },
+      {
+        "example": "併呑",
+        "reading": "ヘイドン",
+        "meaning": "annexation, absorption, merger, swallowing up"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "mouth, opening"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21534_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0541e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/541e.gif",
+    "uri": "https://jisho.org/search/%E5%90%9E%23kanji"
+  }
+}

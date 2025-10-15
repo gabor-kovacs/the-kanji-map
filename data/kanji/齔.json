@@ -1,1 +1,35 @@
-{"id":"齔","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"齔","found":true,"strokeCount":17,"meaning":"losing baby teeth, child","kunyomi":["かけば"],"onyomi":["シン","ソン","トン"],"onyomiExamples":[],"kunyomiExamples":[],"radical":{"symbol":"齒","meaning":"tooth, molar"},"parts":["凵","匕","止","歯","米"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/40788_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f54.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f54.gif","uri":"https://jisho.org/search/%E9%BD%94%23kanji"}}
+{
+  "id": "齔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齔",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "losing baby teeth, child",
+    "kunyomi": [
+      "かけば"
+    ],
+    "onyomi": [
+      "シン",
+      "ソン",
+      "トン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "齒",
+      "meaning": "tooth, molar"
+    },
+    "parts": [
+      "凵",
+      "匕",
+      "止",
+      "歯",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40788_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f54.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f54.gif",
+    "uri": "https://jisho.org/search/%E9%BD%94%23kanji"
+  }
+}

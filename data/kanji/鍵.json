@@ -1,1 +1,78 @@
-{"id":"鍵","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"鍵","found":true,"taughtIn":"junior high","newspaperFrequencyRank":"2029","strokeCount":17,"meaning":"key","kunyomi":["かぎ"],"onyomi":["ケン"],"onyomiExamples":[{"example":"鍵","reading":"ケン","meaning":"key (of a piano, etc.)"},{"example":"鍵盤","reading":"ケンバン","meaning":"keyboard (piano, computer, etc.)"},{"example":"打鍵","reading":"ダケン","meaning":"keystroke"},{"example":"黒鍵","reading":"コッケン","meaning":"black key (on a piano, organ, etc.)"}],"kunyomiExamples":[{"example":"鍵","reading":"かぎ","meaning":"key, lock, key (to a problem), clue"},{"example":"鍵垢","reading":"かぎアカ","meaning":"private account (on social media, esp. Twitter), account that can only be viewed by approved followers"},{"example":"公開鍵","reading":"こうかいかぎ","meaning":"public key"},{"example":"暗号鍵","reading":"あんごうかぎ","meaning":"cryptographic key, encryption key"}],"radical":{"symbol":"金","forms":["釒"],"meaning":"metal, gold"},"parts":["廴","聿","金"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/37749_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09375.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9375.gif","uri":"https://jisho.org/search/%E9%8D%B5%23kanji"}}
+{
+  "id": "鍵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鍵",
+    "found": true,
+    "taughtIn": "junior high",
+    "newspaperFrequencyRank": "2029",
+    "strokeCount": 17,
+    "meaning": "key",
+    "kunyomi": [
+      "かぎ"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鍵",
+        "reading": "ケン",
+        "meaning": "key (on a piano, organ, etc.)"
+      },
+      {
+        "example": "鍵盤",
+        "reading": "ケンバン",
+        "meaning": "keyboard (of a piano, typewriter, etc.)"
+      },
+      {
+        "example": "打鍵",
+        "reading": "ダケン",
+        "meaning": "keystroke"
+      },
+      {
+        "example": "黒鍵",
+        "reading": "コッケン",
+        "meaning": "black key (on a piano, organ, etc.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鍵",
+        "reading": "かぎ",
+        "meaning": "key, lock, key (to a problem, success, etc.), clue"
+      },
+      {
+        "example": "鍵垢",
+        "reading": "かぎアカ",
+        "meaning": "private account (on social media, esp. Twitter), account that can only be viewed by approved followers"
+      },
+      {
+        "example": "公開鍵",
+        "reading": "こうかいかぎ",
+        "meaning": "public key"
+      },
+      {
+        "example": "暗号鍵",
+        "reading": "あんごうかぎ",
+        "meaning": "cryptographic key, encryption key"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "metal, gold"
+    },
+    "parts": [
+      "廴",
+      "聿",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37749_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09375.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9375.gif",
+    "uri": "https://jisho.org/search/%E9%8D%B5%23kanji"
+  }
+}

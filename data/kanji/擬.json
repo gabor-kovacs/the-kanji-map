@@ -1,1 +1,78 @@
-{"id":"擬","kanjialiveData":{"error":"No kanji found."},"jishoData":{"query":"擬","found":true,"taughtIn":"junior high","jlptLevel":"N1","newspaperFrequencyRank":"1990","strokeCount":17,"meaning":"mimic, aim (a gun) at, nominate, imitate","kunyomi":["まが.い","もど.き"],"onyomi":["ギ"],"onyomiExamples":[{"example":"擬","reading":"ギ","meaning":"pseudo-, quasi-"},{"example":"疑似","reading":"ギジ","meaning":"pseudo, quasi, false, para-, mock, sham, suspected (case, e.g. of disease)"}],"kunyomiExamples":[{"example":"紛い","reading":"まがい","meaning":"imitation, sham, -like"},{"example":"紛い物","reading":"まがいもの","meaning":"imitation, fake, sham"},{"example":"擬き","reading":"もどき","meaning":"-like, pseudo-, mock ..., imitation ..., in the style of ..., comical character who mocks or apes the main character (in Japanese performing arts), criticism, censure"},{"example":"銀竜草擬","reading":"ぎんりょうそうもどき","meaning":"Indian pipe (Monotropa uniflora)"},{"example":"太平洋赤坊擬","reading":"たいへいようあかぼうもどき","meaning":"Longman's beaked whale (Indopacetus pacificus), Indo-Pacific beaked whale, tropical bottlenose whale"}],"radical":{"symbol":"手","forms":["扌龵"],"meaning":"hand"},"parts":["マ","乞","匕","扎","疋","矢"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/25836_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ec.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ec.gif","uri":"https://jisho.org/search/%E6%93%AC%23kanji"}}
+{
+  "id": "擬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擬",
+    "found": true,
+    "taughtIn": "junior high",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1990",
+    "strokeCount": 17,
+    "meaning": "mimic, aim (a gun) at, nominate, imitate",
+    "kunyomi": [
+      "まが.い",
+      "もど.き"
+    ],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "擬",
+        "reading": "ギ",
+        "meaning": "pseudo-, quasi-"
+      },
+      {
+        "example": "疑似",
+        "reading": "ギジ",
+        "meaning": "pseudo, quasi, false, para-, mock, sham, suspected (case, e.g. of disease)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "紛い",
+        "reading": "まがい",
+        "meaning": "imitation, sham, -like"
+      },
+      {
+        "example": "紛い物",
+        "reading": "まがいもの",
+        "meaning": "imitation, fake, sham"
+      },
+      {
+        "example": "擬き",
+        "reading": "もどき",
+        "meaning": "-like, pseudo-, mock ..., imitation ..., in the style of ..., comical character who mocks or apes the main character (in Japanese performing arts), criticism, censure"
+      },
+      {
+        "example": "銀竜草擬",
+        "reading": "ぎんりょうそうもどき",
+        "meaning": "Indian pipe (Monotropa uniflora)"
+      },
+      {
+        "example": "太平洋赤坊擬",
+        "reading": "たいへいようあかぼうもどき",
+        "meaning": "Longman's beaked whale (Indopacetus pacificus), Indo-Pacific beaked whale, tropical bottlenose whale"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "hand"
+    },
+    "parts": [
+      "マ",
+      "乞",
+      "匕",
+      "扎",
+      "疋",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25836_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ec.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ec.gif",
+    "uri": "https://jisho.org/search/%E6%93%AC%23kanji"
+  }
+}

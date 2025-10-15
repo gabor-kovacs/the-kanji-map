@@ -1,1 +1,222 @@
-{"id":"宇","kanjialiveData":{"kanji":{"character":"宇","meaning":{"english":"universe"},"strokes":{"count":6,"timings":[0,1.133333,2.066667,3.533333,4.6,5.866667,10.133333],"images":["https://media.kanjialive.com/kanji_strokes/u(jicha)_1.svg","https://media.kanjialive.com/kanji_strokes/u(jicha)_2.svg","https://media.kanjialive.com/kanji_strokes/u(jicha)_3.svg","https://media.kanjialive.com/kanji_strokes/u(jicha)_4.svg","https://media.kanjialive.com/kanji_strokes/u(jicha)_5.svg","https://media.kanjialive.com/kanji_strokes/u(jicha)_6.svg"]},"onyomi":{"romaji":"u","katakana":"ウ"},"kunyomi":{"romaji":"n/a","hiragana":"n/a"},"video":{"poster":"https://media.kanjialive.com/kanji_strokes/u(jicha)_6.svg","mp4":"https://media.kanjialive.com/kanji_animations/kanji_mp4/u(jicha)_00.mp4","webm":"https://media.kanjialive.com/kanji_animations/kanji_webm/u(jicha)_00.webm"}},"radical":{"character":"⼧","strokes":3,"image":"https://media.kanjialive.com/radical_character/ukanmuri.svg","position":{"hiragana":"かんむり","romaji":"kanmuri","icon":"https://media.kanjialive.com/rad_positions/kanmuri.svg"},"name":{"hiragana":"うかんむり","romaji":"ukanmuri"},"meaning":{"english":"roof, house"},"animation":["https://media.kanjialive.com/rad_frames/ukanmuri0.svg","https://media.kanjialive.com/rad_frames/ukanmuri1.svg","https://media.kanjialive.com/rad_frames/ukanmuri2.svg"]},"references":{"grade":6,"kodansha":"1377","classic_nelson":"1280"},"examples":[{"japanese":"宇宙（うちゅう）","meaning":{"english":"universe, cosmos, space"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/u(jicha)_06_a.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/u(jicha)_06_a.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/u(jicha)_06_a.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/u(jicha)_06_a.mp3"}},{"japanese":"宇内（うだい）","meaning":{"english":"the whole world"},"audio":{"opus":"https://media.kanjialive.com/examples_audio/audio-opus/u(jicha)_06_b.opus","aac":"https://media.kanjialive.com/examples_audio/audio-aac/u(jicha)_06_b.aac","ogg":"https://media.kanjialive.com/examples_audio/audio-ogg/u(jicha)_06_b.ogg","mp3":"https://media.kanjialive.com/examples_audio/audio-mp3/u(jicha)_06_b.mp3"}}]},"jishoData":{"query":"宇","found":true,"taughtIn":"grade 6","jlptLevel":"N2","newspaperFrequencyRank":"883","strokeCount":6,"meaning":"eaves, roof, house, heaven","kunyomi":[],"onyomi":["ウ"],"onyomiExamples":[{"example":"宇","reading":"ウ","meaning":"counter for buildings, roofs, tents, etc., Ukraine"},{"example":"宇宙","reading":"ウチュウ","meaning":"universe, cosmos, space"},{"example":"航宇","reading":"コウウ","meaning":"aerospace"},{"example":"堂宇","reading":"ドウウ","meaning":"edifice, temple, hall"}],"kunyomiExamples":[],"radical":{"symbol":"宀","meaning":"roof"},"parts":["亅","宀","干"],"strokeOrderDiagramUri":"http://classic.jisho.org/static/images/stroke_diagrams/23431_frames.png","strokeOrderSvgUri":"https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b87.svg","strokeOrderGifUri":"https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b87.gif","uri":"https://jisho.org/search/%E5%AE%87%23kanji"}}
+{
+  "id": "宇",
+  "kanjialiveData": {
+    "_id": "54317ad2791eba5146ee483e",
+    "_rev": "9-f05f844b190ce323f5503f507c908da1",
+    "rad_name_ja": "うかんむり",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "n/a",
+    "meaning": "universe",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "宇宙（うちゅう）",
+        "meaning": {
+          "english": "universe, cosmos, space"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(jicha)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/u(jicha)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/u(jicha)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/u(jicha)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "宇内（うだい）",
+        "meaning": {
+          "english": "the whole world"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(jicha)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/u(jicha)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/u(jicha)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/u(jicha)_06_b.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "宇",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=宇",
+    "rad_name_search": [
+      "ukanmuri"
+    ],
+    "rad_order": 48,
+    "txt_books": [],
+    "kname": "u(jicha)",
+    "rad_utf": "⼧",
+    "stroketimes": [
+      0,
+      1.133333,
+      2.066667,
+      3.533333,
+      4.6,
+      5.866667,
+      10.133333
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "1377",
+    "rad_name": "ukanmuri",
+    "dicn": "1280",
+    "mn_hint": "Skies 宀 <span class='note'>(orig. \"roof\")</span> with celestial bodies moving according to trajectory directions 于.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ウ",
+    "rad_meaning": "roof, house",
+    "onyomi": "u",
+    "ka_id": "ka_1032",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "u",
+      "u"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "universe",
+      "universe"
+    ],
+    "onyomi_ja_search": [
+      "ウ",
+      "ウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "roof",
+      "house",
+      "roof, house"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "うかんむり"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "ukanmuri",
+    "kanji": {
+      "character": "宇",
+      "meaning": {
+        "english": "universe"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          1.133333,
+          2.066667,
+          3.533333,
+          4.6,
+          5.866667,
+          10.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/u(jicha)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/u(jicha)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/u(jicha)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/u(jicha)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/u(jicha)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/u(jicha)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "u",
+        "katakana": "ウ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/u(jicha)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/u(jicha)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/u(jicha)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼧",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/ukanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "うかんむり",
+        "romaji": "ukanmuri"
+      },
+      "meaning": {
+        "english": "roof, house"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/ukanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/ukanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1377",
+      "classic_nelson": "1280"
+    }
+  },
+  "jishoData": {
+    "query": "宇",
+    "found": true,
+    "taughtIn": "grade 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "883",
+    "strokeCount": 6,
+    "meaning": "eaves, roof, house, heaven",
+    "kunyomi": [],
+    "onyomi": [
+      "ウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "【ウ】",
+        "reading": "Ukraine",
+        "meaning": ""
+      },
+      {
+        "example": "宇",
+        "reading": "ウ",
+        "meaning": "counter for buildings, roofs, tents, etc."
+      },
+      {
+        "example": "大宇",
+        "reading": "ダイウ",
+        "meaning": "Daewoo (car company)"
+      },
+      {
+        "example": "航宇",
+        "reading": "コウウ",
+        "meaning": "aerospace"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "roof"
+    },
+    "parts": [
+      "亅",
+      "宀",
+      "干"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23431_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b87.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b87.gif",
+    "uri": "https://jisho.org/search/%E5%AE%87%23kanji"
+  }
+}
