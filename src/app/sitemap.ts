@@ -1,3 +1,5 @@
+export const dynamic = "force-static";
+
 import { getAllKanji } from "@/lib";
 import { MetadataRoute } from "next";
 
