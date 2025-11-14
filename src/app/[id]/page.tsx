@@ -4,6 +4,8 @@ import { Metadata } from "next";
 import { KanjiPageContent } from "./inner";
 import { Header } from "@/components/header";
 
+export const dynamic = "force-static";
+
 export async function generateMetadata({
   params,
 }: {

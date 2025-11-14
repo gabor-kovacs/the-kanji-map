@@ -8,6 +8,7 @@
     "turbo": "next dev --turbo",
     "build": "next build",
     "start": "next start",
+    "serve": "npx serve@latest out",
     "lint": "next lint"
   },
   "dependencies": {

@@ -55,7 +55,7 @@ export function KanjiPageContent({
             },
             {
               id: 1,
-              label: "例",
+              label: "部首",
               content: (
                 <div className="p-4">
                   <Radical kanjiInfo={kanjiInfo} />
@@ -64,7 +64,7 @@ export function KanjiPageContent({
             },
             {
               id: 2,
-              label: "部首",
+              label: "例",
               content: (
                 <ScrollArea className="size-full">
                   <Examples kanjiInfo={kanjiInfo} />

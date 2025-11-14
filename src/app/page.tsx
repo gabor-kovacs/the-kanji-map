@@ -25,12 +25,12 @@ export default function Home() {
             },
             {
               id: 1,
-              label: "例",
+              label: "部首",
               content: <div />,
             },
             {
               id: 2,
-              label: "部首",
+              label: "例",
               content: <div />,
             },
             {
