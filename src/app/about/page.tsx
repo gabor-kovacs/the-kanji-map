@@ -23,37 +23,6 @@ const About = () => {
               kanji information and decomposition in graph form.
             </p>
             <h1 className="text-3xl font-extrabold tracking-tight mt-8 mb-4">
-              Giving Back
-            </h1>
-            <a
-              href="https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <Image
-                alt="Donate"
-                width={74}
-                height={21}
-                src={"/btn_donate_SM.gif"}
-              />
-            </a>
-            <p>
-              If this project was useful for you and you would like to
-              contribute back, you can always{" "}
-              <a
-                href="https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E"
-                target="_blank"
-                rel="noreferrer"
-                className="text-primary inline-block hover:underline"
-              >
-                Donate!
-              </a>
-            </p>
-            <p>
-              Donations are used to pay for hosting, maintenance costs and
-              improvements.
-            </p>
-            <h1 className="text-3xl font-extrabold tracking-tight mt-8 mb-4">
               How to use this site
             </h1>
             <p>
@@ -259,20 +228,44 @@ const About = () => {
                 github.com/gabor-kovacs/the-kanji-map
               </a>
             </p>
+            <h1 className="text-3xl font-extrabold tracking-tight mt-8 mb-4">
+              Donations
+            </h1>
+            <a
+              href="https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <Image
+                alt="Donate"
+                width={74}
+                height={21}
+                src={"/btn_donate_SM.gif"}
+              />
+            </a>
+            <p>
+              If this project was useful for you and you would like to
+              contribute back, you can always{" "}
+              <a
+                href="https://www.paypal.com/donate?hosted_button_id=U867B8RRZUN7E"
+                target="_blank"
+                rel="noreferrer"
+                className="text-primary inline-block hover:underline"
+              >
+                Donate!
+              </a>
+            </p>
+            <p>
+              Donations are used to pay for hosting, maintenance costs and
+              improvements.
+            </p>
             <h1 className="text-3xl font-extrabold tracking-tight mt-8 mb-8">
               Copyright
             </h1>
             <p>
-              ©The Kanji Map 2017-{new Date().getFullYear()} by{" "}
-              <a
-                target="_blank"
-                href="https://drgaborkovacs.com/index_en.html"
-                rel="noreferrer"
-                className="text-primary inline-block hover:underline"
-              >
-                Gabor Kovacs
-              </a>{" "}
-              - released under the MIT license.
+              The Kanji Map is an open-source project (2017-
+              {new Date().getFullYear()}) maintained under the MIT license. Feel
+              free to fork, contribute, or share it with other learners.
             </p>
           </div>
         </ScrollArea>
