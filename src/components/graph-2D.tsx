@@ -149,7 +149,19 @@ const Graph2D: React.FC<Props> = ({
       graphData={data}
       nodeLabel={(n) => {
         const node = n as NodeObjectWithData;
-        return `${node.data.jishoData?.kunyomi}<br/>${node.data.jishoData?.meaning}`;
+        if (!node.data || !node.data.jishoData) {
+          return "";
+        }
+        const kunyomi = node.data.jishoData?.kunyomi;
+        const meaning = node.data.jishoData?.meaning;
+        // Don't show tooltip if both kunyomi and meaning are empty
+        if (
+          (!kunyomi || kunyomi.length === 0) &&
+          (!meaning || meaning === "")
+        ) {
+          return "";
+        }
+        return `${kunyomi || ""}<br/>${meaning || ""}`;
       }}
       warmupTicks={10}
       onNodeClick={handleClick}

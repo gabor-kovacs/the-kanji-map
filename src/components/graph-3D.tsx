@@ -237,10 +237,22 @@ const Graph3D = ({
       onNodeHover={handleHover}
       nodeLabel={(n) => {
         const node = n as NodeObjectWithData;
+        if (!node.data || !node.data.jishoData) {
+          return "";
+        }
+        const kunyomi = node.data.jishoData?.kunyomi;
+        const meaning = node.data.jishoData?.meaning;
+        // Don't show tooltip if both kunyomi and meaning are empty
+        if (
+          (!kunyomi || kunyomi.length === 0) &&
+          (!meaning || meaning === "")
+        ) {
+          return "";
+        }
         return `<div style="color: #ffffff; background: #000000a6; padding: 4px; border-radius: 4px;">
-                  <span>${node.data.jishoData?.kunyomi}</span>
+                  <span>${kunyomi || ""}</span>
                   <br/>
-                  <span>${node.data.jishoData?.meaning}</span>
+                  <span>${meaning || ""}</span>
                 </div>
                `;
       }}

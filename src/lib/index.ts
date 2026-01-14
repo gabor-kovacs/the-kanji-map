@@ -27,7 +27,8 @@ export const getKanjiDataLocal: (
 ) => Promise<KanjiInfo | null> = async (id) => {
   const normalizedId = id.trim();
 
-  if (normalizedId.length !== 1) {
+  // Use Array.from to properly count characters (handles surrogate pairs)
+  if (Array.from(normalizedId).length !== 1) {
     return null;
   }
 
@@ -64,11 +65,13 @@ const SVG_DIRECTORY_LIST = [
 export const getStrokeAnimation = async (id: string) => {
   const normalizedId = id.trim();
 
-  if (normalizedId.length !== 1) {
+  // Use Array.from to properly count characters (handles surrogate pairs)
+  if (Array.from(normalizedId).length !== 1) {
     return null;
   }
 
-  const fileName = `${normalizedId.charCodeAt(0)}.svg`;
+  // Use codePointAt for proper Unicode handling (charCodeAt only returns high surrogate)
+  const fileName = `${normalizedId.codePointAt(0)}.svg`;
   const cwd = process.cwd();
 
   for (const directory of SVG_DIRECTORY_LIST) {
