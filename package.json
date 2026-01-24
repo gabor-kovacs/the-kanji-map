@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "serve": "npx serve@latest out",
-    "lint": "next lint"
+    "lint": "eslint ."
   },
   "dependencies": {
     "@juggle/resize-observer": "^3.4.0",
@@ -68,5 +68,10 @@
   },
   "engines": {
     "node": ">=20"
+  },
+  "overrides": {
+    "react-force-graph-3d": {
+      "three": "0.181.2"
+    }
   }
 }

@@ -1,4 +1,5 @@
 "use client";
+
 import * as React from "react";
 import RadicalImages from "./radical-images";
 import radicallist from "../../data/radicallist.json";
@@ -154,6 +155,7 @@ export const Radical: React.FC<Props> = ({ kanjiInfo }) => {
                   {alt.posName && (
                     <>
                       <span>(</span>
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
                         alt={`alt radical position ${alt.posName}`}
                         src={`/radical-positions/${alt.posName}.svg`}
