@@ -47,6 +47,7 @@
     "tailwind-merge": "^3.4.0",
     "tailwindcss": "^4.1.17",
     "tailwindcss-animate": "^1.0.7",
+    "three": "0.181.2",
     "three-spritetext": "^1.10.0",
     "zustand": "^5.0.9"
   },
@@ -70,8 +71,6 @@
     "node": ">=20"
   },
   "overrides": {
-    "react-force-graph-3d": {
-      "three": "0.181.2"
-    }
+    "three": "0.181.2"
   }
 }
