@@ -29,9 +29,27 @@ export function KanjiPageContent({
   React.useEffect(() => {
     setIsMounted(true);
   }, []);
+
+  // Render placeholder with same structure to prevent layout shift
   if (!isMounted) {
-    // Render a placeholder or nothing on the server and initial client render
-    return null; // or a loading indicator if appropriate
+    return (
+      <>
+        {/* Mobile placeholder */}
+        <div className="w-full grow md:hidden overflow-hidden" />
+        {/* Desktop placeholder */}
+        <div className="w-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] overflow-hidden">
+          <div className="top grid grid-cols-[252px_1.5fr_1fr] overflow-hidden border-b border-lighter">
+            <div className="flex flex-col items-center gap-2 mt-3" />
+            <div className="p-4 border-l" />
+            <div className="p-4 border-l" />
+          </div>
+          <div className="bottom grid grid-cols-[2fr_3fr] overflow-hidden">
+            <div />
+            <div className="border-l" />
+          </div>
+        </div>
+      </>
+    );
   }
 
   if (isMobile) {
@@ -95,7 +113,7 @@ export function KanjiPageContent({
     );
   } else {
     return (
-      <div className="size-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] overflow-hidden">
+      <div className="w-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] overflow-hidden">
         <div className="top grid grid-cols-[252px_1.5fr_1fr] overflow-hidden border-b border-lighter">
           <div className="flex flex-col items-center gap-2 mt-3">
             <SearchInput searchPlaceholder="Search..." />

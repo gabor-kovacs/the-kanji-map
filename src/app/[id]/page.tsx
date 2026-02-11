@@ -37,7 +37,7 @@ export default async function KanjiPage({
   const strokeAnimation = await getStrokeAnimation(id);
 
   return (
-    <div className="size-full ">
+    <div className="size-full flex flex-col">
       <Header className="w-full" />
       {kanjiInfo && (
         <KanjiPageContent
