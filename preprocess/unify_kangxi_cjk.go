@@ -26,26 +26,41 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"runtime"
 
 	eqi "github.com/mochi-co/equivalent-unified-ideograph"
 )
 
 func main() {
-	// Roots to process (relative to this file's directory):
-	//   - ../../data      (project data folder)
-	//   - ..              (entire preprocess folder)
-	roots := []string{"../../data", ".."}
+	// Resolve paths from this source file location so behavior is stable
+	// regardless of current working directory.
+	_, srcFile, _, ok := runtime.Caller(0)
+	if !ok {
+		log.Fatal("unable to determine script location")
+	}
+	preprocessDir := filepath.Dir(srcFile)
+	projectRoot := filepath.Clean(filepath.Join(preprocessDir, ".."))
+	dataDir := filepath.Join(projectRoot, "data")
+
+	roots := []string{dataDir}
+	skipDirs := map[string]bool{
+		".git":         true,
+		"node_modules": true,
+		".next":        true,
+		"out":          true,
+	}
 
 	var filesProcessed, filesChanged int
 
 	for _, root := range roots {
-		// Resolve to absolute path based on CWD
-		r := root
-		err := filepath.WalkDir(r, func(path string, d os.DirEntry, err error) error {
+		err := filepath.WalkDir(root, func(path string, d os.DirEntry, err error) error {
 			if err != nil {
 				return err
 			}
 			if d.IsDir() {
+				if skipDirs[d.Name()] {
+					return filepath.SkipDir
+				}
 				return nil
 			}
 			// Read file
@@ -75,7 +90,7 @@ func main() {
 			return nil
 		})
 		if err != nil {
-			log.Printf("walk %s: %v", r, err)
+			log.Printf("walk %s: %v", root, err)
 		}
 	}
 

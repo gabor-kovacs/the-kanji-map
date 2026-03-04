@@ -10,13 +10,19 @@
     "onyomi": [
       "ヒョウ"
     ],
-    "onyomiExamples": [],
+    "onyomiExamples": [
+      {
+        "example": "剽悍",
+        "reading": "ヒョウカン",
+        "meaning": "fierce, daring, savage, intrepid"
+      }
+    ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "心",
       "forms": [
         "忄",
-        "⺗"
+        "心"
       ],
       "meaning": "heart"
     },

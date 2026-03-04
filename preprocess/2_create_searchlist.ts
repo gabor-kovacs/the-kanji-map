@@ -1,10 +1,13 @@
 // * Create array to store every possible kanji
 import { joyoList } from "./joyo";
 import { jinmeiyoList } from "./jinmeiyo";
-import * as composition from "../data/composition.json";
-import JishoAPI from "unofficial-jisho-api";
+import composition from "../data/composition.json";
 import * as fs from "fs";
 import * as path from "path";
+import { createRequire } from "module";
+
+const require = createRequire(import.meta.url);
+const JishoAPI = require("unofficial-jisho-api");
 
 const jisho = new JishoAPI();
 
@@ -13,7 +16,13 @@ interface KanjiInfo {
   r: string; // Reading (Kunyomi)
   m: string; // Meaning
   g: number; // Group
+  j: "N5" | "N4" | "N3" | "N2" | "N1" | null; // JLPT level
+  s: number | null; // Stroke count
 }
+
+const VALID_JLPT_LEVELS = new Set(["N5", "N4", "N3", "N2", "N1"]);
+const isSearchableEntry = (id: string): boolean =>
+  id !== "default" && !id.startsWith("CDP-");
 
 // Helper function to sleep
 const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -91,11 +100,21 @@ const processBatch = async (
       batch.map(async ([kanji, _]) => {
         const info = await getKanjiInfoWithRetry(kanji);
         const group = getGroup(kanji);
+        const jlptLevel =
+          typeof info?.jlptLevel === "string" &&
+          VALID_JLPT_LEVELS.has(info.jlptLevel)
+            ? info.jlptLevel
+            : null;
+        const strokeCount =
+          typeof info?.strokeCount === "number" ? info.strokeCount : null;
+
         return {
           k: kanji,
           r: info?.kunyomi ? info.kunyomi.join(", ") : "",
           m: info?.meaning ?? "",
           g: group,
+          j: jlptLevel,
+          s: strokeCount,
         };
       })
     );
@@ -112,7 +131,9 @@ const processBatch = async (
 };
 
 (async () => {
-  const entries = Object.entries(composition);
+  const entries = Object.entries(composition).filter(([id]) =>
+    isSearchableEntry(id)
+  );
   console.log(`🚀 Starting to process ${entries.length} kanji...`);
   console.log(`Using batch size: 20 (processing 20 kanji in parallel)`);
 

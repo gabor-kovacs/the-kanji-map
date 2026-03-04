@@ -11,7 +11,13 @@
     ],
     "onyomi": [],
     "onyomiExamples": [],
-    "kunyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "狭間",
+        "reading": "はざま",
+        "meaning": "interval, space, interstice, threshold, valley, gorge, ravine, loophole (in a wall), crenel, eyelet, diagonal gap, move played in a diagonal gap, space between two stones diagonally apart"
+      }
+    ],
     "radical": {
       "symbol": "石",
       "meaning": "stone"

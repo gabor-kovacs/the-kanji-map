@@ -3,16 +3,21 @@
 import fs from "fs";
 import path from "path";
 import searchlist from "../data/searchlist.json";
-import JishoAPI from "unofficial-jisho-api";
 import * as dotenv from "dotenv";
+import { createRequire } from "module";
 
 dotenv.config();
 
+const require = createRequire(import.meta.url);
+const JishoAPI = require("unofficial-jisho-api");
 const jisho = new JishoAPI();
 
 // Sleep function to introduce delays between API requests
 const sleep = (waitTimeInMs: number): Promise<void> =>
   new Promise((resolve) => setTimeout(resolve, waitTimeInMs));
+
+const truncate = (value: string, maxLength = 200): string =>
+  value.length > maxLength ? `${value.slice(0, maxLength)}...` : value;
 
 // Interface for the Kanji data response
 interface KanjiData {
@@ -21,23 +26,49 @@ interface KanjiData {
   jishoData: any | null;
 }
 
+interface FailedKanji {
+  id: string;
+  reason: string;
+}
+
 // Fetch all Kanjialive data in one request
 const fetchAllKanjialiveData = async (): Promise<Map<string, any>> => {
   console.log("🚀 Fetching all Kanjialive data (6MB)...");
+  const rapidApiKey = process.env.KANJIALIVE_API_KEY?.trim();
+  if (!rapidApiKey) {
+    throw new Error(
+      "KANJIALIVE_API_KEY is missing. Aborting because Kanjialive is required."
+    );
+  }
+
   const kanjialiveUrl =
     "https://kanjialive-api.p.rapidapi.com/api/public/kanji/all";
   const options = {
     method: "GET",
     headers: {
-      "x-rapidapi-key": `${process.env.KANJIALIVE_API_KEY}`,
+      "x-rapidapi-key": rapidApiKey,
       "x-rapidapi-host": "kanjialive-api.p.rapidapi.com",
+      accept: "application/json",
+      "user-agent": "the-kanji-map-preprocess/1.0",
     },
   };
 
   try {
     const res = await fetch(kanjialiveUrl, options);
     if (!res.ok) {
-      throw new Error(`HTTP error! Status: ${res.status}`);
+      const responseText = truncate(await res.text().catch(() => ""));
+      if (res.status === 403) {
+        throw new Error(
+          `Kanjialive responded with HTTP 403. Verify your RapidAPI key, active Kanjialive subscription, and monthly quota.${
+            responseText ? ` Response: ${responseText}` : ""
+          }`
+        );
+      }
+      throw new Error(
+        `Failed to fetch Kanjialive data. HTTP ${res.status} ${res.statusText}${
+          responseText ? ` Response: ${responseText}` : ""
+        }`
+      );
     }
     const data = await res.json();
     console.log(`✓ Fetched Kanjialive data for ${data.length} kanji`);
@@ -51,8 +82,8 @@ const fetchAllKanjialiveData = async (): Promise<Map<string, any>> => {
     }
     return kanjiMap;
   } catch (error) {
-    console.error("✗ Failed to fetch Kanjialive data:", error);
-    return new Map();
+    const message = error instanceof Error ? error.message : String(error);
+    throw new Error(`Failed to fetch Kanjialive data: ${message}`);
   }
 };
 
@@ -104,9 +135,10 @@ const processBatch = async (
   kanjiList: string[],
   kanjialiveMap: Map<string, any>,
   batchSize = 15
-): Promise<void> => {
+): Promise<FailedKanji[]> => {
   const totalBatches = Math.ceil(kanjiList.length / batchSize);
   const dataDir = path.join(__dirname, "..", "data", "kanji");
+  const failures: FailedKanji[] = [];
 
   // Ensure the kanji directory exists
   if (!fs.existsSync(dataDir)) {
@@ -123,34 +155,48 @@ const processBatch = async (
       )}/${kanjiList.length})`
     );
 
-    const batchResults = await Promise.all(
+    await Promise.all(
       batch.map(async (kanji) => {
-        const jishoData = await getJishoDataWithRetry(kanji);
-        const kanjialiveData = kanjialiveMap.get(kanji) || null;
+        try {
+          const jishoData = await getJishoDataWithRetry(kanji);
+          const kanjialiveData = kanjialiveMap.get(kanji) || null;
 
-        const result: KanjiData = {
-          id: kanji,
-          kanjialiveData,
-          jishoData,
-        };
+          const result: KanjiData = {
+            id: kanji,
+            kanjialiveData,
+            jishoData,
+          };
 
-        // Write the data to JSON file
-        fs.writeFileSync(
-          path.join(dataDir, `${kanji}.json`),
-          JSON.stringify(result, null, 2),
-          "utf-8"
-        );
+          // Write the data to JSON file
+          fs.writeFileSync(
+            path.join(dataDir, `${kanji}.json`),
+            JSON.stringify(result, null, 2),
+            "utf-8"
+          );
 
-        console.log(`✓ Written data for ${kanji}`);
-        return result;
+          console.log(`✓ Written data for ${kanji}`);
+        } catch (error) {
+          const reason =
+            error instanceof Error ? error.message : String(error);
+          failures.push({ id: kanji, reason });
+          console.error(`✗ Failed for ${kanji}: ${reason}`);
+        }
       })
     );
+
+    if (failures.length > 0) {
+      console.log(
+        `⚠ Batch ${batchNum} completed with ${failures.length} total failure(s) so far`
+      );
+    }
 
     // Small delay between batches to be respectful to Jisho API
     if (i + batchSize < kanjiList.length) {
       await sleep(200);
     }
   }
+
+  return failures;
 };
 
 // Extract the kanji list from searchlist data
@@ -166,12 +212,35 @@ const main = async (): Promise<void> => {
   // Step 2: Process Jisho data in batches
   console.log("\n🚀 Starting batch processing with Jisho API...");
   console.log("Using batch size: 15 (processing 15 kanji in parallel)\n");
-  await processBatch(kanjilist, kanjialiveMap, 15);
+  const failures = await processBatch(kanjilist, kanjialiveMap, 15);
+  if (failures.length > 0) {
+    const failedPath = path.join(__dirname, "..", "data", "failed-kanji.json");
+    fs.writeFileSync(failedPath, JSON.stringify(failures, null, 2), "utf-8");
+    throw new Error(
+      `Completed with ${failures.length} failed kanji. See data/failed-kanji.json for details.`
+    );
+  }
 
   console.log("\n✅ All done!");
 };
 
 // Execute the main function
-main().then(() => {
-  console.log("Process complete!");
+main()
+  .then(() => {
+    console.log("Process complete!");
+  })
+  .catch((error) => {
+    const message = error instanceof Error ? error.message : String(error);
+    console.error(`\n❌ Process terminated: ${message}`);
+    process.exit(1);
+  });
+
+process.on("unhandledRejection", (reason) => {
+  console.error("\n❌ Unhandled promise rejection:", reason);
+  process.exit(1);
+});
+
+process.on("uncaughtException", (error) => {
+  console.error("\n❌ Uncaught exception:", error);
+  process.exit(1);
 });

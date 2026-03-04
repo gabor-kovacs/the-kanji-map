@@ -11,7 +11,7 @@ or [thekanjimap.netlify.app](https://thekanjimap.netlify.app) (backup)
 ## Changelog
 
 - **2025-10-15 – Version 6.0.0**
-  - Added Go script updates to keep Kangxi/CJK compatibility radicals consistent (thanks to [mochi-co/equivalent-unified-ideograph](https://github.com/mochi-co/equivalent-unified-ideograph)), avoiding issues like 忄 vs. ⺖ being mixed.
+  - Added Go script updates to keep Kangxi/CJK compatibility radicals consistent (thanks to [mochi-co/equivalent-unified-ideograph](https://github.com/mochi-co/equivalent-unified-ideograph)), avoiding issues like 忄 vs. 忄 being mixed.
   - Reworked the data composition pipeline; radical alternative forms now link back to the original form.
   - Updated the kanji dataset.
   - Fixed a bug where kanji without stroke animations were not displayed.

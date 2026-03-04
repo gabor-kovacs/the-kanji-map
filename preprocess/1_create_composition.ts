@@ -73,6 +73,9 @@ interface KanjiGraph {
   out: string[];
 }
 
+const isExcludedElement = (element: string): boolean =>
+  element === "default" || element.startsWith("CDP-");
+
 // Check if an element is an IDS (Ideographic Description Sequence) notation
 const isIDSNotation = (element: string): boolean => {
   return (
@@ -261,16 +264,22 @@ parser
     // Step 4: Build the final database, excluding elements with no in-links AND no out-links
     console.log("Building final database...");
     const db: Record<string, KanjiGraph> = {};
+    const includedElements = new Set(
+      Array.from(allElements).filter((element) => !isExcludedElement(element))
+    );
 
-    allElements.forEach((element) => {
+    includedElements.forEach((element) => {
       let inList = Array.from(inNodes[element]);
-      const outList = Array.from(outNodes[element]);
+      let outList = Array.from(outNodes[element]);
 
       // If this element is a radical, override its in-nodes to only include its original (if any)
       if (radicalsSet.has(element)) {
         const original = radicalOriginalMap.get(element);
         inList = original ? [original] : [];
       }
+
+      inList = inList.filter((node) => includedElements.has(node));
+      outList = outList.filter((node) => includedElements.has(node));
 
       // Only include elements that have at least one in-link OR out-link
       if (inList.length > 0 || outList.length > 0) {

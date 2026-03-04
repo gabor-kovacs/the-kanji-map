@@ -13,14 +13,20 @@
     "onyomi": [
       "カ"
     ],
-    "onyomiExamples": [],
+    "onyomiExamples": [
+      {
+        "example": "遐齢",
+        "reading": "カレイ",
+        "meaning": "longevity, long life"
+      }
+    ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "辵",
       "forms": [
         "辶",
-        "⻌",
-        "⻍"
+        "辶",
+        "辶"
       ],
       "meaning": "walk"
     },

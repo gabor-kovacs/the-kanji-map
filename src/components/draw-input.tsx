@@ -45,7 +45,7 @@ export const DrawInput: React.FC = () => {
       const can = new Handwriting.Canvas(
         canvasRef.current,
         // document.getElementById("handInput"),
-        resolvedTheme as "dark" | "light"
+        resolvedTheme as "dark" | "light",
       );
       setCanvas(can);
     }
@@ -78,7 +78,7 @@ export const DrawInput: React.FC = () => {
           aria-label="Clear canvas"
           variant="destructive"
           size="icon"
-          className="w-8 h-8 shrink-0"
+          className="size-8 shrink-0"
           onClick={eraseKanji}
         >
           <CircleXIcon className="w-4 h-4" />
@@ -87,7 +87,7 @@ export const DrawInput: React.FC = () => {
           <Link
             key={index}
             href={`/${suggestion}`}
-            className={cn(buttonVariants({ variant: "ghost" }), "w-8 h-8")}
+            className={cn(buttonVariants({ variant: "ghost" }), "size-8")}
             onClick={eraseKanji}
           >
             {suggestion}
@@ -96,7 +96,7 @@ export const DrawInput: React.FC = () => {
         <Button
           variant="default"
           size="icon"
-          className="w-8 h-8 shrink-0"
+          className="size-8 shrink-0"
           aria-label="Recognize"
           onClick={recognizeKanji}
         >

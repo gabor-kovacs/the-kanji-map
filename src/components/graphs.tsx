@@ -1,7 +1,5 @@
 "use client";
-import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Toggle } from "@/components/ui/toggle";
-import { cn } from "@/lib/utils";
+import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
 import { ResizeObserver } from "@juggle/resize-observer";
 import {
   ArrowUpFromDotIcon,
@@ -22,6 +20,7 @@ import {
   rotateAtom,
   styleAtom,
 } from "@/lib/store";
+import { GraphLegend } from "./graph-legend";
 
 const Graph2DNoSSR = dynamic(() => import("./graph-2D"), {
   ssr: false,
@@ -48,17 +47,24 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   const [outLinks, setOutLinks] = useAtom(outLinksAtom);
   const [particles, setParticles] = useAtom(particlesAtom);
 
-  const handleRotateChange = (value: boolean) => {
-    setRotate(value);
+  const handleStyleChange = (values: string[]) => {
+    const nextStyle = values[0];
+    if (nextStyle === "2D" || nextStyle === "3D") {
+      setStyle(nextStyle);
+    }
   };
-  const handleStyleChange = (value: string) => {
-    setStyle(value as "3D" | "2D");
-  };
-  const handleOutLinksChange = (value: boolean) => {
-    setOutLinks(value);
-  };
-  const handleParticlesChange = (value: boolean) => {
-    setParticles(value);
+  const activeControls = React.useMemo(() => {
+    const values: string[] = [];
+    if (rotate) values.push("rotate");
+    if (particles) values.push("particles");
+    if (outLinks) values.push("outLinks");
+    return values;
+  }, [outLinks, particles, rotate]);
+  const handleControlsChange = (values: string[]) => {
+    const nextValues = new Set(values);
+    setRotate(nextValues.has("rotate"));
+    setParticles(nextValues.has("particles"));
+    setOutLinks(nextValues.has("outLinks"));
   };
 
   const [tabValue] = React.useState(0);
@@ -75,16 +81,28 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
   return (
     <div ref={measureRef} className="relative size-full graphs">
       <div className="absolute top-4 left-4 z-50">
-        <Tabs
-          defaultValue={style}
-          value={style}
+        <ToggleGroup
+          value={[style]}
           onValueChange={handleStyleChange}
+          className="overflow-hidden rounded-md [&_[data-slot=toggle-group-item]]:rounded-none"
         >
-          <TabsList className="px-1">
-            <TabsTrigger value="2D">2D</TabsTrigger>
-            <TabsTrigger value="3D">3D</TabsTrigger>
-          </TabsList>
-        </Tabs>
+          <ToggleGroupItem
+            value="2D"
+            size="sm"
+            variant="outline"
+            className="h-8  data-[pressed]:bg-accent"
+          >
+            2D
+          </ToggleGroupItem>
+          <ToggleGroupItem
+            value="3D"
+            size="sm"
+            variant="outline"
+            className="h-8 data-[pressed]:bg-accent"
+          >
+            3D
+          </ToggleGroupItem>
+        </ToggleGroup>
       </div>
       <div className="absolute inset-0">
         {kanjiInfo && style === "3D" && (
@@ -110,73 +128,84 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
           />
         )}
       </div>
+      <GraphLegend showOutLinks={outLinks} showParticles={particles} />
       <div className="absolute top-0 right-0 p-4 flex gap-1">
-        <div style={{ display: style === "3D" ? "block" : "none" }}>
-          <Tooltip>
-            <TooltipTrigger asChild>
-              <Toggle
-                className={cn("size-10", rotate ? "bg-accent" : "")}
-                variant="outline"
-                aria-label="Autorotate"
-                pressed={rotate}
-                onPressedChange={handleRotateChange}
+        <ToggleGroup
+          multiple
+          spacing={1}
+          value={activeControls}
+          onValueChange={handleControlsChange}
+        >
+          {style === "3D" && (
+            <Tooltip>
+              <TooltipTrigger
+                render={
+                  <ToggleGroupItem
+                    value="rotate"
+                    variant="outline"
+                    className="size-8 p-0"
+                    aria-label="Autorotate"
+                  />
+                }
               >
                 <RefreshCcwIcon className="size-4" />
-              </Toggle>
-            </TooltipTrigger>
-            <TooltipContent>
-              <p>Autorotate</p>
-            </TooltipContent>
-          </Tooltip>
-        </div>
+              </TooltipTrigger>
+              <TooltipContent>
+                <p>Autorotate</p>
+              </TooltipContent>
+            </Tooltip>
+          )}
 
-        <div>
           <Tooltip>
-            <TooltipTrigger asChild>
-              <Toggle
-                className={cn("size-10", particles ? "bg-accent" : "")}
-                variant="outline"
-                aria-label="Show arrow particles"
-                pressed={particles}
-                onPressedChange={handleParticlesChange}
-              >
-                <ArrowUpFromDotIcon className="size-4" />
-              </Toggle>
+            <TooltipTrigger
+              render={
+                <ToggleGroupItem
+                  value="particles"
+                  variant="outline"
+                  className="size-8 p-0"
+                  aria-label="Show arrow particles"
+                />
+              }
+            >
+              <ArrowUpFromDotIcon className="size-4" />
             </TooltipTrigger>
             <TooltipContent>
               <p>Show arrow particles</p>
             </TooltipContent>
           </Tooltip>
-        </div>
-        <div>
+
           <Tooltip>
-            <TooltipTrigger asChild>
-              <Toggle
-                className={cn("size-10", outLinks ? "bg-accent" : "")}
-                variant="outline"
-                aria-label="Show out links"
-                pressed={outLinks}
-                onPressedChange={handleOutLinksChange}
-              >
-                <CircleArrowOutUpRightIcon className="size-4" />
-              </Toggle>
+            <TooltipTrigger
+              render={
+                <ToggleGroupItem
+                  value="outLinks"
+                  variant="outline"
+                  className="size-8 p-0"
+                  size="sm"
+                  aria-label="Show out links"
+                />
+              }
+            >
+              <CircleArrowOutUpRightIcon className="size-4" />
             </TooltipTrigger>
             <TooltipContent>
               <p>Show outgoing links</p>
             </TooltipContent>
           </Tooltip>
-        </div>
+        </ToggleGroup>
         <div>
           <Tooltip>
-            <TooltipTrigger asChild>
-              <Button
-                variant="outline"
-                size="icon"
-                aria-label="Fit to screen"
-                onClick={handleZoomToFit}
-              >
-                <MaximizeIcon className="size-4" />
-              </Button>
+            <TooltipTrigger
+              render={
+                <Button
+                  variant="outline"
+                  size="icon"
+                  aria-label="Fit to screen"
+                  onClick={handleZoomToFit}
+                />
+              }
+            >
+              <MaximizeIcon className="size-4" />
             </TooltipTrigger>
             <TooltipContent>
               <p>Zoom to fit</p>

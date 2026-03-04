@@ -103,7 +103,7 @@
     --foreground: 212 6.5% 97.45%;
     --card: 212 52% 6.37%;
     --card-foreground: 212 6.5% 97.45%;
-    --popover: 212 52% 6.37%;
+    --popover: 212 16% 10%;
     --popover-foreground: 212 6.5% 97.45%;
     --primary: 200 66% 49%;
     --primary-foreground: 200 6.5% 4.9%;
@@ -123,14 +123,14 @@
 
 @layer components {
   .kanji-svg-container {
-    svg {
+    .kanji-stroke-svg svg {
       width: 80px !important;
       height: 80px !important;
     }
-    svg path[id] {
+    .kanji-stroke-svg svg path[id] {
       fill: hsl(var(--accent)) !important;
     }
-    svg path[clip-path] {
+    .kanji-stroke-svg svg path[clip-path] {
       stroke: hsl(var(--foreground)) !important;
     }
   }

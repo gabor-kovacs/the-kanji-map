@@ -40,10 +40,10 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
           (example: any, index: number) => {
             return (
               <div
-                className="flex justify-between align-end odd:bg-muted rounded-lg items-center pl-2"
+                className="flex justify-between align-end odd:bg-muted rounded-lg items-center gap-2 p-2 pr-1"
                 key={index}
               >
-                <p>
+                <p className="min-w-0 flex-1">
                   <span>
                     {highlightKanji(example?.japanese)}
                     &nbsp;&nbsp;&nbsp;
@@ -55,8 +55,9 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
                 </p>
                 <Button
                   aria-label="Play sound"
-                  variant="link"
-                  size="icon"
+                  variant="icon-muted"
+                  size="icon-sm"
+                  className="shrink-0"
                   onClick={() =>
                     example && example.audio && playSound(example?.audio?.mp3)
                   }
@@ -65,7 +66,7 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
                 </Button>
               </div>
             );
-          }
+          },
         )}
         {/* JISHO */}
         {kanjiInfo?.jishoData?.onyomiExamples &&
@@ -84,7 +85,7 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
                 {onExample?.meaning}
               </p>
             </div>
-          )
+          ),
         )}
         {kanjiInfo?.jishoData?.kunyomiExamples &&
           kanjiInfo?.jishoData?.kunyomiExamples?.length !== 0 && (
@@ -104,7 +105,7 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
                 {kunExample?.meaning}
               </p>
             </div>
-          )
+          ),
         )}
       </div>
     </div>

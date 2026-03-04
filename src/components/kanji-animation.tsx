@@ -23,7 +23,7 @@ export function KanjiStrokeAnimation({ svgContent, strokeCount }: Props) {
     if (!svgContent) return "";
     return svgContent.replace(
       /animation:zk var\(--t\) linear forwards var\(--d\);/,
-      "animation: none;"
+      "animation: none;",
     );
   }, [svgContent]); // only recompute when svgContent changes
 
@@ -62,7 +62,7 @@ export function KanjiStrokeAnimation({ svgContent, strokeCount }: Props) {
   React.useEffect(() => {
     if (!svgContainerRef.current) return;
     const animatedPaths = svgContainerRef.current.querySelectorAll(
-      "svg.acjk path[clip-path]"
+      "svg.acjk path[clip-path]",
     );
     let lengthCoveredByPreviousStrokes = 0;
 
@@ -100,27 +100,30 @@ export function KanjiStrokeAnimation({ svgContent, strokeCount }: Props) {
     <div className="kanji-svg-container flex flex-col items-center">
       <div
         ref={svgContainerRef}
-        className="cursor-pointer"
+        className="kanji-stroke-svg cursor-pointer"
         onClick={handleSvgClick}
       />
       <div className="flex flex-row items-center gap-2 mt-2">
         <Button
-          variant="link"
-          size="icon"
+          variant="icon-muted"
+          size="icon-xs"
           onClick={handlePlayPauseClick}
-          className="h-6 w-6 p-0 m-0"
+          className="shrink-0"
         >
           {isPlaying ? (
-            <CirclePauseIcon className="h-4 w-4" />
+            <CirclePauseIcon className="size-5" />
           ) : (
-            <CirclePlayIcon className="h-4 w-4" />
+            <CirclePlayIcon className="size-5" />
           )}
         </Button>
         <Slider
           min={0}
           max={totalLength}
           value={[drawProgress]}
-          onValueChange={(vals: number[]) => setDrawProgress(vals[0])}
+          onValueChange={(value) => {
+            const values = Array.isArray(value) ? value : [value];
+            setDrawProgress(values[0] ?? 0);
+          }}
           className="w-20 h-4"
           disabled={totalLength === 0}
           onPointerDown={handleSliderMouseDown}

@@ -157,7 +157,7 @@
       }
     ],
     "kname": "chou-asa",
-    "rad_utf": "⽉",
+    "rad_utf": "月",
     "stroketimes": [
       1.151,
       2.132,
@@ -300,7 +300,7 @@
       }
     },
     "radical": {
-      "character": "⽉",
+      "character": "月",
       "strokes": 4,
       "image": "https://media.kanjialive.com/radical_character/tsuki.svg",
       "position": {
@@ -350,7 +350,7 @@
       {
         "example": "朝刊",
         "reading": "チョウカン",
-        "meaning": "morning newspaper"
+        "meaning": "morning edition (of a daily newspaper), morning paper"
       },
       {
         "example": "本朝",

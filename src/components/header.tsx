@@ -1,3 +1,5 @@
+"use client";
+
 import { InfoIcon } from "lucide-react";
 import Link from "next/link";
 import LogoSVG from "./logo";
@@ -32,29 +34,24 @@ export const Header = ({
       </div>
       <div className="flex px-4 gap-2">
         <Tooltip>
-          <TooltipTrigger asChild>
-            <Link
-              href={route === "about" ? "/ " : "about"}
-              className={cn(
-                buttonVariants({ variant: "ghost", size: "icon" }),
-                route === "about" ? "bg-accent! text-accent-foreground!" : ""
-              )}
-            >
-              <InfoIcon className={cn("size-5")} />
-            </Link>
+          <TooltipTrigger
+            render={
+              <Link
+                href={route === "about" ? "/" : "/about"}
+                className={cn(
+                  buttonVariants({ variant: "ghost", size: "icon" }),
+                  route === "about" ? "bg-accent! text-accent-foreground!" : ""
+                )}
+              />
+            }
+          >
+            <InfoIcon className={cn("size-5")} />
           </TooltipTrigger>
           <TooltipContent>
             <p>About this website</p>
           </TooltipContent>
         </Tooltip>
-        <Tooltip>
-          <TooltipTrigger asChild>
-            <ThemeSwitcherButton />
-          </TooltipTrigger>
-          <TooltipContent>
-            <p>Change theme</p>
-          </TooltipContent>
-        </Tooltip>
+        <ThemeSwitcherButton />
       </div>
     </div>
   );
