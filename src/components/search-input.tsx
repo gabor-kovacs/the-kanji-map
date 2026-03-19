@@ -31,6 +31,7 @@ import * as React from "react";
 import { Virtuoso } from "react-virtuoso";
 
 import searchlist from "@/../data/searchlist.json";
+import { buildKanjiHref, resolveKanjiId } from "@/lib/kanji-variants";
 
 const JLPT_LEVELS = ["N5", "N4", "N3", "N2", "N1"] as const;
 type JLPTLevel = (typeof JLPT_LEVELS)[number];
@@ -62,6 +63,8 @@ type SearchOption = {
   group: "joyo" | "jinmeiyo" | "other";
   jlptLevel: JLPTLevel | null;
   strokeCount: number | null;
+  aliases: string[];
+  searchTerms: string[];
 };
 
 type SearchGroup = SearchOption["group"];
@@ -140,15 +143,67 @@ const normalizeJlptLevel = (
 ): JLPTLevel | null =>
   JLPT_LEVELS.includes(value as JLPTLevel) ? (value as JLPTLevel) : null;
 
-const OPTIONS: SearchOption[] = (searchlist as SearchListEntry[])
-  .map((entry) => ({
-    kanji: entry.k,
-    kunyomi: entry.r,
-    meaning: entry.m,
-    group: entry.g === 1 ? "joyo" : entry.g === 2 ? "jinmeiyo" : "other",
-    jlptLevel: normalizeJlptLevel(entry.j ?? null),
-    strokeCount: typeof entry.s === "number" ? entry.s : null,
-  }));
+const scoreSearchEntry = (entry: SearchListEntry, canonicalKanji: string) =>
+  (entry.k === canonicalKanji ? 100 : 0) +
+  (entry.g !== 3 ? 10 : 0) +
+  (entry.m ? 5 : 0) +
+  (entry.r ? 5 : 0) +
+  (entry.j ? 3 : 0) +
+  (typeof entry.s === "number" ? 2 : 0);
+
+const OPTIONS: SearchOption[] = (() => {
+  const mergedEntries = new Map<
+    string,
+    { entry: SearchListEntry; aliases: Set<string> }
+  >();
+
+  (searchlist as SearchListEntry[]).forEach((entry) => {
+    const canonicalKanji = resolveKanjiId(entry.k);
+    const existing = mergedEntries.get(canonicalKanji);
+    const aliases = existing?.aliases ?? new Set<string>();
+
+    if (entry.k !== canonicalKanji) {
+      aliases.add(entry.k);
+    }
+
+    if (
+      !existing ||
+      scoreSearchEntry(entry, canonicalKanji) >
+        scoreSearchEntry(existing.entry, canonicalKanji)
+    ) {
+      mergedEntries.set(canonicalKanji, {
+        entry: {
+          ...entry,
+          k: canonicalKanji,
+        },
+        aliases,
+      });
+      return;
+    }
+
+    mergedEntries.set(canonicalKanji, {
+      entry: existing.entry,
+      aliases,
+    });
+  });
+
+  return Array.from(mergedEntries.values()).map(({ entry, aliases }) => {
+    const mergedAliases = Array.from(aliases);
+
+    return {
+      kanji: entry.k,
+      kunyomi: entry.r,
+      meaning: entry.m,
+      group: entry.g === 1 ? "joyo" : entry.g === 2 ? "jinmeiyo" : "other",
+      jlptLevel: normalizeJlptLevel(entry.j ?? null),
+      strokeCount: typeof entry.s === "number" ? entry.s : null,
+      aliases: mergedAliases,
+      searchTerms: [entry.k, entry.r, entry.m, ...mergedAliases].filter(
+        Boolean,
+      ),
+    };
+  });
+})();
 
 const getStrokeBounds = (options: SearchOption[]) => {
   let min = Number.POSITIVE_INFINITY;
@@ -375,10 +430,8 @@ const VirtualizedCommand = ({
         }
       }
 
-      return (
-        option.kanji.toLowerCase().includes(normalizedSearch) ||
-        option.kunyomi.toLowerCase().includes(normalizedSearch) ||
-        option.meaning.toLowerCase().includes(normalizedSearch)
+      return option.searchTerms.some((term) =>
+        term.toLowerCase().includes(normalizedSearch),
       );
     });
   }, [groupFilters, jlptFilters, options, search, strokeRange]);
@@ -697,7 +750,7 @@ export const SearchInput = ({
           onSelectOption={(currentValue) => {
             setSelectedOption(currentValue);
             setOpen(false);
-            router.push(`/${currentValue.kanji}`);
+            router.push(buildKanjiHref(currentValue.kanji));
           }}
         />
       </PopoverContent>

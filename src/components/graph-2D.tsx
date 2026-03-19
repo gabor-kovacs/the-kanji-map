@@ -9,6 +9,7 @@ import ForceGraph2D, {
   NodeObject,
 } from "react-force-graph-2d";
 import kanjilist from "@/../data/kanjilist.json";
+import { buildKanjiHref } from "@/lib/kanji-variants";
 import type { RectReadOnly } from "react-use-measure";
 import { useRouter } from "next/navigation";
 import { useTheme } from "next-themes";
@@ -56,12 +57,13 @@ const Graph2D: React.FC<Props> = ({
     );
   }, [graphData?.noOutLinks, graphData?.withOutLinks, showOutLinks]);
 
-  const handleClick = (node: NodeObject) => void router.push(`/${node.id}`);
+  const handleClick = (node: NodeObject) =>
+    void router.push(buildKanjiHref(String(node.id)));
 
   // prefetch routes for nodes visible in the graph
   React.useEffect(() => {
     data?.nodes?.forEach((node) => {
-      void router.prefetch(`/${node.id}`);
+      void router.prefetch(buildKanjiHref(String(node.id)));
     });
   }, [data, router]);
   // store the hovered node in a state

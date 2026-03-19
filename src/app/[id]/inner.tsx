@@ -10,25 +10,42 @@ import { SearchInput } from "@/components/search-input";
 import { DrawInput } from "@/components/draw-input";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { SearchIcon } from "lucide-react";
+import { buildKanjiHref } from "@/lib/kanji-variants";
+import { useRouter } from "next/navigation";
 import React from "react";
 
 interface KanjiPageContentProps {
+  requestedId: string;
+  canonicalId: string;
+  variantInfo: {
+    aliases: string[];
+  };
   kanjiInfo: KanjiInfo; // Replace 'any' with the actual type
   graphData: BothGraphData; // Replace 'any' with the actual type
   strokeAnimation: string | null; // Replace 'any' with the actual type
 }
 
 export function KanjiPageContent({
+  requestedId,
+  canonicalId,
+  variantInfo,
   kanjiInfo,
   graphData,
   strokeAnimation,
 }: KanjiPageContentProps) {
   const isMobile = useMediaQuery({ query: "(max-width: 768px)" });
+  const router = useRouter();
 
   const [isMounted, setIsMounted] = React.useState(false);
   React.useEffect(() => {
     setIsMounted(true);
   }, []);
+
+  React.useEffect(() => {
+    if (isMounted && requestedId !== canonicalId) {
+      void router.replace(buildKanjiHref(canonicalId));
+    }
+  }, [canonicalId, isMounted, requestedId, router]);
 
   // Render placeholder with same structure to prevent layout shift
   if (!isMounted) {
@@ -64,6 +81,7 @@ export function KanjiPageContent({
                 <div className="p-4">
                   <Kanji
                     kanjiInfo={kanjiInfo}
+                    variantInfo={variantInfo}
                     graphData={graphData}
                     strokeAnimation={strokeAnimation}
                     screen="mobile"
@@ -124,6 +142,7 @@ export function KanjiPageContent({
               <Kanji
                 screen="desktop"
                 kanjiInfo={kanjiInfo}
+                variantInfo={variantInfo}
                 graphData={graphData}
                 strokeAnimation={strokeAnimation}
               />

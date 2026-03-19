@@ -3,6 +3,11 @@
 import fs from "fs";
 import path from "path";
 import searchlist from "../data/searchlist.json";
+import {
+  aliasIds,
+  canonicalizeKanjiIds,
+  resolveKanjiId,
+} from "../src/lib/kanji-variants";
 import * as dotenv from "dotenv";
 import { createRequire } from "module";
 
@@ -145,6 +150,13 @@ const processBatch = async (
     fs.mkdirSync(dataDir, { recursive: true });
   }
 
+  aliasIds.forEach((alias) => {
+    const aliasPath = path.join(dataDir, `${alias}.json`);
+    if (fs.existsSync(aliasPath)) {
+      fs.rmSync(aliasPath, { force: true });
+    }
+  });
+
   for (let i = 0; i < kanjiList.length; i += batchSize) {
     const batch = kanjiList.slice(i, i + batchSize);
     const batchNum = Math.floor(i / batchSize) + 1;
@@ -158,23 +170,24 @@ const processBatch = async (
     await Promise.all(
       batch.map(async (kanji) => {
         try {
-          const jishoData = await getJishoDataWithRetry(kanji);
-          const kanjialiveData = kanjialiveMap.get(kanji) || null;
+          const canonicalKanji = resolveKanjiId(kanji);
+          const jishoData = await getJishoDataWithRetry(canonicalKanji);
+          const kanjialiveData = kanjialiveMap.get(canonicalKanji) || null;
 
           const result: KanjiData = {
-            id: kanji,
+            id: canonicalKanji,
             kanjialiveData,
             jishoData,
           };
 
           // Write the data to JSON file
           fs.writeFileSync(
-            path.join(dataDir, `${kanji}.json`),
+            path.join(dataDir, `${canonicalKanji}.json`),
             JSON.stringify(result, null, 2),
             "utf-8"
           );
 
-          console.log(`✓ Written data for ${kanji}`);
+          console.log(`✓ Written data for ${canonicalKanji}`);
         } catch (error) {
           const reason =
             error instanceof Error ? error.message : String(error);
@@ -200,7 +213,9 @@ const processBatch = async (
 };
 
 // Extract the kanji list from searchlist data
-const kanjilist: string[] = searchlist.map((el: { k: string }) => el.k);
+const kanjilist: string[] = canonicalizeKanjiIds(
+  searchlist.map((el: { k: string }) => el.k)
+);
 
 // Main function to process the kanji list and save data to files
 const main = async (): Promise<void> => {

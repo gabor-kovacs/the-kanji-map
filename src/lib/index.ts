@@ -1,15 +1,126 @@
 import "server-only";
 
 import composition from "@/../data/composition.json";
+import searchlist from "@/../data/searchlist.json";
+import { execFile } from "child_process";
 import fsPromises from "fs/promises";
 import { notFound } from "next/navigation";
 import type { GraphData } from "react-force-graph-3d";
+import { promisify } from "util";
+import {
+  canonicalizeKanjiIds,
+  getCanonicalAliases,
+  resolveKanjiId,
+} from "./kanji-variants";
+
+type CompositionEntry = {
+  in: string[];
+  out: string[];
+};
+
+type SearchListEntry = {
+  k: string;
+  r: string;
+  m: string;
+  j?: string | null;
+  s?: number | null;
+};
+
+const execFileAsync = promisify(execFile);
+
+const scoreSearchEntry = (entry: SearchListEntry, canonicalKanji: string) =>
+  (entry.k === canonicalKanji ? 100 : 0) +
+  (entry.m ? 5 : 0) +
+  (entry.r ? 5 : 0) +
+  (entry.j ? 3 : 0) +
+  (typeof entry.s === "number" ? 2 : 0);
+
+const searchFallbackByKanji = (() => {
+  const fallbackEntries = new Map<string, SearchListEntry>();
+
+  (searchlist as SearchListEntry[]).forEach((entry) => {
+    const canonicalKanji = resolveKanjiId(entry.k);
+    const existing = fallbackEntries.get(canonicalKanji);
+
+    if (
+      !existing ||
+      scoreSearchEntry(entry, canonicalKanji) >
+        scoreSearchEntry(existing, canonicalKanji)
+    ) {
+      fallbackEntries.set(canonicalKanji, {
+        ...entry,
+        k: canonicalKanji,
+      });
+    }
+  });
+
+  return fallbackEntries;
+})();
+
+const canonicalComposition = (() => {
+  const mergedEntries = new Map<
+    string,
+    { in: Set<string>; out: Set<string> }
+  >();
+
+  Object.entries(composition as Record<string, CompositionEntry>).forEach(
+    ([rawId, entry]) => {
+      const canonicalId = resolveKanjiId(rawId);
+      const mergedEntry = mergedEntries.get(canonicalId) ?? {
+        in: new Set<string>(),
+        out: new Set<string>(),
+      };
+
+      canonicalizeKanjiIds(entry.in).forEach((node) => {
+        if (node !== canonicalId) {
+          mergedEntry.in.add(node);
+        }
+      });
+
+      canonicalizeKanjiIds(entry.out).forEach((node) => {
+        if (node !== canonicalId) {
+          mergedEntry.out.add(node);
+        }
+      });
+
+      mergedEntries.set(canonicalId, mergedEntry);
+    }
+  );
+
+  return Object.fromEntries(
+    Array.from(mergedEntries.entries(), ([id, entry]) => [
+      id,
+      {
+        in: Array.from(entry.in),
+        out: Array.from(entry.out),
+      },
+    ])
+  ) as Record<string, CompositionEntry>;
+})();
+
+const readCanonicalKanjiDataFromGit = async (id: string) => {
+  try {
+    const { stdout } = await execFileAsync(
+      "git",
+      ["show", `HEAD:data/kanji/${id}.json`],
+      {
+        cwd: process.cwd(),
+        encoding: "utf8",
+        maxBuffer: 10 * 1024 * 1024,
+      }
+    );
+
+    return JSON.parse(stdout) as KanjiInfo;
+  } catch {
+    return null;
+  }
+};
 
 /**
  * This is used by Next.js getStaticPaths to generate possible kanji pages
  */
 export const getAllKanji = () => {
-  return Object.entries(composition).map(([kanji, _]) => {
+  return Object.keys(canonicalComposition).map((kanji) => {
     return {
       params: {
         id: kanji,
@@ -25,7 +136,7 @@ export const getAllKanji = () => {
 export const getKanjiDataLocal: (
   id: string
 ) => Promise<KanjiInfo | null> = async (id) => {
-  const normalizedId = id.trim();
+  const normalizedId = resolveKanjiId(id.trim());
 
   // Use Array.from to properly count characters (handles surrogate pairs)
   if (Array.from(normalizedId).length !== 1) {
@@ -37,8 +148,43 @@ export const getKanjiDataLocal: (
 
   try {
     const jsonData = await fsPromises.readFile(filePath, "utf8");
+    const parsedData = JSON.parse(jsonData) as KanjiInfo;
+    const hasAliases = getCanonicalAliases(normalizedId).length > 0;
+    const parsedId = typeof parsedData.id === "string" ? parsedData.id : "";
+    const hasCollapsedAliasId =
+      parsedId !== normalizedId && resolveKanjiId(parsedId) === normalizedId;
+    const shouldRecoverFromGit =
+      hasAliases &&
+      (hasCollapsedAliasId ||
+        !parsedData.kanjialiveData ||
+        parsedData.jishoData?.found === false);
+    const effectiveData =
+      (shouldRecoverFromGit
+        ? await readCanonicalKanjiDataFromGit(normalizedId)
+        : null) ?? parsedData;
+    const searchFallback = searchFallbackByKanji.get(normalizedId);
 
-    return JSON.parse(jsonData) as KanjiInfo;
+    const shouldHydrateFromSearchFallback =
+      (!effectiveData.jishoData || effectiveData.jishoData.found === false) &&
+      !!searchFallback;
+
+    return {
+      ...effectiveData,
+      id: normalizedId,
+      jishoData: shouldHydrateFromSearchFallback
+        ? {
+            ...(effectiveData.jishoData ?? {}),
+            query: normalizedId,
+            found: true,
+            kunyomi: searchFallback?.r
+              ? searchFallback.r.split(", ").filter(Boolean)
+              : [],
+            meaning: searchFallback?.m ?? "",
+            jlptLevel: searchFallback?.j ?? null,
+            strokeCount: searchFallback?.s ?? null,
+          }
+        : effectiveData.jishoData,
+    };
   } catch (error) {
     console.error("Failed to read or parse kanji data:", error);
     return null;
@@ -63,7 +209,7 @@ const SVG_DIRECTORY_LIST = [
  * @returns The stroke animation data in SVG format, or null if no animation data is found.
  */
 export const getStrokeAnimation = async (id: string) => {
-  const normalizedId = id.trim();
+  const normalizedId = resolveKanjiId(id.trim());
 
   // Use Array.from to properly count characters (handles surrogate pairs)
   if (Array.from(normalizedId).length !== 1) {
@@ -104,9 +250,9 @@ export const getStrokeAnimation = async (id: string) => {
  */
 const findNodes = (array: string[]) => {
   array.forEach((el) => {
-    !composition[el as keyof typeof composition] && notFound();
+    !canonicalComposition[el] && notFound();
 
-    composition[el as keyof typeof composition].in.forEach((node) => {
+    canonicalComposition[el].in.forEach((node) => {
       if (!array.includes(node)) {
         array.push(node);
         findNodes(array);
@@ -125,7 +271,7 @@ const findNodes = (array: string[]) => {
 const createInLinks = (array: string[]) => {
   const links: { source: string; target: string }[] = [];
   array.forEach((end) => {
-    composition[end as keyof typeof composition].in.forEach((start) => {
+    canonicalComposition[end].in.forEach((start) => {
       if (start !== end) {
         links.push({ source: start, target: end });
       }
@@ -140,15 +286,21 @@ const createInLinks = (array: string[]) => {
  * @param id input kanji
  */
 export const getGraphData = async (id: string) => {
-  let inNodeList = [id];
+  const normalizedId = resolveKanjiId(id);
+
+  if (!canonicalComposition[normalizedId]) {
+    notFound();
+  }
+
+  let inNodeList = [normalizedId];
   inNodeList = findNodes(inNodeList);
   const inLinks = createInLinks(inNodeList);
 
-  let outLinks = composition[id as keyof typeof composition].out.map((node) => {
-    return { source: id, target: node };
+  let outLinks = canonicalComposition[normalizedId].out.map((node) => {
+    return { source: normalizedId, target: node };
   });
 
-  const outNodeList = composition[id as keyof typeof composition].out;
+  const outNodeList = canonicalComposition[normalizedId].out;
 
   const inNodes = await Promise.all(
     inNodeList.map(async (x) => {

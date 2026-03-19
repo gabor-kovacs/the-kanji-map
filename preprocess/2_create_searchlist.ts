@@ -2,6 +2,10 @@
 import { joyoList } from "./joyo";
 import { jinmeiyoList } from "./jinmeiyo";
 import composition from "../data/composition.json";
+import {
+  canonicalizeKanjiIds,
+  resolveKanjiId,
+} from "../src/lib/kanji-variants";
 import * as fs from "fs";
 import * as path from "path";
 import { createRequire } from "module";
@@ -21,8 +25,10 @@ interface KanjiInfo {
 }
 
 const VALID_JLPT_LEVELS = new Set(["N5", "N4", "N3", "N2", "N1"]);
-const isSearchableEntry = (id: string): boolean =>
-  id !== "default" && !id.startsWith("CDP-");
+const isSearchableEntry = (id: string): boolean => {
+  const canonicalId = resolveKanjiId(id);
+  return canonicalId !== "default" && !canonicalId.startsWith("CDP-");
+};
 
 // Helper function to sleep
 const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -73,8 +79,9 @@ const getKanjiInfoWithRetry = async (
 };
 
 const getGroup = (id: string): number => {
-  if (joyoList.includes(id)) return 1;
-  if (jinmeiyoList.includes(id)) return 2;
+  const canonicalId = resolveKanjiId(id);
+  if (joyoList.includes(canonicalId)) return 1;
+  if (jinmeiyoList.includes(canonicalId)) return 2;
   return 3;
 };
 
@@ -131,9 +138,11 @@ const processBatch = async (
 };
 
 (async () => {
-  const entries = Object.entries(composition).filter(([id]) =>
-    isSearchableEntry(id)
-  );
+  const entries = canonicalizeKanjiIds(Object.keys(composition))
+    .filter((id) => isSearchableEntry(id))
+    .map(
+      (id): [string, unknown] => [id, composition[id as keyof typeof composition]]
+    );
   console.log(`🚀 Starting to process ${entries.length} kanji...`);
   console.log(`Using batch size: 20 (processing 20 kanji in parallel)`);
 

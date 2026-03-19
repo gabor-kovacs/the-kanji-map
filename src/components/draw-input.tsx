@@ -2,6 +2,7 @@
 import * as React from "react";
 import searchlist from "@/../data/searchlist.json";
 import { cn } from "@/lib/utils";
+import { buildKanjiHref, resolveKanjiId } from "@/lib/kanji-variants";
 import { CircleXIcon, SearchIcon } from "lucide-react";
 import Link from "next/link";
 import Handwriting from "@/lib/handwriting";
@@ -30,9 +31,14 @@ export const DrawInput: React.FC = () => {
     if (err) {
       return;
     } else {
-      const kanjiList = searchlist.map((entry) => entry.k);
-      const filtered = result
-        .filter((entry) => kanjiList.includes(entry))
+      const kanjiList = new Set(searchlist.map((entry) => resolveKanjiId(entry.k)));
+      const filtered = Array.from(
+        new Set(
+          result
+            .map((entry) => resolveKanjiId(entry))
+            .filter((entry) => kanjiList.has(entry)),
+        ),
+      )
         .slice(0, 4);
       setInputSuggestions(filtered);
     }
@@ -86,7 +92,7 @@ export const DrawInput: React.FC = () => {
         {inputSuggestions.map((suggestion, index) => (
           <Link
             key={index}
-            href={`/${suggestion}`}
+            href={buildKanjiHref(suggestion)}
             className={cn(buttonVariants({ variant: "ghost" }), "size-8")}
             onClick={eraseKanji}
           >

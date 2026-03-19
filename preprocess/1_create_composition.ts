@@ -1,6 +1,7 @@
 import * as fs from "fs";
 import * as path from "path";
 import { Parser } from "xml2js";
+import { resolveKanjiId } from "../src/lib/kanji-variants";
 
 const rawXML = fs.readFileSync("./kanjivg.xml", "utf-8");
 
@@ -104,7 +105,7 @@ const extractAllElements = (
   elements: Set<string>
 ): void => {
   if (comp.$?.["kvg:element"]) {
-    const element = comp.$["kvg:element"];
+    const element = resolveKanjiId(comp.$["kvg:element"]);
     // Skip IDS notation elements like ⿱穴㒸
     if (!isIDSNotation(element)) {
       elements.add(element);
@@ -128,7 +129,9 @@ const getDirectChildren = (comp: KanjiComponent, element: string): string[] => {
     node: KanjiComponent,
     acc: string[]
   ): void => {
-    const nodeElement = node.$?.["kvg:element"];
+    const nodeElement = node.$?.["kvg:element"]
+      ? resolveKanjiId(node.$["kvg:element"])
+      : undefined;
     if (nodeElement) {
       if (radicalsSet.has(nodeElement)) {
         acc.push(nodeElement);
@@ -137,7 +140,9 @@ const getDirectChildren = (comp: KanjiComponent, element: string): string[] => {
       if (isIDSNotation(nodeElement)) {
         if (node.g) {
           node.g.forEach((grandchild) => {
-            const grandEl = grandchild.$?.["kvg:element"];
+            const grandEl = grandchild.$?.["kvg:element"]
+              ? resolveKanjiId(grandchild.$["kvg:element"])
+              : undefined;
             if (grandEl) {
               if (radicalsSet.has(grandEl)) {
                 acc.push(grandEl);
@@ -161,7 +166,10 @@ const getDirectChildren = (comp: KanjiComponent, element: string): string[] => {
   };
 
   // If this component matches the element we're looking for
-  if (comp.$?.["kvg:element"] === element) {
+  if (
+    comp.$?.["kvg:element"] &&
+    resolveKanjiId(comp.$["kvg:element"]) === element
+  ) {
     // If the matched element is a radical, stop recursion into drawing children
     // and, if an original form exists for this radical, include it as a direct child.
     if (radicalsSet.has(element)) {
@@ -184,7 +192,9 @@ const getDirectChildren = (comp: KanjiComponent, element: string): string[] => {
   if (comp.g) {
     comp.g.forEach((child) => {
       // Skip recursing into IDS notations
-      const childElement = child.$?.["kvg:element"] || "";
+      const childElement = child.$?.["kvg:element"]
+        ? resolveKanjiId(child.$["kvg:element"])
+        : "";
       // Stop recursion entirely when encountering any radical node
       if (radicalsSet.has(childElement)) {
         return;

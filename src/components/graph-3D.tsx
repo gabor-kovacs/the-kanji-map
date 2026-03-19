@@ -1,6 +1,7 @@
 "use client";
 
 import kanjilist from "@/../data/kanjilist.json";
+import { buildKanjiHref } from "@/lib/kanji-variants";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/navigation";
 import * as React from "react";
@@ -66,13 +67,13 @@ const Graph3D = ({
   // const data = graphData?.withOutLinks;
 
   const handleClick = (node: NodeObject) => {
-    void router.push(`/${node?.id}`);
+    void router.push(buildKanjiHref(String(node?.id)));
   };
 
   // prefetch routes for nodes visible in the graph
   React.useEffect(() => {
     data?.nodes?.forEach((node) => {
-      void router.prefetch(`/${node.id}`);
+      void router.prefetch(buildKanjiHref(String(node.id)));
     });
   }, [data, router]);
 
