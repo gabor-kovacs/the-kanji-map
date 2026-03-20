@@ -1,5 +1,21 @@
 {
   "id": "业",
   "kanjialiveData": null,
-  "jishoData": null
+  "jishoData": {
+    "query": "业",
+    "found": true,
+    "meaning": "business, vocation, arts, performance",
+    "kunyomi": [
+      "わざ"
+    ],
+    "onyomi": [
+      "ギョウ",
+      "ゴウ"
+    ],
+    "jlptLevel": "N4",
+    "strokeCount": 13,
+    "taughtIn": "grade 3",
+    "onyomiExamples": [],
+    "kunyomiExamples": []
+  }
 }

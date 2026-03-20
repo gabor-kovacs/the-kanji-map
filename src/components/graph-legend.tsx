@@ -29,6 +29,7 @@ export const GraphLegend: React.FC<Props> = ({
             <Button
               variant="outline"
               size="icon"
+              className="!bg-background hover:!bg-muted dark:!bg-background dark:hover:!bg-muted"
               aria-label="Open graph legend"
             >
               <InfoIcon className="size-4" />

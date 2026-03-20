@@ -1,12 +1,13 @@
 // unify_kangxi_cjk replaces Kangxi/CJK compatibility radicals with their
-// unified CJK ideograph equivalents across ALL files in the `data` and
-// `preprocess` folders. It runs without parameters and updates files in place.
+// unified CJK ideograph equivalents across specified files or directories.
+// It updates files in place.
 //
 // This makes visually identical forms (like 忄 vs 忄, 扌 vs 扌, 辶 vs 辶, 十 vs 十)
 // consistent so downstream tools can reliably match and join data.
 //
 // What it does:
-// - Recursively walks `../../data` and `..` (the whole preprocess folder)
+// - With explicit arguments: processes each file or recursively walks each directory
+// - Without arguments: recursively walks `../data`
 // - Reads each regular file as UTF-8 text
 // - Replaces compatibility radicals with unified forms
 // - Writes the normalized text back to the same file
@@ -14,6 +15,7 @@
 // How to run (from this directory):
 //
 //	go run ./unify_kangxi_cjk.go
+//	go run ./unify_kangxi_cjk.go ./kanjivg.xml
 //
 // Notes:
 //   - It attempts to process any text file; if a file isn't UTF-8 text, it will
@@ -31,6 +33,28 @@ import (
 	eqi "github.com/mochi-co/equivalent-unified-ideograph"
 )
 
+func normalizeFile(path string) (bool, error) {
+	inFile, err := os.Open(path)
+	if err != nil {
+		return false, err
+	}
+	defer inFile.Close()
+
+	buf, changed, err := eqi.BufferedReplace(inFile)
+	if err != nil {
+		return false, err
+	}
+	if len(changed) == 0 {
+		return false, nil
+	}
+
+	if err := os.WriteFile(path, buf.Bytes(), 0o644); err != nil {
+		return false, err
+	}
+
+	return true, nil
+}
+
 func main() {
 	// Resolve paths from this source file location so behavior is stable
 	// regardless of current working directory.
@@ -42,7 +66,11 @@ func main() {
 	projectRoot := filepath.Clean(filepath.Join(preprocessDir, ".."))
 	dataDir := filepath.Join(projectRoot, "data")
 
-	roots := []string{dataDir}
+	targets := os.Args[1:]
+	if len(targets) == 0 {
+		targets = []string{dataDir}
+	}
+
 	skipDirs := map[string]bool{
 		".git":         true,
 		"node_modules": true,
@@ -52,8 +80,28 @@ func main() {
 
 	var filesProcessed, filesChanged int
 
-	for _, root := range roots {
-		err := filepath.WalkDir(root, func(path string, d os.DirEntry, err error) error {
+	for _, target := range targets {
+		info, err := os.Stat(target)
+		if err != nil {
+			log.Printf("skip %s: %v", target, err)
+			continue
+		}
+
+		if !info.IsDir() {
+			filesProcessed++
+			changed, err := normalizeFile(target)
+			if err != nil {
+				log.Printf("normalize %s: %v", target, err)
+				continue
+			}
+			if changed {
+				filesChanged++
+				fmt.Printf("normalized: %s\n", target)
+			}
+			continue
+		}
+
+		err = filepath.WalkDir(target, func(path string, d os.DirEntry, err error) error {
 			if err != nil {
 				return err
 			}
@@ -63,34 +111,21 @@ func main() {
 				}
 				return nil
 			}
-			// Read file
-			inFile, err := os.Open(path)
-			if err != nil {
-				// Log and continue
-				log.Printf("skip %s: %v", path, err)
-				return nil
-			}
-			defer inFile.Close()
 
-			// changed is a map[string]int (counts of replacements)
-			buf, changed, err := eqi.BufferedReplace(inFile)
+			filesProcessed++
+			changed, err := normalizeFile(path)
 			if err != nil {
 				log.Printf("normalize %s: %v", path, err)
 				return nil
 			}
-			filesProcessed++
-			if len(changed) > 0 {
-				if err := os.WriteFile(path, buf.Bytes(), 0o644); err != nil {
-					log.Printf("write %s: %v", path, err)
-					return nil
-				}
+			if changed {
 				filesChanged++
 				fmt.Printf("normalized: %s\n", path)
 			}
 			return nil
 		})
 		if err != nil {
-			log.Printf("walk %s: %v", root, err)
+			log.Printf("walk %s: %v", target, err)
 		}
 	}
 

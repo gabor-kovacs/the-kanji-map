@@ -1,14 +1,22 @@
 "use client";
 
 import * as React from "react";
+import Link from "next/link";
+import { buildKanjiHref, resolveKanjiId } from "@/lib/kanji-variants";
+import { buttonVariants } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
 import RadicalImages from "./radical-images";
 import radicallist from "../../data/radicallist.json";
 
 interface Props {
   kanjiInfo: KanjiInfo | null;
+  navigableRadicalIds: string[];
 }
 
-export const Radical: React.FC<Props> = ({ kanjiInfo }) => {
+export const Radical: React.FC<Props> = ({
+  kanjiInfo,
+  navigableRadicalIds,
+}) => {
   // Hardcoded list of available position SVG basenames (from data/radical-positions/*.svg)
   const POSITION_NAMES = [
     "ashi",
@@ -28,15 +36,28 @@ export const Radical: React.FC<Props> = ({ kanjiInfo }) => {
 
   type PositionName = (typeof POSITION_NAMES)[number];
 
-  // Prefer the radical character from KanjiAlive; fall back to Jisho
+  const normalizeRadicalChar = React.useCallback((value?: string | null) => {
+    return value?.normalize("NFKC").trim() ?? "";
+  }, []);
+
+  const navigableKanjiIds = React.useMemo(
+    () => new Set(navigableRadicalIds.map((id) => resolveKanjiId(id))),
+    [navigableRadicalIds]
+  );
+
+  // Prefer the Jisho radical symbol for lookups because it already uses the
+  // base radical form. Fall back to a normalized KanjiAlive radical character.
   const baseRadicalChar = React.useMemo(() => {
-    const fromKanjiAlive = (kanjiInfo as any)?.kanjialiveData?.radical
-      ?.character as string | undefined;
-    const fromJisho = kanjiInfo?.jishoData?.radical?.symbol as
-      | string
-      | undefined;
-    return (fromKanjiAlive || fromJisho || "").trim();
-  }, [kanjiInfo]);
+    const fromJisho = normalizeRadicalChar(
+      kanjiInfo?.jishoData?.radical?.symbol as string | undefined
+    );
+    const fromKanjiAlive = normalizeRadicalChar(
+      (kanjiInfo as any)?.kanjialiveData?.radical?.character as
+        | string
+        | undefined
+    );
+    return fromJisho || fromKanjiAlive;
+  }, [kanjiInfo, normalizeRadicalChar]);
 
   // Helper: normalize positionRomanized to a known POSITION_NAMES value
   const toPositionName = React.useCallback(
@@ -88,7 +109,11 @@ export const Radical: React.FC<Props> = ({ kanjiInfo }) => {
   // Compute alternatives from the base entry's alternatives array
   const alternatives = React.useMemo(() => {
     if (!baseRadicalChar)
-      return [] as Array<{ char: string; posName: PositionName | null }>;
+      return [] as Array<{
+        char: string;
+        posName: PositionName | null;
+        isNavigable: boolean;
+      }>;
     let base = radicalMap.get(baseRadicalChar);
     if (!base) base = altToBaseMap.get(baseRadicalChar);
     const alts: string[] = Array.isArray(base?.alternatives)
@@ -97,9 +122,13 @@ export const Radical: React.FC<Props> = ({ kanjiInfo }) => {
     return alts.map((char) => {
       const entry = radicalMap.get(char);
       const posName = toPositionName(entry?.positionRomanized || "");
-      return { char, posName };
+      const isNavigable = navigableKanjiIds.has(resolveKanjiId(char));
+      return { char, posName, isNavigable };
     });
   }, [baseRadicalChar, radicalMap, altToBaseMap, toPositionName]);
+
+  const hasBaseRadicalPage =
+    !!baseRadicalChar && navigableKanjiIds.has(resolveKanjiId(baseRadicalChar));
 
   return (
     <div className="min-h-[330px] relative w-full h-full overflow-hidden grid grid-rows-[36px_100px_1fr] grid-cols-[120px_1fr]">
@@ -146,35 +175,70 @@ export const Radical: React.FC<Props> = ({ kanjiInfo }) => {
           <div className="mt-2">
             <p className="">Alternative forms:</p>
             <div className="flex flex-wrap gap-3 mt-1">
-              {alternatives.map((alt) => (
-                <span
-                  key={`${alt.char}-${alt.posName || "none"}`}
-                  className="inline-flex items-center gap-2 border rounded px-2 py-0.5"
-                >
-                  <span className="text-base">{alt.char}</span>
-                  {alt.posName && (
-                    <>
-                      <span>(</span>
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img
-                        alt={`alt radical position ${alt.posName}`}
-                        src={`/radical-positions/${alt.posName}.svg`}
-                        className="inline-block size-4 align-middle"
-                      />
-                      <span>)</span>
-                    </>
-                  )}
-                </span>
-              ))}
+              {alternatives.map((alt) => {
+                const content = (
+                  <>
+                    <span className="text-base">{alt.char}</span>
+                    {alt.posName && (
+                      <>
+                        <span>(</span>
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
+                          alt={`alt radical position ${alt.posName}`}
+                          src={`/radical-positions/${alt.posName}.svg`}
+                          className="inline-block size-4 align-middle"
+                        />
+                        <span>)</span>
+                      </>
+                    )}
+                  </>
+                );
+
+                const className = cn(
+                  buttonVariants({ variant: "outline", size: "xs" }),
+                  "inline-flex items-center gap-2 h-auto py-0.5"
+                );
+
+                if (!alt.isNavigable) {
+                  return (
+                    <span
+                      key={`${alt.char}-${alt.posName || "none"}`}
+                      className={className}
+                    >
+                      {content}
+                    </span>
+                  );
+                }
+
+                return (
+                  <Link
+                    key={`${alt.char}-${alt.posName || "none"}`}
+                    href={buildKanjiHref(alt.char)}
+                    className={className}
+                    aria-label={`Open radical page for ${alt.char}`}
+                  >
+                    {content}
+                  </Link>
+                );
+              })}
             </div>
           </div>
         )}
       </div>
       <div className="flex flex-col items-center justify-center w-full h-full overflow-hidden">
-        {baseRadicalChar && (
-          <h1 className="text-6xl leading-tight sm:text-5xl">
-            {baseRadicalChar}
-          </h1>
+        {baseRadicalChar && hasBaseRadicalPage && (
+          <Link
+            href={buildKanjiHref(baseRadicalChar)}
+            className="cursor-pointer outline-none focus-visible:underline"
+            aria-label={`Open radical page for ${baseRadicalChar}`}
+          >
+            <h1 className="text-6xl leading-tight sm:text-5xl">
+              {baseRadicalChar}
+            </h1>
+          </Link>
+        )}
+        {baseRadicalChar && !hasBaseRadicalPage && (
+          <h1 className="text-6xl leading-tight sm:text-5xl">{baseRadicalChar}</h1>
         )}
       </div>
       <div className="place-self-center w-20 h-20 relative overflow-hidden">

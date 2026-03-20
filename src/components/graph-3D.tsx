@@ -1,6 +1,7 @@
 "use client";
 
 import kanjilist from "@/../data/kanjilist.json";
+import { buildKanjiHref } from "@/lib/kanji-variants";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/navigation";
 import * as React from "react";
@@ -23,6 +24,8 @@ interface Props {
 }
 
 export const dynamic = "force-dynamic";
+
+const KANJI_SPRITE_OFFSET_Y = 2.0;
 
 const Graph3D = ({
   kanjiInfo,
@@ -66,13 +69,13 @@ const Graph3D = ({
   // const data = graphData?.withOutLinks;
 
   const handleClick = (node: NodeObject) => {
-    void router.push(`/${node?.id}`);
+    void router.push(buildKanjiHref(String(node?.id)));
   };
 
   // prefetch routes for nodes visible in the graph
   React.useEffect(() => {
     data?.nodes?.forEach((node) => {
-      void router.prefetch(`/${node.id}`);
+      void router.prefetch(buildKanjiHref(String(node.id)));
     });
   }, [data, router]);
 
@@ -106,7 +109,7 @@ const Graph3D = ({
               z: node.z * distRatio,
             }, // new position
             { x: node.x, y: node.y, z: node.z }, // lookAt ({ x, y, z })
-            1000 // ms transition duration
+            1000, // ms transition duration
           );
         }
       }
@@ -163,7 +166,7 @@ const Graph3D = ({
       node.__threeObj.children[1].material.color.setRGB(
         color.r * 0.8,
         color.g * 0.8,
-        color.b * 0.8
+        color.b * 0.8,
       );
     }
   };
@@ -216,7 +219,7 @@ const Graph3D = ({
           const linkLength = Math.hypot(
             target.x - source.x,
             target.y - source.y,
-            target.z - source.z
+            target.z - source.z,
           );
           return (linkLength - 8) / linkLength;
         } else {
@@ -276,7 +279,7 @@ const Graph3D = ({
             transparent: true,
             depthWrite: false,
             opacity: 0.8,
-          })
+          }),
         );
 
         // If it's a single character
@@ -287,6 +290,7 @@ const Graph3D = ({
         sprite.textHeight = 10;
         sprite.fontSize = 120;
         sprite.padding = 3;
+        sprite.offsetY = KANJI_SPRITE_OFFSET_Y;
 
         const group = new THREE.Group();
         group.add(sprite);

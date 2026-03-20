@@ -1,67 +1,91 @@
 [
   {
-    "k": "小",
+    "k": "刂",
     "r": "",
-    "m": "",
+    "m": "knife, standing sword radical (no. 18)",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 2
   },
   {
     "k": "小",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
+    "r": "ちい.さい, こ-, お-, さ-",
+    "m": "little, small",
+    "g": 1,
+    "j": "N5",
+    "s": 3
   },
   {
     "k": "彐",
     "r": "",
-    "m": "",
+    "m": "snout, pig's head radical (no. 58)",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 3
   },
   {
     "k": "心",
-    "r": "",
-    "m": "",
+    "r": "こころ, -ごころ",
+    "m": "heart, mind, spirit, heart radical (no. 61)",
+    "g": 1,
+    "j": "N4",
+    "s": 4
+  },
+  {
+    "k": "氵",
+    "r": "さんずい",
+    "m": "water, water radical (no. 85)",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 3
+  },
+  {
+    "k": "氺",
+    "r": "",
+    "m": "water radical variant (no. 85)",
+    "g": 3,
+    "j": null,
+    "s": 5
   },
   {
     "k": "爫",
     "r": "",
-    "m": "",
+    "m": "claw radical (no. 87)",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 4
   },
   {
     "k": "丬",
     "r": "",
-    "m": "",
+    "m": "half of tree trunk, rad. no. 90",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 4
   },
   {
     "k": "犭",
     "r": "",
-    "m": "",
+    "m": "dog, dog radical (no. 94)",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 3
+  },
+  {
+    "k": "礻",
+    "r": "",
+    "m": "cult, showing radical (no. 113)",
+    "g": 3,
+    "j": null,
+    "s": 4
   },
   {
     "k": "覀",
     "r": "",
-    "m": "",
+    "m": "variant of radical 146",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 7
   },
   {
     "k": "西",
@@ -74,26 +98,26 @@
   {
     "k": "辶",
     "r": "",
-    "m": "",
+    "m": "walk, walking, road radical variant (no. 162)",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 4
   },
   {
     "k": "邑",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
+    "r": "むら",
+    "m": "village, rural community, right village radical (no. 163)",
+    "g": 2,
+    "j": "N1",
+    "s": 7
   },
   {
     "k": "阝",
-    "r": "",
-    "m": "",
+    "r": "こざと",
+    "m": "place, left village radical - 2 stroke form (no. 170)",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 3
   },
   {
     "k": "コ",
@@ -505,11 +529,11 @@
   },
   {
     "k": "业",
-    "r": "",
-    "m": "",
+    "r": "わざ",
+    "m": "business, vocation, arts, performance",
     "g": 3,
-    "j": null,
-    "s": null
+    "j": "N4",
+    "s": 13
   },
   {
     "k": "个",
@@ -1134,14 +1158,6 @@
     "g": 1,
     "j": "N4",
     "s": 8
-  },
-  {
-    "k": "小",
-    "r": "ちい.さい, こ-, お-, さ-",
-    "m": "little, small",
-    "g": 1,
-    "j": "N5",
-    "s": 3
   },
   {
     "k": "亭",
@@ -2304,14 +2320,6 @@
     "s": 4
   },
   {
-    "k": "刂",
-    "r": "",
-    "m": "knife, standing sword radical (no. 18)",
-    "g": 3,
-    "j": null,
-    "s": 2
-  },
-  {
     "k": "侍",
     "r": "さむらい, はべ.る",
     "m": "waiter, samurai, wait upon, serve",
@@ -2462,14 +2470,6 @@
     "g": 1,
     "j": "N1",
     "s": 8
-  },
-  {
-    "k": "覀",
-    "r": "",
-    "m": "variant of radical 146",
-    "g": 3,
-    "j": null,
-    "s": 7
   },
   {
     "k": "侫",
@@ -3821,14 +3821,6 @@
     "m": "not, must not, do not, be not",
     "g": 2,
     "j": null,
-    "s": 4
-  },
-  {
-    "k": "心",
-    "r": "こころ, -ごころ",
-    "m": "heart, mind, spirit, heart radical (no. 61)",
-    "g": 1,
-    "j": "N4",
     "s": 4
   },
   {
@@ -5808,14 +5800,6 @@
     "s": 8
   },
   {
-    "k": "氺",
-    "r": "",
-    "m": "water radical variant (no. 85)",
-    "g": 3,
-    "j": null,
-    "s": 5
-  },
-  {
     "k": "凾",
     "r": "はこ, い.れる",
     "m": "box",
@@ -7062,14 +7046,6 @@
     "g": 3,
     "j": null,
     "s": 11
-  },
-  {
-    "k": "氵",
-    "r": "さんずい",
-    "m": "water, water radical (no. 85)",
-    "g": 3,
-    "j": null,
-    "s": 3
   },
   {
     "k": "匱",
@@ -9302,14 +9278,6 @@
     "g": 1,
     "j": "N3",
     "s": 10
-  },
-  {
-    "k": "辶",
-    "r": "",
-    "m": "walk, walking, road radical variant (no. 162)",
-    "g": 3,
-    "j": null,
-    "s": 4
   },
   {
     "k": "嗽",
@@ -15632,14 +15600,6 @@
     "s": 18
   },
   {
-    "k": "邑",
-    "r": "むら",
-    "m": "village, rural community, right village radical (no. 163)",
-    "g": 2,
-    "j": "N1",
-    "s": 7
-  },
-  {
     "k": "廳",
     "r": "やくしょ",
     "m": "hall, central room",
@@ -15918,14 +15878,6 @@
     "g": 3,
     "j": null,
     "s": 22
-  },
-  {
-    "k": "彐",
-    "r": "",
-    "m": "snout, pig's head radical (no. 58)",
-    "g": 3,
-    "j": null,
-    "s": 3
   },
   {
     "k": "当",
@@ -21457,11 +21409,11 @@
   },
   {
     "k": "亚",
-    "r": "",
-    "m": "",
+    "r": "つ.ぐ",
+    "m": "Asia, rank next, come after, -ous",
     "g": 3,
-    "j": null,
-    "s": null
+    "j": "N1",
+    "s": 7
   },
   {
     "k": "晏",
@@ -27744,14 +27696,6 @@
     "s": 14
   },
   {
-    "k": "丿",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
-  },
-  {
     "k": "澁",
     "r": "しぶ, しぶ.い, しぶ.る",
     "m": "astringent, harsh, uneven, rough",
@@ -29270,14 +29214,6 @@
     "g": 3,
     "j": null,
     "s": 20
-  },
-  {
-    "k": "犭",
-    "r": "",
-    "m": "dog, dog radical (no. 94)",
-    "g": 3,
-    "j": null,
-    "s": 3
   },
   {
     "k": "犯",
@@ -32590,14 +32526,6 @@
     "g": 3,
     "j": null,
     "s": 20
-  },
-  {
-    "k": "礻",
-    "r": "",
-    "m": "cult, showing radical (no. 113)",
-    "g": 3,
-    "j": null,
-    "s": 4
   },
   {
     "k": "礼",
@@ -36749,7 +36677,7 @@
     "m": "",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 6
   },
   {
     "k": "羚",
@@ -36758,14 +36686,6 @@
     "g": 2,
     "j": null,
     "s": 11
-  },
-  {
-    "k": "羊",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
   },
   {
     "k": "羝",
@@ -40712,14 +40632,6 @@
     "s": 8
   },
   {
-    "k": "乙",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
-  },
-  {
     "k": "䖝",
     "r": "",
     "m": "insects, worms",
@@ -41205,7 +41117,7 @@
     "m": "",
     "g": 3,
     "j": null,
-    "s": null
+    "s": 9
   },
   {
     "k": "蝗",
@@ -48368,14 +48280,6 @@
     "s": 21
   },
   {
-    "k": "阝",
-    "r": "こざと",
-    "m": "place, left village radical - 2 stroke form (no. 170)",
-    "g": 3,
-    "j": null,
-    "s": 3
-  },
-  {
     "k": "阡",
     "r": "",
     "m": "thousand",
@@ -52838,78 +52742,6 @@
     "g": 3,
     "j": null,
     "s": 21
-  },
-  {
-    "k": "冷",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
-  },
-  {
-    "k": "令",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
-  },
-  {
-    "k": "嶺",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
-  },
-  {
-    "k": "領",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
-  },
-  {
-    "k": "玲",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
-  },
-  {
-    "k": "羚",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
-  },
-  {
-    "k": "聆",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
-  },
-  {
-    "k": "鈴",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
-  },
-  {
-    "k": "零",
-    "r": "",
-    "m": "",
-    "g": 3,
-    "j": null,
-    "s": null
   },
   {
     "k": "㠯",

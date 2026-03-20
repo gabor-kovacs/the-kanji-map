@@ -84,21 +84,19 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
         <ToggleGroup
           value={[style]}
           onValueChange={handleStyleChange}
-          className="overflow-hidden rounded-md [&_[data-slot=toggle-group-item]]:rounded-none"
+          className="overflow-hidden rounded-lg border border-input bg-background divide-x divide-border"
         >
           <ToggleGroupItem
             value="2D"
             size="sm"
-            variant="outline"
-            className="h-8  data-[pressed]:bg-accent"
+            className="h-8 rounded-none bg-background data-[pressed]:bg-accent"
           >
             2D
           </ToggleGroupItem>
           <ToggleGroupItem
             value="3D"
             size="sm"
-            variant="outline"
-            className="h-8 data-[pressed]:bg-accent"
+            className="h-8 rounded-none bg-background data-[pressed]:bg-accent"
           >
             3D
           </ToggleGroupItem>
@@ -143,7 +141,7 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
                   <ToggleGroupItem
                     value="rotate"
                     variant="outline"
-                    className="size-8 p-0"
+                    className="size-8 bg-background p-0 data-[pressed]:bg-accent"
                     aria-label="Autorotate"
                   />
                 }
@@ -162,7 +160,7 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
                 <ToggleGroupItem
                   value="particles"
                   variant="outline"
-                  className="size-8 p-0"
+                  className="size-8 bg-background p-0 data-[pressed]:bg-accent"
                   aria-label="Show arrow particles"
                 />
               }
@@ -180,7 +178,7 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
                 <ToggleGroupItem
                   value="outLinks"
                   variant="outline"
-                  className="size-8 p-0"
+                  className="size-8 bg-background p-0 data-[pressed]:bg-accent"
                   size="sm"
                   aria-label="Show out links"
                 />
@@ -200,6 +198,7 @@ export const Graphs: React.FC<Props> = ({ kanjiInfo, graphData }) => {
                 <Button
                   variant="outline"
                   size="icon"
+                  className="!bg-background hover:!bg-muted dark:!bg-background dark:hover:!bg-muted"
                   aria-label="Fit to screen"
                   onClick={handleZoomToFit}
                 />

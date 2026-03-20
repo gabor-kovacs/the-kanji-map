@@ -7,6 +7,9 @@ import { KanjiStrokeAnimation } from "./kanji-animation";
 
 interface Props {
   kanjiInfo: KanjiInfo | null;
+  variantInfo: {
+    aliases: string[];
+  };
   graphData: BothGraphData | null;
   strokeAnimation: string | null;
   screen?: "mobile" | "desktop";
@@ -24,6 +27,7 @@ const makeSvgUnique = (svgContent: string, screen: string): string => {
 
 export const Kanji = ({
   kanjiInfo,
+  variantInfo,
   graphData,
   strokeAnimation,
   screen,
@@ -100,6 +104,12 @@ export const Kanji = ({
                 ))}
             </p>
           </>
+        )}
+
+        {variantInfo.aliases.length > 0 && (
+          <p>
+            Variants: <strong>{variantInfo.aliases.join(", ")}</strong>
+          </p>
         )}
       </div>
 

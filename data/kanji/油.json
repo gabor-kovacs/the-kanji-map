@@ -125,7 +125,7 @@
       }
     ],
     "kname": "yu-abura",
-    "rad_utf": "氵",
+    "rad_utf": "⺡",
     "stroketimes": [
       0,
       0.733333,
@@ -237,7 +237,7 @@
       }
     },
     "radical": {
-      "character": "氵",
+      "character": "⺡",
       "strokes": 3,
       "image": "https://media.kanjialive.com/radical_character/sanzui.svg",
       "position": {
@@ -309,6 +309,11 @@
         "example": "油然",
         "reading": "ユウゼン",
         "meaning": "gushingly, freely (welling up), copiously"
+      },
+      {
+        "example": "油油",
+        "reading": "ユウユウ",
+        "meaning": "shiny, glossy, bright, sleek"
       }
     ],
     "kunyomiExamples": [
