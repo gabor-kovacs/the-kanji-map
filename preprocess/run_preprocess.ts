@@ -9,7 +9,7 @@ type Step = {
 };
 
 const preprocessDir = path.dirname(fileURLToPath(import.meta.url));
-const bunPath = process.execPath;
+const bunCommand = process.env.BUN_BINARY?.trim() || "bun";
 
 const steps: Step[] = [
   {
@@ -19,17 +19,17 @@ const steps: Step[] = [
   },
   {
     label: "Create composition",
-    command: bunPath,
+    command: bunCommand,
     args: ["run", "1_create_composition.ts"],
   },
   {
     label: "Create searchlist",
-    command: bunPath,
+    command: bunCommand,
     args: ["run", "2_create_searchlist.ts"],
   },
   {
     label: "Create kanji data",
-    command: bunPath,
+    command: bunCommand,
     args: ["run", "3_create_data.ts"],
   },
 ];

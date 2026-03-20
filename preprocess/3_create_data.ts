@@ -283,7 +283,7 @@ const getJishoDataWithRetry = async (
       // Handle 404 - kanji doesn't exist in Jisho
       if (status === 404) {
         console.log(`⚠ 404 Not Found for ${id}`);
-        return null;
+        throw new Error(`Jisho does not serve kanji ${id}`);
       }
 
       // Retry rate limits, server errors, and transient network/timeout failures.
