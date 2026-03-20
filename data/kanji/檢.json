@@ -12,7 +12,18 @@
     "onyomi": [
       "ケン"
     ],
-    "onyomiExamples": [],
+    "onyomiExamples": [
+      {
+        "example": "検察",
+        "reading": "ケンサツ",
+        "meaning": "criminal investigation, prosecution, examination, investigation"
+      },
+      {
+        "example": "検事",
+        "reading": "ケンジ",
+        "meaning": "public prosecutor"
+      }
+    ],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "木",

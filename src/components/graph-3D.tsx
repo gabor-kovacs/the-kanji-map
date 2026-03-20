@@ -25,6 +25,8 @@ interface Props {
 
 export const dynamic = "force-dynamic";
 
+const KANJI_SPRITE_OFFSET_Y = 2.0;
+
 const Graph3D = ({
   kanjiInfo,
   graphData,
@@ -107,7 +109,7 @@ const Graph3D = ({
               z: node.z * distRatio,
             }, // new position
             { x: node.x, y: node.y, z: node.z }, // lookAt ({ x, y, z })
-            1000 // ms transition duration
+            1000, // ms transition duration
           );
         }
       }
@@ -164,7 +166,7 @@ const Graph3D = ({
       node.__threeObj.children[1].material.color.setRGB(
         color.r * 0.8,
         color.g * 0.8,
-        color.b * 0.8
+        color.b * 0.8,
       );
     }
   };
@@ -217,7 +219,7 @@ const Graph3D = ({
           const linkLength = Math.hypot(
             target.x - source.x,
             target.y - source.y,
-            target.z - source.z
+            target.z - source.z,
           );
           return (linkLength - 8) / linkLength;
         } else {
@@ -277,7 +279,7 @@ const Graph3D = ({
             transparent: true,
             depthWrite: false,
             opacity: 0.8,
-          })
+          }),
         );
 
         // If it's a single character
@@ -288,6 +290,7 @@ const Graph3D = ({
         sprite.textHeight = 10;
         sprite.fontSize = 120;
         sprite.padding = 3;
+        sprite.offsetY = KANJI_SPRITE_OFFSET_Y;
 
         const group = new THREE.Group();
         group.add(sprite);

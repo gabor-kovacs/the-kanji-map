@@ -181,7 +181,7 @@
     "rad_name_search": [
       "chikara"
     ],
-    "rad_utf": "力",
+    "rad_utf": "⼒",
     "stroketimes": [
       0,
       1.8,
@@ -318,7 +318,7 @@
       }
     },
     "radical": {
-      "character": "力",
+      "character": "⼒",
       "strokes": 2,
       "image": "https://media.kanjialive.com/radical_character/chikara.svg",
       "position": {
@@ -397,6 +397,11 @@
         "meaning": "dark indigo (almost black)"
       },
       {
+        "example": "ドン勝",
+        "reading": "ドンかつ",
+        "meaning": "winning a match, coming in first, victory"
+      },
+      {
         "example": "勝る",
         "reading": "まさる",
         "meaning": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate"
@@ -420,6 +425,11 @@
         "example": "褐色",
         "reading": "かちいろ",
         "meaning": "dark indigo (almost black)"
+      },
+      {
+        "example": "ドン勝",
+        "reading": "ドンかつ",
+        "meaning": "winning a match, coming in first, victory"
       }
     ],
     "radical": {

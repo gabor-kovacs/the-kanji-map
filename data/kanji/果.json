@@ -145,7 +145,7 @@
       }
     ],
     "kname": "ha(tasu)",
-    "rad_utf": "木",
+    "rad_utf": "⽊",
     "stroketimes": [
       0,
       1.2,
@@ -274,7 +274,7 @@
       }
     },
     "radical": {
-      "character": "木",
+      "character": "⽊",
       "strokes": 4,
       "image": "https://media.kanjialive.com/radical_character/ki.svg",
       "position": {
@@ -367,6 +367,11 @@
         "example": "果てしない",
         "reading": "はてしない",
         "meaning": "endless, boundless, everlasting"
+      },
+      {
+        "example": "挙句の果て",
+        "reading": "あげくのはて",
+        "meaning": "finally, in the end, after all that, eventually, on top of all that"
       }
     ],
     "radical": {

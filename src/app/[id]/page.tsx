@@ -1,4 +1,10 @@
-import { getAllKanji, getGraphData, getKanjiDataLocal, getStrokeAnimation } from "@/lib";
+import {
+  getAllKanji,
+  getGraphData,
+  getKanjiDataLocal,
+  getNavigableRadicalIds,
+  getStrokeAnimation,
+} from "@/lib";
 import { aliasIds, getKanjiVariants, resolveKanjiId } from "@/lib/kanji-variants";
 import { Metadata } from "next";
 import { KanjiPageContent } from "./inner";
@@ -41,6 +47,7 @@ export default async function KanjiPage({
   const kanjiInfo = await getKanjiDataLocal(canonicalId);
   const graphData = await getGraphData(canonicalId);
   const strokeAnimation = await getStrokeAnimation(canonicalId);
+  const navigableRadicalIds = getNavigableRadicalIds();
 
   if (!kanjiInfo) {
     notFound();
@@ -56,6 +63,7 @@ export default async function KanjiPage({
         kanjiInfo={kanjiInfo}
         graphData={graphData}
         strokeAnimation={strokeAnimation}
+        navigableRadicalIds={navigableRadicalIds}
       />
     </div>
   );

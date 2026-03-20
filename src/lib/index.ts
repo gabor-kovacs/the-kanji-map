@@ -1,17 +1,12 @@
 import "server-only";
 
 import composition from "@/../data/composition.json";
+import radicallist from "@/../data/radicallist.json";
 import searchlist from "@/../data/searchlist.json";
-import { execFile } from "child_process";
 import fsPromises from "fs/promises";
 import { notFound } from "next/navigation";
 import type { GraphData } from "react-force-graph-3d";
-import { promisify } from "util";
-import {
-  canonicalizeKanjiIds,
-  getCanonicalAliases,
-  resolveKanjiId,
-} from "./kanji-variants";
+import { canonicalizeKanjiIds, resolveKanjiId } from "./kanji-variants";
 
 type CompositionEntry = {
   in: string[];
@@ -25,8 +20,6 @@ type SearchListEntry = {
   j?: string | null;
   s?: number | null;
 };
-
-const execFileAsync = promisify(execFile);
 
 const scoreSearchEntry = (entry: SearchListEntry, canonicalKanji: string) =>
   (entry.k === canonicalKanji ? 100 : 0) +
@@ -55,6 +48,39 @@ const searchFallbackByKanji = (() => {
   });
 
   return fallbackEntries;
+})();
+
+const normalizeRadicalChar = (value?: string | null) =>
+  value?.normalize("NFKC").trim() ?? "";
+
+const radicalBaseByChar = (() => {
+  const baseByChar = new Map<string, string>();
+
+  (radicallist as any[]).forEach((entry) => {
+    const radical = normalizeRadicalChar(entry?.radical);
+    const original = normalizeRadicalChar(entry?.original);
+    const base = original || radical;
+
+    if (radical && base && !baseByChar.has(radical)) {
+      baseByChar.set(radical, base);
+    }
+
+    const alternatives: string[] = Array.isArray(entry?.alternatives)
+      ? entry.alternatives
+      : [];
+    alternatives.forEach((alternative) => {
+      const normalizedAlternative = normalizeRadicalChar(alternative);
+      if (
+        normalizedAlternative &&
+        base &&
+        !baseByChar.has(normalizedAlternative)
+      ) {
+        baseByChar.set(normalizedAlternative, base);
+      }
+    });
+  });
+
+  return baseByChar;
 })();
 
 const canonicalComposition = (() => {
@@ -98,22 +124,10 @@ const canonicalComposition = (() => {
   ) as Record<string, CompositionEntry>;
 })();
 
-const readCanonicalKanjiDataFromGit = async (id: string) => {
-  try {
-    const { stdout } = await execFileAsync(
-      "git",
-      ["show", `HEAD:data/kanji/${id}.json`],
-      {
-        cwd: process.cwd(),
-        encoding: "utf8",
-        maxBuffer: 10 * 1024 * 1024,
-      }
-    );
-
-    return JSON.parse(stdout) as KanjiInfo;
-  } catch {
-    return null;
-  }
+const readKanjiDataFile = async (id: string) => {
+  const filePath = `${process.cwd()}/data/kanji/${id}.json`;
+  const jsonData = await fsPromises.readFile(filePath, "utf8");
+  return JSON.parse(jsonData) as KanjiInfo;
 };
 
 /**
@@ -127,6 +141,27 @@ export const getAllKanji = () => {
       },
     };
   });
+};
+
+export const getNavigableRadicalIds = () => {
+  const pageIds = new Set(Object.keys(canonicalComposition));
+  const radicalIds = new Set<string>();
+
+  (radicallist as any[]).forEach((entry) => {
+    const candidates = [
+      entry?.radical,
+      ...(Array.isArray(entry?.alternatives) ? entry.alternatives : []),
+    ];
+
+    candidates.forEach((candidate) => {
+      const canonicalId = resolveKanjiId(normalizeRadicalChar(candidate));
+      if (canonicalId && pageIds.has(canonicalId)) {
+        radicalIds.add(canonicalId);
+      }
+    });
+  });
+
+  return Array.from(radicalIds);
 };
 
 /**
@@ -144,25 +179,19 @@ export const getKanjiDataLocal: (
   }
 
   // Compute path inline to minimize Turbopack static analysis
-  const filePath = `${process.cwd()}/data/kanji/${normalizedId}.json`;
-
   try {
-    const jsonData = await fsPromises.readFile(filePath, "utf8");
-    const parsedData = JSON.parse(jsonData) as KanjiInfo;
-    const hasAliases = getCanonicalAliases(normalizedId).length > 0;
-    const parsedId = typeof parsedData.id === "string" ? parsedData.id : "";
-    const hasCollapsedAliasId =
-      parsedId !== normalizedId && resolveKanjiId(parsedId) === normalizedId;
-    const shouldRecoverFromGit =
-      hasAliases &&
-      (hasCollapsedAliasId ||
-        !parsedData.kanjialiveData ||
-        parsedData.jishoData?.found === false);
-    const effectiveData =
-      (shouldRecoverFromGit
-        ? await readCanonicalKanjiDataFromGit(normalizedId)
-        : null) ?? parsedData;
+    const effectiveData = await readKanjiDataFile(normalizedId);
     const searchFallback = searchFallbackByKanji.get(normalizedId);
+    const baseRadicalId = radicalBaseByChar.get(normalizedId);
+    const shouldHydrateRadicalFromBase =
+      !!baseRadicalId &&
+      baseRadicalId !== normalizedId &&
+      !effectiveData.kanjialiveData?.radical;
+    const baseRadicalData = shouldHydrateRadicalFromBase
+      ? await readKanjiDataFile(baseRadicalId)
+          .then((data) => data)
+          .catch(() => null)
+      : null;
 
     const shouldHydrateFromSearchFallback =
       (!effectiveData.jishoData || effectiveData.jishoData.found === false) &&
@@ -171,6 +200,14 @@ export const getKanjiDataLocal: (
     return {
       ...effectiveData,
       id: normalizedId,
+      kanjialiveData:
+        shouldHydrateRadicalFromBase &&
+        baseRadicalData?.kanjialiveData?.radical
+          ? {
+              ...(effectiveData.kanjialiveData ?? {}),
+              radical: baseRadicalData.kanjialiveData.radical,
+            }
+          : effectiveData.kanjialiveData,
       jishoData: shouldHydrateFromSearchFallback
         ? {
             ...(effectiveData.jishoData ?? {}),

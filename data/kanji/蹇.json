@@ -14,7 +14,13 @@
     "onyomi": [
       "ケン"
     ],
-    "onyomiExamples": [],
+    "onyomiExamples": [
+      {
+        "example": "水山蹇",
+        "reading": "スイザンケン",
+        "meaning": "jian (hexagram 39 of the I Ching: obstruction)"
+      }
+    ],
     "kunyomiExamples": [
       {
         "example": "跛",
@@ -25,7 +31,7 @@
     "radical": {
       "symbol": "足",
       "forms": [
-        "𧾷"
+        "⻊"
       ],
       "meaning": "foot"
     },

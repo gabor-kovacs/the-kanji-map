@@ -25,6 +25,8 @@ interface Props {
 
 type NodeObjectWithData = NodeObject & { data: KanjiInfo };
 
+const KANJI_TEXT_OFFSET_Y = 0.5;
+
 const Graph2D: React.FC<Props> = ({
   kanjiInfo,
   graphData,
@@ -53,7 +55,7 @@ const Graph2D: React.FC<Props> = ({
     setData(
       showOutLinks
         ? graphData?.withOutLinks
-        : (graphData?.noOutLinks as unknown as GraphData)
+        : (graphData?.noOutLinks as unknown as GraphData),
     );
   }, [graphData?.noOutLinks, graphData?.withOutLinks, showOutLinks]);
 
@@ -76,7 +78,7 @@ const Graph2D: React.FC<Props> = ({
 
   const paintNode = (
     node: NodeObject,
-    ctx: CanvasRenderingContext2D
+    ctx: CanvasRenderingContext2D,
     // globalScale: number
   ) => {
     const label = String(node.id);
@@ -118,7 +120,9 @@ const Graph2D: React.FC<Props> = ({
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
     ctx.fillStyle = "black";
-    node.x && node.y && ctx.fillText(label, node.x, node.y);
+    node.x &&
+      node.y &&
+      ctx.fillText(label, node.x, node.y + KANJI_TEXT_OFFSET_Y);
 
     // node.__bckgDimensions = bckgDimensions; // to re-use in nodePointerAreaPaint
   };
@@ -175,7 +179,7 @@ const Graph2D: React.FC<Props> = ({
         ctx.font = `${fontSize}px Sans-Serif`;
         const textWidth = ctx.measureText(label).width;
         const bckgDimensions = [textWidth, fontSize].map(
-          (n) => n + fontSize * 0.2
+          (n) => n + fontSize * 0.2,
         ); // some padding
         // const bckgDimensions = node.__bckgDimensions;
         const radius = (bckgDimensions[1] / 2) * 1.5;
@@ -205,7 +209,7 @@ const Graph2D: React.FC<Props> = ({
 
           const linkText = sameOn(
             String(link.source.id),
-            String(link.target.id)
+            String(link.target.id),
           );
 
           ctx.beginPath();
@@ -243,7 +247,7 @@ const Graph2D: React.FC<Props> = ({
         ) {
           const linkLength = Math.hypot(
             target.x - source.x,
-            target.y - source.y
+            target.y - source.y,
           );
 
           return (linkLength - 3) / linkLength;

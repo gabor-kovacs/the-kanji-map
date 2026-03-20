@@ -31,7 +31,11 @@ import * as React from "react";
 import { Virtuoso } from "react-virtuoso";
 
 import searchlist from "@/../data/searchlist.json";
-import { buildKanjiHref, resolveKanjiId } from "@/lib/kanji-variants";
+import {
+  buildKanjiHref,
+  getCanonicalAliases,
+  resolveKanjiId,
+} from "@/lib/kanji-variants";
 
 const JLPT_LEVELS = ["N5", "N4", "N3", "N2", "N1"] as const;
 type JLPTLevel = (typeof JLPT_LEVELS)[number];
@@ -160,7 +164,8 @@ const OPTIONS: SearchOption[] = (() => {
   (searchlist as SearchListEntry[]).forEach((entry) => {
     const canonicalKanji = resolveKanjiId(entry.k);
     const existing = mergedEntries.get(canonicalKanji);
-    const aliases = existing?.aliases ?? new Set<string>();
+    const aliases =
+      existing?.aliases ?? new Set<string>(getCanonicalAliases(canonicalKanji));
 
     if (entry.k !== canonicalKanji) {
       aliases.add(entry.k);

@@ -8,15 +8,16 @@ The Kanji Map is a Japanese language learning tool that shows kanji information 
 
 or [thekanjimap.netlify.app](https://thekanjimap.netlify.app) (backup)
 
-## Changelog
+## What's New
 
-- **2025-10-15 – Version 6.0.0**
-  - Added Go script updates to keep Kangxi/CJK compatibility radicals consistent (thanks to [mochi-co/equivalent-unified-ideograph](https://github.com/mochi-co/equivalent-unified-ideograph)), avoiding issues like 忄 vs. 忄 being mixed.
-  - Reworked the data composition pipeline; radical alternative forms now link back to the original form.
-  - Updated the kanji dataset.
-  - Fixed a bug where kanji without stroke animations were not displayed.
-  - Fixed radicals and added alternative forms with position metadata.
-  - Added a custom font to display radicals (thanks to [KanjiVG](https://github.com/KanjiVG/kanjivg)).
+Latest release: **2026-03-20 – Version 6.2.0**
+
+- Compatibility-form kanji aliases now resolve to one canonical page while remaining searchable.
+- The preprocess flow is more robust, with source normalization, retries, stale JSON cleanup, and a single runner script.
+- Radical pages are more complete: alternate forms can link to their own pages and inherit the correct metadata and animation.
+- Graph and page interactions were polished, including graph alignment and clearer interactive controls.
+
+For full release history, see [CHANGELOG.md](./CHANGELOG.md).
 
 
 ## Kanji information

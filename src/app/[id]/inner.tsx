@@ -23,6 +23,7 @@ interface KanjiPageContentProps {
   kanjiInfo: KanjiInfo; // Replace 'any' with the actual type
   graphData: BothGraphData; // Replace 'any' with the actual type
   strokeAnimation: string | null; // Replace 'any' with the actual type
+  navigableRadicalIds: string[];
 }
 
 export function KanjiPageContent({
@@ -32,6 +33,7 @@ export function KanjiPageContent({
   kanjiInfo,
   graphData,
   strokeAnimation,
+  navigableRadicalIds,
 }: KanjiPageContentProps) {
   const isMobile = useMediaQuery({ query: "(max-width: 768px)" });
   const router = useRouter();
@@ -94,7 +96,10 @@ export function KanjiPageContent({
               label: "部首",
               content: (
                 <div className="p-4">
-                  <Radical kanjiInfo={kanjiInfo} />
+                  <Radical
+                    kanjiInfo={kanjiInfo}
+                    navigableRadicalIds={navigableRadicalIds}
+                  />
                 </div>
               ),
             },
@@ -149,7 +154,10 @@ export function KanjiPageContent({
             </div>
           </ScrollArea>
           <div className="p-4 border-l">
-            <Radical kanjiInfo={kanjiInfo} />
+            <Radical
+              kanjiInfo={kanjiInfo}
+              navigableRadicalIds={navigableRadicalIds}
+            />
           </div>
         </div>
         <div className="bottom grid grid-cols-[2fr_3fr] overflow-hidden">
