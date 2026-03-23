@@ -45,6 +45,3 @@ export const getKanjiVariants = (id: string) => {
 
 export const canonicalizeKanjiIds = (ids: Iterable<string>) =>
   Array.from(new Set(Array.from(ids, (id) => resolveKanjiId(id))));
-
-export const buildKanjiHref = (id: string) =>
-  `/${encodeURIComponent(resolveKanjiId(id))}`;

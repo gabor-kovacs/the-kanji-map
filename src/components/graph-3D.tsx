@@ -1,7 +1,7 @@
 "use client";
 
 import kanjilist from "@/../data/kanjilist.json";
-import { buildKanjiHref } from "@/lib/kanji-variants";
+import { buildKanjiHref, type MobileTabKey } from "@/lib/kanji-routing";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/navigation";
 import * as React from "react";
@@ -21,6 +21,10 @@ interface Props {
   bounds: RectReadOnly;
   autoRotate: boolean;
   showParticles: boolean;
+  navigationTab?: MobileTabKey;
+  enableNodePreview?: boolean;
+  onPreviewNode?: (node: { id: string; data: KanjiInfo | null }) => void;
+  onClosePreview?: () => void;
 }
 
 export const dynamic = "force-dynamic";
@@ -35,6 +39,10 @@ const Graph3D = ({
   bounds,
   autoRotate,
   showParticles,
+  navigationTab,
+  enableNodePreview = false,
+  onPreviewNode,
+  onClosePreview,
 }: Props) => {
   if (!graphData || !kanjiInfo) return <></>;
 
@@ -68,16 +76,34 @@ const Graph3D = ({
 
   // const data = graphData?.withOutLinks;
 
+  const buildNodeHref = React.useCallback(
+    (id: string) =>
+      buildKanjiHref(id, {
+        tab: navigationTab ?? null,
+      }),
+    [navigationTab],
+  );
+
   const handleClick = (node: NodeObject) => {
-    void router.push(buildKanjiHref(String(node?.id)));
+    const nodeId = String(node?.id);
+
+    if (enableNodePreview && onPreviewNode) {
+      onPreviewNode({
+        id: nodeId,
+        data: ((node as NodeObjectWithData).data ?? null) as KanjiInfo | null,
+      });
+      return;
+    }
+
+    void router.push(buildNodeHref(nodeId));
   };
 
   // prefetch routes for nodes visible in the graph
   React.useEffect(() => {
     data?.nodes?.forEach((node) => {
-      void router.prefetch(buildKanjiHref(String(node.id)));
+      void router.prefetch(buildNodeHref(String(node.id)));
     });
-  }, [data, router]);
+  }, [buildNodeHref, data, router]);
 
   React.useEffect(() => {
     const controls = fg3DRef?.current?.controls();
@@ -237,8 +263,17 @@ const Graph3D = ({
       // warmupTicks={120}
       // cooldownTime={1500}
       onNodeClick={handleClick}
+      onBackgroundClick={() => {
+        if (enableNodePreview) {
+          onClosePreview?.();
+        }
+      }}
       onNodeHover={handleHover}
       nodeLabel={(n) => {
+        if (enableNodePreview) {
+          return "";
+        }
+
         const node = n as NodeObjectWithData;
         if (!node.data || !node.data.jishoData) {
           return "";

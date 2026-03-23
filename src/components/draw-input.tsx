@@ -2,7 +2,8 @@
 import * as React from "react";
 import searchlist from "@/../data/searchlist.json";
 import { cn } from "@/lib/utils";
-import { buildKanjiHref, resolveKanjiId } from "@/lib/kanji-variants";
+import { buildKanjiHref } from "@/lib/kanji-routing";
+import { resolveKanjiId } from "@/lib/kanji-variants";
 import { CircleXIcon, SearchIcon } from "lucide-react";
 import Link from "next/link";
 import Handwriting from "@/lib/handwriting";

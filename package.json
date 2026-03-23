@@ -1,7 +1,7 @@
 {
   "name": "the-kanji-map",
   "author": "gabor-kovacs",
-  "version": "6.0.1",
+  "version": "6.3.0",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -14,6 +14,7 @@
     "@base-ui/react": "^1.2.0",
     "@juggle/resize-observer": "^3.4.0",
     "@netlify/plugin-nextjs": "^5.15.8",
+    "@radix-ui/react-dialog": "^1.1.15",
     "@tailwindcss/postcss": "^4.2.1",
     "@types/react-responsive": "^9.0.0",
     "autoprefixer": "^10.4.27",

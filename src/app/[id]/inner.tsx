@@ -10,8 +10,13 @@ import { SearchInput } from "@/components/search-input";
 import { DrawInput } from "@/components/draw-input";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { SearchIcon } from "lucide-react";
-import { buildKanjiHref } from "@/lib/kanji-variants";
-import { useRouter } from "next/navigation";
+import {
+  getMobileTabIndex,
+  getMobileTabKey,
+  MOBILE_TAB_PARAM,
+} from "@/lib/kanji-routing";
+import { buildKanjiHref } from "@/lib/kanji-routing";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import React from "react";
 
 interface KanjiPageContentProps {
@@ -37,6 +42,17 @@ export function KanjiPageContent({
 }: KanjiPageContentProps) {
   const isMobile = useMediaQuery({ query: "(max-width: 768px)" });
   const router = useRouter();
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+  const urlMobileTab = getMobileTabIndex(searchParams.get(MOBILE_TAB_PARAM));
+  const [mobileTabOverride, setMobileTabOverride] = React.useState<{
+    pathname: string;
+    tab: number;
+  } | null>(null);
+  const activeMobileTab =
+    mobileTabOverride && mobileTabOverride.pathname === pathname
+      ? mobileTabOverride.tab
+      : urlMobileTab;
 
   const [isMounted, setIsMounted] = React.useState(false);
   React.useEffect(() => {
@@ -44,10 +60,53 @@ export function KanjiPageContent({
   }, []);
 
   React.useEffect(() => {
-    if (isMounted && requestedId !== canonicalId) {
-      void router.replace(buildKanjiHref(canonicalId));
+    if (
+      mobileTabOverride &&
+      mobileTabOverride.pathname === pathname &&
+      mobileTabOverride.tab === urlMobileTab
+    ) {
+      setMobileTabOverride(null);
     }
-  }, [canonicalId, isMounted, requestedId, router]);
+  }, [mobileTabOverride, pathname, urlMobileTab]);
+
+  const handleMobileTabChange = React.useCallback(
+    (tabIndex: number) => {
+      if (tabIndex === activeMobileTab) {
+        return;
+      }
+
+      setMobileTabOverride({
+        pathname,
+        tab: tabIndex,
+      });
+
+      const nextParams = new URLSearchParams(searchParams.toString());
+      nextParams.set(MOBILE_TAB_PARAM, getMobileTabKey(tabIndex));
+      const nextQuery = nextParams.toString();
+      const nextUrl = nextQuery ? `${pathname}?${nextQuery}` : pathname;
+      window.history.replaceState(window.history.state, "", nextUrl);
+    },
+    [activeMobileTab, pathname, searchParams],
+  );
+
+  React.useEffect(() => {
+    if (isMounted && requestedId !== canonicalId) {
+      void router.replace(
+        buildKanjiHref(canonicalId, {
+          tab: searchParams.get(MOBILE_TAB_PARAM)
+            ? getMobileTabKey(activeMobileTab)
+            : null,
+        }),
+      );
+    }
+  }, [
+    activeMobileTab,
+    canonicalId,
+    isMounted,
+    requestedId,
+    router,
+    searchParams,
+  ]);
 
   // Render placeholder with same structure to prevent layout shift
   if (!isMounted) {
@@ -115,7 +174,14 @@ export function KanjiPageContent({
             {
               id: 3,
               label: "図",
-              content: <Graphs kanjiInfo={kanjiInfo} graphData={graphData} />,
+              content: (
+                <Graphs
+                  kanjiInfo={kanjiInfo}
+                  graphData={graphData}
+                  enableNodePreview
+                  navigationTab="graph"
+                />
+              ),
             },
             {
               id: 4,
@@ -130,7 +196,8 @@ export function KanjiPageContent({
               ),
             },
           ]}
-          initialActiveTab={0}
+          activeTab={activeMobileTab}
+          onActiveTabChange={handleMobileTabChange}
         />
       </div>
     );

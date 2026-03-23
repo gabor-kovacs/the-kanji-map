@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-03-23 - Version 6.3.0
+
+- Improved mobile graph exploration: tapping a node now opens a bottom-sheet preview instead of immediately navigating away.
+- Preserved mobile tab state in the URL, so opening kanji from the graph keeps the graph tab active on the next page and browser back navigation returns to the same tab.
+- Added a dedicated mobile graph preview sheet with larger touch targets and cleaner tap behavior for switching between nodes.
+- Added a local `Sheet` UI primitive for the mobile graph preview flow.
+
 ## 2026-03-20 - Version 6.2.0
 
 - Added canonical kanji alias handling so compatibility forms resolve to a single canonical page while still exposing variants.
