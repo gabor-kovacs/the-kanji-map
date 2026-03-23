@@ -10,8 +10,13 @@ import { SearchInput } from "@/components/search-input";
 import { DrawInput } from "@/components/draw-input";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { SearchIcon } from "lucide-react";
-import { buildKanjiHref } from "@/lib/kanji-variants";
-import { useRouter } from "next/navigation";
+import {
+  getMobileTabIndex,
+  getMobileTabKey,
+  MOBILE_TAB_PARAM,
+} from "@/lib/kanji-routing";
+import { buildKanjiHref } from "@/lib/kanji-routing";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import React from "react";
 
 interface KanjiPageContentProps {
@@ -37,17 +42,44 @@ export function KanjiPageContent({
 }: KanjiPageContentProps) {
   const isMobile = useMediaQuery({ query: "(max-width: 768px)" });
   const router = useRouter();
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+  const activeMobileTab = getMobileTabIndex(searchParams.get(MOBILE_TAB_PARAM));
 
   const [isMounted, setIsMounted] = React.useState(false);
   React.useEffect(() => {
     setIsMounted(true);
   }, []);
 
+  const handleMobileTabChange = React.useCallback(
+    (tabIndex: number) => {
+      const nextParams = new URLSearchParams(searchParams.toString());
+      nextParams.set(MOBILE_TAB_PARAM, getMobileTabKey(tabIndex));
+      void router.replace(`${pathname}?${nextParams.toString()}`, {
+        scroll: false,
+      });
+    },
+    [pathname, router, searchParams],
+  );
+
   React.useEffect(() => {
     if (isMounted && requestedId !== canonicalId) {
-      void router.replace(buildKanjiHref(canonicalId));
+      void router.replace(
+        buildKanjiHref(canonicalId, {
+          tab: searchParams.get(MOBILE_TAB_PARAM)
+            ? getMobileTabKey(activeMobileTab)
+            : null,
+        }),
+      );
     }
-  }, [canonicalId, isMounted, requestedId, router]);
+  }, [
+    activeMobileTab,
+    canonicalId,
+    isMounted,
+    requestedId,
+    router,
+    searchParams,
+  ]);
 
   // Render placeholder with same structure to prevent layout shift
   if (!isMounted) {
@@ -115,7 +147,14 @@ export function KanjiPageContent({
             {
               id: 3,
               label: "図",
-              content: <Graphs kanjiInfo={kanjiInfo} graphData={graphData} />,
+              content: (
+                <Graphs
+                  kanjiInfo={kanjiInfo}
+                  graphData={graphData}
+                  enableNodePreview
+                  navigationTab="graph"
+                />
+              ),
             },
             {
               id: 4,
@@ -130,7 +169,8 @@ export function KanjiPageContent({
               ),
             },
           ]}
-          initialActiveTab={0}
+          activeTab={activeMobileTab}
+          onActiveTabChange={handleMobileTabChange}
         />
       </div>
     );

@@ -2,7 +2,8 @@
 
 import * as React from "react";
 import Link from "next/link";
-import { buildKanjiHref, resolveKanjiId } from "@/lib/kanji-variants";
+import { buildKanjiHref } from "@/lib/kanji-routing";
+import { resolveKanjiId } from "@/lib/kanji-variants";
 import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import RadicalImages from "./radical-images";

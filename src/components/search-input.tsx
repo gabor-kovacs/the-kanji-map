@@ -32,10 +32,10 @@ import { Virtuoso } from "react-virtuoso";
 
 import searchlist from "@/../data/searchlist.json";
 import {
-  buildKanjiHref,
   getCanonicalAliases,
   resolveKanjiId,
 } from "@/lib/kanji-variants";
+import { buildKanjiHref } from "@/lib/kanji-routing";
 
 const JLPT_LEVELS = ["N5", "N4", "N3", "N2", "N1"] as const;
 type JLPTLevel = (typeof JLPT_LEVELS)[number];

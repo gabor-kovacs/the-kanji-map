@@ -8,7 +8,6 @@ import {
 import { cn } from "@/lib/utils";
 import { motion } from "framer-motion";
 
-import { Button } from "./ui/button";
 import * as React from "react";
 
 type Tab = {
@@ -20,32 +19,68 @@ type Tab = {
 export const MobileLayout = ({
   tabs,
   initialActiveTab = 0,
+  activeTab: controlledActiveTab,
+  onActiveTabChange,
   disabled = false,
 }: {
   tabs: Tab[];
   initialActiveTab?: number;
+  activeTab?: number;
+  onActiveTabChange?: (index: number) => void;
   disabled?: boolean;
 }) => {
   const [api, setApi] = React.useState<CarouselApi>();
+  const isControlled = typeof controlledActiveTab === "number";
+  const [internalActiveTab, setInternalActiveTab] =
+    React.useState(initialActiveTab);
+  const activeTab = isControlled ? controlledActiveTab : internalActiveTab;
+  const initialCarouselTab = React.useRef(activeTab);
 
-  const [activeTab, setActiveTab] = React.useState(initialActiveTab);
+  React.useEffect(() => {
+    if (!isControlled) {
+      setInternalActiveTab(initialActiveTab);
+    }
+  }, [initialActiveTab, isControlled]);
+
+  const setActiveTab = React.useCallback(
+    (nextTab: number) => {
+      if (!isControlled) {
+        setInternalActiveTab(nextTab);
+      }
+
+      onActiveTabChange?.(nextTab);
+    },
+    [isControlled, onActiveTabChange],
+  );
 
   React.useEffect(() => {
     if (!api) {
       return;
     }
-    setActiveTab(initialActiveTab);
-    api.on("select", () => {
-      setActiveTab(api.selectedScrollSnap());
-    });
-  }, [api]);
+
+    if (api.selectedScrollSnap() !== activeTab) {
+      api.scrollTo(activeTab);
+    }
+
+    const handleSelect = () => {
+      const nextTab = api.selectedScrollSnap();
+
+      if (nextTab !== activeTab) {
+        setActiveTab(nextTab);
+      }
+    };
+
+    api.on("select", handleSelect);
+
+    return () => {
+      api.off("select", handleSelect);
+    };
+  }, [activeTab, api, setActiveTab]);
 
   const handleTabClick = (newIdx: number) => {
     if (newIdx !== activeTab && !disabled) {
-      if (newIdx !== activeTab) {
-        setActiveTab(newIdx);
-        api?.scrollTo(newIdx);
-      }
+      setActiveTab(newIdx);
+      api?.scrollTo(newIdx);
     }
   };
 
@@ -54,23 +89,16 @@ export const MobileLayout = ({
       <Carousel
         setApi={setApi}
         className="size-full pb-10"
-        opts={{ watchDrag: false }}
+        opts={{ watchDrag: false, startIndex: initialCarouselTab.current }}
       >
         <CarouselContent className="relative size-full">
-          {tabs.map((tab, idx) => (
+          {tabs.map((tab) => (
             <CarouselItem key={tab.id} className="min-h-full">
               {tab.content}
             </CarouselItem>
           ))}
         </CarouselContent>
       </Carousel>
-      <div className="fixed bottom-0 left-0 right-0 flex gap-2 items-center">
-        {Array.from({ length: 5 }).map((_, i) => (
-          <Button size="icon" key={i} onClick={() => api?.scrollTo(i)}>
-            {i + 1}
-          </Button>
-        ))}
-      </div>
       <div
         className={cn(
           "absolute bg-background bottom-0 space-x-1 border-t cursor-pointer px-[3px] py-[3.2px] shadow-inner-shadow w-full grid grid-cols-5 shrink-0"
@@ -78,7 +106,7 @@ export const MobileLayout = ({
       >
         {tabs.map((tab, idx) => (
           <button
-            key={idx}
+            key={tab.id}
             onClick={() => handleTabClick(idx)}
             disabled={activeTab === idx ? false : disabled}
             className={cn(

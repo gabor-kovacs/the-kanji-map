@@ -10,12 +10,10 @@ or [thekanjimap.netlify.app](https://thekanjimap.netlify.app) (backup)
 
 ## What's New
 
-Latest release: **2026-03-20 – Version 6.2.0**
+Latest release: **2026-03-23 – Version 6.3.0**
 
-- Compatibility-form kanji aliases now resolve to one canonical page while remaining searchable.
-- The preprocess flow is more robust, with source normalization, retries, stale JSON cleanup, and a single runner script.
-- Radical pages are more complete: alternate forms can link to their own pages and inherit the correct metadata and animation.
-- Graph and page interactions were polished, including graph alignment and clearer interactive controls.
+- Mobile graph exploration is smoother: tapping a node opens a bottom-sheet preview instead of immediately leaving the graph.
+- Mobile tab state is now stored in the URL, so graph-driven navigation preserves the graph tab and back navigation returns to the same view.
 
 For full release history, see [CHANGELOG.md](./CHANGELOG.md).
 

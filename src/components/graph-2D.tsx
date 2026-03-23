@@ -9,7 +9,7 @@ import ForceGraph2D, {
   NodeObject,
 } from "react-force-graph-2d";
 import kanjilist from "@/../data/kanjilist.json";
-import { buildKanjiHref } from "@/lib/kanji-variants";
+import { buildKanjiHref, type MobileTabKey } from "@/lib/kanji-routing";
 import type { RectReadOnly } from "react-use-measure";
 import { useRouter } from "next/navigation";
 import { useTheme } from "next-themes";
@@ -21,6 +21,10 @@ interface Props {
   showParticles: boolean;
   triggerFocus: number;
   bounds: RectReadOnly;
+  navigationTab?: MobileTabKey;
+  enableNodePreview?: boolean;
+  onPreviewNode?: (node: { id: string; data: KanjiInfo | null }) => void;
+  onClosePreview?: () => void;
 }
 
 type NodeObjectWithData = NodeObject & { data: KanjiInfo };
@@ -34,6 +38,10 @@ const Graph2D: React.FC<Props> = ({
   showParticles,
   triggerFocus,
   bounds,
+  navigationTab,
+  enableNodePreview = false,
+  onPreviewNode,
+  onClosePreview,
 }) => {
   // group: el.g === 1 ? "joyo" : el.g === 2 ? "jinmeiyo" : "other",
   const joyoList = kanjilist.filter((el) => el.g === 1).map((el) => el.k);
@@ -59,15 +67,34 @@ const Graph2D: React.FC<Props> = ({
     );
   }, [graphData?.noOutLinks, graphData?.withOutLinks, showOutLinks]);
 
-  const handleClick = (node: NodeObject) =>
-    void router.push(buildKanjiHref(String(node.id)));
+  const buildNodeHref = React.useCallback(
+    (id: string) =>
+      buildKanjiHref(id, {
+        tab: navigationTab ?? null,
+      }),
+    [navigationTab],
+  );
+
+  const handleClick = (node: NodeObject) => {
+    const nodeId = String(node.id);
+
+    if (enableNodePreview && onPreviewNode) {
+      onPreviewNode({
+        id: nodeId,
+        data: ((node as NodeObjectWithData).data ?? null) as KanjiInfo | null,
+      });
+      return;
+    }
+
+    void router.push(buildNodeHref(nodeId));
+  };
 
   // prefetch routes for nodes visible in the graph
   React.useEffect(() => {
     data?.nodes?.forEach((node) => {
-      void router.prefetch(buildKanjiHref(String(node.id)));
+      void router.prefetch(buildNodeHref(String(node.id)));
     });
-  }, [data, router]);
+  }, [buildNodeHref, data, router]);
   // store the hovered node in a state
   const [hoverNode, setHoverNode] = React.useState<NodeObject | null>(null);
 
@@ -154,6 +181,10 @@ const Graph2D: React.FC<Props> = ({
       backgroundColor={"var(--color-background)"}
       graphData={data}
       nodeLabel={(n) => {
+        if (enableNodePreview) {
+          return "";
+        }
+
         const node = n as NodeObjectWithData;
         if (!node.data || !node.data.jishoData) {
           return "";
@@ -171,6 +202,11 @@ const Graph2D: React.FC<Props> = ({
       }}
       warmupTicks={10}
       onNodeClick={handleClick}
+      onBackgroundClick={() => {
+        if (enableNodePreview) {
+          onClosePreview?.();
+        }
+      }}
       nodeCanvasObject={paintNode}
       nodePointerAreaPaint={(node, color, ctx) => {
         const label = String(node.id);
