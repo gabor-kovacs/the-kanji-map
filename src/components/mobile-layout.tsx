@@ -35,6 +35,11 @@ export const MobileLayout = ({
     React.useState(initialActiveTab);
   const activeTab = isControlled ? controlledActiveTab : internalActiveTab;
   const initialCarouselTab = React.useRef(activeTab);
+  const activeTabRef = React.useRef(activeTab);
+
+  React.useEffect(() => {
+    activeTabRef.current = activeTab;
+  }, [activeTab]);
 
   React.useEffect(() => {
     if (!isControlled) {
@@ -44,10 +49,15 @@ export const MobileLayout = ({
 
   const setActiveTab = React.useCallback(
     (nextTab: number) => {
+      if (nextTab === activeTabRef.current) {
+        return;
+      }
+
+      activeTabRef.current = nextTab;
+
       if (!isControlled) {
         setInternalActiveTab(nextTab);
       }
-
       onActiveTabChange?.(nextTab);
     },
     [isControlled, onActiveTabChange],

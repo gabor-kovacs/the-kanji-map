@@ -44,22 +44,49 @@ export function KanjiPageContent({
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
-  const activeMobileTab = getMobileTabIndex(searchParams.get(MOBILE_TAB_PARAM));
+  const urlMobileTab = getMobileTabIndex(searchParams.get(MOBILE_TAB_PARAM));
+  const [mobileTabOverride, setMobileTabOverride] = React.useState<{
+    pathname: string;
+    tab: number;
+  } | null>(null);
+  const activeMobileTab =
+    mobileTabOverride && mobileTabOverride.pathname === pathname
+      ? mobileTabOverride.tab
+      : urlMobileTab;
 
   const [isMounted, setIsMounted] = React.useState(false);
   React.useEffect(() => {
     setIsMounted(true);
   }, []);
 
+  React.useEffect(() => {
+    if (
+      mobileTabOverride &&
+      mobileTabOverride.pathname === pathname &&
+      mobileTabOverride.tab === urlMobileTab
+    ) {
+      setMobileTabOverride(null);
+    }
+  }, [mobileTabOverride, pathname, urlMobileTab]);
+
   const handleMobileTabChange = React.useCallback(
     (tabIndex: number) => {
+      if (tabIndex === activeMobileTab) {
+        return;
+      }
+
+      setMobileTabOverride({
+        pathname,
+        tab: tabIndex,
+      });
+
       const nextParams = new URLSearchParams(searchParams.toString());
       nextParams.set(MOBILE_TAB_PARAM, getMobileTabKey(tabIndex));
-      void router.replace(`${pathname}?${nextParams.toString()}`, {
-        scroll: false,
-      });
+      const nextQuery = nextParams.toString();
+      const nextUrl = nextQuery ? `${pathname}?${nextQuery}` : pathname;
+      window.history.replaceState(window.history.state, "", nextUrl);
     },
-    [pathname, router, searchParams],
+    [activeMobileTab, pathname, searchParams],
   );
 
   React.useEffect(() => {
