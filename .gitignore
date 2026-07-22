@@ -38,3 +38,14 @@ keys*
 
 .env
 KANJI_MAP_IDEAS_PLAN.md
+
+# local AI/agent metadata
+.pi/
+.agents/
+.codex/
+.claude/
+.cursor/
+.windsurf/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
