@@ -5,11 +5,10 @@ import { Noto_Sans_JP } from "next/font/google";
 import localFont from "next/font/local";
 import "../styles/globals.css";
 import { Metadata } from "next";
-
-const siteUrl = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
+import { SITE_URL } from "@/lib/site";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(siteUrl),
+  metadataBase: new URL(SITE_URL),
   title: { default: "The Kanji Map", template: "%s | The Kanji Map" },
   description:
     "The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form.",

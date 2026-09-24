@@ -65,6 +65,7 @@ export const DrawInput: React.FC = () => {
         resolvedTheme as "dark" | "light",
       );
       setCanvas(can);
+      return () => can.destroy();
     }
   }, [resolvedTheme]);
 

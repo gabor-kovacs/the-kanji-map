@@ -37,18 +37,27 @@ class HandwritingCanvas {
   }
 
   private bindEvents() {
-    this.canvas.addEventListener("mousedown", this.onPointerDown.bind(this));
-    this.canvas.addEventListener("mousemove", this.onPointerMove.bind(this));
-    this.canvas.addEventListener("mouseup", this.onPointerUp.bind(this));
-    this.canvas.addEventListener("touchstart", this.onTouchStart.bind(this), {
+    this.canvas.addEventListener("mousedown", this.onPointerDown);
+    this.canvas.addEventListener("mousemove", this.onPointerMove);
+    this.canvas.addEventListener("mouseup", this.onPointerUp);
+    this.canvas.addEventListener("touchstart", this.onTouchStart, {
       passive: true,
     });
-    this.canvas.addEventListener("touchmove", this.onTouchMove.bind(this), {
+    this.canvas.addEventListener("touchmove", this.onTouchMove, {
       passive: true,
     });
-    this.canvas.addEventListener("touchend", this.onTouchEnd.bind(this), {
+    this.canvas.addEventListener("touchend", this.onTouchEnd, {
       passive: true,
     });
+  }
+
+  public destroy() {
+    this.canvas.removeEventListener("mousedown", this.onPointerDown);
+    this.canvas.removeEventListener("mousemove", this.onPointerMove);
+    this.canvas.removeEventListener("mouseup", this.onPointerUp);
+    this.canvas.removeEventListener("touchstart", this.onTouchStart);
+    this.canvas.removeEventListener("touchmove", this.onTouchMove);
+    this.canvas.removeEventListener("touchend", this.onTouchEnd);
   }
 
   public getTrace() {
@@ -88,35 +97,35 @@ class HandwritingCanvas {
     this.redo_trace = [];
   }
 
-  private onPointerDown(e: MouseEvent) {
+  private onPointerDown = (e: MouseEvent) => {
     this.startDrawing(e.clientX, e.clientY);
-  }
+  };
 
-  private onPointerMove(e: MouseEvent) {
+  private onPointerMove = (e: MouseEvent) => {
     if (this.drawing) {
       this.continueDrawing(e.clientX, e.clientY);
     }
-  }
+  };
 
-  private onPointerUp() {
+  private onPointerUp = () => {
     this.stopDrawing();
-  }
+  };
 
-  private onTouchStart(e: TouchEvent) {
+  private onTouchStart = (e: TouchEvent) => {
     const touch = e.touches[0];
-    this.startDrawing(touch.pageX, touch.pageY);
-  }
+    this.startDrawing(touch.clientX, touch.clientY);
+  };
 
-  private onTouchMove(e: TouchEvent) {
+  private onTouchMove = (e: TouchEvent) => {
     if (this.drawing) {
       const touch = e.touches[0];
-      this.continueDrawing(touch.pageX, touch.pageY);
+      this.continueDrawing(touch.clientX, touch.clientY);
     }
-  }
+  };
 
-  private onTouchEnd() {
+  private onTouchEnd = () => {
     this.stopDrawing();
-  }
+  };
 
   private startDrawing(x: number, y: number) {
     this.cxt.strokeStyle = this.strokeStyle;
@@ -195,7 +204,8 @@ class HandwritingCanvas {
         let results = jsonResponse[1][0][1];
         if (options.numOfWords) {
           results = results.filter(
-            (result: string) => result.length === options.numOfWords
+            (result: string) =>
+              Array.from(result).length === options.numOfWords
           );
         }
         if (options.numOfReturn) {

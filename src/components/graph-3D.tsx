@@ -2,6 +2,7 @@
 
 import kanjilist from "@/../data/kanjilist.json";
 import { buildKanjiHref, type MobileTabKey } from "@/lib/kanji-routing";
+import { escapeHtml } from "@/lib/utils";
 import {
   NODE_SELECTED,
   NODE_JOYO,
@@ -17,7 +18,7 @@ import type { RectReadOnly } from "react-use-measure";
 import * as THREE from "three";
 import SpriteText from "three-spritetext";
 
-type NodeObjectWithData = NodeObject & { data: KanjiInfo };
+type NodeObjectWithData = NodeObject & { data: GraphNodeData | null };
 
 interface Props {
   kanjiInfo: KanjiInfo;
@@ -29,13 +30,13 @@ interface Props {
   showParticles: boolean;
   navigationTab?: MobileTabKey;
   enableNodePreview?: boolean;
-  onPreviewNode?: (node: { id: string; data: KanjiInfo | null }) => void;
+  onPreviewNode?: (node: GraphNode) => void;
   onClosePreview?: () => void;
 }
 
-export const dynamic = "force-dynamic";
-
 const KANJI_SPRITE_OFFSET_Y = 2.0;
+
+const NODE_GEOMETRY = new THREE.SphereGeometry(8, 32, 32);
 
 const KANJI_GROUPS = kanjilist.reduce(
   (groups, entry) => {
@@ -88,8 +89,8 @@ const highlightNode = (node: any) => {
 const getSharedOnyomi = (data: GraphData | null, kanji1: string, kanji2: string) => {
   const k1 = data?.nodes?.find((o) => o?.id === kanji1) as NodeObjectWithData;
   const k2 = data?.nodes?.find((o) => o?.id === kanji2) as NodeObjectWithData;
-  const on1: string[] = k1?.data?.jishoData?.onyomi;
-  const on2: string[] = k2?.data?.jishoData?.onyomi;
+  const on1 = k1?.data?.onyomi;
+  const on2 = k2?.data?.onyomi;
   return on1?.filter((value) => on2?.includes(value)) ?? "";
 };
 
@@ -121,27 +122,27 @@ const getNodeLabel = (n: NodeObject, enableNodePreview: boolean) => {
   }
 
   const node = n as NodeObjectWithData;
-  if (!node.data || !node.data.jishoData) {
+  if (!node.data) {
     return "";
   }
 
-  const kunyomi = node.data.jishoData?.kunyomi;
-  const meaning = node.data.jishoData?.meaning;
-  if ((!kunyomi || kunyomi.length === 0) && (!meaning || meaning === "")) {
+  const kunyomi = node.data.kunyomi.join(", ");
+  const meaning = node.data.meaning;
+  if (!kunyomi && !meaning) {
     return "";
   }
 
   return `<div style="color: #ffffff; background: #000000a6; padding: 4px; border-radius: 4px;">
-            <span>${kunyomi || ""}</span>
+            <span>${escapeHtml(kunyomi)}</span>
             <br/>
-            <span>${meaning || ""}</span>
+            <span>${escapeHtml(meaning)}</span>
           </div>
          `;
 };
 
 const createNodeThreeObject = (node: NodeObject, selectedId: string) => {
   const ball = new THREE.Mesh(
-    new THREE.SphereGeometry(8, 32, 32),
+    NODE_GEOMETRY,
     new THREE.MeshLambertMaterial({
       color: getNodeDefaultColor(String(node.id), selectedId),
       transparent: true,
@@ -230,22 +231,23 @@ const Graph3D = ({
     [navigationTab],
   );
 
-  const debounce = React.useCallback((func: (...args: any[]) => void, wait: number) => {
-    let timeout: NodeJS.Timeout;
-    return (...args: any[]) => {
-      clearTimeout(timeout);
-      timeout = setTimeout(() => func(...args), wait);
-    };
-  }, []);
+  const resumeRotateTimeout = React.useRef<ReturnType<typeof setTimeout>>(
+    undefined,
+  );
+  const hasGraph = Boolean(data);
 
+  // Refs are detached before effect cleanup, so capture the instance up front.
   React.useEffect(() => {
+    const fg = fg3DRef.current;
+    if (!fg) return;
     return () => {
-      if (fg3DRef.current) {
-        fg3DRef.current.renderer().dispose();
-        fg3DRef.current.scene().clear();
-      }
+      clearTimeout(resumeRotateTimeout.current);
+      fg.pauseAnimation();
+      const renderer = fg.renderer();
+      renderer.dispose();
+      renderer.forceContextLoss();
     };
-  }, []);
+  }, [hasGraph]);
 
   const handleClick = (node: NodeObject) => {
     const nodeId = String(node?.id);
@@ -253,20 +255,13 @@ const Graph3D = ({
     if (enableNodePreview && onPreviewNode) {
       onPreviewNode({
         id: nodeId,
-        data: ((node as NodeObjectWithData).data ?? null) as KanjiInfo | null,
+        data: (node as NodeObjectWithData).data ?? null,
       });
       return;
     }
 
     void push(buildNodeHref(nodeId));
   };
-
-  // prefetch routes for nodes visible in the graph
-  React.useEffect(() => {
-    data?.nodes?.forEach((node) => {
-      void prefetch(buildNodeHref(String(node.id)));
-    });
-  }, [buildNodeHref, data, prefetch]);
 
   React.useEffect(() => {
     const controls = fg3DRef?.current?.controls();
@@ -309,19 +304,24 @@ const Graph3D = ({
     };
   }, [data, kanjiInfo.id, triggerFocus]);
 
-  const debounceResumeAutoRotate = debounce((node: any) => {
-    if (autoRotate && fg3DRef?.current) {
-      // @ts-ignore
-      !node && (fg3DRef.current.controls().autoRotate = true);
+  const handleHover = (node: NodeObject | null, prevNode: NodeObject | null) => {
+    if (node) {
+      void prefetch(buildNodeHref(String(node.id)));
     }
-  }, 500);
 
-  const handleHover = (node: any, prevNode: any) => {
-    // Ensure autoRotate is paused on hover
-    if (autoRotate && fg3DRef?.current) {
-      // @ts-ignore
-      node && (fg3DRef.current.controls().autoRotate = false);
-      debounceResumeAutoRotate(node);
+    // Pause autoRotate while hovering, resume shortly after leaving a node
+    const controls = fg3DRef.current?.controls() as
+      | { autoRotate: boolean }
+      | undefined;
+    if (autoRotate && controls) {
+      clearTimeout(resumeRotateTimeout.current);
+      if (node) {
+        controls.autoRotate = false;
+      } else {
+        resumeRotateTimeout.current = setTimeout(() => {
+          controls.autoRotate = true;
+        }, 500);
+      }
     }
 
     // Reset the previous node's color to its default
@@ -330,6 +330,28 @@ const Graph3D = ({
     // Apply hover effect to the currently hovered node
     if (node) highlightNode(node);
   };
+
+  const linkColor = React.useCallback(
+    () => (resolvedTheme === "dark" ? "#ffffff" : "#000000"),
+    [resolvedTheme],
+  );
+  const nodeLabel = React.useCallback(
+    (node: NodeObject) => getNodeLabel(node, enableNodePreview),
+    [enableNodePreview],
+  );
+  const nodeThreeObject = React.useCallback(
+    (node: NodeObject) => createNodeThreeObject(node, kanjiInfo.id),
+    [kanjiInfo.id],
+  );
+  const linkThreeObject = React.useCallback(
+    (link: LinkObject) => createLinkThreeObject(link, data, resolvedTheme),
+    [data, resolvedTheme],
+  );
+  const handleBackgroundClick = React.useCallback(() => {
+    if (enableNodePreview) {
+      onClosePreview?.();
+    }
+  }, [enableNodePreview, onClosePreview]);
 
   if (!graphData || !kanjiInfo || !data) return <></>;
 
@@ -340,9 +362,7 @@ const Graph3D = ({
       height={bounds.height}
       backgroundColor={"#00000000"}
       graphData={data}
-      linkColor={() => {
-        return resolvedTheme === "dark" ? "#ffffff" : "#000000";
-      }}
+      linkColor={linkColor}
       linkDirectionalArrowLength={5}
       linkDirectionalArrowRelPos={getLinkDirectionalArrowRelPos}
       linkDirectionalArrowResolution={8}
@@ -356,18 +376,14 @@ const Graph3D = ({
       // warmupTicks={120}
       // cooldownTime={1500}
       onNodeClick={handleClick}
-      onBackgroundClick={() => {
-        if (enableNodePreview) {
-          onClosePreview?.();
-        }
-      }}
+      onBackgroundClick={handleBackgroundClick}
       onNodeHover={handleHover}
-      nodeLabel={(node) => getNodeLabel(node, enableNodePreview)}
-      nodeThreeObject={(node: NodeObject) => createNodeThreeObject(node, kanjiInfo.id)}
+      nodeLabel={nodeLabel}
+      nodeThreeObject={nodeThreeObject}
       // ADD ONYOMI TO LINKS
       linkThreeObjectExtend={true}
       // @ts-ignore
-      linkThreeObject={(link: LinkObject) => createLinkThreeObject(link, data, resolvedTheme)}
+      linkThreeObject={linkThreeObject}
       linkPositionUpdate={updateLinkPosition}
     />
   );

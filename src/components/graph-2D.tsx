@@ -10,6 +10,7 @@ import ForceGraph2D, {
 } from "react-force-graph-2d";
 import kanjilist from "@/../data/kanjilist.json";
 import { buildKanjiHref, type MobileTabKey } from "@/lib/kanji-routing";
+import { escapeHtml } from "@/lib/utils";
 import {
   NODE_SELECTED,
   NODE_JOYO,
@@ -29,11 +30,11 @@ interface Props {
   bounds: RectReadOnly;
   navigationTab?: MobileTabKey;
   enableNodePreview?: boolean;
-  onPreviewNode?: (node: { id: string; data: KanjiInfo | null }) => void;
+  onPreviewNode?: (node: GraphNode) => void;
   onClosePreview?: () => void;
 }
 
-type NodeObjectWithData = NodeObject & { data: KanjiInfo };
+type NodeObjectWithData = NodeObject & { data: GraphNodeData | null };
 
 const KANJI_TEXT_OFFSET_Y = 0.5;
 
@@ -93,7 +94,7 @@ const Graph2D: React.FC<Props> = ({
     if (enableNodePreview && onPreviewNode) {
       onPreviewNode({
         id: nodeId,
-        data: ((node as NodeObjectWithData).data ?? null) as KanjiInfo | null,
+        data: (node as NodeObjectWithData).data ?? null,
       });
       return;
     }
@@ -101,18 +102,14 @@ const Graph2D: React.FC<Props> = ({
     void push(buildNodeHref(nodeId));
   };
 
-  // prefetch routes for nodes visible in the graph
-  React.useEffect(() => {
-    data?.nodes?.forEach((node) => {
-      void prefetch(buildNodeHref(String(node.id)));
-    });
-  }, [buildNodeHref, data, prefetch]);
   // store the hovered node in a state
   const [hoverNode, setHoverNode] = React.useState<NodeObject | null>(null);
 
   const handleNodeHover = (node: NodeObject | null) => {
     setHoverNode(node || null);
-    // paintNode(node);
+    if (node) {
+      void prefetch(buildNodeHref(String(node.id)));
+    }
   };
 
   const paintNode = (
@@ -170,8 +167,8 @@ const Graph2D: React.FC<Props> = ({
   const sameOn = (kanji1: string, kanji2: string) => {
     const k1 = data?.nodes?.find((o) => o.id === kanji1) as NodeObjectWithData;
     const k2 = data?.nodes?.find((o) => o.id === kanji2) as NodeObjectWithData;
-    const on1: string[] | undefined = k1?.data?.jishoData?.onyomi;
-    const on2: string[] | undefined = k2?.data?.jishoData?.onyomi;
+    const on1 = k1?.data?.onyomi;
+    const on2 = k2?.data?.onyomi;
     return on1?.filter((value) => on2?.includes(value)) ?? "";
   };
 
@@ -198,19 +195,16 @@ const Graph2D: React.FC<Props> = ({
         }
 
         const node = n as NodeObjectWithData;
-        if (!node.data || !node.data.jishoData) {
+        if (!node.data) {
           return "";
         }
-        const kunyomi = node.data.jishoData?.kunyomi;
-        const meaning = node.data.jishoData?.meaning;
+        const kunyomi = node.data.kunyomi.join(", ");
+        const meaning = node.data.meaning;
         // Don't show tooltip if both kunyomi and meaning are empty
-        if (
-          (!kunyomi || kunyomi.length === 0) &&
-          (!meaning || meaning === "")
-        ) {
+        if (!kunyomi && !meaning) {
           return "";
         }
-        return `${kunyomi || ""}<br/>${meaning || ""}`;
+        return `${escapeHtml(kunyomi)}<br/>${escapeHtml(meaning)}`;
       }}
       warmupTicks={10}
       onNodeClick={handleClick}

@@ -10,6 +10,7 @@
 
 # next.js
 /.next/
+next-env.d.ts
 /out/
 
 # production
@@ -42,9 +43,11 @@ KANJI_MAP_IDEAS_PLAN.md
 # local AI/agent metadata
 .pi/
 .agents/
+.opencode/
 .codex/
 .claude/
 .cursor/
 .windsurf/
 CLAUDE.md
 GEMINI.md
+skills-lock.json

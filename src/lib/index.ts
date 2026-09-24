@@ -120,7 +120,16 @@ const readKanjiDataFile = async (id: string) => {
   return JSON.parse(jsonData) as KanjiInfo;
 };
 
-const uniqueNodesById = (nodes: Array<{ id: string; data: KanjiInfo | null }>) =>
+const toGraphNodeData = (info: KanjiInfo | null): GraphNodeData | null =>
+  info?.jishoData
+    ? {
+        kunyomi: info.jishoData.kunyomi ?? [],
+        onyomi: info.jishoData.onyomi ?? [],
+        meaning: info.jishoData.meaning ?? "",
+      }
+    : null;
+
+const uniqueNodesById = (nodes: GraphNode[]) =>
   Array.from(new Map(nodes.map((node) => [node.id, node])).values());
 
 const uniqueLinks = (links: Array<{ source: string; target: string }>) =>
@@ -328,18 +337,18 @@ export const getGraphData = async (id: string) => {
 
   const [inNodes, outNodes] = await Promise.all([
     Promise.all(
-      inNodeList.map(async (x) => {
+      inNodeList.map(async (x): Promise<GraphNode> => {
         return {
           id: x,
-          data: await getKanjiDataLocal(x),
+          data: toGraphNodeData(await getKanjiDataLocal(x)),
         };
       })
     ),
     Promise.all(
-      outNodeList.map(async (x) => {
+      outNodeList.map(async (x): Promise<GraphNode> => {
         return {
           id: x,
-          data: await getKanjiDataLocal(x),
+          data: toGraphNodeData(await getKanjiDataLocal(x)),
         };
       })
     ),

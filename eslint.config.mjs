@@ -9,6 +9,7 @@ export default [
       'out/**',
       'node_modules/**',
       'build/**',
+      'coverage/**',
       'data/**',
       '*.config.js',
       '*.config.mjs',

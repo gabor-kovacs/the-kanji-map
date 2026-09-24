@@ -21,10 +21,32 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { id: urlEncodedId } = await params;
   const id = resolveKanjiId(decodeURIComponent(urlEncodedId));
+  const jisho = (await getKanjiDataLocal(id))?.jishoData;
+  const canonical = `/${encodeURIComponent(id)}`;
+  const details = [
+    jisho?.meaning && `Meaning: ${jisho.meaning}`,
+    jisho?.kunyomi?.length && `Kunyomi: ${jisho.kunyomi.join("、")}`,
+    jisho?.onyomi?.length && `Onyomi: ${jisho.onyomi.join("、")}`,
+    jisho?.jlptLevel && `JLPT ${jisho.jlptLevel}`,
+    jisho?.strokeCount && `${jisho.strokeCount} strokes`,
+  ].filter(Boolean);
+  const description = `Kanji ${id}${
+    details.length ? ` — ${details.join(". ")}.` : "."
+  } Explore its readings, radical, example words and decomposition graph.`;
+
   return {
     title: id,
-    alternates: {
-      canonical: `/${encodeURIComponent(id)}`,
+    description,
+    alternates: { canonical },
+    openGraph: {
+      title: `${id} | The Kanji Map`,
+      description,
+      url: canonical,
+    },
+    twitter: {
+      card: "summary",
+      title: `${id} | The Kanji Map`,
+      description,
     },
   };
 }

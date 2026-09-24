@@ -8,7 +8,6 @@ import {
   SheetHeader,
   SheetTitle,
 } from "@/components/ui/sheet";
-import { ResizeObserver } from "@juggle/resize-observer";
 import {
   ArrowUpFromDotIcon,
   CircleArrowOutUpRightIcon,
@@ -29,6 +28,7 @@ import {
   styleAtom,
 } from "@/lib/store";
 import { GraphLegend } from "./graph-legend";
+import { GraphErrorBoundary } from "./graph-error-boundary";
 import { buildKanjiHref, type MobileTabKey } from "@/lib/kanji-routing";
 import {
   resolveKanjiId,
@@ -50,14 +50,9 @@ interface Props {
   enableNodePreview?: boolean;
 }
 
-type GraphPreviewNode = {
-  id: string;
-  data: KanjiInfo | null;
-};
-
 type GraphPreviewState = {
   scope: string;
-  node: GraphPreviewNode;
+  node: GraphNode;
 };
 
 export const Graphs: React.FC<Props> = ({
@@ -66,10 +61,7 @@ export const Graphs: React.FC<Props> = ({
   navigationTab,
   enableNodePreview = false,
 }) => {
-  const [measureRef, bounds] = useMeasure({
-    polyfill: ResizeObserver,
-    // debounce: 50,
-  });
+  const [measureRef, bounds] = useMeasure();
 
   const [style, setStyle] = useAtom(styleAtom);
   const [rotate, setRotate] = useAtom(rotateAtom);
@@ -96,7 +88,6 @@ export const Graphs: React.FC<Props> = ({
     setOutLinks(nextValues.has("outLinks"));
   };
 
-  const tabValue = 0;
   const [random, setRandom] = React.useState<number>(() => Date.now());
   const [previewState, setPreviewState] = React.useState<GraphPreviewState | null>(
     null,
@@ -107,30 +98,42 @@ export const Graphs: React.FC<Props> = ({
   };
 
   const pathname = usePathname();
-  const { push } = useRouter();
+  const { push, prefetch } = useRouter();
   const previewScope = `${pathname}:${style}:${kanjiInfo?.id ?? ""}`;
   const previewNode =
     previewState?.scope === previewScope ? previewState.node : null;
 
-  const previewKunyomi = previewNode?.data?.jishoData?.kunyomi
+  const previewKunyomi = previewNode?.data?.kunyomi
     ?.filter(Boolean)
     ?.join("、");
-  const previewOnyomi = previewNode?.data?.jishoData?.onyomi
+  const previewOnyomi = previewNode?.data?.onyomi
     ?.filter(Boolean)
     ?.join("、");
-  const previewMeaning = previewNode?.data?.jishoData?.meaning;
+  const previewMeaning = previewNode?.data?.meaning;
   const previewIsCurrentKanji = previewNode
     ? resolveKanjiId(previewNode.id) === kanjiInfo?.id
     : false;
 
+  const buildPreviewHref = React.useCallback(
+    (nodeId: string) =>
+      buildKanjiHref(nodeId, {
+        tab:
+          resolveKanjiId(nodeId) === kanjiInfo?.id
+            ? "kanji"
+            : navigationTab ?? null,
+      }),
+    [kanjiInfo?.id, navigationTab],
+  );
+
   const openPreviewNode = React.useCallback(
-    (node: GraphPreviewNode) => {
+    (node: GraphNode) => {
       setPreviewState({
         scope: previewScope,
         node,
       });
+      void prefetch(buildPreviewHref(node.id));
     },
-    [previewScope],
+    [buildPreviewHref, prefetch, previewScope],
   );
 
   const handlePreviewOpenChange = (open: boolean) => {
@@ -144,11 +147,7 @@ export const Graphs: React.FC<Props> = ({
       return;
     }
 
-    void push(
-      buildKanjiHref(previewNode.id, {
-        tab: previewIsCurrentKanji ? "kanji" : navigationTab ?? null,
-      }),
-    );
+    void push(buildPreviewHref(previewNode.id));
     setPreviewState(null);
   };
 
@@ -180,34 +179,38 @@ export const Graphs: React.FC<Props> = ({
       </div>
       <div className="absolute inset-0">
         {kanjiInfo && style === "3D" && (
-          <Graph3DNoSSR
-            key={tabValue + random + pathname}
-            kanjiInfo={kanjiInfo}
-            graphData={graphData}
-            showOutLinks={outLinks}
-            showParticles={particles}
-            autoRotate={rotate}
-            triggerFocus={tabValue + random}
-            bounds={bounds}
-            navigationTab={navigationTab}
-            enableNodePreview={enableNodePreview}
-            onPreviewNode={openPreviewNode}
-            onClosePreview={() => setPreviewState(null)}
-          />
+          <GraphErrorBoundary onSwitchTo2D={() => setStyle("2D")}>
+            <Graph3DNoSSR
+              key={pathname}
+              kanjiInfo={kanjiInfo}
+              graphData={graphData}
+              showOutLinks={outLinks}
+              showParticles={particles}
+              autoRotate={rotate}
+              triggerFocus={random}
+              bounds={bounds}
+              navigationTab={navigationTab}
+              enableNodePreview={enableNodePreview}
+              onPreviewNode={openPreviewNode}
+              onClosePreview={() => setPreviewState(null)}
+            />
+          </GraphErrorBoundary>
         )}
         {kanjiInfo && style === "2D" && (
-          <Graph2DNoSSR
-            kanjiInfo={kanjiInfo}
-            graphData={graphData}
-            showOutLinks={outLinks}
-            showParticles={particles}
-            triggerFocus={tabValue + random}
-            bounds={bounds}
-            navigationTab={navigationTab}
-            enableNodePreview={enableNodePreview}
-            onPreviewNode={openPreviewNode}
-            onClosePreview={() => setPreviewState(null)}
-          />
+          <GraphErrorBoundary>
+            <Graph2DNoSSR
+              kanjiInfo={kanjiInfo}
+              graphData={graphData}
+              showOutLinks={outLinks}
+              showParticles={particles}
+              triggerFocus={random}
+              bounds={bounds}
+              navigationTab={navigationTab}
+              enableNodePreview={enableNodePreview}
+              onPreviewNode={openPreviewNode}
+              onClosePreview={() => setPreviewState(null)}
+            />
+          </GraphErrorBoundary>
         )}
       </div>
       <GraphLegend showOutLinks={outLinks} showParticles={particles} />
