@@ -1,5 +1,7 @@
 import { ThemeProvider } from "@/components/theme-provider";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import { GlobalGraphLayer } from "@/components/global-graph-layer";
+import { MobileGraphLayer } from "@/components/mobile-graph-layer";
 import { Provider as JotaiProvider } from "jotai";
 import { Noto_Sans_JP } from "next/font/google";
 import localFont from "next/font/local";
@@ -61,7 +63,11 @@ export default function RootLayout({
         >
           <TooltipProvider>
             <JotaiProvider>
-              <div className="isolate size-full">{children}</div>
+              <div className="isolate size-full">
+                {children}
+                <GlobalGraphLayer />
+                <MobileGraphLayer />
+              </div>
             </JotaiProvider>
           </TooltipProvider>
         </ThemeProvider>

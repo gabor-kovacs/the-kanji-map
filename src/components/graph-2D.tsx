@@ -163,31 +163,215 @@ const Graph2D: React.FC<Props> = ({
     // node.__bckgDimensions = bckgDimensions; // to re-use in nodePointerAreaPaint
   };
 
-  // find same onyomi
-  const sameOn = (kanji1: string, kanji2: string) => {
-    const k1 = data?.nodes?.find((o) => o.id === kanji1) as NodeObjectWithData;
-    const k2 = data?.nodes?.find((o) => o.id === kanji2) as NodeObjectWithData;
-    const on1 = k1?.data?.onyomi;
-    const on2 = k2?.data?.onyomi;
-    return on1?.filter((value) => on2?.includes(value)) ?? "";
+  // Precompute the shared onyomi label for every link once per data change,
+  // so the per-frame canvas paint doesn't scan the node list
+  const linkLabelByLink = React.useMemo(() => {
+    const onyomiById = new Map<string, string[]>();
+    data?.nodes?.forEach((node) => {
+      const onyomi = (node as NodeObjectWithData).data?.onyomi;
+      if (onyomi?.length) {
+        onyomiById.set(String(node.id), onyomi);
+      }
+    });
+
+    const labels = new Map<LinkObject, string>();
+    data?.links?.forEach((link) => {
+      const source =
+        typeof link.source === "object" ? link.source.id : link.source;
+      const target =
+        typeof link.target === "object" ? link.target.id : link.target;
+      const on1 = onyomiById.get(String(source));
+      const on2 = onyomiById.get(String(target));
+      const shared = on1 && on2 ? on1.filter((value) => on2.includes(value)) : [];
+      labels.set(link, shared.join(","));
+    });
+
+    return labels;
+  }, [data]);
+
+  // Hex, not a computed CSS variable: next-themes applies the new theme to
+  // the DOM in a post-state effect, so a render-phase read is one theme
+  // stale after a manual switch. Matches the arrow and particle accessors.
+  const foregroundColor = resolvedTheme === "dark" ? "#ffffff" : "#000000";
+
+  // The container reports 0x0 before the first layout (and while the graph
+  // layer is hidden on mobile), so the engine is only mounted once it has
+  // real dimensions to be born into.
+  const boundsReady = bounds.width > 0 && bounds.height > 0;
+
+  // The user has taken over the framing since the last fit request; a
+  // delayed re-fit must not override their view.
+  const userZoomedRef = React.useRef(false);
+  const lastTriggerFocusRef = React.useRef(triggerFocus);
+
+  // FOCUS ON GRAPH — re-fit only when the graph content (or an explicit
+  // focus request) changes, never when just the container size changes: on
+  // mobile the layer is display:none until the graph tab comes on screen, so
+  // the container grows 0 -> full size on reveal and must not re-zoom an
+  // unchanged graph (the 3D view already behaves this way). If the content
+  // changes while hidden, the fit is deferred until the first reveal.
+  const fitRef = React.useRef<() => void>(() => {});
+  fitRef.current = () => {
+    // Measure live: the reveal can outrun the useMeasure re-render, and the
+    // bounds prop would then still be the stale 0x0 size
+    const rect = containerRef.current?.getBoundingClientRect();
+    const width = rect?.width ?? 0;
+    const height = rect?.height ?? 0;
+    if (kanjiInfo.id && data?.nodes?.length && width > 0) {
+      const fg = fgRef.current;
+      // A layout that has no coordinates yet would yield a NaN bbox and
+      // wreck the view, so skip the fit in that case.
+      const bbox = fg?.getGraphBbox();
+      if (
+        !fg ||
+        !bbox ||
+        ![bbox.x[0], bbox.x[1], bbox.y[0], bbox.y[1]].every(Number.isFinite)
+      ) {
+        return;
+      }
+      userZoomedRef.current = false;
+      // Fit the (mostly) settled layout with modest padding.
+      fg.zoomToFit(500, Math.min(width, height) * 0.05);
+    }
   };
 
-  // FOCUS  ON MAIN NODE AT START
+  const pendingFitRef = React.useRef(false);
+  const isOnScreenRef = React.useRef(false);
+  // The engine instance once it is mounted, so the unmount cleanup below can
+  // pause it; React nulls fgRef before running effect cleanups, so the
+  // cleanup must not read that ref.
+  const mountedEngineRef = React.useRef<ForceGraphMethods | undefined>(
+    undefined,
+  );
+
   React.useEffect(() => {
+    // An explicit focus request (the fit button) always wins over a view
+    // the user has taken over; any other trigger (a data swap) re-arms the
+    // fit so the new graph is framed unless the user grabs the view within
+    // the delay window.
+    const explicit = triggerFocus !== lastTriggerFocusRef.current;
+    lastTriggerFocusRef.current = triggerFocus;
+    pendingFitRef.current = true;
+    userZoomedRef.current = false;
+    if (!isOnScreenRef.current) {
+      return;
+    }
     const focusMain = setTimeout(() => {
-      if (kanjiInfo.id && data?.nodes?.length && data?.nodes?.length > 0) {
-        fgRef?.current?.zoomToFit(1000, bounds.width * 0.1);
+      if (!pendingFitRef.current) {
+        // A deferred fit (reveal or engine mount) already consumed it.
+        return;
       }
+      pendingFitRef.current = false;
+      if (!explicit && userZoomedRef.current) {
+        return;
+      }
+      fitRef.current();
     }, 100);
     return () => clearTimeout(focusMain);
-  }, [data, kanjiInfo.id, triggerFocus, bounds]);
+  }, [data, kanjiInfo.id, triggerFocus]);
+
+  // Stop the render loop when the graph is not on screen (e.g. its tab is
+  // off-screen on mobile) and resume it when it comes back
+  const containerRef = React.useRef<HTMLDivElement>(null);
+  React.useEffect(() => {
+    const container = containerRef.current;
+    if (!container || typeof IntersectionObserver === "undefined") {
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (!entry) {
+          return;
+        }
+        const engine = fgRef.current;
+        if (entry.isIntersecting) {
+          isOnScreenRef.current = true;
+          engine?.resumeAnimation();
+          // The engine can mount after this reveal (it only exists once the
+          // container has real dimensions); don't consume the deferred fit
+          // for an engine that isn't there yet — the fit-on-mount effect
+          // below runs it instead.
+          if (engine && pendingFitRef.current) {
+            pendingFitRef.current = false;
+            fitRef.current();
+          }
+        } else {
+          isOnScreenRef.current = false;
+          engine?.pauseAnimation();
+        }
+      },
+      { threshold: 0 },
+    );
+
+    observer.observe(container);
+    return () => observer.disconnect();
+  }, []);
+
+  // The engine mounts only once the container has real dimensions, which on
+  // mobile lands right around the IntersectionObserver reveal, so run the
+  // deferred fit once the engine appears (the 100ms settle mirrors the
+  // focus effect above). Keyed on boundsReady, not fgRef.current: the ref
+  // is attached during commit, after this render's dependency array was
+  // computed, so it is still undefined on the render that mounts the engine
+  // and the effect would never re-run on it.
+  React.useEffect(() => {
+    mountedEngineRef.current = fgRef.current;
+    if (!fgRef.current || !pendingFitRef.current || !isOnScreenRef.current) {
+      return;
+    }
+    const runFit = setTimeout(() => {
+      pendingFitRef.current = false;
+      fitRef.current();
+    }, 100);
+    return () => clearTimeout(runFit);
+  }, [boundsReady]);
+
+  // onZoom only reports the transform (d3-zoom's sourceEvent is stripped
+  // before it is handed out), so detect user gestures on the canvas
+  // directly: pointer-down, wheel and touch all mean the user is taking
+  // over the framing. Keyed on boundsReady, not fgRef.current: the canvas
+  // exists once the engine is mounted, and the ref is only attached after
+  // this render's dependency array was computed.
+  React.useEffect(() => {
+    const canvas = containerRef.current?.querySelector("canvas");
+    if (!canvas) {
+      return;
+    }
+    const onUserGesture = () => {
+      userZoomedRef.current = true;
+    };
+    canvas.addEventListener("pointerdown", onUserGesture);
+    canvas.addEventListener("wheel", onUserGesture, { passive: true });
+    canvas.addEventListener("touchstart", onUserGesture, { passive: true });
+    return () => {
+      canvas.removeEventListener("pointerdown", onUserGesture);
+      canvas.removeEventListener("wheel", onUserGesture);
+      canvas.removeEventListener("touchstart", onUserGesture);
+    };
+  }, [boundsReady]);
+
+  // The kapsule engine outlives the React component, so stop its animation
+  // loop when the component unmounts (e.g. leaving a kanji route or a
+  // breakpoint change). The engine instance is read from mountedEngineRef
+  // (set in the fit-on-mount effect), because React nulls fgRef before
+  // running effect cleanups.
+  React.useEffect(() => {
+    return () => {
+      mountedEngineRef.current?.pauseAnimation();
+    };
+  }, []);
+
+  if (!graphData || !kanjiInfo || !data) return <></>;
 
   return (
-    <ForceGraph2D
+    <div ref={containerRef} className="size-full">
+      {boundsReady && (
+      <ForceGraph2D
       ref={fgRef}
       width={bounds.width}
       height={bounds.height}
-      backgroundColor={"var(--color-background)"}
+      backgroundColor={"#00000000"}
       graphData={data}
       nodeLabel={(n) => {
         if (enableNodePreview) {
@@ -206,7 +390,7 @@ const Graph2D: React.FC<Props> = ({
         }
         return `${escapeHtml(kunyomi)}<br/>${escapeHtml(meaning)}`;
       }}
-      warmupTicks={10}
+      warmupTicks={60}
       onNodeClick={handleClick}
       onBackgroundClick={() => {
         if (enableNodePreview) {
@@ -234,9 +418,6 @@ const Graph2D: React.FC<Props> = ({
         ctx.fill();
       }}
       onNodeHover={(node) => handleNodeHover(node)}
-      linkColor={() =>
-        getComputedStyle(document?.body)?.getPropertyValue("--color-foreground")
-      }
       linkCanvasObject={(link: LinkObject, ctx: CanvasRenderingContext2D) => {
         if (
           typeof link.source === "object" &&
@@ -249,19 +430,15 @@ const Graph2D: React.FC<Props> = ({
           const x = (link.source.x + link.target.x) / 2;
           const y = (link.source.y + link.target.y) / 2;
 
-          const linkText = sameOn(
-            String(link.source.id),
-            String(link.target.id),
-          );
+          const label = linkLabelByLink.get(link) ?? "";
 
           ctx.beginPath();
           ctx.moveTo(link.source.x, link.source.y);
           ctx.lineTo(link.target.x, link.target.y);
           ctx.lineWidth = 0.25;
-          ctx.strokeStyle = resolvedTheme === "dark" ? "#ffffff" : "#000000";
+          ctx.strokeStyle = foregroundColor;
           ctx.stroke();
 
-          const label = String(linkText);
           const fontSize = 4;
           ctx.font = `${fontSize}px Sans-Serif`;
 
@@ -269,7 +446,7 @@ const Graph2D: React.FC<Props> = ({
           x && y && ctx.translate(x, y);
           ctx.textAlign = "center";
           ctx.textBaseline = "middle";
-          ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#000000";
+          ctx.fillStyle = foregroundColor;
           ctx.fillText(label, 0, 0);
           ctx.restore();
         }
@@ -291,19 +468,28 @@ const Graph2D: React.FC<Props> = ({
             target.x - source.x,
             target.y - source.y,
           );
+          if (!linkLength) {
+            return 0.8;
+          }
 
-          return (linkLength - 3) / linkLength;
+          // Clamp: while the layout is still settling, short links would
+          // otherwise place the arrow head outside the line
+          return Math.max(0, Math.min(1, (linkLength - 3) / linkLength));
         } else {
           return 0.8;
         }
       }}
-      linkDirectionalParticles={3}
+      // 0 photons when particles are disabled so the canvas can auto-pause
+      // once the layout settles, instead of repainting every frame
+      linkDirectionalParticles={showParticles ? 3 : 0}
       linkDirectionalParticleSpeed={0.004}
       linkDirectionalParticleWidth={() => (showParticles ? 2 : 0)}
       linkDirectionalParticleColor={() =>
         resolvedTheme === "dark" ? "#ffffff" : "#000000"
       }
-    />
+      />
+      )}
+    </div>
   );
 };
 

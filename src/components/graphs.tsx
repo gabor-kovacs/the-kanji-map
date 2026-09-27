@@ -19,11 +19,12 @@ import * as React from "react";
 import useMeasure from "react-use-measure";
 import { Button } from "./ui/button";
 import { Tooltip, TooltipContent, TooltipTrigger } from "./ui/tooltip";
-import { usePathname, useRouter } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { useAtom } from "jotai";
 import {
   outLinksAtom,
   particlesAtom,
+  readStoredGraphStyle,
   rotateAtom,
   styleAtom,
 } from "@/lib/store";
@@ -33,6 +34,26 @@ import { buildKanjiHref, type MobileTabKey } from "@/lib/kanji-routing";
 import {
   resolveKanjiId,
 } from "@/lib/kanji-variants";
+
+// d3-force mutates the node and link objects it is given, and each engine
+// re-runs its 60-tick warmup on every data swap, so a shared graphData
+// would let the hidden engine's layout disturb the visible one's. Give each
+// engine its own copies; the node.data payloads stay shared (read-only).
+function cloneGraphData(graphData: BothGraphData): BothGraphData {
+  const clone = <T,>(items: T[]) => items.map((item) => ({ ...item }));
+  return {
+    withOutLinks: {
+      ...graphData.withOutLinks,
+      nodes: clone(graphData.withOutLinks.nodes),
+      links: clone(graphData.withOutLinks.links),
+    },
+    noOutLinks: {
+      ...graphData.noOutLinks,
+      nodes: clone(graphData.noOutLinks.nodes),
+      links: clone(graphData.noOutLinks.links),
+    },
+  };
+}
 
 const Graph2DNoSSR = dynamic(() => import("./graph-2D"), {
   ssr: false,
@@ -64,6 +85,15 @@ export const Graphs: React.FC<Props> = ({
   const [measureRef, bounds] = useMeasure();
 
   const [style, setStyle] = useAtom(styleAtom);
+  // Latch from the synchronously read stored style instead of `style`:
+  // the storage atom only hydrates after mount, so `style` is still the
+  // default "3D" on the first render of a returning 2D user.
+  const [twoDMounted, setTwoDMounted] = React.useState(
+    () => readStoredGraphStyle() === "2D",
+  );
+  const [threeDMounted, setThreeDMounted] = React.useState(
+    () => readStoredGraphStyle() === "3D",
+  );
   const [rotate, setRotate] = useAtom(rotateAtom);
   const [outLinks, setOutLinks] = useAtom(outLinksAtom);
   const [particles, setParticles] = useAtom(particlesAtom);
@@ -72,8 +102,24 @@ export const Graphs: React.FC<Props> = ({
     const nextStyle = values[0];
     if (nextStyle === "2D" || nextStyle === "3D") {
       setStyle(nextStyle);
+      // An explicit switch is a "show me this graph" request: bump the focus
+      // trigger so the view being switched to re-frames itself. Each engine
+      // keeps its own camera, so without this a round trip would restore the
+      // old framing instead of a fresh fit.
+      setRandom(Date.now());
     }
   };
+  // Both view components stay mounted; switching views only hides a cell.
+  // The bounds come from the outer wrapper, which never hides, so both
+  // engines stay mounted across a 2D/3D switch — the hidden one just
+  // pauses via its IntersectionObserver. Engines unmount only when the
+  // whole layer collapses to 0x0 (a mobile tab switch); the 3D view then
+  // disposes and force-loses its WebGL context so the browser's context
+  // pool does not leak, and the camera framing is restored on remount.
+  React.useEffect(() => {
+    if (style === "2D") setTwoDMounted(true);
+    if (style === "3D") setThreeDMounted(true);
+  }, [style]);
   const activeControls = React.useMemo(() => {
     const values: string[] = [];
     if (rotate) values.push("rotate");
@@ -93,13 +139,22 @@ export const Graphs: React.FC<Props> = ({
     null,
   );
 
+  // One independent copy per engine (see cloneGraphData above).
+  const data2D = React.useMemo(
+    () => (graphData ? cloneGraphData(graphData) : null),
+    [graphData],
+  );
+  const data3D = React.useMemo(
+    () => (graphData ? cloneGraphData(graphData) : null),
+    [graphData],
+  );
+
   const handleZoomToFit = () => {
     setRandom(Date.now());
   };
 
-  const pathname = usePathname();
   const { push, prefetch } = useRouter();
-  const previewScope = `${pathname}:${style}:${kanjiInfo?.id ?? ""}`;
+  const previewScope = `${style}:${kanjiInfo?.id ?? ""}`;
   const previewNode =
     previewState?.scope === previewScope ? previewState.node : null;
 
@@ -177,13 +232,15 @@ export const Graphs: React.FC<Props> = ({
           </ToggleGroupItem>
         </ToggleGroup>
       </div>
-      <div className="absolute inset-0">
-        {kanjiInfo && style === "3D" && (
+      <div
+        className="absolute inset-0"
+        style={{ display: style === "3D" ? "block" : "none" }}
+      >
+        {kanjiInfo && threeDMounted && (
           <GraphErrorBoundary onSwitchTo2D={() => setStyle("2D")}>
             <Graph3DNoSSR
-              key={pathname}
               kanjiInfo={kanjiInfo}
-              graphData={graphData}
+              graphData={data3D}
               showOutLinks={outLinks}
               showParticles={particles}
               autoRotate={rotate}
@@ -193,14 +250,23 @@ export const Graphs: React.FC<Props> = ({
               enableNodePreview={enableNodePreview}
               onPreviewNode={openPreviewNode}
               onClosePreview={() => setPreviewState(null)}
+              // The 3D watchdog has given up after repeated rebuilds: WebGL
+              // is broken on this machine, so fall back to 2D the same way
+              // the error boundary's "Switch to 2D" button does.
+              onWebglBroken={() => setStyle("2D")}
             />
           </GraphErrorBoundary>
         )}
-        {kanjiInfo && style === "2D" && (
+      </div>
+      <div
+        className="absolute inset-0"
+        style={{ display: style === "2D" ? "block" : "none" }}
+      >
+        {kanjiInfo && twoDMounted && (
           <GraphErrorBoundary>
             <Graph2DNoSSR
               kanjiInfo={kanjiInfo}
-              graphData={graphData}
+              graphData={data2D}
               showOutLinks={outLinks}
               showParticles={particles}
               triggerFocus={random}
