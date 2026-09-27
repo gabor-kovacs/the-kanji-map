@@ -3,6 +3,11 @@ import { Header } from "@/components/header";
 import { MobileLayout } from "@/components/mobile-layout";
 import { SearchInput } from "@/components/search-input";
 import { SearchIcon } from "lucide-react";
+import { MOBILE_TAB_KEYS, MOBILE_TAB_LABELS } from "@/lib/kanji-routing";
+import {
+  DESKTOP_BOTTOM_ROW,
+  DESKTOP_TOP_ROW,
+} from "@/lib/graph-layout";
 
 export const metadata = {
   title: "The Kanji Map",
@@ -17,52 +22,32 @@ export default function Home() {
       {/* MOBILE */}
       <div className="w-full grow md:hidden">
         <MobileLayout
-          tabs={[
-            {
-              id: 0,
-
-              label: "漢字",
-              content: (
-                <div className="relative mt-8 p-4 flex flex-col items-center gap-12">
-                  <SearchInput searchPlaceholder="Search kanji..." />
-                  <DrawInput />
-                </div>
-              ),
-            },
-            {
-              id: 1,
-              label: "部首",
-              content: <div />,
-            },
-            {
-              id: 2,
-              label: "例",
-              content: <div />,
-            },
-            {
-              id: 3,
-              label: "図",
-              content: <div />,
-            },
-            {
-              id: 4,
-              label: (
+          tabs={MOBILE_TAB_KEYS.map((key, id) => ({
+            id,
+            label:
+              key === "search" ? (
                 <SearchIcon className="size-4 inline-block -translate-y-0.5" />
+              ) : (
+                MOBILE_TAB_LABELS[key]
               ),
-              content: (
+            content:
+              key === "kanji" || key === "search" ? (
                 <div className="relative mt-8 p-4 flex flex-col items-center gap-12">
                   <SearchInput searchPlaceholder="Search kanji..." />
                   <DrawInput />
                 </div>
+              ) : (
+                <div />
               ),
-            },
-          ]}
-          initialActiveTab={4}
+          }))}
+          initialActiveTab={MOBILE_TAB_KEYS.indexOf("search")}
           disabled
         />
       </div>
       {/* DESKTOP */}
-      <div className="w-full grow hidden md:grid grid-cols-1 md:grid-rows-[330px_1fr] overflow-hidden">
+      <div
+        className={`w-full grow hidden md:grid grid-cols-1 ${DESKTOP_TOP_ROW} overflow-hidden`}
+      >
         <div className="top grid grid-cols-[252px_1.5fr_1fr] overflow-hidden border-b border-lighter">
           <div className="flex flex-col items-center gap-2 mt-3">
             <SearchInput searchPlaceholder="Search..." />
@@ -75,7 +60,7 @@ export default function Home() {
             <h1 className="text-lg font-semibold">Radical</h1>
           </div>
         </div>
-        <div className="bottom grid grid-cols-[2fr_3fr] overflow-hidden">
+        <div className={`bottom grid ${DESKTOP_BOTTOM_ROW} overflow-hidden`}>
           <div className="p-4">
             <h1 className="text-lg font-semibold">Examples</h1>
           </div>

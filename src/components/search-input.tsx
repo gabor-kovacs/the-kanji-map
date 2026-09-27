@@ -513,8 +513,45 @@ function SearchFiltersPopover({
 interface SearchResultsListProps {
   flattenedOptions: FlattenedOption[];
   height: string;
-  onSelectOption?: (option: SearchOption) => void;
+  // Memoized by the caller (VirtualizedCommand) so the memoized rows can
+  // bail out; passed straight through to SearchResultRow here.
+  onSelectOption: (option: SearchOption) => void;
 }
+
+// Memoized so that scrolling (which re-renders only newly visible rows in
+// Virtuoso) never re-renders rows that are already on screen.
+const SearchResultRow = React.memo(function SearchResultRow({
+  item,
+  onSelectOption,
+}: {
+  item: FlattenedOption;
+  onSelectOption: (option: SearchOption) => void;
+}) {
+  if (item.type === "group") {
+    return (
+      <div className="z-10 p-1 pl-2 text-sm text-foreground/50">{item.value}</div>
+    );
+  }
+
+  const option = item.value;
+
+  return (
+    <CommandItem value={option.kanji} onSelect={() => onSelectOption(option)}>
+      <div className="flex items-center gap-2">
+        <div className="text-xl font-bold">{option.kanji}</div>
+
+        <div className="text-xs">
+          <div>{option.kunyomi}</div>
+          <div className="line-clamp-1">{option.meaning}</div>
+          <div className="text-muted-foreground">
+            {option.jlptLevel ?? "Unknown"} JLPT{" • "}
+            {option.strokeCount ?? "?"} strokes
+          </div>
+        </div>
+      </div>
+    </CommandItem>
+  );
+});
 
 function SearchResultsList({
   flattenedOptions,
@@ -529,26 +566,9 @@ function SearchResultsList({
         <Virtuoso
           data={flattenedOptions}
           components={{ Scroller: VirtualizedScroller }}
-          itemContent={(_, item) =>
-            item.type === "group" ? (
-              <div className="z-10 p-1 pl-2 text-sm text-foreground/50">{item.value}</div>
-            ) : (
-              <CommandItem value={item.value.kanji} onSelect={() => onSelectOption?.(item.value)}>
-                <div className="flex items-center gap-2">
-                  <div className="text-xl font-bold">{item.value.kanji}</div>
-
-                  <div className="text-xs">
-                    <div>{item.value.kunyomi}</div>
-                    <div className="line-clamp-1">{item.value.meaning}</div>
-                    <div className="text-muted-foreground">
-                      {item.value.jlptLevel ?? "Unknown"} JLPT{" • "}
-                      {item.value.strokeCount ?? "?"} strokes
-                    </div>
-                  </div>
-                </div>
-              </CommandItem>
-            )
-          }
+          itemContent={(_, item) => (
+            <SearchResultRow item={item} onSelectOption={onSelectOption} />
+          )}
           style={{ height }}
         />
       )}
@@ -669,6 +689,13 @@ const VirtualizedCommand = ({
     [groupFilters, jlptFilters, strokeRange],
   );
 
+  // Keep the callback identity stable across re-renders (typing, scrolling)
+  // so the memoized search result rows can bail out.
+  const handleSelectOption = React.useCallback(
+    (option: SearchOption) => onSelectOption?.(option),
+    [onSelectOption],
+  );
+
   const updateGroupSelection = (values: string[]) => {
     const nextValues = COLLECTION_ITEMS.filter((item) => values.includes(item));
     if (nextValues.length === 0) {
@@ -748,7 +775,7 @@ const VirtualizedCommand = ({
       <SearchResultsList
         flattenedOptions={flattenedOptions}
         height={height}
-        onSelectOption={onSelectOption}
+        onSelectOption={handleSelectOption}
       />
     </Command>
   );

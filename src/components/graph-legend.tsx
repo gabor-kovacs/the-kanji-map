@@ -28,7 +28,7 @@ export const GraphLegend: React.FC<Props> = ({
   showParticles,
 }) => {
   return (
-    <div className="absolute bottom-16 left-4 z-50 md:bottom-4">
+    <div className="absolute bottom-3 left-4 z-50 md:bottom-4">
       <Popover>
         <PopoverTrigger
           render={

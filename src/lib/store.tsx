@@ -57,9 +57,34 @@ const particlesAtom = atom(
   }
 );
 
+// Data of the kanji page currently on screen. Set by the [id] page and
+// read by the graph layers in the root layout. The graph lives outside the
+// [id] route segment so Next.js (which keys segment subtrees by param
+// value) doesn't remount it on every kanji navigation; instead the graph
+// swaps its data in place. The atom keeps the last published data until a
+// new kanji page overwrites it (the bridge never nulls it on unmount): on a
+// non-prefetched navigation the [id] segment suspends while its RSC payload
+// is fetched, and during that window the layers need the previous page's
+// data to stay mounted with their WebGL context intact. Off kanji routes
+// useActiveGraphData ignores the retained data, so the layers unmount as
+// usual; it is a bounded memory cost (one kanji's graph data) that the next
+// kanji visit replaces.
+const activeKanjiGraphAtom = atom<{
+  kanjiInfo: KanjiInfo;
+  graphData: BothGraphData;
+} | null>(null);
+
+// Set by the 404 page, cleared by a kanji page's bridge. While set,
+// useActiveGraphData returns null even on a kanji-shaped route (unknown ids
+// keep the single-segment [id] shape), so the graph layers unmount instead
+// of showing the previous kanji's graph on an unknown page.
+const graphClearedAtom = atom<boolean>(false);
+
 export {
   styleAtom,
   rotateAtom,
   outLinksAtom,
   particlesAtom,
+  activeKanjiGraphAtom,
+  graphClearedAtom,
 };

@@ -4,6 +4,7 @@ import { InfoIcon } from "lucide-react";
 import Link from "next/link";
 import LogoSVG from "./logo";
 import { buttonVariants } from "./ui/button";
+import { HEADER_HEIGHT } from "@/lib/graph-layout";
 import { cn } from "@/lib/utils";
 import { ThemeSwitcherButton } from "./theme-switcher";
 import {
@@ -22,7 +23,9 @@ export const Header = ({
   return (
     <div
       className={cn(
-        "flex items-center justify-between h-12 shrink-0 border-b",
+        "flex items-center justify-between",
+        HEADER_HEIGHT,
+        "shrink-0 border-b",
         className
       )}
     >
