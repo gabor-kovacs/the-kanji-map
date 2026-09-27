@@ -24,6 +24,7 @@ import { useAtom } from "jotai";
 import {
   outLinksAtom,
   particlesAtom,
+  readStoredGraphStyle,
   rotateAtom,
   styleAtom,
 } from "@/lib/store";
@@ -33,6 +34,26 @@ import { buildKanjiHref, type MobileTabKey } from "@/lib/kanji-routing";
 import {
   resolveKanjiId,
 } from "@/lib/kanji-variants";
+
+// d3-force mutates the node and link objects it is given, and each engine
+// re-runs its 60-tick warmup on every data swap, so a shared graphData
+// would let the hidden engine's layout disturb the visible one's. Give each
+// engine its own copies; the node.data payloads stay shared (read-only).
+function cloneGraphData(graphData: BothGraphData): BothGraphData {
+  const clone = <T,>(items: T[]) => items.map((item) => ({ ...item }));
+  return {
+    withOutLinks: {
+      ...graphData.withOutLinks,
+      nodes: clone(graphData.withOutLinks.nodes),
+      links: clone(graphData.withOutLinks.links),
+    },
+    noOutLinks: {
+      ...graphData.noOutLinks,
+      nodes: clone(graphData.noOutLinks.nodes),
+      links: clone(graphData.noOutLinks.links),
+    },
+  };
+}
 
 const Graph2DNoSSR = dynamic(() => import("./graph-2D"), {
   ssr: false,
@@ -64,8 +85,15 @@ export const Graphs: React.FC<Props> = ({
   const [measureRef, bounds] = useMeasure();
 
   const [style, setStyle] = useAtom(styleAtom);
-  const [twoDMounted, setTwoDMounted] = React.useState(style === "2D");
-  const [threeDMounted, setThreeDMounted] = React.useState(style === "3D");
+  // Latch from the synchronously read stored style instead of `style`:
+  // the storage atom only hydrates after mount, so `style` is still the
+  // default "3D" on the first render of a returning 2D user.
+  const [twoDMounted, setTwoDMounted] = React.useState(
+    () => readStoredGraphStyle() === "2D",
+  );
+  const [threeDMounted, setThreeDMounted] = React.useState(
+    () => readStoredGraphStyle() === "3D",
+  );
   const [rotate, setRotate] = useAtom(rotateAtom);
   const [outLinks, setOutLinks] = useAtom(outLinksAtom);
   const [particles, setParticles] = useAtom(particlesAtom);
@@ -109,6 +137,16 @@ export const Graphs: React.FC<Props> = ({
   const [random, setRandom] = React.useState<number>(() => Date.now());
   const [previewState, setPreviewState] = React.useState<GraphPreviewState | null>(
     null,
+  );
+
+  // One independent copy per engine (see cloneGraphData above).
+  const data2D = React.useMemo(
+    () => (graphData ? cloneGraphData(graphData) : null),
+    [graphData],
+  );
+  const data3D = React.useMemo(
+    () => (graphData ? cloneGraphData(graphData) : null),
+    [graphData],
   );
 
   const handleZoomToFit = () => {
@@ -202,7 +240,7 @@ export const Graphs: React.FC<Props> = ({
           <GraphErrorBoundary onSwitchTo2D={() => setStyle("2D")}>
             <Graph3DNoSSR
               kanjiInfo={kanjiInfo}
-              graphData={graphData}
+              graphData={data3D}
               showOutLinks={outLinks}
               showParticles={particles}
               autoRotate={rotate}
@@ -228,7 +266,7 @@ export const Graphs: React.FC<Props> = ({
           <GraphErrorBoundary>
             <Graph2DNoSSR
               kanjiInfo={kanjiInfo}
-              graphData={graphData}
+              graphData={data2D}
               showOutLinks={outLinks}
               showParticles={particles}
               triggerFocus={random}

@@ -13,10 +13,12 @@ export default function NotFound() {
   // route (unknown ids keep the single-segment [id] shape). A layout
   // effect, so the clear lands before this commit paints — a passive
   // effect would let the previous kanji's graph flash for a frame on
-  // top of the 404 page.
+  // top of the 404 page. No cleanup: the flag stays set until the
+  // destination kanji page's bridge clears it. Resetting it on unmount
+  // would re-expose the retained graph over the loading page during
+  // the next navigation's suspense window.
   React.useLayoutEffect(() => {
     setGraphCleared(true);
-    return () => setGraphCleared(false);
   }, [setGraphCleared]);
 
   return (

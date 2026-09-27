@@ -2,15 +2,42 @@ import { atom } from "jotai";
 import { atomWithStorage } from "jotai/utils";
 
 // Graph preferences persisted in localStorage
-const graphPreferenceAtom = atomWithStorage("graphPreference", {
+const GRAPH_PREFERENCE_STORAGE_KEY = "graphPreference";
+const DEFAULT_GRAPH_PREFERENCE = {
   state: {
-    style: "3D",
+    style: "3D" as "2D" | "3D",
     rotate: true,
     outLinks: true,
     particles: true,
   },
   version: 0,
-});
+};
+const graphPreferenceAtom = atomWithStorage(
+  GRAPH_PREFERENCE_STORAGE_KEY,
+  DEFAULT_GRAPH_PREFERENCE,
+);
+
+// atomWithStorage hydrates after mount, but Graphs reads its style during
+// the first render to latch which engines stay mounted. Reading the stored
+// style synchronously here keeps a returning 2D user from latching the 3D
+// engine (and its WebGL context) without ever selecting 3D. Server renders
+// fall back to the default, so SSR output is unchanged.
+function readStoredGraphStyle(): "2D" | "3D" {
+  if (typeof window === "undefined") {
+    return DEFAULT_GRAPH_PREFERENCE.state.style;
+  }
+  try {
+    const raw = window.localStorage.getItem(GRAPH_PREFERENCE_STORAGE_KEY);
+    const style = raw
+      ? (JSON.parse(raw) as { state?: { style?: string } })?.state?.style
+      : undefined;
+    return style === "2D" || style === "3D"
+      ? style
+      : DEFAULT_GRAPH_PREFERENCE.state.style;
+  } catch {
+    return DEFAULT_GRAPH_PREFERENCE.state.style;
+  }
+}
 
 // Derived atoms for individual properties within the nested structure
 const styleAtom = atom(
@@ -87,4 +114,5 @@ export {
   particlesAtom,
   activeKanjiGraphAtom,
   graphClearedAtom,
+  readStoredGraphStyle,
 };
