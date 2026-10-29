@@ -60,10 +60,12 @@ export const MobileLayout = ({
   );
 
   const isControlled = typeof controlledActiveTab === "number";
-  const [internalActiveTab, setInternalActiveTab] = React.useState<number | null>(null);
+  const [internalActiveTab, setInternalActiveTab] = React.useState<
+    number | null
+  >(null);
   const activeTab = isControlled
     ? controlledActiveTab
-    : internalActiveTab ?? initialActiveTab;
+    : (internalActiveTab ?? initialActiveTab);
   const initialCarouselTab = React.useRef(activeTab);
   const activeTabRef = React.useRef(activeTab);
 
@@ -123,9 +125,7 @@ export const MobileLayout = ({
     // one frame away from settling from sticking to the wrong side of
     // visibility thresholds in consumers.
     const publish = () => {
-      setMobileCarouselProgress(
-        Math.round(api.scrollProgress() * 1000) / 1000,
-      );
+      setMobileCarouselProgress(Math.round(api.scrollProgress() * 1000) / 1000);
     };
 
     const handleScroll = publish;
@@ -137,10 +137,7 @@ export const MobileLayout = ({
     const handleSettle = () => {
       publish();
       try {
-        api
-          .internalEngine()
-          .scrollBody.useBaseDuration()
-          .useBaseFriction();
+        api.internalEngine().scrollBody.useBaseDuration().useBaseFriction();
       } catch {
         // private API changed; the public scrollTo fallback already
         // animates with stock values
@@ -185,33 +182,35 @@ export const MobileLayout = ({
             ))}
           </CarouselContent>
         </Carousel>
-      <div
-        className={cn(
-          "absolute bg-background bottom-0 space-x-1 border-t cursor-pointer px-[3px] py-[3.2px] shadow-inner-shadow w-full grid grid-cols-5 shrink-0"
-        )}
-      >
-        {tabs.map((tab, idx) => (
-          <button
-            key={tab.id}
-            onClick={() => handleTabClick(idx)}
-            disabled={activeTab === idx ? false : disabled}
-            className={cn(
-              "relative px-3.5 py-1.5 sm:text-sm font-medium transition focus-visible:outline-1 focus-visible:ring-1 focus-visible:outline-hidden flex gap-2 items-center",
-              activeTab === idx ? "text-foreground!" : " text-foreground/50"
-            )}
-            style={{ WebkitTapHighlightColor: "transparent" }}
-          >
-            {activeTab === idx && (
-              <m.span
-                layoutId="bubble"
-                className="absolute inset-0 z-10 bg-muted/50 mix-blend-screen shadow-inner-shadow border rounded-md"
-                transition={{ type: "spring", bounce: 0.19, duration: 0.4 }}
-              />
-            )}
-            <span className="relative size-full text-center">{tab.label}</span>
-          </button>
-        ))}
-      </div>
+        <div
+          className={cn(
+            "absolute bg-background bottom-0 space-x-1 border-t cursor-pointer px-[3px] py-[3.2px] shadow-inner-shadow w-full grid grid-cols-5 shrink-0",
+          )}
+        >
+          {tabs.map((tab, idx) => (
+            <button
+              key={tab.id}
+              onClick={() => handleTabClick(idx)}
+              disabled={activeTab === idx ? false : disabled}
+              className={cn(
+                "relative px-3.5 py-1.5 sm:text-sm font-medium transition focus-visible:outline-1 focus-visible:ring-1 focus-visible:outline-hidden flex gap-2 items-center",
+                activeTab === idx ? "text-foreground!" : " text-foreground/50",
+              )}
+              style={{ WebkitTapHighlightColor: "transparent" }}
+            >
+              {activeTab === idx && (
+                <m.span
+                  layoutId="bubble"
+                  className="absolute inset-0 z-10 bg-muted/50 mix-blend-screen shadow-inner-shadow border rounded-md"
+                  transition={{ type: "spring", bounce: 0.19, duration: 0.4 }}
+                />
+              )}
+              <span className="relative size-full text-center">
+                {tab.label}
+              </span>
+            </button>
+          ))}
+        </div>
       </LazyMotion>
     </div>
   );

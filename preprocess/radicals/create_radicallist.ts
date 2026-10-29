@@ -62,9 +62,9 @@ fs.createReadStream("./kanji-radicals.csv")
         ? Array.from(
             new Set(
               Array.from(altRaw.replace(/\s+/g, "")).filter(
-                (character) => character && character !== radical
-              )
-            )
+                (character) => character && character !== radical,
+              ),
+            ),
           )
         : [];
 
@@ -98,6 +98,6 @@ fs.createReadStream("./kanji-radicals.csv")
     fs.writeFileSync(
       path.join(__dirname, "../../data/radicallist.json"),
       JSON.stringify(radicallist, null, 2),
-      "utf-8"
+      "utf-8",
     );
   });

@@ -69,7 +69,7 @@ const main = async (): Promise<void> => {
 
   await steps.reduce<Promise<void>>(
     (previousStep, step) => previousStep.then(() => runStep(step)),
-    Promise.resolve()
+    Promise.resolve(),
   );
 
   console.log("\nPreprocess pipeline completed successfully.");

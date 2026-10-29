@@ -4,10 +4,7 @@ import { MobileLayout } from "@/components/mobile-layout";
 import { SearchInput } from "@/components/search-input";
 import { SearchIcon } from "lucide-react";
 import { MOBILE_TAB_KEYS, MOBILE_TAB_LABELS } from "@/lib/kanji-routing";
-import {
-  DESKTOP_BOTTOM_ROW,
-  DESKTOP_TOP_ROW,
-} from "@/lib/graph-layout";
+import { DESKTOP_BOTTOM_ROW, DESKTOP_TOP_ROW } from "@/lib/graph-layout";
 
 export const metadata = {
   title: "The Kanji Map",

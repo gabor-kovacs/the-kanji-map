@@ -31,9 +31,7 @@ import {
 import { GraphLegend } from "./graph-legend";
 import { GraphErrorBoundary } from "./graph-error-boundary";
 import { buildKanjiHref, type MobileTabKey } from "@/lib/kanji-routing";
-import {
-  resolveKanjiId,
-} from "@/lib/kanji-variants";
+import { resolveKanjiId } from "@/lib/kanji-variants";
 
 // d3-force mutates the node and link objects it is given, and each engine
 // re-runs its 60-tick warmup on every data swap, so a shared graphData
@@ -135,9 +133,8 @@ export const Graphs: React.FC<Props> = ({
   };
 
   const [random, setRandom] = React.useState<number>(() => Date.now());
-  const [previewState, setPreviewState] = React.useState<GraphPreviewState | null>(
-    null,
-  );
+  const [previewState, setPreviewState] =
+    React.useState<GraphPreviewState | null>(null);
 
   // One independent copy per engine (see cloneGraphData above).
   const data2D = React.useMemo(
@@ -161,9 +158,7 @@ export const Graphs: React.FC<Props> = ({
   const previewKunyomi = previewNode?.data?.kunyomi
     ?.filter(Boolean)
     ?.join("、");
-  const previewOnyomi = previewNode?.data?.onyomi
-    ?.filter(Boolean)
-    ?.join("、");
+  const previewOnyomi = previewNode?.data?.onyomi?.filter(Boolean)?.join("、");
   const previewMeaning = previewNode?.data?.meaning;
   const previewIsCurrentKanji = previewNode
     ? resolveKanjiId(previewNode.id) === kanjiInfo?.id
@@ -175,7 +170,7 @@ export const Graphs: React.FC<Props> = ({
         tab:
           resolveKanjiId(nodeId) === kanjiInfo?.id
             ? "kanji"
-            : navigationTab ?? null,
+            : (navigationTab ?? null),
       }),
     [kanjiInfo?.id, navigationTab],
   );
@@ -398,7 +393,10 @@ export const Graphs: React.FC<Props> = ({
             )}
           </SheetHeader>
           <SheetFooter className="border-t bg-muted p-4">
-            <Button className="h-12 w-full text-base" onClick={handleOpenPreviewPage}>
+            <Button
+              className="h-12 w-full text-base"
+              onClick={handleOpenPreviewPage}
+            >
               {previewIsCurrentKanji ? "Show kanji" : "Open page"}
             </Button>
           </SheetFooter>

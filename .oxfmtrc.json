@@ -1,0 +1,18 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "printWidth": 80,
+  "sortPackageJson": false,
+  "ignorePatterns": [
+    ".next/**",
+    "out/**",
+    "node_modules/**",
+    "build/**",
+    "coverage/**",
+    "data/**",
+    "preprocess/joyo.ts",
+    "preprocess/jinmeiyo.ts",
+    "**/*.xml",
+    "bun.lock",
+    "package-lock.json"
+  ]
+}

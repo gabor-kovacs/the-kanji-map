@@ -12,7 +12,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ({ params: { id } }) => ({
       url: `${baseUrl}/${encodeURIComponent(id)}`,
       lastModified,
-    })
+    }),
   );
 
   return [

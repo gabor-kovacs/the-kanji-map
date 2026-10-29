@@ -42,9 +42,7 @@ interface KanjiPageContentProps {
   navigableRadicalIds: string[];
 }
 
-export function KanjiPageContent({
-  ...props
-}: KanjiPageContentProps) {
+export function KanjiPageContent({ ...props }: KanjiPageContentProps) {
   return (
     <Suspense fallback={<div className="w-full grow overflow-hidden" />}>
       <KanjiPageContentInner {...props} />
@@ -185,7 +183,10 @@ function DesktopKanjiPage({
           </div>
         </ScrollArea>
         <div className="p-4 border-l">
-          <Radical kanjiInfo={kanjiInfo} navigableRadicalIds={navigableRadicalIds} />
+          <Radical
+            kanjiInfo={kanjiInfo}
+            navigableRadicalIds={navigableRadicalIds}
+          />
         </div>
       </div>
       <div className={`bottom grid ${DESKTOP_BOTTOM_ROW} overflow-hidden`}>
@@ -306,7 +307,10 @@ function MobileKanjiPage({
     ),
     radical: (
       <div className="p-4">
-        <Radical kanjiInfo={kanjiInfo} navigableRadicalIds={navigableRadicalIds} />
+        <Radical
+          kanjiInfo={kanjiInfo}
+          navigableRadicalIds={navigableRadicalIds}
+        />
       </div>
     ),
     examples: (

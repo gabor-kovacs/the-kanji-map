@@ -8,10 +8,7 @@ import { notFound } from "next/navigation";
 import type { GraphData } from "react-force-graph-3d";
 import { canonicalizeKanjiIds, resolveKanjiId } from "./kanji-variants";
 
-import {
-  SearchListEntry,
-  scoreSearchEntry,
-} from "@/lib/search-score";
+import { SearchListEntry, scoreSearchEntry } from "@/lib/search-score";
 
 type CompositionEntry = {
   in: string[];
@@ -100,7 +97,7 @@ const canonicalComposition = (() => {
       });
 
       mergedEntries.set(canonicalId, mergedEntry);
-    }
+    },
   );
 
   return Object.fromEntries(
@@ -110,7 +107,7 @@ const canonicalComposition = (() => {
         in: Array.from(entry.in),
         out: Array.from(entry.out),
       },
-    ])
+    ]),
   ) as Record<string, CompositionEntry>;
 })();
 
@@ -178,7 +175,7 @@ export const getNavigableRadicalIds = () => {
  * @param id input kanji
  */
 export const getKanjiDataLocal: (
-  id: string
+  id: string,
 ) => Promise<KanjiInfo | null> = async (id) => {
   const normalizedId = resolveKanjiId(id.trim());
 
@@ -209,8 +206,7 @@ export const getKanjiDataLocal: (
       ...effectiveData,
       id: normalizedId,
       kanjialiveData:
-        shouldHydrateRadicalFromBase &&
-        baseRadicalData?.kanjialiveData?.radical
+        shouldHydrateRadicalFromBase && baseRadicalData?.kanjialiveData?.radical
           ? {
               ...(effectiveData.kanjialiveData ?? {}),
               radical: baseRadicalData.kanjialiveData.radical,
@@ -342,7 +338,7 @@ export const getGraphData = async (id: string) => {
           id: x,
           data: toGraphNodeData(await getKanjiDataLocal(x)),
         };
-      })
+      }),
     ),
     Promise.all(
       outNodeList.map(async (x): Promise<GraphNode> => {
@@ -350,7 +346,7 @@ export const getGraphData = async (id: string) => {
           id: x,
           data: toGraphNodeData(await getKanjiDataLocal(x)),
         };
-      })
+      }),
     ),
   ]);
 

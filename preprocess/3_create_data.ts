@@ -54,7 +54,7 @@ const sleep = (waitTimeInMs: number): Promise<void> =>
 const withTimeout = async <T>(
   promise: Promise<T>,
   ms: number,
-  context: string
+  context: string,
 ): Promise<T> => {
   let timeoutId: ReturnType<typeof setTimeout> | undefined;
 
@@ -184,7 +184,7 @@ const buildUnsupportedJishoPageData = (id: string) => {
 
 const removeStaleKanjiJsonFiles = (
   dataDir: string,
-  kanjiList: string[]
+  kanjiList: string[],
 ): number => {
   const expectedKanjiIds = new Set(canonicalizeKanjiIds(kanjiList));
   let removedCount = 0;
@@ -210,7 +210,7 @@ const fetchAllKanjialiveData = async (): Promise<Map<string, any>> => {
   const rapidApiKey = process.env.KANJIALIVE_API_KEY?.trim();
   if (!rapidApiKey) {
     throw new Error(
-      "KANJIALIVE_API_KEY is missing. Aborting because Kanjialive is required."
+      "KANJIALIVE_API_KEY is missing. Aborting because Kanjialive is required.",
     );
   }
 
@@ -234,13 +234,13 @@ const fetchAllKanjialiveData = async (): Promise<Map<string, any>> => {
         throw new Error(
           `Kanjialive responded with HTTP 403. Verify your RapidAPI key, active Kanjialive subscription, and monthly quota.${
             responseText ? ` Response: ${responseText}` : ""
-          }`
+          }`,
         );
       }
       throw new Error(
         `Failed to fetch Kanjialive data. HTTP ${res.status} ${res.statusText}${
           responseText ? ` Response: ${responseText}` : ""
-        }`
+        }`,
       );
     }
     const data = await res.json();
@@ -267,14 +267,14 @@ const getJishoDataWithRetry = async (
     maxRetries = DEFAULT_MAX_RETRIES,
     baseDelay = DEFAULT_BASE_DELAY_MS,
     requestTimeoutMs = REQUEST_TIMEOUT_MS,
-  }: RetryOptions = {}
+  }: RetryOptions = {},
 ): Promise<any> => {
   const attemptFetch = async (attempt: number): Promise<any> => {
     try {
       const jishoData = await withTimeout(
         jisho.searchForKanji(id),
         requestTimeoutMs,
-        `Jisho search for ${id}`
+        `Jisho search for ${id}`,
       );
       return jishoData;
     } catch (error: any) {
@@ -293,7 +293,7 @@ const getJishoDataWithRetry = async (
           console.log(
             `⏳ Retryable failure for ${id}. Retrying in ${delay}ms... (attempt ${
               attempt + 1
-            }/${maxRetries})`
+            }/${maxRetries})`,
           );
           await sleep(delay);
           return attemptFetch(attempt + 1);
@@ -302,13 +302,13 @@ const getJishoDataWithRetry = async (
 
       throw new Error(
         `Failed to fetch Jisho data for ${id} after ${attempt + 1} attempts: ${getErrorMessage(
-          error
-        )}`
+          error,
+        )}`,
       );
     }
 
     throw new Error(
-      `Failed to fetch Jisho data for ${id}: retry loop exited unexpectedly`
+      `Failed to fetch Jisho data for ${id}: retry loop exited unexpectedly`,
     );
   };
 
@@ -317,7 +317,7 @@ const getJishoDataWithRetry = async (
 
 const fetchJishoDataOrFallback = async (
   canonicalKanji: string,
-  retryOptions?: RetryOptions
+  retryOptions?: RetryOptions,
 ): Promise<any | null> => {
   try {
     return await getJishoDataWithRetry(canonicalKanji, retryOptions);
@@ -328,7 +328,7 @@ const fetchJishoDataOrFallback = async (
     }
 
     console.log(
-      `⚠ Using fallback page data for ${canonicalKanji} because Jisho does not serve this character`
+      `⚠ Using fallback page data for ${canonicalKanji} because Jisho does not serve this character`,
     );
     return fallbackData;
   }
@@ -338,13 +338,13 @@ const writeKanjiData = async (
   kanji: string,
   kanjialiveMap: Map<string, any>,
   dataDir: string,
-  retryOptions?: RetryOptions
+  retryOptions?: RetryOptions,
 ): Promise<FailedKanji | null> => {
   try {
     const canonicalKanji = resolveKanjiId(kanji);
     const jishoData = await fetchJishoDataOrFallback(
       canonicalKanji,
-      retryOptions
+      retryOptions,
     );
     const kanjialiveData = kanjialiveMap.get(canonicalKanji) || null;
 
@@ -357,7 +357,7 @@ const writeKanjiData = async (
     fs.writeFileSync(
       path.join(dataDir, `${canonicalKanji}.json`),
       JSON.stringify(result, null, 2),
-      "utf-8"
+      "utf-8",
     );
 
     console.log(`✓ Written data for ${canonicalKanji}`);
@@ -373,29 +373,32 @@ const runFailedKanjiRetryPass = async (
   remainingFailures: FailedKanji[],
   kanjialiveMap: Map<string, any>,
   dataDir: string,
-  retryPass: RetryPass
+  retryPass: RetryPass,
 ): Promise<FailedKanji[]> => {
   const retryResults = await Promise.all(
     remainingFailures.map(async ({ id }) =>
-      writeKanjiData(id, kanjialiveMap, dataDir, retryPass)
-    )
+      writeKanjiData(id, kanjialiveMap, dataDir, retryPass),
+    ),
   );
 
   return retryResults.filter(
-    (failure): failure is FailedKanji => failure !== null
+    (failure): failure is FailedKanji => failure !== null,
   );
 };
 
 const retryFailedKanjiWrites = async (
   failedKanji: FailedKanji[],
   kanjialiveMap: Map<string, any>,
-  dataDir: string
+  dataDir: string,
 ): Promise<FailedKanji[]> => {
   const retryPasses = async (
     passIndex: number,
-    remainingFailures: FailedKanji[]
+    remainingFailures: FailedKanji[],
   ): Promise<FailedKanji[]> => {
-    if (remainingFailures.length === 0 || passIndex >= FINAL_RETRY_PASSES.length) {
+    if (
+      remainingFailures.length === 0 ||
+      passIndex >= FINAL_RETRY_PASSES.length
+    ) {
       return remainingFailures;
     }
 
@@ -403,28 +406,25 @@ const retryFailedKanjiWrites = async (
     console.log(
       `\n🔁 Retry pass ${passIndex + 1}/${FINAL_RETRY_PASSES.length} for ${
         remainingFailures.length
-      } kanji (${retryPass.label})...`
+      } kanji (${retryPass.label})...`,
     );
 
     const nextFailures = await runFailedKanjiRetryPass(
       remainingFailures,
       kanjialiveMap,
       dataDir,
-      retryPass
+      retryPass,
     );
 
     console.log(
       `Recovered ${remainingFailures.length - nextFailures.length}/${
         remainingFailures.length
-      } failed kanji on retry pass ${passIndex + 1}`
+      } failed kanji on retry pass ${passIndex + 1}`,
     );
 
-    if (
-      nextFailures.length > 0 &&
-      passIndex < FINAL_RETRY_PASSES.length - 1
-    ) {
+    if (nextFailures.length > 0 && passIndex < FINAL_RETRY_PASSES.length - 1) {
       console.log(
-        `⏸ Cooling down for ${RETRY_PASS_COOLDOWN_MS}ms before the next retry pass...`
+        `⏸ Cooling down for ${RETRY_PASS_COOLDOWN_MS}ms before the next retry pass...`,
       );
       await sleep(RETRY_PASS_COOLDOWN_MS);
     }
@@ -439,7 +439,7 @@ const retryFailedKanjiWrites = async (
 const processBatch = async (
   kanjiList: string[],
   kanjialiveMap: Map<string, any>,
-  batchSize = 15
+  batchSize = 15,
 ): Promise<FailedKanji[]> => {
   const totalBatches = Math.ceil(kanjiList.length / batchSize);
   const dataDir = path.join(__dirname, "..", "data", "kanji");
@@ -463,8 +463,8 @@ const processBatch = async (
     console.log(
       `\n📦 Processing batch ${batchNum}/${totalBatches} (${i + 1}-${Math.min(
         i + batchSize,
-        kanjiList.length
-      )}/${kanjiList.length})`
+        kanjiList.length,
+      )}/${kanjiList.length})`,
     );
 
     await Promise.all(
@@ -473,12 +473,12 @@ const processBatch = async (
         if (failure) {
           failures.push(failure);
         }
-      })
+      }),
     );
 
     if (failures.length > 0) {
       console.log(
-        `⚠ Batch ${batchNum} completed with ${failures.length} total failure(s) so far`
+        `⚠ Batch ${batchNum} completed with ${failures.length} total failure(s) so far`,
       );
     }
 
@@ -497,7 +497,7 @@ const processBatch = async (
   }
 
   const uniqueFailures = Array.from(
-    new Map(failures.map((failure) => [failure.id, failure])).values()
+    new Map(failures.map((failure) => [failure.id, failure])).values(),
   );
 
   return retryFailedKanjiWrites(uniqueFailures, kanjialiveMap, dataDir);
@@ -505,7 +505,7 @@ const processBatch = async (
 
 // Extract the kanji list from searchlist data
 const kanjilist: string[] = canonicalizeKanjiIds(
-  searchlist.map((el: { k: string }) => el.k)
+  searchlist.map((el: { k: string }) => el.k),
 );
 
 // Main function to process the kanji list and save data to files
@@ -523,7 +523,7 @@ const main = async (): Promise<void> => {
   if (failures.length > 0) {
     fs.writeFileSync(failedPath, JSON.stringify(failures, null, 2), "utf-8");
     throw new Error(
-      `Completed with ${failures.length} failed kanji. See data/failed-kanji.json for details.`
+      `Completed with ${failures.length} failed kanji. See data/failed-kanji.json for details.`,
     );
   }
 

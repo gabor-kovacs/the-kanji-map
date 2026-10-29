@@ -73,7 +73,8 @@ export function KanjiStrokeAnimation({ svgContent, strokeCount }: Props) {
   React.useEffect(() => {
     if (!isPlaying || !strokeCount || totalLength === 0) return;
 
-    const incrementPerMillisecond = totalLength / (strokeCount * MILLIS_PER_STROKE);
+    const incrementPerMillisecond =
+      totalLength / (strokeCount * MILLIS_PER_STROKE);
     const maxDeltaMs = (1000 / 60) * 4; // clamp gaps from backgrounded tabs
 
     let frame: number;

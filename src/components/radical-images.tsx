@@ -19,7 +19,7 @@ export const RadicalImages = ({
   React.useEffect(() => {
     const interval = setInterval(
       () => setIndex((state) => (state + 1) % radicalImageArray.length),
-      2500
+      2500,
     );
     return () => {
       clearInterval(interval);
@@ -45,7 +45,7 @@ export const RadicalImages = ({
                   backgroundImage: `url(${image})`,
                 }}
               />
-            ) : null
+            ) : null,
           )}
         </AnimatePresence>
       </LazyMotion>

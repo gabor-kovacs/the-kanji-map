@@ -10,7 +10,9 @@ function GraphErrorFallback(
 ) {
   return (
     <div className="size-full flex flex-col items-center justify-center gap-3 p-4 text-center">
-      <p className="text-sm text-muted-foreground">Failed to render the graph.</p>
+      <p className="text-sm text-muted-foreground">
+        Failed to render the graph.
+      </p>
       {error instanceof Error && (
         <p
           className="max-w-md truncate text-xs text-muted-foreground/70"

@@ -48,7 +48,7 @@ const styleAtom = atom(
       ...current,
       state: { ...current.state, style: newStyle },
     });
-  }
+  },
 );
 
 const rotateAtom = atom(
@@ -59,7 +59,7 @@ const rotateAtom = atom(
       ...current,
       state: { ...current.state, rotate: newRotate },
     });
-  }
+  },
 );
 
 const outLinksAtom = atom(
@@ -70,7 +70,7 @@ const outLinksAtom = atom(
       ...current,
       state: { ...current.state, outLinks: newOutLinks },
     });
-  }
+  },
 );
 
 const particlesAtom = atom(
@@ -81,7 +81,7 @@ const particlesAtom = atom(
       ...current,
       state: { ...current.state, particles: newParticles },
     });
-  }
+  },
 );
 
 // Data of the kanji page currently on screen. Set by the [id] page and

@@ -34,14 +34,16 @@ export const Kanji = ({
 }: Props) => {
   const composition = React.useMemo(
     () =>
-      graphData?.noOutLinks?.links
-        ?.reduce<string[]>((parts: string[], link: any) => {
+      graphData?.noOutLinks?.links?.reduce<string[]>(
+        (parts: string[], link: any) => {
           if (link.target === kanjiInfo?.id) {
             parts.push(String(link.source));
           }
 
           return parts;
-        }, []) ?? [],
+        },
+        [],
+      ) ?? [],
     [graphData?.noOutLinks?.links, kanjiInfo?.id],
   );
 
@@ -106,10 +108,10 @@ export const Kanji = ({
         {composition.length > 0 && (
           <>
             <p>
-              Composition: 
+              Composition:
               {composition.map((comp: string) => (
-                  <span key={comp}>{comp} </span>
-                ))}
+                <span key={comp}>{comp} </span>
+              ))}
             </p>
           </>
         )}

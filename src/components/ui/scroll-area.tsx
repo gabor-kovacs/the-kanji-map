@@ -1,9 +1,9 @@
-"use client"
+"use client";
 
-import * as React from "react"
-import { ScrollArea as ScrollAreaPrimitive } from "@base-ui/react/scroll-area"
+import * as React from "react";
+import { ScrollArea as ScrollAreaPrimitive } from "@base-ui/react/scroll-area";
 
-import { cn } from "@/lib/utils"
+import { cn } from "@/lib/utils";
 
 function ScrollArea({
   className,
@@ -20,7 +20,7 @@ function ScrollArea({
         data-slot="scroll-area-viewport"
         className={cn(
           "size-full rounded-[inherit] transition-[color,box-shadow] outline-none",
-          "focus-visible:ring-[3px] focus-visible:ring-ring/50 focus-visible:outline-1"
+          "focus-visible:ring-[3px] focus-visible:ring-ring/50 focus-visible:outline-1",
         )}
       >
         <ScrollAreaPrimitive.Content className="min-w-full">
@@ -31,7 +31,7 @@ function ScrollArea({
       <ScrollBar orientation="horizontal" />
       <ScrollAreaPrimitive.Corner />
     </ScrollAreaPrimitive.Root>
-  )
+  );
 }
 
 function ScrollBar({
@@ -50,7 +50,7 @@ function ScrollBar({
         "data-[orientation=horizontal]:border-t data-[orientation=horizontal]:border-t-transparent",
         "data-[orientation=vertical]:h-full data-[orientation=vertical]:w-2.5",
         "data-[orientation=vertical]:border-l data-[orientation=vertical]:border-l-transparent",
-        className
+        className,
       )}
       {...props}
     >
@@ -58,11 +58,11 @@ function ScrollBar({
         data-slot="scroll-area-thumb"
         className={cn(
           "relative flex-1 rounded-full bg-muted-foreground/35",
-          "hover:bg-muted-foreground/50"
+          "hover:bg-muted-foreground/50",
         )}
       />
     </ScrollAreaPrimitive.Scrollbar>
-  )
+  );
 }
 
-export { ScrollArea }
+export { ScrollArea };

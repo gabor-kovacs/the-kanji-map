@@ -270,8 +270,9 @@ const About = () => {
             </h1>
             <p>
               The Kanji Map is an open-source project (2017-
-              <span suppressHydrationWarning>{new Date().getFullYear()}</span>) maintained under the MIT license. Feel
-              free to fork, contribute, or share it with other learners.
+              <span suppressHydrationWarning>{new Date().getFullYear()}</span>)
+              maintained under the MIT license. Feel free to fork, contribute,
+              or share it with other learners.
             </p>
           </div>
         </ScrollArea>
