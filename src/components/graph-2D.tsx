@@ -182,7 +182,8 @@ const Graph2D: React.FC<Props> = ({
         typeof link.target === "object" ? link.target.id : link.target;
       const on1 = onyomiById.get(String(source));
       const on2 = onyomiById.get(String(target));
-      const shared = on1 && on2 ? on1.filter((value) => on2.includes(value)) : [];
+      const shared =
+        on1 && on2 ? on1.filter((value) => on2.includes(value)) : [];
       labels.set(link, shared.join(","));
     });
 
@@ -367,127 +368,130 @@ const Graph2D: React.FC<Props> = ({
   return (
     <div ref={containerRef} className="size-full">
       {boundsReady && (
-      <ForceGraph2D
-      ref={fgRef}
-      width={bounds.width}
-      height={bounds.height}
-      backgroundColor={"#00000000"}
-      graphData={data}
-      nodeLabel={(n) => {
-        if (enableNodePreview) {
-          return "";
-        }
+        <ForceGraph2D
+          ref={fgRef}
+          width={bounds.width}
+          height={bounds.height}
+          backgroundColor={"#00000000"}
+          graphData={data}
+          nodeLabel={(n) => {
+            if (enableNodePreview) {
+              return "";
+            }
 
-        const node = n as NodeObjectWithData;
-        if (!node.data) {
-          return "";
-        }
-        const kunyomi = node.data.kunyomi.join(", ");
-        const meaning = node.data.meaning;
-        // Don't show tooltip if both kunyomi and meaning are empty
-        if (!kunyomi && !meaning) {
-          return "";
-        }
-        return `${escapeHtml(kunyomi)}<br/>${escapeHtml(meaning)}`;
-      }}
-      warmupTicks={60}
-      onNodeClick={handleClick}
-      onBackgroundClick={() => {
-        if (enableNodePreview) {
-          onClosePreview?.();
-        }
-      }}
-      nodeCanvasObject={paintNode}
-      nodePointerAreaPaint={(node, color, ctx) => {
-        const label = String(node.id);
-        // const fontSize = 24 / globalScale;
-        const fontSize = 6;
-        ctx.font = `${fontSize}px Sans-Serif`;
-        const textWidth = ctx.measureText(label).width;
-        const bckgDimensions = [textWidth, fontSize].map(
-          (n) => n + fontSize * 0.2,
-        ); // some padding
-        // const bckgDimensions = node.__bckgDimensions;
-        const radius = (bckgDimensions[1] / 2) * 1.5;
+            const node = n as NodeObjectWithData;
+            if (!node.data) {
+              return "";
+            }
+            const kunyomi = node.data.kunyomi.join(", ");
+            const meaning = node.data.meaning;
+            // Don't show tooltip if both kunyomi and meaning are empty
+            if (!kunyomi && !meaning) {
+              return "";
+            }
+            return `${escapeHtml(kunyomi)}<br/>${escapeHtml(meaning)}`;
+          }}
+          warmupTicks={60}
+          onNodeClick={handleClick}
+          onBackgroundClick={() => {
+            if (enableNodePreview) {
+              onClosePreview?.();
+            }
+          }}
+          nodeCanvasObject={paintNode}
+          nodePointerAreaPaint={(node, color, ctx) => {
+            const label = String(node.id);
+            // const fontSize = 24 / globalScale;
+            const fontSize = 6;
+            ctx.font = `${fontSize}px Sans-Serif`;
+            const textWidth = ctx.measureText(label).width;
+            const bckgDimensions = [textWidth, fontSize].map(
+              (n) => n + fontSize * 0.2,
+            ); // some padding
+            // const bckgDimensions = node.__bckgDimensions;
+            const radius = (bckgDimensions[1] / 2) * 1.5;
 
-        ctx.beginPath();
-        node.x &&
-          node.y &&
-          ctx.arc(node.x, node.y, radius, 0, 2 * Math.PI, false);
-        ctx.fillStyle = color;
-        ctx.fill();
-      }}
-      onNodeHover={(node) => handleNodeHover(node)}
-      linkCanvasObject={(link: LinkObject, ctx: CanvasRenderingContext2D) => {
-        if (
-          typeof link.source === "object" &&
-          typeof link.target === "object" &&
-          link.source.x &&
-          link.target.x &&
-          link.source.y &&
-          link.target.y
-        ) {
-          const x = (link.source.x + link.target.x) / 2;
-          const y = (link.source.y + link.target.y) / 2;
+            ctx.beginPath();
+            node.x &&
+              node.y &&
+              ctx.arc(node.x, node.y, radius, 0, 2 * Math.PI, false);
+            ctx.fillStyle = color;
+            ctx.fill();
+          }}
+          onNodeHover={(node) => handleNodeHover(node)}
+          linkCanvasObject={(
+            link: LinkObject,
+            ctx: CanvasRenderingContext2D,
+          ) => {
+            if (
+              typeof link.source === "object" &&
+              typeof link.target === "object" &&
+              link.source.x &&
+              link.target.x &&
+              link.source.y &&
+              link.target.y
+            ) {
+              const x = (link.source.x + link.target.x) / 2;
+              const y = (link.source.y + link.target.y) / 2;
 
-          const label = linkLabelByLink.get(link) ?? "";
+              const label = linkLabelByLink.get(link) ?? "";
 
-          ctx.beginPath();
-          ctx.moveTo(link.source.x, link.source.y);
-          ctx.lineTo(link.target.x, link.target.y);
-          ctx.lineWidth = 0.25;
-          ctx.strokeStyle = foregroundColor;
-          ctx.stroke();
+              ctx.beginPath();
+              ctx.moveTo(link.source.x, link.source.y);
+              ctx.lineTo(link.target.x, link.target.y);
+              ctx.lineWidth = 0.25;
+              ctx.strokeStyle = foregroundColor;
+              ctx.stroke();
 
-          const fontSize = 4;
-          ctx.font = `${fontSize}px Sans-Serif`;
+              const fontSize = 4;
+              ctx.font = `${fontSize}px Sans-Serif`;
 
-          ctx.save();
-          x && y && ctx.translate(x, y);
-          ctx.textAlign = "center";
-          ctx.textBaseline = "middle";
-          ctx.fillStyle = foregroundColor;
-          ctx.fillText(label, 0, 0);
-          ctx.restore();
-        }
-      }}
-      linkDirectionalArrowLength={4}
-      linkDirectionalArrowColor={() =>
-        resolvedTheme === "dark" ? "#ffffff" : "#000000"
-      }
-      linkDirectionalArrowRelPos={({ source, target }) => {
-        if (
-          typeof source === "object" &&
-          typeof target === "object" &&
-          source.x &&
-          target.x &&
-          source.y &&
-          target.y
-        ) {
-          const linkLength = Math.hypot(
-            target.x - source.x,
-            target.y - source.y,
-          );
-          if (!linkLength) {
-            return 0.8;
+              ctx.save();
+              x && y && ctx.translate(x, y);
+              ctx.textAlign = "center";
+              ctx.textBaseline = "middle";
+              ctx.fillStyle = foregroundColor;
+              ctx.fillText(label, 0, 0);
+              ctx.restore();
+            }
+          }}
+          linkDirectionalArrowLength={4}
+          linkDirectionalArrowColor={() =>
+            resolvedTheme === "dark" ? "#ffffff" : "#000000"
           }
+          linkDirectionalArrowRelPos={({ source, target }) => {
+            if (
+              typeof source === "object" &&
+              typeof target === "object" &&
+              source.x &&
+              target.x &&
+              source.y &&
+              target.y
+            ) {
+              const linkLength = Math.hypot(
+                target.x - source.x,
+                target.y - source.y,
+              );
+              if (!linkLength) {
+                return 0.8;
+              }
 
-          // Clamp: while the layout is still settling, short links would
-          // otherwise place the arrow head outside the line
-          return Math.max(0, Math.min(1, (linkLength - 3) / linkLength));
-        } else {
-          return 0.8;
-        }
-      }}
-      // 0 photons when particles are disabled so the canvas can auto-pause
-      // once the layout settles, instead of repainting every frame
-      linkDirectionalParticles={showParticles ? 3 : 0}
-      linkDirectionalParticleSpeed={0.004}
-      linkDirectionalParticleWidth={() => (showParticles ? 2 : 0)}
-      linkDirectionalParticleColor={() =>
-        resolvedTheme === "dark" ? "#ffffff" : "#000000"
-      }
-      />
+              // Clamp: while the layout is still settling, short links would
+              // otherwise place the arrow head outside the line
+              return Math.max(0, Math.min(1, (linkLength - 3) / linkLength));
+            } else {
+              return 0.8;
+            }
+          }}
+          // 0 photons when particles are disabled so the canvas can auto-pause
+          // once the layout settles, instead of repainting every frame
+          linkDirectionalParticles={showParticles ? 3 : 0}
+          linkDirectionalParticleSpeed={0.004}
+          linkDirectionalParticleWidth={() => (showParticles ? 2 : 0)}
+          linkDirectionalParticleColor={() =>
+            resolvedTheme === "dark" ? "#ffffff" : "#000000"
+          }
+        />
       )}
     </div>
   );

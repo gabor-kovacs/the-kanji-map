@@ -31,15 +31,9 @@ import * as React from "react";
 import { Virtuoso } from "react-virtuoso";
 
 import searchlist from "@/../data/searchlist.json";
-import {
-  getCanonicalAliases,
-  resolveKanjiId,
-} from "@/lib/kanji-variants";
+import { getCanonicalAliases, resolveKanjiId } from "@/lib/kanji-variants";
 import { buildKanjiHref } from "@/lib/kanji-routing";
-import {
-  SearchListEntry,
-  scoreSearchEntry,
-} from "@/lib/search-score";
+import { SearchListEntry, scoreSearchEntry } from "@/lib/search-score";
 
 const JLPT_LEVELS = ["N5", "N4", "N3", "N2", "N1"] as const;
 type JLPTLevel = (typeof JLPT_LEVELS)[number];
@@ -382,7 +376,9 @@ function SearchFiltersPopover({
           }
         >
           <Filter
-            className={activeFilterCount > 0 ? "size-3.5 text-primary" : "size-3.5"}
+            className={
+              activeFilterCount > 0 ? "size-3.5 text-primary" : "size-3.5"
+            }
           />
           Filters{activeFilterCount > 0 ? ` (${activeFilterCount})` : ""}
         </PopoverTrigger>
@@ -505,7 +501,9 @@ function SearchFiltersPopover({
         </PopoverContent>
       </Popover>
 
-      <div className="text-xs text-muted-foreground">{filteredOptionsCount} results</div>
+      <div className="text-xs text-muted-foreground">
+        {filteredOptionsCount} results
+      </div>
     </div>
   );
 }
@@ -529,7 +527,9 @@ const SearchResultRow = React.memo(function SearchResultRow({
 }) {
   if (item.type === "group") {
     return (
-      <div className="z-10 p-1 pl-2 text-sm text-foreground/50">{item.value}</div>
+      <div className="z-10 p-1 pl-2 text-sm text-foreground/50">
+        {item.value}
+      </div>
     );
   }
 
@@ -593,7 +593,8 @@ const VirtualizedCommand = ({
   );
 
   const [search, setSearch] = React.useState("");
-  const [filters, setFilters] = React.useState<PersistedFilters>(defaultFilters);
+  const [filters, setFilters] =
+    React.useState<PersistedFilters>(defaultFilters);
   const hasLoadedPersistedFilters = React.useRef(false);
 
   const { groupFilters, jlptFilters, strokeRange } = filters;
@@ -808,7 +809,9 @@ export const SearchInput = ({
             />
           }
         >
-          <span>{selectedOption ? selectedOption.kanji : searchPlaceholder}</span>
+          <span>
+            {selectedOption ? selectedOption.kanji : searchPlaceholder}
+          </span>
           <ChevronsUpDown className="ml-2 size-4 shrink-0 opacity-50" />
         </PopoverTrigger>
         <PopoverContent

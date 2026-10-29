@@ -4,19 +4,34 @@
 
 The Kanji Map is a Japanese language learning tool that shows kanji information and decomposition in graph form.
 
-### Try it online at [thekanjimap.com](https://thekanjimap.netlify.app) 
+### Try it online at [thekanjimap.com](https://thekanjimap.netlify.app)
 
 or [thekanjimap.netlify.app](https://thekanjimap.netlify.app) (backup)
 
 ## What's New
 
-Latest release: **2026-03-23 – Version 6.3.0**
+Latest release: **2026-10-29 – Version 6.3.1**
 
-- Mobile graph exploration is smoother: tapping a node opens a bottom-sheet preview instead of immediately leaving the graph.
-- Mobile tab state is now stored in the URL, so graph-driven navigation preserves the graph tab and back navigation returns to the same view.
+- Updated application and graph dependencies with security fixes.
+- Switched development tooling to TypeScript 7, Oxlint, and Oxfmt.
 
 For full release history, see [CHANGELOG.md](./CHANGELOG.md).
 
+## Development
+
+Use Bun for local development and dependency installation.
+
+```bash
+bun run lint          # Check code with Oxlint
+bun run format        # Format code with Oxfmt
+bun run format:check  # Check formatting without changing files
+bun run typecheck     # Check types with TypeScript 7
+bun run build         # Build the static production site
+```
+
+Oxlint preserves the Next.js lint rules. The Next.js plugin supplies
+`no-location-assign-relative-destination` through Oxlint's experimental
+JavaScript plugin support because Oxlint does not yet include that rule.
 
 ## Kanji information
 
@@ -40,7 +55,6 @@ Displayed kanji information (where available):
 - Kanji, examples and radical information is provided by [JISHO.org](https://jisho.org), sourcing from multiple open source [dictionaries](https://jisho.org/about) and [Kanji alive](https://kanjialive.com/), released under CC 4.0.
 - Graph is created using [react-force-graph](https://github.com/vasturiano/react-force-graph) and [three-spritetext](https://github.com/vasturiano/three-spritetext), released under the MIT license.
 - Handwritten kanji recognition uses [handwriting.js](https://github.com/ChenYuHo/handwriting.js), released under the MIT license.
-
 
 ## Donations
 

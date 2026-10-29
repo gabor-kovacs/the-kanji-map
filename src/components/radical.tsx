@@ -43,19 +43,19 @@ export const Radical: React.FC<Props> = ({
 
   const navigableKanjiIds = React.useMemo(
     () => new Set(navigableRadicalIds.map((id) => resolveKanjiId(id))),
-    [navigableRadicalIds]
+    [navigableRadicalIds],
   );
 
   // Prefer the Jisho radical symbol for lookups because it already uses the
   // base radical form. Fall back to a normalized KanjiAlive radical character.
   const baseRadicalChar = React.useMemo(() => {
     const fromJisho = normalizeRadicalChar(
-      kanjiInfo?.jishoData?.radical?.symbol as string | undefined
+      kanjiInfo?.jishoData?.radical?.symbol as string | undefined,
     );
     const fromKanjiAlive = normalizeRadicalChar(
       (kanjiInfo as any)?.kanjialiveData?.radical?.character as
         | string
-        | undefined
+        | undefined,
     );
     return fromJisho || fromKanjiAlive;
   }, [kanjiInfo, normalizeRadicalChar]);
@@ -70,7 +70,7 @@ export const Radical: React.FC<Props> = ({
       }
       return null;
     },
-    []
+    [],
   );
 
   // (moved below maps) Find base radical entry and its metadata
@@ -198,7 +198,7 @@ export const Radical: React.FC<Props> = ({
 
                 const className = cn(
                   buttonVariants({ variant: "outline", size: "xs" }),
-                  "inline-flex items-center gap-2 h-auto py-0.5"
+                  "inline-flex items-center gap-2 h-auto py-0.5",
                 );
 
                 if (!alt.isNavigable) {
@@ -240,7 +240,9 @@ export const Radical: React.FC<Props> = ({
           </Link>
         )}
         {baseRadicalChar && !hasBaseRadicalPage && (
-          <h1 className="text-6xl leading-tight sm:text-5xl">{baseRadicalChar}</h1>
+          <h1 className="text-6xl leading-tight sm:text-5xl">
+            {baseRadicalChar}
+          </h1>
         )}
       </div>
       <div className="place-self-center size-20 relative overflow-hidden">

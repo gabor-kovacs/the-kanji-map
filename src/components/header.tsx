@@ -26,7 +26,7 @@ export const Header = ({
         "flex items-center justify-between",
         HEADER_HEIGHT,
         "shrink-0 border-b",
-        className
+        className,
       )}
     >
       <div className="flex items-center h-full">
@@ -43,7 +43,7 @@ export const Header = ({
                 href={route === "about" ? "/" : "/about"}
                 className={cn(
                   buttonVariants({ variant: "ghost", size: "icon" }),
-                  route === "about" ? "bg-accent! text-accent-foreground!" : ""
+                  route === "about" ? "bg-accent! text-accent-foreground!" : "",
                 )}
               />
             }

@@ -157,7 +157,7 @@ class HandwritingCanvas {
 
   private getRelativePosition(
     x: number,
-    y: number
+    y: number,
   ): { offsetX: number; offsetY: number } {
     const rect = this.canvas.getBoundingClientRect();
     return {
@@ -169,7 +169,7 @@ class HandwritingCanvas {
   public async recognize(
     trace: number[][][],
     options: any,
-    callback: (result: string[], err: string) => void
+    callback: (result: string[], err: string) => void,
   ) {
     const payload = {
       options: "enable_pre_space",
@@ -191,7 +191,7 @@ class HandwritingCanvas {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(payload),
-        }
+        },
       );
       if (!response.ok) {
         throw new Error(`Error ${response.status}: ${response.statusText}`);
@@ -205,7 +205,7 @@ class HandwritingCanvas {
         if (options.numOfWords) {
           results = results.filter(
             (result: string) =>
-              Array.from(result).length === options.numOfWords
+              Array.from(result).length === options.numOfWords,
           );
         }
         if (options.numOfReturn) {

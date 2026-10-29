@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-29 - Version 6.3.1
+
+- Updated Next.js, React, Three.js, and other dependencies with security fixes and maintenance updates.
+- Removed old dependency overrides and synchronized the Bun and npm lockfiles.
+- Switched to TypeScript 7, Oxlint, and Oxfmt, with commands for linting, formatting, and type checking.
+- Applied consistent source formatting while leaving kanji data and lookup lists unchanged.
+
 ## 2026-03-23 - Version 6.3.0
 
 - Improved mobile graph exploration: tapping a node now opens a bottom-sheet preview instead of immediately navigating away.

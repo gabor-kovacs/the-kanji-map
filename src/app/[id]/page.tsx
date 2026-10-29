@@ -5,7 +5,11 @@ import {
   getNavigableRadicalIds,
   getStrokeAnimation,
 } from "@/lib";
-import { aliasIds, getKanjiVariants, resolveKanjiId } from "@/lib/kanji-variants";
+import {
+  aliasIds,
+  getKanjiVariants,
+  resolveKanjiId,
+} from "@/lib/kanji-variants";
 import { Metadata } from "next";
 import { KanjiPageContent } from "./inner";
 import { Header } from "@/components/header";

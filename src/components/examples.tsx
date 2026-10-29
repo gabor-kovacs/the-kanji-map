@@ -22,10 +22,10 @@ export const Examples = ({ kanjiInfo }: { kanjiInfo: KanjiInfo | null }) => {
           segmentOffset += item.length + kanjiInfo.id.length;
 
           return (
-          <React.Fragment key={key}>
-            {item}
-            {isBoundary && <b>{kanjiInfo?.id}</b>}
-          </React.Fragment>
+            <React.Fragment key={key}>
+              {item}
+              {isBoundary && <b>{kanjiInfo?.id}</b>}
+            </React.Fragment>
           );
         })}
       </span>

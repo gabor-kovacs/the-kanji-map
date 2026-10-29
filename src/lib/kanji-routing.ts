@@ -15,13 +15,15 @@ export type MobileTabKey = (typeof MOBILE_TAB_KEYS)[number];
 // that build a tab list derive id/label from MOBILE_TAB_KEYS plus this
 // map (and special-case the search icon), so the list can't drift from
 // the order the graph layer indexes into.
-export const MOBILE_TAB_LABELS: Record<Exclude<MobileTabKey, "search">, string> =
-  {
-    kanji: "漢字",
-    radical: "部首",
-    examples: "例",
-    graph: "図",
-  };
+export const MOBILE_TAB_LABELS: Record<
+  Exclude<MobileTabKey, "search">,
+  string
+> = {
+  kanji: "漢字",
+  radical: "部首",
+  examples: "例",
+  graph: "図",
+};
 
 export const MOBILE_TAB_PARAM = "tab";
 

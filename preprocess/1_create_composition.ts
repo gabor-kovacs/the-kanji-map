@@ -9,7 +9,7 @@ const rawXML = fs.readFileSync("./kanjivg.xml", "utf-8");
 const radicalsPath = path.join(
   path.dirname(__dirname),
   "data",
-  "radicallist.json"
+  "radicallist.json",
 );
 // Strictly validate radicallist.json contents
 interface RadicalEntry {
@@ -38,7 +38,7 @@ const parseRadicals = (raw: unknown): RadicalEntry[] => {
 };
 
 const radicalsData: RadicalEntry[] = parseRadicals(
-  JSON.parse(fs.readFileSync(radicalsPath, "utf-8"))
+  JSON.parse(fs.readFileSync(radicalsPath, "utf-8")),
 );
 const radicalsSet = new Set<string>();
 const radicalOriginalMap = new Map<string, string>();
@@ -102,7 +102,7 @@ const isIDSNotation = (element: string): boolean => {
 // Recursively extract all elements from a component tree
 const extractAllElements = (
   comp: KanjiComponent,
-  elements: Set<string>
+  elements: Set<string>,
 ): void => {
   if (comp.$?.["kvg:element"]) {
     const element = resolveKanjiId(comp.$["kvg:element"]);
@@ -127,7 +127,7 @@ const getDirectChildren = (comp: KanjiComponent, element: string): string[] => {
   //   no further expansion), mirroring existing behavior.
   const collectDirectChildElements = (
     node: KanjiComponent,
-    acc: string[]
+    acc: string[],
   ): void => {
     const nodeElement = node.$?.["kvg:element"]
       ? resolveKanjiId(node.$["kvg:element"])
@@ -160,7 +160,7 @@ const getDirectChildren = (comp: KanjiComponent, element: string): string[] => {
     // No element on this node (likely a structural wrapper) → descend
     if (node.g) {
       node.g.forEach((grandchild) =>
-        collectDirectChildElements(grandchild, acc)
+        collectDirectChildElements(grandchild, acc),
       );
     }
   };
@@ -236,7 +236,7 @@ parser
     parsedXML.kanjivg.kanji.forEach((entry: KanjiEntry, idx: number) => {
       if (idx % 1000 === 0) {
         console.log(
-          `Processing entry ${idx}/${parsedXML.kanjivg.kanji.length}`
+          `Processing entry ${idx}/${parsedXML.kanjivg.kanji.length}`,
         );
       }
 
@@ -275,7 +275,7 @@ parser
     console.log("Building final database...");
     const db: Record<string, KanjiGraph> = {};
     const includedElements = new Set(
-      Array.from(allElements).filter((element) => !isExcludedElement(element))
+      Array.from(allElements).filter((element) => !isExcludedElement(element)),
     );
 
     includedElements.forEach((element) => {
@@ -303,7 +303,7 @@ parser
     console.log(
       `Final database has ${Object.keys(db).length} elements (filtered from ${
         allElements.size
-      })`
+      })`,
     );
 
     // Ensure the directory exists

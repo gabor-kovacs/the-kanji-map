@@ -181,10 +181,4 @@ function CommandShortcut({
   );
 }
 
-export {
-  Command,
-  CommandInput,
-  CommandList,
-  CommandEmpty,
-  CommandItem,
-};
+export { Command, CommandInput, CommandList, CommandEmpty, CommandItem };

@@ -135,9 +135,7 @@ const captureEngineCamera = (
 ): { pos: THREE.Vector3; target: THREE.Vector3 } | null => {
   try {
     const camera = engine.camera();
-    const controls = engine.controls() as
-      | { target: THREE.Vector3 }
-      | undefined;
+    const controls = engine.controls() as { target: THREE.Vector3 } | undefined;
     if (camera?.position && controls?.target) {
       return {
         pos: camera.position.clone(),
@@ -188,9 +186,7 @@ const fitGraphCamera = (engine: ForceGraphMethods, nodes: NodeObject[]) => {
     return; // no placed nodes yet
   }
   const camera = engine.camera() as THREE.PerspectiveCamera | undefined;
-  const controls = engine.controls() as
-    | { target: THREE.Vector3 }
-    | undefined;
+  const controls = engine.controls() as { target: THREE.Vector3 } | undefined;
   if (!camera || !controls) {
     return;
   }
@@ -292,7 +288,13 @@ const createLinkThreeObject = (
 
 const updateLinkPosition = (
   sprite: THREE.Object3D | SpriteText | null | undefined,
-  { start, end }: { start: { x: number; y: number; z: number }; end: { x: number; y: number; z: number } },
+  {
+    start,
+    end,
+  }: {
+    start: { x: number; y: number; z: number };
+    end: { x: number; y: number; z: number };
+  },
 ) => {
   const middlePos = {
     x: start.x + (end.x - start.x) / 2,
@@ -335,7 +337,8 @@ const Graph3D = ({
   const dataRef = React.useRef<GraphData | null>(null);
 
   const data = React.useMemo<GraphData | null>(
-    () => (showOutLinks ? graphData?.withOutLinks : graphData?.noOutLinks) ?? null,
+    () =>
+      (showOutLinks ? graphData?.withOutLinks : graphData?.noOutLinks) ?? null,
     [graphData?.noOutLinks, graphData?.withOutLinks, showOutLinks],
   );
 
@@ -388,9 +391,8 @@ const Graph3D = ({
     [navigationTab],
   );
 
-  const resumeRotateTimeout = React.useRef<ReturnType<typeof setTimeout>>(
-    undefined,
-  );
+  const resumeRotateTimeout =
+    React.useRef<ReturnType<typeof setTimeout>>(undefined);
   const hasGraph = Boolean(data);
   const [engineKey, setEngineKey] = React.useState(0);
   const lastHealthyAt = React.useRef(0);
@@ -573,10 +575,7 @@ const Graph3D = ({
     controls?.addEventListener?.("start", onControlsStart);
 
     const origRender = renderer.render.bind(renderer);
-    renderer.render = ((
-      scene: THREE.Object3D,
-      camera: THREE.Camera,
-    ) => {
+    renderer.render = ((scene: THREE.Object3D, camera: THREE.Camera) => {
       // A render into a lost context draws nothing, so only a render into a
       // live context counts as the engine being healthy.
       if (!gl.isContextLost()) {
@@ -638,7 +637,11 @@ const Graph3D = ({
     };
 
     return () => {
-      canvas.removeEventListener("webglcontextrestored", onContextRestored, false);
+      canvas.removeEventListener(
+        "webglcontextrestored",
+        onContextRestored,
+        false,
+      );
       canvas.removeEventListener("webglcontextlost", onContextLost, false);
       controls?.removeEventListener?.("start", onControlsStart);
       renderer.render = origRender;
@@ -686,7 +689,11 @@ const Graph3D = ({
     onVisibilityChange();
     document.addEventListener("visibilitychange", onVisibilityChange, false);
     return () => {
-      document.removeEventListener("visibilitychange", onVisibilityChange, false);
+      document.removeEventListener(
+        "visibilitychange",
+        onVisibilityChange,
+        false,
+      );
     };
   }, [hasGraph, engineKey]);
 
@@ -822,7 +829,10 @@ const Graph3D = ({
     };
   }, [data, kanjiInfo.id, triggerFocus, engineKey, boundsReady]);
 
-  const handleHover = (node: NodeObject | null, prevNode: NodeObject | null) => {
+  const handleHover = (
+    node: NodeObject | null,
+    prevNode: NodeObject | null,
+  ) => {
     if (node) {
       void prefetch(buildNodeHref(String(node.id)));
     }
@@ -880,36 +890,36 @@ const Graph3D = ({
   return (
     <div ref={containerRef} className="size-full">
       {boundsReady && (
-      <ForceGraph3D
-      key={engineKey}
-      controlType={"orbit"}
-      width={bounds.width}
-      height={bounds.height}
-      backgroundColor={"#00000000"}
-      graphData={data}
-      linkColor={linkColor}
-      linkDirectionalArrowLength={5}
-      linkDirectionalArrowRelPos={getLinkDirectionalArrowRelPos}
-      linkDirectionalArrowResolution={8}
-      linkDirectionalParticles={showParticles ? 3 : 0}
-      linkDirectionalParticleSpeed={0.004}
-      linkDirectionalParticleWidth={1}
-      linkDirectionalParticleResolution={8}
-      enableNavigationControls={true}
-      showNavInfo={false}
-      ref={fg3DRef}
-      warmupTicks={60}
-      onNodeClick={handleClick}
-      onBackgroundClick={handleBackgroundClick}
-      onNodeHover={handleHover}
-      nodeLabel={nodeLabel}
-      nodeThreeObject={nodeThreeObject}
-      // ADD ONYOMI TO LINKS
-      linkThreeObjectExtend={true}
-      // @ts-ignore
-      linkThreeObject={linkThreeObject}
-      linkPositionUpdate={updateLinkPosition}
-      />
+        <ForceGraph3D
+          key={engineKey}
+          controlType={"orbit"}
+          width={bounds.width}
+          height={bounds.height}
+          backgroundColor={"#00000000"}
+          graphData={data}
+          linkColor={linkColor}
+          linkDirectionalArrowLength={5}
+          linkDirectionalArrowRelPos={getLinkDirectionalArrowRelPos}
+          linkDirectionalArrowResolution={8}
+          linkDirectionalParticles={showParticles ? 3 : 0}
+          linkDirectionalParticleSpeed={0.004}
+          linkDirectionalParticleWidth={1}
+          linkDirectionalParticleResolution={8}
+          enableNavigationControls={true}
+          showNavInfo={false}
+          ref={fg3DRef}
+          warmupTicks={60}
+          onNodeClick={handleClick}
+          onBackgroundClick={handleBackgroundClick}
+          onNodeHover={handleHover}
+          nodeLabel={nodeLabel}
+          nodeThreeObject={nodeThreeObject}
+          // ADD ONYOMI TO LINKS
+          linkThreeObjectExtend={true}
+          // @ts-ignore
+          linkThreeObject={linkThreeObject}
+          linkPositionUpdate={updateLinkPosition}
+        />
       )}
     </div>
   );

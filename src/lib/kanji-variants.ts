@@ -1,13 +1,13 @@
 const aliasToCanonical = {
-  "冷": "冷",
-  "令": "令",
-  "嶺": "嶺",
-  "玲": "玲",
-  "羚": "羚",
-  "聆": "聆",
-  "鈴": "鈴",
-  "零": "零",
-  "領": "領",
+  冷: "冷",
+  令: "令",
+  嶺: "嶺",
+  玲: "玲",
+  羚: "羚",
+  聆: "聆",
+  鈴: "鈴",
+  零: "零",
+  領: "領",
 } as const;
 
 type AliasKanji = keyof typeof aliasToCanonical;
@@ -24,7 +24,7 @@ const canonicalToAliases = aliasIds.reduce(
     acc[canonical].push(alias);
     return acc;
   },
-  {} as Record<string, string[]>
+  {} as Record<string, string[]>,
 );
 
 export const resolveKanjiId = (id: string) =>
